@@ -1,4 +1,4 @@
-# Acme Labs • https://dauwhe.github.io/acme-labs/
+# Acme Labs https://dauwhe.github.io/acme-labs/
 ###a toy digital reading system
 
 Can the web platform provide a great reading experience for publications? Can [web application manifests](https://www.w3.org/TR/appmanifest/) and [service workers](https://w3c.github.io/ServiceWorker/) more easily implement the functionality of dedicated reading apps? Acme Labs is an experimental implementation of a browser-friendly ebook format [BFF](https://github.com/dauwhe/epub31-bff), and aims to explore some of the ideas of [(portable) web publications](https://github.com/w3c/dpub-pwp-ucr). 
