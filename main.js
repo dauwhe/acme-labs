@@ -1,3 +1,22 @@
+// what's the path to the manifest?
+function getParameterByName(name) {
+    var match = RegExp('[?&]' + name + '=([^&]*)')
+                    .exec(window.location.search);
+    return match ?
+        decodeURIComponent(match[1].replace(/\+/g, ' '))
+        : null;
+}
+
+//what folder is the manifest in
+function getPathByName() {
+//this is deeply flawed. fails on MobyDick/folder/manifest.json
+ var path = RegExp('[?]manifest=' + '([^/]*)')
+                    .exec(window.location.search);
+    return path ?
+        decodeURIComponent(path[1].replace(/\+/g, ' '))
+        : null;
+}
+
 var manifest = getParameterByName('manifest');
 var count = 0;
 var NightLink = document.getElementById('night');
@@ -148,42 +167,4 @@ var inside = iframe.contentWindow.document;
 var cur = window.getComputedStyle(inside.getElementsByTagName('body')[0]).fontSize; 
 inside.getElementsByTagName('body')[0].style.fontSize = parseInt(cur) - 2 + "px"}, false)
 
-
-
-
-
-
-
 // night mode!!!!
-
-
-
-
-
-
-
-
-
-
-
-// what's the path to the manifest?
-
-function getParameterByName(name) {
-    var match = RegExp('[?&]' + name + '=([^&]*)')
-                    .exec(window.location.search);
-    return match ?
-        decodeURIComponent(match[1].replace(/\+/g, ' '))
-        : null;
-}
-
-//what folder is the manifest in
-
-function getPathByName() {
-//this is deeply flawed. fails on MobyDick/folder/manifest.json
- var path = RegExp('[?]manifest=' + '([^/]*)')
-                    .exec(window.location.search);
-    return path ?
-        decodeURIComponent(path[1].replace(/\+/g, ' '))
-        : null;
-}
-
