@@ -128,6 +128,7 @@ const urlRE = /\/([^\/]*)\/download-publication/.exec(request.url);
 }
 
 // so let's make an EPUB!
+// this doesn't work yet, just a copy of above as placeholder
 
 function packageEPUB(request) {
   // more hacky url stuff that can probably be done better
