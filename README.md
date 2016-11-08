@@ -64,5 +64,5 @@ Warning: the code is really rough, as I don't know what I'm doing.
 
 ## Acknowledgments
 
-[Jake Archibald](https://jakearchibald.github.io/ebook-demo/publisher-site/readme/) wrote the original service worker and `page.js` files. The manifest format was hashed out with Hadrien Gardeur. All of this is really the work of the entire DPUB/EPUB community. 
+[Jake Archibald](https://jakearchibald.github.io/ebook-demo/publisher-site/readme/) wrote the original service worker (`kroner.js`) and `page.js` files. The manifest format was hashed out with Hadrien Gardeur. All of this is really the work of the entire DPUB/EPUB community. 
 
