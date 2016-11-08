@@ -60,3 +60,7 @@ The service worker caches files listed in the manifest.
 
 Warning: the code is really rough, as I don't know what I'm doing.
 
+## Acknowledgments
+
+Jake Archibald wrote the original service worker and page.js files. The manifest format was hashed out with Hadrien Gardeur. All of this is really the work of the entire DPUB/EPUB community. 
+
