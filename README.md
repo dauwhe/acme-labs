@@ -1,6 +1,8 @@
 # acme-labs
 prototype digital reading system
 
+See it in action at https://dauwhe.github.io/acme-labs/
+
 This is an experiment to see how web application manifests and service workers might be used for digital books. It's essentially an implementation of BFF. 
 
 
