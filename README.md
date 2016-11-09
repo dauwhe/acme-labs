@@ -59,6 +59,21 @@ The service worker caches files listed in the manifest when the "save" button is
 
 Warning: the code is really rough, as I don't know what I'm doing.
 
+## Usage
+
+Use `python -m SimpleHTTPServer` to host the repo at `http://localhost:8000/`
+
+## Contributing
+
+Currently, the repository is a mix of ES5 and ES6/ES2015. We are using [eslint](http://eslint.org/) and the
+[AirBnB JavaScript code styles](https://github.com/airbnb/javascript) to keep things tidy.
+`kroner.js` is the one ES6/ES2015 file we have atm, so to lint it do the following:
+
+```
+$ npm i -g eslint eslint-config-airbnb # once to install things
+$ eslint kroner.js # prior to committing changes
+```
+
 ## Acknowledgments
 
 [Jake Archibald](https://jakearchibald.github.io/ebook-demo/publisher-site/readme/) wrote the original service worker (`kroner.js`) and `page.js` files. The manifest format was hashed out with Hadrien Gardeur. All of this is really the work of the entire DPUB/EPUB community. 
