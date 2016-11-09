@@ -19,6 +19,8 @@ var manifest = getParameterByName('manifest');
 var count = 0;
 var NightLink = document.getElementById('night');
 var iframe = document.getElementById('pub')
+// at start, prev button should be disabled
+document.getElementById("decrement").disabled = true;
 
 // the manifest knows all
 var content = $.getJSON(manifest)
@@ -42,6 +44,8 @@ var content = $.getJSON(manifest)
     $('#increment').click(function (e) {
       e.preventDefault();
       count++;
+    // remember how many spine items we have
+      var length = Object.keys(data.spine).length;
       // well, if we just get an image, we need to wrap it in HTML so we can style it
       if (data.spine[count].type == 'image/jpeg') {
         var html = '<html><body style="margin: 0 auto; text-align: center;"><img style="max-height: 100vh;" src="'
@@ -52,7 +56,19 @@ var content = $.getJSON(manifest)
         iframe.contentWindow.document.close();
       } else {
         iframe.setAttribute('src', getPathByName() + '/' + data.spine[count].href);
-      }
+      };
+ 
+      // we don't want the next button to work if there's no next
+      if (count == (length -1)) {
+          document.getElementById("increment").disabled = true;
+              } else {
+                  document.getElementById("increment").disabled = false;
+            };
+            
+      // we need to re-enable the previous button if we're not at the first item
+            if (count != 0) {
+                  document.getElementById("decrement").disabled = false;
+            };
     });
 
     // on clicking "previous" go to previous spine item
@@ -69,6 +85,15 @@ var content = $.getJSON(manifest)
       } else {
         iframe.setAttribute('src', getPathByName() + '/' + data.spine[count].href);
       }
+      
+      // need to enable previous button if not at end
+       if (count != (length -1)) {
+                  document.getElementById("increment").disabled = false;
+            };
+       // disable previous button if at start     
+            if (count === 0) {
+                  document.getElementById("decrement").disabled = true;
+            };
     });
 
     // link to table of contents
