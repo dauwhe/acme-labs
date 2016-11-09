@@ -46,7 +46,7 @@ function packagePublication(request) {
     .has(publicationName)
     .then(isCached => (isCached ? caches.open(publicationName).then(c => c.match.bind(c)) : fetch))
     .then(fetchingMethod =>
-      fetchingMethod(`${publicationBaseURL}${publicationName}/manifest.json`)
+      fetchingMethod(`${publicationName}/manifest.json`)
         .then(r => r.json())
         .then((data) => {
           const zip = new JSZip();
@@ -63,7 +63,7 @@ function packagePublication(request) {
           return Promise.all(data.resources
             .map(el => el.href)
             .map(path =>
-              fetchingMethod(`${publicationBaseURL}${publicationName}/${path}`)
+              fetchingMethod(`${publicationName}/${path}`)
                 .then((response) => {
                   if (!path || path.endsWith('/')) path += 'index.html';
                   types[path] = response.headers.get('Content-Type');
@@ -77,7 +77,7 @@ function packagePublication(request) {
           .then(data.spine
             .map(el => el.href)
             .map(path =>
-              fetchingMethod(`${publicationBaseURL}${publicationName}/${path}`)
+              fetchingMethod(`${publicationName}/${path}`)
                 .then(response => response.arrayBuffer())
                 .then((arrayBuffer) => {
                   zip.file(path, arrayBuffer, { createFolders: true });
@@ -108,6 +108,5 @@ function packagePublication(request) {
         })
   );
 }
-
 
 
