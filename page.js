@@ -3,8 +3,6 @@
   var thisScriptURL = document.currentScript.src;
   // some nasty url hacking that should probably be done some other way
   var urlRE = /^.*acme\/([^\/]+)\//.exec(location.href);
-  var publicationBaseURL = location.origin + '/epub-zero/acme/';
-  // var publicationBaseURL = '/' + getPathByName() + '/';
 
   //what folder is the manifest in
   function getPathByName() {
@@ -36,9 +34,9 @@
     caches.has(publicationName).then(function(isCached) {
       ui.innerHTML =
         '<span><label class="status"><input type="checkbox" class="work-offline">Save</label></span>'
-        + '<form method="get" action="' + publicationBaseURL + publicationName
+        + '<form method="get" action="' + publicationName
         + '/download-publication"><button type="submit">Download</button></form>';
-        //      '<span class="download"><a href="' + publicationBaseURL + publicationName + '/download-publication">Download</a></span>';
+        //      '<span class="download"><a href="' + publicationName + '/download-publication">Download</a></span>';
 
       var status = ui.querySelector('.status');
       var checkbox = ui.querySelector('.work-offline');
@@ -50,7 +48,7 @@
           status.textContent = "Removed";
         } else {
          status.textContent = "Offlinifying";
-          fetch(publicationBaseURL + publicationName + '/manifest.json', { mode: 'no-cors' })
+          fetch(publicationName + '/manifest.json', { mode: 'no-cors' })
             .then(function(response) {
               return response.json();
             })
@@ -60,7 +58,7 @@
             })
             .then(function(data) {
               data.push('manifest.json');
-              publicationURL = publicationBaseURL + publicationName;
+              publicationURL = publicationName;
 
               return caches.open(publicationName).then(function(cache) {
                 return cache.addAll(data.map(function(url) {
