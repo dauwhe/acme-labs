@@ -2,8 +2,7 @@
   if (!navigator.serviceWorker) return;
   var thisScriptURL = document.currentScript.src;
   // some nasty url hacking that should probably be done some other way
-  var urlRE = /^.*acme\/([^\/]+)\//.exec(location.href);
-
+ 
   //what folder is the manifest in
   function getPathByName() {
     // this is deeply flawed. fails on MobyDick/folder/manifest.json
@@ -17,6 +16,10 @@
   var publicationName = getPathByName();
   var ui = document.getElementById('page-controls');
   var uiEpub = document.getElementById('epub-controls');
+  var baseURL = RegExp('(.*?)/page.js')
+                 .exec(thisScriptURL)[1];
+  var appFolder = 'acme-labs/';
+  
 
   // navigator.serviceWorker.register(new URL('sw.js', thisScriptURL));
   navigator.serviceWorker.register('kroner.js');
@@ -62,7 +65,7 @@
 
               return caches.open(publicationName).then(function(cache) {
                 return cache.addAll(data.map(function(url) {
-                  return new URL(publicationName + '/' + url, publicationURL);
+                  return new URL(appFolder + publicationName + '/' + url, baseURL);
                 }));
               });
             })
