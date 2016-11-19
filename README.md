@@ -53,7 +53,7 @@ Each publication should contain an html file which could serve as a starting poi
 
 The reading system is the `main.html` page. Book content is displayed in an iframe. Navigation between files is based on reading the manifest.
 
-The service worker caches files listed in the manifest when the "save" button is clicked. The "download" button downloads a zip of the publication. 
+The service worker caches files listed in the manifest when the "save" button is clicked. The "zip" button downloads a zip of the publication. The highly experimental "package" button downloads a package based on the W3C TAG [Packaging on the Web](https://w3ctag.github.io/packaging-on-the-web/) draft, as extended by [Dmitry Titov](https://github.com/dimich-g/webpackage/blob/master/README.md). 
 
 ## Warning
 
