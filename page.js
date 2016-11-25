@@ -39,7 +39,10 @@
         '<span><label class="status"><input type="checkbox" class="work-offline">Save</label></span>'
         + '<form method="get" action="' + publicationName
         + '/download-publication"><button type="submit">Zip</button></form>' + '<form method="get" action="' + publicationName
-        + '/download-package"><button type="submit">Package</button></form>';
+        + '/download-package"><button type="submit">Package</button></form>'  + '<form method="get" action="' + publicationName
+        + '/download-EPUB"><button type="submit">EPUB</button></form>';
+        
+
         //      '<span class="download"><a href="' + publicationName + '/download-publication">Download</a></span>';
 
       var status = ui.querySelector('.status');

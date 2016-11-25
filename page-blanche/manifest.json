@@ -1,0 +1,35 @@
+
+		{
+	"name": "Page Blanche",
+	"date": "2012-01-18",
+	"publisher": "éditions Delcourt",
+	"creator": "Boulet",
+
+      "resources": [
+	  { "href": "images/cover.jpg", "properties": "cover-image", "type": "image/jpeg"},
+	  { "href": "images/PageBlanche_Page_001.jpg", "type": "image/jpeg" },
+	  { "href": "images/PageBlanche_Page_002.jpg", "type": "image/jpeg" },
+	  { "href": "images/PageBlanche_Page_003.jpg", "type": "image/jpeg" },
+	  { "href": "images/PageBlanche_Page_004.jpg", "type": "image/jpeg" },
+	  { "href": "images/PageBlanche_Page_005.jpg", "type": "image/jpeg" },
+	  { "href": "images/PageBlanche_Page_006.jpg", "type": "image/jpeg" },
+	  { "href": "images/PageBlanche_Page_007.jpg", "type": "image/jpeg" },
+	  { "href": "images/PageBlanche_Page_008.jpg", "type": "image/jpeg" },
+	  { "href": "index.html", "type": "text/html", "properties": "nav"},
+	  { "href": "style/style.css", "type": "text/css" }
+
+],
+"spine": [
+      { "href": "html/cover.html", "type": "text/html" },
+      { "href": "html/PageBlanche_Page_000.html", "type": "text/html" },
+      { "href": "html/PageBlanche_Page_001.html", "type": "text/html" },
+      { "href": "html/PageBlanche_Page_002.html", "type": "text/html" },
+      { "href": "html/PageBlanche_Page_003.html", "type": "text/html" },
+      { "href": "html/PageBlanche_Page_004.html", "type": "text/html" },
+      { "href": "html/PageBlanche_Page_005.html", "type": "text/html" },
+      { "href": "html/PageBlanche_Page_006.html", "type": "text/html" },
+      { "href": "html/PageBlanche_Page_007.html", "type": "text/html" },
+      { "href": "html/PageBlanche_Page_008.html", "type": "text/html" }
+      ]
+      
+      }

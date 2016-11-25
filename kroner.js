@@ -43,6 +43,10 @@ self.addEventListener('fetch', (event) => {
   } else if (sameOrigin && url.pathname.endsWith('/download-package')) {
     event.respondWith(webPackage(event.request));
     return;
+  }  
+    else if (sameOrigin && url.pathname.endsWith('/download-EPUB')) {
+    event.respondWith(epubPackage(event.request));
+    return;
   }
 
   event.respondWith(
@@ -56,7 +60,6 @@ function packagePublication(request) {
   // more hacky url stuff that can probably be done better
   const urlRE = /\/([^\/]*)\/download-publication/.exec(request.url);
 
-  const publicationBaseURL = `${location.origin}/epub-zero/acme/`;
   const publicationName = urlRE[1];
 
   return caches
@@ -132,16 +135,15 @@ function packagePublication(request) {
 function webPackage(request) {
 const urlRE = /\/([^\/]*)\/download-package/.exec(request.url);
 const publicationName = urlRE[1];
-
-
 var id = generateUUID();
-
 var indexID = generateUUID();
 
 // 2D array for indexing data for package
 var index = [];
+var contents = "";
 
-var contents = `Content-Type: application/package
+// need header in a separate variable so we can digitally sign header + index
+var packageHeader = `Content-Type: application/package
 Content-Location: https://dauwhe.github.io/acme-labs/` +
 publicationName + `.pod
 ` + `Link: </manifest.json>; rel=describedby
@@ -156,12 +158,9 @@ return caches
       fetchingMethod(`${publicationName}/manifest.json`)
         .then(r => r.json())
         .then((data) => {
-        
-        
-
+    
           const manifestContent = JSON.stringify(data);
-          
-          
+  
           contents += `--` + id + `
 Content-Location: manifest.json
 Content-type: application/json
@@ -182,7 +181,6 @@ Content-type: application/json
                 .then((arrayBuffer) => {
                 var decoder = new TextDecoder();
 
-
 // I want the href and type values of the manifest, but I don't know how
 // to get them. What's the current index of the map?
                 
@@ -194,8 +192,6 @@ Content-Type: ` + data.spine[0].type + `
 
 ` + decoder.decode(arrayBuffer);
 
-
-
 // so hashing...
 // do i have to calculate the hash of each arrayBuffer, and remember it?
 // and then build the content index at the end of the package file
@@ -205,13 +201,10 @@ var shaObj = new jsSHA("SHA-384", "TEXT");
 shaObj.update(decoder.decode(arrayBuffer));
 var hash = "sha384-" + shaObj.getHash("HEX");
 
-
 //saving all this useful information for the index later
 index.push([path, hash, arrayBuffer.byteLength]);
 
-
-// end hashing
-                 
+// end hashing             
                 })
             )
           )
@@ -221,7 +214,7 @@ index.push([path, hash, arrayBuffer.byteLength]);
 // OK. We're doing the content index.
 // First the separator, ID, and content type.
           
-          contents += "--" +  id + `
+           var packageIndex = "--" +  id + `
 Content-Location: cid:` + indexID + `
 Content-Type: application/index
 
@@ -231,12 +224,15 @@ Content-Type: application/index
 // we have no idea how to calculate the offset.
           
         for (var i = 0; i < index.length; i++) { 
-        contents += "/" + index[i][0] + " " + index[i][1] + " " + index[i][2] + " offset tk" + `
+        packageIndex += "/" + index[i][0] + " " + index[i][1] + " " + index[i][2] + " offset tk" + `
 `
         }
-          
-  // write text file in w3c packaging format       
-         var textFile = new Blob([contents], {type: 'text/plain'});
+        
+        
+  // write everything to file
+  
+  finalContents = packageHeader + contents + packageIndex;   
+         var textFile = new Blob([finalContents], {type: 'text/plain'});
             return new Response(textFile, {
               headers: {
                 'Content-Disposition': `attachment; filename="${publicationName}.pod"`
@@ -245,7 +241,135 @@ Content-Type: application/index
           });
         })
   );
+};
 
+//epub
+
+function epubPackage(request) {
+  // more hacky url stuff that can probably be done better
+  const urlRE = /\/([^\/]*)\/download-EPUB/.exec(request.url);
+
+  const publicationName = urlRE[1];
+  
+  // array to hold file info
+  var packageData = [];
+  var spineData = [];
+
+  return caches
+    .has(publicationName)
+    .then(isCached => (isCached ? caches.open(publicationName).then(c => c.match.bind(c)) : fetch))
+    .then(fetchingMethod =>
+      fetchingMethod(`${publicationName}/manifest.json`)
+        .then(r => r.json())
+        .then((data) => {
+        
+        var bookTitle = data.name;
+        
+          var zip = new JSZip();
+                    zip.file("mimetype", "application/epub+zip");
+
+        
+            
+          return Promise.all(data.resources
+            .map(path =>
+              fetchingMethod(`${publicationName}/${path.href}`)
+            .then(response => response.arrayBuffer())
+                .then((arrayBuffer) => {
+                  var spineId = path.href.replace(/\/|\./g, '-');
+
+                 packageData.push([path.href, path.type, 'manifest', spineId, path.properties]);
+                
+                  zip.file('OPS/' + path.href, arrayBuffer, { createFolders: true });
+                })
+            )
+          )
+          .then(data.spine
+            .map(path =>
+              fetchingMethod(`${publicationName}/${path.href}`)
+                .then(response => response.arrayBuffer())
+                .then((arrayBuffer) => {
+                    var spineId = path.href.replace(/\/|\./g, '-');
+                    packageData.push([path.href, path.type, 'spine', spineId, path.properties]);
+                    zip.file('OPS/' + path.href, arrayBuffer, { createFolders: true });
+                })
+            )
+          )
+          .then(() => {
+          
+          // container.xml
+          var containerFile = `<?xml version="1.0" encoding="UTF-8" ?>
+<container version="1.0" xmlns="urn:oasis:names:tc:opendocument:xmlns:container">
+   <rootfiles>
+      <rootfile full-path="OPS/package.opf" media-type="application/oebps-package+xml"/>
+   </rootfiles>
+</container>`
+            zip.file('META-INF/container.xml', containerFile, { createFolders: true });
+            
+      var today = new Date();      
+            // make the package file
+            var opfFile = '<package xmlns="http://www.idpf.org/2007/opf" version="3.0" xml:lang="en" unique-identifier="pub-id"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/"><dc:title>' + bookTitle + '</dc:title><dc:identifier id="pub-id">idtk</dc:identifier><dc:language>en-US</dc:language><meta property="dcterms:modified">' + today.toISOString() + '</meta></metadata><manifest>';
+            
+             for (var i = 0; i < packageData.length; i++) { 
+        opfFile += "<item href='" + packageData[i][0] + "' media-type='" + packageData[i][1] + "' id='" + packageData[i][3] + "'";
+        // if there are properties we need to add them to item element
+        if (packageData[i][4]) {
+        opfFile += " properties='" + packageData[i][4] + "'";
+        };
+        
+        opfFile += "/>"
+        };
+        
+opfFile += '</manifest>';
+            
+                opfFile += "<spine>";
+                
+                 for (var i = 0; i < packageData.length; i++) { 
+                 
+                  if (packageData[i][2] === 'spine') {
+        opfFile += "<itemref idref='" + packageData[i][3] + "'/>"
+        
+        }
+        };
+        
+        opfFile += "</spine></package>";
+        console.log(opfFile);
+        
+        zip.file('OPS/package.opf', opfFile)
+
+      /*      const zipArray = new Uint8Array(zip.generate({
+              type: 'uint8array',
+              compression: 'STORE'
+            }));
+            */
+       //     const resultArray = new Uint8Array(zipArray.length + 1);
+
+            // don't 'encode' the archive
+        //    for (let i = 0; i < zipArray.length; i++) {
+        //     resultArray[i + 1] = zipArray[i + 1];
+        //    }
+        
+        
+     const zipArray = new Uint8Array(zip.generate({
+     type:"uint8array",
+     compression: 'STORE'}));
+
+
+            return new Response(zipArray.buffer, {
+              headers: {
+                'Content-Disposition': `attachment; filename="${publicationName}.epub"`
+              }
+            });
+            
+            
+            
+          });
+        })
+  );
 }
+
+
+
+
+
 
 
