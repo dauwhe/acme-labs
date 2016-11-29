@@ -15,7 +15,7 @@
 	  { "href": "images/PageBlanche_Page_007.jpg", "type": "image/jpeg" },
 	  { "href": "images/PageBlanche_Page_008.jpg", "type": "image/jpeg" },
 	  { "href": "index.html", "type": "text/html", "properties": "nav"},
-	  { "href": "style/style.css", "type": "text/css" }
+	  { "href": "css/style.css", "type": "text/css" }
 ],
 "spine": [
       { "href": "html/cover.html", "type": "text/html" },
