@@ -27,6 +27,8 @@ var content = $.getJSON(manifest)
   .done(function(data) {
     // set title of page to book title
     document.title = data.name;
+    
+    
 
     // display first "spine" item in iframe by default
     if (data.spine[0].type == 'image/jpeg') {
@@ -37,8 +39,57 @@ var content = $.getJSON(manifest)
       iframe.contentWindow.document.write(html);
       iframe.contentWindow.document.close();
     } else {
-      iframe.setAttribute('src', getPathByName() + '/' + data.spine[0].href);
+     
+      
+      
+      
+          iframe.setAttribute('src', getPathByName() + '/' + data.spine[0].href);
+      
+      
+
+    
     }
+    
+    
+     $("#pub").load(function(){
+
+var viewport = $("#pub").contents().find('meta[name=viewport]').attr("content");
+
+if ( viewport ) {
+
+var reWidth = /width=(\d+),/;
+var reHeight = /height=(\d+)/;
+
+var width = viewport.match(reWidth, '$1')[1];
+
+var height = viewport.match(reHeight, '$1')[1];
+
+var iframeWidth = 600;
+var iframeHeight = 750;
+
+var horizonalScale = iframeWidth/width;
+
+console.log(horizonalScale);
+
+
+iframe.setAttribute('style', 'transform: scale(' + horizonalScale + '); transform-origin: 50% 0; width: ' + width + 'px; height: ' + height + 'px;'  );
+
+} else {}
+
+
+
+/* 
+
+iframe size: 600 x 750
+so we need to scale the iframe content. If iframe is 600 wide, and viewport from FXL is 1200, scale 50%
+1200, 1577
+
+750/1577 = 48%
+
+
+*/
+    });
+
 
     // on clicking "next" go to next spine item
     $('#increment').click(function (e) {
@@ -56,6 +107,9 @@ var content = $.getJSON(manifest)
         iframe.contentWindow.document.close();
       } else {
         iframe.setAttribute('src', getPathByName() + '/' + data.spine[count].href);
+        
+        
+       
       };
  
       // we don't want the next button to work if there's no next
@@ -125,6 +179,9 @@ var content = $.getJSON(manifest)
 
 NightLink.addEventListener('click', function(){
   var inside = iframe.contentWindow.document;
+  
+  
+ 
 
   //NightLink.addEventListener('click', function() {
 
@@ -168,3 +225,6 @@ fontMinuslink.addEventListener('click', function() {
 }, false);
 
 // night mode!!!!
+
+
+    
