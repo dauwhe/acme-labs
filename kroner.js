@@ -307,7 +307,7 @@ function epubPackage(request) {
             
       var today = new Date();      
             // make the package file
-            var opfFile = '<package xmlns="http://www.idpf.org/2007/opf" version="3.0" xml:lang="en" unique-identifier="pub-id"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/"><dc:title>' + bookTitle + '</dc:title><dc:identifier id="pub-id">idtk</dc:identifier><dc:language>en-US</dc:language><meta property="dcterms:modified">' + today.toISOString() + '</meta></metadata><manifest>';
+            var opfFile = '<package xmlns="http://www.idpf.org/2007/opf" version="3.0" xml:lang="en" unique-identifier="pub-id">\n<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">\n<dc:title>' + bookTitle + '</dc:title>\n<dc:identifier id="pub-id">idtk</dc:identifier>\n<dc:language>en-US</dc:language>\n<meta property="dcterms:modified">' + today.toISOString() + '</meta>\n</metadata>\n<manifest>\n';
             
              for (var i = 0; i < packageData.length; i++) { 
         opfFile += "<item href='" + packageData[i][0] + "' media-type='" + packageData[i][1] + "' id='" + packageData[i][3] + "'";
@@ -316,22 +316,22 @@ function epubPackage(request) {
         opfFile += " properties='" + packageData[i][4] + "'";
         };
         
-        opfFile += "/>"
+        opfFile += "/>\n"
         };
         
-opfFile += '</manifest>';
+opfFile += '</manifest>\n';
             
-                opfFile += "<spine>";
+                opfFile += "<spine>\n";
                 
                  for (var i = 0; i < packageData.length; i++) { 
                  
                   if (packageData[i][2] === 'spine') {
-        opfFile += "<itemref idref='" + packageData[i][3] + "'/>"
+        opfFile += "<itemref idref='" + packageData[i][3] + "'/>\n"
         
         }
         };
         
-        opfFile += "</spine></package>";
+        opfFile += "</spine>\n</package>";
         console.log(opfFile);
         
         zip.file('OPS/package.opf', opfFile)
@@ -359,9 +359,6 @@ opfFile += '</manifest>';
                 'Content-Disposition': `attachment; filename="${publicationName}.epub"`
               }
             });
-            
-            
-            
           });
         })
   );

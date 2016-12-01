@@ -15,6 +15,14 @@ function getPathByName() {
     : null;
 }
 
+
+// will it help if there's a link to the manifest in the hosting page?
+var manifestLink = document.createElement('link');
+manifestLink.rel = 'manifest';
+manifestLink.href = getParameterByName('manifest');
+document.getElementsByTagName('head')[0].appendChild(manifestLink);
+
+
 var manifest = getParameterByName('manifest');
 var count = 0;
 var NightLink = document.getElementById('night');
@@ -50,9 +58,9 @@ var content = $.getJSON(manifest)
     
     }
     
-    
+    // so we're trying to deal with fixed layout, by setting the iframe to a nice size
      $("#pub").load(function(){
-
+     
 var viewport = $("#pub").contents().find('meta[name=viewport]').attr("content");
 
 if ( viewport ) {
@@ -64,15 +72,21 @@ var width = viewport.match(reWidth, '$1')[1];
 
 var height = viewport.match(reHeight, '$1')[1];
 
-var iframeWidth = 600;
-var iframeHeight = 750;
 
-var horizonalScale = iframeWidth/width;
+var intFrameWidth = window.innerWidth;
+
+
+
+var horizonalScale = intFrameWidth/width;
+
+var actualWidth = width * horizonalScale;
+
+var actualHeight = height * horizonalScale;
 
 console.log(horizonalScale);
 
 
-iframe.setAttribute('style', 'transform: scale(' + horizonalScale + '); transform-origin: 50% 0; width: ' + width + 'px; height: ' + height + 'px;'  );
+iframe.setAttribute('style', 'transform: scale(' + horizonalScale + '); transform-origin: 0 0; width: ' + width + 'px; height: ' + height + 'px;'  );
 
 } else {}
 

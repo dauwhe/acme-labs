@@ -2,11 +2,11 @@
   "name": "Orlando",
   "short_name": "Orlando",
   "icons": [{
-    "src": "apple-touch-icon.png",
-    "sizes": "64x64",
+    "src": "images/orlando.png",
+    "sizes": "144x144",
     "type": "image/png"
   }],
-  "start_url": "html/c001.html",
+  "start_url": "../main.html?manifest=Orlando/manifest.json",
   "display": "fullscreen",
 
   "@context": {

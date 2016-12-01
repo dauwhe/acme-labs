@@ -3,6 +3,7 @@
 "date": "2012-01-18",
 "publisher": "éditions Delcourt",
 "creator": "Boulet • Pénélope Bagieu",
+"start_url": "../main.html?manifest=page-blanche/manifest.json",
 
 "resources": [
 	  { "href": "images/cover.jpg", "properties": "cover-image", "type": "image/jpeg"},
