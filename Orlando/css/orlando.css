@@ -1,4 +1,8 @@
-body {
+
+
+
+@supports (overflow: -webkit-paged-x) or (overflow: paged-x) {
+   body {
 overflow: paged-x;
 overflow: -webkit-paged-x;
 overflow: -o-paged-x;
@@ -9,6 +13,7 @@ overflow: -o-paged-x;
 scroll-snap-type: mandatory;
 scroll-snap-points-x: repeat(100%);
 box-decoration-break: clone;
+}
 }
 
 
