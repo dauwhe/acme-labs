@@ -23,6 +23,8 @@ self.addEventListener('install', (event) => {
     caches.open('pub-static-v1').then(c => c.addAll([
       './',
       'main.html',
+      'main.js',
+      'main.css',
       'page.js',
       'jszip.js'
     ]))

@@ -1,12 +1,11 @@
 
 
 
-@supports (overflow: -webkit-paged-x) {
+@supports (overflow: -webkit-paged-x) or (overflow: paged-x) {
    body {
 overflow: -webkit-paged-x;
-color: red;
-
-*/
+overflow: -o-paged-x;
+overflow: paged-x;
 -webkit-scroll-snap-type: mandatory;
 -webkit-scroll-snap-points-x: repeat(100%);
 -webkit-box-decoration-break: clone;
@@ -14,7 +13,7 @@ color: red;
 scroll-snap-type: mandatory;
 scroll-snap-points-x: repeat(100%);
 box-decoration-break: clone;
-*/
+
 }
 }
 

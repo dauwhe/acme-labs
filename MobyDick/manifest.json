@@ -3,7 +3,7 @@
   "short_name": "Moby-Dick",
   "icons": [{
     "src": "apple-touch-icon.png",
-    "sizes": "64x64",
+    "sizes": "144x144",
     "type": "image/png"
   }],
   "start_url": "html/c001.html",
