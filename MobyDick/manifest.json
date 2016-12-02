@@ -6,7 +6,7 @@
     "sizes": "144x144",
     "type": "image/png"
   }],
-  "start_url": "html/c001.html",
+  "start_url": "../main.html#manifest=MobyDick/manifest.json",
   "display": "fullscreen",
 
   "@context": {
