@@ -1,9 +1,10 @@
 
 
 
-@supports (overflow: -webkit-paged-x) or (overflow: paged-x) {
+@supports (overflow: -webkit-paged-x) {
    body {
 overflow: -webkit-paged-x;
+color: red;
 
 */
 -webkit-scroll-snap-type: mandatory;
