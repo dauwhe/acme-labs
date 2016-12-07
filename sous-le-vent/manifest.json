@@ -1,0 +1,77 @@
+{
+	"name": "Sous le vent",
+	"date": "2012-02-01",
+	"publisher": "éditions Jean-Claude Lattès",
+	"creator": "Jean-Bernard Pouy, Joe G. Pinelli",
+	"start_url": "../main.html?manifest=sous-le-vent/manifest.json",
+
+	"spine": [{
+		"href": "html/pageNum-1.xhtml",
+		"properties": "svg",
+		"type": "application/xhtml+xml"
+	}, {
+		"href": "html/pageNum-2.xhtml",
+		"properties": "svg",
+		"type": "application/xhtml+xml"
+	}, {
+		"href": "html/pageNum-3.xhtml",
+		"properties": "svg",
+		"type": "application/xhtml+xml"
+	}, {
+		"href": "html/pageNum-4.xhtml",
+		"properties": "svg",
+		"type": "application/xhtml+xml"
+	}, {
+		"href": "html/pageNum-5.xhtml",
+		"properties": "svg",
+		"type": "application/xhtml+xml"
+	}, {
+		"href": "html/pageNum-8.xhtml",
+		"properties": "svg",
+		"type": "application/xhtml+xml"
+	}, {
+		"href": "html/pageNum-9.xhtml",
+		"properties": "svg",
+		"type": "application/xhtml+xml"
+	}, {
+		"href": "html/pageNum-10.xhtml",
+		"properties": "svg",
+		"type": "application/xhtml+xml"
+	}, {
+		"href": "html/pageNum-11.xhtml",
+		"properties": "svg",
+		"type": "application/xhtml+xml"
+	}, {
+		"href": "html/pageNum-12.xhtml",
+		"properties": "svg",
+		"type": "application/xhtml+xml"
+	}, {
+		"href": "html/pageNum-13.xhtml",
+		"properties": "svg",
+		"type": "application/xhtml+xml"
+	}, {
+		"href": "html/pageNum-14.xhtml",
+		"properties": "svg",
+		"type": "application/xhtml+xml"
+	}, {
+		"href": "html/pageNum-15.xhtml",
+		"properties": "svg",
+		"type": "application/xhtml+xml"
+	}],
+
+	"resources": [{
+		"href": "images/9782709641609_Couv.jpg",
+		"properties": "cover-image",
+		"type": "image/jpeg"
+	}, {
+		"href": "images/img-3.jpg",
+		"type": "image/jpeg"
+	}, {
+		"href": "images/img-4.jpg",
+		"type": "image/jpeg"
+	}, {
+		"href": "css/style.css",
+		"type": "text/css"
+	}]
+
+}
