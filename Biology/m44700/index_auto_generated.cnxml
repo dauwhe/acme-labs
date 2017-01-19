@@ -1,0 +1,207 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>The Plant Body</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44700/latest/</md:content-url>
+  <md:content-id>m44700</md:content-id>
+  <md:title>The Plant Body</md:title>
+  <md:version>1.7</md:version>
+  <md:created>2012/08/23 14:54:14 -0500</md:created>
+  <md:revised>2013/06/24 09:34:49.385 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>apical meristem</md:keyword>
+    <md:keyword>complex plant tissue</md:keyword>
+    <md:keyword>dermal tissue</md:keyword>
+    <md:keyword>ground tissue</md:keyword>
+    <md:keyword>intercalary meristem</md:keyword>
+    <md:keyword>lateral meristem</md:keyword>
+    <md:keyword>meristem</md:keyword>
+    <md:keyword>meristematic tissue</md:keyword>
+    <md:keyword>permanent tissue</md:keyword>
+    <md:keyword>plant anatomy</md:keyword>
+    <md:keyword>plant body</md:keyword>
+    <md:keyword>plant form</md:keyword>
+    <md:keyword>plant organs</md:keyword>
+    <md:keyword>plant organ system</md:keyword>
+    <md:keyword>plant physiology</md:keyword>
+    <md:keyword>plants</md:keyword>
+    <md:keyword>root system</md:keyword>
+    <md:keyword>shoot system</md:keyword>
+    <md:keyword>simple plant tissue</md:keyword>
+    <md:keyword>vascular bundle</md:keyword>
+    <md:keyword>vascular tissue</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the shoot organ system and the root organ system</item>
+<item>Distinguish between meristematic tissue and permanent tissue</item>
+<item>Identify and describe the three regions where plant growth occurs</item>
+<item>Summarize the roles of dermal tissue, vascular tissue, and ground tissue</item>
+<item>Compare simple plant tissue with complex plant tissue</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idm126032464">Like animals, plants contain cells with organelles in which specific metabolic activities take place. Unlike animals, however, plants use energy from sunlight to form sugars during photosynthesis. In addition, plant cells have cell walls, plastids, and a large central vacuole: structures that are not found in animal cells. Each of these cellular structures plays a specific role in plant structure and function.</para>
+<note id="fs-idm28112592" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idm125664672" alt="QR Code representing a URL">
+<image mime-type="image/png" src="botany_wo_bord.png" width="120"/>
+</media>
+<para id="fs-idm102698896">Watch <link window="new" url="http://openstaxcollege.org/l/botany_wo_bord"><emphasis effect="italics">Botany Without Borders</emphasis></link>, a video produced by the Botanical Society of America about the importance of plants.</para>
+</note><section id="fs-idp2749040">
+<title>Plant Organ Systems</title>
+<para id="fs-idm96864528">In plants, just as in animals, similar cells working together form a tissue. When different types of tissues work together to perform a unique function, they form an organ; organs working together form organ systems. Vascular plants have two distinct organ systems: a shoot system, and a root system. The <term>shoot system</term> consists of two portions: the vegetative (non-reproductive) parts of the plant, such as the leaves and the stems, and the reproductive parts of the plant, which include flowers and fruits. The shoot system generally grows above ground, where it absorbs the light needed for photosynthesis. The <term>root system</term>, which supports the plants and absorbs water and minerals, is usually underground. <link target-id="fig-ch30_01_01" document=""/> shows the organ systems of a typical plant.</para>
+<figure id="fig-ch30_01_01"><media id="fs-idm140482768" alt=" Illustration shows a dandelion plant. The shoot system consists of leaves and a flower on a stem. The root system consists of a single, thick root that branches into smaller roots.">
+<image mime-type="image/jpg" src="Figure_30_01_01.jpg" width="320"/>
+</media>
+
+<caption>The shoot system of a plant consists of leaves, stems, flowers, and fruits. The root system anchors the plant while absorbing water and minerals from the soil.</caption></figure></section>
+<section id="fs-idm146571456">
+<title>Plant Tissues</title>
+<para id="fs-idm70880448">Plants are multicellular eukaryotes with tissue systems made of various cell types that carry out specific functions. Plant tissue systems fall into one of two general types: meristematic tissue, and permanent (or non-meristematic) tissue. Cells of the meristematic tissue are found in <term>meristems</term>, which are plant regions of continuous cell division and growth. <term>Meristematic tissue</term> cells are either undifferentiated or incompletely differentiated, and they continue to divide and contribute to the growth of the plant. In contrast, <term>permanent tissue</term> consists of plant cells that are no longer actively dividing.</para>
+<para id="fs-idm66093232">Meristematic tissues consist of three types, based on their location in the plant. <term>Apical meristems</term> contain meristematic tissue located at the tips of stems and roots, which enable a plant to extend in length. <term>Lateral meristems</term> facilitate growth in thickness or girth in a maturing plant. <term>Intercalary meristems</term> occur only in monocots, at the bases of leaf blades and at nodes (the areas where leaves attach to a stem). This tissue enables the monocot leaf blade to increase in length from the leaf base; for example, it allows lawn grass leaves to elongate even after repeated mowing.</para>
+<para id="fs-idp2060048">Meristems produce cells that quickly differentiate, or specialize, and become permanent tissue. Such cells take on specific roles and lose their ability to divide further. They differentiate into three main types: dermal, vascular, and ground tissue. <term>Dermal tissue</term> covers and protects the plant, and <term>vascular tissue</term> transports water, minerals, and sugars to different parts of the plant. <term>Ground tissue</term> serves as a site for photosynthesis, provides a supporting matrix for the vascular tissue, and helps to store water and sugars.</para>
+<para id="fs-idm243748304">Secondary tissues are either simple (composed of similar cell types) or complex (composed of different cell types). Dermal tissue, for example, is a simple tissue that covers the outer surface of the plant and controls gas exchange. Vascular tissue is an example of a complex tissue, and is made of two specialized conducting tissues: xylem and phloem. Xylem tissue transports water and nutrients from the roots to different parts of the plant, and includes three different cell types: vessel elements and tracheids (both of which conduct water), and xylem parenchyma. Phloem tissue, which transports organic compounds from the site of photosynthesis to other parts of the plant, consists of four different cell types: sieve cells (which conduct photosynthates), companion cells, phloem parenchyma, and phloem fibers. Unlike xylem conducting cells, phloem conducting cells are alive at maturity. The xylem and phloem always lie adjacent to each other (<link target-id="fig-ch30_01_02" document=""/>). In stems, the xylem and the phloem form a structure called a <term>vascular bundle</term>; in roots, this is termed the <term>vascular stele</term> or <term>vascular cylinder</term>.</para><figure id="fig-ch30_01_02"><media id="fs-idm184499472" alt="Micrograph shows a round plant stem cross section. There are four teardrop-shaped vascular bundles, with the narrow point of the teardrop meeting at a round xylem vessel. Within each teardrop near the center are two to four more xylem vessels. To the outside of the xylem vessels are much smaller phloem cells. The four vascular bundles are encased in ground tissue. Cells of the ground tissue are somewhat larger than phloem. The stem is protected by an outer layer of dermal tissue, made up of several layers of cells smaller than phloem cells.">
+<image mime-type="image/jpg" src="Figure_30_01_02f.jpg" width="370"/>
+</media>
+
+<caption>This light micrograph shows a cross section of a squash (<emphasis effect="italics">Curcurbita maxima</emphasis>) stem. Each teardrop-shaped vascular bundle consists of large xylem vessels toward the inside and smaller phloem cells toward the outside.  Xylem cells, which transport water and nutrients from the roots to the rest of the plant, are dead at functional maturity. Phloem cells, which transport sugars and other organic compounds from photosynthetic tissue to the rest of the plant, are living. The vascular bundles are encased in ground tissue and surrounded by dermal tissue. (credit: modification of work by "(biophotos)"/Flickr; scale-bar data from Matt Russell)</caption></figure></section>
+<section id="fs-idm81698032" class="summary">
+<title>Section Summary</title><para id="fs-idm90116288">A vascular plant consists of two organ systems: the shoot system and the root system. The shoot system includes the aboveground vegetative portions (stems and leaves) and reproductive parts (flowers and fruits). The root system supports the plant and is usually underground. A plant is composed of two main types of tissue: meristematic tissue and permanent tissue. Meristematic tissue consists of actively dividing cells found in root and shoot tips. As growth occurs, meristematic tissue differentiates into permanent tissue, which is categorized as either simple or complex. Simple tissues are made up of similar cell types; examples include dermal tissue and ground tissue. Dermal tissue provides the outer covering of the plant. Ground tissue is responsible for photosynthesis; it also supports vascular tissue and may store water and sugars. Complex tissues are made up of different cell types. Vascular tissue, for example, is made up of xylem and phloem cells.</para>
+</section>
+<section id="fs-idm179669952" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm152914064">
+<problem id="fs-idm142669680">
+<para id="fs-idm53625632">Plant regions of continuous growth are made up of ________.</para>
+<list id="fs-idm45703280" list-type="enumerated" number-style="lower-alpha">
+<item>dermal tissue</item>
+<item>vascular tissue</item>
+<item>meristematic tissue</item>
+<item>permanent tissue</item>
+</list>
+</problem>
+<solution id="fs-idm53224768">
+<label/>
+<para id="fs-idm162565360">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm166908656">
+<problem id="fs-idm186016128">
+<para id="fs-idm142802816">Which of the following is the major site of photosynthesis?</para>
+<list id="fs-idm165938992" list-type="enumerated" number-style="lower-alpha">
+<item>apical meristem</item>
+<item>ground tissue</item>
+<item>xylem cells</item>
+<item>phloem cells</item>
+</list>
+</problem>
+<solution id="fs-idm122706416">
+<label/>
+<para id="fs-idm115749104">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm29875824" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm42954032">
+<problem id="fs-idm142178240">
+<para id="fs-idm177923216">What type of meristem is found only in monocots, such as lawn grasses? Explain how this type of meristematic tissue is beneficial in lawn grasses that are mowed each week.</para>
+</problem>
+<solution id="fs-idm121948608">
+<label/>
+<para id="fs-idm635296">Lawn grasses and other monocots have an intercalary meristem, which is a region of meristematic tissue at the base of the leaf blade. This is beneficial to the plant because it can continue to grow even when the tip of the plant is removed by grazing or mowing.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm146811344">
+<problem id="fs-idm76425168">
+<para id="fs-idm135503504">Which plant part is responsible for transporting water, minerals, and sugars to different parts of the plant? Name the two types of tissue that make up this overall tissue, and explain the role of each.</para>
+</problem>
+<solution id="fs-idm212657600">
+<label/>
+<para id="fs-idm193481040">Vascular tissue transports water, minerals, and sugars throughout the plant. Vascular tissue is made up of xylem tissue and phloem tissue. Xylem tissue transports water and nutrients from the roots upward. Phloem tissue carries sugars from the sites of photosynthesis to the rest of the plant.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm52295664">
+<term>apical meristem</term> <meaning id="fs-idm119306048">meristematic tissue located at the tips of stems and roots; enables a plant to extend in length</meaning>
+</definition>
+<definition id="fs-idm132798192">
+<term>dermal tissue</term> <meaning id="fs-idm153254480">protective plant tissue covering the outermost part of the plant; controls gas exchange</meaning>
+</definition>
+<definition id="fs-idm182017728">
+<term>ground tissue</term> <meaning id="fs-idm44148784">plant tissue involved in photosynthesis; provides support, and stores water and sugars</meaning>
+</definition>
+<definition id="fs-idm148451568">
+<term>intercalary meristem</term> <meaning id="fs-idm96948816">meristematic tissue located at nodes and the bases of leaf blades; found only in monocots</meaning>
+</definition>
+<definition id="fs-idm145649712">
+<term>lateral meristem</term> <meaning id="fs-idm182889232">meristematic tissue that enables a plant to increase in thickness or girth</meaning>
+</definition>
+<definition id="fs-idm157438528">
+<term>meristematic tissue</term> <meaning id="fs-idm115731360">tissue containing cells that constantly divide; contributes to plant growth</meaning>
+</definition>
+<definition id="fs-idm94634720">
+<term>meristem</term> <meaning id="fs-idm92687888">plant region of continuous growth</meaning>
+</definition>
+<definition id="fs-idm186065920">
+<term>permanent tissue</term> <meaning id="fs-idm53442032">plant tissue composed of cells that are no longer actively dividing</meaning>
+</definition>
+<definition id="fs-idm53805696">
+<term>root system</term> <meaning id="fs-idm177489152">belowground portion of the plant that supports the plant and absorbs water and minerals</meaning>
+</definition>
+<definition id="fs-idm180256800">
+<term>shoot system</term> <meaning id="fs-idm14697072">aboveground portion of the plant; consists of non-reproductive plant parts, such as leaves and stems, and reproductive parts, such as flowers and fruits</meaning>
+</definition>
+<definition id="fs-idm132991440">
+<term>vascular bundle</term> <meaning id="fs-idm90697568">strands of stem tissue made up of xylem and phloem</meaning>
+</definition>
+<definition id="fs-idm163023232">
+<term>vascular stele</term> <meaning id="fs-idm91743104">strands of root tissue made up of xylem and phloem</meaning>
+</definition>
+<definition id="fs-idm148062960">
+<term>vascular tissue</term> <meaning id="fs-idm50966928">tissue made up of xylem and phloem that transports food and water throughout the plant</meaning>
+</definition>
+</glossary>
+</document>

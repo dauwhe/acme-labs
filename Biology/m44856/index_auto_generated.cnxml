@@ -1,0 +1,183 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>The Scope of Ecology</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44856/latest/</md:content-url>
+  <md:content-id>m44856</md:content-id>
+  <md:title>The Scope of Ecology</md:title>
+  <md:version>1.3</md:version>
+  <md:created>2012/08/23 16:07:44 -0500</md:created>
+  <md:revised>2013/04/10 15:23:06.380 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>abiotic</md:keyword>
+    <md:keyword>biosphere</md:keyword>
+    <md:keyword>biotic</md:keyword>
+    <md:keyword>community ecology</md:keyword>
+    <md:keyword>conspecific</md:keyword>
+    <md:keyword>ecological research</md:keyword>
+    <md:keyword>ecological study</md:keyword>
+    <md:keyword>ecologist</md:keyword>
+    <md:keyword>ecology</md:keyword>
+    <md:keyword>ecology study</md:keyword>
+    <md:keyword>ecosystem</md:keyword>
+    <md:keyword>ecosystem ecology</md:keyword>
+    <md:keyword>heterospecific</md:keyword>
+    <md:keyword>interdisciplinary ecology</md:keyword>
+    <md:keyword>mutualism</md:keyword>
+    <md:keyword>organismal ecology</md:keyword>
+    <md:keyword>population ecology</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Define ecology and the four levels of ecological research</item>
+<item>Describe examples of the ways in which ecology requires the integration of different scientific disciplines</item>
+<item>Distinguish between abiotic and biotic components of the environment</item>
+<item>Recognize the relationship between abiotic and biotic components of the environment</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idp191776896"><term>Ecology</term> is the study of the interactions of living organisms with their environment. One core goal of ecology is to understand the distribution and abundance of living things in the physical environment. Attainment of this goal requires the integration of scientific disciplines inside and outside of biology, such as biochemistry, physiology, evolution, biodiversity, molecular biology, geology, and climatology. Some ecological research also applies aspects of chemistry and physics, and it frequently uses mathematical models.</para>
+<note id="fs-idp144624304" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idp221826272" alt="QR Code representing a URL">
+<image mime-type="image/png" src="climate_health.png" width="120"/>
+</media>
+<para id="fs-idp245465824">Climate change can alter where organisms live, which can sometimes directly affect human health. Watch the PBS video <link window="new" url="http://openstaxcollege.org/l/climate_health">&#8220;Feeling the Effects of Climate Change&#8221;</link> in which researchers discover a pathogenic organism living far outside of its normal range.</para></note><section id="fs-idp328287056">
+<title>Levels of Ecological Study</title>
+<para id="fs-idp98015680">When a discipline such as biology is studied, it is often helpful to subdivide it into smaller, related areas. For instance, cell biologists interested in cell signaling need to understand the chemistry of the signal molecules (which are usually proteins) as well as the result of cell signaling. Ecologists interested in the factors that influence the survival of an endangered species might use mathematical models to predict how current conservation efforts affect endangered organisms. To produce a sound set of management options, a conservation biologist needs to collect accurate data, including current population size, factors affecting reproduction (like physiology and behavior), habitat requirements (such as plants and soils), and potential human influences on the endangered population and its habitat (which might be derived through studies in sociology and urban ecology). Within the discipline of ecology, researchers work at four specific levels, sometimes discretely and sometimes with overlap: organism, population, community, and ecosystem (<link target-id="fig-ch44_01_01" document=""/>).</para>
+<figure id="fig-ch44_01_01" class=" "><media id="fs-idp171730656" alt="A flow chart of three boxes shows the hierarchy of living organisms. The top box is labeled &#8220;Organisms, populations, and communities&#8221; and has a photograph of tall trees in a forest. The second box is labeled &#8220;ecosystems&#8221; and has a photograph of a body of water, behind which is a stand of tall grasses developing into more dense vegetation and trees as distance from the water increases. The third box is labeled &#8220;the biosphere&#8221; and shows a drawing of planet Earth.">
+<image mime-type="image/jpg" src="Figure_44_01_01.jpg" width="300"/>
+</media>
+<caption>Ecologists study within several biological levels of organization. (credit &#8220;organisms&#8221;: modification of work by "Crystl"/Flickr; credit &#8220;ecosystems&#8221;: modification of work by Tom Carlisle, US Fish and Wildlife Service Headquarters; credit &#8220;biosphere&#8221;: NASA)</caption></figure></section>
+        <section id="fs-idp77553120">
+        <title>Organismal Ecology</title><para id="fs-idp136109520">Researchers studying ecology at the organismal level are interested in the adaptations that enable individuals to live in specific habitats. These adaptations can be morphological, physiological, and behavioral. For instance, the Karner blue butterfly (<emphasis effect="italics">Lycaeides melissa samuelis</emphasis>) (<link target-id="fig-ch44_01_02" document=""/>) is considered a specialist because the females preferentially oviposit (that is, lay eggs) on wild lupine. This preferential adaptation means that the Karner blue butterfly is highly dependent on the presence of wild lupine plants for its continued survival.</para><figure id="fig-ch44_01_02" class=" "><media id="fs-idp79973776" alt="Photo depicts a Karner blue butterfly, which has light blue wings with gold ovals and black dots around the edges.">
+<image mime-type="image/jpg" src="Figure_44_01_02.jpg" width="280"/>
+</media>
+                
+            <caption>The Karner blue butterfly (<emphasis effect="italics">Lycaeides melissa samuelis</emphasis>) is a rare butterfly that lives only in open areas with few trees or shrubs, such as pine barrens and oak savannas. It can only lay its eggs on lupine plants. (credit: modification of work by J &amp; K Hollingsworth, USFWS)</caption></figure><para id="fs-idp204742976">After hatching, the larval caterpillars emerge and spend four to six weeks feeding solely on wild lupine (<link target-id="fig-ch44_01_03" document=""/>). The caterpillars pupate (undergo metamorphosis) and emerge as butterflies after about four weeks. The adult butterflies feed on the nectar of flowers of wild lupine and other plant species. A researcher interested in studying Karner blue butterflies at the organismal level might, in addition to asking questions about egg laying, ask questions about the butterflies&#8217; preferred temperature (a physiological question) or the behavior of the caterpillars when they are at different larval stages (a behavioral question).</para><figure id="fig-ch44_01_03" class="span-class"><media id="fs-idp307865920" alt="This photo depicts a wild lupine flower, which is long and thin with clam-shaped petals radiating out from the center. The bottom third of the flower is blue, the middle is pink and blue, and the top is green.">
+<image mime-type="image/jpg" src="Figure_44_01_03.jpg" width="185"/>
+                </media>
+                
+            <caption>The wild lupine (<emphasis effect="italics">Lupinus perennis</emphasis>) is the host plant for the Karner blue butterfly.</caption></figure></section>
+<section id="fs-idp94955104">
+<title>Population Ecology</title>
+<para id="fs-idp294320048">A population is a group of interbreeding organisms that are members of the same species living in the same area at the same time. (Organisms that are all members of the same species are called <term>conspecifics</term>.) A population is identified, in part, by where it lives, and its area of population may have natural or artificial boundaries: natural boundaries might be rivers, mountains, or deserts, while examples of artificial boundaries include mowed grass, manmade structures, or roads. The study of population ecology focuses on the number of individuals in an area and how and why population size changes over time. Population ecologists are particularly interested in counting the Karner blue butterfly, for example, because it is classified as federally endangered. However, the distribution and density of this species is highly influenced by the distribution and abundance of wild lupine. Researchers might ask questions about the factors leading to the decline of wild lupine and how these affect Karner blue butterflies. For example, ecologists know that wild lupine thrives in open areas where trees and shrubs are largely absent. In natural settings, intermittent wildfires regularly remove trees and shrubs, helping to maintain the open areas that wild lupine requires. Mathematical models can be used to understand how wildfire suppression by humans has led to the decline of this important plant for the Karner blue butterfly.</para>
+</section>
+<section id="fs-idp217491760">
+<title>Community Ecology</title>
+<para id="fs-idp293993984">A biological community consists of the different species within an area, typically a three-dimensional space, and the interactions within and among these species. Community ecologists are interested in the processes driving these interactions and their consequences. Questions about conspecific interactions often focus on competition among members of the same species for a limited resource. Ecologists also study interactions among various species; members of different species are called <term>heterospecifics</term>. Examples of heterospecific interactions include predation, parasitism, herbivory, competition, and pollination. These interactions can have regulating effects on population sizes and can impact ecological and evolutionary processes affecting diversity.</para>
+<para id="fs-idp235566208">For example, Karner blue butterfly larvae form mutualistic relationships with ants. Mutualism is a form of a long-term relationship that has coevolved between two species and from which each species benefits. For mutualism to exist between individual organisms, each species must receive some benefit from the other as a consequence of the relationship. Researchers have shown that there is an increase in the probability of survival when Karner blue butterfly larvae (caterpillars) are tended by ants. This might be because the larvae spend less time in each life stage when tended by ants, which provides an advantage for the larvae. Meanwhile, the Karner blue butterfly larvae secrete a carbohydrate-rich substance that is an important energy source for the ants. Both the Karner blue larvae and the ants benefit from their interaction.</para>
+</section>
+<section id="fs-idp219108176">
+<title>Ecosystem Ecology</title>
+<para id="fs-idp217223040">Ecosystem ecology is an extension of organismal, population, and community ecology. The ecosystem is composed of all the <term>biotic</term> components (living things) in an area along with the <term>abiotic</term> components (non-living things) of that area. Some of the abiotic components include air, water, and soil. Ecosystem biologists ask questions about how nutrients and energy are stored and how they move among organisms and the surrounding atmosphere, soil, and water.</para>
+<para id="fs-idp199797600">The Karner blue butterflies and the wild lupine live in an oak-pine barren habitat. This habitat is characterized by natural disturbance and nutrient-poor soils that are low in nitrogen. The availability of nutrients is an important factor in the distribution of the plants that live in this habitat. Researchers interested in ecosystem ecology could ask questions about the importance of limited resources and the movement of resources, such as nutrients, though the biotic and abiotic portions of the ecosystem.</para>
+<note id="fs-idp253707680" class="career">
+<label/>
+<title>Career Connection</title>
+<para id="fs-idp56166608">
+<title>Ecologist</title>
+A career in ecology contributes to many facets of human society. Understanding ecological issues can help society meet the basic human needs of food, shelter, and health care. Ecologists can conduct their research in the laboratory and outside in natural environments (<link target-id="fig-ch44_01_04" document=""/>). These natural environments can be as close to home as the stream running through your campus or as far away as the hydrothermal vents at the bottom of the Pacific Ocean. Ecologists manage natural resources such as white-tailed deer populations (<emphasis effect="italics">Odocoileus virginianus</emphasis>) for hunting or aspen (<emphasis effect="italics">Populus </emphasis>spp.) timber stands for paper production. Ecologists also work as educators who teach children and adults at various institutions including universities, high schools, museums, and nature centers. Ecologists may also work in advisory positions assisting local, state, and federal policymakers to develop laws that are ecologically sound, or they may develop those policies and legislation themselves. To become an ecologist requires an undergraduate degree, usually in a natural science. The undergraduate degree is often followed by specialized training or an advanced degree, depending on the area of ecology selected. Ecologists should also have a broad background in the physical sciences, as well as a sound foundation in mathematics and statistics.</para>
+<figure id="fig-ch44_01_04" class=" "><media id="fs-idp247898672" alt=" This photo shows a woman looking into a small cage with its door open. The cage sits on short prairie grass, next to a hole with dirt around the rim. In the background sits a second, closed cage.">
+<image mime-type="image/jpg" src="Figure_44_01_04.jpg" width="280"/>
+</media>
+<caption>This landscape ecologist is releasing a black-footed ferret into its native habitat as part of a study. (credit: USFWS Mountain Prairie Region, NPS)</caption></figure></note>
+<note id="fs-idp159502256" class="interactive"><label/><title>Link to Learning</title>
+    <media id="fs-idp136334704" alt="QR Code representing a URL">
+        <image mime-type="image/png" src="ecologist_role.png" width="120"/>
+    </media>
+<para id="fs-idp224310592">Visit this <link window="new" url="http://openstaxcollege.org/l/ecologist_role">site</link> to see Stephen Wing, a marine ecologist from the University of Otago, discuss the role of an ecologist and the types of issues ecologists explore.</para>
+</note></section>
+<section id="fs-idp123140272" class="summary">
+<title>Section Summary</title><para id="fs-idp159113728">Ecology is the study of the interactions of living things with their environment. Ecologists ask questions across four levels of biological organization&#8212;organismal, population, community, and ecosystem. At the organismal level, ecologists study individual organisms and how they interact with their environments. At the population and community levels, ecologists explore, respectively, how a population of organisms changes over time and the ways in which that population interacts with other species in the community. Ecologists studying an ecosystem examine the living species (the biotic components) of the ecosystem as well as the nonliving portions (the abiotic components), such as air, water, and soil, of the environment.</para>
+    </section>
+<section id="fs-idp252897232" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp132626720">
+<problem id="fs-idp309281232"><para id="fs-idp202481584">Which of the following is a biotic factor?</para>
+<list id="fs-idp50368" list-type="enumerated" number-style="lower-alpha"><item>wind</item>
+<item>disease-causing microbe</item>
+<item>temperature</item>
+<item>soil particle size</item>
+</list></problem>
+<solution id="fs-idp165463184">
+<label/>
+<para id="fs-idp410719632">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idp212979968">
+<problem id="fs-idp327946784"><para id="fs-idp217068256">The study of nutrient cycling though the environment is an example of which of the following?</para>
+<list id="fs-idp159876240" list-type="enumerated" number-style="lower-alpha"><item>organismal ecology</item>
+<item>population ecology</item>
+<item>community ecology</item>
+<item>ecosystem ecology</item>
+</list></problem>
+<solution id="fs-idp309194592">
+<label/>
+<para id="fs-idp313092128">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp256446000" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idp233903200">
+<problem id="fs-idp217486736"><para id="fs-idp245898512">Ecologists often collaborate with other researchers interested in ecological questions. Describe the levels of ecology that would be easier for collaboration because of the similarities of questions asked. What levels of ecology might be more difficult for collaboration?</para></problem>
+<solution id="fs-idp206752608"><label/>
+<para id="fs-idp309300496">Ecologists working in organismal or population ecology might ask similar questions about how the biotic and abiotic conditions affect particular organisms and, thus, might find collaboration to be mutually beneficial. Levels of ecology such as community ecology or ecosystem ecology might pose greater challenges for collaboration because these areas are very broad and may include many different environmental components.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp316645872">
+<problem id="fs-idp314239152"><para id="fs-idp271887136">The population is an important unit in ecology as well as other biological sciences. How is a population defined, and what are the strengths and weaknesses of this definition? Are there some species that at certain times or places are not in populations?</para></problem>
+<solution id="fs-idp266661904"><label/>
+<para id="fs-idp254516704">It is beneficial to consider a population to be all of the individuals living in the same area at the same time because it allows the ecologist to identify and study all of the abiotic and biotic factors that may affect the members of the population. However, this definition of a population could be considered a drawback if it prohibits the ecologist from studying a population&#8217;s individuals that may be transitory, but still influential. Some species with members that have a wide geographic range might not be considered to be a population, but could still have many of the qualities of a population.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idp241168240"><term>abiotic</term> <meaning id="fs-idp219288976">nonliving components of the environment</meaning></definition>
+<definition id="fs-idp167420576"><term>biotic</term> <meaning id="fs-idp97176032">living components of the environment</meaning></definition>
+<definition id="fs-idp359775280"><term>conspecifics</term> <meaning id="fs-idp137789840">individuals that are members of the same species</meaning></definition>
+<definition id="fs-idp215337104"><term>ecology</term> <meaning id="fs-idp407682048">study of interaction between living things and their environment</meaning></definition>
+<definition id="fs-idp166187056"><term>heterospecifics</term> <meaning id="fs-idp246401872">individuals that are members of different species</meaning></definition>
+</glossary>
+</document>

@@ -1,0 +1,142 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44800/latest/</md:content-url>
+  <md:content-id>m44800</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.3</md:version>
+  <md:created>2012/08/23 15:49:34 -0500</md:created>
+  <md:revised>2013/06/26 13:31:52.391 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>angina</md:keyword>
+    <md:keyword>aorta</md:keyword>
+    <md:keyword>arteriole</md:keyword>
+    <md:keyword>artery</md:keyword>
+    <md:keyword>atherosclerosis</md:keyword>
+    <md:keyword>atrioventricular valve</md:keyword>
+    <md:keyword>atrium</md:keyword>
+    <md:keyword>biscuspid valve</md:keyword>
+    <md:keyword>blood</md:keyword>
+    <md:keyword>blood flow</md:keyword>
+    <md:keyword>blood pressure</md:keyword>
+    <md:keyword>blood pressure regulation</md:keyword>
+    <md:keyword>blood type</md:keyword>
+    <md:keyword>blood vessel</md:keyword>
+    <md:keyword>BP</md:keyword>
+    <md:keyword>capillary</md:keyword>
+    <md:keyword>capillary bed</md:keyword>
+    <md:keyword>cardiac arrest</md:keyword>
+    <md:keyword>cardiac cycle</md:keyword>
+    <md:keyword>cardiac muscle</md:keyword>
+    <md:keyword>cardiac output</md:keyword>
+    <md:keyword>cardiomyocyte</md:keyword>
+    <md:keyword>circulation</md:keyword>
+    <md:keyword>circulatory system</md:keyword>
+    <md:keyword>closed circulatory system</md:keyword>
+    <md:keyword>coagulation</md:keyword>
+    <md:keyword>coronary artery</md:keyword>
+    <md:keyword>coronary vein</md:keyword>
+    <md:keyword>diastole</md:keyword>
+    <md:keyword>double circulation</md:keyword>
+    <md:keyword>ECG</md:keyword>
+    <md:keyword>electrocardiogram</md:keyword>
+    <md:keyword>endocardium</md:keyword>
+    <md:keyword>epicardium</md:keyword>
+    <md:keyword>gill circulation</md:keyword>
+    <md:keyword>heart</md:keyword>
+    <md:keyword>heart anatomy</md:keyword>
+    <md:keyword>heart attack</md:keyword>
+    <md:keyword>heart structure</md:keyword>
+    <md:keyword>hemocoel</md:keyword>
+    <md:keyword>hemolymph</md:keyword>
+    <md:keyword>inferior vena cava</md:keyword>
+    <md:keyword>interstitial fluid</md:keyword>
+    <md:keyword>lymph node</md:keyword>
+    <md:keyword>mitral valve</md:keyword>
+    <md:keyword>myocardial infarction</md:keyword>
+    <md:keyword>myocardium</md:keyword>
+    <md:keyword>open circulatory system</md:keyword>
+    <md:keyword>ostium</md:keyword>
+    <md:keyword>pericardium</md:keyword>
+    <md:keyword>peripheral resistance</md:keyword>
+    <md:keyword>plasma</md:keyword>
+    <md:keyword>platelet</md:keyword>
+    <md:keyword>precapillary sphincter</md:keyword>
+    <md:keyword>pulmocutaneous circulation</md:keyword>
+    <md:keyword>pulmonary circulation</md:keyword>
+    <md:keyword>red blood cell</md:keyword>
+    <md:keyword>semilunar valve</md:keyword>
+    <md:keyword>serum</md:keyword>
+    <md:keyword>sinoatrial (SA) node</md:keyword>
+    <md:keyword>superior vena cava</md:keyword>
+    <md:keyword>systemic circulation</md:keyword>
+    <md:keyword>systole</md:keyword>
+    <md:keyword>tricuspid valve</md:keyword>
+    <md:keyword>unidirectional circulation</md:keyword>
+    <md:keyword>vasoconstriction</md:keyword>
+    <md:keyword>vasodilation</md:keyword>
+    <md:keyword>vein</md:keyword>
+    <md:keyword>vena cava</md:keyword>
+    <md:keyword>ventricle</md:keyword>
+    <md:keyword>venule</md:keyword>
+    <md:keyword>white blood cell</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+    <?cnx.eoc class="summary" title="Sections Summary"?>
+<?cnx.eoc class="art-exercise" title="Art Connections"?>
+<?cnx.eoc class="multiple-choice" title="Multiple Choice"?>
+<?cnx.eoc class="free-response" title="Free Response"?>
+
+<figure id="fig-ch40_00_01" class="splash">
+<media id="fs-idm15587840" alt="Photo shows intersecting highways and secondary roads.">
+<image mime-type="image/jpg" src="Figure_40_00_01.jpg" width="600"/>
+</media>
+<caption>Just as highway systems transport people and goods through a complex network, the circulatory system transports nutrients, gases, and wastes throughout the animal body. (credit: modification of work by Andrey Belenko)</caption></figure>
+<para id="fs-idp123148240">Most animals are complex multicellular organisms that require a mechanism for transporting nutrients throughout their bodies and removing waste products. The circulatory system has evolved over time from simple diffusion through cells in the early evolution of animals to a complex network of blood vessels that reach all parts of the human body. This extensive network supplies the cells, tissues, and organs with oxygen and nutrients, and removes carbon dioxide and waste, which are byproducts of respiration.</para>
+      <para id="fs-idp87826144">At the core of the human circulatory system is the heart. The size of a clenched fist, the human heart is protected beneath the rib cage. Made of specialized and unique cardiac muscle, it pumps blood throughout the body and to the heart itself. Heart contractions are driven by intrinsic electrical impulses that the brain and endocrine hormones help to regulate. Understanding the heart&#8217;s basic anatomy and function is important to understanding the body&#8217;s circulatory and respiratory systems.</para>
+      <para id="fs-idm24730624">Gas exchange is one essential function of the circulatory system. A circulatory system is not needed in organisms with no specialized respiratory organs because oxygen and carbon dioxide diffuse directly between their body tissues and the external environment. However, in organisms that possess lungs and gills, oxygen must be transported from these specialized respiratory organs to the body tissues via a circulatory system.  Therefore, circulatory systems have had to evolve to accommodate the great diversity of body sizes and body types present among animals.</para></content>
+</document>

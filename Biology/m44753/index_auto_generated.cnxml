@@ -1,0 +1,177 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44753/latest/</md:content-url>
+  <md:content-id>m44753</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.2</md:version>
+  <md:created>2012/08/23 15:34:19 -0500</md:created>
+  <md:revised>2013/02/27 16:20:20.702 US/Central</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>anvil</md:keyword>
+    <md:keyword>audition</md:keyword>
+    <md:keyword>basilar membrane</md:keyword>
+    <md:keyword>bipolar neuron</md:keyword>
+    <md:keyword>bitter</md:keyword>
+    <md:keyword>bulboid corpuscle</md:keyword>
+    <md:keyword>bulbous corpuscle</md:keyword>
+    <md:keyword>candela</md:keyword>
+    <md:keyword>circadian</md:keyword>
+    <md:keyword>cone</md:keyword>
+    <md:keyword>cornea</md:keyword>
+    <md:keyword>ear drum</md:keyword>
+    <md:keyword>eye</md:keyword>
+    <md:keyword>eye anatomy</md:keyword>
+    <md:keyword>five senses</md:keyword>
+    <md:keyword>fovea</md:keyword>
+    <md:keyword>free nerve ending</md:keyword>
+    <md:keyword>glabrous</md:keyword>
+    <md:keyword>glomerulus</md:keyword>
+    <md:keyword>Golgi tendon organ</md:keyword>
+    <md:keyword>gustation</md:keyword>
+    <md:keyword>hammer</md:keyword>
+    <md:keyword>hearing</md:keyword>
+    <md:keyword>hyperopia</md:keyword>
+    <md:keyword>incus</md:keyword>
+    <md:keyword>inner ear</md:keyword>
+    <md:keyword>iris</md:keyword>
+    <md:keyword>just noticeable difference</md:keyword>
+    <md:keyword>kinesthesia</md:keyword>
+    <md:keyword>Krause end bulb</md:keyword>
+    <md:keyword>labyrinth</md:keyword>
+    <md:keyword>lens</md:keyword>
+    <md:keyword>light</md:keyword>
+    <md:keyword>light transduction</md:keyword>
+    <md:keyword>malleus</md:keyword>
+    <md:keyword>mechanoreceptor</md:keyword>
+    <md:keyword>mechanoreceptor density</md:keyword>
+    <md:keyword>Meissner's corpuscle</md:keyword>
+    <md:keyword>Merkel's disc</md:keyword>
+    <md:keyword>middle ear</md:keyword>
+    <md:keyword>muscle spindle</md:keyword>
+    <md:keyword>myopia</md:keyword>
+    <md:keyword>nociception</md:keyword>
+    <md:keyword>oderant</md:keyword>
+    <md:keyword>odor</md:keyword>
+    <md:keyword>olfaction</md:keyword>
+    <md:keyword>olfactory bulb</md:keyword>
+    <md:keyword>olfactory epithelium</md:keyword>
+    <md:keyword>organ of Corti</md:keyword>
+    <md:keyword>ossicle</md:keyword>
+    <md:keyword>outer ear</md:keyword>
+    <md:keyword>oval window</md:keyword>
+    <md:keyword>Pacinian corpuscle</md:keyword>
+    <md:keyword>pain</md:keyword>
+    <md:keyword>papilla</md:keyword>
+    <md:keyword>perception</md:keyword>
+    <md:keyword>pheromone</md:keyword>
+    <md:keyword>photoreceptor</md:keyword>
+    <md:keyword>pinna</md:keyword>
+    <md:keyword>presbyopia</md:keyword>
+    <md:keyword>proprioception</md:keyword>
+    <md:keyword>reception</md:keyword>
+    <md:keyword>receptive field</md:keyword>
+    <md:keyword>receptor potential</md:keyword>
+    <md:keyword>retina</md:keyword>
+    <md:keyword>retinal processing</md:keyword>
+    <md:keyword>rod</md:keyword>
+    <md:keyword>Ruffini ending</md:keyword>
+    <md:keyword>salty</md:keyword>
+    <md:keyword>semicircular canal</md:keyword>
+    <md:keyword>sense</md:keyword>
+    <md:keyword>sensory perception</md:keyword>
+    <md:keyword>sensory process</md:keyword>
+    <md:keyword>sensory receptor</md:keyword>
+    <md:keyword>sensory system</md:keyword>
+    <md:keyword>sensory transduction</md:keyword>
+    <md:keyword>sight</md:keyword>
+    <md:keyword>skin sensor</md:keyword>
+    <md:keyword>smell</md:keyword>
+    <md:keyword>somatosensation</md:keyword>
+    <md:keyword>somatosensory receptor</md:keyword>
+    <md:keyword>sound</md:keyword>
+    <md:keyword>sound reception</md:keyword>
+    <md:keyword>sound transduction</md:keyword>
+    <md:keyword>sour</md:keyword>
+    <md:keyword>stapes</md:keyword>
+    <md:keyword>stereocilia</md:keyword>
+    <md:keyword>stirrup</md:keyword>
+    <md:keyword>superior colliculus</md:keyword>
+    <md:keyword>suprachiasmatic nucleus</md:keyword>
+    <md:keyword>sweet</md:keyword>
+    <md:keyword>tactile corpuscle</md:keyword>
+    <md:keyword>tastant</md:keyword>
+    <md:keyword>taste</md:keyword>
+    <md:keyword>taste bud</md:keyword>
+    <md:keyword>tectorial membrane</md:keyword>
+    <md:keyword>thermoreception</md:keyword>
+    <md:keyword>thichromatic coding</md:keyword>
+    <md:keyword>tonic activity</md:keyword>
+    <md:keyword>transduction</md:keyword>
+    <md:keyword>tympanic membrane</md:keyword>
+    <md:keyword>tympanum</md:keyword>
+    <md:keyword>ultrasound</md:keyword>
+    <md:keyword>umami</md:keyword>
+    <md:keyword>vestibular information</md:keyword>
+    <md:keyword>vestibular sensation</md:keyword>
+    <md:keyword>vestibular sense</md:keyword>
+    <md:keyword>vision</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<?cnx.eoc class="summary" title="Sections Summary"?>
+<?cnx.eoc class="art-exercise" title="Art Connections"?>
+<?cnx.eoc class="multiple-choice" title="Multiple Choice"?>
+<?cnx.eoc class="free-response" title="Free Response"?>
+
+<figure id="fig-ch36_00_01" class="splash">
+<media id="fs-idm104438816" alt="Photo shows a shark swimming toward the camera.">
+<image mime-type="image/jpg" src="Figure_36_00_01.jpg" width="600"/>
+</media>
+<caption>This shark uses its senses of sight, vibration (lateral-line system), and smell to hunt, but it also relies on its ability to sense the electric fields of prey, a sense not present in most land animals. (credit: modification of work by Hermanus Backpackers Hostel, South Africa)</caption></figure>
+<para id="fs-idm79361632">In more advanced animals, the senses are constantly at work, making the animal aware of stimuli&#8212;such as light, or sound, or the presence of a chemical substance in the external environment&#8212;and monitoring information about the organism&#8217;s internal environment. All bilaterally symmetric animals have a sensory system, and the development of any species&#8217; sensory system has been driven by natural selection; thus, sensory systems differ among species according to the demands of their environments. The shark, unlike most fish predators, is electrosensitive&#8212;that is, sensitive to electrical fields produced by other animals in its environment. While it is helpful to this underwater predator, electrosensitivity is a sense not found in most land animals.</para>
+</content>
+</document>

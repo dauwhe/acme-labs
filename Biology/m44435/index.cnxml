@@ -1,0 +1,227 @@
+<?xml version="1.0"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>The Endomembrane System and Proteins</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml"
+          mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://legacy.cnx.org/content</md:repository>
+  <md:content-url>http://legacy.cnx.org/content/m44435/latest/</md:content-url>
+  <md:content-id>m44435</md:content-id>
+  <md:title>The Endomembrane System and Proteins</md:title>
+  <md:version>1.12</md:version>
+  <md:created>2012/08/22 16:27:34 -0500</md:created>
+  <md:revised>2016/02/25 12:02:23.940 US/Central</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax</md:shortname>
+      <md:fullname>OpenStax</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>cardiologist</md:keyword>
+    <md:keyword>cell structure</md:keyword>
+    <md:keyword>endomembrane system</md:keyword>
+    <md:keyword>endoplasmic reticulum</md:keyword>
+    <md:keyword>ER</md:keyword>
+    <md:keyword>geneticist</md:keyword>
+    <md:keyword>Golgi apparatus</md:keyword>
+    <md:keyword>protein</md:keyword>
+    <md:keyword>RER</md:keyword>
+    <md:keyword>rough endoplasmic reticulum</md:keyword>
+    <md:keyword>SER</md:keyword>
+    <md:keyword>smooth endoplasmic reticulum</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>List the components of the endomembrane system</item>
+<item>Recognize the relationship between the endomembrane system and its functions</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-id1443008">The endomembrane system (endo = “within”) is a group of membranes and organelles (<link target-id="fig-ch04-04-01" document=""/>) in eukaryotic cells that works together to modify, package, and transport lipids and proteins. It includes the nuclear envelope, lysosomes, and vesicles, which we’ve already mentioned, and the endoplasmic reticulum and Golgi apparatus, which we will cover shortly. Although not technically <emphasis effect="italics">within</emphasis> the cell, the plasma membrane is included in the endomembrane system because, as you will see, it interacts with the other endomembranous organelles. The endomembrane system does not include the membranes of either mitochondria or chloroplasts.</para><note id="fs-id1721886" type="art-connection"><label/><title>Art Connection</title>
+<para id="fs-id2030019"><figure id="fig-ch04-04-01"><media id="fs-id1773987" alt="The left part of this figure shows the rough ER with an integral membrane protein embedded in it. The part of the protein facing the inside of the ER has a carbohydrate attached to it. The protein is shown leaving the ER in a vesicle that fuses with the cis side of the Golgi apparatus. The Golgi apparatus consists of several layers of membranes, called cisternae. As the protein passes through the cisternae, it is further modified by the addition of more carbohydrates. Eventually, it leaves the trans face of the Golgi in a vesicle. The vesicle fuses with the cell membrane so that the carbohydrate that was on the inside of the vesicle now faces the outside of the membrane. At the same time, the contents of the vesicle are ejected from the cell.">
+<image mime-type="image/png" src="Figure_04_04_01.png" width="350"/>
+</media>
+<caption>"Membrane and secretory proteins are synthesized in the rough endoplasmic reticulum (RER). The RER also sometimes modifies proteins. In this illustration, a (green) integral membrane protein in the ER is modified by attachment of a (purple) carbohydrate. Vesicles with the integral protein bud from the ER and fuse with the cis face of the Golgi apparatus. As the protein passes along  the Golgi’s cisternae, it is further modified by the addition of more carbohydrates. After its synthesis is complete, it exits as integral membrane protein of the vesicle that bud from the Golgi’s <term>trans</term> face and when the vesicle fuses with the cell membrane the protein becomes integral portion  of that cell membrane. (credit: modification of work by Magnus Manske)</caption></figure></para>
+<para id="fs-id2076265">If a peripheral membrane protein were synthesized in the lumen (inside) of the ER, would it end up on the inside or outside of the plasma membrane?</para>
+</note><section id="fs-id2028479">
+<title>The Endoplasmic Reticulum</title>
+<para id="fs-id1775048">The <term>endoplasmic reticulum (ER)</term> (<link target-id="fig-ch04-04-01" document=""/>) is a series of interconnected membranous sacs and tubules that collectively modifies proteins and synthesizes lipids. However, these two functions are performed in separate areas of the ER: the rough ER and the smooth ER, respectively.</para>
+<para id="fs-id1904890">The hollow portion of the ER tubules is called the lumen or cisternal space. The membrane of the ER, which is a phospholipid bilayer embedded with proteins, is continuous with the nuclear envelope.</para>
+<section id="fs-id1234002">
+<title>Rough ER</title>
+<para id="fs-id1207356">The <term>rough endoplasmic reticulum (RER)</term> is so named because the ribosomes attached to its cytoplasmic surface give it a studded appearance when viewed through an electron microscope (<link target-id="fig-ch04-04-02" document=""/>).</para>
+<figure id="fig-ch04-04-02"><media id="fs-id1752354" alt="In this transmission electron micrograph, the nucleus is the most prominent feature. The nucleolus is a circular, dark region inside the nucleus. A nuclear pore can be seen in the nuclear envelope that surrounds the nucleus. The rough endoplasmic reticulum surrounds the nucleus, appearing as many layers of membranes. A mitochondrion sits between the layers of the ER membrane.">
+<image mime-type="image/jpg" src="Figure_04_04_02_new.jpg" width="350"/>
+</media>
+
+<caption>This transmission electron micrograph shows the rough endoplasmic reticulum and other organelles in a pancreatic cell. (credit: modification of work by Louisa Howard)</caption></figure><para id="fs-id1679856">Ribosomes transfer their newly synthesized proteins into the lumen of the RER where they undergo structural modifications, such as folding or the acquisition of side chains. These modified proteins will be incorporated into cellular membranes—the membrane of the ER or those of other organelles—or secreted from the cell (such as protein hormones, enzymes). The RER also makes phospholipids for cellular membranes.</para>
+<para id="fs-id1752751">If the phospholipids or modified proteins are not destined to stay in the RER, they will reach their destinations via transport vesicles that bud from the RER’s membrane (<link target-id="fig-ch04-04-01" document=""/>).</para>
+<para id="fs-id2028331">Since the RER is engaged in modifying proteins (such as enzymes, for example) that will be secreted from the cell, you would be correct in assuming that the RER is abundant in cells that secrete proteins. This is the case with cells of the liver, for example.</para>
+</section>
+<section id="fs-id1603907">
+<title>Smooth ER</title>
+<para id="fs-id1459714">The <term>smooth endoplasmic reticulum (SER)</term> is continuous with the RER but has few or no ribosomes on its cytoplasmic surface (<link target-id="fig-ch04-04-01" document=""/>). Functions of the SER include synthesis of carbohydrates, lipids, and steroid hormones; detoxification of medications and poisons; and storage of calcium ions.</para>
+<para id="fs-id1303729">In muscle cells, a specialized SER called the sarcoplasmic reticulum is responsible for storage of the calcium ions that are needed to trigger the coordinated contractions of the muscle cells.</para>
+<note id="fs-id1194561" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-id1723106" alt="QR Code representing a URL">
+<image mime-type="image/png" src="endomembrane.png" width="130"/>
+</media>
+<para xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id2215743">You can watch an excellent animation of the endomembrane system <link window="new" url="https://www.youtube.com/watch?v=Fcxc8Gv7NiU">here</link>. At the end of the animation, there is a short self-assessment.</para></note><note id="fs-id1912861" class="career"><label/><title>Career Connection</title>
+
+<para id="fs-id1561447"><title>Cardiologist</title>Heart disease is the leading cause of death in the United States. This is primarily due to our sedentary lifestyle and our high trans-fat diets.</para>
+<para id="fs-id1981423">Heart failure is just one of many disabling heart conditions. Heart failure does not mean that the heart has stopped working. Rather, it means that the heart can’t pump with sufficient force to transport oxygenated blood to all the vital organs. Left untreated, heart failure can lead to kidney failure and failure of other organs.</para>
+<para id="fs-id2215233">The wall of the heart is composed of cardiac muscle tissue. Heart failure occurs when the endoplasmic reticula of cardiac muscle cells do not function properly. As a result, an insufficient number of calcium ions are available to trigger a sufficient contractile force.</para>
+<para id="fs-id1430174">Cardiologists (cardi- = “heart”; -ologist = “one who studies”) are doctors who specialize in treating heart diseases, including heart failure. Cardiologists can make a diagnosis of heart failure via physical examination, results from an electrocardiogram (ECG, a test that measures the electrical activity of the heart), a chest X-ray to see whether the heart is enlarged, and other tests. If heart failure is diagnosed, the cardiologist will typically prescribe appropriate medications and recommend a reduction in table salt intake and a supervised exercise program.</para></note></section>
+</section>
+<section id="fs-id1664568">
+<title>The Golgi Apparatus</title>
+<para id="fs-id1340070">We have already mentioned that vesicles can bud from the ER and transport their contents elsewhere, but where do the vesicles go? Before reaching their final destination, the lipids or proteins within the transport vesicles still need to be sorted, packaged, and tagged so that they wind up in the right place. Sorting, tagging, packaging, and distribution of lipids and proteins takes place in the <term>Golgi apparatus</term> (also called the Golgi body), a series of flattened membranes (<link target-id="fig-ch04-04-03" document=""/>).</para>
+<figure id="fig-ch04-04-03"><media id="fs-id1521301" alt="In this transmission electron micrograph, the Golgi apparatus appears as a stack of membranes surrounded by unnamed organelles.">
+<image mime-type="image/jpg" src="Figure_04_04_03.jpg" width="350"/>
+</media>
+
+<caption>The Golgi apparatus in this white blood cell is visible as a stack of semicircular, flattened rings in the lower portion of the image. Several vesicles can be seen near the Golgi apparatus. (credit: modification of work by Louisa Howard)</caption></figure><para id="fs-id1726293">The receiving side of the Golgi apparatus is called the <emphasis effect="italics">cis</emphasis> face. The opposite side is called the <emphasis effect="italics">trans</emphasis> face. The transport vesicles that formed from the ER travel to the <emphasis effect="italics">cis</emphasis> face, fuse with it, and empty their contents into the lumen of the Golgi apparatus. As the proteins and lipids travel through the Golgi, they undergo further modifications that allow them to be sorted. The most frequent modification is the addition of short chains of sugar molecules. These newly modified proteins and lipids are then tagged with phosphate groups or other small molecules so that they can be routed to their proper destinations.</para>
+<para id="fs-id1716512">Finally, the modified and tagged proteins are packaged into secretory vesicles that bud from the <emphasis effect="italics">trans</emphasis> face of the Golgi. While some of these vesicles deposit their contents into other parts of the cell where they will be used, other secretory vesicles fuse with the plasma membrane and release their contents outside the cell.</para>
+<para id="fs-id1488921">In another example of form following function, cells that engage in a great deal of secretory activity (such as cells of the salivary glands that secrete digestive enzymes or cells of the immune system that secrete antibodies) have an abundance of Golgi.</para>
+<para id="fs-id1006507">In plant cells, the Golgi apparatus has the additional role of synthesizing polysaccharides, some of which are incorporated into the cell wall and some of which are used in other parts of the cell.</para>
+<note id="fs-id1618891" class="career"><label/><title>Career Connection</title>
+
+<para id="fs-id2358461"><title>Geneticist</title>Many diseases arise from genetic mutations that prevent the synthesis of critical proteins. One such disease is Lowe disease (also called oculocerebrorenal syndrome, because it affects the eyes, brain, and kidneys). In Lowe disease, there is a deficiency in an enzyme localized to the Golgi apparatus. Children with Lowe disease are born with cataracts, typically develop kidney disease after the first year of life, and may have impaired mental abilities.</para>
+<para id="fs-id1993778">Lowe disease is a genetic disease caused by a mutation on the X chromosome. The X chromosome is one of the two human sex chromosome, as these chromosomes determine a person's sex. Females possess two X chromosomes while males possess one X and one Y chromosome. In females, the genes on only one of the two X chromosomes are expressed.  Therefore, females who carry the Lowe disease gene on one of their X chromosomes have a 50/50 chance of having the disease. However, males only have one X chromosome and the genes on this chromosome are always expressed. Therefore, males will always have Lowe disease if their X chromosome carries the Lowe disease gene. The location of the mutated gene, as well as the locations of many other mutations that cause genetic diseases, has now been identified. Through prenatal testing, a woman can find out if the fetus she is carrying may be afflicted with one of several genetic diseases.</para><para id="fs-id1126762">Geneticists analyze the results of prenatal genetic tests and may counsel pregnant women on available options. They may also conduct genetic research that leads to new drugs or foods, or perform DNA analyses that are used in forensic investigations.</para>
+</note></section>
+<section id="fs-id1482669">
+<title>Lysosomes</title>
+<para id="fs-id1986769">In addition to their role as the digestive component and organelle-recycling facility of animal cells, lysosomes are considered to be parts of the endomembrane system. Lysosomes also use their hydrolytic enzymes to destroy pathogens (disease-causing organisms) that might enter the cell. A good example of this occurs in a group of white blood cells called macrophages, which are part of your body’s immune system. In a process known as phagocytosis or endocytosis, a section of the plasma membrane of the macrophage invaginates (folds in) and engulfs a pathogen. The invaginated section, with the pathogen inside, then pinches itself off from the plasma membrane and becomes a vesicle. The vesicle fuses with a lysosome. The lysosome’s hydrolytic enzymes then destroy the pathogen (<link target-id="fig-ch04-04-04" document=""/>).</para>
+<figure id="fig-ch04-04-04"><media id="fs-id1869850" alt="In this illustration, a eukaryotic cell is shown consuming a bacterium. As the bacterium is consumed, it is encapsulated in a vesicle. The vesicle fuses with a lysosome, and proteins inside the lysosome digest the bacterium.">
+<image mime-type="image/jpg" src="Figure_04_04_04.jpg" width="350"/>
+</media>
+
+<caption>A macrophage has engulfed (phagocytized) a potentially pathogenic bacterium and then fuses with a lysosomes within the cell to destroy the pathogen. Other organelles are present in the cell but for simplicity are not shown.</caption></figure></section>
+<section id="fs-id1687072" class="summary">
+<title>Section Summary</title><para id="fs-id1322516">The endomembrane system includes the nuclear envelope, lysosomes, vesicles, the ER, and Golgi apparatus, as well as the plasma membrane. These cellular components work together to modify, package, tag, and transport proteins and lipids that form the membranes.</para>
+<para id="fs-id1994591">The RER modifies proteins and synthesizes phospholipids used in cell membranes. The SER synthesizes carbohydrates, lipids, and steroid hormones; engages in the detoxification of medications and poisons; and stores calcium ions. Sorting, tagging, packaging, and distribution of lipids and proteins take place in the Golgi apparatus. Lysosomes are created by the budding of the membranes of the RER and Golgi. Lysosomes digest macromolecules, recycle worn-out organelles, and destroy pathogens.</para>
+</section>
+  <section id="fs-id2075509" class="art-exercise">
+      <title>Art Connections</title>
+      <exercise id="fs-id1570796"><problem id="fs-id1879455">
+              <para id="fs-id1416538"> <link target-id="fig-ch04-04-01" document=""/> If a peripheral membrane protein were synthesized in the lumen (inside) of the ER, would it end up on the inside or outside of the plasma membrane?</para>
+          </problem>
+          <solution id="fs-id1325439"><label/>              <para id="fs-id1722059"> <link target-id="fig-ch04-04-01" document=""/> It would end up on the outside. After the vesicle passes through the Golgi apparatus and fuses with the plasma membrane, it turns inside out.</para>
+          </solution>
+      </exercise></section>
+<section id="fs-id1904682" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-id1486983"><problem id="fs-id1651961">
+<para id="fs-id2029669">Which of the following is not a component of the endomembrane system?</para>
+<list id="fs-id2215260" list-type="enumerated" number-style="lower-alpha">
+<item>mitochondrion</item>
+<item>Golgi apparatus</item>
+<item>endoplasmic reticulum</item>
+<item>lysosome</item>
+</list>
+</problem>
+<solution id="fs-id1970249">
+<label/>
+<para id="fs-id2027385">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1758285"><problem id="fs-id1987167">
+<para id="fs-id1806761">The process by which a cell engulfs a foreign particle is known as:</para>
+<list id="fs-id1316992" list-type="enumerated" number-style="lower-alpha">
+<item>endosymbiosis</item>
+<item>phagocytosis</item>
+<item>hydrolysis</item>
+<item>membrane synthesis</item>
+</list>
+</problem>
+<solution id="fs-id2025979">
+<label/>
+<para id="fs-id1774676">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id833165"><problem id="fs-id1734531">
+<para id="fs-id1744817">Which of the following is most likely to have the greatest concentration of smooth endoplasmic reticulum?</para>
+<list id="fs-id1735841" list-type="enumerated" number-style="lower-alpha">
+<item>a cell that secretes enzymes</item>
+<item>a cell that destroys pathogens</item>
+<item>a cell that makes steroid hormones</item>
+<item>a cell that engages in photosynthesis</item>
+</list>
+</problem>
+<solution id="fs-id1386336">
+<label/>
+<para id="fs-id2367542">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1703517"><problem id="fs-id1746755">
+<para id="fs-id1823291">Which of the following sequences correctly lists in order the steps involved in the incorporation of a proteinaceous molecule within a cell?</para>
+<list id="fs-id1644310" list-type="enumerated" number-style="lower-alpha">
+<item>synthesis of the protein on the ribosome; modification in the Golgi apparatus; packaging in the endoplasmic reticulum; tagging in the vesicle</item>
+<item>synthesis of the protein on the lysosome; tagging in the Golgi; packaging in the vesicle; distribution in the endoplasmic reticulum</item>
+<item>synthesis of the protein on the ribosome; modification in the endoplasmic reticulum; tagging in the Golgi; distribution via the vesicle</item>
+<item>synthesis of the protein on the lysosome; packaging in the vesicle; distribution via the Golgi; tagging in the endoplasmic reticulum</item>
+</list>
+</problem>
+<solution id="fs-id1869947">
+<label/>
+<para id="fs-id1930326">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1792037" class="free-response">
+<title>Free Response</title><exercise id="fs-id1755641">
+<problem id="fs-id2056365"><para id="fs-id1965223">In the context of cell biology, what do we mean by form follows function? What are at least two examples of this concept? </para></problem>
+<solution id="fs-id1953693"><label/>
+<para id="fs-id1722854">“Form follows function” refers to the idea that the function of a body part dictates the form of that body part. As an example, compare your arm to a bat’s wing. While the bones of the two correspond, the parts serve different functions in each organism and their forms have adapted to follow that function.</para></solution>
+</exercise>
+<exercise id="fs-id1961754">
+<problem id="fs-id2068069"><para id="fs-id1848396">In your opinion, is the nuclear membrane part of the endomembrane system? Why or why not? Defend your answer.</para></problem>
+<solution id="fs-id2190555"><label/>
+<para id="fs-id1466466">Since the external surface of the nuclear membrane is continuous with the rough endoplasmic reticulum, which is part of the endomembrane system, then it is correct to say that it is part of the system.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-id1686927"><term>endomembrane system</term> <meaning id="fs-id1715595">group of organelles and membranes in eukaryotic cells that work together modifying, packaging, and transporting lipids and proteins</meaning></definition>
+<definition id="fs-id1769701"><term>endoplasmic reticulum (ER)</term> <meaning id="fs-id2005605">series of interconnected membranous structures within eukaryotic cells that collectively modify proteins and synthesize lipids</meaning></definition>
+<definition id="fs-id1438096"><term>Golgi apparatus</term> <meaning id="fs-id1454036">eukaryotic organelle made up of a series of stacked membranes that sorts, tags, and packages lipids and proteins for distribution</meaning></definition>
+<definition id="fs-id878129"><term>rough endoplasmic reticulum (RER)</term> <meaning id="fs-id1699690">region of the endoplasmic reticulum that is studded with ribosomes and engages in protein modification and phospholipid synthesis</meaning></definition>
+<definition id="fs-id1954356"><term>smooth endoplasmic reticulum (SER)</term> <meaning id="fs-id1722834">region of the endoplasmic reticulum that has few or no ribosomes on its cytoplasmic surface and synthesizes carbohydrates, lipids, and steroid hormones; detoxifies certain chemicals (like pesticides, preservatives, medications, and environmental pollutants), and stores calcium ions</meaning></definition>
+</glossary>
+
+</document>

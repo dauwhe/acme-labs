@@ -1,0 +1,142 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44533/latest/</md:content-url>
+  <md:content-id>m44533</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.3</md:version>
+  <md:created>2012/08/23 13:53:58 -0500</md:created>
+  <md:revised>2013/06/26 12:14:42.022 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>3' UTR</md:keyword>
+    <md:keyword>5' UTR</md:keyword>
+    <md:keyword>A branch site</md:keyword>
+    <md:keyword>activator</md:keyword>
+    <md:keyword>AG dinucleotide region</md:keyword>
+    <md:keyword>cancer</md:keyword>
+    <md:keyword>CAP</md:keyword>
+    <md:keyword>catabolite activator protein</md:keyword>
+    <md:keyword>cell cycle</md:keyword>
+    <md:keyword>cis-acting element</md:keyword>
+    <md:keyword>clinical trial</md:keyword>
+    <md:keyword>dicer</md:keyword>
+    <md:keyword>DNA methylation</md:keyword>
+    <md:keyword>enhancer</md:keyword>
+    <md:keyword>epigenetic</md:keyword>
+    <md:keyword>epigenetic control</md:keyword>
+    <md:keyword>epigenetic gene regulation</md:keyword>
+    <md:keyword>epigenetic regulation</md:keyword>
+    <md:keyword>eukaryotic epigenetic gene regulation</md:keyword>
+    <md:keyword>eukaryotic gene expression</md:keyword>
+    <md:keyword>eukaryotic gene regulation</md:keyword>
+    <md:keyword>eukaryotic initiation factor-2</md:keyword>
+    <md:keyword>eukaryotic post-transcriptional gene regulation</md:keyword>
+    <md:keyword>eukaryotic post-translational gene regulation</md:keyword>
+    <md:keyword>eukaryotic transcriptional gene regulation</md:keyword>
+    <md:keyword>eukaryotic translational gene regulation</md:keyword>
+    <md:keyword>gene expression</md:keyword>
+    <md:keyword>gene expression regulation</md:keyword>
+    <md:keyword>gene regulation</md:keyword>
+    <md:keyword>guanine diphosphate</md:keyword>
+    <md:keyword>guanine triphosphate</md:keyword>
+    <md:keyword>GU dinucleotide signal</md:keyword>
+    <md:keyword>histone acetylation</md:keyword>
+    <md:keyword>histone modification</md:keyword>
+    <md:keyword>inducer</md:keyword>
+    <md:keyword>inducible operon</md:keyword>
+    <md:keyword>initiation complex</md:keyword>
+    <md:keyword>lac operon</md:keyword>
+    <md:keyword>large 60S ribosomal subunit</md:keyword>
+    <md:keyword>microRNA</md:keyword>
+    <md:keyword>miRNA</md:keyword>
+    <md:keyword>Myc</md:keyword>
+    <md:keyword>negative regulator</md:keyword>
+    <md:keyword>operator</md:keyword>
+    <md:keyword>operon</md:keyword>
+    <md:keyword>positive regulator</md:keyword>
+    <md:keyword>post-transcriptional</md:keyword>
+    <md:keyword>post-transcriptional gene regulation</md:keyword>
+    <md:keyword>post-translational</md:keyword>
+    <md:keyword>post-translational gene regulation</md:keyword>
+    <md:keyword>prokaryotic gene expression</md:keyword>
+    <md:keyword>prokaryotic gene regulation</md:keyword>
+    <md:keyword>proteasome</md:keyword>
+    <md:keyword>RBP</md:keyword>
+    <md:keyword>regulation of gene expression</md:keyword>
+    <md:keyword>repressor</md:keyword>
+    <md:keyword>RNA binding protein</md:keyword>
+    <md:keyword>small 40S ribosomal subunit</md:keyword>
+    <md:keyword>TFIIB</md:keyword>
+    <md:keyword>TFIID</md:keyword>
+    <md:keyword>TFIIE</md:keyword>
+    <md:keyword>TFIIF</md:keyword>
+    <md:keyword>TFIIH</md:keyword>
+    <md:keyword>trans-acting element</md:keyword>
+    <md:keyword>transcription</md:keyword>
+    <md:keyword>transcriptional start site</md:keyword>
+    <md:keyword>transcription factor</md:keyword>
+    <md:keyword>transcription factor binding site</md:keyword>
+    <md:keyword>transcription gene regulation</md:keyword>
+    <md:keyword>translational gene regulation</md:keyword>
+    <md:keyword>trp operon</md:keyword>
+    <md:keyword>tryptophan</md:keyword>
+    <md:keyword>untranslated region</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+    <?cnx.eoc class="summary" title="Sections Summary"?>
+    <?cnx.eoc class="art-exercise" title="Art Connections"?>
+    <?cnx.eoc class="multiple-choice" title="Multiple Choice"?>
+    <?cnx.eoc class="free-response" title="Free Response"?>
+
+<figure id="fig-ch16_00_01" class="splash">
+<media id="fs-id1435492" alt="Part A depicts a cross section of an eyeball, which has a lens at the front and a cluster of blood vessels at the back. Part B depicts a liver, which is shaped like a triangle. Beneath the liver is a lobe-shaped gall bladder connected to a pancreas by a stem-like vessel. Part C is a sketch, drawn by Leonardo Da Vinci, of a man standing erect with outstretched arms. Superimposed on this image, the man has his legs spread and his arms uplifted.">
+<image mime-type="image/jpg" src="Figure_16_00_01.jpg" width="700"/>
+</media>
+<caption>The genetic content of each somatic cell in an organism is the same, but not all genes are expressed in every cell. The control of which genes are expressed dictates whether a cell is (a) an eye cell or (b) a liver cell. It is the differential gene expression patterns that arise in different cells that give rise to (c) a complete organism.</caption></figure><para id="fs-id1595873">Each somatic cell in the body generally contains the same DNA. A few exceptions include red blood cells, which contain no DNA in their mature state, and some immune system cells that rearrange their DNA while producing antibodies. In general, however, the genes that determine whether you have green eyes, brown hair, and how fast you metabolize food are the same in the cells in your eyes and your liver, even though these organs function quite differently. If each cell has the same DNA, how is it that cells or organs are different? Why do cells in the eye differ so dramatically from cells in the liver?</para><para id="fs-id2059567">Whereas each cell shares the same genome and DNA sequence, each cell does not turn on, or express, the same set of genes. Each cell type needs a different set of proteins to perform its function. Therefore, only a small subset of proteins is expressed in a cell. For the proteins to be expressed, the DNA must be transcribed into RNA and the RNA must be translated into protein. In a given cell type, not all genes encoded in the DNA are transcribed into RNA or translated into protein because specific cells in our body have specific functions. Specialized proteins that make up the eye (iris, lens, and cornea) are only expressed in the eye, whereas the specialized proteins in the heart (pacemaker cells, heart muscle, and valves) are only expressed in the heart. At any given time, only a subset of all of the genes encoded by our DNA are expressed and translated into proteins. The expression of specific genes is a highly regulated process with many levels and stages of control. This complexity ensures the proper expression in the proper cell at the proper time.</para>
+</content>
+
+</document>

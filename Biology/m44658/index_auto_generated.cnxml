@@ -1,0 +1,148 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Animal Phylogeny</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44658/latest/</md:content-url>
+  <md:content-id>m44658</md:content-id>
+  <md:title>Animal Phylogeny</md:title>
+  <md:version>1.5</md:version>
+  <md:created>2012/08/23 14:39:49 -0500</md:created>
+  <md:revised>2013/04/10 11:06:52.610 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>animal diversity</md:keyword>
+    <md:keyword>animal phylogeny</md:keyword>
+    <md:keyword>Eumatozoa</md:keyword>
+    <md:keyword>Metazoa</md:keyword>
+    <md:keyword>metazoan phylogenetic tree</md:keyword>
+    <md:keyword>Parazoa</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Interpret the metazoan phylogenetic tree</item>
+<item>Describe the types of data that scientists use to construct and revise animal phylogeny</item>
+<item>List some of the relationships within the modern phylogenetic tree that have been discovered as a result of modern molecular data</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idp118474864">Biologists strive to understand the evolutionary history and relationships of members of the animal kingdom, and all of life, for that matter. The study of phylogeny aims to determine the evolutionary relationships between phyla. Currently, most biologists divide the animal kingdom into 35 to 40 phyla. Scientists develop phylogenetic trees, which serve as hypotheses about which species have evolved from which ancestors</para>
+<para id="fs-idp47380224">Recall that until recently, only morphological characteristics and the fossil record were used to determine phylogenetic relationships among animals. Scientific understanding of the distinctions and hierarchies between anatomical characteristics provided much of this knowledge. Used alone, however, this information can be misleading. Morphological characteristics may evolve multiple times, and independently, through evolutionary history. Analogous characteristics may appear similar between animals, but their underlying evolution may be very different. With the advancement of molecular technologies, modern phylogenetics is now informed by genetic and molecular analyses, in addition to traditional morphological and fossil data. With a growing understanding of genetics, the animal evolutionary tree has changed substantially and continues to change as new DNA and RNA analyses are performed on additional animal species.</para>
+<section id="fs-idp88797664">
+<title>Constructing an Animal Phylogenetic Tree</title>
+<para id="fs-idp68396496">The current understanding of evolutionary relationships between animal, or <term>Metazoa</term>, phyla begins with the distinction between &#8220;true&#8221; animals with true differentiated tissues, called <term>Eumetazoa</term>, and animal phyla that do not have true differentiated tissues (such as the sponges), called <term>Parazoa</term>. Both Parazoa and Eumetazoa evolved from a common ancestral organism that resembles the modern-day protists called choanoflagellates. These protist cells strongly resemble the sponge choanocyte cells today (<link target-id="fig-ch27_03_01" document=""/>).</para>
+<figure id="fig-ch27_03_01"><media id="fs-idp39681616" alt="The image on the left shows a choanoflagellate, which is a single-celled protest. The image on the right shows a sponge choanocyte cell that lines in inside of a sponge. The two cells appear identical. Both are egg-shaped with a cone at the back end. A flagellum juts out from the wide part of the cone.">
+<image mime-type="image/jpg" src="Figure_27_03_01.jpg" width="400"/>
+</media>
+<caption>Cells of the protist choanoflagellate resemble sponge choanocyte cells. Beating of choanocyte flagella draws water through the sponge so that nutrients can be extracted and waste removed.</caption></figure><para id="fs-idp93832224">Eumetazoa are subdivided into radially symmetrical animals and bilaterally symmetrical animals, and are thus classified into clade Bilateria or Radiata, respectively. As mentioned earlier, the cnidarians and ctenophores are animal phyla with true radial symmetry. All other Eumetazoa are members of the Bilateria clade. The bilaterally symmetrical animals are further divided into deuterostomes (including chordates and echinoderms) and two distinct clades of protostomes (including ecdysozoans and lophotrochozoans) (<link target-id="fig-ch27_03_02" document=""/>ab). <term>Ecdysozoa</term> includes nematodes and arthropods; they are so named for a commonly found characteristic among the group: exoskeletal molting (termed ecdysis). <term>Lophotrochozoa</term> is named for two structural features, each common to certain phyla within the clade. Some lophotrochozoan phyla are characterized by a larval stage called trochophore larvae, and other phyla are characterized by the presence of a feeding structure called a lophophore.</para>
+<figure id="fig-ch27_03_02"><media id="fs-idp66593824" alt="Part a shows cockroaches. Part b shows phoronids, whose body is a slender stalk anchored to the ocean floor. Fine tentacles radiate from the top of the stalk. The tentacles and stalk resemble a flower.">
+<image mime-type="image/jpg" src="Figure_27_03_02ab.jpg" width="450"/>
+</media>
+<caption>Animals that molt their exoskeletons, such as these (a) Madagascar hissing cockroaches, are in the clade Ecdysozoa. (b) Phoronids are in the clade Lophotrochozoa. The tentacles are part of a feeding structure called a lophophore. (credit a: modification of work by Whitney Cranshaw, Colorado State University, Bugwood.org; credit b: modification of work by NOAA)</caption></figure><note id="fs-idp66695952" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idp8251504" alt="QR Code representing a URL">
+<image mime-type="image/png" src="tree_of_life.png" width="120"/>
+</media>
+<para id="fs-idp107685872">Explore an interactive <link window="new" url="http://openstaxcollege.org/l/tree_of_life2">tree</link> of life here. Zoom and click to learn more about the organisms and their evolutionary relationships.</para></note></section>
+<section id="fs-idp44881632">
+<title>Modern Advances in Phylogenetic Understanding Come from Molecular Analyses</title>
+<para id="fs-idp74603952">The phylogenetic groupings are continually being debated and refined by evolutionary biologists. Each year, new evidence emerges that further alters the relationships described by a phylogenetic tree diagram.</para>
+<note id="fs-idp147504464" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idm113543776" alt="QR Code representing a URL">
+<image mime-type="image/png" src="build_phylogeny.png" width="120"/>
+</media>
+<para id="fs-idm14460016">Watch the following <link window="new" url="http://openstaxcollege.org/l/build_phylogeny">video</link> to learn how biologists use genetic data to determine relationships among organisms.</para></note><para id="fs-idp96137328">Nucleic acid and protein analyses have greatly informed the modern phylogenetic animal tree. These data come from a variety of molecular sources, such as mitochondrial DNA, nuclear DNA, ribosomal RNA (rRNA), and certain cellular proteins. Many evolutionary relationships in the modern tree have only recently been determined due to molecular evidence. For example, a previously classified group of animals called lophophorates, which included brachiopods and bryozoans, were long-thought to be primitive deuterostomes. Extensive molecular analysis using rRNA data found these animals to be protostomes, more closely related to annelids and mollusks. This discovery allowed for the distinction of the protostome clade, the lophotrochozoans. Molecular data have also shed light on some differences within the lophotrochozoan group, and some scientists believe that the phyla Platyhelminthes and Rotifera within this group should actually belong to their own group of protostomes termed Platyzoa.</para>
+<para id="fs-idp54528592">Molecular research similar to the discoveries that brought about the distinction of the lophotrochozoan clade has also revealed a dramatic rearrangement of the relationships between mollusks, annelids, arthropods, and nematodes, and a new ecdysozoan clade was formed. Due to morphological similarities in their segmented body types, annelids and arthropods were once thought to be closely related. However, molecular evidence has revealed that arthropods are actually more closely related to nematodes, now comprising the ecdysozoan clade, and annelids are more closely related to mollusks, brachiopods, and other phyla in the lophotrochozoan clade. These two clades now make up the protostomes.</para>
+<para id="fs-idp67900192">Another change to former phylogenetic groupings because of molecular analyses includes the emergence of an entirely new phylum of worm called Acoelomorpha. These acoel flatworms were long thought to belong to the phylum Platyhelminthes because of their similar &#8220;flatworm&#8221; morphology. However, molecular analyses revealed this to be a false relationship and originally suggested that acoels represented living species of some of the earliest divergent bilaterians. More recent research into the acoelomorphs has called this hypothesis into question and suggested a closer relationship with deuterostomes. The placement of this new phylum remains disputed, but scientists agree that with sufficient molecular data, their true phylogeny will be determined.</para>
+</section>
+<section id="fs-idp60223792" class="summary">
+<title>Section Summary</title><para id="fs-idp214631216">Scientists are interested in the evolutionary history of animals and the evolutionary relationships among them. There are three main sources of data that scientists use to create phylogenetic evolutionary tree diagrams that illustrate such relationships: morphological information (which includes developmental morphologies), fossil record data, and, most recently, molecular data. The details of the modern phylogenetic tree change frequently as new data are gathered, and molecular data has recently contributed to many substantial modifications of the understanding of relationships between animal phyla.</para>
+</section>
+<section id="fs-idp54861360" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp241355968"><problem id="fs-idp58217872"><para id="fs-idp215646944">Consulting the modern phylogenetic tree of animals, which of the following would not constitute a clade?</para>
+      <list id="fs-idp1217712" list-type="enumerated" number-style="lower-alpha">
+<item>deuterostomes</item>
+<item>lophotrochozoans</item>
+<item>Parazoa</item>
+<item>Bilateria</item>
+</list>
+</problem>
+<solution id="fs-idp94059504"><label/><para id="fs-idp183614592">C</para></solution>
+</exercise><exercise id="fs-idp62616112"><problem id="fs-idp123706240"><para id="fs-idp80342368">Which of the following is thought to be the most closely related to the common animal ancestor?</para>
+      <list id="fs-idp169640336" list-type="enumerated" number-style="lower-alpha">
+ <item>fungal cells</item>
+<item>protist cells</item>
+<item>plant cells</item>
+<item>bacterial cells</item></list>
+</problem>
+<solution id="fs-idp182365104"><label/><para id="fs-idp156923456">B</para></solution>
+</exercise><exercise id="fs-idm4701040"><problem id="fs-idp107800640"><para id="fs-idp268242480">As with the emergence of the Acoelomorpha phylum, it is common for ____ data to misplace animals in close relation to other species, whereas ____ data often reveals a different and more accurate evolutionary relationship.</para>
+      <list id="fs-idp63132576" list-type="enumerated" number-style="lower-alpha">
+<item>molecular : morphological</item>
+<item>molecular : fossil record</item>
+<item>fossil record : morphological</item>
+<item>morphological : molecular</item>
+</list>
+</problem>
+<solution id="fs-idp54433344"><label/><para id="fs-idp9990032">D</para></solution>
+</exercise></section>
+<section id="fs-idp79398384" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idp143778352">
+<problem id="fs-idm6369392"><para id="fs-idp90921168">Describe at least two major changes to the animal phylogenetic tree that have come about due to molecular or genetic findings.</para></problem>
+<solution id="fs-idp17154128"><label/>
+<para id="fs-idp190356112">Two new clades that comprise the two major groups of protostomes are called the lophotrochozoans and the ecdysozoans. The formation of these two clades came about through molecular research from DNA and protein data. Also, the novel phylum of worm called Acoelomorpha was determined due to molecular data that distinguished them from other flatworms.</para></solution>
+</exercise>
+<exercise id="fs-idp19557504">
+<problem id="fs-idp58446800"><para id="fs-idp44534368">How is it that morphological data alone might lead scientists to group animals into erroneous evolutionary relationships?</para></problem>
+<solution id="fs-idm54643872"><label/>
+<para id="fs-idp60847632">In many cases, morphological similarities between animals may be only superficial similarities and may not indicate a true evolutionary relationship. One of the reasons for this is that certain morphological traits can evolve along very different evolutionary branches of animals for similar ecological reasons.</para></solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idp87424160"><term>Ecdysozoa</term> <meaning id="fs-idp60526192">clade of protostomes that exhibit exoskeletal molting (ecdysis)</meaning></definition>
+<definition id="fs-idp123108912"><term>Eumetazoa</term> <meaning id="fs-idm6368896">group of animals with true differentiated tissues</meaning></definition>
+<definition id="fs-idp100584816"><term>Lophotrochozoa</term> <meaning id="fs-idp100428368">clade of protostomes that exhibit a trochophore larvae stage or a lophophore feeding structure</meaning></definition>
+<definition id="fs-idp190312352"><term>Metazoa</term> <meaning id="fs-idp123062080">group containing all animals</meaning></definition>
+<definition id="fs-idp111720336"><term>Parazoa</term> <meaning id="fs-idp67861120">group of animals without true differentiated tissues</meaning></definition>
+</glossary>
+</document>

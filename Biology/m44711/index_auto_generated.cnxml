@@ -1,0 +1,408 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Plant Sensory Systems and Responses</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44711/latest/</md:content-url>
+  <md:content-id>m44711</md:content-id>
+  <md:title>Plant Sensory Systems and Responses</md:title>
+  <md:version>1.6</md:version>
+  <md:created>2012/08/23 14:57:43 -0500</md:created>
+  <md:revised>2013/05/10 11:58:25.696 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>abscisic acid</md:keyword>
+    <md:keyword>abscission</md:keyword>
+    <md:keyword>auxin</md:keyword>
+    <md:keyword>blue light</md:keyword>
+    <md:keyword>blue light response</md:keyword>
+    <md:keyword>carotenoid</md:keyword>
+    <md:keyword>chromophore</md:keyword>
+    <md:keyword>cryptochrome</md:keyword>
+    <md:keyword>cytokinin</md:keyword>
+    <md:keyword>ethylene</md:keyword>
+    <md:keyword>etoliation</md:keyword>
+    <md:keyword>flavin</md:keyword>
+    <md:keyword>gibberellin</md:keyword>
+    <md:keyword>gravitropism</md:keyword>
+    <md:keyword>horticulture</md:keyword>
+    <md:keyword>jasmonate</md:keyword>
+    <md:keyword>negative gravitropism</md:keyword>
+    <md:keyword>oligosaccharin</md:keyword>
+    <md:keyword>photomorphogenesis</md:keyword>
+    <md:keyword>photoperiodism</md:keyword>
+    <md:keyword>phototropin</md:keyword>
+    <md:keyword>phototropism</md:keyword>
+    <md:keyword>phytochrome</md:keyword>
+    <md:keyword>plant defense</md:keyword>
+    <md:keyword>plant form</md:keyword>
+    <md:keyword>plant hormones</md:keyword>
+    <md:keyword>plant physiology</md:keyword>
+    <md:keyword>plant response</md:keyword>
+    <md:keyword>plant response to touch</md:keyword>
+    <md:keyword>plant response to wind</md:keyword>
+    <md:keyword>plants</md:keyword>
+    <md:keyword>plant sensory system</md:keyword>
+    <md:keyword>positive gravitropism</md:keyword>
+    <md:keyword>red/far-red response</md:keyword>
+    <md:keyword>red light</md:keyword>
+    <md:keyword>statolith</md:keyword>
+    <md:keyword>strigolactone</md:keyword>
+    <md:keyword>thigmomorphogenesis</md:keyword>
+    <md:keyword>thigmonastic</md:keyword>
+    <md:keyword>thigmotropism</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe how red and blue light affect plant growth and metabolic activities</item>
+<item>Discuss gravitropism</item>
+<item>Understand how hormones affect plant growth and development</item>
+<item>Describe thigmotropism, thigmonastism, and thigmogenesis</item>
+<item>Explain how plants defend themselves from predators and respond to wounds</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idp23711936">Animals can respond to environmental factors by moving to a new location. Plants, however, are rooted in place and must respond to the surrounding environmental factors. Plants have sophisticated systems to detect and respond to light, gravity, temperature, and physical touch. Receptors sense environmental factors and relay the information to effector systems&#8212;often through intermediate chemical messengers&#8212;to bring about plant responses.</para>
+<section id="fs-idp68880896">
+<title>Plant Responses to Light</title>
+<para id="fs-idp4456976">Plants have a number of sophisticated uses for light that go far beyond their ability to photosynthesize low-molecular-weight sugars using only carbon dioxide, light, and water. <term>Photomorphogenesis</term> is the growth and development of plants in response to light. It allows plants to optimize their use of light and space. <term>Photoperiodism</term> is the ability to use light to track time. Plants can tell the time of day and time of year by sensing and using various wavelengths of sunlight. <term>Phototropism</term> is a directional response that allows plants to grow towards, or even away from, light.</para>
+<para id="fs-idp4545296">The sensing of light in the environment is important to plants; it can be crucial for competition and survival. The response of plants to light is mediated by different photoreceptors, which are comprised of a protein covalently bonded to a light-absorbing pigment called a <term>chromophore</term>. Together, the two are called a chromoprotein.</para>
+<para id="fs-idp220423104">The red/far-red and violet-blue regions of the visible light spectrum trigger structural development in plants. Sensory photoreceptors absorb light in these particular regions of the visible light spectrum because of the quality of light available in the daylight spectrum. In terrestrial habitats, light absorption by chlorophylls peaks in the blue and red regions of the spectrum. As light filters through the canopy and the blue and red wavelengths are absorbed, the spectrum shifts to the far-red end, shifting the plant community to those plants better adapted to respond to far-red light. Blue-light receptors allow plants to gauge the direction and abundance of sunlight, which is rich in blue&#8211;green emissions. Water absorbs red light, which makes the detection of blue light essential for algae and aquatic plants.</para>
+<section id="fs-idm31647376">
+<title>The Phytochrome System and the Red/Far-Red Response</title>
+<para id="fs-idp109978896">The <term>phytochromes</term> are a family of chromoproteins with a linear tetrapyrrole chromophore, similar to the ringed tetrapyrrole light-absorbing head group of chlorophyll. Phytochromes have two photo-interconvertible forms: Pr and Pfr. Pr absorbs red light (~667&#160;nm) and is immediately converted to Pfr. Pfr absorbs far-red light (~730&#160;nm) and is quickly converted back to Pr. Absorption of red or far-red light causes a massive change to the shape of the chromophore, altering the conformation and activity of the phytochrome protein to which it is bound. Pfr is the physiologically active form of the protein; therefore, exposure to red light yields physiological activity. Exposure to far-red light inhibits phytochrome activity. Together, the two forms represent the phytochrome system (<link target-id="fig-ch30_06_01" document=""/>).</para>
+<para id="fs-idp80048048">The phytochrome system acts as a biological light switch. It monitors the level, intensity, duration, and color of environmental light. The effect of red light is reversible by immediately shining far-red light on the sample, which converts the chromoprotein to the inactive Pr form. Additionally, Pfr can slowly revert to Pr in the dark, or break down over time. In all instances, the physiological response induced by red light is reversed. The active form of phytochrome (Pfr) can directly activate other molecules in the cytoplasm, or it can be trafficked to the nucleus, where it directly activates or represses specific gene expression.</para>
+<para id="fs-idp138460288">Once the phytochrome system evolved, plants adapted it to serve a variety of needs. Unfiltered, full sunlight contains much more red light than far-red light. Because chlorophyll absorbs strongly in the red region of the visible spectrum, but not in the far-red region, any plant in the shade of another plant on the forest floor will be exposed to red-depleted, far-red-enriched light. The preponderance of far-red light converts phytochrome in the shaded leaves to the Pr (inactive) form, slowing growth. The nearest non-shaded (or even less-shaded) areas on the forest floor have more red light; leaves exposed to these areas sense the red light, which activates the Pfr form and induces growth. In short, plant shoots use the phytochrome system to grow away from shade and towards light. Because competition for light is so fierce in a dense plant community, the evolutionary advantages of the phytochrome system are obvious.</para>
+<para id="fs-idp159765888">In seeds, the phytochrome system is not used to determine direction and quality of light (shaded versus unshaded). Instead, is it used merely to determine if there is any light at all. This is especially important in species with very small seeds, such as lettuce. Because of their size, lettuce seeds have few food reserves. Their seedlings cannot grow for long before they run out of fuel. If they germinated even a centimeter under the soil surface, the seedling would never make it into the sunlight and would die. In the dark, phytochrome is in the Pr (inactive form) and the seed will not germinate; it will only germinate if exposed to light at the surface of the soil. Upon exposure to light, Pr is converted to Pfr and germination proceeds.</para>
+<figure id="fig-ch30_06_01"><media id="fs-idp66849952" alt=" Diagram shows the active (Pr) and inactive (Pfr) forms of phytochrome. An arrow indicates that red light converts the inactive form to the active form. Far-red light or darkness converts the active form back to the inactive form. When phytochrome is active, a cellular response occurs.">
+<image mime-type="image/jpg" src="Figure_30_06_01.jpg" width="225"/>
+</media>
+
+<caption>The biologically inactive form of phytochrome (Pr) is converted to the biologically active form Pfr under illumination with red light. Far-red light and darkness convert the molecule back to the inactive form.</caption></figure><para id="fs-idp193431120">Plants also use the phytochrome system to sense the change of season. Photoperiodism is a biological response to the timing and duration of day and night. It controls flowering, setting of winter buds, and vegetative growth. Detection of seasonal changes is crucial to plant survival. Although temperature and light intensity influence plant growth, they are not reliable indicators of season because they may vary from one year to the next. Day length is a better indicator of the time of year.</para><para id="fs-idp67036784">As stated above, unfiltered sunlight is rich in red light but deficient in far-red light. Therefore, at dawn, all the phytochrome molecules in a leaf quickly convert to the active Pfr form, and remain in that form until sunset. In the dark, the Pfr form takes hours to slowly revert back to the Pr form. If the night is long (as in winter), all of the Pfr form reverts. If the night is short (as in summer), a considerable amount of Pfr may remain at sunrise. By sensing the Pr/Pfr ratio at dawn, a plant can determine the length of the day/night cycle. In addition, leaves retain that information for several days, allowing a comparison between the length of the previous night and the preceding several nights. Shorter nights indicate springtime to the plant; when the nights become longer, autumn is approaching. This information, along with sensing temperature and water availability, allows plants to determine the time of the year and adjust their physiology accordingly. Short-day (long-night) plants use this information to flower in the late summer and early fall, when nights exceed a critical length (often eight or fewer hours). Long-day (short-night) plants flower during the spring, when darkness is less than a critical length (often eight to 15 hours). Not all plants use the phytochrome system in this way. Flowering in day-neutral plants is not regulated by daylength.</para>
+<note id="fs-idp151233952" class="career"><label/><title>Career Connection</title>
+
+<para id="fs-idp110569584"><title>Horticulturalist</title>The word &#8220;horticulturist&#8221; comes from the Latin words for garden (<emphasis effect="italics">hortus</emphasis>) and culture (<emphasis effect="italics">cultura</emphasis>). This career has been revolutionized by progress made in the understanding of plant responses to environmental stimuli. Growers of crops, fruit, vegetables, and flowers were previously constrained by having to time their sowing and harvesting according to the season. Now, horticulturists can manipulate plants to increase leaf, flower, or fruit production by understanding how environmental factors affect plant growth and development.</para>
+<para id="fs-idp124667200">Greenhouse management is an essential component of a horticulturist&#8217;s education. To lengthen the night, plants are covered with a blackout shade cloth. Long-day plants are irradiated with red light in winter to promote early flowering. For example, fluorescent (cool white) light high in blue wavelengths encourages leafy growth and is excellent for starting seedlings. Incandescent lamps (standard light bulbs) are rich in red light, and promote flowering in some plants. The timing of fruit ripening can be increased or delayed by applying plant hormones. Recently, considerable progress has been made in the development of plant breeds that are suited to different climates and resistant to pests and transportation damage. Both crop yield and quality have increased as a result of practical applications of the knowledge of plant responses to external stimuli and hormones.</para>
+<para id="fs-idp103240640">Horticulturists find employment in private and governmental laboratories, greenhouses, botanical gardens, and in the production or research fields. They improve crops by applying their knowledge of genetics and plant physiology. To prepare for a horticulture career, students take classes in botany, plant physiology, plant pathology, landscape design, and plant breeding. To complement these traditional courses, horticulture majors add studies in economics, business, computer science, and communications.</para>
+</note></section>
+<section id="fs-idp40936512">
+<title>The Blue Light Responses</title>
+<para id="fs-idp23004176">Phototropism&#8212;the directional bending of a plant toward or away from a light source&#8212;is a response to blue wavelengths of light. Positive phototropism is growth towards a light source (<link target-id="fig-ch30_06_02" document=""/>), while negative phototropism (also called skototropism) is growth away from light.</para>
+<para id="fs-idm52903168">The aptly-named <term>phototropins</term> are protein-based receptors responsible for mediating the phototropic response. Like all plant photoreceptors, phototropins consist of a protein portion and a light-absorbing portion, called the chromophore. In phototropins, the chromophore is a covalently-bound molecule of flavin; hence, phototropins belong to a class of proteins called flavoproteins.</para>
+<para id="fs-idp70203856">Other responses under the control of phototropins are leaf opening and closing, chloroplast movement, and the opening of stomata. However, of all responses controlled by phototropins, phototropism has been studied the longest and is the best understood.</para>
+<para id="fs-idp6903008">In their 1880 treatise <emphasis effect="italics">The Power of Movements in Plants</emphasis>, Charles Darwin and his son Francis first described phototropism as the bending of seedlings toward light. Darwin observed that light was perceived by the tip of the plant (the apical meristem), but that the response (bending) took place in a different part of the plant. They concluded that the signal had to travel from the apical meristem to the base of the plant.</para>
+<figure id="fig-ch30_06_02"><media id="fs-idm5581568" alt=" Photo shows blue flowers all tilted in the same direction. The flowers have four small petals and a yellow center, and each flower sits atop a slender green stem.">
+<image mime-type="image/jpg" src="Figure_30_06_02.jpg" width="370"/>
+</media>
+
+<caption>Azure bluets (<emphasis effect="italics">Houstonia caerulea</emphasis>) display a phototropic response by bending toward the light. (credit: Cory Zanker)</caption></figure><para id="fs-idm66345776">In 1913, Peter Boysen-Jensen demonstrated that a chemical signal produced in the plant tip was responsible for the bending at the base. He cut off the tip of a seedling, covered the cut section with a layer of gelatin, and then replaced the tip. The seedling bent toward the light when illuminated. However, when impermeable mica flakes were inserted between the tip and the cut base, the seedling did not bend. A refinement of the experiment showed that the signal traveled on the shaded side of the seedling. When the mica plate was inserted on the illuminated side, the plant did bend towards the light. Therefore, the chemical signal was a growth stimulant because the phototropic response involved faster cell elongation on the shaded side than on the illuminated side. We now know that as light passes through a plant stem, it is diffracted and generates phototropin activation across the stem. Most activation occurs on the lit side, causing the plant hormone indole acetic acid (IAA) to accumulate on the shaded side. Stem cells elongate under influence of IAA.</para><para id="fs-idp173276656"><term>Cryptochromes</term> are another class of blue-light absorbing photoreceptors that also contain a flavin-based chromophore.  Cryptochromes set the plants 24-hour activity cycle, also know as its circadian rhythem, using blue light cues. There is some evidence that cryptochromes work together with phototropins to mediate the phototropic response.</para><note id="fs-idp154292672" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idm13842064" alt="QR Code representing a URL">
+<image mime-type="image/png" src="plnts_n_motion.png" width="120"/>
+</media>
+<para id="fs-idp31536608">Use the navigation menu in the left panel of this <link window="new" url="http://openstaxcollege.org/l/plnts_n_motion">website</link> to view images of plants in motion.</para>
+</note></section>
+</section>
+<section id="fs-idm38678784">
+<title>Plant Responses to Gravity</title>
+<para id="fs-idp55835184">Whether or not they germinate in the light or in total darkness, shoots usually sprout up from the ground, and roots grow downward into the ground. A plant laid on its side in the dark will send shoots upward when given enough time. Gravitropism ensures that roots grow into the soil and that shoots grow toward sunlight. Growth of the shoot apical tip upward is called <term>negative gravitropism</term>, whereas growth of the roots downward is called <term>positive gravitropism</term>.</para>
+<para id="fs-idp40974496"><term>Amyloplasts</term> (also known as <term>statoliths</term>) are specialized plastids that contain starch granules and settle downward in response to gravity. Amyloplasts are found in shoots and in specialized cells of the root cap. When a plant is tilted, the statoliths drop to the new bottom cell wall. A few hours later, the shoot or root will show growth in the new vertical direction.</para>
+<para id="fs-idp1946544">The mechanism that mediates gravitropism is reasonably well understood. When amyloplasts settle to the bottom of the gravity-sensing cells in the root or shoot, they physically contact the endoplasmic reticulum (ER), causing the release of calcium ions from inside the ER. This calcium signaling in the cells causes polar transport of the plant hormone IAA to the bottom of the cell. In roots, a high concentration of IAA inhibits cell elongation. The effect slows growth on the lower side of the root, while cells develop normally on the upper side. IAA has the opposite effect in shoots, where a higher concentration at the lower side of the shoot stimulates cell expansion, causing the shoot to grow up. After the shoot or root begin to grow vertically, the amyloplasts return to their normal position. Other hypotheses&#8212;involving the entire cell in the gravitropism effect&#8212;have been proposed to explain why some mutants that lack amyloplasts may still exhibit a weak gravitropic response.</para>
+</section>
+<section id="fs-idp90308320">
+<title>Growth Responses</title>
+<para id="fs-idp96781328">A plant&#8217;s sensory response to external stimuli relies on chemical messengers (hormones). Plant hormones affect all aspects of plant life, from flowering to fruit setting and maturation, and from phototropism to leaf fall. Potentially every cell in a plant can produce plant hormones. They can act in their cell of origin or be transported to other portions of the plant body, with many plant responses involving the synergistic or antagonistic interaction of two or more hormones. In contrast, animal hormones are produced in specific glands and transported to a distant site for action, and they act alone.</para>
+<para id="fs-idm64758128">Plant hormones are a group of unrelated chemical substances that affect plant morphogenesis. Five major plant hormones are traditionally described: auxins (particularly IAA), cytokinins, gibberellins, ethylene, and abscisic acid. In addition, other nutrients and environmental conditions can be characterized as growth factors.</para>
+<section id="fs-idp60902256">
+<title>Auxins</title>
+<para id="fs-idp20401552">The term auxin is derived from the Greek word <emphasis effect="italics">auxein</emphasis>, which means "to grow." <term>Auxins</term> are the main hormones responsible for cell elongation in phototropism and gravitropism. They also control the differentiation of meristem into vascular tissue, and promote leaf development and arrangement. While many synthetic auxins are used as herbicides, IAA is the only naturally occurring auxin that shows physiological activity. Apical dominance&#8212;the inhibition of lateral bud formation&#8212;is triggered by auxins produced in the apical meristem. Flowering, fruit setting and ripening, and inhibition of <term>abscission</term> (leaf falling) are other plant responses under the direct or indirect control of auxins. Auxins also act as a relay for the effects of the blue light and red/far-red responses.</para>
+<para id="fs-idp126023520">Commercial use of auxins is widespread in plant nurseries and for crop production. IAA is used as a rooting hormone to promote growth of adventitious roots on cuttings and detached leaves. Applying synthetic auxins to tomato plants in greenhouses promotes normal fruit development. Outdoor application of auxin promotes synchronization of fruit setting and dropping to coordinate the harvesting season. Fruits such as seedless cucumbers can be induced to set fruit by treating unfertilized plant flowers with auxins.</para>
+</section>
+<section id="fs-idp81520016">
+<title>Cytokinins</title>
+<para id="fs-idp51293232">The effect of cytokinins was first reported when it was found that adding the liquid endosperm of coconuts to developing plant embryos in culture stimulated their growth. The stimulating growth factor was found to be <term>cytokinin</term>, a hormone that promotes cytokinesis (cell division). Almost 200 naturally occurring or synthetic cytokinins are known to date. Cytokinins are most abundant in growing tissues, such as roots, embryos, and fruits, where cell division is occurring. Cytokinins are known to delay senescence in leaf tissues, promote mitosis, and stimulate differentiation of the meristem in shoots and roots. Many effects on plant development are under the influence of cytokinins, either in conjunction with auxin or another hormone. For example, apical dominance seems to result from a balance between auxins that inhibit lateral buds, and cytokinins that promote bushier growth.</para>
+</section>
+<section id="fs-idp36812992">
+<title>Gibberellins</title>
+<para id="fs-idm38945888"><term>Gibberellins</term> (GAs) are a group of about 125 closely related plant hormones that stimulate shoot elongation, seed germination, and fruit and flower maturation. GAs are synthesized in the root and stem apical meristems, young leaves, and seed embryos. In urban areas, GA antagonists are sometimes applied to trees under power lines to control growth and reduce the frequency of pruning.</para>
+<para id="fs-idm37943936">GAs break dormancy (a state of inhibited growth and development) in the seeds of plants that require exposure to cold or light to germinate. Abscisic acid is a strong antagonist of GA action. Other effects of GAs include gender expression, seedless fruit development, and the delay of senescence in leaves and fruit. Seedless grapes are obtained through standard breeding methods and contain inconspicuous seeds that fail to develop. Because GAs are produced by the seeds, and because fruit development and stem elongation are under GA control, these varieties of grapes would normally produce small fruit in compact clusters. Maturing grapes are routinely treated with GA to promote larger fruit size, as well as looser bunches (longer stems), which reduces the instance of mildew infection (<link target-id="fig-ch30_06_03" document=""/>).</para>
+<figure id="fig-ch30_06_03"><media id="fs-idp98359856" alt=" Photo shows a bunch of reddish grapes growing on a vine.">
+<image mime-type="image/jpg" src="Figure_30_06_03.jpg" width="250"/>
+</media>
+
+<caption>In grapes, application of gibberellic acid increases the size of fruit and loosens clustering. (credit: Bob Nichols, USDA)</caption></figure></section>
+<section id="fs-idm135548144">
+<title>Abscisic Acid</title>
+<para id="fs-idp12502816">The plant hormone <term>abscisic acid</term> (ABA) was first discovered as the agent that causes the abscission or dropping of cotton bolls. However, more recent studies indicate that ABA plays only a minor role in the abscission process. ABA accumulates as a response to stressful environmental conditions, such as dehydration, cold temperatures, or shortened day lengths. Its activity counters many of the growth-promoting effects of GAs and auxins. ABA inhibits stem elongation and induces dormancy in lateral buds.</para>
+<para id="fs-idm2167840">ABA induces dormancy in seeds by blocking germination and promoting the synthesis of storage proteins. Plants adapted to temperate climates require a long period of cold temperature before seeds germinate. This mechanism protects young plants from sprouting too early during unseasonably warm weather in winter. As the hormone gradually breaks down over winter, the seed is released from dormancy and germinates when conditions are favorable in spring. Another effect of ABA is to promote the development of winter buds; it mediates the conversion of the apical meristem into a dormant bud. Low soil moisture causes an increase in ABA, which causes stomata to close, reducing water loss in winter buds.</para>
+</section>
+<section id="fs-idp31554128">
+<title>Ethylene</title>
+<para id="fs-idp98851840"><term>Ethylene</term> is associated with fruit ripening, flower wilting, and leaf fall. Ethylene is unusual because it is a volatile gas (C<sub>2</sub>H<sub>4</sub>). Hundreds of years ago, when gas street lamps were installed in city streets, trees that grew close to lamp posts developed twisted, thickened trunks and shed their leaves earlier than expected. These effects were caused by ethylene volatilizing from the lamps.</para>
+<para id="fs-idm27480256">Aging tissues (especially senescing leaves) and nodes of stems produce ethylene. The best-known effect of the hormone, however, is the promotion of fruit ripening. Ethylene stimulates the conversion of starch and acids to sugars. Some people store unripe fruit, such as avocadoes, in a sealed paper bag to accelerate ripening; the gas released by the first fruit to mature will speed up the maturation of the remaining fruit. Ethylene also triggers leaf and fruit abscission, flower fading and dropping, and promotes germination in some cereals and sprouting of bulbs and potatoes.</para>
+<para id="fs-idp3267728">Ethylene is widely used in agriculture. Commercial fruit growers control the timing of fruit ripening with application of the gas. Horticulturalists inhibit leaf dropping in ornamental plants by removing ethylene from greenhouses using fans and ventilation.</para>
+</section>
+<section id="fs-idp69046512">
+<title>Nontraditional Hormones</title>
+<para id="fs-idm2506912">Recent research has discovered a number of compounds that also influence plant development. Their roles are less understood than the effects of the major hormones described so far.</para>
+<para id="fs-idm41893488"><term>Jasmonates</term> play a major role in defense responses to herbivory. Their levels increase when a plant is wounded by a predator, resulting in an increase in toxic secondary metabolites. They contribute to the production of volatile compounds that attract natural enemies of predators. For example, chewing of tomato plants by caterpillars leads to an increase in jasmonic acid levels, which in turn triggers the release of volatile compounds that attract predators of the pest.</para>
+<para id="fs-idp73340224"><term>Oligosaccharins</term> also play a role in plant defense against bacterial and fungal infections. They act locally at the site of injury, and can also be transported to other tissues. <term>Strigolactones</term> promote seed germination in some species and inhibit lateral apical development in the absence of auxins. Strigolactones also play a role in the establishment of mycorrhizae, a mutualistic association of plant roots and fungi. Brassinosteroids are important to many developmental and physiological processes. Signals between these compounds and other hormones, notably auxin and GAs, amplifies their physiological effect. Apical dominance, seed germination, gravitropism, and resistance to freezing are all positively influenced by hormones. Root growth and fruit dropping are inhibited by steroids.</para>
+</section>
+</section>
+<section id="fs-idp82988992">
+<title>Plant Responses to Wind and Touch</title>
+<para id="fs-idp63396496">The shoot of a pea plant winds around a trellis, while a tree grows on an angle in response to strong prevailing winds. These are examples of how plants respond to touch or wind.</para>
+<para id="fs-idp21499968">The movement of a plant subjected to constant directional pressure is called <term>thigmotropism</term>, from the Greek words <emphasis effect="italics">thigma</emphasis> meaning &#8220;touch,&#8221; and <emphasis effect="italics">tropism</emphasis> implying &#8220;direction.&#8221; Tendrils are one example of this. The meristematic region of tendrils is very touch sensitive; light touch will evoke a quick coiling response. Cells in contact with a support surface contract, whereas cells on the opposite side of the support expand (<link target-id="fig-ch30_02_11" document="m44702"/>). Application of jasmonic acid is sufficient to trigger tendril coiling without a mechanical stimulus.</para><para id="fs-idm28609936">A <term>thigmonastic</term> response is a touch response independent of the direction of stimulus <link target-id="fig-ch30_04_04" document="m44706"/>. In the Venus flytrap, two modified leaves are joined at a hinge and lined with thin fork-like tines along the outer edges. Tiny hairs are located inside the trap. When an insect brushes against these trigger hairs, touching two or more of them in succession, the leaves close quickly, trapping the prey. Glands on the leaf surface secrete enzymes that slowly digest the insect. The released nutrients are absorbed by the leaves, which reopen for the next meal.</para><para id="fs-idp130379872"><term>Thigmomorphogenesis</term> is a slow developmental change in the shape of a plant subjected to continuous mechanical stress. When trees bend in the wind, for example, growth is usually stunted and the trunk thickens. Strengthening tissue, especially xylem, is produced to add stiffness to resist the wind&#8217;s force. Researchers hypothesize that mechanical strain induces growth and differentiation to strengthen the tissues. Ethylene and jasmonate are likely involved in thigmomorphogenesis.</para>
+<note id="fs-idp25867456" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idp58212960" alt="QR Code representing a URL">
+<image mime-type="image/png" src="nastic_mvmt.png" width="120"/>
+</media>
+<para id="fs-idp73003104">Use the menu at the left to navigate to three short <link window="new" url="http://openstaxcollege.org/l/nastic_mvmt">movies:</link> a Venus fly trap capturing prey, the progressive closing of sensitive plant leaflets, and the twining of tendrils.</para>
+</note></section>
+<section id="fs-idp55285248">
+<title>Defense Responses against Herbivores and Pathogens</title>
+<para id="fs-idp103391168">Plants face two types of enemies: herbivores and pathogens. Herbivores both large and small use plants as food, and actively chew them. Pathogens are agents of disease. These infectious microorganisms, such as fungi, bacteria, and nematodes, live off of the plant and damage its tissues. Plants have developed a variety of strategies to discourage or kill attackers.</para>
+<para id="fs-idp36347632">The first line of defense in plants is an intact and impenetrable barrier. Bark and the waxy cuticle can protect against predators. Other adaptations against herbivory include thorns, which are modified branches, and spines, which are modified leaves. They discourage animals by causing physical damage and inducing rashes and allergic reactions. A plant&#8217;s exterior protection can be compromised by mechanical damage, which may provide an entry point for pathogens. If the first line of defense is breached, the plant must resort to a different set of defense mechanisms, such as toxins and enzymes.</para>
+<para id="fs-idp52556160">Secondary metabolites are compounds that are not directly derived from photosynthesis and are not necessary for respiration or plant growth and development. Many metabolites are toxic, and can even be lethal to animals that ingest them. Some metabolites are alkaloids, which discourage predators with noxious odors (such as the volatile oils of mint and sage) or repellent tastes (like the bitterness of quinine). Other alkaloids affect herbivores by causing either excessive stimulation (caffeine is one example) or the lethargy associated with opioids. Some compounds become toxic after ingestion; for instance, glycol cyanide in the cassava root releases cyanide only upon ingestion by the herbivore.</para>
+<para id="fs-idp20038416">Mechanical wounding and predator attacks activate defense and protection mechanisms both in the damaged tissue and at sites farther from the injury location. Some defense reactions occur within minutes: others over several hours. The infected and surrounding cells may die, thereby stopping the spread of infection.</para>
+<para id="fs-idp56777456">Long-distance signaling elicits a systemic response aimed at deterring the predator. As tissue is damaged, jasmonates may promote the synthesis of compounds that are toxic to predators. Jasmonates also elicit the synthesis of volatile compounds that attract parasitoids, which are insects that spend their developing stages in or on another insect, and eventually kill their host. The plant may activate abscission of injured tissue if it is damaged beyond repair.</para>
+</section>
+<section id="fs-idp151998400" class="summary">
+<title>Section Summary</title><para id="fs-idp14742144">Plants respond to light by changes in morphology and activity. Irradiation by red light converts the photoreceptor phytochrome to its far-red light-absorbing form&#8212;Pfr. This form controls germination and flowering in response to length of day, as well as triggers photosynthesis in dormant plants or those that just emerged from the soil. Blue-light receptors, cryptochromes, and phototropins are responsible for phototropism. Amyloplasts, which contain heavy starch granules, sense gravity. Shoots exhibit negative gravitropism, whereas roots exhibit positive gravitropism. Plant hormones&#8212;naturally occurring compounds synthesized in small amounts&#8212;can act both in the cells that produce them and in distant tissues and organs. Auxins are responsible for apical dominance, root growth, directional growth toward light, and many other growth responses. Cytokinins stimulate cell division and counter apical dominance in shoots. Gibberellins inhibit dormancy of seeds and promote stem growth. Abscisic acid induces dormancy in seeds and buds, and protects plants from excessive water loss by promoting stomatal closure. Ethylene gas speeds up fruit ripening and dropping of leaves. Plants respond to touch by rapid movements (thigmotropy and thigmonasty) and slow differential growth (thigmomorphogenesis). Plants have evolved defense mechanisms against predators and pathogens. Physical barriers like bark and spines protect tender tissues. Plants also have chemical defenses, including toxic secondary metabolites and hormones, which elicit additional defense mechanisms.</para></section>
+<section id="fs-idm82311680" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp103337616">
+<problem id="fs-idm75663392">
+<para id="fs-idp38685856">The main photoreceptor that triggers phototropism is a ________.</para>
+<list id="fs-idp75932240" list-type="enumerated" number-style="lower-alpha">
+<item>phytochrome</item>
+<item>cryptochrome</item>
+<item>phototropin</item>
+<item>carotenoid</item>
+</list>
+</problem>
+<solution id="fs-idm48598272">
+<label/>
+<para id="fs-idm75668160">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idp154368896">
+<problem id="fs-idm754416">
+<para id="fs-idm32850016">Phytochrome is a plant pigment protein that:</para>
+<list id="fs-idp98913472" list-type="enumerated" number-style="lower-alpha">
+<item>mediates plant infection</item>
+<item>promotes plant growth</item>
+<item>mediates morphological changes in response to red and far-red light</item>
+<item>inhibits plant growth</item>
+</list>
+</problem>
+<solution id="fs-idp11760048">
+<label/>
+<para id="fs-idp98742352">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm61790704">
+<problem id="fs-idp22483520"><para id="fs-idp159439408">A mutant plant has roots that grow in all directions. Which of the following organelles would you expect to be missing in the cell?</para>
+<list id="fs-idp98939536" list-type="enumerated" number-style="lower-alpha">
+<item>mitochondria</item>
+<item>amyloplast</item>
+<item>chloroplast</item>
+<item>nucleus</item>
+</list>
+</problem>
+<solution id="fs-idp97487056">
+<label/>
+<para id="fs-idp24043856">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm41201088">
+<problem id="fs-idp216870144">
+<para id="fs-idm32855264">After buying green bananas or unripe avocadoes, they can be kept in a brown bag to ripen. The hormone released by the fruit and trapped in the bag is probably:</para>
+<list id="fs-idp71045584" list-type="enumerated" number-style="lower-alpha">
+<item>abscisic acid</item>
+<item>cytokinin</item>
+<item>ethylene</item>
+<item>gibberellic acid</item>
+</list>
+</problem>
+<solution id="fs-idp159782880">
+<label/>
+<para id="fs-idp74286352">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idp149917488">
+<problem id="fs-idm91765216">
+<para id="fs-idm8368192">A decrease in the level of which hormone releases seeds from dormancy?</para>
+<list id="fs-idp99561072" list-type="enumerated" number-style="lower-alpha">
+<item>abscisic acid</item>
+<item>cytokinin</item>
+<item>ethylene</item>
+<item>gibberellic acid</item>
+</list>
+</problem>
+<solution id="fs-idm13472320">
+<label/>
+<para id="fs-idp34529776">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idp109014384">
+<problem id="fs-idp9549872">
+<para id="fs-idp51902000">A seedling germinating under a stone grows at an angle away from the stone and upward. This response to touch is called ________.</para>
+<list id="fs-idp67917792" list-type="enumerated" number-style="lower-alpha">
+<item>gravitropism</item>
+<item>thigmonasty</item>
+<item>thigmotropism</item>
+<item>skototropism</item>
+</list>
+</problem>
+<solution id="fs-idm107587488">
+<label/>
+<para id="fs-idp132504976">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp98759520" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idp66460592">
+<problem id="fs-idp109043440">
+<para id="fs-idp224901648">Owners and managers of plant nurseries have to plan lighting schedules for a long-day plant that will flower in February. What lighting periods will be most effective? What color of light should be chosen?</para>
+</problem>
+<solution id="fs-idp13418432">
+<label/>
+<para id="fs-idp88599344">A long-day plant needs a higher proportion of the Pfr form to Pr form of phytochrome. The plant requires long periods of illumination with light enriched in the red range of the spectrum.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm33526592">
+<problem id="fs-idp50029136">
+<para id="fs-idp89049760">What are the major benefits of gravitropism for a germinating seedling?</para>
+</problem>
+<solution id="fs-idp6846704"><label/>
+<para id="fs-idm6103552">Gravitropism will allow roots to dig deep into the soil to find water and minerals, whereas the seedling will grow towards light to enable photosynthesis.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp14544880">
+<problem id="fs-idp20087600">
+<para id="fs-idp70302624">Fruit and vegetable storage facilities are usually refrigerated and well ventilated. Why are these conditions advantageous?</para>
+</problem>
+<solution id="fs-idp60313312">
+<label/>
+<para id="fs-idp59286448">Refrigeration slows chemical reactions, including fruit maturation. Ventilation removes the ethylene gas that speeds up fruit ripening.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp35821904">
+<problem id="fs-idp126005888">
+<para id="fs-idp49983712">Stomata close in response to bacterial infection. Why is this response a mechanism of defense for the plant? Which hormone is most likely to mediate this response?</para>
+</problem>
+<solution id="fs-idp54915024">
+<label/>
+<para id="fs-idp86939872">To prevent further entry of pathogens, stomata close, even if they restrict entry of CO<sub>2</sub>. Some pathogens secrete virulence factors that inhibit the closing of stomata. Abscisic acid is the stress hormone responsible for inducing closing of stomata.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm25540976">
+<term>abscisic acid (ABA)</term> <meaning id="fs-idp106789264">plant hormone that induces dormancy in seeds and other organs</meaning>
+</definition>
+<definition id="fs-idp62443952">
+<term>abscission</term> <meaning id="fs-idp53875936">physiological process that leads to the fall of a plant organ (such as leaf or petal drop)</meaning>
+</definition>
+<definition id="fs-idp141202768">
+<term>auxin</term> <meaning id="fs-idp85056816">plant hormone that influences cell elongation (in phototropism), gravitropism, apical dominance and root growth</meaning>
+</definition>
+<definition id="fs-idm41150352">
+<term>chromophore</term> <meaning id="fs-idp110529888">molecule that absorbs light</meaning>
+</definition>
+<definition id="fs-idp5738240">
+<term>cryptochrome</term> <meaning id="fs-idp79840576">protein that absorbs light in the blue and ultraviolet regions of the light spectrum</meaning>
+</definition>
+<definition id="fs-idp98016384">
+<term>cytokinin</term> <meaning id="fs-idp4369888">plant hormone that promotes cell division</meaning>
+</definition>
+<definition id="fs-idp8203568">
+<term>ethylene</term> <meaning id="fs-idm44100704">volatile plant hormone that is associated with fruit ripening, flower wilting, and leaf fall</meaning>
+</definition>
+<definition id="fs-idp224115040">
+<term>gibberellin (GA)</term> <meaning id="fs-idp39484112">plant hormone that stimulates shoot elongation, seed germination, and the maturation and dropping of fruit and flowers</meaning>
+</definition>
+<definition id="fs-idm55825696">
+<term>jasmonates</term> <meaning id="fs-idp103504416">small family of compounds derived from the fatty acid linoleic acid</meaning>
+</definition>
+<definition id="fs-idp98935488">
+<term>negative gravitropism</term> <meaning id="fs-idp154276208">growth away from Earth&#8217;s gravity</meaning>
+</definition>
+<definition id="fs-idm39442816">
+<term>oligosaccharin</term> <meaning id="fs-idp122849728">hormone important in plant defenses against bacterial and fungal infections</meaning>
+</definition>
+<definition id="fs-idp151500928">
+<term>photomorphogenesis</term> <meaning id="fs-idp24050032">growth and development of plants in response to light</meaning>
+</definition>
+<definition id="fs-idp154343088">
+<term>photoperiodism</term> <meaning id="fs-idp19616112">occurrence of plant processes, such as germination and flowering, according to the time of year</meaning>
+</definition>
+<definition id="fs-idm4346208">
+<term>phototropin</term> <meaning id="fs-idp206128848">blue-light receptor that promotes phototropism, stomatal opening and closing, and other responses that promote photosynthesis</meaning>
+</definition>
+<definition id="fs-idp62445120">
+<term>phototropism</term> <meaning id="fs-idp126024368">directional bending of a plant toward a light source</meaning>
+</definition>
+<definition id="fs-idp68808176">
+<term>phytochrome</term> <meaning id="fs-idp10136080">plant pigment protein that exists in two reversible forms (Pr and Pfr) and mediates morphologic changes in response to red light</meaning>
+</definition>
+<definition id="fs-idp34211568">
+<term>positive gravitropism</term> <meaning id="fs-idp10226944">growth toward Earth&#8217;s gravitational center</meaning>
+</definition>
+<definition id="fs-idp84045776">
+<term>statolith</term> <meaning id="fs-idm12997632">(also, <emphasis effect="bold">amyloplast</emphasis>) plant organelle that contains heavy starch granules</meaning>
+</definition>
+<definition id="fs-idp60048576">
+<term>strigolactone</term> <meaning id="fs-idm46397920">hormone that promotes seed germination in some species and inhibits lateral apical development in the absence of auxins</meaning>
+</definition>
+<definition id="fs-idp26782400">
+<term>thigmomorphogenesis</term> <meaning id="fs-idm2959760">developmental response to touch</meaning>
+</definition>
+<definition id="fs-idm50479360">
+<term>thigmonastic</term> <meaning id="fs-idp99134352">directional growth of a plant independent of the direction in which contact is applied</meaning>
+</definition>
+<definition id="fs-idp220449232">
+<term>thigmotropism</term> <meaning id="fs-idp17184256">directional growth of a plant in response to constant contact</meaning>
+</definition>
+</glossary>
+</document>

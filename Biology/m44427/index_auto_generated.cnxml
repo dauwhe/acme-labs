@@ -1,0 +1,171 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>ATP: Adenosine Triphosphate</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44427/latest/</md:content-url>
+  <md:content-id>m44427</md:content-id>
+  <md:title>ATP: Adenosine Triphosphate</md:title>
+  <md:version>1.7</md:version>
+  <md:created>2012/08/23 10:42:55 -0500</md:created>
+  <md:revised>2013/04/05 17:36:10.518 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>adenosine triphosphate</md:keyword>
+    <md:keyword>ATP</md:keyword>
+    <md:keyword>ATP formation</md:keyword>
+    <md:keyword>ATP hydrolysis</md:keyword>
+    <md:keyword>cellular energy</md:keyword>
+    <md:keyword>energy currency</md:keyword>
+    <md:keyword>metabolism</md:keyword>
+    <md:keyword>phosphorylation</md:keyword>
+    <md:keyword>sodium-potassium pump</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain the role of ATP as the cellular energy currency</item>
+<item>Describe how energy is released through hydrolysis of ATP</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-id2155409">Even exergonic, energy-releasing reactions require a small amount of activation energy in order to proceed. However, consider endergonic reactions, which require much more energy input, because their products have more free energy than their reactants. Within the cell, where does energy to power such reactions come from? The answer lies with an energy-supplying molecule called <term>adenosine triphosphate</term>, or <term>ATP</term>. ATP is a small, relatively simple molecule (<link target-id="fig-ch06_04_01" document=""/>), but within some of its bonds, it contains the potential for a quick burst of energy that can be harnessed to perform cellular work. This molecule can be thought of as the primary energy currency of cells in much the same way that money is the currency that people exchange for things they need. ATP is used to power the majority of energy-requiring cellular reactions.</para>
+<figure id="fig-ch06_04_01">
+<media id="fs-id1870581" alt="The molecular structure of adenosine triphosphate is shown. Three phosphate groups are attached to a ribose sugar. Adenine is also attached to the ribose.">
+<image mime-type="image/jpg" src="Figure_06_04_01.jpg" width="320"/>
+</media>
+<caption>ATP is the primary energy currency of the cell. It has an adenosine backbone with three phosphate groups attached.</caption></figure>
+<para id="fs-id1467282">As its name suggests, adenosine triphosphate is comprised of adenosine bound to three phosphate groups (<link target-id="fig-ch06_04_01" document=""/>). Adenosine is a nucleoside consisting of the nitrogenous base adenine and a five-carbon sugar, ribose. The three phosphate groups, in order of closest to furthest from the ribose sugar, are labeled alpha, beta, and gamma. Together, these chemical groups constitute an energy powerhouse. However, not all bonds within this molecule exist in a particularly high-energy state. Both bonds that link the phosphates are equally high-energy bonds (<term>phosphoanhydride bonds</term>)  that, when broken, release sufficient energy to power a variety of cellular reactions and processes. These high-energy bonds are the bonds between the second and third (or beta and gamma) phosphate groups and between the first and second phosphate groups. The reason that these bonds are considered &#8220;high-energy&#8221; is because the products of such bond breaking&#8212;adenosine diphosphate (ADP) and one inorganic phosphate group (P<sub>i</sub>)&#8212;have considerably lower free energy than the reactants: ATP and a water molecule. Because this reaction takes place with the use of a water molecule, it is considered a hydrolysis reaction. In other words, ATP is hydrolyzed into ADP in the following reaction:</para>
+<equation id="eip-628"><m:math display="block"><m:semantics>
+        <m:mrow>
+            <m:mtext>ATP</m:mtext><m:mo>+</m:mo><m:msub>
+                <m:mtext>H</m:mtext>
+                <m:mtext>2</m:mtext>
+            </m:msub>
+            <m:mtext>O</m:mtext><m:mo stretchy="false">&#8594;</m:mo><m:mtext>ADP</m:mtext><m:mo>+</m:mo><m:msub>
+                <m:mtext>P</m:mtext>
+                <m:mtext>i</m:mtext>
+            </m:msub>
+            <m:mo>+</m:mo><m:mtext>free energy</m:mtext>
+        </m:mrow>
+<m:annotation encoding="StarMath 5.0">size 12{{ATP} + H rSub { size 8{2} } O  ADP + P rSub { size 8{i}} + {free energy} } {}</m:annotation></m:semantics></m:math></equation><para id="fs-id1477773">Like most chemical reactions, the hydrolysis of ATP to ADP is reversible. The reverse reaction regenerates ATP from ADP + P<sub>i</sub>. Indeed, cells rely on the regeneration of ATP just as people rely on the regeneration of spent money through some sort of income. Since ATP hydrolysis releases energy, ATP regeneration must require an input of free energy. The formation of ATP is expressed in this equation:</para>
+<equation id="eip-976"><m:math display="block"><m:semantics>
+        <m:mrow>
+            <m:mtext>ADP</m:mtext><m:mo>+</m:mo><m:msub>
+                <m:mtext>P</m:mtext>
+                <m:mtext>i</m:mtext>
+            </m:msub>
+            <m:mo>+</m:mo><m:mtext>free&#160;energy</m:mtext><m:mo stretchy="false">&#8594;</m:mo><m:mtext>ATP</m:mtext><m:mo>+</m:mo><m:msub>
+                <m:mtext>H</m:mtext>
+                <m:mtext>2</m:mtext>
+            </m:msub>
+            <m:mtext>O</m:mtext>
+        </m:mrow>
+<m:annotation encoding="StarMath 5.0">size 12{{ATP} + H rSub { size 8{2} } O  ADP + P rSub { size 8{i}} + {free energy} } {}</m:annotation></m:semantics></m:math></equation><para id="fs-id1780567">Two prominent questions remain with regard to the use of ATP as an energy source. Exactly how much free energy is released with the hydrolysis of ATP, and how is that free energy used to do cellular work? The calculated &#8710;G  for the hydrolysis of one mole of ATP into ADP and P<sub>i</sub> is &#8722;7.3 kcal/mole (&#8722;30.5 kJ/mol). Since this calculation is true under standard conditions, it would be expected that a different value exists under cellular conditions. In fact, the &#8710;G  for the hydrolysis of one mole of ATP in a living cell is almost double the value at standard conditions: 14 kcal/mol (&#8722;57 kJ/mol).</para><para id="fs-id2018833">ATP is a highly unstable molecule. Unless quickly used to perform work, ATP spontaneously dissociates into ADP + P<sub>i</sub>, and the free energy released during this process is lost as heat. The second question posed above, that is, how the energy released by ATP hydrolysis is used to perform work inside the cell, depends on a strategy called energy coupling. Cells couple the exergonic reaction of ATP hydrolysis with endergonic reactions, allowing them to proceed. One example of energy coupling using ATP involves a transmembrane ion pump that is extremely important for cellular function. This sodium-potassium pump (Na<sup>+</sup>/K<sup>+</sup> pump) drives sodium out of the cell and potassium into the cell (<link target-id="fig-ch06_04_02" document=""/>). A large percentage of a cell&#8217;s ATP is spent powering this pump, because cellular processes bring a great deal of sodium into the cell and potassium out of the cell. The pump works constantly to stabilize cellular concentrations of sodium and potassium. In order for the pump to turn one cycle (exporting three Na+ ions and importing two K<sup>+</sup> ions), one molecule of ATP must be hydrolyzed. When ATP is hydrolyzed, its gamma phosphate doesn&#8217;t simply float away, but is actually transferred onto the pump protein. This process of a phosphate group binding to a molecule is called phosphorylation. As with most cases of ATP hydrolysis, a phosphate from ATP is transferred onto another molecule. In a phosphorylated state, the Na<sup>+</sup>/K<sup>+</sup> pump has more free energy and is triggered to undergo a conformational change. This change allows it to release Na<sup>+</sup> to the outside of the cell. It then binds extracellular K<sup>+</sup>, which, through another conformational change, causes the phosphate to detach from the pump. This release of phosphate triggers the K<sup>+</sup> to be released to the inside of the cell. Essentially, the energy released from the hydrolysis of ATP is coupled with the energy required to power the pump and transport Na<sup>+</sup> and K<sup>+</sup> ions. ATP performs cellular work using this basic form of energy coupling through phosphorylation.</para>
+<note id="fs-id2581828" class="art-connection"><label/><title>Art Connection</title>
+<para id="fs-id1704937"><figure id="fig-ch06_04_02"><media id="fs-id1506715" alt="This illustration shows the sodium-potassium pump embedded in the cell membrane. ATP hydrolysis catalyzes a conformational change in the pump that allows sodium ions to move from the cytoplasmic side to the extracellular side of the membrane, and potassium ions to move from the extracellular side to the cytoplasmic side of the membrane as well.">
+<image mime-type="image/png" src="Figure_06_04_02.png" width="300"/>
+</media>
+<caption>The sodium-potassium pump is an example of energy coupling. The energy derived from exergonic ATP hydrolysis is used to pump sodium and potassium ions across the cell membrane.</caption></figure></para>
+<para id="fs-id2188580">The hydrolysis of one ATP molecule releases 7.3 kcal/mol of energy (&#8710;G  = &#8722;7.3 kcal/mol of energy). If it takes 2.1 kcal/mol of energy to move one Na<sup>+</sup> across the membrane (&#8710;G  = +2.1 kcal/mol of energy), how many sodium ions could be moved by the hydrolysis of one ATP molecule?</para>
+</note><para id="fs-id1242488">Often during cellular metabolic reactions, such as the synthesis and breakdown of nutrients, certain molecules must be altered slightly in their conformation to become substrates for the next step in the reaction series. One example is during the very first steps of cellular respiration, when a molecule of the sugar glucose is broken down in the process of glycolysis. In the first step of this process, ATP is required for the phosphorylation of glucose, creating a high-energy but unstable intermediate. This phosphorylation reaction powers a conformational change that allows the phosphorylated glucose molecule to be converted to the phosphorylated sugar fructose. Fructose is a necessary intermediate for glycolysis to move forward. Here, the exergonic reaction of ATP hydrolysis is coupled with the endergonic reaction of converting glucose into a phosphorylated intermediate in the pathway. Once again, the energy released by breaking a phosphate bond within ATP was used for the phosphorylation of another molecule, creating an unstable intermediate and powering an important conformational change.</para>
+<note id="fs-id1422276" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-id2322522" alt="QR Code representing a URL">
+<image mime-type="image/png" src="glycolysis_stgs.png" width="130"/>
+</media>
+<para id="fs-id2258341">See an interactive animation of the ATP-producing glycolysis process at this <link window="new" url="http://openstaxcollege.org/l/glycolysis_stgs">site</link>.</para>
+</note><section id="fs-id782682" class="summary">
+<title>Section Summary</title><para id="fs-id1423640">ATP is the primary energy-supplying molecule for living cells. ATP is made up of a nucleotide, a five-carbon sugar, and three phosphate groups. The bonds that connect the phosphates (phosphoanhydride bonds) have high-energy content. The energy released from the hydrolysis of ATP into ADP + P<sub>i</sub> is used to perform cellular work. Cells use ATP to perform work by coupling the exergonic reaction of ATP hydrolysis with endergonic reactions. ATP donates its phosphate group to another molecule via a process known as phosphorylation. The phosphorylated molecule is at a higher-energy state and is less stable than its unphosphorylated form, and this added energy from the addition of the phosphate allows the molecule to undergo its endergonic reaction.</para>
+</section>
+<section id="fs-idm10004400" class="art-exercise">
+<title>Art Connections</title>
+<exercise id="fs-idp30594768">
+<problem id="fs-idp26518432">
+<para id="fs-idm93184944"> <link target-id="fig-ch06_04_02" document=""/> The hydrolysis of one ATP molecule releases 7.3 kcal/mol of energy (&#8710;G  = &#8722;7.3 kcal/mol of energy). If it takes 2.1 kcal/mol of energy to move one Na<sup>+</sup> across the membrane (&#8710;G  = +2.1 kcal/mol of energy), how many sodium ions could be moved by the hydrolysis of one ATP molecule?</para></problem>
+<solution id="fs-id1708074"><label/>
+<para id="fs-id2589650"> <link target-id="fig-ch06_04_02" document=""/> Three sodium ions could be moved by the hydrolysis of one ATP molecule. The &#8710;G  of the coupled reaction must be negative. Movement of three sodium ions across the membrane will take 6.3 kcal of energy (2.1 kcal &#215; 3 Na<sup>+</sup> ions = 6.3 kcal). Hydrolysis of ATP provides 7.3 kcal of energy, more than enough to power this reaction. Movement of four sodium ions across the membrane, however, would require 8.4 kcal of energy, more than one ATP molecule can provide.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1847324" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-id1547306">
+<problem id="fs-id1813061"><para id="fs-id2165515">The energy released by the hydrolysis of ATP is</para>
+<list id="fs-id1569577" list-type="enumerated" number-style="lower-alpha"><item>primarily stored between the alpha and beta phosphates</item>
+<item>equal to &#8722;57 kcal/mol</item>
+<item>harnessed as heat energy by the cell to perform work</item>
+<item>providing energy to coupled reactions</item>
+</list></problem>
+<solution id="fs-id2144919">
+<label/>
+<para id="fs-id2197575">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1445158">
+<problem id="fs-id1853625"><para id="fs-id1772217">Which of the following molecules is likely to have the most potential energy?</para>
+<list id="fs-id2078590" list-type="enumerated" number-style="lower-alpha">
+<item>sucrose</item>
+<item>ATP</item>
+<item>glucose</item>
+<item>ADP</item>
+</list>
+</problem>
+<solution id="fs-id1987095">
+<label/>
+<para id="fs-id1626927">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1444395" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-id2200033">
+<problem id="fs-id1693867"><para id="fs-id1798264">Do you think that the E<sub>A</sub> for ATP hydrolysis is relatively low or high? Explain your reasoning.</para></problem>
+<solution id="fs-id1417244"><label/>
+<para id="fs-id2163433">The activation energy for hydrolysis is very low. Not only is ATP hydrolysis an exergonic process with a large &#8722;&#8710;G, but ATP is also a very unstable molecule that rapidly breaks down into ADP + P<sub>i</sub> if not utilized quickly. This suggests a very low E<sub>A</sub> since it hydrolyzes so quickly.</para></solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-id2229089"><term>ATP</term> <meaning id="fs-id2117719">adenosine triphosphate, the cell&#8217;s energy currency</meaning></definition>
+<definition id="fs-id2228009"><term>phosphoanhydride bond</term> <meaning id="fs-id1912260">bond that connects phosphates in an ATP molecule</meaning></definition>
+</glossary>
+
+
+</document>

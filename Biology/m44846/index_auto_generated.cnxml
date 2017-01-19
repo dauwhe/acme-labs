@@ -1,0 +1,199 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Fertilization and Early Embryonic Development</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44846/latest/</md:content-url>
+  <md:content-id>m44846</md:content-id>
+  <md:title>Fertilization and Early Embryonic Development</md:title>
+  <md:version>1.3</md:version>
+  <md:created>2012/08/23 16:05:09 -0500</md:created>
+  <md:revised>2013/04/10 15:17:44.669 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>acrosomal reaction</md:keyword>
+    <md:keyword>animal development</md:keyword>
+    <md:keyword>animal reproduction</md:keyword>
+    <md:keyword>blastocyst</md:keyword>
+    <md:keyword>blastula</md:keyword>
+    <md:keyword>cleavage</md:keyword>
+    <md:keyword>embryo</md:keyword>
+    <md:keyword>embryonic development</md:keyword>
+    <md:keyword>fertilization</md:keyword>
+    <md:keyword>gastrulation</md:keyword>
+    <md:keyword>germ layers</md:keyword>
+    <md:keyword>holoblastic</md:keyword>
+    <md:keyword>inner cell mass</md:keyword>
+    <md:keyword>meroblastic</md:keyword>
+    <md:keyword>polyspermy</md:keyword>
+    <md:keyword>trophoblast</md:keyword>
+    <md:keyword>zona pellucida</md:keyword>
+    <md:keyword>zygote</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Discuss how fertilization occurs</item>
+<item>Explain how the embryo forms from the zygote</item>
+<item>Discuss the role of cleavage and gastrulation in animal development</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idm60267440">The process in which an organism develops from a single-celled zygote to a multi-cellular organism is complex and well-regulated. The early stages of embryonic development are also crucial for ensuring the fitness of the organism.</para>
+<section id="fs-idp107650256">
+<title>Fertilization</title>
+<para id="fs-idm17935968">Fertilization, pictured in <link target-id="fig-ch43_05_01ab" document=""/><emphasis effect="bold">a</emphasis> is the process in which gametes (an egg and sperm) fuse to form a zygote. The egg and sperm each contain one set of chromosomes. To ensure that the offspring has only one complete diploid set of chromosomes, only one sperm must fuse with one egg. In mammals, the egg is protected by a layer of extracellular matrix consisting mainly of glycoproteins called the <term>zona pellucida</term>. When a sperm binds to the zona pellucida, a series of biochemical events, called the <term>acrosomal reactions</term>, take place. In placental mammals, the acrosome contains digestive enzymes that initiate the degradation of the glycoprotein matrix protecting the egg and allowing the sperm plasma membrane to fuse with the egg plasma membrane, as illustrated in <link target-id="fig-ch43_05_01ab" document=""/><emphasis effect="bold">b</emphasis>. The fusion of these two membranes creates an opening through which the sperm nucleus is transferred into the ovum. The nuclear membranes of the egg and sperm break down and the two haploid genomes condense to form a diploid genome.</para><figure id="fig-ch43_05_01ab" class=" "><media id="fs-idp40382448" alt="Part A is a micrograph that shows a sperm whose head is touching the surface of an egg. The egg is much larger than the sperm. Part B is an illustration that shows the surface of the egg, which is coated with a zona pellucida. The sperm penetrates the zona pellucida and releases its DNA into the egg. At this point, changes in proteins just inside the egg&#8217;s cell membrane occur, preventing entry of other sperm.">
+<image mime-type="image/jpg" src="Figure_43_05_01ab.jpg" width="445"/>
+</media>
+<caption>(a) Fertilization is the process in which sperm and egg fuse to form a zygote. (b) Acrosomal reactions help the sperm degrade the glycoprotein matrix protecting the egg and allow the sperm to transfer its nucleus. (credit: (b) modification of work by Mariana Ruiz Villareal; scale-bar data from Matt Russell)</caption></figure><para id="fs-idp99703472">To ensure that no more than one sperm fertilizes the egg, once the acrosomal reactions take place at one location of the egg membrane, the egg releases proteins in other locations to prevent other sperm from fusing with the egg. If this mechanism fails, multiple sperm can fuse with the egg, resulting in <term>polyspermy</term>. The resulting embryo is not genetically viable and dies within a few days.</para>
+</section>
+<section id="fs-idp156010064">
+<title>Cleavage and Blastula Stage</title>
+<para id="fs-idp147099472">The development of multi-cellular organisms begins from a single-celled zygote, which undergoes rapid cell division to form the blastula. The rapid, multiple rounds of cell division are termed cleavage. Cleavage is illustrated in (<link target-id="fig-ch43_05_02ab" document=""/><emphasis effect="bold">a</emphasis>). After the cleavage has produced over 100 cells, the embryo is called a blastula. The blastula is usually a spherical layer of cells (the blastoderm) surrounding a fluid-filled or yolk-filled cavity (the blastocoel). Mammals at this stage form a structure called the blastocyst, characterized by an inner cell mass that is distinct from the surrounding blastula, shown in <link target-id="fig-ch43_05_02ab" document=""/><emphasis effect="bold">b</emphasis>. During cleavage, the cells divide without an increase in mass; that is, one large single-celled zygote divides into multiple smaller cells. Each cell within the blastula is called a blastomere.</para><figure id="fig-ch43_05_02ab" orient="horizontal"><subfigure id="fs-idm54238432">
+        <media id="fs-idm51490336" alt="Part A illustration shows a fertilized egg divided into two, four, eight, sixteen and thirty-two cells. Part B shows a hollow ball of cells. The cells on the surface are called the blastoderm, and the hollow center is called the blastocoel.">
+<image mime-type="image/jpg" src="Figure_43_05_02a.jpg" width="150"/>
+        </media>
+        </subfigure>
+         <subfigure id="fs-idm70621024">
+        <media id="fs-idm1543168" alt="Part B shows a hollow ball of cells. The cells on the surface are called the blastoderm, and the hollow center is called the blastocoel.">
+<image mime-type="image/jpg" src="Figure_43_05_02b.jpg" width="265"/>
+        </media>
+            </subfigure>
+<caption>(a) During cleavage, the zygote rapidly divides into multiple cells without increasing in size. (b) The cells rearrange themselves to form a hollow ball with a fluid-filled or yolk-filled cavity called the blastula. (credit a: modification of work by Gray&#8217;s Anatomy; credit b: modification of work by Pearson Scott Foresman, donated to the Wikimedia Foundation)</caption></figure><para id="fs-idp36763504">Cleavage can take place in two ways: <term>holoblastic</term> (total) cleavage or <term>meroblastic</term> (partial) cleavage. The type of cleavage depends on the amount of yolk in the eggs. In placental mammals (including humans) where nourishment is provided by the mother&#8217;s body, the eggs have a very small amount of yolk and undergo holoblastic cleavage. Other species, such as birds, with a lot of yolk in the egg to nourish the embryo during development, undergo meroblastic cleavage.</para>
+<para id="fs-idp138527616">In mammals, the blastula forms the <term>blastocyst</term> in the next stage of development. Here the cells in the blastula arrange themselves in two layers: the <term>inner cell mass</term>, and an outer layer called the <term>trophoblast</term>. The inner cell mass is also known as the embryoblast and this mass of cells will go on to form the embryo. At this stage of development, illustrated in <link target-id="fig-ch43_05_03" document=""/> the inner cell mass consists of embryonic stem cells that will differentiate into the different cell types needed by the organism. The trophoblast will contribute to the placenta and nourish the embryo.</para>
+<figure id="fig-ch43_05_03" class=" "><media id="fs-idp198129312" alt="Illustration shows a hollow ball of cells with an inner cell mass clustered to one side. The exterior is called the trophoblast.">
+<image mime-type="image/jpg" src="Figure_43_05_03.jpg" width="295"/>
+</media>
+<caption>The rearrangement of the cells in the mammalian blastula to two layers&#8212;the inner cell mass and the trophoblast&#8212;results in the formation of the blastocyst.</caption></figure><note id="fs-idp117899696" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idp226623584" alt="QR Code representing a URL">
+<image mime-type="image/png" src="human_embryo.png" width="120"/>
+</media>
+<para id="fs-idp192914400">Visit the <link window="new" url="http://openstaxcollege.org/l/human_embryo">Virtual Human Embryo project</link> at the Endowment for Human Development site to step through an interactive that shows the stages of embryo development, including micrographs and rotating 3-D images.</para>
+</note></section>
+<section id="fs-idp217119904">
+<title>Gastrulation</title>
+<para id="fs-idp237023232">The typical blastula is a ball of cells. The next stage in embryonic development is the formation of the body plan. The cells in the blastula rearrange themselves spatially to form three layers of cells. This process is called <term>gastrulation</term>. During gastrulation, the blastula folds upon itself to form the three layers of cells. Each of these layers is called a germ layer and each germ layer differentiates into different organ systems.</para>
+<para id="fs-idp208272848">The three germs layers, shown in <link target-id="fig-ch43_05_04" document=""/>, are the endoderm, the ectoderm, and the mesoderm. The ectoderm gives rise to the nervous system and the epidermis. The mesoderm gives rise to the muscle cells and connective tissue in the body. The endoderm gives rise to columnar cells found in the digestive system and many internal organs.</para>
+<figure id="fig-ch43_05_04" class=" "><media id="fs-idp27171088" alt="Illustration shows cells associated with the internal endoderm, the middle mesoderm, and the external ectoderm. Lung, thyroid and digestive tissues are associated with the endoderm. Muscle, kidney and blood cells are associated with the mesoderm. Skin, neurons, and pigment cells are associated with the ectoderm.">
+<image mime-type="image/jpg" src="Figure_43_05_04.jpg" width="575"/>
+</media>
+<caption>The three germ layers give rise to different cell types in the animal body. (credit: modification of work by NIH, NCBI)</caption>
+</figure>
+<note id="fs-idp35827792" class="everyday">
+<label/>
+<title>Everyday Connection</title>
+<para id="fs-idm139035856">
+<title>Are Designer Babies in Our Future?</title>
+<figure id="fig-ch43_05_05" class=" "><media id="fs-idm78137776" alt="Illustration shows a tree with words such as genetics, statistics, medicine, economics, and genealogy associated with the roots. The word eugenics is emblazoned across the upper trunk. To the side of the tree is the text &#8220;Eugenics is the self-direction of human evolution.&#8221;">
+<image mime-type="image/jpg" src="Figure_43_05_05.jpg" width="355"/>
+</media>
+<caption>This logo from the Second International Eugenics Conference in New York City in September of 1921 shows how eugenics attempted to merge several fields of study with the goal of producing a genetically superior human race.</caption></figure></para>
+<para id="fs-idp215476208">If you could prevent your child from getting a devastating genetic disease, would you do it? Would you select the sex of your child or select for their attractiveness, strength, or intelligence? How far would you go to maximize the possibility of resistance to disease? The genetic engineering of a human child, the production of "designer babies" with desirable phenotypic characteristics, was once a topic restricted to science fiction. This is the case no longer: science fiction is now overlapping into science fact. Many phenotypic choices for offspring are already available, with many more likely to be possible in the not too distant future. Which traits should be selected and how they should be selected are topics of much debate within the worldwide medical community. The ethical and moral line is not always clear or agreed upon, and some fear that modern reproductive technologies could lead to a new form of eugenics.</para>
+<para id="fs-idp80909632">Eugenics is the use of information and technology from a variety of sources to improve the genetic makeup of the human race. The goal of creating genetically superior humans was quite prevalent (although controversial) in several countries during the early 20<sup>th</sup> century, but fell into disrepute when Nazi Germany developed an extensive eugenics program in the 1930's and 40's. As part of their program, the Nazis forcibly sterilized hundreds of thousands of the so-called "unfit" and killed tens of thousands of institutionally disabled people as part of a systematic program to develop a genetically superior race of Germans known as Aryans. Ever since, eugenic ideas have not been as publicly expressed, but there are still those who promote them.</para>
+<para id="fs-idp254175728">Efforts have been made in the past to control traits in human children using donated sperm from men with desired traits. In fact, eugenicist Robert Klark Graham established a sperm bank in 1980 that included samples exclusively from donors with high IQs. The "genius" sperm bank failed to capture the public's imagination and the operation closed in 1999.</para>
+<para id="fs-idm8921872">In more recent times, the procedure known as prenatal genetic diagnosis (PGD) has been developed. PGD involves the screening of human embryos as part of the process of <emphasis effect="italics">in vitro</emphasis> fertilization, during which embryos are conceived and grown outside the mother's body for some period of time before they are implanted. The term PGD usually refers to both the diagnosis, selection, and the implantation of the selected embryos.</para>
+<para id="fs-idp237505920">In the least controversial use of PGD, embryos are tested for the presence of alleles which cause genetic diseases such as sickle cell disease, muscular dystrophy, and hemophilia, in which a single disease-causing allele or pair of alleles has been identified. By excluding embryos containing these alleles from implantation into the mother, the disease is prevented, and the unused embryos are either donated to science or discarded. There are relatively few in the worldwide medical community that question the ethics of this type of procedure, which allows individuals scared to have children because of the alleles they carry to do so successfully. The major limitation to this procedure is its expense. Not usually covered by medical insurance and thus out of reach financially for most couples, only a very small percentage of all live births use such complicated methodologies. Yet, even in cases like these where the ethical issues may seem to be clear-cut, not everyone agrees with the morality of these types of procedures. For example, to those who take the position that human life begins at conception, the discarding of unused embryos, a necessary result of PGD, is unacceptable under any circumstances.</para>
+<para id="fs-idm2792176">A murkier ethical situation is found in the selection of a child's sex, which is easily performed by PGD. Currently, countries such as Great Britain have banned the selection of a child's sex for reasons other than preventing sex-linked diseases. Other countries allow the procedure for "family balancing", based on the desire of some parents to have at least one child of each sex. Still others, including the United States, have taken a scattershot approach to regulating these practices, essentially leaving it to the individual practicing physician to decide which practices are acceptable and which are not.</para>
+<para id="fs-idp69301008">Even murkier are rare instances of disabled parents, such as those with deafness or dwarfism, who select embryos via PGD to ensure that they share their disability. These parents usually cite many positive aspects of their disabilities and associated culture as reasons for their choice, which they see as their moral right. To others, to purposely cause a disability in a child violates the basic medical principle of <emphasis effect="italics">Primum non nocere,</emphasis> "first, do no harm." This procedure, although not illegal in most countries, demonstrates the complexity of ethical issues associated with choosing genetic traits in offspring.</para>
+<para id="fs-idp126739584">Where could this process lead? Will this technology become more affordable and how should it be used? With the ability of technology to progress rapidly and unpredictably, a lack of definitive guidelines for the use of reproductive technologies before they arise might make it difficult for legislators to keep pace once they are in fact realized, assuming the process needs any government regulation at all. Other bioethicists argue that we should only deal with technologies that exist now, and not in some uncertain future. They argue that these types of procedures will always be expensive and rare, so the fears of eugenics and "master" races are unfounded and overstated. The debate continues.</para>
+</note>
+</section>
+<section id="fs-idp43959584" class="summary">
+<title>Section Summary</title><para id="fs-idp103064480">The early stages of embryonic development begin with fertilization. The process of fertilization is tightly controlled to ensure that only one sperm fuses with one egg. After fertilization, the zygote undergoes cleavage to form the blastula. The blastula, which in some species is a hollow ball of cells, undergoes a process called gastrulation, in which the three germ layers form. The ectoderm gives rise to the nervous system and the epidermal skin cells, the mesoderm gives rise to the muscle cells and connective tissue in the body, and the endoderm gives rise to columnar cells and internal organs.</para>
+    </section>
+<section id="fs-idp128503520" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm4742656">
+<problem id="fs-idp123082400"><para id="fs-idp120977904">Which of the following is false?</para>
+<list id="fs-idp210169888" list-type="enumerated" number-style="lower-alpha">
+<item>The endoderm, mesoderm, ectoderm are germ layers.</item>
+<item>The trophoblast is a germ layer.</item>
+<item>The inner cell mass is a source of embryonic stem cells.</item>
+<item>The blastula is often a hollow ball of cells.</item>
+</list>
+</problem>
+<solution id="fs-idp227555008">
+<label/>
+<para id="fs-idm3619904">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idp11431424">
+<problem id="fs-idp178707952"><para id="fs-idp77138480">During cleavage, the mass of cells:</para>
+<list id="fs-idp18515792" list-type="enumerated" number-style="lower-alpha">
+<item>increases</item>
+<item>decreases</item>
+<item>doubles with every cell division</item>
+<item>does not change significantly</item>
+</list>
+</problem>
+<solution id="fs-idm29987776">
+<label/>
+<para id="fs-idm1460912">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp153567616" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idp108486512">
+<problem id="fs-idp146741184"><para id="fs-idp105065216">What do you think would happen if multiple sperm fused with one egg?</para></problem>
+<solution id="fs-idp201998752"><label/>
+<para id="fs-idp28128896">Multiple sperm can fuse with the egg, resulting in polyspermy. The resulting embryo is not genetically viable and dies within a few days.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp6429424">
+<problem id="fs-idm6559760"><para id="fs-idp77253248">Why do mammalian eggs have a small concentration of yolk, while bird and reptile eggs have a large concentration of yolk?</para></problem>
+<solution id="fs-idp3856832"><label/>
+<para id="fs-idp68826096">Mammalian eggs do not need a lot of yolk because the developing fetus obtains nutrients from the mother. Other species, in which the fetus develops outside of the mother&#8217;s body, such as occurs with birds, require a lot of yolk in the egg to nourish the embryo during development.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idp74725888"><term>acrosomal reaction</term> <meaning id="fs-idp76013808">series of biochemical reactions that the sperm uses to break through the zona pellucida</meaning></definition>
+<definition id="fs-idp118924320"><term>blastocyst</term> <meaning id="fs-idm17995424">structure formed when cells in the mammalian blastula separate into an inner and outer layer</meaning></definition>
+<definition id="fs-idp176241152"><term>gastrulation</term> <meaning id="fs-idp69327968">process in which the blastula folds over itself to form the three germ layers</meaning></definition>
+<definition id="fs-idp178714176"><term>holoblastic</term> <meaning id="fs-idp39872448">complete cleavage; takes place in cells with a small amount of yolk</meaning></definition>
+<definition id="fs-idp77256288"><term>inner cell mass</term> <meaning id="fs-idm7354352">inner layer of cells in the blastocyst</meaning></definition>
+<definition id="fs-idp116571472"><term>meroblastic</term> <meaning id="fs-idm3448896">partial cleavage; takes place in cells with a large amount of yolk</meaning></definition>
+<definition id="fs-idp43950544"><term>polyspermy</term> <meaning id="fs-idp154326480">condition in which one egg is fertilized by multiple sperm</meaning></definition>
+<definition id="fs-idm528192"><term>trophoblast</term> <meaning id="fs-idp178196736">outer layer of cells in the blastocyst</meaning></definition>
+<definition id="fs-idp67653456"><term>zona pellucida</term> <meaning id="fs-idp42262544">protective layer of glycoproteins on the mammalian egg</meaning></definition>
+</glossary>
+</document>

@@ -1,0 +1,202 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Bulk Transport</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44419/latest/</md:content-url>
+  <md:content-id>m44419</md:content-id>
+  <md:title>Bulk Transport</md:title>
+  <md:version>1.7</md:version>
+  <md:created>2012/08/23 10:37:40 -0500</md:created>
+  <md:revised>2013/04/26 15:39:21.723 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>bulk transport</md:keyword>
+    <md:keyword>clathrin</md:keyword>
+    <md:keyword>endocytosis</md:keyword>
+    <md:keyword>exocytosis</md:keyword>
+    <md:keyword>membrane function</md:keyword>
+    <md:keyword>membrane structure</md:keyword>
+    <md:keyword>phagocytosis</md:keyword>
+    <md:keyword>pinocytosis</md:keyword>
+    <md:keyword>plasma membrane</md:keyword>
+    <md:keyword>potocytosis</md:keyword>
+    <md:keyword>receptor-mediated endocytosis</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe endocytosis, including phagocytosis, pinocytosis, and receptor-mediated endocytosis</item>
+<item>Understand the process of exocytosis</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-id1467282">In addition to moving small ions and molecules through the membrane, cells also need to remove and take in larger molecules and particles (see  <link target-id="tab-ch05_04_01" document=""/> for examples). Some cells are even capable of engulfing entire unicellular microorganisms. You might have correctly hypothesized that the uptake and release of large particles by the cell requires energy. A large particle, however, cannot pass through the membrane, even with energy supplied by the cell.</para><section id="fs-id1967798">
+<title>Endocytosis</title>
+<para id="fs-id1416306"><term>Endocytosis</term> is a type of active transport that moves particles, such as large molecules, parts of cells, and even whole cells, into a cell. There are different variations of endocytosis, but all share a common characteristic: The plasma membrane of the cell invaginates, forming a pocket around the target particle. The pocket pinches off, resulting in the particle being contained in a newly created intracellular vesicle formed from the plasma membrane.</para>
+<section id="fs-id1242559">
+<title>Phagocytosis</title>
+<para id="fs-id1694237">Phagocytosis (the condition of &#8220;cell eating&#8221;) is the process by which large particles, such as cells or relatively large particles, are taken in by a cell. For example, when microorganisms invade the human body, a type of white blood cell called a neutrophil will remove the invaders through this process, surrounding and engulfing the microorganism, which is then destroyed by the neutrophil (<link target-id="fig-ch05_04_01" document=""/>).</para>
+<figure id="fig-ch05_04_01"><media id="fs-id2273382" alt="This illustration shows a plasma membrane forming a pocket around a particle in the extracellular fluid. The membrane subsequently engulfs the particle, which becomes trapped in a vacuole.">
+<image mime-type="image/jpg" src="Figure_05_04_01.jpg" width="290"/>
+</media>
+<caption>In phagocytosis, the cell membrane surrounds the particle and engulfs it. (credit: Mariana Ruiz Villareal)</caption></figure><para id="fs-id1458045">In preparation for phagocytosis, a portion of the inward-facing surface of the plasma membrane becomes coated with a protein called <term>clathrin</term>, which stabilizes this section of the membrane. The coated portion of the membrane then extends from the body of the cell and surrounds the particle, eventually enclosing it. Once the vesicle containing the particle is enclosed within the cell, the clathrin disengages from the membrane and the vesicle merges with a lysosome for the breakdown of the material in the newly formed compartment (endosome). When accessible nutrients from the degradation of the vesicular contents have been extracted, the newly formed endosome merges with the plasma membrane and releases its contents into the extracellular fluid. The endosomal membrane again becomes part of the plasma membrane.</para>
+</section>
+<section id="fs-id1434270">
+<title>Pinocytosis</title>
+<para id="fs-id2337777">A variation of endocytosis is called <term>pinocytosis</term>. This literally means &#8220;cell drinking&#8221; and was named at a time when the assumption was that the cell was purposefully taking in extracellular fluid. In reality, this is a process that takes in molecules, including water, which the cell needs from the extracellular fluid. Pinocytosis results in a much smaller vesicle than does phagocytosis, and the vesicle does not need to merge with a lysosome (<link target-id="fig-ch05_04_02" document=""/>).</para>
+<figure id="fig-ch05_04_02"><media id="fs-id1998867" alt="This illustration shows a plasma membrane forming a pocket around fluid in the extracellular fluid. The membrane subsequently engulfs the fluid, which becomes trapped in a vacuole.">
+<image mime-type="image/jpg" src="Figure_05_04_02.jpg" width="290"/>
+</media>
+<caption>In pinocytosis, the cell membrane invaginates, surrounds a small volume of fluid, and pinches off. (credit: Mariana Ruiz Villareal)</caption></figure><para id="fs-id1511146">A variation of pinocytosis is called <term>potocytosis</term>. This process uses a coating protein, called <term>caveolin</term>, on the cytoplasmic side of the plasma membrane, which performs a similar function to clathrin. The cavities in the plasma membrane that form the vacuoles have membrane receptors and lipid rafts in addition to caveolin. The vacuoles or vesicles formed in caveolae (singular caveola) are smaller than those in pinocytosis. Potocytosis is used to bring small molecules into the cell and to transport these molecules through the cell for their release on the other side of the cell, a process called transcytosis.</para>
+</section>
+<section id="fs-id2059707">
+<title>Receptor-mediated Endocytosis</title>
+<para id="fs-id2163521">A targeted variation of endocytosis employs receptor proteins in the plasma membrane that have a specific binding affinity for certain substances (<link target-id="fig-ch05_04_03" document=""/>).</para>
+<figure id="fig-ch05_04_03"><media id="fs-id1313108" alt="This illustration shows a part of the plasma membrane that is clathrin-coated on the cytoplasmic side and has receptors on the extracellular side. The receptors bind a substance, then pinch off to form a vesicle.">
+<image mime-type="image/jpg" src="Figure_05_04_03.jpg" width="290"/>
+</media>
+<caption>In receptor-mediated endocytosis, uptake of substances by the cell is targeted to a single type of substance that binds to the receptor on the external surface of the cell membrane. (credit: modification of work by Mariana Ruiz Villareal)</caption></figure><para id="fs-id1912639">In <term>receptor-mediated endocytosis</term>, as in phagocytosis, clathrin is attached to the cytoplasmic side of the plasma membrane. If uptake of a compound is dependent on receptor-mediated endocytosis and the process is ineffective, the material will not be removed from the tissue fluids or blood. Instead, it will stay in those fluids and increase in concentration. Some human diseases are caused by the failure of receptor-mediated endocytosis. For example, the form of cholesterol termed low-density lipoprotein or LDL (also referred to as &#8220;bad&#8221; cholesterol) is removed from the blood by receptor-mediated endocytosis. In the human genetic disease familial hypercholesterolemia, the LDL receptors are defective or missing entirely. People with this condition have life-threatening levels of cholesterol in their blood, because their cells cannot clear LDL particles from their blood.</para>
+<para id="fs-id2074680">Although receptor-mediated endocytosis is designed to bring specific substances that are normally found in the extracellular fluid into the cell, other substances may gain entry into the cell at the same site. Flu viruses, diphtheria, and cholera toxin all have sites that cross-react with normal receptor-binding sites and gain entry into cells.</para>
+<note id="fs-id2000637" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-id2023248" alt="QR Code representing a URL">
+<image mime-type="image/png" src="endocytosis.png" width="130"/></media>
+<para id="fs-id2292278">See receptor-mediated endocytosis in action, and click on different <link window="new" url="http://openstaxcollege.org/l/endocytosis">parts</link> for a focused animation.</para>
+</note></section>
+</section>
+<section id="fs-id1836379">
+<title>Exocytosis</title>
+<para id="fs-id841051">The reverse process of moving material into a cell is the process of exocytosis. <term>Exocytosis</term> is the opposite of the processes discussed above in that its purpose is to expel material from the cell into the extracellular fluid. Waste material is enveloped in a membrane and fuses with the interior of the plasma membrane. This fusion opens the membranous envelope on the exterior of the cell, and the waste material is expelled into the extracellular space (<link target-id="fig-ch05_04_04" document=""/>). Other examples of cells releasing molecules via exocytosis include the secretion of proteins of the extracellular matrix and secretion of neurotransmitters into the synaptic cleft by synaptic vesicles.</para>
+<figure id="fig-ch05_04_04"><media id="fs-id1690710" alt="This illustration shows vesicles fusing with the plasma membrane and releasing their contents to the extracellular fluid.">
+<image mime-type="image/jpg" src="Figure_05_04_04.jpg" width="290"/>
+</media>
+<caption>In exocytosis, vesicles containing substances fuse with the plasma membrane. The contents are then released to the exterior of the cell. (credit: modification of work by Mariana Ruiz Villareal)</caption></figure><table id="tab-ch05_04_01" summary="This table provides a list of types of molecular transport in cells, whether the method is passive or active, and the types of materials transported for each.">
+<tgroup cols="3"><colspec colnum="1" colname="col1"/>
+                <colspec colnum="2" colname="col2"/>
+                <colspec colnum="3" colname="col3"/>
+<thead>
+<row><entry namest="col1" nameend="col3">Methods of Transport, Energy Requirements, and Types of Material Transported</entry></row>
+<row><entry>Transport Method</entry><entry>Active/Passive</entry><entry>Material Transported</entry></row>
+</thead>
+<tbody>
+<row><entry>Diffusion</entry><entry>Passive</entry><entry>Small-molecular weight material</entry></row>
+<row><entry>Osmosis</entry><entry>Passive</entry><entry>Water</entry></row>
+<row><entry>Facilitated transport/diffusion</entry><entry>Passive</entry><entry>Sodium, potassium, calcium, glucose</entry></row>
+<row><entry>Primary active transport</entry><entry>Active</entry><entry>Sodium, potassium, calcium</entry></row>
+<row><entry>Secondary active transport</entry><entry>Active</entry><entry>Amino acids, lactose</entry></row>
+<row><entry>Phagocytosis</entry><entry>Active</entry><entry>Large macromolecules, whole cells, or cellular structures</entry></row>
+<row><entry>Pinocytosis and potocytosis</entry><entry>Active</entry><entry>Small molecules (liquids/water)</entry></row>
+<row><entry>Receptor-mediated endocytosis</entry><entry>Active</entry><entry>Large quantities of macromolecules</entry></row>
+</tbody>
+
+
+</tgroup>
+</table></section>
+<section id="fs-id1894819" class="summary">
+<title>Section Summary</title><para id="fs-id1479267">Active transport methods require the direct use of ATP to fuel the transport. Large particles, such as macromolecules, parts of cells, or whole cells, can be engulfed by other cells in a process called phagocytosis. In phagocytosis, a portion of the membrane invaginates and flows around the particle, eventually pinching off and leaving the particle entirely enclosed by an envelope of plasma membrane. Vesicle contents are broken down by the cell, with the particles either used as food or dispatched. Pinocytosis is a similar process on a smaller scale. The plasma membrane invaginates and pinches off, producing a small envelope of fluid from outside the cell. Pinocytosis imports substances that the cell needs from the extracellular fluid. The cell expels waste in a similar but reverse manner: it pushes a membranous vacuole to the plasma membrane, allowing the vacuole to fuse with the membrane and incorporate itself into the membrane structure, releasing its contents to the exterior.</para>
+</section>
+<section id="fs-id1302123" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-id1853625">
+<problem id="fs-id2197804"><para id="fs-id1255097">What happens to the membrane of a vesicle after exocytosis?</para>
+<list id="fs-id1712549" list-type="enumerated" number-style="lower-alpha">
+<item>It leaves the cell.</item>
+<item>It is disassembled by the cell.</item>
+<item>It fuses with and becomes part of the plasma membrane.</item>
+<item>It is used again in another exocytosis event.</item>
+</list>
+</problem>
+<solution id="fs-id1778503">
+<label/>
+<para id="fs-id2197192">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id2116533">
+<problem id="fs-id1723512"><para id="fs-id1981380">Which transport mechanism can bring whole cells into a cell?</para>
+<list id="fs-id1896127" list-type="enumerated" number-style="lower-alpha">
+<item>pinocytosis</item>
+<item>phagocytosis</item>
+<item>facilitated transport</item>
+<item>primary active transport</item>
+</list>
+</problem>
+<solution id="fs-id2051644">
+<label/>
+<para id="fs-id1439092">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1702994">
+<problem id="fs-id1772017"><para id="fs-id2215844">In what important way does receptor-mediated endocytosis differ from phagocytosis?</para>
+<list id="fs-id1481792" list-type="enumerated" number-style="lower-alpha">
+<item>It transports only small amounts of fluid.</item>
+<item>It does not involve the pinching off of membrane.</item>
+<item>It brings in only a specifically targeted substance.</item>
+<item>It brings substances into the cell, while phagocytosis removes substances.</item>
+</list>
+</problem>
+<solution id="fs-id1443204">
+<label/>
+<para id="fs-id2000022">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1419827" class="free-response">
+<title>Free Response</title><exercise id="fs-id1415018">
+<problem id="fs-id2013541"><para id="fs-id1787601">Why is it important that there are different types of proteins in plasma membranes for the transport of materials into and out of a cell?</para></problem>
+<solution id="fs-id1693578"><label/>
+<para id="fs-id1768554">The proteins allow a cell to select what compound will be transported, meeting the needs of the cell and not bringing in anything else.</para></solution>
+</exercise>
+<exercise id="fs-id1982720">
+<problem id="fs-id1481453"><para id="fs-id1760853">Why do ions have a difficult time getting through plasma membranes despite their small size?</para></problem>
+<solution id="fs-id1236377"><label/>
+<para id="fs-id1805576">Ions are charged, and consequently, they are hydrophilic and cannot associate with the lipid portion of the membrane. Ions must be transported by carrier proteins or ion channels.</para></solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-id1769825"><term>caveolin</term> <meaning id="fs-id2258545">protein that coats the cytoplasmic side of the plasma membrane and participates in the process of liquid update by potocytosis</meaning></definition>
+<definition id="fs-id1704998"><term>clathrin</term> <meaning id="fs-id2491646">protein that coats the inward-facing surface of the plasma membrane and assists in the formation of specialized structures, like coated pits, for phagocytosis</meaning></definition>
+<definition id="fs-id1412466"><term>endocytosis</term> <meaning id="fs-id1288365">type of active transport that moves substances, including fluids and particles, into a cell</meaning></definition>
+<definition id="fs-id1439064"><term>exocytosis</term> <meaning id="fs-id1519767">process of passing bulk material out of a cell</meaning></definition>
+<definition id="fs-id1760012"><term>pinocytosis</term> <meaning id="fs-id1395158">a variation of endocytosis that imports macromolecules that the cell needs from the extracellular fluid</meaning></definition>
+<definition id="fs-id1442893"><term>potocytosis</term> <meaning id="fs-id1786911">variation of pinocytosis that uses a different coating protein (caveolin) on the cytoplasmic side of the plasma membrane</meaning></definition>
+<definition id="fs-id1631447"><term>receptor-mediated endocytosis</term> <meaning id="fs-id2072894">variation of endocytosis that involves the use of specific binding proteins in the plasma membrane for specific molecules or particles, and clathrin-coated pits that become clathrin-coated vesicles</meaning></definition>
+</glossary>
+</document>

@@ -1,0 +1,175 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>RNA Processing in Eukaryotes</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44532/latest/</md:content-url>
+  <md:content-id>m44532</md:content-id>
+  <md:title>RNA Processing in Eukaryotes</md:title>
+  <md:version>1.5</md:version>
+  <md:created>2012/08/23 13:52:22 -0500</md:created>
+  <md:revised>2013/04/10 15:19:11.252 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>7-methylguanosine cap</md:keyword>
+    <md:keyword>anticodon</md:keyword>
+    <md:keyword>exon</md:keyword>
+    <md:keyword>gene</md:keyword>
+    <md:keyword>genes</md:keyword>
+    <md:keyword>intron</md:keyword>
+    <md:keyword>poly-A tail</md:keyword>
+    <md:keyword>protein</md:keyword>
+    <md:keyword>proteins</md:keyword>
+    <md:keyword>RNA editing</md:keyword>
+    <md:keyword>RNA processing</md:keyword>
+    <md:keyword>splicing</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the different steps in RNA processing</item>
+<item>Understand the significance of exons, introns, and splicing</item>
+<item>Explain how tRNAs and rRNAs are processed</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+
+<para id="fs-id2263546">After transcription, eukaryotic pre-mRNAs must undergo several processing steps before they can be translated. Eukaryotic (and prokaryotic) tRNAs and rRNAs also undergo processing before they can function as components in the protein synthesis machinery.</para>
+
+<section id="fs-id1983488">
+<title>mRNA Processing</title>
+<para id="fs-id2186668">The eukaryotic pre-mRNA undergoes extensive processing before it is ready to be translated. The additional steps involved in eukaryotic mRNA maturation create a molecule with a much longer half-life than a prokaryotic mRNA. Eukaryotic mRNAs last for several hours, whereas the typical <emphasis effect="italics">E. coli</emphasis> mRNA lasts no more than five seconds.</para>
+<para id="fs-id2262076">Pre-mRNAs are first coated in RNA-stabilizing proteins; these protect the pre-mRNA from degradation while it is processed and exported out of the nucleus. The three most important steps of pre-mRNA processing are the addition of stabilizing and signaling factors at the 5' and 3' ends of the molecule, and the removal of intervening sequences that do not specify the appropriate amino acids. In rare cases, the mRNA transcript can be &#8220;edited&#8221; after it is transcribed.</para>
+<note id="fs-id2863005" class="evolution"><label/><title>Evolution Connection</title>
+    
+<para id="fs-id2655263"><title>RNA Editing in Trypanosomes</title>The trypanosomes are a group of protozoa that include the pathogen <emphasis effect="italics">Trypanosoma brucei</emphasis>, which causes sleeping sickness in humans (<link target-id="fig-ch15_04_01" document=""/>). Trypanosomes, and virtually all other eukaryotes, have organelles called mitochondria that supply the cell with chemical energy. Mitochondria are organelles that express their own DNA and are believed to be the remnants of a symbiotic relationship between a eukaryote and an engulfed prokaryote.  The mitochondrial DNA of trypanosomes exhibit an interesting exception to The Central Dogma: their pre-mRNAs do not have the correct information to specify a functional protein. Usually, this is because the mRNA is missing several U nucleotides. The cell performs an additional RNA processing step called <term>RNA editing</term> to remedy this.</para>
+<figure id="fig-ch15_04_01"><media id="fs-id2595588" alt="Micrograph shows T. brucei, which has a u-shaped cell body and a long tail.">
+<image mime-type="image/jpg" src="Figure_15_04_01.jpg" width="250"/>
+</media>
+<caption><emphasis effect="italics">Trypanosoma brucei</emphasis> is the causative agent of sleeping sickness in humans. The mRNAs of this pathogen must be modified by the addition of nucleotides before protein synthesis can occur. (credit: modification of work by Torsten Ochsenreiter)</caption></figure><para id="fs-id1288287">Other genes in the mitochondrial genome encode 40- to 80-nucleotide guide RNAs. One or more of these molecules interacts by complementary base pairing with some of the nucleotides in the pre-mRNA transcript. However, the guide RNA has more A nucleotides than the pre-mRNA has U nucleotides to bind with. In these regions, the guide RNA loops out. The 3' ends of guide RNAs have a long poly-U tail, and these U bases are inserted in regions of the pre-mRNA transcript at which the guide RNAs are looped. This process is entirely mediated by RNA molecules. That is, guide RNAs&#8212;rather than proteins&#8212;serve as the catalysts in RNA editing.</para>
+<para id="fs-id2300063">RNA editing is not just a phenomenon of trypanosomes. In the mitochondria of some plants, almost all pre-mRNAs are edited. RNA editing has also been identified in mammals such as rats, rabbits, and even humans. What could be the evolutionary reason for this additional step in pre-mRNA processing? One possibility is that the mitochondria, being remnants of ancient prokaryotes, have an equally ancient RNA-based method for regulating gene expression. In support of this hypothesis, edits made to pre-mRNAs differ depending on cellular conditions. Although speculative, the process of RNA editing may be a holdover from a primordial time when RNA molecules, instead of proteins, were responsible for catalyzing reactions.</para>
+</note><section id="fs-id2349302">
+<title>5' Capping</title>
+<para id="fs-id2196807">While the pre-mRNA is still being synthesized, a <term>7-methylguanosine cap</term> is added to the 5' end of the growing transcript by a phosphate linkage. This moiety (functional group) protects the nascent mRNA from degradation. In addition, factors involved in protein synthesis recognize the cap to help initiate translation by ribosomes.</para>
+</section>
+
+<section id="fs-id1422041">
+<title>3' Poly-A Tail</title>
+<para id="fs-id2229067">Once elongation is complete, the pre-mRNA is cleaved by an endonuclease between an AAUAAA consensus sequence and a GU-rich sequence, leaving the AAUAAA sequence on the pre-mRNA. An enzyme called poly-A polymerase then adds a string of approximately 200 A residues, called the <term>poly-A tail</term>. This modification further protects the pre-mRNA from degradation and signals the export of the cellular factors that the transcript needs to the cytoplasm.</para>
+</section>
+
+<section id="fs-id2195071">
+<title>Pre-mRNA Splicing</title>
+<para id="fs-id2914078">Eukaryotic genes are composed of <term>exons</term>, which correspond to protein-coding sequences (<emphasis effect="italics">ex-</emphasis>on signifies that they are <emphasis effect="italics">ex</emphasis>pressed), and <emphasis effect="italics">int</emphasis>ervening sequences called <term>introns</term> (<emphasis effect="italics">int-</emphasis>ron denotes their <emphasis effect="italics">int</emphasis>ervening role), which may be involved in gene regulation but are removed from the pre-mRNA during processing. Intron sequences in mRNA do not encode functional proteins.</para>
+<para id="fs-id2098378">The discovery of introns came as a surprise to researchers in the 1970s who expected that pre-mRNAs would specify protein sequences without further processing, as they had observed in prokaryotes. The genes of higher eukaryotes very often contain one or more introns. These regions may correspond to regulatory sequences; however, the biological significance of having many introns or having very long introns in a gene is unclear. It is possible that introns slow down gene expression because it takes longer to transcribe pre-mRNAs with lots of introns. Alternatively, introns may be nonfunctional sequence remnants left over from the fusion of ancient genes throughout evolution. This is supported by the fact that separate exons often encode separate protein subunits or domains. For the most part, the sequences of introns can be mutated without ultimately affecting the protein product.</para>
+<para id="fs-id2117424">All of a pre-mRNA&#8217;s introns must be completely and precisely removed before protein synthesis. If the process errs by even a single nucleotide, the reading frame of the rejoined exons would shift, and the resulting protein would be dysfunctional. The process of removing introns and reconnecting exons is called <term>splicing</term> (<link target-id="fig-ch15_04_02" document=""/>). Introns are removed and degraded while the pre-mRNA is still in the nucleus. Splicing occurs by a sequence-specific mechanism that ensures introns will be removed and exons rejoined with the accuracy and precision of a single nucleotide. The splicing of pre-mRNAs is conducted by complexes of proteins and RNA molecules called spliceosomes.</para>
+<note id="fs-id2937179" class="art-connection"><label/><title>Art Connection</title>
+<para id="fs-idp68937344"><figure id="fig-ch15_04_02"><media id="fs-id1480619" alt="Illustration shows a spliceosome bound to mRNA. An intron is wrapped around snRNPs associated with the spliceosome. When the splice is complete, the exons on either side of the intron are fused together, and the intron forms a ring structure.">
+<image mime-type="image/jpg" src="Figure_15_04_02.png" width="280"/>
+</media>
+<caption>Pre-mRNA splicing involves the precise removal of introns from the primary RNA transcript. The splicing process is catalyzed by protein complexes called spliceosomes that are composed of proteins and RNA molecules called snRNAs. Spliceosomes recognize sequences at the 5' and 3' end of the intron.</caption></figure></para>
+<para id="fs-id1864575">Errors in splicing are implicated in cancers and other human diseases. What kinds of mutations might lead to splicing errors? Think of different possible outcomes if splicing errors occur.</para>
+<!-- <link window="new"  target-id="fig-ch15_04_02" document=""/>Mutations in the spliceosome recognition sequence at each end of the intron, or in the proteins and RNAs that make up the spliceosome, may impair splicing. Mutations may also add new spliceosome recognition sites. Splicing errors could lead to introns being retained in spliced RNA, exons being excised, or changes in the location of the splice site. --></note><para id="fs-id2000672">Note that more than 70 individual introns can be present, and each has to undergo the process of splicing&#8212;in addition to 5' capping and the addition of a poly-A tail&#8212;just to generate a single, translatable mRNA molecule.</para>
+<note id="fs-id2010314" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-id1436147" alt="QR Code representing a URL"> 
+<image mime-type="image/png" src="RNA_splicing.png" width="120"/> </media> 
+<para id="fs-id1425631">See how introns are removed during RNA splicing <link window="new" url="http://openstaxcollege.org/l/RNA_splicing">at this website</link>.</para></note></section>
+</section>
+
+<section id="fs-id1650543">
+<title>Processing of tRNAs and rRNAs</title>
+<para id="fs-id2644904">The tRNAs and rRNAs are structural molecules that have roles in protein synthesis; however, these RNAs are not themselves translated. Pre-rRNAs are transcribed, processed, and assembled into ribosomes in the nucleolus. Pre-tRNAs are transcribed and processed in the nucleus and then released into the cytoplasm where they are linked to free amino acids for protein synthesis.</para>
+<para id="fs-id2595368">Most of the tRNAs and rRNAs in eukaryotes and prokaryotes are first transcribed as a long precursor molecule that spans multiple rRNAs or tRNAs. Enzymes then cleave the precursors into subunits corresponding to each structural RNA. Some of the bases of pre-rRNAs are methylated; that is, a &#8211;CH<sub>3</sub> moiety (methyl functional group) is added for stability. Pre-tRNA molecules also undergo methylation. As with pre-mRNAs, subunit excision occurs in eukaryotic pre-RNAs destined to become tRNAs or rRNAs.</para>
+<para id="fs-id1450254">Mature rRNAs make up approximately 50 percent of each ribosome. Some of a ribosome&#8217;s RNA molecules are purely structural, whereas others have catalytic or binding activities. Mature tRNAs take on a three-dimensional structure through intramolecular hydrogen bonding to position the amino acid binding site at one end and the <term>anticodon</term> at the other end (<link target-id="fig-ch15_04_03" document=""/>). The anticodon is a three-nucleotide sequence in a tRNA that interacts with an mRNA codon through complementary base pairing.</para>
+<figure id="fig-ch15_04_03"><media id="fs-id1440481" alt="The molecular model of phenylalanine tRNA is L-shaped. At one end is the anticodon AAG. At the other end is the attachment site for the amino acid phenylalanine">
+<image mime-type="image/jpg" src="Figure_15_04_03.jpg" width="300"/>
+</media>
+<caption>This is a space-filling model of a tRNA molecule that adds the amino acid phenylalanine to a growing polypeptide chain. The anticodon AAG binds the Codon UUC on the mRNA. The amino acid phenylalanine is attached to the other end of the tRNA.</caption></figure></section>
+
+<section id="fs-id1780811" class="summary"> <title>Section Summary</title><para id="fs-id2270525">Eukaryotic pre-mRNAs are modified with a 5' methylguanosine cap and a poly-A tail. These structures protect the mature mRNA from degradation and help export it from the nucleus. Pre-mRNAs also undergo splicing, in which introns are removed and exons are reconnected with single-nucleotide accuracy. Only finished mRNAs that have undergone 5' capping, 3' polyadenylation, and intron splicing are exported from the nucleus to the cytoplasm. Pre-rRNAs and pre-tRNAs may be processed by intramolecular cleavage, splicing, methylation, and chemical conversion of nucleotides. Rarely, RNA editing is also performed to insert missing bases after an mRNA has been synthesized.</para>
+</section>
+<section id="fs-idm13028992" class="art-exercise">
+    <title>Art Connections</title>
+<exercise id="fs-idp101720928">
+    <problem id="fs-idp95572528">
+        <para id="fs-idm14702160"><link target-id="fig-ch15_04_02" document=""/> Errors in splicing are implicated in cancers and other human diseases. What kinds of mutations might lead to splicing errors? Think of different possible outcomes if splicing errors occur.</para>
+    </problem>
+<solution id="fs-idp39733568"><label/>    
+        <para id="fs-idp63298640"><link target-id="fig-ch15_04_02" document=""/> Mutations in the spliceosome recognition sequence at each end of the intron, or in the proteins and RNAs that make up the spliceosome, may impair splicing. Mutations may also add new spliceosome recognition sites. Splicing errors could lead to introns being retained in spliced RNA, exons being excised, or changes in the location of the splice site.</para>
+</solution>
+</exercise>    
+</section>
+<section id="fs-id2750556" class="multiple-choice"> <title>Review Questions</title><exercise id="fs-id1466731">
+<problem id="fs-id2080887"><para id="fs-id2914626">Which pre-mRNA processing step is important for initiating translation?</para>
+<list id="fs-id1847065" list-type="enumerated" number-style="lower-alpha">
+<item>poly-A tail</item>
+<item>RNA editing</item>
+<item>splicing</item>
+<item>7-methylguanosine cap</item>
+</list>
+</problem>
+<solution id="fs-id2261966"> <label/> <para id="fs-id1986526">D</para> </solution>
+</exercise>
+<exercise id="fs-id1428536">
+<problem id="fs-id1571225"><para id="fs-id1419233">What processing step enhances the stability of pre-tRNAs and pre-rRNAs?</para>
+<list id="fs-id1242629" list-type="enumerated" number-style="lower-alpha">
+<item>methylation</item>
+<item>nucleotide modification</item>
+<item>cleavage</item>
+<item>splicing</item>
+</list>
+</problem>
+<solution id="fs-id1281610"> <label/> <para id="fs-id2344853">A</para> </solution>
+</exercise>
+</section>
+</content>
+
+<glossary>
+<definition id="fs-id1097260"><term>7-methylguanosine cap</term> <meaning id="fs-id2013729">modification added to the 5' end of pre-mRNAs to protect mRNA from degradation and assist translation</meaning></definition>
+<definition id="fs-id2054588"><term>anticodon</term> <meaning id="fs-id950384">three-nucleotide sequence in a tRNA molecule that corresponds to an mRNA codon</meaning></definition>
+<definition id="fs-id2762999"><term>exon</term> <meaning id="fs-id1482251">sequence present in protein-coding mRNA after completion of pre-mRNA splicing</meaning></definition>
+<definition id="fs-id1280839"><term>intron</term> <meaning id="fs-id2348645">non&#8211;protein-coding intervening sequences that are spliced from mRNA during processing</meaning></definition>
+<definition id="fs-id1442805"><term>poly-A tail</term> <meaning id="fs-id2018905">modification added to the 3' end of pre-mRNAs to protect mRNA from degradation and assist mRNA export from the nucleus</meaning></definition>
+<definition id="fs-id1519661"><term>RNA editing</term> <meaning id="fs-id1470806">direct alteration of one or more nucleotides in an mRNA that has already been synthesized</meaning></definition>
+<definition id="fs-id1958502"><term>splicing</term> <meaning id="fs-id2608514">process of removing introns and reconnecting exons in a pre-mRNA</meaning></definition>
+</glossary>
+
+</document>

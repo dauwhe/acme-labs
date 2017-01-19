@@ -1,0 +1,171 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44790/latest/</md:content-url>
+  <md:content-id>m44790</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.2</md:version>
+  <md:created>2012/08/23 15:46:23 -0500</md:created>
+  <md:revised>2013/03/07 09:45:22.320 US/Central</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>acini</md:keyword>
+    <md:keyword>acinus</md:keyword>
+    <md:keyword>air sac</md:keyword>
+    <md:keyword>alveolar duct</md:keyword>
+    <md:keyword>alveolar P_(O_2 )</md:keyword>
+    <md:keyword>alveolar sac</md:keyword>
+    <md:keyword>alveolar ventilation</md:keyword>
+    <md:keyword>alveoli</md:keyword>
+    <md:keyword>alveolus</md:keyword>
+    <md:keyword>anatomical dead space</md:keyword>
+    <md:keyword>anatomical shunt</md:keyword>
+    <md:keyword>asthma</md:keyword>
+    <md:keyword>bicarbonate</md:keyword>
+    <md:keyword>bicarbonate buffer system</md:keyword>
+    <md:keyword>Boyle&#8217;s Law</md:keyword>
+    <md:keyword>bronchi</md:keyword>
+    <md:keyword>bronchiole</md:keyword>
+    <md:keyword>bronchus</md:keyword>
+    <md:keyword>carbaminohemoglobin</md:keyword>
+    <md:keyword>carbon dioxide</md:keyword>
+    <md:keyword>carbon monoxide</md:keyword>
+    <md:keyword>carbonic acid intermediate</md:keyword>
+    <md:keyword>carbonic anhydrase</md:keyword>
+    <md:keyword>cartilage</md:keyword>
+    <md:keyword>chitin</md:keyword>
+    <md:keyword>chloride shift</md:keyword>
+    <md:keyword>cilia</md:keyword>
+    <md:keyword>compliance</md:keyword>
+    <md:keyword>concentration gradient</md:keyword>
+    <md:keyword>dead space</md:keyword>
+    <md:keyword>diaphragm</md:keyword>
+    <md:keyword>diffusion</md:keyword>
+    <md:keyword>direct diffusion</md:keyword>
+    <md:keyword>elastic recoil</md:keyword>
+    <md:keyword>elastic work</md:keyword>
+    <md:keyword>exhalation</md:keyword>
+    <md:keyword>expiratory reserve volume</md:keyword>
+    <md:keyword>FEV1/FVC ratio</md:keyword>
+    <md:keyword>flatworm</md:keyword>
+    <md:keyword>flow-resistive</md:keyword>
+    <md:keyword>forced expiratory volume</md:keyword>
+    <md:keyword>forced vital capacity</md:keyword>
+    <md:keyword>functional residual capacity</md:keyword>
+    <md:keyword>functional vital capacity</md:keyword>
+    <md:keyword>gas equation</md:keyword>
+    <md:keyword>gas exchange</md:keyword>
+    <md:keyword>gas pressure</md:keyword>
+    <md:keyword>gills</md:keyword>
+    <md:keyword>heme group</md:keyword>
+    <md:keyword>hemoglobin</md:keyword>
+    <md:keyword>inhalation</md:keyword>
+    <md:keyword>inspiratory capacity</md:keyword>
+    <md:keyword>inspiratory reserve volume</md:keyword>
+    <md:keyword>intercostal muscle</md:keyword>
+    <md:keyword>intrapleural space</md:keyword>
+    <md:keyword>larynx</md:keyword>
+    <md:keyword>lung capacity</md:keyword>
+    <md:keyword>lung volume</md:keyword>
+    <md:keyword>main bronchus</md:keyword>
+    <md:keyword>maximal exhalation</md:keyword>
+    <md:keyword>Muc protein</md:keyword>
+    <md:keyword>mucin</md:keyword>
+    <md:keyword>mucus</md:keyword>
+    <md:keyword>nasal cavity</md:keyword>
+    <md:keyword>obstructive disease</md:keyword>
+    <md:keyword>outward recoil</md:keyword>
+    <md:keyword>oxygen</md:keyword>
+    <md:keyword>oxygen dissociation curve</md:keyword>
+    <md:keyword>oxygen-carrying capacity</md:keyword>
+    <md:keyword>partial pressure</md:keyword>
+    <md:keyword>particulate matter</md:keyword>
+    <md:keyword>pharynx</md:keyword>
+    <md:keyword>physiological dead space</md:keyword>
+    <md:keyword>physiological shunt</md:keyword>
+    <md:keyword>pleura</md:keyword>
+    <md:keyword>pleurisy</md:keyword>
+    <md:keyword>primary bronchus</md:keyword>
+    <md:keyword>recruitment</md:keyword>
+    <md:keyword>residual volume</md:keyword>
+    <md:keyword>resistance</md:keyword>
+    <md:keyword>respiratory bronchiole</md:keyword>
+    <md:keyword>respiratory distress syndrome</md:keyword>
+    <md:keyword>respiratory quotient</md:keyword>
+    <md:keyword>respiratory rate</md:keyword>
+    <md:keyword>respiratory therapist</md:keyword>
+    <md:keyword>restrictive disease</md:keyword>
+    <md:keyword>Robert Boyle</md:keyword>
+    <md:keyword>sickle cell anemia</md:keyword>
+    <md:keyword>smooth muscle</md:keyword>
+    <md:keyword>spirometry</md:keyword>
+    <md:keyword>surfactant</md:keyword>
+    <md:keyword>terminal bronchiole</md:keyword>
+    <md:keyword>thalassemia</md:keyword>
+    <md:keyword>therapod</md:keyword>
+    <md:keyword>thoracic cavity</md:keyword>
+    <md:keyword>tidal volume</md:keyword>
+    <md:keyword>total lung capacity</md:keyword>
+    <md:keyword>trachea</md:keyword>
+    <md:keyword>tracheal system</md:keyword>
+    <md:keyword>venous P_(CO_2 )</md:keyword>
+    <md:keyword>venous P_(O_2 )</md:keyword>
+    <md:keyword>ventilation/perfusion</md:keyword>
+    <md:keyword>Ventricaria ventricosa</md:keyword>
+    <md:keyword>visceral pleura</md:keyword>
+    <md:keyword>vital capacity</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+    <?cnx.eoc class="summary" title="Sections Summary"?>
+<?cnx.eoc class="art-exercise" title="Art Connections"?>
+<?cnx.eoc class="multiple-choice" title="Multiple Choice"?>
+<?cnx.eoc class="free-response" title="Free Response"?>
+
+<figure id="fig-ch39_00_01" class="splash"><media id="fs-idp17519248" alt="An X-ray on the left shows a dog heart, which appears as a white, oblong mass, surround by virtually transparent lung tissue. The photo on the right shows a dog.">
+<image mime-type="image/jpg" src="Figure_39_00_01.jpg" width="600"/>
+</media>
+<caption>Lungs, which appear as nearly transparent tissue surrounding the heart in this X-ray of a dog (left), are the central organs of the respiratory system. The left lung is smaller than the right lung to accommodate space for the heart. A dog&#8217;s nose (right) has a slit on the side of each nostril. When tracking a scent, the slits open, blocking the front of the nostrils. This allows the dog to exhale though the now-open area on the side of the nostrils without losing the scent that is being followed. (credit a: modification of work by Geoff Stearns; credit b: modification of work by Cory Zanker)</caption></figure><para id="fs-idp122807312">Breathing is an involuntary event. How often a breath is taken and how much air is inhaled or exhaled are tightly regulated by the respiratory center in the brain. Humans, when they aren&#8217;t exerting themselves, breathe approximately 15 times per minute on average. Canines, like the dog in <link target-id="fig-ch39_00_01" document=""/>, have a respiratory rate of about 15&#8211;30 breaths per minute. With every inhalation, air fills the lungs, and with every exhalation, air rushes back out. That air is doing more than just inflating and deflating the lungs in the chest cavity. The air contains oxygen that crosses the lung tissue, enters the bloodstream, and travels to organs and tissues. Oxygen (O<sub>2</sub>) enters the cells where it is used for metabolic reactions that produce ATP, a high-energy compound. At the same time, these reactions release carbon dioxide (CO<sub>2</sub>) as a by-product. CO<sub>2 </sub>is toxic and must be eliminated. Carbon dioxide exits the cells, enters the bloodstream, travels back to the lungs, and is expired out of the body during exhalation.</para></content>
+</document>

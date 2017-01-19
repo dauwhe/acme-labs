@@ -1,0 +1,195 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Features of the Animal Kingdom</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44655/latest/</md:content-url>
+  <md:content-id>m44655</md:content-id>
+  <md:title>Features of the Animal Kingdom</md:title>
+  <md:version>1.8</md:version>
+  <md:created>2012/08/23 14:38:59 -0500</md:created>
+  <md:revised>2013/04/29 15:09:13.308 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>animal development</md:keyword>
+    <md:keyword>animal diversity</md:keyword>
+    <md:keyword>animal kingdom</md:keyword>
+    <md:keyword>animal reproduction</md:keyword>
+    <md:keyword>asexual reproduction</md:keyword>
+    <md:keyword>blastula</md:keyword>
+    <md:keyword>body plan</md:keyword>
+    <md:keyword>cleavage</md:keyword>
+    <md:keyword>complex tissue structure</md:keyword>
+    <md:keyword>embryonic development</md:keyword>
+    <md:keyword>gastrula</md:keyword>
+    <md:keyword>germ layer</md:keyword>
+    <md:keyword>homeobox gene</md:keyword>
+    <md:keyword>Hox gene</md:keyword>
+    <md:keyword>kingdom Animalia</md:keyword>
+    <md:keyword>organogenesis</md:keyword>
+    <md:keyword>sexual development</md:keyword>
+    <md:keyword>tissue structure</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>List the features that distinguish the kingdom Animalia from other kingdoms</item>
+<item>Explain the processes of animal reproduction and embryonic development</item>
+<item>Describe the roles that Hox genes play in development</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idm1238288">Even though members of the animal kingdom are incredibly diverse, most animals share certain features that distinguish them from organisms in other kingdoms. All animals are eukaryotic, multicellular organisms, and almost all animals have a complex tissue structure with differentiated and specialized tissues. Most animals are motile, at least during certain life stages. All animals require a source of food and are therefore heterotrophic, ingesting other living or dead organisms; this feature distinguishes them from autotrophic organisms, such as most plants, which synthesize their own nutrients through photosynthesis. As heterotrophs, animals may be carnivores, herbivores, omnivores, or parasites (<link target-id="fig-ch27_01_01" document=""/><emphasis effect="bold">ab</emphasis>). Most animals reproduce sexually, and the offspring pass through a series of developmental stages that establish a determined and fixed body plan. The <term>body plan</term> refers to the morphology of an animal, determined by developmental cues.</para><figure id="fig-ch27_01_01"><media id="fs-idp17670944" alt="Part a shows a bear with a large fish in its mouth. Part b shows a heart in a jar. Long, threadlike worms extend from the heart.">
+<image mime-type="image/jpg" src="Figure_27_01_01ab.jpg" width="420"/>
+</media>
+<caption>All animals are heterotrophs that derive energy from food. The (a) black bear is an omnivore, eating both plants and animals. The (b) heartworm <emphasis effect="italics">Dirofilaria immitis</emphasis> is a parasite that derives energy from its hosts. It spends its larval stage in mosquitoes and its adult stage infesting the heart of dogs and other mammals, as shown here. (credit a: modification of work by USDA Forest Service; credit b: modification of work by Clyde Robinson)</caption></figure><section id="fs-idm34097408">
+<title>Complex Tissue Structure</title>
+<para id="fs-idm71105056">As multicellular organisms, animals differ from plants and fungi because their cells don&#8217;t have cell walls, their cells may be embedded in an extracellular matrix (such as bone, skin, or connective tissue), and their cells have unique structures for intercellular communication (such as gap junctions). In addition, animals possess unique tissues, absent in fungi and plants, which allow coordination (nerve tissue) of motility (muscle tissue). Animals are also characterized by specialized connective tissues that provide structural support for cells and organs. This connective tissue constitutes the extracellular surroundings of cells and is made up of organic and inorganic materials. In vertebrates, bone tissue is a type of connective tissue that supports the entire body structure. The complex bodies and activities of vertebrates demand such supportive tissues. Epithelial tissues cover, line, protect, and secrete. Epithelial tissues include the epidermis of the integument, the lining of the digestive tract and trachea, and make up the ducts of the liver and glands of advanced animals.</para>
+<para id="fs-idm76248592">The animal kingdom is divided into Parazoa (sponges) and Eumetazoa (all other animals). As very simple animals, the organisms in group Parazoa (&#8220;beside animal&#8221;) do not contain true specialized tissues; although they do possess specialized cells that perform different functions, those cells are not organized into tissues. These organisms are considered animals since they lack the ability to make their own food. Animals with true tissues are in the group Eumetazoa (&#8220;true animals&#8221;). When we think of animals, we usually think of Eumetazoans, since most animals fall into this category.</para>
+<para id="fs-idm74697792">The different types of tissues in true animals are responsible for carrying out specific functions for the organism. This differentiation and specialization of tissues is part of what allows for such incredible animal diversity. For example, the evolution of nerve tissues and muscle tissues has resulted in animals&#8217; unique ability to rapidly sense and respond to changes in their environment. This allows animals to survive in environments where they must compete with other species to meet their nutritional demands.</para>
+<note id="fs-idm83387584" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idm50528080" alt="QR Code representing a URL">
+<image mime-type="image/png" src="saving_life.png" width="120"/>
+</media>
+<para id="fs-idp13659296">Watch a <link window="new" url="http://openstaxcollege.org/l/saving_life">presentation</link> by biologist E.O. Wilson on the importance of diversity.</para>
+</note></section>
+<section id="fs-idm33897056">
+<title>Animal Reproduction and Development</title>
+<para id="fs-idp1983776">Most animals are diploid organisms, meaning that their body (somatic) cells are diploid and haploid reproductive (gamete) cells are produced through meiosis. Some exceptions exist: For example, in bees, wasps, and ants, the male is haploid because it develops from unfertilized eggs. Most animals undergo sexual reproduction: This fact distinguishes animals from fungi, protists, and bacteria, where asexual reproduction is common or exclusive. However, a few groups, such as cnidarians, flatworm, and roundworms, undergo asexual reproduction, although nearly all of those animals also have a sexual phase to their life cycle.</para>
+<section id="fs-idm89374944">
+<title>Processes of Animal Reproduction and Embryonic Development</title>
+<para id="fs-idm21086000">During sexual reproduction, the haploid gametes of the male and female individuals of a species combine in a process called fertilization. Typically, the small, motile male sperm fertilizes the much larger, sessile female egg. This process produces a diploid fertilized egg called a zygote.</para>
+<para id="fs-idm68133040">Some animal species&#8212;including sea stars and sea anemones, as well as some insects, reptiles, and fish&#8212;are capable of asexual reproduction. The most common forms of asexual reproduction for stationary aquatic animals include budding and fragmentation, where part of a parent individual can separate and grow into a new individual. In contrast, a form of asexual reproduction found in certain insects and vertebrates is called parthenogenesis (or &#8220;virgin beginning&#8221;), where unfertilized eggs can develop into new male offspring. This type of parthenogenesis is called haplodiploidy. These types of asexual reproduction produce genetically identical offspring, which is disadvantageous from the perspective of evolutionary adaptability because of the potential buildup of deleterious mutations. However, for animals that are limited in their capacity to attract mates, asexual reproduction can ensure genetic propagation.</para>
+<para id="fs-idp147211136">After fertilization, a series of developmental stages occur during which primary germ layers are established and reorganize to form an embryo. During this process, animal tissues begin to specialize and organize into organs and organ systems, determining their future morphology and physiology. Some animals, such as grasshoppers, undergo incomplete metamorphosis, in which the young resemble the adult. Other animals, such as some insects, undergo complete metamorphosis where individuals enter one or more larval stages that may in differ in structure and function from the adult (<link target-id="fig-ch27_01_02" document=""/>). For the latter, the young and the adult may have different diets, limiting competition for food between them. Regardless of whether a species undergoes complete or incomplete metamorphosis, the series of developmental stages of the embryo remains largely the same for most members of the animal kingdom.</para>
+<figure id="fig-ch27_01_02"><media id="fs-idm34234480" alt="Illustration A shows the egg, nymph and adult stages of a grasshopper. The nymph stages are similar in appearance to the adult stage, but smaller. Illustration B shows the egg, larvae, pupa and adult stages of a butterfly. The pupa is a cocoon the butterfly makes when transforming from the larval to adult stages. The winged adult butterfly looks nothing like the caterpillar larva.">
+<image mime-type="image/jpg" src="Figure_27_01_02.jpg" width="500"/>
+</media>
+<caption>(a) The grasshopper undergoes incomplete metamorphosis. (b) The butterfly undergoes complete metamorphosis. (credit: S.E. Snodgrass, USDA)</caption></figure><para id="fs-idp82286032">The process of animal development begins with the <term>cleavage</term>, or series of mitotic cell divisions, of the zygote (<link target-id="fig-ch27_01_03" document=""/>). Three cell divisions transform the single-celled zygote into an eight-celled structure. After further cell division and rearrangement of existing cells, a 6&#8211;32-celled hollow structure called a <term>blastula</term> is formed. Next, the blastula undergoes further cell division and cellular rearrangement during a process called gastrulation. This leads to the formation of the next developmental stage, the <term>gastrula</term>, in which the future digestive cavity is formed. Different cell layers (called <term>germ layers</term>) are formed during gastrulation. These germ layers are programmed to develop into certain tissue types, organs, and organ systems during a process called <term>organogenesis</term>.</para>
+<figure id="fig-ch27_01_03"><media id="fs-idm47550608" alt="The left part of the illustration shows a single-celled zygote. The initial cleavage, or cell division, results in a ball of cells, called the eight-cell stage. The cells do not grow during cleavage, so the eight-cell stage ball is about the same diameter as the zygote. Further cleavage results in a hollow ball of cells called a blastula. Upon gastrulation, part of the ball of cells invaginates, forming a cavity called a blastopore.">
+<image mime-type="image/jpg" src="Figure_27_01_03.jpg" width="380"/>
+</media>
+<caption>During embryonic development, the zygote undergoes a series of mitotic cell divisions, or cleavages, to form an eight-cell stage, then a hollow blastula. During a process called gastrulation, the blastula folds inward to form a cavity in the gastrula.</caption></figure><note id="fs-idm143510800" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idm27548352" alt="QR Code representing a URL">
+<image mime-type="image/png" src="embryo_evol.png" width="120"/>
+</media>
+<para id="fs-idp84802960">Watch the following <link window="new" url="http://openstaxcollege.org/l/embryo_evol">video</link> to see how human embryonic development (after the blastula and gastrula stages of development) reflects evolution.</para>
+</note></section>
+<section id="fs-idp153697760">
+<title>The Role of Homeobox (<emphasis effect="italics">Hox</emphasis>) Genes in Animal Development</title>
+      <para id="fs-idm4491456">Since the early 19<sup>th</sup> century, scientists have observed that many animals, from the very simple to the complex, shared similar embryonic morphology and development. Surprisingly, a human embryo and a frog embryo, at a certain stage of embryonic development, look remarkably alike. For a long time, scientists did not understand why so many animal species looked similar during embryonic development but were very different as adults. They wondered what dictated the developmental direction that a fly, mouse, frog, or human embryo would take. Near the end of the 20<sup>th</sup> century, a particular class of genes was discovered that had this very job. These genes that determine animal structure are called &#8220;homeotic genes,&#8221; and they contain DNA sequences called homeoboxes. The animal genes containing homeobox sequences are specifically referred to as <term><emphasis effect="italics">Hox</emphasis> genes</term>. This family of genes is responsible for determining the general body plan, such as the number of body segments of an animal, the number and placement of appendages, and animal head-tail directionality. The first <emphasis effect="italics">Hox</emphasis> genes to be sequenced were those from the fruit fly (<emphasis effect="italics">Drosophila melanogaster</emphasis>). A single <emphasis effect="italics">Hox</emphasis> mutation in the fruit fly can result in an extra pair of wings or even appendages growing from the &#8220;wrong&#8221; body part.</para>
+<para id="fs-idm13869984">While there are a great many genes that play roles in the morphological development of an animal, what makes <emphasis effect="italics">Hox </emphasis>genes so powerful is that they serve as master control genes that can turn on or off large numbers of other genes. <emphasis effect="italics">Hox </emphasis>genes do this by coding transcription factors that control the expression of numerous other genes. <emphasis effect="italics">Hox</emphasis> genes are homologous in the animal kingdom, that is, the genetic sequences of <emphasis effect="italics">Hox</emphasis> genes and their positions on chromosomes are remarkably similar across most animals because of their presence in a common ancestor, from worms to flies, mice, and humans (<link target-id="fig-ch27_01_04" document=""/>). One of the contributions to increased animal body complexity is that <emphasis effect="italics">Hox</emphasis> genes have undergone at least two duplication events during animal evolution, with the additional genes allowing for more complex body types to evolve.</para>
+<note id="fs-idm76109248" class="art-connection"><label/><title>Art Connection</title>
+<para id="fs-idp6463968">
+<figure id="fig-ch27_01_04"><media id="fs-idm32318000" alt="This illustration shows the four clusters of Hox genes found in vertebrates: Hox-A, Hox-B, Hox-C, and Hox-D. There are 13 Hox genes, but not all of them are found in each cluster. In  both mice and humans, genes 1&#8211;4 regulate the development of the head. Genes 5 and 6 regulate the development of the neck. Genes 7 and 8 regulate the development of the torso, and genes 9&#8211;13 regulate the development of the arms and legs.">
+<image mime-type="image/png" src="Figure_27_01_04.png" width="300"/>
+</media>
+<caption><emphasis effect="italics">Hox</emphasis> genes are highly conserved genes encoding transcription factors that determine the course of embryonic development in animals. In vertebrates, the genes have been duplicated into four clusters: <emphasis effect="italics">Hox-A</emphasis>, <emphasis effect="italics">Hox-B</emphasis>, <emphasis effect="italics">Hox-C</emphasis>, and <emphasis effect="italics">Hox-D</emphasis>. Genes within these clusters are expressed in certain body segments at certain stages of development. Shown here is the homology between <emphasis effect="italics">Hox</emphasis> genes in mice and humans.  Note how Hox gene expression, as indicated with orange, pink, blue and green shading, occurs in the same body segments in both the mouse and the human.</caption></figure></para>
+<para id="fs-idm124707104">If a <emphasis effect="italics">Hox 13</emphasis> gene in a mouse was replaced with a <emphasis effect="italics">Hox 1</emphasis> gene, how might this alter animal development?</para>
+<!--<para><link target-id="fig-ch27_01_04" document=""/>The animal might develop two heads and no tail.</para>-->
+</note></section>
+</section>
+<section id="fs-idm72191344" class="summary">
+<title>Section Summary</title><para id="fs-idm244848">Animals constitute an incredibly diverse kingdom of organisms. Although animals range in complexity from simple sea sponges to human beings, most members of the animal kingdom share certain features. Animals are eukaryotic, multicellular, heterotrophic organisms that ingest their food and usually develop into motile creatures with a fixed body plan. A major characteristic unique to the animal kingdom is the presence of differentiated tissues, such as nerve, muscle, and connective tissues, which are specialized to perform specific functions. Most animals undergo sexual reproduction, leading to a series of developmental embryonic stages that are relatively similar across the animal kingdom. A class of transcriptional control genes called <emphasis effect="italics">Hox </emphasis>genes directs the organization of the major animal body plans, and these genes are strongly homologous across the animal kingdom.</para>
+</section>
+<section id="fs-idm67753360" class="art-exercise"><title>Art Connections</title><exercise id="fs-idp82222016">
+<problem id="fs-idm23329840"><para id="fs-idp6026000"><link target-id="fig-ch27_01_04" document=""/> If a <emphasis effect="italics">Hox 13</emphasis> gene in a mouse was replaced with a <emphasis effect="italics">Hox 1</emphasis> gene, how might this alter animal development?</para></problem>
+<solution id="fs-idp6053712"><label/>
+<para id="fs-idm5853680"><link target-id="fig-ch27_01_04" document=""/> The animal might develop two heads and no tail.</para>
+</solution>
+</exercise>
+</section><section id="fs-idm35637312" class="multiple-choice"><title>Review Questions</title><exercise id="fs-idm52700048"><problem id="fs-idp13599776"><para id="fs-idm90520480">Which of the following is not a feature common to <emphasis effect="italics">most</emphasis> animals?</para>
+      <list id="fs-idp130673712" list-type="enumerated" number-style="lower-alpha">
+      <item>development into a fixed body plan</item>
+      <item>asexual reproduction</item>
+      <item>specialized tissues</item>
+      <item>heterotrophic nutrient sourcing</item>
+      </list>
+</problem>
+      <solution id="fs-idp75612640"><label/><para id="fs-idm85760352">B</para></solution>
+</exercise><exercise id="fs-idm67872016">
+<problem id="fs-idp7562480"><para id="fs-idp4743264">During embryonic development, unique cell layers develop and distinguish during a stage called ________.</para>
+      <list id="fs-idp31747920" list-type="enumerated" number-style="lower-alpha">
+      <item>the blastula stage</item>
+      <item>the germ layer stage</item>
+      <item>the gastrula stage</item>
+      <item>the organogenesis stage</item>
+      </list>
+</problem>
+      <solution id="fs-idm30728976"><label/><para id="fs-idm39628800">C</para></solution>
+</exercise>
+<exercise id="fs-idm35006192"><problem id="fs-idp49118384"><para id="fs-idm89275184">Which of the following phenotypes would most likely be the result of a <emphasis effect="italics">Hox </emphasis>gene mutation?</para>
+      <list id="fs-idp141787824" list-type="enumerated" number-style="lower-alpha">
+      <item>abnormal body length or height</item>
+      <item>two different eye colors</item>
+      <item>the contraction of a genetic illness</item>
+      <item>two fewer appendages than normal</item>
+      </list>
+</problem>
+      <solution id="fs-idp56652144"><label/><para id="fs-idm65630944">D</para></solution>
+</exercise></section><section id="fs-idm74563344" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idp26321328">
+<problem id="fs-idm1769984"><para id="fs-idm42566160">Why might the evolution of specialized tissues be important for animal function and complexity?</para></problem>
+<solution id="fs-idp96252832"><label/>
+<para id="fs-idp3467584">The development of specialized tissues affords more complex animal anatomy and physiology because differentiated tissue types can perform unique functions and work together in tandem to allow the animal to perform more functions. For example, specialized muscle tissue allows directed and efficient movement, and specialized nervous tissue allows for multiple sensory modalities as well as the ability to respond to various sensory information; these functions are not necessarily available to other non-animal organisms.</para></solution>
+</exercise>
+<exercise id="fs-idm26270048">
+<problem id="fs-idp48288560"><para id="fs-idm31733184">Describe and give examples of how humans display all of the features common to the animal kingdom.</para></problem>
+<solution id="fs-idm43953728"><label/>
+<para id="fs-idm33965536">Humans are multicellular organisms. They also contain differentiated tissues, such as epithelial, muscle, and nervous tissue, as well as specialized organs and organ systems. As heterotrophs, humans cannot produce their own nutrients and must obtain them by ingesting other organisms, such as plants, fungi, and animals. Humans undergo sexual reproduction, as well as the same embryonic developmental stages as other animals, which eventually lead to a fixed and motile body plan controlled in large part by <emphasis effect="italics">Hox</emphasis> genes.</para></solution>
+</exercise>
+<exercise id="fs-idm15041760">
+<problem id="fs-idm31940720"><para id="fs-idm93015824">How have <emphasis effect="italics">Hox</emphasis> genes contributed to the diversity of animal body plans?</para></problem>
+<solution id="fs-idm39832560"><label/>
+<para id="fs-idm82233344">Altered expression of homeotic genes can lead to major changes in the morphology of the individual. <emphasis effect="italics">Hox</emphasis> genes can affect the spatial arrangements of organs and body parts. If a <emphasis effect="italics">Hox</emphasis> gene was mutated or duplicated, it could affect where a leg might be on a fruit fly or how far apart a person&#8217;s fingers are.</para></solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm68842656"><term>blastula</term> <meaning id="fs-idm13947504">16&#8211;32 cell stage of development of an animal embryo</meaning></definition>
+<definition id="fs-idm38553376"><term>body plan</term> <meaning id="fs-idm88037952">morphology or constant shape of an organism</meaning></definition>
+<definition id="fs-idm31882560"><term>cleavage</term> <meaning id="fs-idm137399024">cell division of a fertilized egg (zygote) to form a  multicellular embryo</meaning></definition>
+<definition id="fs-idm84135568"><term>gastrula</term> <meaning id="fs-idm148778384">stage of animal development characterized by the formation of the digestive cavity</meaning></definition>
+<definition id="fs-idp74788256"><term>germ layer</term> <meaning id="fs-idm39705360">collection of cells formed during embryogenesis that will give rise to future body tissues, more pronounced in vertebrate embryogenesis</meaning></definition>
+<definition id="fs-idm111652208"><term>Hox gene</term> <meaning id="fs-idp27379472">(also, homeobox gene) master control gene that can turn on or off large numbers of other genes during embryogenesis</meaning></definition>
+<definition id="fs-idm33193968"><term>organogenesis</term> <meaning id="fs-idm38039888">formation of organs in animal embryogenesis</meaning></definition>
+</glossary>
+</document>

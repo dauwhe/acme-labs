@@ -1,0 +1,128 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Basics of DNA Replication</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44487/latest/</md:content-url>
+  <md:content-id>m44487</md:content-id>
+  <md:title>Basics of DNA Replication</md:title>
+  <md:version>1.5</md:version>
+  <md:created>2012/08/23 13:42:30 -0500</md:created>
+  <md:revised>2013/04/10 14:51:56.672 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>deoxyribonucleic acid</md:keyword>
+    <md:keyword>DNA</md:keyword>
+    <md:keyword>DNA function</md:keyword>
+    <md:keyword>DNA replication</md:keyword>
+    <md:keyword>DNA structure</md:keyword>
+    <md:keyword>Meselson</md:keyword>
+    <md:keyword>Stahl</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain how the structure of DNA reveals the replication process</item>
+<item>Describe the Meselson and Stahl experiments</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+    <para id="fs-id2265995">The elucidation of the structure of the double helix provided a hint as to how DNA divides and makes copies of itself. This model suggests that the two strands of the double helix separate during replication, and each strand serves as a template from which the new complementary strand is copied. What was not clear was how the replication took place. There were three models suggested (<link target-id="fig-ch14_03_01" document=""/>): conservative, semi-conservative, and dispersive.</para>
+<figure id="fig-ch14_03_01"><media id="fs-id2051052" alt="Illustration shows the conservative, semi-conservative, and dispersive models of DNA synthesis. In the conservative model, when DNA is replicated and both newly synthesized strands are paired together. In the semi-conservative model, each newly synthesized strand pairs with a parent strand. In the dispersive model, newly synthesized DNA is interspersed with parent DNA within both DNA strands.">
+<image mime-type="image/jpg" src="Figure_14_03_01.jpg" width="275"/>
+</media>
+<caption>The three suggested models of DNA replication. Grey indicates the original DNA strands, and blue indicates newly synthesized DNA.</caption></figure><para id="fs-id1685167">In conservative replication, the parental DNA remains together, and the newly formed daughter strands are together. The semi-conservative method suggests that each of the two parental DNA strands act as a template for new DNA to be synthesized; after replication, each double-stranded DNA includes one parental or &#8220;old&#8221; strand and one &#8220;new&#8221; strand. In the dispersive model, both copies of DNA have double-stranded segments of parental DNA and newly synthesized DNA interspersed.</para>
+    <para id="fs-id2216817">Meselson and Stahl were interested in understanding how DNA replicates. They grew <emphasis effect="italics">E. coli</emphasis> for several generations in a medium containing a &#8220;heavy&#8221; isotope of nitrogen (<sup>15</sup>N) that gets incorporated into nitrogenous bases, and eventually into the DNA (<link target-id="fig-ch14_03_02" document=""/>).</para>
+<figure id="fig-ch14_03_02"><media id="fs-id1640010" alt="Illustration shows an experiment in which E. coli was grown initially in media containing ^{15}N nucleotides. When the DNA was extracted and run in an ultracentrifuge, a band of DNA appeared low in the tube. The culture was next placed in ^{14}N medium. After one generation, all of the DNA appeared in the middle of the tube, indicating that the DNA was a mixture of half ^{14}N and half ^{15}N DNA. After two generations, half of the DNA appeared in the middle of the tube, and half appeared higher up, indicating that half the DNA contained 50% ^{15}N, and half contained ^{14}N only. In subsequent generations, more and more of the DNA appeared in the upper, ^{14}N band.">
+<image mime-type="image/jpg" src="Figure_14_03_02.jpg" width="350"/>
+</media>
+<caption>Meselson and Stahl experimented with <emphasis effect="italics">E. coli</emphasis> grown first in heavy nitrogen (<sup>15</sup>N) then in <sup>14</sup>N. DNA grown in <sup>15</sup>N (red band) is heavier than DNA grown in <sup>14</sup>N (orange band), and sediments to a lower level in cesium chloride solution in an ultracentrifuge. When DNA grown in <sup>15</sup>N is switched to media containing <sup>14</sup>N, after one round of cell division the DNA sediments halfway between the <sup>15</sup>N and <sup>14</sup>N levels, indicating that it now contains fifty percent <sup>14</sup>N. In subsequent cell divisions, an increasing amount of DNA contains <sup>14</sup>N only. This data supports the semi-conservative replication model. (credit: modification of work by Mariana Ruiz Villareal)</caption></figure><para id="fs-id2589720">The <emphasis effect="italics">E. coli</emphasis> culture was then shifted into medium containing <sup>14</sup>N and allowed to grow for one generation. The cells were harvested and the DNA was isolated. The DNA was centrifuged at high speeds in an ultracentrifuge. Some cells were allowed to grow for one more life cycle in <sup>14</sup>N and spun again. During the density gradient centrifugation, the DNA is loaded into a gradient (typically a salt such as cesium chloride or sucrose) and spun at high speeds of 50,000 to 60,000 rpm. Under these circumstances, the DNA will form a band according to its density in the gradient. DNA grown in <sup>15</sup>N will band at a higher density position than that grown in <sup>14</sup>N. Meselson and Stahl noted that after one generation of growth in <sup>14</sup>N after they had been shifted from <sup>15</sup>N, the single band observed was intermediate in position in between DNA of cells grown exclusively in<sup> 15</sup>N and <sup>14</sup>N. This suggested either a semi-conservative or dispersive mode of replication. The DNA harvested from cells grown for two generations in <sup>14</sup>N formed two bands: one DNA band was at the intermediate position between <sup>15</sup>N and <sup>14</sup>N, and the other corresponded to the band of <sup>14</sup>N DNA. These results could only be explained if DNA replicates in a semi-conservative manner. Therefore, the other two modes were ruled out.</para>
+<para id="fs-id2854117">During DNA replication, each of the two strands that make up the double helix serves as a template from which new strands are copied. The new strand will be complementary to the parental or &#8220;old&#8221; strand. When two daughter DNA copies are formed, they have the same sequence and are divided equally into the two daughter cells.</para>
+<note id="fs-id1366889" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-id1676042" alt="QR Code representing a URL">
+    <image mime-type="image/png" src="DNA_replication.png" width="120"/>
+</media>
+    <para id="fs-id2171177">Click through <link window="new" url="http://openstaxcollege.org/l/DNA_replicatio2">this tutorial</link> on DNA replication.</para>
+</note><section id="fs-id2187380" class="summary">
+<title>Section Summary</title><para id="fs-id2682756">The model for DNA replication suggests that the two strands of the double helix separate during replication, and each strand serves as a template from which the new complementary strand is copied. In conservative replication, the parental DNA is conserved, and the daughter DNA is newly synthesized. The semi-conservative method suggests that each of the two parental DNA strands acts as template for new DNA to be synthesized; after replication, each double-stranded DNA includes one parental or &#8220;old&#8221; strand and one &#8220;new&#8221; strand. The dispersive mode suggested that the two copies of the DNA would have segments of parental DNA and newly synthesized DNA.</para>
+</section>
+<section id="fs-id1471220" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-id2956539">
+<problem id="fs-id1439092"><para id="fs-id1561237">Meselson and Stahl's experiments proved that DNA replicates by which mode?</para>
+<list id="fs-id2199309" list-type="enumerated" number-style="lower-alpha">
+<item>conservative</item>
+<item>semi-conservative</item>
+<item>dispersive</item>
+<item>none of the above</item>
+</list>
+</problem>
+<solution id="fs-id1396004">
+<label/>
+<para id="fs-id1262008">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id2300016">
+<problem id="fs-id1812902"><para id="fs-id2089930">If the sequence of the 5'-3' strand is AATGCTAC, then the complementary sequence has the following sequence:</para>
+<list id="fs-id2334300" list-type="enumerated" number-style="lower-alpha">
+<item>3'-AATGCTAC-5'</item>
+<item>3'-CATCGTAA-5'</item>
+<item>3'-TTACGATG-5'</item>
+<item>3'-GTAGCATT-5'</item>
+</list>
+</problem>
+<solution id="fs-id2581969">
+<label/>
+<para id="fs-id2022386">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1962114" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-id1958775">
+<problem id="fs-id2025461"><para id="fs-id2072379">How did the scientific community learn that DNA replication takes place in a semi-conservative fashion?</para></problem>
+<solution id="fs-id1384287"><label/>
+<para id="fs-id1478330">Meselson&#8217;s experiments with <emphasis effect="italics">E. coli </emphasis>grown in <sup>15</sup>N deduced this finding.</para>
+</solution>
+</exercise>
+</section>
+</content>
+
+</document>

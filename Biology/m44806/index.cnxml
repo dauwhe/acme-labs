@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Blood Flow and Blood Pressure Regulation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml"
+          mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44806/latest/</md:content-url>
+  <md:content-id>m44806</md:content-id>
+  <md:title>Blood Flow and Blood Pressure Regulation</md:title>
+  <md:version>1.5</md:version>
+  <md:created>2012/08/23 15:52:16 -0500</md:created>
+  <md:revised>2013/05/23 10:14:23.179 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/" />
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>blood flow</md:keyword>
+    <md:keyword>blood pressure</md:keyword>
+    <md:keyword>blood pressure regulation</md:keyword>
+    <md:keyword>BP</md:keyword>
+    <md:keyword>cardiac output</md:keyword>
+    <md:keyword>circulation</md:keyword>
+    <md:keyword>circulatory system</md:keyword>
+    <md:keyword>lymph node</md:keyword>
+    <md:keyword>peripheral resistance</md:keyword>
+    <md:keyword>precapillary sphincter</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the system of blood flow through the body</item>
+<item>Describe how blood pressure is regulated</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idp85035680"><term>Blood pressure (BP)</term> is the pressure exerted by blood on the walls of a blood vessel that helps to push blood through the body. Systolic blood pressure measures the amount of pressure that blood exerts on vessels while the heart is beating. The optimal systolic blood pressure is 120 mmHg. Diastolic blood pressure measures the pressure in the vessels between heartbeats. The optimal diastolic blood pressure is 80 mmHg. Many factors can affect blood pressure, such as hormones, stress, exercise, eating, sitting, and standing. Blood flow through the body is regulated by the size of blood vessels, by the action of smooth muscle, by one-way valves, and by the fluid pressure of the blood itself.</para>
+<section id="fs-idp51092032">
+<title>How Blood Flows Through the Body</title>
+<para id="fs-idp97546016">Blood is pushed through the body by the action of the pumping heart. With each rhythmic pump, blood is pushed under high pressure and velocity away from the heart, initially along the main artery, the aorta. In the aorta, the blood travels at 30 cm/sec. As blood moves into the arteries, arterioles, and ultimately to the capillary beds, the rate of movement slows dramatically to about 0.026 cm/sec, one-thousand times slower than the rate of movement in the aorta. While the diameter of each individual arteriole and capillary is far narrower than the diameter of the aorta, and according to the law of continuity, fluid should travel faster through a narrower diameter tube, the rate is actually slower due to the overall diameter of all the combined capillaries being far greater than the diameter of the individual aorta.</para>
+<para id="fs-idm47831760">The slow rate of travel through the capillary beds, which reach almost every cell in the body, assists with gas and nutrient exchange and also promotes the diffusion of fluid into the interstitial space. After the blood has passed through the capillary beds to the venules, veins, and finally to the main venae cavae, the rate of flow increases again but is still much slower than the initial rate in the aorta. Blood primarily moves in the veins by the rhythmic movement of smooth muscle in the vessel wall and by the action of the skeletal muscle as the body moves. Because most veins must move blood against the pull of gravity, blood is prevented from flowing backward in the veins by one-way valves. Because skeletal muscle contraction aids in venous blood flow, it is important to get up and move frequently after long periods of sitting so that blood will not pool in the extremities.</para>
+<para id="fs-idp97175712">Blood flow through the capillary beds is regulated depending on the body’s needs and is directed by nerve and hormone signals. For example, after a large meal, most of the blood is diverted to the stomach by vasodilation of vessels of the digestive system and vasoconstriction of other vessels. During exercise, blood is diverted to the skeletal muscles through vasodilation while blood to the digestive system would be lessened through vasoconstriction. The blood entering some capillary beds is controlled by small muscles, called precapillary sphincters, illustrated in <link target-id="fig-ch40_04_01" document=""/>. If the sphincters are open, the blood will flow into the associated branches of the capillary blood. If all of the sphincters are closed, then the blood will flow directly from the arteriole to the venule through the thoroughfare channel (see <link target-id="fig-ch40_04_01" document=""/>). These muscles allow the body to precisely control when capillary beds receive blood flow. At any given moment only about 5-10% of our capillary beds actually have blood flowing through them.</para><note id="fs-idm13140240" class="art-connection"><label/><title>Art Connection</title>
+<figure id="fig-ch40_04_01" class=" "><media id="fs-idp134955440" alt="Illustration A shows an artery branching off into an arteriole, which branches into a capillary bed. The start of each capillary has a sphincter regulating flow through it. The capillaries converge into a venule, which joins a vein. Part B shows a valve in a blood vessel. The valve is slightly curved such that flow in one direction pushes it open, while flow in the other direction pushes it closed.">
+<image mime-type="image/jpg" src="Figure_40_04_01ab.png" width="550"/>
+</media>
+<caption>(a) Precapillary sphincters are rings of smooth muscle that regulate the flow of blood through capillaries; they help control the location of blood flow to where it is needed. (b) Valves in the veins prevent blood from moving backward. (credit a: modification of work by NCI)</caption></figure><para id="fs-idm27846288">Varicose veins are veins that become enlarged because the valves no longer close properly, allowing blood to flow backward. Varicose veins are often most prominent on the legs. Why do you think this is the case?</para>
+<!--<para><link target-id="fig-ch40_04_01" document=""/>Blood in the legs is farthest away from the heart and has to flow up to reach it.</para>-->
+</note><note id="fs-idm79036560" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idm62993264" alt="QR Code representing a URL">
+<image mime-type="image/png" src="circulation.png" width="120"/>
+</media>
+<para id="fs-idp70020240">Visit <link window="new" url="http://openstaxcollege.org/l/circulation">this site</link> to see the circulatory system’s blood flow.</para>
+</note><para id="fs-idp145336384">Proteins and other large solutes cannot leave the capillaries. The loss of the watery plasma creates a hyperosmotic solution within the capillaries, especially near the venules. This causes about 85% of the plasma that leaves the capillaries to eventually diffuses back into the capillaries near the venules. The remaining 15% of blood plasma drains out from the interstitial fluid into nearby lymphatic vessels (<link target-id="fig-ch40_04_02" document=""/>). The fluid in the lymph is similar in composition to the interstitial fluid. The lymph fluid passes through lymph nodes before it returns to the heart via the vena cava. <term>Lymph nodes</term> are specialized organs that filter the lymph by percolation through a maze of connective tissue filled with white blood cells. The white blood cells remove infectious agents, such as bacteria and viruses, to clean the lymph before it returns to the bloodstream. After it is cleaned, the lymph returns to the heart by the action of smooth muscle pumping, skeletal muscle action, and one-way valves joining the returning blood near the junction of the venae cavae entering the right atrium of the heart.</para><figure id="fig-ch40_04_02" class=" "><media id="fs-idp56177984" alt="Illustration shows an arteriole and a venule branching off into a capillary bed. Lymph capillaries surround the capillary bed. Fluid diffuse from the blood vessels into the lymphatic vessels.">
+<image mime-type="image/jpg" src="Figure_40_04_02.jpg" width="295"/>
+</media>
+<caption>Fluid from the capillaries moves into the interstitial space and lymph capillaries by diffusion down a pressure gradient and also by osmosis. Out of 7,200 liters of fluid pumped by the average heart in a day, over 1,500 liters is filtered. (credit: modification of work by NCI, NIH)</caption></figure><note id="fs-idm31388272" class="evolution">
+<label/>
+<title>Evolution Connection</title>
+<para id="fs-idm28058432">
+<title>Vertebrate Diversity in Blood Circulation</title>
+Blood circulation has evolved differently in vertebrates and may show variation in different animals for the required amount of pressure, organ and vessel location, and organ size. Animals with longs necks and those that live in cold environments have distinct blood pressure adaptations.</para>
+<para id="fs-idp32865760">Long necked animals, such as giraffes, need to pump blood upward from the heart against gravity. The blood pressure required from the pumping of the left ventricle would be equivalent to 250 mm Hg (mm Hg = millimeters of mercury, a unit of pressure) to reach the height of a giraffe’s head, which is 2.5 meters higher than the heart. However, if checks and balances were not in place, this blood pressure would damage the giraffe’s brain, particularly if it was bending down to drink. These checks and balances include valves and feedback mechanisms that reduce the rate of cardiac output. Long-necked dinosaurs such as the sauropods had to pump blood even higher, up to ten meters above the heart. This would have required a blood pressure of more than 600 mm Hg, which could only have been achieved by an enormous heart. Evidence for such an enormous heart does not exist and mechanisms to reduce the blood pressure required include the slowing of metabolism as these animals grew larger. It is likely that they did not routinely feed on tree tops but grazed on the ground.</para>
+<para id="fs-idp54989552">Living in cold water, whales need to maintain the temperature in their blood. This is achieved by the veins and arteries being close together so that heat exchange can occur. This mechanism is called a countercurrent heat exchanger. The blood vessels and the whole body are also protected by thick layers of blubber to prevent heat loss. In land animals that live in cold environments, thick fur and hibernation are used to retain heat and slow metabolism.</para>
+</note>
+</section>
+<section id="fs-idm7648">
+<title>Blood Pressure</title>
+<para id="fs-idm39528176">The pressure of the blood flow in the body is produced by the hydrostatic pressure of the fluid (blood) against the walls of the blood vessels. Fluid will move from areas of high to low hydrostatic pressures. In the arteries, the hydrostatic pressure near the heart is very high and blood flows to the arterioles where the rate of flow is slowed by the narrow openings of the arterioles. During systole, when new blood is entering the arteries, the artery walls stretch to accommodate the increase of pressure of the extra blood; during diastole, the walls return to normal because of their elastic properties. The blood pressure of the systole phase and the diastole phase, graphed in <link target-id="fig-ch40_04_03" document=""/>, gives the two pressure readings for blood pressure. For example, 120/80 indicates a reading of 120 mm Hg during the systole and 80 mm Hg during diastole. Throughout the cardiac cycle, the blood continues to empty into the arterioles at a relatively even rate. This resistance to blood flow is called <term>peripheral resistance</term>.</para>
+<figure id="fig-ch40_04_03" class=" "><media id="fs-idp59065936" alt="Graph A shows blood pressure, which starts high in the arteries and gradually drops as blood passes through the capillaries and veins. Blood velocity drops gradually in the arteries, then precipitously in the capillaries. Velocity increases as blood enters the veins. In the arteries, both blood pressure and velocity fluctuate to a higher level during diastole and a lower level during systole.">
+<image mime-type="image/jpg" src="Figure_40_04_03.jpg" width="295"/>
+</media>
+<caption>Blood pressure is related to the blood velocity in the arteries and arterioles. In the capillaries and veins, the blood pressure continues to decease but velocity increases.</caption></figure></section>
+<section id="fs-idp88898032">
+<title>Blood Pressure Regulation</title>
+<para id="fs-idp52878336">Cardiac output is the volume of blood pumped by the heart in one minute. It is calculated by multiplying the number of heart contractions that occur per minute (heart rate) times the <term>stroke volume</term> (the volume of blood pumped into the aorta per contraction of the left ventricle). Therefore, cardiac output can be increased by increasing heart rate, as when exercising. However, cardiac output can also be increased by increasing stroke volume, such as if the heart contracts with greater strength. Stroke volume can also be increased by speeding blood circulation through the body so that more blood enters the heart between contractions.  During heavy exertion, the blood vessels relax and increase in diameter, offsetting the increased heart rate and ensuring adequate oxygenated blood gets to the muscles. Stress triggers a decrease in the diameter of the blood vessels, consequently increasing blood pressure. These changes can also be caused by nerve signals or hormones, and even standing up or lying down can have a great effect on blood pressure.</para></section>
+<section id="fs-idm33350560" class="summary">
+<title>Section Summary</title><para id="fs-idp56146816">Blood primarily moves through the body by the rhythmic movement of smooth muscle in the vessel wall and by the action of the skeletal muscle as the body moves. Blood is prevented from flowing backward in the veins by one-way valves. Blood flow through the capillary beds is controlled by precapillary sphincters to increase and decrease flow depending on the body’s needs and is directed by nerve and hormone signals. Lymph vessels take fluid that has leaked out of the blood to the lymph nodes where it is cleaned before returning to the heart. During systole, blood enters the arteries, and the artery walls stretch to accommodate the extra blood. During diastole, the artery walls return to normal. The blood pressure of the systole phase and the diastole phase gives the two pressure readings for blood pressure.</para>
+    </section>
+<section id="fs-idp151795856" class="art-exercise">
+    <title>Art Connections</title>
+<exercise id="fs-idm62414080">
+    <problem id="fs-idp73717584"><para id="fs-idp90445712"><link target-id="fig-ch40_04_01" document=""/> Varicose veins are veins that become enlarged because the valves no longer close properly, allowing blood to flow backward. Varicose veins are often most prominent on the legs. Why do you think this is the case?</para></problem>
+<solution id="fs-idp134907872">
+    <label/>
+    <para id="fs-idp188018432"><link target-id="fig-ch40_04_01" document=""/> Blood in the legs is farthest away from the heart and has to flow up to reach it.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp149093872" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm95376912">
+<problem id="fs-idm11662896"><para id="fs-idp141166848">High blood pressure would be a result of ________.</para>
+<list id="fs-idp14809616" list-type="enumerated" number-style="lower-alpha">
+<item>a high cardiac output and high peripheral resistance</item>
+<item>a high cardiac output and low peripheral resistance</item>
+<item>a low cardiac output and high peripheral resistance</item>
+<item>a low cardiac output and low peripheral resistance</item>
+</list>
+</problem>
+<solution id="fs-idp88532064">
+<label/>
+<para id="fs-idp2968416">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp97737776" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm57783472">
+<problem id="fs-idp8991072"><para id="fs-idp52569296">How does blood pressure change during heavy exercise?</para></problem>
+<solution id="fs-idp142530688"><label/>
+<para id="fs-idp20462560">The heart rate increases, which increases the hydrostatic pressure against the artery walls. At the same time, the arterioles dilate in response to the increased exercise, which reduces peripheral resistance. </para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idp90259392"><term>blood pressure (BP)</term> <meaning id="fs-idp87485296">pressure of blood in the arteries that helps to push blood through the body</meaning></definition>
+<definition id="fs-idp32382432"><term>cardiac output</term> <meaning id="fs-idm68026368">the volume of blood pumped by the heart in one minute as a product of heart rate multiplied by stroke volume</meaning></definition>
+<definition id="fs-idp168662640"><term>lymph node</term> <meaning id="fs-idp182185632">specialized organ that contains a large number of macrophages that clean the lymph before the fluid is returned to the heart</meaning></definition>
+<definition id="fs-idp67816704"><term>peripheral resistance</term> <meaning id="fs-idm61760480">resistance of the artery and blood vessel walls to the pressure placed on them by the force of the heart pumping</meaning></definition>
+<definition id="fs-idp12576896"><term>precapillary sphincter</term> <meaning id="fs-idp148277808">small muscle that controls blood circulation in the capillary beds</meaning></definition>
+<definition id="fs-id1168939824211"><term>stroke volume&gt;</term><meaning id="fs-id1168939875780">- the volume of blood pumped into the aorta per contraction of the left ventricle</meaning></definition>
+</glossary>
+</document>

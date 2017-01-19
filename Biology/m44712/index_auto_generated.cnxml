@@ -1,0 +1,120 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44712/latest/</md:content-url>
+  <md:content-id>m44712</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.2</md:version>
+  <md:created>2012/08/23 14:58:20 -0500</md:created>
+  <md:revised>2013/02/13 17:35:27.626 US/Central</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>a horizon</md:keyword>
+    <md:keyword>b horizon</md:keyword>
+    <md:keyword>c horizon</md:keyword>
+    <md:keyword>clay</md:keyword>
+    <md:keyword>epiphyte</md:keyword>
+    <md:keyword>essential element</md:keyword>
+    <md:keyword>fungi and roots</md:keyword>
+    <md:keyword>horizon</md:keyword>
+    <md:keyword>humus</md:keyword>
+    <md:keyword>hydroponics</md:keyword>
+    <md:keyword>inorganic compound</md:keyword>
+    <md:keyword>insectivorous</md:keyword>
+    <md:keyword>insectivorous plant</md:keyword>
+    <md:keyword>loam</md:keyword>
+    <md:keyword>macronutrient</md:keyword>
+    <md:keyword>micronutrient</md:keyword>
+    <md:keyword>mineral soil</md:keyword>
+    <md:keyword>mycorrhizae</md:keyword>
+    <md:keyword>nitrogen fixation</md:keyword>
+    <md:keyword>nitrogenase</md:keyword>
+    <md:keyword>nodule</md:keyword>
+    <md:keyword>nutrient deficiency</md:keyword>
+    <md:keyword>nutritional adaptation</md:keyword>
+    <md:keyword>nutritional requirements of plants</md:keyword>
+    <md:keyword>o horizon</md:keyword>
+    <md:keyword>organic compound</md:keyword>
+    <md:keyword>organic soil</md:keyword>
+    <md:keyword>parasitic plant</md:keyword>
+    <md:keyword>parent material</md:keyword>
+    <md:keyword>physical properties of soil</md:keyword>
+    <md:keyword>plant chemical composition</md:keyword>
+    <md:keyword>plant nutrient</md:keyword>
+    <md:keyword>plant nutrition</md:keyword>
+    <md:keyword>plant parasite</md:keyword>
+    <md:keyword>rhizobia</md:keyword>
+    <md:keyword>rhizosphere</md:keyword>
+    <md:keyword>root bacteria interaction</md:keyword>
+    <md:keyword>sand</md:keyword>
+    <md:keyword>saprophytes</md:keyword>
+    <md:keyword>silt</md:keyword>
+    <md:keyword>soil</md:keyword>
+    <md:keyword>soil biology</md:keyword>
+    <md:keyword>soil climate</md:keyword>
+    <md:keyword>soil composition</md:keyword>
+    <md:keyword>soil formation</md:keyword>
+    <md:keyword>soil horizon</md:keyword>
+    <md:keyword>soil profile</md:keyword>
+    <md:keyword>soil properties</md:keyword>
+    <md:keyword>symbiont</md:keyword>
+    <md:keyword>symbiotic relationship</md:keyword>
+    <md:keyword>topography</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+
+<?cnx.eoc class="summary" title="Sections Summary"?>
+<?cnx.eoc class="art-exercise" title="Art Connections"?>
+<?cnx.eoc class="multiple-choice" title="Multiple Choice"?>
+<?cnx.eoc class="free-response" title="Free Response"?>
+
+<figure id="fig-ch31_00_01" class="splash"><media id="fs-idp52360160" alt="Left photo shows a dark green seedling with three leaves. The seedling is growing on a plot of dark-brown soil. Right photo shows a variety of red, orange, green and yellow squashes.">
+<image mime-type="image/jpg" src="Figure_31_00_01ab.jpg" width="600"/>
+</media>
+
+<caption>For this (a) squash seedling (<emphasis effect="italics">Cucurbita maxima</emphasis>) to develop into a mature plant bearing its (b) fruit, numerous nutritional requirements must be met. (credit a: modification of work by Julian Colton; credit b: modification of work by "Wildfeuer"/Wikimedia Commons)</caption></figure><para id="fs-idp125540064">Cucurbitaceae is a family of plants first cultivated in Mesoamerica, although several species are native to North America. The family includes many edible species, such as squash and pumpkin, as well as inedible gourds. In order to grow and develop into mature, fruit-bearing plants, many requirements must be met and events must be coordinated. Seeds must germinate under the right conditions in the soil; therefore, temperature, moisture, and soil quality are important factors that play a role in germination and seedling development. Soil quality and climate are significant to plant distribution and growth. The young seedling will eventually grow into a mature plant, and the roots will absorb nutrients and water from the soil. At the same time, the aboveground parts of the plant will absorb carbon dioxide from the atmosphere and use energy from sunlight to produce organic compounds through photosynthesis. This chapter will explore the complex dynamics between plants and soils, and the adaptations that plants have evolved to make better use of nutritional resources.</para>
+</content>
+</document>

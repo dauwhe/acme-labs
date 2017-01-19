@@ -1,0 +1,253 @@
+<?xml version="1.0"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Components and Structure</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml"
+          mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://legacy.cnx.org/content</md:repository>
+  <md:content-url>http://legacy.cnx.org/content/m44416/latest/</md:content-url>
+  <md:content-id>m44416</md:content-id>
+  <md:title>Components and Structure</md:title>
+  <md:version>1.9</md:version>
+  <md:created>2012/08/23 10:36:05 -0500</md:created>
+  <md:revised>2015/01/21 12:05:19.169 US/Central</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>amphiphilic</md:keyword>
+    <md:keyword>cell recognition</md:keyword>
+    <md:keyword>fluid mosaic model</md:keyword>
+    <md:keyword>Garth Nicholson</md:keyword>
+    <md:keyword>glycolipid</md:keyword>
+    <md:keyword>glycoprotein</md:keyword>
+    <md:keyword>Hugh Davson</md:keyword>
+    <md:keyword>hydrophilic</md:keyword>
+    <md:keyword>hydrophilic head</md:keyword>
+    <md:keyword>hydrophobic</md:keyword>
+    <md:keyword>hydrophobic tail</md:keyword>
+    <md:keyword>immunologist</md:keyword>
+    <md:keyword>integral protein</md:keyword>
+    <md:keyword>integrin</md:keyword>
+    <md:keyword>James Danielli</md:keyword>
+    <md:keyword>membrane components</md:keyword>
+    <md:keyword>membrane fluidity</md:keyword>
+    <md:keyword>membrane function</md:keyword>
+    <md:keyword>membrane structure</md:keyword>
+    <md:keyword>peripheral protein</md:keyword>
+    <md:keyword>plasma membrane</md:keyword>
+    <md:keyword>S. J. Singer</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Understand the fluid mosaic model of cell membranes</item>
+<item>Describe the functions of phospholipids, proteins, and carbohydrates in membranes</item>
+<item>Discuss membrane fluidity</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-id2013222">A cell’s plasma membrane defines the cell, outlines its borders, and determines the nature of its interaction with its environment (see  <link target-id="tab-ch05_01_01" document=""/> for a summary). Cells exclude some substances, take in others, and excrete still others, all in controlled quantities. The plasma membrane must be very flexible to allow certain cells, such as red blood cells and white blood cells, to change shape as they pass through narrow capillaries. These are the more obvious functions of a plasma membrane. In addition, the surface of the plasma membrane carries markers that allow cells to recognize one another, which is vital for tissue and organ formation during early development, and which later plays a role in the “self” versus “non-self” distinction of the immune response.</para><para id="fs-id2012431">Among the most sophisticated functions of the plasma membrane is the ability to transmit signals by means of complex, integral proteins known as receptors. These proteins act both as receivers of extracellular inputs and as activators of intracellular processes. These membrane receptors provide extracellular attachment sites for effectors like hormones and growth factors, and they activate intracellular response cascades when their effectors are bound. Occasionally, receptors are hijacked by viruses (HIV, human immunodeficiency virus, is one example) that use them to gain entry into cells, and at times, the genes encoding receptors become mutated, causing the process of signal transduction to malfunction with disastrous consequences.</para>
+<section id="fs-id2078559">
+<title>Fluid Mosaic Model</title>
+<para id="fs-id2188439">The existence of the plasma membrane was identified in the 1890s, and its chemical components were identified in 1915. The principal components identified at that time were lipids and proteins. The first widely accepted model of the plasma membrane’s structure was proposed in 1935 by Hugh Davson and James Danielli; it was based on the “railroad track” appearance of the plasma membrane in early electron micrographs. They theorized that the structure of the plasma membrane resembles a sandwich, with protein being analogous to the bread, and lipids being analogous to the filling. In the 1950s, advances in microscopy, notably transmission electron microscopy (TEM), allowed researchers to see that the core of the plasma membrane consisted of a double, rather than a single, layer. A new model that better explains both the microscopic observations and the function of that plasma membrane was proposed by S.J. Singer and Garth L. Nicolson in 1972.</para>
+<para id="fs-id1511371">The explanation proposed by Singer and Nicolson is called the <term>fluid mosaic model</term>. The model has evolved somewhat over time, but it still best accounts for the structure and functions of the plasma membrane as we now understand them. The fluid mosaic model describes the structure of the plasma membrane as a mosaic of components—including phospholipids, cholesterol, proteins, and carbohydrates—that gives the membrane a fluid character. Plasma membranes range from 5 to 10 nm in thickness. For comparison, human red blood cells, visible via light microscopy, are approximately 8 µm wide, or approximately 1,000 times wider than a plasma membrane. The membrane does look a bit like a sandwich (<link target-id="fig-ch05_01_01" document=""/>).</para>
+<figure id="fig-ch05_01_01" class="  "><media id="fs-id1786872" alt="This illustration shows a phospholipid bilayer with proteins and cholesterol embedded in it. Integral membrane proteins span the entire membrane. Protein channels are integral membrane proteins with a central pore through which molecules can pass. Peripheral proteins are associated with the phospholipid head groups on one side of the membrane only. A glycoprotein is shown with the protein portion of the molecule embedded in the membrane and the carbohydrate portion jutting out from the membrane. A glycolipid is also shown with the lipid portion embedded in the membrane and the carbohydrate portion jutting out of the membrane.">
+<image mime-type="image/jpg" src="Figure_05_01_01.jpg" width="550"/>
+</media>
+
+<caption>The fluid mosaic model of the plasma membrane describes the plasma membrane as a fluid combination of phospholipids, cholesterol, and proteins. Carbohydrates attached to lipids (glycolipids) and to proteins (glycoproteins) extend from the outward-facing surface of the membrane.</caption></figure><para id="fs-id1444105">The principal components of a plasma membrane are lipids (phospholipids and cholesterol), proteins, and carbohydrates attached to some of the lipids and some of the proteins. A phospholipid is a molecule consisting of glycerol, two fatty acids, and a phosphate-linked head group. Cholesterol, another lipid composed of four fused carbon rings, is found alongside the phospholipids in the core of the membrane. The proportions of proteins, lipids, and carbohydrates in the plasma membrane vary with cell type, but for a typical human cell, protein accounts for about 50 percent of the composition by mass, lipids (of all types) account for about 40 percent of the composition by mass, with the remaining 10 percent of the composition by mass being carbohydrates. However, the concentration of proteins and lipids varies with different cell membranes. For example, myelin, an outgrowth of the membrane of specialized cells that insulates the axons of the peripheral nerves, contains only 18 percent protein and 76 percent lipid. The mitochondrial inner membrane contains 76 percent protein and only 24 percent lipid. The plasma membrane of human red blood cells is 30 percent lipid. Carbohydrates are present only on the exterior surface of the plasma membrane and are attached to proteins, forming <term>glycoproteins</term>, or attached to lipids, forming <term>glycolipids</term>.</para>
+<section id="fs-id1964600">
+<title>Phospholipids</title>
+<para id="fs-id1807984">The main fabric of the membrane is composed of amphiphilic, phospholipid molecules. The <term>hydrophilic</term> or “water-loving” areas of these molecules (which look like a collection of balls in an artist’s rendition of the model) (<link target-id="fig-ch05_01_01" document=""/>) are in contact with the aqueous fluid both inside and outside the cell. <term>Hydrophobic</term>, or water-hating molecules, tend to be non-polar. They interact with other non-polar molecules in chemical reactions, but generally do not interact with polar molecules. When placed in water, hydrophobic molecules tend to form a ball or cluster. The hydrophilic regions of the phospholipids tend to form hydrogen bonds with water and other polar molecules on both the exterior and interior of the cell. Thus, the membrane surfaces that face the interior and exterior of the cell are hydrophilic. In contrast, the interior of the cell membrane is hydrophobic and will not interact with water. Therefore, phospholipids form an excellent two-layer cell membrane that separates fluid within the cell from the fluid outside of the cell.</para><para id="fs-id1696367">A phospholipid molecule (<link target-id="fig-ch05_01_02" document=""/>) consists of a three-carbon glycerol backbone with two fatty acid molecules attached to carbons 1 and 2, and a phosphate-containing group attached to the third carbon. This arrangement gives the overall molecule an area described as its head (the phosphate-containing group), which has a polar character or negative charge, and an area called the tail (the fatty acids), which has no charge. The head can form hydrogen bonds, but the tail cannot. A molecule with this arrangement of a positively or negatively charged area and an uncharged, or non-polar, area is referred to as <term>amphiphilic</term> or “dual-loving.”</para>
+<figure id="fig-ch05_01_02"><media id="fs-id1634665" alt="An illustration of a phospholipid shows a hydrophilic head group composed of phosphate connected to a three-carbon glycerol molecule, and two hydrophobic tails composed of long hydrocarbon chains.">
+<image mime-type="image/jpg" src="Figure_05_01_02.jpg" width="325"/>
+</media>
+
+<caption>This phospholipid molecule is composed of a hydrophilic head and two hydrophobic tails. The hydrophilic head group consists of a phosphate-containing group attached to a glycerol molecule. The hydrophobic tails, each containing either a saturated or an unsaturated fatty acid, are long hydrocarbon chains.</caption></figure><para id="fs-id1912365">This characteristic is vital to the structure of a plasma membrane because, in water, phospholipids tend to become arranged with their hydrophobic tails facing each other and their hydrophilic heads facing out. In this way, they form a lipid bilayer—a barrier composed of a double layer of phospholipids that separates the water and other materials on one side of the barrier from the water and other materials on the other side. In fact, phospholipids heated in an aqueous solution tend to spontaneously form small spheres or droplets (called micelles or liposomes), with their hydrophilic heads forming the exterior and their hydrophobic tails on the inside (<link target-id="fig-ch05_01_03" document=""/>).</para>
+<figure id="fig-ch05_01_03"><media id="fs-id1626927" alt="The image on the left shows a spherical lipid bilayer. The image on the right shows a smaller sphere that has a single lipid layer only. The image at the bottom shows a lipid bilayer sheet.">
+<image mime-type="image/jpg" src="Figure_05_01_03.jpg" width="325"/>
+</media>
+
+<caption>In an aqueous solution, phospholipids tend to arrange themselves with their polar heads facing outward and their hydrophobic tails facing inward. (credit: modification of work by Mariana Ruiz Villareal)</caption></figure></section>
+<section id="fs-id1870614">
+<title>Proteins</title>
+<para id="fs-id1786880">Proteins make up the second major component of plasma membranes. <term>Integral proteins</term> (some specialized types are called integrins) are, as their name suggests, integrated completely into the membrane structure, and their hydrophobic membrane-spanning regions interact with the hydrophobic region of the the phospholipid bilayer (<link target-id="fig-ch05_01_01" document=""/>). Single-pass integral membrane proteins usually have a hydrophobic transmembrane segment that consists of 20–25 amino acids. Some span only part of the membrane—associating with a single layer—while others stretch from one side of the membrane to the other, and are exposed on either side. Some complex proteins are composed of up to 12 segments of a single protein, which are extensively folded and embedded in the membrane (<link target-id="fig-ch05_01_04" document=""/>). This type of protein has a hydrophilic region or regions, and one or several mildly hydrophobic regions. This arrangement of regions of the protein tends to orient the protein alongside the phospholipids, with the hydrophobic region of the protein adjacent to the tails of the phospholipids and the hydrophilic region or regions of the protein protruding from the membrane and in contact with the cytosol or extracellular fluid.</para><figure id="fig-ch05_01_04"><media id="fs-id1721077" alt="The left part of this illustration shows an integral membrane protein with a single alpha-helix that spans the membrane. The middle part shows a protein with several alpha-helices spanning the membrane. The right part shows a protein with two beta-sheets spanning the membrane.">
+<image mime-type="image/jpg" src="Figure_05_01_04.jpg" width="325"/>
+</media>
+
+<caption>Integral membranes proteins may have one or more alpha-helices that span the membrane (examples 1 and 2), or they may have beta-sheets that span the membrane (example 3). (credit: “Foobar”/Wikimedia Commons)</caption></figure><para id="fs-id1780876"><term>Peripheral proteins</term> are found on the exterior and interior surfaces of membranes, attached either to integral proteins or to phospholipids. Peripheral proteins, along with integral proteins, may serve as enzymes, as structural attachments for the fibers of the cytoskeleton, or as part of the cell’s recognition sites. These are sometimes referred to as “cell-specific” proteins. The body recognizes its own proteins and attacks foreign proteins associated with invasive pathogens.</para>
+</section>
+<section id="fs-id1443175">
+<title>Carbohydrates</title>
+<para id="fs-id1702908">Carbohydrates are the third major component of plasma membranes. They are always found on the exterior surface of cells and are bound either to proteins (forming glycoproteins) or to lipids (forming glycolipids) (<link target-id="fig-ch05_01_01" document=""/>). These carbohydrate chains may consist of 2–60 monosaccharide units and can be either straight or branched. Along with peripheral proteins, carbohydrates form specialized sites on the cell surface that allow cells to recognize each other. These sites have unique patterns that allow the cell to be recognized, much the way that the facial features unique to each person allow him or her to be recognized. This recognition function is very important to cells, as it allows the immune system to differentiate between body cells (called “self”) and foreign cells or tissues (called “non-self”). Similar types of glycoproteins and glycolipids are found on the surfaces of viruses and may change frequently, preventing immune cells from recognizing and attacking them.</para>
+<para id="fs-id1472126">These carbohydrates on the exterior surface of the cell—the carbohydrate components of both glycoproteins and glycolipids—are collectively referred to as the glycocalyx (meaning “sugar coating”). The glycocalyx is highly hydrophilic and attracts large amounts of water to the surface of the cell. This aids in the interaction of the cell with its watery environment and in the cell’s ability to obtain substances dissolved in the water. As discussed above, the glycocalyx is also important for cell identification, self/non-self determination, and embryonic development, and is used in cell-cell attachments to form tissues.</para>
+<note id="fs-id1394568" class="evolution   "><label/><title>Evolution Connection</title>
+<para id="fs-id1450192"><title>How Viruses Infect Specific Organs</title>Glycoprotein and glycolipid patterns on the surfaces of cells give many viruses an opportunity for infection. HIV and hepatitis viruses infect only specific organs or cells in the human body. HIV is able to penetrate the plasma membranes of a subtype of lymphocytes called T-helper cells, as well as some monocytes and central nervous system cells. The hepatitis virus attacks liver cells.</para>
+<para id="fs-id1397237">These viruses are able to invade these cells, because the cells have binding sites on their surfaces that are specific to and compatible with certain viruses (<link target-id="fig-ch05_01_05" document=""/>). Other recognition sites on the virus’s surface interact with the human immune system, prompting the body to produce antibodies. Antibodies are made in response to the antigens or proteins associated with invasive pathogens, or in response to foreign cells, such as might occur with an organ transplant. These same sites serve as places for antibodies to attach and either destroy or inhibit the activity of the virus. Unfortunately, these recognition sites on HIV change at a rapid rate because of mutations, making the production of an effective vaccine against the virus very difficult, as the virus evolves and adapts. A person infected with HIV will quickly develop different populations, or variants, of the virus that are distinguished by differences in these recognition sites. This rapid change of surface markers decreases the effectiveness of the person’s immune system in attacking the virus, because the antibodies will not recognize the new variations of the surface patterns. In the case of HIV, the problem is compounded by the fact that the virus specifically infects and destroys cells involved in the immune response, further incapacitating the host.</para>
+<figure id="fig-ch05_01_05"><media id="fs-id1422428" alt="This illustration shows the plasma membrane of a T cell. CD4 receptors extend from the membrane into the extracellular space. The HIV virus recognizes part of the CD4 receptor and attaches to it.">
+<image mime-type="image/jpg" src="Figure_05_01_05.jpg" width="325"/>
+</media>
+
+<caption>HIV binds to the CD4 receptor, a glycoprotein on the surfaces of T cells. (credit: modification of work by NIH, NIAID)
+</caption></figure></note></section>
+</section>
+<section id="fs-id1772017">
+<title>Membrane Fluidity</title>
+<para id="fs-id2075565">The mosaic characteristic of the membrane, described in the fluid mosaic model, helps to illustrate its nature. The integral proteins and lipids exist in the membrane as separate but loosely attached molecules. These resemble the separate, multicolored tiles of a mosaic picture, and they float, moving somewhat with respect to one another. The membrane is not like a balloon, however, that can expand and contract; rather, it is fairly rigid and can burst if penetrated or if a cell takes in too much water. However, because of its mosaic nature, a very fine needle can easily penetrate a plasma membrane without causing it to burst, and the membrane will flow and self-seal when the needle is extracted.</para>
+<para id="fs-id1699791">The mosaic characteristics of the membrane explain some but not all of its fluidity. There are two other factors that help maintain this fluid characteristic. One factor is the nature of the phospholipids themselves. In their saturated form, the fatty acids in phospholipid tails are saturated with bound hydrogen atoms. There are no double bonds between adjacent carbon atoms. This results in tails that are relatively straight. In contrast, unsaturated fatty acids do not contain a maximal number of hydrogen atoms, but they do contain some double bonds between adjacent carbon atoms; a double bond results in a bend in the string of carbons of approximately 30 degrees (<link target-id="fig-ch05_01_02" document=""/>).</para>
+<para id="fs-id2270965">Thus, if saturated fatty acids, with their straight tails, are compressed by decreasing temperatures, they press in on each other, making a dense and fairly rigid membrane. If unsaturated fatty acids are compressed, the “kinks” in their tails elbow adjacent phospholipid molecules away, maintaining some space between the phospholipid molecules. This “elbow room” helps to maintain fluidity in the membrane at temperatures at which membranes with saturated fatty acid tails in their phospholipids would “freeze” or solidify. The relative fluidity of the membrane is particularly important in a cold environment. A cold environment tends to compress membranes composed largely of saturated fatty acids, making them less fluid and more susceptible to rupturing. Many organisms (fish are one example) are capable of adapting to cold environments by changing the proportion of unsaturated fatty acids in their membranes in response to the lowering of the temperature.</para>
+<note id="fs-id1853625" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-id1448124" alt="QR Code representing a URL">
+<image mime-type="image/png" src="biological_memb.png" width="130"/>
+</media>
+<para id="fs-id1982720">Visit this <link window="new" url="http://openstaxcollege.org/l/biological_memb">site</link> to see animations of the fluidity and mosaic quality of membranes.</para>
+</note><para id="fs-id1479211">Animals have an additional membrane constituent that assists in maintaining fluidity. Cholesterol, which lies alongside the phospholipids in the membrane, tends to dampen the effects of temperature on the membrane. Thus, this lipid functions as a buffer, preventing lower temperatures from inhibiting fluidity and preventing increased temperatures from increasing fluidity too much. Thus, cholesterol extends, in both directions, the range of temperature in which the membrane is appropriately fluid and consequently functional. Cholesterol also serves other functions, such as organizing clusters of transmembrane proteins into lipid rafts.</para>
+<table id="tab-ch05_01_01" summary="This table provides the constituents of the plasma membrane and their respective functions." class="  ">
+<tgroup cols="2"><colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col2" align="left">The Components and Functions of the Plasma Membrane</entry> 
+</row>
+<row>
+<entry>Component</entry>
+<entry>Location</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Phospholipid</entry>
+<entry>Main fabric of the membrane</entry>
+</row>
+<row>
+<entry>Cholesterol</entry>
+<entry> Attached between phospholipids and between the two phospholipid layers</entry>
+</row>
+<row>
+<entry>Integral proteins (for example, integrins)</entry>
+<entry>Embedded within the phospholipid layer(s). May or may not penetrate through both layers</entry>
+</row>
+<row>
+<entry>Peripheral proteins</entry>
+<entry> On the inner or outer surface of the phospholipid bilayer; not embedded within the phospholipids</entry>
+</row>
+<row>
+<entry>Carbohydrates (components of glycoproteins and glycolipids)</entry>
+<entry> Generally attached to proteins on the outside membrane layer</entry>
+</row>
+</tbody>
+
+
+
+
+
+
+</tgroup>
+</table><note id="fs-id1568867" class="career   "><label/><title>Career Connection</title>
+<para id="fs-id2165483"><title>Immunologist</title>The variations in peripheral proteins and carbohydrates that affect a cell’s recognition sites are of prime interest in immunology. These changes are taken into consideration in vaccine development. Many infectious diseases, such as smallpox, polio, diphtheria, and tetanus, were conquered by the use of vaccines.</para>
+<para id="fs-id1870873">Immunologists are the physicians and scientists who research and develop vaccines, as well as treat and study allergies or other immune problems. Some immunologists study and treat autoimmune problems (diseases in which a person’s immune system attacks his or her own cells or tissues, such as lupus) and immunodeficiencies, whether acquired (such as acquired immunodeficiency syndrome, or AIDS) or hereditary (such as severe combined immunodeficiency, or SCID). Immunologists are called in to help treat organ transplantation patients, who must have their immune systems suppressed so that their bodies will not reject a transplanted organ. Some immunologists work to understand natural immunity and the effects of a person’s environment on it. Others work on questions about how the immune system affects diseases such as cancer. In the past, the importance of having a healthy immune system in preventing cancer was not at all understood.</para>
+<para id="fs-id2072586">To work as an immunologist, a PhD or MD is required. In addition, immunologists undertake at least 2–3 years of training in an accredited program and must pass an examination given by the American Board of Allergy and Immunology. Immunologists must possess knowledge of the functions of the human body as they relate to issues beyond immunization, and knowledge of pharmacology and medical technology, such as medications, therapies, test materials, and surgical procedures.</para>
+</note></section>
+<section id="fs-id2199901" class="summary"><title>Section Summary</title><para id="fs-id1806528">The modern understanding of the plasma membrane is referred to as the fluid mosaic model. The plasma membrane is composed of a bilayer of phospholipids, with their hydrophobic, fatty acid tails in contact with each other. The landscape of the membrane is studded with proteins, some of which span the membrane. Some of these proteins serve to transport materials into or out of the cell. Carbohydrates are attached to some of the proteins and lipids on the outward-facing surface of the membrane, forming complexes that function to identify the cell to other cells. The fluid nature of the membrane is due to temperature, the configuration of the fatty acid tails (some kinked by double bonds), the presence of cholesterol embedded in the membrane, and the mosaic nature of the proteins and protein-carbohydrate combinations, which are not firmly fixed in place. Plasma membranes enclose and define the borders of cells, but rather than being a static bag, they are dynamic and constantly in flux.</para>
+</section><section id="fs-id1511648" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-id1511651">
+<problem id="fs-id1313083"><para id="fs-id1384518">Which plasma membrane component can be either found on its surface or embedded in the membrane structure?</para>
+<list id="fs-id1463137" list-type="enumerated" number-style="lower-alpha">
+<item>protein</item>
+<item>cholesterol</item>
+<item>carbohydrate</item>
+<item>phospholipid</item>
+</list>
+</problem>
+<solution id="fs-id1244071">
+<label/>
+<para id="fs-id1631652">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1268735">
+<problem id="fs-id1702829"><para id="fs-id1450228">Which characteristic of a phospholipid contributes to the fluidity of the membrane?</para>
+<list id="fs-id1439064" list-type="enumerated" number-style="lower-alpha">
+<item>its head</item>
+<item>cholesterol</item>
+<item>a saturated fatty acid tail</item>
+<item>double bonds in the fatty acid tail</item>
+</list>
+</problem>
+<solution id="fs-id1720501">
+<label/>
+<para id="fs-id1768681">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id2163365">
+<problem id="fs-id2229712"><para id="fs-id1461234">What is the primary function of carbohydrates attached to the exterior of cell membranes?</para>
+<list id="fs-id1631084" list-type="enumerated" number-style="lower-alpha">
+<item>identification of the cell</item>
+<item>flexibility of the membrane</item>
+<item>strengthening the membrane</item>
+<item>channels through membrane</item>
+</list>
+</problem>
+<solution id="fs-id2229701">
+<label/>
+<para id="fs-id1912495">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1626493" class="free-response"><title>Free Response</title><exercise id="fs-id1520191"><problem id="fs-id1288365"><para id="fs-id1809118">Why is it advantageous for the cell membrane to be fluid in nature?</para></problem>
+<solution id="fs-id1404963"><label/>
+<para id="fs-id1967384">The fluid characteristic of the cell membrane allows greater flexibility to the cell than it would if the membrane were rigid. It also allows the motion of membrane components, required for some types of membrane transport.</para>
+</solution>
+</exercise><exercise id="fs-id1769864">
+<problem id="fs-id1424163"><para id="fs-id2273314">Why do phospholipids tend to spontaneously orient themselves into something resembling a membrane?</para></problem>
+<solution id="fs-id1797293"><label/>
+<para id="fs-id2177121">The hydrophobic, nonpolar regions must align with each other in order for the structure to have minimal potential energy and, consequently, higher stability. The fatty acid tails of the phospholipids cannot mix with water, but the phosphate “head” of the molecule can. Thus, the head orients to water, and the tail to other lipids.</para></solution>
+</exercise>
+</section></content>
+<glossary>
+<definition id="fs-id2017376"><term>amphiphilic</term> <meaning id="fs-id1967561">molecule possessing a polar or charged area and a nonpolar or uncharged area capable of interacting with both hydrophilic and hydrophobic environments</meaning></definition>
+<definition id="fs-id1808839"><term>fluid mosaic model</term> <meaning id="fs-id2017919">describes the structure of the plasma membrane as a mosaic of components including phospholipids, cholesterol, proteins, glycoproteins, and glycolipids (sugar chains attached to proteins or lipids, respectively), resulting in a fluid character (fluidity)</meaning></definition>
+<definition id="fs-id1797326"><term>glycolipid</term> <meaning id="fs-id1519682">combination of carbohydrates and lipids</meaning></definition>
+<definition id="fs-id1594552"><term>glycoprotein</term> <meaning id="fs-id1306410">combination of carbohydrates and proteins</meaning></definition>
+<definition id="fs-id1986487"><term>hydrophilic</term> <meaning id="fs-id1780732">molecule with the ability to bond with water; “water-loving”</meaning></definition>
+<definition id="fs-id2292206"><term>hydrophobic</term> <meaning id="fs-id2163416">molecule that does not have the ability to bond with water; “water-hating”</meaning></definition>
+<definition id="fs-id2012482"><term>integral protein</term> <meaning id="fs-id1731362">protein integrated into the membrane structure that interacts extensively with the hydrocarbon chains of membrane lipids and often spans the membrane; these proteins can be removed only by the disruption of the membrane by detergents</meaning></definition>
+<definition id="fs-id1756431"><term>peripheral protein</term> <meaning id="fs-id1759960">protein found at the surface of a plasma membrane either on its exterior or interior side; these proteins can be removed (washed off of the membrane) by a high-salt wash</meaning></definition>
+</glossary>
+</document>

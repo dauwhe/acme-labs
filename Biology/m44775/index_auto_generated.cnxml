@@ -1,0 +1,353 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Endocrine Glands</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44775/latest/</md:content-url>
+  <md:content-id>m44775</md:content-id>
+  <md:title>Endocrine Glands</md:title>
+  <md:version>1.6</md:version>
+  <md:created>2012/08/23 15:40:59 -0500</md:created>
+  <md:revised>2013/05/23 09:45:07.455 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>adrenal cortex</md:keyword>
+    <md:keyword>adrenal gland</md:keyword>
+    <md:keyword>adrenal medulla</md:keyword>
+    <md:keyword>alpha cell</md:keyword>
+    <md:keyword>ANP</md:keyword>
+    <md:keyword>anterior pituitary</md:keyword>
+    <md:keyword>atrial natriuretic peptide</md:keyword>
+    <md:keyword>beta cell</md:keyword>
+    <md:keyword>colloid</md:keyword>
+    <md:keyword>endocrine</md:keyword>
+    <md:keyword>endocrine gland</md:keyword>
+    <md:keyword>endocrine system</md:keyword>
+    <md:keyword>EPO</md:keyword>
+    <md:keyword>erythropoietin</md:keyword>
+    <md:keyword>exocrine gland</md:keyword>
+    <md:keyword>hormone</md:keyword>
+    <md:keyword>hypophyseal portal system</md:keyword>
+    <md:keyword>infundibulum</md:keyword>
+    <md:keyword>islets of Langerhans</md:keyword>
+    <md:keyword>isthmus</md:keyword>
+    <md:keyword>leptin</md:keyword>
+    <md:keyword>pancreas</md:keyword>
+    <md:keyword>pancreatic islets</md:keyword>
+    <md:keyword>parafollicular cell</md:keyword>
+    <md:keyword>parathyroid gland</md:keyword>
+    <md:keyword>pituitary gland</md:keyword>
+    <md:keyword>posterior pituitary</md:keyword>
+    <md:keyword>secondary endocrine function</md:keyword>
+    <md:keyword>thymus</md:keyword>
+    <md:keyword>thyroid</md:keyword>
+    <md:keyword>thyroid gland</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the role of different glands in the endocrine system</item>
+<item>Explain how the different glands work together to maintain homeostasis</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idp75505792">Both the endocrine and nervous systems use chemical signals to communicate and regulate the body's physiology. The endocrine system releases hormones that act on target cells to regulate development, growth, energy metabolism, reproduction, and many behaviors. The nervous system releases neurotransmitters or neurohormones that regulate neurons, muscle cells, and endocrine cells. Because the neurons can regulate the release of hormones, the nervous and endocrine systems work in a coordinated manner to regulate the body's physiology. </para><section id="fs-idp45919584">
+<title>Hypothalamic-Pituitary Axis</title><para id="eip-498">The <term>hypothalamus</term> in vertebrates integrates the endocrine and nervous systems. The hypothalamus is an endocrine organ located in the diencephalon of the brain. It receives input from the body and other brain areas and initiates endocrine responses to environmental changes. The hypothalamus acts as an endocrine organ, synthesizing hormones and transporting them along axons to the posterior pituitary gland. It synthesizes and secretes regulatory hormones that control the endocrine cells in the anterior pituitary gland. The hypothalamus contains autonomic centers that control endocrine cells in the adrenal medulla via neuronal control.</para><para id="fs-idp196681488">The <term>pituitary gland</term>, sometimes called the hypophysis or &#8220;master gland&#8221; is located at the base of the brain in the sella turcica, a groove of the sphenoid bone of the skull, illustrated in <link target-id="fig-ch37_05_01" document=""/>. It is attached to the hypothalamus via a stalk called the <term>pituitary stalk</term> (or infundibulum). The anterior portion of the pituitary gland is regulated by releasing or release-inhibiting hormones produced by the hypothalamus, and the posterior pituitary receives signals via neurosecretory cells to release hormones produced by the hypothalamus. The pituitary has two distinct regions&#8212;the anterior pituitary and the posterior pituitary&#8212;which between them secrete nine different peptide or protein hormones. The posterior lobe of the pituitary gland contains axons of the hypothalamic neurons.</para><figure id="fig-ch37_05_01"><media id="fs-idp8482128" alt="The pituitary gland sits at the base of the brain, just above the brain stem. It is lobe-shaped and hangs down from the hypothalamus, to which it is connected to via a narrow stalk. The anterior part of the pituitary is toward the front, and the posterior end is toward the back.">
+<image mime-type="image/jpg" src="Figure_37_05_01ab.jpg" width="520"/>
+</media>
+<caption>The pituitary gland is located at (a) the base of the brain and (b) connected to the hypothalamus by the pituitary stalk. (credit a: modification of work by NCI; credit b: modification of work by Gray&#8217;s Anatomy)</caption></figure><section id="fs-idp129140224">
+<title>Anterior Pituitary</title>
+<para id="fs-idp126966400">The <term>anterior pituitary</term> gland, or adenohypophysis, is surrounded by a capillary network that extends from the hypothalamus, down along the infundibulum, and to the anterior pituitary. This capillary network is a part of the <term>hypophyseal portal system</term> that carries substances from the hypothalamus to the anterior pituitary and hormones from the anterior pituitary into the circulatory system. A portal system carries blood from one capillary network to another; therefore, the hypophyseal portal system allows hormones produced by the hypothalamus to be carried directly to the anterior pituitary without first entering the circulatory system.</para><para id="fs-idp83934032">The anterior pituitary produces seven hormones: growth hormone (GH), prolactin (PRL), thyroid-stimulating hormone (TSH), melanin-stimulating hormone (MSH), adrenocorticotropic hormone (ACTH), follicle-stimulating hormone (FSH), and luteinizing hormone (LH). Anterior pituitary hormones are sometimes referred to as tropic hormones, because they control the functioning of other organs. While these hormones are produced by the anterior pituitary, their production is controlled by regulatory hormones produced by the hypothalamus. These regulatory hormones can be releasing hormones or inhibiting hormones, causing more or less of the anterior pituitary hormones to be secreted. These travel from the hypothalamus through the hypophyseal portal system to the anterior pituitary where they exert their effect. Negative feedback then regulates how much of these regulatory hormones are released and how much anterior pituitary hormone is secreted.</para></section>
+<section id="fs-idp67735280">
+<title>Posterior Pituitary</title>
+<para id="fs-idp148714272">The <term>posterior pituitary</term> is significantly different in structure from the anterior pituitary. It is a part of the brain, extending down from the hypothalamus, and contains mostly nerve fibers and neuroglial cells, which support axons that extend from the hypothalamus to the posterior pituitary. The posterior pituitary and the infundibulum together are referred to as the neurohypophysis.</para>
+<para id="fs-idm88453680">The hormones antidiuretic hormone (ADH), also known as vasopressin, and oxytocin are produced by neurons in the hypothalamus and transported within these axons along the infundibulum to the posterior pituitary. They are released into the circulatory system via neural signaling from the hypothalamus. These hormones are considered to be posterior pituitary hormones, even though they are produced by the hypothalamus, because that is where they are released into the circulatory system. The posterior pituitary itself does not produce hormones, but instead stores hormones produced by the hypothalamus and releases them into the blood stream.</para>
+</section>
+</section>
+<section id="fs-idp155960672">
+<title>Thyroid Gland</title>
+<para id="fs-idp78096928">The <term>thyroid gland</term> is located in the neck, just below the larynx and in front of the trachea, as shown in <link target-id="fig-ch37_05_02" document=""/>. It is a butterfly-shaped gland with two lobes that are connected by the <term>isthmus</term>. It has a dark red color due to its extensive vascular system. When the thyroid swells due to dysfunction, it can be felt under the skin of the neck.</para>
+<figure id="fig-ch37_05_02"><media id="fs-idp68658656" alt="The thyroid is located in the neck beneath the larynx and in front of the trachea. It consists of right and left lobes and a narrow central region called the isthmus of thyroid. Above the isthmus of thyroid is the pyramidal lobe.">
+<image mime-type="image/jpg" src="Figure_37_05_02.jpg" width="255"/>
+</media>
+<caption>This illustration shows the location of the thyroid gland.</caption></figure><para id="fs-idm10964704">The thyroid gland is made up of many spherical thyroid follicles, which are lined with a simple cuboidal epithelium. These follicles contain a viscous fluid, called <term>colloid</term>, which stores the glycoprotein thyroglobulin, the precursor to the thyroid hormones. The follicles produce hormones that can be stored in the colloid or released into the surrounding capillary network for transport to the rest of the body via the circulatory system.</para>
+<para id="fs-idp195467424">Thyroid follicle cells synthesize the hormone thyroxine, which is also known as T<sub>4</sub> because it contains four atoms of iodine, and triiodothyronine, also known as T<sub>3</sub> because it contains three atoms of iodine. Follicle cells are stimulated to release stored T<sub>3 </sub>and T<sub>4 </sub>by thyroid stimulating hormone (TSH), which is produced by the anterior pituitary. These thyroid hormones increase the rates of mitochondrial ATP production.</para><para id="fs-idp122150528">A third hormone, calcitonin, is produced by <term>parafollicular cells</term> of the thyroid either releasing hormones or inhibiting hormones. Calcitonin release is not controlled by TSH, but instead is released when calcium ion concentrations in the blood rise. Calcitonin functions to help regulate calcium concentrations in body fluids. It acts in the bones to inhibit osteoclast activity and in the kidneys to stimulate excretion of calcium. The combination of these two events lowers body fluid levels of calcium.</para></section>
+<section id="fs-idp47040048">
+<title>Parathyroid Glands</title>
+<para id="fs-idp81600992">Most people have four <term>parathyroid glands</term>; however, the number can vary from two to six. These glands are located on the posterior surface of the thyroid gland, as shown in <link target-id="fig-ch37_05_03" document=""/>. Normally, there is a superior gland and an inferior gland associated with each of the thyroid&#8217;s two lobes. Each parathyroid gland is covered by connective tissue and contains many secretory cells that are associated with a capillary network.</para>
+<figure id="fig-ch37_05_03"><media id="fs-idp75535408" alt="The parathyroid glands are round structures located on the surface of the right and left lobes of the thyroid gland. In the illustration shown, there are two parathyroid glands on each side, and one is located above the other.">
+<image mime-type="image/jpg" src="Figure_37_05_03.jpg" width="280"/>
+</media>
+<caption>The parathyroid glands are located on the posterior of the thyroid gland. (credit: modification of work by NCI)</caption></figure><para id="fs-idp130094880">The parathyroid glands produce parathyroid hormone (PTH). PTH increases blood calcium concentrations when calcium ion levels fall below normal. PTH (1) enhances reabsorption of Ca<sup>2+</sup> by the kidneys, (2) stimulates osteoclast activity and inhibits osteoblast activity, and (3) it stimulates synthesis and secretion of calcitriol by the kidneys, which enhances Ca<sup>2+</sup> absorption by the digestive system. PTH is produced by chief cells of the parathyroid. PTH and calcitonin work in opposition to one another to maintain homeostatic Ca<sup>2+</sup> levels in body fluids. Another type of cells, oxyphil cells, exist in the parathyroid but their function is not known. These hormones encourage bone growth, muscle mass, and blood cell formation in children and women.</para></section>
+<section id="fs-idp93153184">
+<title>Adrenal Glands</title>
+<para id="fs-idp50181648">The <term>adrenal glands</term> are associated with the kidneys; one gland is located on top of each kidney as illustrated in <link target-id="fig-ch37_05_04" document=""/>. The adrenal glands consist of an outer adrenal cortex and an inner adrenal medulla. These regions secrete different hormones.</para>
+<figure id="fig-ch37_05_04"><media id="fs-idp29124448" alt="The adrenal glands are lumpy, irregular structures located on top of the kidneys.">
+<image mime-type="image/jpg" src="Figure_37_05_04.jpg" width="280"/>
+</media>
+<caption>The location of the adrenal glands on top of the kidneys is shown. (credit: modification of work by NCI)</caption></figure><section id="fs-idp123637024">
+<title>Adrenal Cortex</title>
+<para id="fs-idp278246944">The <term>adrenal cortex</term> is made up of layers of epithelial cells and associated capillary networks. These layers form three distinct regions: an outer zona glomerulosa that produces mineralocorticoids, a middle zona fasciculata that produces glucocorticoids, and an inner zona reticularis that produces androgens.</para>
+<para id="fs-idm65768016">The main mineralocorticoid is aldosterone, which regulates the concentration of Na<sup>+</sup> ions in urine, sweat, pancreas, and saliva. Aldosterone release from the adrenal cortex is stimulated by a decrease in blood concentrations of sodium ions, blood volume, or blood pressure, or by an increase in blood potassium levels.</para>
+<para id="fs-idp168438512">The three main glucocorticoids are cortisol, corticosterone, and cortisone. The glucocorticoids stimulate the synthesis of glucose and gluconeogenesis (converting a non-carbohydrate to glucose) by liver cells and they promote the release of fatty acids from adipose tissue. These hormones increase blood glucose levels to maintain levels within a normal range between meals. These hormones are secreted in response to ACTH and levels are regulated by negative feedback.</para>
+<para id="fs-idp232794448">Androgens are sex hormones that promote masculinity. They are produced in small amounts by the adrenal cortex in both males and females. They do not affect sexual characteristics and may supplement sex hormones released from the gonads.</para>
+</section>
+<section id="fs-idm5728032">
+<title>Adrenal Medulla</title>
+<para id="fs-idp33219712">The <term>adrenal medulla</term> contains large, irregularly shaped cells that are closely associated with blood vessels. These cells are innervated by preganglionic autonomic nerve fibers from the central nervous system.</para>
+<para id="fs-idp12505360">The adrenal medulla contains two types of secretory cells: one that produces epinephrine (adrenaline) and another that produces norepinephrine (noradrenaline). Epinephrine is the primary adrenal medulla hormone accounting for 75 to 80 percent of its secretions. Epinephrine and norepinephrine increase heart rate, breathing rate, cardiac muscle contractions, blood pressure, and blood glucose levels. They also accelerate the breakdown of glucose in skeletal muscles and stored fats in adipose tissue.</para>
+<para id="fs-idm52030960">The release of epinephrine and norepinephrine is stimulated by neural impulses from the sympathetic nervous system. Secretion of these hormones is stimulated by acetylcholine release from preganglionic sympathetic fibers innervating the adrenal medulla. These neural impulses originate from the hypothalamus in response to stress to prepare the body for the fight-or-flight response.</para>
+</section>
+</section>
+<section id="fs-idm63634624">
+<title>Pancreas</title>
+<para id="fs-idm1807792">The <term>pancreas</term>, illustrated in <link target-id="fig-ch37_05_05" document=""/>, is an elongated organ that is located between the stomach and the proximal portion of the small intestine. It contains both exocrine cells that excrete digestive enzymes and endocrine cells that release hormones. It is sometimes referred to as a heterocrine gland because it has both endocrine and exocrine functions.</para>
+<figure id="fig-ch37_05_05"><media id="fs-idp127576000" alt="The pancreas is a grainy, teardrop-shaped organ tucked between the stomach and intestine.">
+<image mime-type="image/jpg" src="Figure_37_05_05.jpg" width="280"/>
+</media>
+<caption>The pancreas is found underneath the stomach and points toward the spleen. (credit: modification of work by NCI)</caption></figure><para id="fs-idm19320656">The endocrine cells of the pancreas form clusters called pancreatic islets or the <term>islets of Langerhans</term>, as visible in the micrograph shown in <link target-id="fig-ch37_05_06" document=""/>. The pancreatic islets contain two primary cell types: <term>alpha cells</term>, which produce the hormone glucagon, and <term>beta cells</term>, which produce the hormone insulin. These hormones regulate blood glucose levels. As blood glucose levels decline, alpha cells release glucagon to raise the blood glucose levels by increasing rates of glycogen breakdown and glucose release by the liver. When blood glucose levels rise, such as after a meal, beta cells release insulin to lower blood glucose levels by increasing the rate of glucose uptake in most body cells, and by increasing glycogen synthesis in skeletal muscles and the liver. Together, glucagon and insulin regulate blood glucose levels.</para><figure id="fig-ch37_05_06"><media id="fs-idp191358576" alt="Micrograph shows purple-stained cells in a white tissue. The white tissue is surrounded by tissue that stains pink.">
+<image mime-type="image/jpg" src="Figure_37_05_06.jpg" width="295"/>
+</media>
+<caption>The islets of Langerhans are clusters of endocrine cells found in the pancreas; they stain lighter than surrounding cells. (credit: modification of work by Muhammad T. Tabiin, Christopher P. White, Grant Morahan, and Bernard E. Tuch; scale-bar data from Matt Russell)</caption></figure></section>
+<section id="eip-607"><title>Pineal Gland</title><para id="eip-203">
+The pineal gland produces melatonin. The rate of melatonin production is affected by the photoperiod. Collaterals from the visual pathways innervate the pineal gland. During the day photoperiod, little melatonin is produced; however, melatonin production increases during the dark photoperiod (night). In some mammals, melatonin has an inhibitory affect on reproductive functions by decreasing production and maturation of sperm, oocytes, and reproductive organs. Melatonin is an effective antioxidant, protecting the CNS from free radicals such as nitric oxide and hydrogen peroxide. Lastly, melatonin is involved in biological rhythms, particularly circadian rhythms such as the sleep-wake cycle and eating habits.  
+</para></section><section id="fs-idm25526848">
+<title>Gonads</title>
+<para id="fs-idm67197776">The gonads&#8212;the male testes and female ovaries&#8212;produce steroid hormones. The testes produce androgens, testosterone being the most prominent, which allow for the development of secondary sex characteristics and the production of sperm cells. The ovaries produce estradiol and progesterone, which cause secondary sex characteristics and prepare the body for childbirth.</para><table id="tab-ch37_05_01" summary=""><tgroup cols="3" align="left">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
+    <thead>
+        <row>
+            <entry namest="c1" nameend="c3">Endocrine Glands and their Associated Hormones</entry>
+        </row>
+        <row>
+            <entry>Endocrine Gland</entry>
+            <entry>Associated Hormones</entry>
+            <entry>Effect</entry>
+        </row>
+    </thead>
+    <tbody>
+
+<row><entry morerows="1">Hypothalamus</entry>
+<entry>releasing and inhibiting hormones</entry>
+
+<entry>regulate hormone release from pituitary gland; produce oxytocin; produce uterine contractions and milk secretion in females</entry>
+</row>
+<row><entry>antidiuretic hormone (ADH)</entry>
+<entry>water reabsorption from kidneys; vasoconstriction to increase blood pressure</entry>
+</row>
+
+        <row>
+            <entry morerows="6"> Pituitary (Anterior)</entry>
+            <entry>growth hormone (GH)</entry>
+            <entry>promotes growth of body tissues, protein synthesis; metabolic functions</entry>
+        </row>
+        <row>
+            <entry>prolactin (PRL)</entry>
+            <entry>promotes milk production</entry>
+        </row>
+        <row>
+            <entry>thyroid stimulating hormone (TSH)</entry>
+       <entry> stimulates thyroid hormone release</entry>
+        </row>
+        <row>
+            <entry>adrenocorticotropic hormone (ACTH)</entry>
+        <entry>stimulates hormone release by adrenal cortex, glucocorticoids</entry>
+        </row>
+        <row>
+        <entry>follicle-stimulating hormone (FSH)</entry>
+        <entry>stimulates gamete production (both ova and sperm); secretion of estradiol</entry>
+        </row>
+        <row>
+            <entry>luteinizing hormone (LH)</entry>
+        <entry>stimulates androgen production by gonads; ovulation, secretion of progesterone</entry>
+        </row>
+       
+<row><entry>melanocyte-stimulating hormone (MSH)</entry>
+<entry>stimulates melanocytes of the skin increasing melanin pigment production.</entry></row>
+            <row> <entry morerows="1">Pituitary (Posterior)</entry>
+        <entry>antidiuretic hormone (ADH)</entry>
+        <entry>stimulates water reabsorption by kidneys</entry>
+        </row>
+        <row>
+            <entry>oxytocin</entry>
+        <entry>stimulates uterine contractions during childbirth; milk ejection; stimulates ductus deferens and prostate gland contraction during emission</entry>
+        </row>
+        <row>
+            <entry morerows="1">Thyroid</entry>
+        <entry>thyroxine, triiodothyronine</entry>
+        <entry>stimulate and maintain metabolism; growth and development</entry>
+        </row>
+        <row>
+            <entry>calcitonin</entry>
+        <entry>reduces blood Ca<sup>2+</sup> levels</entry>
+        </row>
+        <row>
+            <entry>Parathyroid</entry> 
+            <entry>parathyroid hormone (PTH)</entry>
+            <entry>increases blood Ca<sup>2+ </sup>levels</entry>
+        </row>
+        <row>
+            <entry morerows="1">Adrenal (Cortex)</entry>
+        <entry>aldosterone</entry>
+        <entry>increases blood Na<sup>+</sup> levels; increase K<sup>+</sup> secretion</entry>
+        </row>        
+        <row>
+            <entry>cortisol, corticosterone, cortisone</entry>
+        <entry>increase blood glucose levels; anti-inflammatory effects</entry>
+        </row>
+        <row>
+            <entry>Adrenal (Medulla)</entry>
+        <entry>epinephrine, norepinephrine</entry>
+        <entry>stimulate fight-or-flight response; increase blood gluclose levels; increase metabolic activities</entry>
+        </row>
+        <row>
+            <entry morerows="1">Pancreas</entry>
+        <entry>insulin</entry>
+        <entry>reduces blood glucose levels</entry>
+        </row>        
+        <row>
+            <entry>glucagon</entry> 
+        <entry>increases blood glucose levels</entry>
+        </row>
+<row><entry>Pineal gland</entry>
+<entry>melatonin</entry>
+<entry>regulates some biological rhythms and protects CNS from free radicals</entry></row>
+
+<row><entry>Testes</entry>
+<entry>androgens</entry>
+<entry>regulate, promote, increase or maintain sperm production; male secondary sexual characteristics</entry></row>
+
+<row><entry morerows="1">Ovaries</entry>
+<entry>estrogen</entry>
+<entry>promotes uterine lining growth; female secondary sexual characteristics</entry></row>
+<row><entry>progestins</entry>
+<entry>promote and maintain uterine lining growth</entry>
+</row>
+      </tbody>
+</tgroup>
+</table></section>
+<section id="fs-idm18137024">
+<title>Organs with Secondary Endocrine Functions</title>
+<para id="fs-idp136628448">There are several organs whose primary functions are non-endocrine but that also possess endocrine functions. These include the heart, kidneys, intestines, thymus, gonads, and adipose tissue.</para>
+<para id="fs-idm38972832">The heart possesses endocrine cells in the walls of the atria that are specialized cardiac muscle cells. These cells release the hormone <term>atrial natriuretic peptide (ANP)</term> in response to increased blood volume. High blood volume causes the cells to be stretched, resulting in hormone release. ANP acts on the kidneys to reduce the reabsorption of Na<sup>+</sup>, causing Na<sup>+</sup> and water to be excreted in the urine. ANP also reduces the amounts of renin released by the kidneys and aldosterone released by the adrenal cortex, further preventing the retention of water. In this way, ANP causes a reduction in blood volume and blood pressure, and reduces the concentration of Na<sup>+</sup> in the blood.</para>
+<para id="fs-idp8486624">The gastrointestinal tract produces several hormones that aid in digestion. The endocrine cells are located in the mucosa of the GI tract throughout the stomach and small intestine. Some of the hormones produced include gastrin, secretin, and cholecystokinin, which are secreted in the presence of food, and some of which act on other organs such as the pancreas, gallbladder, and liver. They trigger the release of gastric juices, which help to break down and digest food in the GI tract.</para>
+<para id="fs-idp117388800">While the adrenal glands associated with the kidneys are major <term>endocrine glands</term>, the kidneys themselves also possess endocrine function. Renin is released in response to decreased blood volume or pressure and is part of the renin-angiotensin-aldosterone system that leads to the release of aldosterone. Aldosterone then causes the retention of Na<sup>+</sup> and water, raising blood volume. The kidneys also release calcitriol, which aids in the absorption of Ca<sup>2+</sup> and phosphate ions. <term>Erythropoietin (EPO)</term> is a protein hormone that triggers the formation of red blood cells in the bone marrow. EPO is released in response to low oxygen levels. Because red blood cells are oxygen carriers, increased production results in greater oxygen delivery throughout the body. EPO has been used by athletes to improve performance, as greater oxygen delivery to muscle cells allows for greater endurance. Because red blood cells increase the viscosity of blood, artificially high levels of EPO can cause severe health risks.</para><para id="fs-idp52508320">The <term>thymus</term> is found behind the sternum; it is most prominent in infants, becoming smaller in size through adulthood. The thymus produces hormones referred to as thymosins, which contribute to the development of the immune response.</para>
+<para id="fs-idp13380144">Adipose tissue is a connective tissue found throughout the body. It produces the hormone <term>leptin</term> in response to food intake. Leptin increases the activity of anorexigenic neurons and decreases that of orexigenic neurons, producing a feeling of satiety after eating, thus affecting appetite and reducing the urge for further eating. Leptin is also associated with reproduction. It must be present for GnRH and gonadotropin synthesis to occur. Extremely thin females may enter puberty late; however, if adipose levels increase, more leptin will be produced, improving fertility.</para></section>
+<section id="fs-idm32354368" class="summary">
+<title>Section Summary</title><para id="fs-idm44954272">The pituitary gland is located at the base of the brain and is attached to the hypothalamus by the infundibulum. The anterior pituitary receives products from the hypothalamus by the hypophyseal portal system and produces six hormones. The posterior pituitary is an extension of the brain and releases hormones (antidiuretic hormone and oxytocin) produced by the hypothalamus.</para>
+<para id="fs-idm37396160">The thyroid gland is located in the neck and is composed of two lobes connected by the isthmus. The thyroid is made up of follicle cells that produce the hormones thyroxine and triiodothyronine. Parafollicular cells of the thyroid produce calcitonin. The parathyroid glands lie on the posterior surface of the thyroid gland and produce parathyroid hormone.</para>
+<para id="fs-idp213761664">The adrenal glands are located on top of the kidneys and consist of the renal cortex and renal medulla. The adrenal cortex is the outer part of the adrenal gland and produces the corticosteroids, glucocorticoids, and mineralocorticoids. The adrenal medulla is the inner part of the adrenal gland and produces the catecholamines epinephrine and norepinephrine.</para>
+<para id="fs-idp156010416">The pancreas lies in the abdomen between the stomach and the small intestine. Clusters of endocrine cells in the pancreas form the islets of Langerhans, which are composed of alpha cells that release glucagon and beta cells that release insulin.</para>
+<para id="fs-idp32545344">Some organs possess endocrine activity as a secondary function but have another primary function. The heart produces the hormone atrial natriuretic peptide, which functions to reduce blood volume, pressure, and Na<sup>+</sup> concentration. The gastrointestinal tract produces various hormones that aid in digestion. The kidneys produce renin, calcitriol, and erythropoietin. Adipose tissue produces leptin, which promotes satiety signals in the brain.</para>
+    </section>
+<section id="fs-idp14766704" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp85449136">
+<problem id="fs-idp77421152"><para id="fs-idp14406480">Which endocrine glands are associated with the kidneys?</para>
+<list id="fs-idp134091504" list-type="enumerated" number-style="lower-alpha">
+<item>thyroid glands</item>
+<item>pituitary glands</item>
+<item>adrenal glands</item>
+<item>gonads</item>
+</list>
+</problem>
+<solution id="fs-idm7216352">
+<label/>
+<para id="fs-idm73787872">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm59320032">
+<problem id="fs-idm5893808"><para id="fs-idm31592480">Which of the following hormones is not produced by the anterior pituitary?</para>
+<list id="fs-idm77945936" list-type="enumerated" number-style="lower-alpha">
+<item>oxytocin</item>
+<item>growth hormone</item>
+<item>prolactin</item>
+<item>thyroid-stimulating hormone</item>
+</list>
+</problem>
+<solution id="fs-idp14152368">
+<label/>
+<para id="fs-idm24939248">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm50821264" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idp196112832">
+<problem id="fs-idp223599504"><para id="fs-idm10594704">What does aldosterone regulate, and how is it stimulated?</para></problem>
+<solution id="fs-idm52429056"><label/>
+<para id="fs-idp144911184">The main mineralocorticoid is aldosterone, which regulates the concentration of ions in urine, sweat, and saliva. Aldosterone release from the adrenal cortex is stimulated by a decrease in blood concentrations of sodium ions, blood volume, or blood pressure, or an increase in blood potassium levels.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp29782560">
+<problem id="fs-idm48155344"><para id="fs-idp149661408">The adrenal medulla contains two types of secretory cells, what are they and what are their functions?</para></problem>
+<solution id="fs-idp42471920"><label/>
+<para id="fs-idm38532864">The adrenal medulla contains two types of secretory cells, one that produces epinephrine (adrenaline) and another that produces norepinephrine (noradrenaline). Epinephrine is the primary adrenal medulla hormone accounting for 75&#8211;80 percent of its secretions. Epinephrine and norepinephrine increase heart rate, breathing rate, cardiac muscle contractions, and blood glucose levels. They also accelerate the breakdown of glucose in skeletal muscles and stored fats in adipose tissue. The release of epinephrine and norepinephrine is stimulated by neural impulses from the sympathetic nervous system. These neural impulses originate from the hypothalamus in response to stress to prepare the body for the fight-or-flight response.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm101528272"><term>adrenal cortex</term> <meaning id="fs-idm37803152">outer portion of adrenal glands that produces corticosteroids</meaning></definition>
+<definition id="fs-idm13018544"><term>adrenal gland</term> <meaning id="fs-idm2180288">endocrine glands associated with the kidneys</meaning></definition>
+<definition id="fs-idm33338240"><term>adrenal medulla</term> <meaning id="fs-idm33771008">inner portion of adrenal glands that produces epinephrine and norepinephrine</meaning></definition>
+<definition id="fs-idp75632320"><term>alpha cell</term> <meaning id="fs-idp61310752">endocrine cell of the pancreatic islets that produces the hormone glucagon</meaning></definition>
+<definition id="fs-idm19302976"><term>anterior pituitary</term> <meaning id="fs-idp132060560">portion of the pituitary gland that produces six hormones; also called adenohypophysis</meaning></definition>
+<definition id="fs-idm84991824"><term>atrial natriuretic peptide (ANP)</term> <meaning id="fs-idp3117776">hormone produced by the heart to reduce blood volume, pressure, and Na<sup>+</sup> concentration</meaning></definition>
+<definition id="fs-idm33509872"><term>beta cell</term> <meaning id="fs-idp76561824">endocrine cell of the pancreatic islets that produces the hormone insulin</meaning></definition>
+<definition id="fs-idp130187584"><term>colloid</term> <meaning id="fs-idp349072">fluid inside the thyroid gland that contains the glycoprotein thyroglobulin</meaning></definition>
+<definition id="fs-idm379968"><term>endocrine gland</term> <meaning id="fs-idm74781568">gland that secretes hormones into the surrounding interstitial fluid, which then diffuse into blood and are carried to various organs and tissues within the body</meaning></definition>
+<definition id="fs-idm35161696"><term>erythropoietin (EPO)</term> <meaning id="fs-idp31035392">hormone produced by the kidneys to stimulate red blood cell production in the bone marrow</meaning></definition>
+<definition id="fs-idm18157552"><term>hypophyseal portal system</term> <meaning id="fs-idp235768560">system of blood vessels that carries hormones from the hypothalamus to the anterior pituitary</meaning></definition>
+<definition id="fs-idp192431520"><term>islets of Langerhans (pancreatic islets)</term> <meaning id="fs-idp77053968">endocrine cells of the pancreas</meaning></definition>
+<definition id="fs-idp89781968"><term>isthmus</term> <meaning id="fs-idm20623760">tissue mass that connects the two lobes of the thyroid gland</meaning></definition>
+<definition id="fs-idp57930096"><term>leptin</term> <meaning id="fs-idm53750256">hormone produced by adipose tissue that promotes feelings of satiety and reduces hunger</meaning></definition>
+<definition id="fs-idp121499040"><term>pancreas</term> <meaning id="fs-idm66316576">organ located between the stomach and the small intestine that contains exocrine and endocrine cells</meaning></definition>
+<definition id="fs-idp66166288"><term>parafollicular cell</term> <meaning id="fs-idm39224896">thyroid cell that produces the hormone calcitonin</meaning></definition>
+<definition id="fs-idm71894848"><term>parathyroid gland</term> <meaning id="fs-idp27549200">gland located on the surface of the thyroid that produces parathyroid hormone</meaning></definition>
+<definition id="fs-idm85004880"><term>pituitary gland</term> <meaning id="fs-idm64732720">endocrine gland located at the base of the brain composed of an anterior and posterior region; also called hypophysis</meaning></definition>
+<definition id="fs-idp160646800"><term>pituitary stalk</term> <meaning id="fs-idm74707360">(also, infundibulum) stalk that connects the pituitary gland to the hypothalamus</meaning></definition>
+<definition id="fs-idm41177104"><term>posterior pituitary</term> <meaning id="fs-idp89656608">extension of the brain that releases hormones produced by the hypothalamus; along with the infundibulum, it is also referred to as the neurohypophysis</meaning></definition>
+<definition id="fs-idp74669072"><term>thymus</term> <meaning id="fs-idp83526192">gland located behind the sternum that produces thymosin hormones that contribute to the development of the immune system</meaning></definition>
+<definition id="fs-idp46417008"><term>thyroid gland</term> <meaning id="fs-idm51896592">endocrine gland located in the neck that produces thyroid hormones thyroxine and triiodothyronine</meaning></definition>
+</glossary>
+</document>

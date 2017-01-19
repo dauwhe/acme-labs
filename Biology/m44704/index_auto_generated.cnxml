@@ -1,0 +1,223 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Roots</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44704/latest/</md:content-url>
+  <md:content-id>m44704</md:content-id>
+  <md:title>Roots</md:title>
+  <md:version>1.4</md:version>
+  <md:created>2012/08/23 14:55:27 -0500</md:created>
+  <md:revised>2013/04/12 11:00:38.130 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>adventitious root</md:keyword>
+    <md:keyword>casparian strip</md:keyword>
+    <md:keyword>endodermis</md:keyword>
+    <md:keyword>fibrous root</md:keyword>
+    <md:keyword>modified root</md:keyword>
+    <md:keyword>pericycle</md:keyword>
+    <md:keyword>plant form</md:keyword>
+    <md:keyword>plant physiology</md:keyword>
+    <md:keyword>plants</md:keyword>
+    <md:keyword>root</md:keyword>
+    <md:keyword>root anatomy</md:keyword>
+    <md:keyword>root cap</md:keyword>
+    <md:keyword>root growth</md:keyword>
+    <md:keyword>root hair</md:keyword>
+    <md:keyword>root modification</md:keyword>
+    <md:keyword>roots</md:keyword>
+    <md:keyword>root structure</md:keyword>
+    <md:keyword>root system</md:keyword>
+    <md:keyword>root zone</md:keyword>
+    <md:keyword>stele</md:keyword>
+    <md:keyword>tap root</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Identify the two types of root systems</item>
+<item>Describe the three zones of the root tip and summarize the role of each zone in root growth</item>
+<item>Describe the structure of the root</item>
+<item>List and describe examples of modified roots</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idp64743840">The roots of seed plants have three major functions: anchoring the plant to the soil, absorbing water and minerals and transporting them upwards, and storing the products of photosynthesis. Some roots are modified to absorb moisture and exchange gases. Most roots are underground. Some plants, however, also have <term>adventitious roots</term>, which emerge above the ground from the shoot.</para>
+<section id="fs-idp108729488">
+<title>Types of Root Systems</title>
+<para id="fs-idm1114688">Root systems are mainly of two types (<link target-id="fig-ch30_03_01" document=""/>). Dicots have a tap root system, while monocots have a fibrous root system. A <term>tap root system</term> has a main root that grows down vertically, and from which many smaller lateral roots arise. Dandelions are a good example; their tap roots usually break off when trying to pull these weeds, and they can regrow another shoot from the remaining root). A tap root system penetrates deep into the soil. In contrast, a <term>fibrous root system</term> is located closer to the soil surface, and forms a dense network of roots that also helps prevent soil erosion (lawn grasses are a good example, as are wheat, rice, and corn). Some plants have a combination of tap roots and fibrous roots. Plants that grow in dry areas often have deep root systems, whereas plants growing in areas with abundant water are likely to have shallower root systems.</para>
+<figure id="fig-ch30_03_01"><media id="fs-idp100476384" alt=" Top photo shows carrots, which are thick tap roots that have thin lateral roots extending from them. Bottom photo shows grasses with a fibrous root system beneath the soil.">
+<image mime-type="image/jpg" src="Figure_30_03_01abf.jpg" width="420"/>
+</media>
+
+<caption>(a) Tap root systems have a main root that grows down, while (b) fibrous root systems consist of many small roots. (credit b: modification of work by &#8220;Austen Squarepants&#8221;/Flickr)</caption></figure></section>
+<section id="fs-idp37567248">
+<title>Root Growth and Anatomy</title>
+<para id="fs-idp21199856">Root growth begins with seed germination. When the plant embryo emerges from the seed, the radicle of the embryo forms the root system. The tip of the root is protected by the <term>root cap</term>, a structure exclusive to roots and unlike any other plant structure. The root cap is continuously replaced because it gets damaged easily as the root pushes through soil. The root tip can be divided into three zones: a zone of cell division, a zone of elongation, and a zone of maturation and differentiation (<link target-id="fig-ch30_03_02" document=""/>). The zone of cell division is closest to the root tip; it is made up of the actively dividing cells of the root meristem. The zone of elongation is where the newly formed cells increase in length, thereby lengthening the root. Beginning at the first root hair is the zone of cell maturation where the root cells begin to differentiate into special cell types. All three zones are in the first centimeter or so of the root tip.</para>
+<figure id="fig-ch30_03_02"><media id="fs-idp93991728" alt=" This lateral section of a root tip is divided into three areas: an upper area of maturation, a middle area of elongation, and a lower area of cell division at the root tip. In the area of maturation, root hairs extend from the main root and cells are large and rectangular. The area of elongation has no root hairs, and the cells are still rectangular, but somewhat smaller. A vascular cylinder runs through the center of the root in the area of maturation and the area of elongation. In the area of cell division the cells are much smaller. Cells within this area are called the apical meristem. A layer of cells called the root cap surrounds the apical meristem.">
+<image mime-type="image/jpg" src="Figure_30_03_02.jpg" width="280"/>
+</media>
+
+<caption>A longitudinal view of the root reveals the zones of cell division, elongation, and maturation. Cell division occurs in the apical meristem.</caption></figure><para id="fs-idp164206416">The root has an outer layer of cells called the epidermis, which surrounds areas of ground tissue and vascular tissue. The epidermis provides protection and helps in absorption. <term>Root hairs</term>, which are extensions of root epidermal cells, increase the surface area of the root, greatly contributing to the absorption of water and minerals.</para>
+<para id="fs-idp18220384">Inside the root, the ground tissue forms two regions: the cortex and the pith (<link target-id="fig-ch30_03_03" document=""/>). Compared to stems, roots have lots of cortex and little pith. Both regions include cells that store photosynthetic products. The cortex is between the epidermis and the vascular tissue, whereas the pith lies between the vascular tissue and the center of the root.</para>
+<figure id="fig-ch30_03_03"><media id="fs-idp31312992" alt=" The micrograph shows a root cross section. Xylem cells, whose cell walls stain red, are in the middle of the root. Patches of phloem cells, stained blue, are located at the edge of the ring of xylem cells. The pericycle is a ring of cells on the outer edge of the xylem and phloem. Another ring of cells, called the endodermis, surrounds the pericycle. Everything inside the endodermis is the sclera, or vascular tissue. Outside the endermis is the cortex. The parenchyma cells that make up the cortex are the largest in the root. Outside the cortex is the exodermis. The exodermis is about two cells thick and is made up of sclerenchyma cells that stain red. Surrounding the exodermis is the epidermis, which is a single cell layer thick. A couple of root hairs project outward from the root.">
+<image mime-type="image/jpg" src="Figure_30_03_03f.jpg" width="320"/>
+</media>
+
+<caption>Staining reveals different cell types in this light micrograph of a wheat (<emphasis effect="italics">Triticum</emphasis>) root cross section. Sclerenchyma cells of the exodermis and xylem cells stain red, and phloem cells stain blue. Other cell types stain black. The stele, or vascular tissue, is the area inside endodermis (indicated by a green ring). Root hairs are visible outside the epidermis. (credit: scale-bar data from Matt Russell)</caption></figure><para id="fs-idp118653424">The vascular tissue in the root is arranged in the inner portion of the root, which is called the <term>stele</term> (<link target-id="fig-ch30_03_04" document=""/>). A layer of cells known as the <term>endodermis</term> separates the stele from the ground tissue in the outer portion of the root. The endodermis is exclusive to roots, and serves as a checkpoint for materials entering the root&#8217;s vascular system. A waxy substance called suberin is present on the walls of the endodermal cells. This waxy region, known as the <term>Casparian strip</term>, forces water and solutes to cross the plasma membranes of endodermal cells instead of slipping between the cells. This ensures that only materials required by the root pass through the endodermis, while toxic substances and pathogens are generally excluded. The outermost cell layer of the root&#8217;s vascular tissue is the <term>pericycle</term>, an area that can give rise to lateral roots. In dicot roots, the xylem and phloem of the stele are arranged alternately in an X shape, whereas in monocot roots, the vascular tissue is arranged in a ring around the pith.</para>
+<figure id="fig-ch30_03_04"><media id="fs-idp122691760" alt=" The cross section of a dicot root has an X-shaped structure at its center. The X is made up of many xylem cells. Phloem cells fill the space between the X. A ring of cells called the pericycle surrounds the xylem and phloem. The outer edge of the pericycle is called the endodermis. A thick layer of cortex tissue surrounds the pericycle. The cortex is enclosed in a layer of cells called the epidermis. The monocot root is similar to a dicot root, but the center of the root is filled with pith. The phloem cells form a ring around the pith. Round clusters of xylem cells are embedded in the phloem, symmetrically arranged around the central pith. The outer pericycle, endodermis, cortex and epidermis are the same in the dicot root.">
+<image mime-type="image/jpg" src="Figure_30_03_04.jpg" width="450"/>
+</media>
+
+<caption>In (left) typical dicots, the vascular tissue forms an X shape in the center of the root. In (right) typical monocots, the phloem cells and the larger xylem cells form a characteristic ring around the central pith.</caption></figure></section>
+<section id="fs-idp98895520">
+<title>Root Modifications</title>
+<para id="fs-idp30890896">Root structures may be modified for specific purposes. For example, some roots are bulbous and store starch. Aerial roots and prop roots are two forms of aboveground roots that provide additional support to anchor the plant. Tap roots, such as carrots, turnips, and beets, are examples of roots that are modified for food storage (<link target-id="fig-ch30_03_05" document=""/>).</para>
+<figure id="fig-ch30_03_05"><media id="fs-idp183802240" alt=" Photos shows a variety of fresh vegetables in a grocery store.">
+<image mime-type="image/jpg" src="Figure_30_03_05.jpg" width="280"/>
+</media>
+
+<caption>Many vegetables are modified roots.</caption></figure><para id="fs-idp98743184">Epiphytic roots enable a plant to grow on another plant. For example, the epiphytic roots of orchids develop a spongy tissue to absorb moisture. The banyan tree (<emphasis effect="italics">Ficus</emphasis> sp.) begins as an epiphyte, germinating in the branches of a host tree; aerial roots develop from the branches and eventually reach the ground, providing additional support (<link target-id="fig-ch30_03_06" document=""/>). In screwpine (<emphasis effect="italics">Pandanus</emphasis> sp.), a palm-like tree that grows in sandy tropical soils, aboveground prop roots develop from the nodes to provide additional support.</para>
+<figure id="fig-ch30_03_06" class=" "><media id="fs-idp116098736" alt=" Photo (a) shows a large tree with smaller trunks growing down from its branches, and (b) a tree with slender aerial roots spiraling downwards from the trunk.">
+<image mime-type="image/jpg" src="Figure_30_03_06.jpg" width="480"/>
+</media>
+
+<caption>The (a) banyan tree, also known as the strangler fig, begins life as an epiphyte in a host tree. Aerial roots extend to the ground and support the growing plant, which eventually strangles the host tree. The (b) screwpine develops aboveground roots that help support the plant in sandy soils. (credit a: modification of work by "psyberartist"/Flickr; credit b: modification of work by David Eikhoff)</caption></figure></section>
+<section id="fs-idp38897504" class="summary">
+<title>Section Summary</title><para id="fs-idp52316432">Roots help to anchor a plant, absorb water and minerals, and serve as storage sites for food. Taproots and fibrous roots are the two main types of root systems. In a taproot system, a main root grows vertically downward with a few lateral roots. Fibrous root systems arise at the base of the stem, where a cluster of roots forms a dense network that is shallower than a taproot. The growing root tip is protected by a root cap. The root tip has three main zones: a zone of cell division (cells are actively dividing), a zone of elongation (cells increase in length), and a zone of maturation (cells differentiate to form different kinds of cells). Root vascular tissue conducts water, minerals, and sugars. In some habitats, the roots of certain plants may be modified to form aerial roots or epiphytic roots.</para>
+</section>
+<section id="fs-idp91880960" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp60672">
+<problem id="fs-idp5084496"><para id="fs-idp31284784">Roots that enable a plant to grow on another plant are called ________.</para>
+<list id="fs-idp51385936" list-type="enumerated" number-style="lower-alpha">
+<item>epiphytic roots</item>
+<item>prop roots</item>
+<item>adventitious roots</item>
+<item>aerial roots</item>
+</list>
+</problem>
+<solution id="fs-idp1127216">
+<label/>
+<para id="fs-idm33589888">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idp89826256">
+<problem id="fs-idp219824288"><para id="fs-idp51341072">The ________ forces selective uptake of minerals in the root.</para>
+<list id="fs-idp188459152" list-type="enumerated" number-style="lower-alpha">
+<item>pericycle</item>
+<item>epidermis</item>
+<item>endodermis</item>
+<item>root cap</item>
+</list>
+</problem>
+<solution id="fs-idm13244528">
+<label/>
+<para id="fs-idp36727520">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idp3441920">
+<problem id="fs-idp65710000"><para id="fs-idp85599984">Newly-formed root cells begin to form different cell types in the ________.</para>
+<list id="fs-idp120370976" list-type="enumerated" number-style="lower-alpha">
+<item>zone of elongation</item>
+<item>zone of maturation</item>
+<item>root meristem</item>
+<item>zone of cell division</item>
+</list>
+</problem>
+<solution id="fs-idp92837536">
+<label/>
+<para id="fs-idp130607392">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp35112976" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idp131289104">
+<problem id="fs-idp89166544">
+<para id="fs-idp70463408">Compare a tap root system with a fibrous root system. For each type, name a plant that provides a food in the human diet. Which type of root system is found in monocots? Which type of root system is found in dicots?</para>
+</problem>
+<solution id="fs-idp102399888">
+<label/>
+<para id="fs-idp25528944">A tap root system has a single main root that grows down. A fibrous root system forms a dense network of roots that is closer to the soil surface. An example of a tap root system is a carrot. Grasses such as wheat, rice, and corn are examples of fibrous root systems. Fibrous root systems are found in monocots; tap root systems are found in dicots.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp20301104">
+<problem id="fs-idp98129840">
+<para id="fs-idp167457392">What might happen to a root if the pericycle disappeared?</para>
+</problem>
+<solution id="fs-idp99681184">
+<label/>
+<para id="fs-idp6318448">The root would not be able to produce lateral roots.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idp157718672">
+<term>adventitious root</term> <meaning id="fs-idp23136176">aboveground root that arises from a plant part other than the radicle of the plant embryo</meaning>
+</definition>
+<definition id="fs-idp120751232">
+<term>Casparian strip</term> <meaning id="fs-idp25897680">waxy coating that forces water to cross endodermal plasma membranes before entering the vascular cylinder, instead of moving between endodermal cells</meaning>
+</definition>
+<definition id="fs-idp159421328">
+<term>endodermis</term> <meaning id="fs-idp126470176">layer of cells in the root that forms a selective barrier between the ground tissue and the vascular tissue, allowing water and minerals to enter the root while excluding toxins and pathogens</meaning>
+</definition>
+<definition id="fs-idp36068448">
+<term>fibrous root system</term> <meaning id="fs-idp46081856">type of root system in which the roots arise from the base of the stem in a cluster, forming a dense network of roots; found in monocots</meaning>
+</definition>
+<definition id="fs-idm32239200">
+<term>pericycle</term> <meaning id="fs-idp1008736">outer boundary of the stele from which lateral roots can arise</meaning>
+</definition>
+<definition id="fs-idp53407200">
+<term>root cap</term> <meaning id="fs-idp98551648">protective cells covering the tip of the growing root</meaning>
+</definition>
+<definition id="fs-idp37636800">
+<term>root hair</term> <meaning id="fs-idp47756992">hair-like structure that is an extension of epidermal cells; increases the root surface area and aids in absorption of water and minerals</meaning>
+</definition>
+<definition id="fs-idp131596048">
+<term>stele</term> <meaning id="fs-idp31884480">inner portion of the root containing the vascular tissue; surrounded by the endodermis</meaning>
+</definition>
+<definition id="fs-idp49435952">
+<term>tap root system</term> <meaning id="fs-idp208672480">type of root system with a main root that grows vertically with few lateral roots; found in dicots</meaning>
+</definition>
+</glossary>
+</document>

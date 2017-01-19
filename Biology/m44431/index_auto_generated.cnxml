@@ -1,0 +1,287 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Energy in Living Systems</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44431/latest/</md:content-url>
+  <md:content-id>m44431</md:content-id>
+  <md:title>Energy in Living Systems</md:title>
+  <md:version>1.8</md:version>
+  <md:created>2012/08/23 10:45:07 -0500</md:created>
+  <md:revised>2013/06/04 09:29:55.646 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>adenosine triphosphate</md:keyword>
+    <md:keyword>AMP</md:keyword>
+    <md:keyword>ATP</md:keyword>
+    <md:keyword>cellular respiration</md:keyword>
+    <md:keyword>chemisosmosis</md:keyword>
+    <md:keyword>dephosphorylation</md:keyword>
+    <md:keyword>energy</md:keyword>
+    <md:keyword>energy transfer</md:keyword>
+    <md:keyword>FAD</md:keyword>
+    <md:keyword>FADH</md:keyword>
+    <md:keyword>glucose metabolism</md:keyword>
+    <md:keyword>hydrolysis</md:keyword>
+    <md:keyword>metabolic pathway</md:keyword>
+    <md:keyword>mitochondrial disease</md:keyword>
+    <md:keyword>NAD</md:keyword>
+    <md:keyword>NADH</md:keyword>
+    <md:keyword>NADP</md:keyword>
+    <md:keyword>oxidative phosphorylation</md:keyword>
+    <md:keyword>phosphate group</md:keyword>
+    <md:keyword>phosphorylation</md:keyword>
+    <md:keyword>redox reaction</md:keyword>
+    <md:keyword>substrate phosphorylation</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Discuss the importance of electrons in the transfer of energy in living systems</item>
+<item>Explain how ATP is used by the cell as an energy source</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-id1894837">Energy production within a cell involves many coordinated chemical pathways. Most of these pathways are combinations of oxidation and reduction reactions. Oxidation and reduction occur in tandem. An oxidation reaction strips an electron from an atom in a compound, and the addition of this electron to another compound is a reduction reaction. Because oxidation and reduction usually occur together, these pairs of reactions are called oxidation reduction reactions, or <term>redox reactions</term>.</para><section id="fs-id1798739">
+<title>Electrons and Energy</title>
+<para id="fs-id3112918">The removal of an electron from a molecule, oxidizing it, results in a decrease in potential energy in the oxidized compound. The electron (sometimes as part of a hydrogen atom), does not remain unbonded, however, in the cytoplasm of a cell. Rather, the electron is shifted to a second compound, reducing the second compound. The shift of an electron from one compound to another removes some potential energy from the first compound (the oxidized compound) and increases the potential energy of the second compound (the reduced compound). The transfer of electrons between molecules is important because most of the energy stored in atoms and used to fuel cell functions is in the form of high-energy electrons. The transfer of energy in the form of electrons allows the cell to transfer and use energy in an incremental fashion&#8212;in small packages rather than in a single, destructive burst. This chapter focuses on the extraction of energy from food; you will see that as you track the path of the transfers, you are tracking the path of electrons moving through metabolic pathways.</para>
+<section id="fs-id2763612">
+<title>Electron Carriers</title>
+       <para id="fs-id1405882">In living systems, a small class of compounds functions as electron shuttles: They bind and carry high-energy electrons between compounds in pathways. The principal electron carriers we will consider are derived from the B vitamin group and are derivatives of nucleotides. These compounds can be easily reduced (that is, they accept electrons) or oxidized (they lose electrons). Nicotinamide adenine dinucleotide (NAD) (<link target-id="fig-ch07_01_01" document=""/>) is derived from vitamin B3, niacin. NAD<sup>+</sup> is the oxidized form of the molecule; NADH is the reduced form of the molecule after it has accepted two electrons and a proton (which together are the equivalent of a hydrogen atom with an extra electron).</para>
+<para id="fs-id1464730">NAD<sup>+</sup> can accept electrons from an organic molecule according to the general equation:</para>
+<equation id="eip-739"><m:math display="block">
+ <m:mtable>
+  <m:mtr>
+   <m:mtd>
+    <m:mrow>
+     <m:mtext>RH</m:mtext>
+    </m:mrow>
+   </m:mtd>
+  </m:mtr>
+  <m:mtr>
+   <m:mtd>
+    <m:mtable>
+     <m:mtr>
+      <m:mtd>
+       <m:mtext>Reducing&#160;</m:mtext>
+      </m:mtd>
+     </m:mtr>
+     <m:mtr>
+      <m:mtd>
+       <m:mtext>agent</m:mtext>
+      </m:mtd>
+     </m:mtr>
+    </m:mtable>
+    
+   </m:mtd>
+  </m:mtr>
+  
+ </m:mtable><m:mtext>&#160;+&#160;</m:mtext><m:mtable>
+  <m:mtr>
+   <m:mtd>
+    <m:mrow>
+     <m:msup>
+      <m:mrow>
+       <m:mtext>NAD</m:mtext>
+      </m:mrow>
+      <m:mo>+</m:mo>
+     </m:msup>
+     
+    </m:mrow>
+   </m:mtd>
+  </m:mtr>
+  <m:mtr>
+   <m:mtd>
+    <m:mtable>
+     <m:mtr>
+      <m:mtd>
+       <m:mtext>Oxidizing</m:mtext>
+      </m:mtd>
+     </m:mtr>
+     <m:mtr>
+      <m:mtd>
+       <m:mtext>agent</m:mtext>
+      </m:mtd>
+     </m:mtr>
+    </m:mtable>
+    
+   </m:mtd>
+  </m:mtr>
+  
+ </m:mtable><m:mo stretchy="false">&#8594;</m:mo><m:mtext>&#160;</m:mtext><m:mtable>
+  <m:mtr>
+   <m:mtd>
+    <m:mrow>
+     <m:mtext>NADH</m:mtext>
+    </m:mrow>
+   </m:mtd>
+  </m:mtr>
+  <m:mtr>
+   <m:mtd>
+    <m:mrow>
+     <m:mtext>Reduced</m:mtext>
+    </m:mrow>
+   </m:mtd>
+  </m:mtr>
+  
+ </m:mtable><m:mtext>&#160;+</m:mtext><m:mtable>
+  <m:mtr>
+   <m:mtd>
+    <m:mtext>R</m:mtext>
+   </m:mtd>
+  </m:mtr>
+  <m:mtr>
+   <m:mtd>
+    <m:mrow>
+     <m:mtext>Oxidized</m:mtext>
+    </m:mrow>
+   </m:mtd>
+  </m:mtr>
+  
+ </m:mtable>
+</m:math>
+</equation><para id="fs-id2073095">When electrons are added to a compound, they are reduced. A compound that reduces another is called a reducing agent. In the above equation, RH is a reducing agent, and NAD<sup>+</sup> is reduced to NADH. When electrons are removed from compound, it oxidized. A compound that oxidizes another is called an oxidizing agent. In the above equation, NAD<sup>+</sup> is an oxidizing agent, and RH is oxidized to R.</para>
+<para id="fs-id2583910">Similarly, flavin adenine dinucleotide (FAD<sup>+</sup>) is derived from vitamin B<sub>2</sub>, also called riboflavin. Its reduced form is FADH<sub>2</sub>. A second variation of NAD, NADP, contains an extra phosphate group. Both NAD<sup>+</sup> and FAD<sup>+</sup> are extensively used in energy extraction from sugars, and NADP plays an important role in anabolic reactions and photosynthesis.</para>
+<figure id="fig-ch07_01_01"><media id="fs-id1937340" alt="This illustration shows the molecular structure of NAD^{+} and NADH. Both compounds are composed of an adenine nucleotide and a nicotinamide nucleotide, which bond together to form a dinucleotide. The nicotinamide nucleotide is at the 5' end, and the adenine nucleotide is at the 3&#8217; end. Nicotinamide is a nitrogenous base, meaning it has nitrogen in a six-membered carbon ring. In NADH, one extra hydrogen is associated with this ring, which is not found in NAD^{+}.">
+<image mime-type="image/jpg" src="Figure_07_01_01ab.jpg" width="500"/>
+</media>
+<caption>The oxidized form of the electron carrier (NAD<sup>+</sup>) is shown on the left and the reduced form (NADH) is shown on the right. The nitrogenous base in NADH has one more hydrogen ion and two more electrons than in NAD<sup>+</sup>.</caption></figure></section>
+</section>
+<section id="fs-id1511906">
+<title>ATP in Living Systems</title>
+<para id="fs-id1640338">A living cell cannot store significant amounts of free energy. Excess free energy would result in an increase of heat in the cell, which would result in excessive thermal motion that could damage and then destroy the cell. Rather, a cell must be able to handle that energy in a way that enables the cell to store energy safely and release it for use only as needed. Living cells accomplish this by using the compound adenosine triphosphate (ATP). ATP is often called the &#8220;energy currency&#8221; of the cell, and, like currency, this versatile compound can be used to fill any energy need of the cell. How? It functions similarly to a rechargeable battery.</para>
+<para id="fs-id1359897">When ATP is broken down, usually by the removal of its terminal phosphate group, energy is released. The energy is used to do work by the cell, usually by the released phosphate binding to another molecule, activating it. For example, in the mechanical work of muscle contraction, ATP supplies the energy to move the contractile muscle proteins. Recall the active transport work of the sodium-potassium pump in cell membranes. ATP alters the structure of the integral protein that functions as the pump, changing its affinity for sodium and potassium. In this way, the cell performs work, pumping ions against their electrochemical gradients.</para>
+<section id="fs-id2183864">
+<title>ATP Structure and Function</title>
+       <para id="fs-id1595819">At the heart of ATP is a molecule of adenosine monophosphate (AMP), which is composed of an adenine molecule bonded to a ribose molecule and to a single phosphate group (<link target-id="fig-ch07_01_02" document=""/>). Ribose is a five-carbon sugar found in RNA, and AMP is one of the nucleotides in RNA. The addition of a second phosphate group to this core molecule results in the formation of adenosine <emphasis effect="underline">di</emphasis>phosphate (ADP); the addition of a third phosphate group forms adenosine <emphasis effect="underline">tri</emphasis>phosphate (ATP).</para>
+<figure id="fig-ch07_01_02"><media id="fs-id2756859" alt="This illustration shows the molecular structure of ATP. This molecule is an adenine nucleotide with a string of three phosphate groups attached to it. The phosphate groups are named alpha, beta, and gamma in order of increasing distance from the ribose sugar to which they are attached.">
+<image mime-type="image/jpg" src="Figure_07_01_02.jpg" width="400"/>
+</media>
+<caption>ATP (adenosine triphosphate) has three phosphate groups that can be removed by hydrolysis to form ADP (adenosine diphosphate) or AMP (adenosine monophosphate).The negative charges on the phosphate group naturally repel each other, requiring energy to bond them together and releasing energy when these bonds are broken.</caption></figure><para id="fs-id2308504">The addition of a phosphate group to a molecule requires energy. Phosphate groups are negatively charged and thus repel one another when they are arranged in series, as they are in ADP and ATP. This repulsion makes the ADP and ATP molecules inherently unstable. The release of one or two phosphate groups from ATP, a process called <term>dephosphorylation</term>, releases energy.</para>
+</section>
+<section id="fs-id3570970">
+<title>Energy from ATP</title>
+<para id="fs-id1981342">Hydrolysis is the process of breaking complex macromolecules apart. During hydrolysis, water is split, or lysed, and the resulting hydrogen atom (H<sup>+</sup>) and a hydroxyl group (OH<sup>-</sup>) are added to the larger molecule. The hydrolysis of ATP produces ADP, together with an inorganic phosphate ion (P<sub>i</sub>), and the release of free energy. To carry out life processes, ATP is continuously broken down into ADP, and like a rechargeable battery, ADP is continuously regenerated into ATP by the reattachment of a third phosphate group. Water, which was broken down into its hydrogen atom and hydroxyl group during ATP hydrolysis, is regenerated when a third phosphate is added to the ADP molecule, reforming ATP.</para>
+<para id="fs-id1798236">Obviously, energy must be infused into the system to regenerate ATP. Where does this energy come from? In nearly every living thing on earth, the energy comes from the metabolism of glucose. In this way, ATP is a direct link between the limited set of exergonic pathways of glucose catabolism and the multitude of endergonic pathways that power living cells.</para>
+</section>
+<section id="fs-id1560590">
+<title>Phosphorylation</title>
+<para id="fs-id2348311">Recall that, in some chemical reactions, enzymes may bind to several substrates that react with each other on the enzyme, forming an intermediate complex. An intermediate complex is a temporary structure, and it allows one of the substrates (such as ATP) and reactants to more readily react with each other; in reactions involving ATP, ATP is one of the substrates and ADP is a product. During an endergonic chemical reaction, ATP forms an intermediate complex with the substrate and enzyme in the reaction. This intermediate complex allows the ATP to transfer its third phosphate group, with its energy, to the substrate, a process called phosphorylation. <term>Phosphorylation</term> refers to the addition of the phosphate (~P). This is illustrated by the following generic reaction:</para>
+<equation id="eip-458"><m:math display="block">
+<m:mrow>
+<m:mtext>A&#160;+&#160;enzyme&#160;+&#160;ATP</m:mtext><m:mo stretchy="false">&#8594;</m:mo><m:mtext>&#160;</m:mtext><m:mrow><m:mo>[</m:mo> <m:mrow>
+<m:mtext>A&#160;</m:mtext><m:mo>&#8722;</m:mo><m:mtext>&#160;enzyme&#160;</m:mtext><m:mo>
+&#8722;</m:mo><m:mtext>&#160;</m:mtext><m:mo>&#8764;</m:mo><m:mtext>P</m:mtext>
+</m:mrow> 
+<m:mo>]</m:mo></m:mrow><m:mtext>&#160;</m:mtext><m:mo stretchy="false">&#8594;</m:mo><m:mtext>&#160;B&#160;+&#160;enzyme&#160;+&#160;ADP&#160;+&#160;phosphate&#160;ion</m:mtext>
+</m:mrow>
+</m:math></equation><para id="fs-id1786661">When the intermediate complex breaks apart, the energy is used to modify the substrate and convert it into a product of the reaction. The ADP molecule and a free phosphate ion are released into the medium and are available for recycling through cell metabolism.</para>
+</section>
+<section id="fs-id2195071">
+<title>Substrate Phosphorylation</title>
+<para id="fs-id1451024">ATP is generated through two mechanisms during the breakdown of glucose. A few ATP molecules are generated (that is, regenerated from ADP) as a direct result of the chemical reactions that occur in the catabolic pathways. A phosphate group is removed from an intermediate reactant in the pathway, and the free energy of the reaction is used to add the third phosphate to an available ADP molecule, producing ATP (<link target-id="fig-ch07_01_03" document=""/>). This very direct method of phosphorylation is called <term>substrate-level phosphorylation</term>.</para>
+<figure id="fig-ch07_01_03"><media id="fs-id1414909" alt="This illustration shows a substrate-level phosphorylation reaction in which the gamma phosphate of ATP is attached to a protein.">
+<image mime-type="image/jpg" src="Figure_07_01_03.jpg" width="350"/>
+</media>
+<caption>In phosphorylation reactions, the gamma phosphate of ATP is attached to a protein.</caption></figure></section>
+<section id="fs-id2019618">
+<title>Oxidative Phosphorylation</title>
+       <para id="fs-id2065719">Most of the ATP generated during glucose catabolism, however, is derived from a much more complex process, chemiosmosis, which takes place in mitochondria (<link target-id="fig-ch07_01_04" document=""/>) within a eukaryotic cell or the plasma membrane of a prokaryotic cell. <term>Chemiosmosis</term>, a process of ATP production in cellular metabolism, is used to generate 90 percent of the ATP made during glucose catabolism and is also the method used in the light reactions of photosynthesis to harness the energy of sunlight. The production of ATP using the process of chemiosmosis is called <term>oxidative phosphorylation</term> because of the involvement of oxygen in the process.</para>
+<figure id="fig-ch07_01_04"><media id="fs-id1318782" alt="This illustration shows the structure of a mitochondrion, which has an outer membrane and an inner membrane. The inner membrane has many folds, called cristae. The space between the outer membrane and the inner membrane is called the intermembrane space, and the central space of the mitochondrion is called the matrix. ATP synthase enzymes and the electron transport chain are located in the inner membrane">
+<image mime-type="image/jpg" src="Figure_07_01_04.jpg" width="300"/>
+</media>
+<caption>In eukaryotes, oxidative phosphorylation takes place in mitochondria. In prokaryotes, this process takes place in the plasma membrane. (Credit: modification of work by Mariana Ruiz Villareal)</caption></figure><note id="fs-id1912383" class="career"><label/><title> Career Connections</title>
+
+<para id="fs-id1281011"><title>Mitochondrial Disease Physician</title>What happens when the critical reactions of cellular respiration do not proceed correctly? Mitochondrial diseases are genetic disorders of metabolism. Mitochondrial disorders can arise from mutations in nuclear or mitochondrial DNA, and they result in the production of less energy than is normal in body cells. In type 2 diabetes, for instance, the oxidation efficiency of NADH is reduced, impacting oxidative phosphorylation but not the other steps of respiration. Symptoms of mitochondrial diseases can include muscle weakness, lack of coordination, stroke-like episodes, and loss of vision and hearing. Most affected people are diagnosed in childhood, although there are some adult-onset diseases. Identifying and treating mitochondrial disorders is a specialized medical field. The educational preparation for this profession requires a college education, followed by medical school with a specialization in medical genetics. Medical geneticists can be board certified by the American Board of Medical Genetics and go on to become associated with professional organizations devoted to the study of mitochondrial diseases, such as the Mitochondrial Medicine Society and the Society for Inherited Metabolic Disease.</para>
+</note></section>
+</section>
+<section id="fs-id1397107" class="summary">
+<title>Section Summary</title><para id="fs-id2890552">ATP functions as the energy currency for cells. It allows the cell to store energy briefly and transport it within the cell to support endergonic chemical reactions. The structure of ATP is that of an RNA nucleotide with three phosphates attached. As ATP is used for energy, a phosphate group or two are detached, and either ADP or AMP is produced. Energy derived from glucose catabolism is used to convert ADP into ATP. When ATP is used in a reaction, the third phosphate is temporarily attached to a substrate in a process called phosphorylation. The two processes of ATP regeneration that are used in conjunction with glucose catabolism are substrate-level phosphorylation and oxidative phosphorylation through the process of chemiosmosis.</para>
+</section>
+<section id="fs-id1473147" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-id1957993">
+<problem id="fs-id1276810"><para id="fs-id2197455">The energy currency used by cells is ________.</para>
+       <list id="fs-id1785724" list-type="enumerated" number-style="lower-alpha">
+       <item>ATP</item>
+       <item>ADP</item>
+       <item>AMP</item>
+       <item>adenosine</item>
+</list>
+</problem>
+       <solution id="fs-id1470656">
+              <label/>
+              <para id="fs-id1760308">A</para>
+       </solution>
+       </exercise>
+<exercise id="fs-id1419484">
+<problem id="fs-id2100818"><para id="fs-id1450216">A reducing chemical reaction ________.</para>
+       <list id="fs-id2962812" list-type="enumerated" number-style="lower-alpha">
+<item>reduces the compound to a simpler form</item>
+              <item>adds an electron to the substrate</item>
+              <item>removes a hydrogen atom from the substrate</item>
+              <item>is a catabolic reaction</item>
+       </list>
+</problem>
+       <solution id="fs-id3078523">
+              <label/>
+              <para id="fs-id1961659">B</para>
+       </solution>
+       </exercise>
+</section>
+<section id="fs-id1787762" class="free-response">
+       <title>Free Response</title>
+<exercise id="fs-id2781180">
+<problem id="fs-id2642317"><para id="fs-id1262550">Why is it beneficial for cells to use ATP rather than energy directly from the bonds of carbohydrates? What are the greatest drawbacks to harnessing energy directly from the bonds of several different compounds?</para></problem>
+<solution id="fs-id1380782"><label/>
+<para id="fs-id1780952">ATP provides the cell with a way to handle energy in an efficient manner. The molecule can be charged, stored, and used as needed. Moreover, the energy from hydrolyzing ATP is delivered as a consistent amount. Harvesting energy from the bonds of several different compounds would result in energy deliveries of different quantities.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-id1957966"><term>chemiosmosis</term> <meaning id="fs-id2148481">process in which there is a production of adenosine triphosphate (ATP) in cellular metabolism by the involvement of a proton gradient across a membrane</meaning></definition>
+<definition id="fs-id2567941"><term>dephosphorylation</term> <meaning id="fs-id2020665">removal of a phosphate group from a molecule</meaning></definition>
+<definition id="fs-id1428215"><term>oxidative phosphorylation</term> <meaning id="fs-id2315383">production of ATP using the process of chemiosmosis and oxygen</meaning></definition>
+<definition id="fs-id2862440"><term>phosphorylation</term> <meaning id="fs-id2904661">addition of a high-energy phosphate to a compound, usually a metabolic intermediate, a protein, or ADP</meaning></definition>
+<definition id="fs-id2205482"><term>redox reaction</term> <meaning id="fs-id2962857">chemical reaction that consists of the coupling of an oxidation reaction and a reduction reaction</meaning></definition>
+<definition id="fs-id1468961"><term>substrate-level phosphorylation</term> <meaning id="fs-id2476144">production of ATP from ADP using the excess energy from a chemical reaction and a phosphate group from a reactant</meaning></definition>
+</glossary>
+</document>

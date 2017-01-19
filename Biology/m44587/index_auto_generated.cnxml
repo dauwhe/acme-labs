@@ -1,0 +1,127 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44587/latest/</md:content-url>
+  <md:content-id>m44587</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.3</md:version>
+  <md:created>2012/08/23 14:14:08 -0500</md:created>
+  <md:revised>2013/03/01 12:59:32.660 US/Central</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>analogous trait</md:keyword>
+    <md:keyword>analogy</md:keyword>
+    <md:keyword>basal taxon</md:keyword>
+    <md:keyword>binomial nomenclature</md:keyword>
+    <md:keyword>branch point</md:keyword>
+    <md:keyword>Carl Linnaeus</md:keyword>
+    <md:keyword>clade</md:keyword>
+    <md:keyword>cladistic method</md:keyword>
+    <md:keyword>cladistics</md:keyword>
+    <md:keyword>class</md:keyword>
+    <md:keyword>classification levels</md:keyword>
+    <md:keyword>classification system</md:keyword>
+    <md:keyword>domain</md:keyword>
+    <md:keyword>eukaryote evolution</md:keyword>
+    <md:keyword>eukaryote-first hypothesis</md:keyword>
+    <md:keyword>eukaryote HGT</md:keyword>
+    <md:keyword>evolution</md:keyword>
+    <md:keyword>evolutionary relationships</md:keyword>
+    <md:keyword>family</md:keyword>
+    <md:keyword>gene transfer agent</md:keyword>
+    <md:keyword>genome fusion</md:keyword>
+    <md:keyword>genus</md:keyword>
+    <md:keyword>GTA</md:keyword>
+    <md:keyword>HGT</md:keyword>
+    <md:keyword>homologous trait</md:keyword>
+    <md:keyword>homoplasy</md:keyword>
+    <md:keyword>horizontal gene transfer</md:keyword>
+    <md:keyword>James Lake</md:keyword>
+    <md:keyword>kingdom</md:keyword>
+    <md:keyword>lateral gene transfer</md:keyword>
+    <md:keyword>Linnaean system</md:keyword>
+    <md:keyword>maximum parsimony</md:keyword>
+    <md:keyword>mitochondria-first hypothesis</md:keyword>
+    <md:keyword>molecular comparison</md:keyword>
+    <md:keyword>molecular systematics</md:keyword>
+    <md:keyword>network model</md:keyword>
+    <md:keyword>order</md:keyword>
+    <md:keyword>phylogenetic model</md:keyword>
+    <md:keyword>phylogenetic tree</md:keyword>
+    <md:keyword>phylogeny</md:keyword>
+    <md:keyword>phylum</md:keyword>
+    <md:keyword>polytomy</md:keyword>
+    <md:keyword>prokaryote-first hypothesis</md:keyword>
+    <md:keyword>prokaryote HGT</md:keyword>
+    <md:keyword>ring model</md:keyword>
+    <md:keyword>ring of life</md:keyword>
+    <md:keyword>rooted</md:keyword>
+    <md:keyword>shared ancestral character</md:keyword>
+    <md:keyword>shared characteristic</md:keyword>
+    <md:keyword>shared derived character</md:keyword>
+    <md:keyword>sister taxa</md:keyword>
+    <md:keyword>species</md:keyword>
+    <md:keyword>systematics</md:keyword>
+    <md:keyword>taxon</md:keyword>
+    <md:keyword>taxonomy</md:keyword>
+    <md:keyword>tree of life</md:keyword>
+    <md:keyword>web model</md:keyword>
+    <md:keyword>web of life</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+        <?cnx.eoc class="summary" title="Sections Summary"?>
+        <?cnx.eoc class="art-exercise" title="Art Connections"?>
+        <?cnx.eoc class="multiple-choice" title="Multiple Choice"?>
+        <?cnx.eoc class="free-response" title="Free Response"?>
+<figure id="fig-ch20_00_01" class="splash"> 
+<media id="fs-idm85766432" alt=" Photo shows a bee collecting nectar from a flower.">
+<image mime-type="image/jpg" src="Figure_20_00_01.jpg" width="600"/>
+</media>
+<caption>The life of a bee is very different from the life of a flower, but the two organisms are related. Both are members the domain Eukarya and have cells containing many similar organelles, genes, and proteins. (credit: modification of work by John Beetham)</caption>
+</figure>
+<para id="fs-idm142425376">This bee and <emphasis effect="italics">Echinacea</emphasis> flower (<link target-id="fig-ch20_00_01" document=""/>) could not look more different, yet they are related, as are all living organisms on Earth. By following pathways of similarities and changes&#8212;both visible and genetic&#8212;scientists seek to map the evolutionary past of how life developed from single-celled organisms to the tremendous collection of creatures that have germinated, crawled, floated, swam, flown, and walked on this planet.</para>
+</content>
+</document>

@@ -1,0 +1,175 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Connections between Cells and Cellular Activities</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44413/latest/</md:content-url>
+  <md:content-id>m44413</md:content-id>
+  <md:title>Connections between Cells and Cellular Activities</md:title>
+  <md:version>1.7</md:version>
+  <md:created>2012/08/23 10:34:22 -0500</md:created>
+  <md:revised>2013/04/05 13:44:59.683 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>cell structure</md:keyword>
+    <md:keyword>cellular activity</md:keyword>
+    <md:keyword>desmosome</md:keyword>
+    <md:keyword>extracellular matrix</md:keyword>
+    <md:keyword>gap junction</md:keyword>
+    <md:keyword>plasmodesma</md:keyword>
+    <md:keyword>plasmodesmata</md:keyword>
+    <md:keyword>tight junction</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the extracellular matrix</item>
+<item>List examples of the ways that plant cells and animal cells communicate with adjacent cells</item>
+<item>Summarize the roles of tight junctions, desmosomes, gap junctions, and plasmodesmata</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-id865940">You already know that a group of similar cells working together is called a tissue. As you might expect, if cells are to work together, they must communicate with each other, just as you need to communicate with others if you work on a group project. Let&#8217;s take a look at how cells communicate with each other.</para>
+<section id="fs-id1358496">
+<title>Extracellular Matrix of Animal Cells</title>
+<para id="fs-id1322851">Most animal cells release materials into the extracellular space. The primary components of these materials are proteins, and the most abundant protein is collagen. Collagen fibers are interwoven with carbohydrate-containing protein molecules called proteoglycans. Collectively, these materials are called the <term>extracellular matrix</term> (<link target-id="fig-ch04-06-01" document=""/>). Not only does the extracellular matrix hold the cells together to form a tissue, but it also allows the cells within the tissue to communicate with each other. How can this happen?</para>
+<figure id="fig-ch04-06-01"><media id="fs-id1488943" alt="This illustration shows the plasma membrane. Embedded in the plasma membrane are integral membrane proteins called integrins. On the exterior of the cell is a vast network of collagen fibers. The fibers are attached to the integrins via a protein called fibronectin. Proteoglycan complexes also extend from the plasma membrane to the extracellular matrix. A close-up view shows that each proteoglycan complex is composed of a polysaccharide core. Proteins branch from this core, and carbohydrates branch from the proteins. The inside of the cytoplasmic membrane is lined with microfilaments of the cytoskeleton.">
+<image mime-type="image/jpg" src="Figure_04_06_01.jpg" width="300"/>
+</media>
+
+<caption>The extracellular matrix consists of a network of proteins and carbohydrates.</caption></figure><para id="fs-id1491867">Cells have protein receptors on the extracellular surfaces of their plasma membranes. When a molecule within the matrix binds to the receptor, it changes the molecular structure of the receptor. The receptor, in turn, changes the conformation of the microfilaments positioned just inside the plasma membrane. These conformational changes induce chemical signals inside the cell that reach the nucleus and turn &#8220;on&#8221; or &#8220;off&#8221; the transcription of specific sections of DNA, which affects the production of associated proteins, thus changing the activities within the cell.</para>
+<para id="fs-id1671786">Blood clotting provides an example of the role of the extracellular matrix in cell communication. When the cells lining a blood vessel are damaged, they display a protein receptor called tissue factor. When tissue factor binds with another factor in the extracellular matrix, it causes platelets to adhere to the wall of the damaged blood vessel, stimulates the adjacent smooth muscle cells in the blood vessel to contract (thus constricting the blood vessel), and initiates a series of steps that stimulate the platelets to produce clotting factors.</para>
+</section>
+<section id="fs-id1741467">
+<title>Intercellular Junctions</title>
+<para id="fs-id1209067">Cells can also communicate with each other via direct contact, referred to as intercellular junctions. There are some differences in the ways that plant and animal cells do this. Plasmodesmata are junctions between plant cells, whereas animal cell contacts include tight junctions, gap junctions, and desmosomes.</para>
+<section id="fs-id1227229">
+<title>Plasmodesmata</title>
+    <para id="fs-id1753183">In general, long stretches of the plasma membranes of neighboring plant cells cannot touch one another because they are separated by the cell wall that surrounds each cell (<link target-id="fig-ch04-03-01" document="m44407"/><emphasis effect="bold">b</emphasis>). How then, can a plant transfer water and other soil nutrients from its roots, through its stems, and to its leaves? Such transport uses the vascular tissues (xylem and phloem) primarily. There also exist structural modifications called <term>plasmodesmata</term> (singular = plasmodesma), numerous channels that pass between cell walls of adjacent plant cells, connect their cytoplasm, and enable materials to be transported from cell to cell, and thus throughout the plant (<link target-id="fig-ch04-06-02" document=""/>).</para><figure id="fig-ch04-06-02"><media id="fs-id1704487" alt="This illustration shows two plant cells side-by-side. A gap in the cell wall, a plasmodesma, allows fluid and small molecules to pass from the cytoplasm of one cell to the cytoplasm of the other.">
+<image mime-type="image/jpg" src="Figure_04_06_02.jpg" width="300"/>
+</media>
+
+<caption>A plasmodesma is a channel between the cell walls of two adjacent plant cells. Plasmodesmata allow materials to pass from the cytoplasm of one plant cell to the cytoplasm of an adjacent cell.</caption></figure></section>
+<section id="fs-id1744740">
+<title>Tight Junctions</title>
+<para id="fs-id1754058">A <term>tight junction</term> is a watertight seal between two adjacent animal cells (<link target-id="fig-ch04-06-03" document=""/>). The cells are held tightly against each other by proteins (predominantly two proteins called claudins and occludins).</para><figure id="fig-ch04-06-03"><media id="fs-id1672751" alt="This illustration shows two cell membranes joined together by a matrix of tight junctions.">
+<image mime-type="image/jpg" src="Figure_04_06_03.jpg" width="300"/>
+</media>
+
+<caption>Tight junctions form watertight connections between adjacent animal cells. Proteins create tight junction adherence. (credit: modification of work by Mariana Ruiz Villareal)</caption></figure><para id="fs-id1616827">This tight adherence prevents materials from leaking between the cells; tight junctions are typically found in epithelial tissues that line internal organs and cavities, and comprise most of the skin. For example, the tight junctions of the epithelial cells lining your urinary bladder prevent urine from leaking out into the extracellular space.</para>
+</section>
+<section id="fs-id1443008">
+<title>Desmosomes</title>
+<para id="fs-id1209961">Also found only in animal cells are <term>desmosomes</term>, which act like spot welds between adjacent epithelial cells (<link target-id="fig-ch04-06-04" document=""/>). Short proteins called cadherins in the plasma membrane connect to intermediate filaments to create desmosomes. The cadherins join two adjacent cells together and maintain the cells in a sheet-like formation in organs and tissues that stretch, like the skin, heart, and muscles.</para>
+<figure id="fig-ch04-06-04"><media id="fs-id1662170" alt="This illustration shows two cells fused together by a desmosome. Cadherins extend from each cell and join the two cells together. Intermediate filaments connect to cadherins on the inside of the cell.">
+<image mime-type="image/jpg" src="Figure_04_06_04.jpg" width="300"/>
+</media>
+
+<caption>A desmosome forms a very strong spot weld between cells. It is created by the linkage of cadherins and intermediate filaments. (credit: modification of work by Mariana Ruiz Villareal)</caption></figure></section>
+<section id="fs-id1676239">
+<title>Gap Junctions</title>
+<para id="fs-id1688936"><term>Gap junctions</term> in animal cells are like plasmodesmata in plant cells in that they are channels between adjacent cells that allow for the transport of ions, nutrients, and other substances that enable cells to communicate (<link target-id="fig-ch04-06-05" document=""/>). Structurally, however, gap junctions and plasmodesmata differ.</para>
+<figure id="fig-ch04-06-05"><media id="fs-id1603907" alt="This illustration shows two cells joined together with protein pores called gap junctions that allow water and small molecules to pass through.">
+<image mime-type="image/jpg" src="Figure_04_06_05.jpg" width="300"/>
+</media>
+
+<caption>A gap junction is a protein-lined pore that allows water and small molecules to pass between adjacent animal cells. (credit: modification of work by Mariana Ruiz Villareal)</caption></figure><para id="fs-id801287">Gap junctions develop when a set of six proteins (called connexins) in the plasma membrane arrange themselves in an elongated donut-like configuration called a connexon. When the pores (&#8220;doughnut holes&#8221;) of connexons in adjacent animal cells align, a channel between the two cells forms. Gap junctions are particularly important in cardiac muscle: The electrical signal for the muscle to contract is passed efficiently through gap junctions, allowing the heart muscle cells to contract in tandem.</para><note id="fs-id1870043" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-id1450230" alt="QR Code representing a URL">
+<image mime-type="image/png" src="microscopy_lab.png" width="130"/>
+</media>
+<para id="fs-id1961754">To conduct a virtual microscopy lab and review the parts of a cell, work through the steps of this <link window="new" url="http://openstaxcollege.org/l/microscopy_lab">interactive assignment</link>.</para>
+</note></section>
+</section>
+<section id="fs-id1886153" class="summary">
+<title>Section Summary</title><para id="fs-id1429783">Animal cells communicate via their extracellular matrices and are connected to each other via tight junctions, desmosomes, and gap junctions. Plant cells are connected and communicate with each other via plasmodesmata.</para>
+<para id="fs-id1969992">When protein receptors on the surface of the plasma membrane of an animal cell bind to a substance in the extracellular matrix, a chain of reactions begins that changes activities taking place within the cell. Plasmodesmata are channels between adjacent plant cells, while gap junctions are channels between adjacent animal cells. However, their structures are quite different. A tight junction is a watertight seal between two adjacent cells, while a desmosome acts like a spot weld.</para>
+</section>
+<section id="fs-id1856727" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-id1722302"><problem id="fs-id2075248">
+<para id="fs-id1700216">Which of the following are found only in plant cells?</para>
+<list id="fs-id1886559" list-type="enumerated" number-style="lower-alpha">
+<item>gap junctions</item>
+<item>desmosomes</item>
+<item>plasmodesmata</item>
+<item>tight junctions</item>
+</list>
+</problem>
+<solution id="fs-id1801180">
+<label/>
+<para id="fs-id1488339">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1434588"><problem id="fs-id1772330">
+<para id="fs-id1893306">The key components of desmosomes are cadherins and __________.</para><list id="fs-id1391215" list-type="enumerated" number-style="lower-alpha">
+<item>actin</item>
+<item>microfilaments</item>
+<item>intermediate filaments</item>
+<item>microtubules</item>
+</list>
+</problem>
+<solution id="fs-id901243">
+<label/>
+<para id="fs-id2056365">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1527859" class="free-response">
+<title>Free Response</title><exercise id="fs-id1725733">
+<problem id="fs-id1168471"><para id="fs-id1953479">How does the structure of a plasmodesma differ from that of a gap junction?</para></problem>
+<solution id="fs-id1775312"><label/>
+<para id="fs-id1684948">They differ because plant cell walls are rigid. Plasmodesmata, which a plant cell needs for transportation and communication, are able to allow movement of really large molecules. Gap junctions are necessary in animal cells for transportation and communication.</para></solution>
+</exercise>
+<exercise id="fs-id1731390">
+<problem id="fs-id1727097"><para id="fs-id1857320">Explain how the extracellular matrix functions. </para></problem>
+<solution id="fs-id1810085"><label/>
+<para id="fs-id1411738">The extracellular matrix functions in support and attachment for animal tissues. It also functions in the healing and growth of the tissue.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-id1699690"><term>desmosome</term> <meaning id="fs-id1769608">linkages between adjacent epithelial cells that form when cadherins in the plasma membrane attach to intermediate filaments</meaning></definition>
+<definition id="fs-id1994591"><term>extracellular matrix</term> <meaning id="fs-id1967794">material (primarily collagen, glycoproteins, and proteoglycans) secreted from animal cells that provides mechanical protection and anchoring for the cells in the tissue</meaning></definition>
+<definition id="fs-id1615594"><term>gap junction</term> <meaning id="fs-id1857226">channel between two adjacent animal cells that allows ions, nutrients, and low molecular weight substances to pass between cells, enabling the cells to communicate</meaning></definition>
+<definition id="fs-id1758285"><term>plasmodesma</term> <meaning id="fs-id1652201">(plural = plasmodesmata) channel that passes between the cell walls of adjacent plant cells, connects their cytoplasm, and allows materials to be transported from cell to cell</meaning></definition>
+<definition id="fs-id1709557"><term>tight junction</term> <meaning id="fs-id2219685">firm seal between two adjacent animal cells created by protein adherence</meaning></definition>
+</glossary>
+</document>

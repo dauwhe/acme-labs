@@ -1,0 +1,190 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Human Population Growth</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44875/latest/</md:content-url>
+  <md:content-id>m44875</md:content-id>
+  <md:title>Human Population Growth</md:title>
+  <md:version>1.4</md:version>
+  <md:created>2012/08/23 16:33:01 -0500</md:created>
+  <md:revised>2013/06/21 10:43:34.818 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>age structure</md:keyword>
+    <md:keyword>human carrying capacity</md:keyword>
+    <md:keyword>human population</md:keyword>
+    <md:keyword>human population growth</md:keyword>
+    <md:keyword>one-child policy</md:keyword>
+    <md:keyword>overpopulation</md:keyword>
+    <md:keyword>population ecology</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Discuss how human population growth can be exponential</item>
+<item>Explain how humans have expanded the carrying capacity of their habitat</item>
+<item>Relate population growth and age structure to the level of economic development in different countries</item>
+<item>Discuss the long-term implications of unchecked human population growth</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idm225979904">Concepts of animal population dynamics can be applied to human population growth. Humans are not unique in their ability to alter their environment. For example, beaver dams alter the stream environment where they are built. Humans, however, have the ability to alter their environment to increase its carrying capacity sometimes to the detriment of other species (e.g., via artificial selection for crops that have a higher yield). Earth&#8217;s human population is growing rapidly, to the extent that some worry about the ability of the earth&#8217;s environment to sustain this population, as long-term exponential growth carries the potential risks of famine, disease, and large-scale death.</para>
+<para id="fs-idm113119328">Although humans have increased the carrying capacity of their environment, the technologies used to achieve this transformation have caused unprecedented changes to Earth&#8217;s environment, altering ecosystems to the point where some may be in danger of collapse. The depletion of the ozone layer, erosion due to acid rain, and damage from global climate change are caused by human activities. The ultimate effect of these changes on our carrying capacity is unknown. As some point out, it is likely that the negative effects of increasing carrying capacity will outweigh the positive ones&#8212;the carrying capacity of the world for human beings might actually decrease.</para>
+<para id="fs-idm73293856">The world&#8217;s human population is currently experiencing exponential growth even though human reproduction is far below its biotic potential (<link target-id="fig-ch45_05_01" document=""/>). To reach its biotic potential, all females would have to become pregnant every nine months or so during their reproductive years. Also, resources would have to be such that the environment would support such growth. Neither of these two conditions exists. In spite of this fact, human population is still growing exponentially.</para>
+<figure id="fig-ch45_05_01" class=" ">
+<media id="fs-idm192483984" alt="Graph plots the world population growth from 1000 AD to the present. The curve starts out flat, and then becomes increasingly steep. A sharp increase in population occurs around 1900. In 1000 AD the population was around 265 million. In 2000 it was around 6 billion. Populations of various parts of the world are also plotted, including Africa, Asia, Europe, Latin America, North America, and Oceania. With the exception of Europe, the change in population in each region is similar to the change in world population. In Europe, the population is now stagnant.">
+<image mime-type="image/jpg" src="Figure_45_05_01.jpg" width="420"/>
+</media>
+<caption>Human population growth since 1000 AD is exponential (dark blue line). Notice that while the population in Asia (yellow line), which has many economically underdeveloped countries, is increasing exponentially, the population in Europe (light blue line), where most of the countries are economically developed, is growing much more slowly.</caption></figure><para id="fs-idm207085984">A consequence of exponential human population growth is the time that it takes to add a particular number of humans to the Earth is becoming shorter. <link target-id="fig-ch45_05_02" document=""/> shows that 123 years were necessary to add 1 billion humans in 1930, but it only took 24 years to add two billion people between 1975 and 1999. As already discussed, at some point it would appear that our ability to increase our carrying capacity indefinitely on a finite world is uncertain. Without new technological advances, the human growth rate has been predicted to slow in the coming decades. However, the population will still be increasing and the threat of overpopulation remains.</para>
+<figure id="fig-ch45_05_02" class=" "><media id="fs-idm321938736" alt="Bar graph shows the number of years it has taken to add each billion people to the world population. By 1800, there were about a billion people on Earth. It took 123 years, until 1930, for the number to reach two million. Thirty-three years later, in 1960, the number reached three billion, and 15 years after that, in 1975, the number reached four billion. The population reached five billion in 1987, and six billion in 1999, each twelve years apart. Currently, the world population is nearly seven billion. The population is projected to reach 8 billion in 2028, and 9 billion in 2054.">
+<image mime-type="image/jpg" src="Figure_45_05_02.jpg" width="480"/>
+</media>
+<caption>The time between the addition of each billion human beings to Earth decreases over time. (credit: modification of work by Ryan T. Cragun)</caption></figure><note id="fs-idm193273792" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idm101125824" alt="QR Code representing a URL">
+<image mime-type="image/png" src="human_growth.png" width="120"/>
+</media>
+<para id="fs-idm170042208">Click through this <link window="new" url="http://openstaxcollege.org/l/human_growth">interactive view</link> of how human populations have changed over time.</para>
+</note><section id="fs-idm266897680">
+<title>Overcoming Density-Dependent Regulation</title>
+<para id="fs-idm255714304">Humans are unique in their ability to alter their environment with the conscious purpose of increasing its carrying capacity. This ability is a major factor responsible for human population growth and a way of overcoming density-dependent growth regulation. Much of this ability is related to human intelligence, society, and communication. Humans can construct shelter to protect them from the elements and have developed agriculture and domesticated animals to increase their food supplies. In addition, humans use language to communicate this technology to new generations, allowing them to improve upon previous accomplishments.</para>
+<para id="fs-idm171579728">Other factors in human population growth are migration and public health. Humans originated in Africa, but have since migrated to nearly all inhabitable land on the Earth. Public health, sanitation, and the use of antibiotics and vaccines have decreased the ability of infectious disease to limit human population growth. In the past, diseases such as the bubonic plaque of the fourteenth century killed between 30 and 60 percent of Europe&#8217;s population and reduced the overall world population by as many as 100 million people. Today, the threat of infectious disease, while not gone, is certainly less severe. According to the World Health Organization, global death from infectious disease declined from 16.4 million in 1993 to 14.7 million in 1992. To compare to some of the epidemics of the past, the percentage of the world's population killed between 1993 and 2002 decreased from 0.30 percent of the world's population to 0.24 percent. Thus, it appears that the influence of infectious disease on human population growth is becoming less significant.</para></section>
+<section id="fs-idm64129744">
+<title>Age Structure, Population Growth, and Economic Development</title>
+<para id="fs-idm247819424">The age structure of a population is an important factor in population dynamics. <term>Age structure</term> is the proportion of a population at different age ranges. Age structure allows better prediction of population growth, plus the ability to associate this growth with the level of economic development in the region. Countries with rapid growth have a pyramidal shape in their age structure diagrams, showing a preponderance of younger individuals, many of whom are of reproductive age or will be soon (<link target-id="fig-ch45_05_03" document=""/>). This pattern is most often observed in underdeveloped countries where individuals do not live to old age because of less-than-optimal living conditions. Age structures of areas with slow growth, including developed countries such as the United States, still have a pyramidal structure, but with many fewer young and reproductive-aged individuals and a greater proportion of older individuals. Other developed countries, such as Italy, have zero population growth. The age structure of these populations is more conical, with an even greater percentage of middle-aged and older individuals. The actual growth rates in different countries are shown in <link target-id="fig-ch45_05_04" document=""/>, with the highest rates tending to be in the less economically developed countries of Africa and Asia.</para>
+<note id="fs-idm172422800" class="art-connection"><label/><title>Art Connection</title>
+<para id="eip-idm75855568">
+<figure id="fig-ch45_05_03" class=" ">
+<media id="fs-idm253971152" alt="For the four different age structure diagrams shown, the base represents birth and the apex occurs around age 70. The age structure diagram for stage 1, rapid growth, is shaped like a deflated triangle that starts out wide at the base and rapidly decreases to a narrow apex, indicating that the number of individuals decreases rapidly with age. The age structure diagram for stage 2, slow growth, is triangular in shape, indicating that the number of individuals decreases steadily with age. The age structure diagram for stage 3, stable growth, is rounded at the top, indicating that the number of individuals per age group decreases gradually at first, then increases for the older portion of the population. The final age structure diagram, stage 4, widens from the base to middle age, and then narrows to a rounded top. The population type indicated by this diagram is not given, as this is part of the art connection question.">
+<image mime-type="image/png" src="Figure_45_05_03.png" width="500"/>
+</media>
+<caption>Typical age structure diagrams are shown. The rapid growth diagram narrows to a point, indicating that the number of individuals decreases rapidly with age. In the slow growth model, the number of individuals decreases steadily with age. Stable population diagrams are rounded on the top, showing that the number of individuals per age group decreases gradually, and then increases for the older part of the population.</caption>
+</figure></para>
+<para id="fs-idm177573392">Age structure diagrams for rapidly growing, slow growing and stable populations are shown in stages 1 through 3. What type of population change do you think stage 4 represents?</para>
+<!--<para><link target-id="fig-ch45_05_03" document=""/>Stage 4 represents a population that is decreasing.</para>-->
+</note><figure id="fig-ch45_05_04" class=" ">
+<media id="fs-idm278179984" alt="Percent population growth, which ranges from zero percent to three plus percent, is shown on a world map. Europe, Northern Asia, Greenland and South Africa are experiencing zero percent population growth. The United States, Canada, the southern part of South America, China, and Australia are experiencing zero to one percent population growth. Mexico, the northern part of South America, and parts of Africa, the Middle East and Asia are experiencing one percent population growth. Most of Africa and parts of the Middle East and Asia are experiencing two percent population growth. Some parts of Africa are experiencing three percent population growth.">
+<image mime-type="image/jpg" src="Figure_45_05_04.jpg" width="550"/>
+</media>
+<caption>The percent growth rate of population in different countries is shown. Notice that the highest growth is occurring in less economically developed countries in Africa and Asia.</caption>
+</figure>
+</section>
+<section id="fs-idm312151728">
+<title>Long-Term Consequences of Exponential Human Population Growth</title>
+<para id="fs-idm83769584">Many dire predictions have been made about the world&#8217;s population leading to a major crisis called the &#8220;population explosion.&#8221; In the 1968 book <emphasis effect="italics">The Population Bomb</emphasis>, biologist Dr. Paul R. Ehrlich wrote, &#8220;The battle to feed all of humanity is over. In the 1970s hundreds of millions of people will starve to death in spite of any crash programs embarked upon now. At this late date nothing can prevent a substantial increase in the world death rate.&#8221;<sup><footnote id="fs-idm181607600">Paul R. Erlich, prologue to <emphasis effect="italics">The Population Bomb</emphasis>, (1968; repr., New York: Ballantine, 1970).</footnote></sup> While many critics view this statement as an exaggeration, the laws of exponential population growth are still in effect, and unchecked human population growth cannot continue indefinitely.</para>
+<para id="fs-idm166953840">Efforts to control population growth led to the <term>one-child policy</term> in China, which used to include more severe consequences, but now imposes fines on urban couples who have more than one child. Due to the fact that some couples wish to have a male heir, many Chinese couples continue to have more than one child. The policy itself, its social impacts, and the effectiveness of limiting overall population growth are controversial. In spite of population control policies, the human population continues to grow. At some point the food supply may run out because of the subsequent need to produce more and more food to feed our population. The United Nations estimates that future world population growth may vary from 6 billion (a decrease) to 16 billion people by the year 2100. There is no way to know whether human population growth will moderate to the point where the crisis described by Dr. Ehrlich will be averted.</para><para id="fs-idm270377024">Another result of population growth is the endangerment of the natural environment. Many countries have attempted to reduce the human impact on climate change by reducing their emission of the greenhouse gas carbon dioxide. However, these treaties have not been ratified by every country, and many underdeveloped countries trying to improve their economic condition may be less likely to agree with such provisions if it means slower economic development. Furthermore, the role of human activity in causing climate change has become a hotly debated socio-political issue in some developed countries, including the United States. Thus, we enter the future with considerable uncertainty about our ability to curb human population growth and protect our environment.</para>
+<note id="fs-idm282692480" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idm10075776" alt="QR Code representing a URL">
+<image mime-type="image/png" src="populations.png" width="120"/>
+</media>
+<para id="fs-idm286955264">Visit this <link window="new" url="http://openstaxcollege.org/l/populations">website</link> and select &#8220;Launch movie&#8221; for an animation discussing the global impacts of human population growth.</para>
+</note></section>
+<section id="fs-idm322306688" class="summary">
+<title>Section Summary</title><para id="fs-idm48316864">The world&#8217;s human population is growing at an exponential rate. Humans have increased the world&#8217;s carrying capacity through migration, agriculture, medical advances, and communication. The age structure of a population allows us to predict population growth. Unchecked human population growth could have dire long-term effects on our environment.</para>
+</section>
+<section id="fs-idm260021920" class="art-exercise"><title>Art Connections</title><exercise id="fs-idm238521552">
+<problem id="fs-idm243496608">
+<para id="fs-idm229707344"><link target-id="fig-ch45_05_03" document=""/> Age structure diagrams for rapidly growing, slow growing and stable populations are shown in stages 1 through 3. What type of population change do you think stage 4 represents?</para>
+</problem>
+<solution id="fs-idm318355776">
+<label/>
+<para id="fs-idp11626656"><link target-id="fig-ch45_05_03" document=""/> Stage 4 represents a population that is decreasing.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp45091728" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm142904224">
+<problem id="fs-idm247638928"><para id="fs-idm284143776">A country with zero population growth is likely to be ________.</para>
+<list id="fs-idm166640624" list-type="enumerated" number-style="lower-alpha">
+<item>in Africa</item>
+<item>in Asia</item>
+<item>economically developed</item>
+<item>economically underdeveloped</item>
+</list>
+</problem>
+<solution id="fs-idm117912512">
+<label/>
+<para id="fs-idm106408288">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm80509840">
+<problem id="fs-idm227195552"><para id="fs-idm260977200">Which type of country has the greatest proportion of young individuals?</para>
+<list id="fs-idm246497888" list-type="enumerated" number-style="lower-alpha">
+<item>economically developed</item>
+<item>economically underdeveloped</item>
+<item>countries with zero population growth</item>
+<item>countries in Europe</item>
+</list>
+</problem>
+<solution id="fs-idm177191360">
+<label/>
+<para id="fs-idm184536976">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm205371408">
+<problem id="fs-idm190553264"><para id="fs-idm202120224">Which of the following is not a way that humans have increased the carrying capacity of the environment?</para>
+<list id="fs-idm182718768" list-type="enumerated" number-style="lower-alpha">
+<item>agriculture</item>
+<item>using large amounts of natural resources</item>
+<item>domestication of animals</item>
+<item>use of language</item>
+</list>
+</problem>
+<solution id="fs-idm155693104">
+<label/>
+<para id="fs-idm51031424">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm251419168" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm271075408">
+<problem id="fs-idm204566688"><para id="fs-idm255782032">Describe the age structures in rapidly growing countries, slowly growing countries, and countries with zero population growth.</para></problem>
+<solution id="fs-idm205374320">
+<label/>
+<para id="fs-idm242589536">Rapidly growing countries have a large segment of the population at a reproductive age or younger. Slower growing populations have a lower percentage of these individuals, and countries with zero population growth have an even lower percentage. On the other hand, a high proportion of older individuals is seen mostly in countries with zero growth, and a low proportion is most common in rapidly growing countries.</para></solution></exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm165078720"><term>age structure</term> <meaning id="fs-idm209565056">proportion of population members at specific age ranges</meaning></definition>
+<definition id="fs-idm329491296"><term>one-child policy</term> <meaning id="fs-idm159772336">China&#8217;s policy to limit population growth by limiting urban couples to have only one child or face the penalty of a fine</meaning></definition>
+</glossary>
+</document>

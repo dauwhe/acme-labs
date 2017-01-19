@@ -1,0 +1,219 @@
+<?xml version="1.0"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Reproduction Methods</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml"
+          mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44836/latest/</md:content-url>
+  <md:content-id>m44836</md:content-id>
+  <md:title>Reproduction Methods</md:title>
+  <md:version>1.3</md:version>
+  <md:created>2012/08/23 16:01:11 -0500</md:created>
+  <md:revised>2013/04/10 15:18:05.251 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/" />
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>animal development</md:keyword>
+    <md:keyword>animal reproduction</md:keyword>
+    <md:keyword>asexual reproduction</md:keyword>
+    <md:keyword>binary fission</md:keyword>
+    <md:keyword>budding</md:keyword>
+    <md:keyword>fission</md:keyword>
+    <md:keyword>fragmentation</md:keyword>
+    <md:keyword>hermaphroditism</md:keyword>
+    <md:keyword>parthenogenesis</md:keyword>
+    <md:keyword>reproduction</md:keyword>
+    <md:keyword>sex determination</md:keyword>
+    <md:keyword>sexual reproduction</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe advantages and disadvantages of asexual and sexual reproduction</item>
+<item>Discuss asexual reproduction methods</item>
+<item>Discuss sexual reproduction methods</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idm36503616">Animals produce offspring through asexual and/or sexual reproduction. Both methods have advantages and disadvantages. <term>Asexual reproduction</term> produces offspring that are genetically identical to the parent because the offspring are all clones of the original parent. A single individual can produce offspring asexually and large numbers of offspring can be produced quickly. In a stable or predictable environment, asexual reproduction is an effective means of reproduction because all the offspring will be adapted to that environment. In an unstable or unpredictable environment asexually-reproducing species may be at a disadvantage because all the offspring are genetically identical and may not have the genetic variation to survive in new or different conditions. On the other hand, the rapid rates of asexual reproduction may allow for a speedy response to environmental changes if individuals have mutations. An additional advantage of asexual reproduction is that colonization of new habitats may be easier when an individual does not need to find a mate to reproduce.</para>
+<para id="fs-idp65336640">During <term>sexual reproduction</term> the genetic material of two individuals is combined to produce genetically diverse offspring that differ from their parents. The genetic diversity of sexually produced offspring is thought to give species a better chance of surviving in an unpredictable or changing environment. Species that reproduce sexually must maintain two different types of individuals, males and females, which can limit the ability to colonize new habitats as both sexes must be present.</para>
+<section id="fs-idp21704432">
+<title>Asexual Reproduction</title>
+<para id="fs-idm55969744">Asexual reproduction occurs in prokaryotic microorganisms (bacteria) and in some eukaryotic single-celled and multi-celled organisms. There are a number of ways that animals reproduce asexually.</para>
+<section id="fs-idp60153344">
+<title>Fission</title>
+<para id="fs-idm171341232"><term>Fission</term>, also called binary fission, occurs in prokaryotic microorganisms and in some invertebrate, multi-celled organisms. After a period of growth, an organism splits into two separate organisms. Some unicellular eukaryotic organisms undergo binary fission by mitosis. In other organisms, part of the individual separates and forms a second individual. This process occurs, for example, in many asteroid echinoderms through splitting of the central disk. Some sea anemones and some coral polyps (<link target-id="fig-ch43_01_01" document=""/>) also reproduce through fission.</para>
+<figure id="fig-ch43_01_01" class=" "><media id="fs-idp57018736" alt=" Image shows many coral polyps clustered together. Each Polyp is cup-shaped, with tentacles radiating out from the rim.">
+<image mime-type="image/jpg" src="Figure_43_01_01.jpg" width="350"/>
+</media>
+<caption>Coral polyps reproduce asexually by fission. (credit: G. P. Schmahl, NOAA FGBNMS Manager)</caption></figure></section>
+<section id="fs-idm9950144">
+<title>Budding</title>
+<para id="fs-idm53617040"><term>Budding</term> is a form of asexual reproduction that results from the outgrowth of a part of a cell or body region leading to a separation from the original organism into two individuals. Budding occurs commonly in some invertebrate animals such as corals and hydras. In hydras, a bud forms that develops into an adult and breaks away from the main body, as illustrated in <link target-id="fig-ch43_01_02" document=""/>, whereas in coral budding, the bud does not detach and multiplies as part of a new colony.</para>
+<figure id="fig-ch43_01_02" class=" "><media id="fs-idm63268128" alt="Illustration shows a hydra, which has a stalk-like body with tentacles growing out the top. A smaller hydra is budding from the side of the stalk.">
+<image mime-type="image/jpg" src="Figure_43_01_02.jpg" width="420"/>
+</media>
+<caption>Hydra reproduce asexually through budding.</caption></figure><note id="fs-idm32137504" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idm64613616" alt="QR Code representing a URL">
+<image mime-type="image/png" src="budding_hydra.png" width="120"/>
+</media>
+<para id="fs-idp18903712">Watch a <link window="new" url="http://openstaxcollege.org/l/budding_hydra">video</link> of a hydra budding.</para>
+</note></section>
+<section id="fs-idm3853424">
+<title>Fragmentation</title>
+<para id="fs-idm13070448"><term>Fragmentation</term> is the breaking of the body into two parts with subsequent regeneration. If the animal is capable of fragmentation, and the part is big enough, a separate individual will regrow.</para>
+<para id="fs-idm131574176">For example, in many sea stars, asexual reproduction is accomplished by fragmentation. <link target-id="fig-ch43_01_03" document=""/> illustrates a sea star for which an arm of the individual is broken off and regenerates a new sea star. Fisheries workers have been known to try to kill the sea stars eating their clam or oyster beds by cutting them in half and throwing them back into the ocean. Unfortunately for the workers, the two parts can each regenerate a new half, resulting in twice as many sea stars to prey upon the oysters and clams. Fragmentation also occurs in annelid worms, turbellarians, and poriferans.</para>
+<figure id="fig-ch43_01_03" class=" "><media id="fs-idm94374528" alt=" Illustration shows a sea star with one long arm and four very short arms.">
+<image mime-type="image/jpg" src="Figure_43_01_03.jpg" width="280"/>
+</media>
+<caption>Sea stars can reproduce through fragmentation. The large arm, a fragment from another sea star, is developing into a new individual.</caption></figure><para id="fs-idp62886880">Note that in fragmentation, there is generally a noticeable difference in the size of the individuals, whereas in fission, two individuals of approximate size are formed.</para>
+</section>
+<section id="fs-idm25326192">
+<title>Parthenogenesis</title>
+<para id="fs-idp36672416"><term>Parthenogenesis</term> is a form of asexual reproduction where an egg develops into a complete individual without being fertilized. The resulting offspring can be either haploid or diploid, depending on the process and the species. Parthenogenesis occurs in invertebrates such as water flees, rotifers, aphids, stick insects, some ants, wasps, and bees. Bees use parthenogenesis to produce haploid males (drones) and diploid females (workers). If an egg is fertilized, a queen is produced. The queen bee controls the reproduction of the hive bees to regulate the type of bee produced.</para>
+<para id="fs-idm106900496">Some vertebrate animals—such as certain reptiles, amphibians, and fish—also reproduce through parthenogenesis. Although more common in plants, parthenogenesis has been observed in animal species that were segregated by sex in terrestrial or marine zoos. Two female Komodo dragons, a hammerhead shark, and a blacktop shark have produced parthenogenic young when the females have been isolated from males.</para>
+</section>
+</section>
+<section id="fs-idm175174288">
+<title>Sexual Reproduction</title>
+<para id="fs-idm17022464">Sexual reproduction is the combination of (usually haploid) reproductive cells from two individuals to form a third (usually diploid) unique offspring. Sexual reproduction produces offspring with novel combinations of genes. This can be an adaptive advantage in unstable or unpredictable environments. As humans, we are used to thinking of animals as having two separate sexes—male and female—determined at conception. However, in the animal kingdom, there are many variations on this theme.</para>
+<section id="fs-idm166622384">
+<title>Hermaphroditism</title>
+<para id="fs-idp77043680"><term>Hermaphroditism</term> occurs in animals where one individual has both male and female reproductive parts. Invertebrates such as earthworms, slugs, tapeworms and snails, shown in <link target-id="fig-ch43_01_04" document=""/>, are often hermaphroditic. Hermaphrodites may self-fertilize or may mate with another of their species, fertilizing each other and both producing offspring. Self fertilization is common in animals that have limited mobility or are not motile, such as barnacles and clams.</para>
+<figure id="fig-ch43_01_04" class=" "><media id="fs-idp21465504" alt="Photo shows a land snail.">
+<image mime-type="image/jpg" src="Figure_43_01_04.jpg" width="320"/>
+</media>
+<caption>Many snails are hermaphrodites. When two individuals mate, they can produce up to one hundred eggs each. (credit: Assaf Shtilman)</caption></figure></section>
+</section>
+<section id="fs-idm24341056">
+<title>Sex Determination</title>
+<para id="fs-idp7715840">Mammalian sex determination is determined genetically by the presence of X and Y chromosomes. Individuals homozygous for X (XX) are female and heterozygous individuals (XY) are male. The presence of a Y chromosome causes the development of male characteristics and its absence results in female characteristics. The XY system is also found in some insects and plants.</para>
+<para id="fs-idm172007152">Avian sex determination is dependent on the presence of Z and W chromosomes. Homozygous for Z (ZZ) results in a male and heterozygous (ZW) results in a female. The W appears to be essential in determining the sex of the individual, similar to the Y chromosome in mammals. Some fish, crustaceans, insects (such as butterflies and moths), and reptiles use this system.</para>
+<para id="fs-idm72903392">The sex of some species is not determined by genetics but by some aspect of the environment. Sex determination in some crocodiles and turtles, for example, is often dependent on the temperature during critical periods of egg development. This is referred to as environmental sex determination, or more specifically as temperature-dependent sex determination. In many turtles, cooler temperatures during egg incubation produce males and warm temperatures produce females. In some crocodiles, moderate temperatures produce males and both warm and cool temperatures produce females. In some species, sex is both genetic- and temperature-dependent.</para>
+<para id="fs-idm117915392">Individuals of some species change their sex during their lives, alternating between male and female. If the individual is female first, it is termed protogyny or “first female,” if it is male first, its termed protandry or “first male.” Oysters, for example, are born male, grow, and become female and lay eggs; some oyster species change sex multiple times.</para>
+</section>
+<section id="fs-idm90372064" class="summary">
+<title>Section Summary</title><para id="fs-idp51599040">Reproduction may be asexual when one individual produces genetically identical offspring, or sexual when the genetic material from two individuals is combined to produce genetically diverse offspring. Asexual reproduction occurs through fission, budding, and fragmentation. Sexual reproduction may mean the joining of sperm and eggs within animals’ bodies or it may mean the release of sperm and eggs into the environment. An individual may be one sex, or both; it may start out as one sex and switch during its life, or it may stay male or female.</para>
+    </section>
+<section id="fs-idm40930688" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm62799008">
+<problem id="fs-idm41354768"><para id="fs-idm129380896">Which form of reproduction is thought to be best in a stable environment?</para>
+<list id="fs-idm30662576" list-type="enumerated" number-style="lower-alpha">
+<item>asexual</item>
+<item>sexual</item>
+<item>budding</item>
+<item>parthenogenesis</item>
+</list>
+</problem>
+<solution id="fs-idm29373504">
+<label/>
+<para id="fs-idm167963520">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idp65241328">
+<problem id="fs-idm52177824"><para id="fs-idm92824816">Which form of reproduction can result from damage to the original animal?</para>
+<list id="fs-idm131663616" list-type="enumerated" number-style="lower-alpha">
+<item>asexual</item>
+<item>fragmentation</item>
+<item>budding</item>
+<item>parthenogenesis</item>
+</list>
+</problem>
+<solution id="fs-idm65403040">
+<label/>
+<para id="fs-idm134022448">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm47940992">
+<problem id="fs-idm131435392"><para id="fs-idp37718208">Which form of reproduction is useful to an animal with little mobility that reproduces sexually?</para>
+<list id="fs-idm50435104" list-type="enumerated" number-style="lower-alpha">
+<item>fission</item>
+<item>budding</item>
+<item>parthenogenesis</item>
+<item>hermaphroditism</item>
+</list>
+</problem>
+<solution id="fs-idm85180752">
+<label/>
+<para id="fs-idm96248960">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm82695104">
+<problem id="fs-idm14787616"><para id="fs-idm50440816">Genetically unique individuals are produced through ________.</para>
+<list id="fs-idp75212768" list-type="enumerated" number-style="lower-alpha">
+<item>sexual reproduction</item>
+<item>parthenogenesis</item>
+<item>budding</item>
+<item>fragmentation</item>
+</list>
+</problem>
+<solution id="fs-idp31547920">
+<label/>
+<para id="fs-idm110129248">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm99319328" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm98334320">
+<problem id="fs-idm125571248"><para id="fs-idp48007760">Why is sexual reproduction useful if only half the animals can produce offspring and two separate cells must be combined to form a third?</para></problem>
+<solution id="fs-idm131591344"><label/>
+<para id="fs-idm18286880">Sexual reproduction produces a new combination of genes in the offspring that may better enable them to survive changes in the environment and assist in the survival of the species.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm132388848">
+<problem id="fs-idm72951504"><para id="fs-idm3893312">What determines which sex will result in offspring of birds and mammals?</para></problem>
+<solution id="fs-idm131365760"><label/>
+<para id="fs-idm129582064">The presence of the W chromosome in birds determines femaleness and the presence of the Y chromosome in mammals determines maleness. The absence of those chromosomes and the homogeneity of the offspring (ZZ or XX) leads to the development of the other sex. </para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm183746848"><term>asexual reproduction</term> <meaning id="fs-idm1918368">form of reproduction that produces offspring that are genetically identical to the parent</meaning></definition>
+<definition id="fs-idm167087216"><term>budding</term> <meaning id="fs-idm121819984">form of asexual reproduction that results from the outgrowth of a part of a cell leading to a separation from the original animal into two individuals</meaning></definition>
+<definition id="fs-idm15105120"><term>fission</term> <meaning id="fs-idm137917728">(also, binary fission) method by which multicellular organisms increase in size or asexual reproduction in which a unicellular organism splits into two separate organisms by mitosis</meaning></definition>
+<definition id="fs-idm94040896"><term>fragmentation</term> <meaning id="fs-idm38292080">cutting or fragmenting of the original animal into parts and the growth of a separate animal from each part</meaning></definition>
+<definition id="fs-idm110145440"><term>hermaphroditism</term> <meaning id="fs-idm124604176">state of having both male and female reproductive parts within the same individual</meaning></definition>
+<definition id="fs-idm171595824"><term>parthenogenesis</term> <meaning id="fs-idp73344832">form of asexual reproduction where an egg develops into a complete individual without being fertilized</meaning></definition>
+<definition id="fs-idm67464448"><term>sexual reproduction</term> <meaning id="fs-idm147939072">mixing of genetic material from two individuals to produce genetically unique offspring</meaning></definition>
+</glossary>
+</document>

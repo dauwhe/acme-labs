@@ -1,0 +1,358 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Prokaryotic Diversity</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44603/latest/</md:content-url>
+  <md:content-id>m44603</md:content-id>
+  <md:title>Prokaryotic Diversity</md:title>
+  <md:version>1.5</md:version>
+  <md:created>2012/08/23 14:20:41 +0000</md:created>
+  <md:revised>2013/10/08 11:20:02.681 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>acidophile</md:keyword>
+    <md:keyword>alkaliphile</md:keyword>
+    <md:keyword>anaerobic</md:keyword>
+    <md:keyword>ancient atmosphere</md:keyword>
+    <md:keyword>anoxic</md:keyword>
+    <md:keyword>archaea</md:keyword>
+    <md:keyword>bacteria</md:keyword>
+    <md:keyword>biofilm</md:keyword>
+    <md:keyword>cyanobacteria</md:keyword>
+    <md:keyword>Dead Sea</md:keyword>
+    <md:keyword>extremophile</md:keyword>
+    <md:keyword>halophile</md:keyword>
+    <md:keyword>hydrothermal vent</md:keyword>
+    <md:keyword>hyperthermophile</md:keyword>
+    <md:keyword>microbial mat</md:keyword>
+    <md:keyword>osmophile</md:keyword>
+    <md:keyword>phototroph</md:keyword>
+    <md:keyword>prokaryote</md:keyword>
+    <md:keyword>prokaryote evolution</md:keyword>
+    <md:keyword>prokaryotic diversity</md:keyword>
+    <md:keyword>psychrophile</md:keyword>
+    <md:keyword>radioresistant</md:keyword>
+    <md:keyword>resuscitation</md:keyword>
+    <md:keyword>stromatolite</md:keyword>
+    <md:keyword>thermophile</md:keyword>
+    <md:keyword>unculturable prokaryote</md:keyword>
+    <md:keyword>VBNC state</md:keyword>
+    <md:keyword>viable-but-non-culturable state</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the evolutionary history of prokaryotes</item>
+<item>Discuss the distinguishing features of extremophiles</item>
+<item>Explain why it is difficult to culture prokaryotes</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idm56401744">Prokaryotes are ubiquitous. They cover every imaginable surface where there is sufficient moisture, and they live on and inside of other living things. In the typical human body, prokaryotic cells outnumber human body cells by about ten to one. They comprise the majority of living things in all ecosystems. Some prokaryotes thrive in environments that are inhospitable for most living things. Prokaryotes recycle <term>nutrients</term>&#8212;essential substances (such as carbon and nitrogen)&#8212;and they drive the evolution of new ecosystems, some of which are natural and others man-made. Prokaryotes have been on Earth since long before multicellular life appeared.</para>
+<section id="fs-idm44375824">
+<title>Prokaryotes, the First Inhabitants of Earth</title>
+<para id="fs-idp49323824">When and where did life begin? What were the conditions on Earth when life began? Prokaryotes were the first forms of life on Earth, and they existed for billions of years before plants and animals appeared. The Earth and its moon are thought to be about 4.54&#160;billion years old. This estimate is based on evidence from radiometric dating of meteorite material together with other substrate material from Earth and the moon. Early Earth had a very different atmosphere (contained less molecular oxygen) than it does today and was subjected to strong radiation; thus, the first organisms would have flourished where they were more protected, such as in ocean depths or beneath the surface of the Earth. At this time too, strong volcanic activity was common on Earth, so it is likely that these first organisms&#8212;the first prokaryotes&#8212;were adapted to very high temperatures. Early Earth was prone to geological upheaval and volcanic eruption, and was subject to bombardment by mutagenic radiation from the sun. The first organisms were prokaryotes that could withstand these harsh conditions.</para>
+<section id="fs-idm32698960">
+<title>Microbial Mats</title>
+<para id="fs-idp124577456">Microbial mats or large biofilms may represent the earliest forms of life on Earth; there is fossil evidence of their presence starting about 3.5 billion years ago. A <term>microbial mat</term> is a multi-layered sheet of prokaryotes (<link target-id="fig-ch22_01_01" document=""/>) that includes mostly bacteria, but also archaea. Microbial mats are a few centimeters thick, and they typically grow where different types of materials interface, mostly on moist surfaces. The various types of prokaryotes that comprise them carry out different metabolic pathways, and that is the reason for their various colors. Prokaryotes in a microbial mat are held together by a glue-like sticky substance that they secrete called extracellular matrix.</para>
+<para id="fs-idp113571472">The first microbial mats likely obtained their energy from chemicals found near hydrothermal vents. A <term>hydrothermal vent</term> is a breakage or fissure in the Earth&#8217;s surface that releases geothermally heated water. With the evolution of photosynthesis about 3 billion years ago, some prokaryotes in microbial mats came to use a more widely available energy source&#8212;sunlight&#8212;whereas others were still dependent on chemicals from hydrothermal vents for energy and food.</para>
+<figure id="fig-ch22_01_01"><media id="fs-idp127984208" alt="The part a photo shows a reddish-yellow mound with small chimneys growing out of it. Part b micrograph shows rod-shaped bacteria about two microns long swimming over a thicker mat of bacteria.">
+<image mime-type="image/jpg" src="Figure_22_01_01.jpg" width="400"/>
+</media>
+
+<caption>This (a) microbial mat, about one meter in diameter, grows over a hydrothermal vent in the Pacific Ocean in a region known as the &#8220;Pacific Ring of Fire.&#8221; The mat helps retain microbial nutrients. Chimneys such as the one indicated by the arrow allow gases to escape. (b) In this micrograph, bacteria are visualized using fluorescence microscopy. (credit a: modification of work by Dr. Bob Embley, NOAA PMEL, Chief Scientist; credit b: modification of work by Ricardo Murga, Rodney Donlan, CDC; scale-bar data from Matt Russell)</caption></figure></section>
+<section id="fs-idp8380912">
+<title>Stromatolites</title>
+<para id="fs-idm155408">Fossilized microbial mats represent the earliest record of life on Earth. A <term>stromatolite</term> is a sedimentary structure formed when minerals are precipitated out of water by prokaryotes in a microbial mat (<link target-id="fig-ch22_01_02" document=""/>). Stromatolites form layered rocks made of carbonate or silicate. Although most stromatolites are artifacts from the past, there are places on Earth where stromatolites are still forming. For example, growing stromatolites have been found in the Anza-Borrego Desert State Park in San Diego County, California.</para><figure id="fig-ch22_01_02"><media id="fs-idp48539408" alt=" Photo A shows a mass of gray mounds in shallow water. Photo B shows a swirl patter in white and gray marbled rock.">
+<image mime-type="image/jpg" src="Figure_22_01_02ab.jpg" width="450"/>
+</media>
+
+<caption>(a) These living stromatolites are located in Shark Bay, Australia. (b) These fossilized stromatolites, found in Glacier National Park, Montana, are nearly 1.5 billion years old. (credit a: Robert Young; credit b: P. Carrara, NPS)</caption></figure></section>
+<section id="fs-idp93217520">
+<title>The Ancient Atmosphere</title>
+<para id="fs-idp8516352">Evidence indicates that during the first two billion years of Earth&#8217;s existence, the atmosphere was <term>anoxic</term>, meaning that there was no molecular oxygen. Therefore, only those organisms that can grow without oxygen&#8212;<term>anaerobic</term> organisms&#8212;were able to live. Autotrophic organisms that convert solar energy into chemical energy are called <term>phototrophs</term>, and they appeared within one billion years of the formation of Earth. Then, <term>cyanobacteria</term>, also known as blue-green algae, evolved from these simple phototrophs one billion years later. Cyanobacteria (<link target-id="fig-ch22_01_03" document=""/>) began the oxygenation of the atmosphere. Increased atmospheric oxygen allowed the development of more efficient O<sub>2</sub>-utilizing catabolic pathways. It also opened up the land to increased colonization, because some O<sub>2</sub> is converted into O<sub>3</sub> (ozone) and ozone effectively absorbs the ultraviolet light that would otherwise cause lethal mutations in DNA. Ultimately, the increase in O<sub>2</sub> concentrations allowed the evolution of other life forms.</para>
+<figure id="fig-ch22_01_03"><media id="fs-idp74005952" alt="This photo shows a woman squatting next to a stream of green-colored water.">
+<image mime-type="image/jpg" src="Figure_22_01_03.jpg" width="300"/>
+</media>
+
+<caption>This hot spring in Yellowstone National Park flows toward the foreground. Cyanobacteria in the spring are green, and as water flows down the gradient, the intensity of the color increases as cell density increases. The water is cooler at the edges of the stream than in the center, causing the edges to appear greener. (credit: Graciela Brelles-Mari&#241;o)</caption></figure></section>
+</section>
+<section id="fs-idp53367008">
+<title>Microbes Are Adaptable: Life in Moderate and Extreme Environments</title>
+<para id="fs-idp175749888">Some organisms have developed strategies that allow them to survive harsh conditions. Prokaryotes thrive in a vast array of environments: Some grow in conditions that would seem very normal to us, whereas others are able to thrive and grow under conditions that would kill a plant or animal. Almost all prokaryotes have a cell wall, a protective structure that allows them to survive in both hyper- and hypo-osmotic conditions. Some soil bacteria are able to form endospores that resist heat and drought, thereby allowing the organism to survive until favorable conditions recur. These adaptations, along with others, allow bacteria to be the most abundant life form in all terrestrial and aquatic ecosystems.</para>
+<para id="fs-idm7457472">Other bacteria and archaea are adapted to grow under extreme conditions and are called <term>extremophiles</term>, meaning &#8220;lovers of extremes.&#8221; Extremophiles have been found in all kinds of environments: the depth of the oceans, hot springs, the Artic and the Antarctic, in very dry places, deep inside Earth, in harsh chemical environments, and in high radiation environments (<link target-id="fig-ch22_01_04" document=""/>), just to mention a few. These organisms give us a better understanding of prokaryotic diversity and open up the possibility of finding new prokaryotic species that may lead to the discovery of new therapeutic drugs or have industrial applications. Because they have specialized adaptations that allow them to live in extreme conditions, many extremophiles cannot survive in moderate environments. There are many different groups of extremophiles: They are identified based on the conditions in which they grow best, and several habitats are extreme in multiple ways. For example, a soda lake is both salty and alkaline, so organisms that live in a soda lake must be both alkaliphiles and halophiles (<link target-id="tab-ch22-01-01" document=""/>). Other extremophiles, like <term>radioresistant</term> organisms, do not prefer an extreme environment (in this case, one with high levels of radiation), but have adapted to survive in it (<link target-id="fig-ch22_01_04" document=""/>).</para><table id="tab-ch22-01-01" class=" " summary=""><tgroup cols="1">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col2" align="left">Extremophiles and Their Preferred Conditions</entry>
+</row>
+<row>
+<entry>Extremophile Type</entry>
+<entry>Conditions for Optimal Growth</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Acidophiles</entry>
+<entry>pH 3 or below</entry>
+</row>
+<row>
+<entry>Alkaliphiles</entry>
+<entry>pH 9 or above</entry>
+</row>
+<row>
+<entry>Thermophiles</entry>
+<entry>Temperature 60&#8211;80 &#176;C (140&#8211;176 &#176;F)</entry>
+</row>
+<row>
+<entry>Hyperthermophiles</entry>
+<entry>Temperature 80&#8211;122 &#176;C (176&#8211;250 &#176;F)</entry>
+</row>
+<row>
+<entry>Psychrophiles</entry>
+<entry>Temperature of -15-10 &#176;C (5-50 &#176;F) or lower</entry>
+</row>
+<row>
+<entry>Halophiles</entry>
+<entry>Salt concentration of at least 0.2 M</entry>
+</row>
+<row>
+<entry>Osmophiles</entry>
+<entry>High sugar concentration</entry>
+</row>
+</tbody>
+</tgroup>
+</table><figure id="fig-ch22_01_04"><media id="fs-idp90700464" alt="This micrograph shows an oval Deinococcus about 2.5 microns in diameter cell dividing.">
+<image mime-type="image/jpg" src="Figure_22_01_04.jpg" width="250"/>
+</media>
+
+<caption><emphasis effect="italics">Deinococcus radiodurans</emphasis>, visualized in this false color transmission electron micrograph, is a prokaryote that can tolerate very high doses of ionizing radiation. It has developed DNA repair mechanisms that allow it to reconstruct its chromosome even if it has been broken into hundreds of pieces by radiation or heat. (credit: modification of work by Michael Daly; scale-bar data from Matt Russell)</caption></figure><section id="fs-idp4425040">
+<title>Prokaryotes in the Dead Sea</title>
+<para id="fs-idm38075952">One example of a very harsh environment is the Dead Sea, a hypersaline basin that is located between Jordan and Israel. Hypersaline environments are essentially concentrated seawater. In the Dead Sea, the sodium concentration is 10 times higher than that of seawater, and the water contains high levels of magnesium (about 40 times higher than in seawater) that would be toxic to most living things. Iron, calcium, and magnesium, elements that form divalent ions (Fe<sup>2+</sup>, Ca<sup>2+</sup>, and Mg<sup>2+</sup>), produce what is commonly referred to as &#8220;hard&#8221; water. Taken together, the high concentration of divalent cations, the acidic pH (6.0), and the intense solar radiation flux make the Dead Sea a unique, and uniquely hostile, ecosystem<sup><footnote id="fs-idm12844512">Bodaker, I, Itai, S, Suzuki, MT, Feingersch, R, Rosenberg, M, Maguire, ME, Shimshon, B, and others. Comparative community genomics in the Dead Sea: An increasingly extreme environment. <emphasis effect="italics">The ISME Journal</emphasis> 4 (2010): 399&#8211;407, <emphasis effect="underline">doi:10.1038/ismej.2009.141</emphasis>. published online 24 December 2009.</footnote></sup> (<link target-id="fig-ch22_01_05" document=""/>).</para><para id="fs-idp95538352">What sort of prokaryotes do we find in the Dead Sea? The extremely salt-tolerant bacterial mats include <emphasis effect="italics">Halobacterium</emphasis>, <emphasis effect="italics">Haloferax volcanii </emphasis>(which is found in other locations, not only the Dead Sea), <emphasis effect="italics">Halorubrum sodomense</emphasis>, and <emphasis effect="italics">Halobaculum gomorrense</emphasis>, and the archaea <emphasis effect="italics">Haloarcula marismortui</emphasis>, among others.</para>
+<figure id="fig-ch22_01_05"><media id="fs-idp69682400" alt="Photo A shows the Dead Sea and its accompanying brown shoreline. Micrograph B shows rod-shaped halobacteria.">
+<image mime-type="image/jpg" src="Figure_22_01_05.jpg" width="445"/>
+</media>
+
+<caption>(a) The Dead Sea is hypersaline. Nevertheless, salt-tolerant bacteria thrive in this sea. (b) These halobacteria cells can form salt-tolerant bacterial mats. (credit a: Julien Menichini; credit b: NASA; scale-bar data from Matt Russell)</caption></figure></section>
+<section id="fs-idp87185968">
+<title>Unculturable Prokaryotes and the Viable-but-Non-Culturable State</title>
+<para id="fs-idm54632880">Microbiologists typically grow prokaryotes in the laboratory using an appropriate culture medium containing all the nutrients needed by the target organism. The medium can be liquid, broth, or solid. After an incubation time at the right temperature, there should be evidence of microbial growth (<link target-id="fig-ch22_01_06" document=""/>). The process of culturing bacteria is complex and is one of the greatest discoveries of modern science. German physician Robert Koch is credited with discovering the techniques for pure culture, including staining and using growth media. His assistant Julius Petri invented the Petri dish whose use persists in today&#8217;s laboratories. Koch worked primarily with the <emphasis effect="italics">Mycobacterium tuberculosis </emphasis>bacterium that causes tuberculosis and developed postulates to identify disease-causing organisms that continue to be widely used in the medical community. Koch&#8217;s postulates include that an organism can be identified as the cause of disease when it is present in all infected samples and absent in all healthy samples, and it is able to reproduce the infection after being cultured multiple times. Today, cultures remain a primary diagnostic tool in medicine and other areas of molecular biology.</para>
+<figure id="fig-ch22_01_06"><media id="fs-idp44732304" alt="Two bacterial plates with red agar are shown. Both plates are covered with bacterial colonies. On the right plate, which contains hemolytic bacteria, the red agar has turned clear where bacteria are growing. On the left plate, which contains non-hemolytic bacteria, the agar is not clear.">
+<image mime-type="image/jpg" src="Figure_22_01_06.jpg" width="275"/>
+</media>
+
+<caption>In these agar plates, the growth medium is supplemented with red blood cells. Blood agar becomes transparent in the presence of hemolytic <emphasis effect="italics">Streptococcus</emphasis>, which destroys red blood cells and is used to diagnose <emphasis effect="italics">Streptococcus</emphasis> infections. The plate on the left is inoculated with non-hemolytic <emphasis effect="italics">Staphylococcus</emphasis> (large white colonies), and the plate on the right is inoculated with hemolytic <emphasis effect="italics">Streptococcus</emphasis> (tiny clear colonies). If you look closely at the right plate, you can see that the agar surrounding the bacteria has turned clear. (credit: Bill Branson, NCI)</caption></figure><para id="fs-idp13785936">Some prokaryotes, however, cannot grow in a laboratory setting. In fact, over 99 percent of bacteria and archaea are unculturable. For the most part, this is due to a lack of knowledge as to what to feed these organisms and how to grow them; they have special requirements for growth that remain unknown to scientists, such as needing specific micronutrients, pH, temperature, pressure, co-factors, or co-metabolites. Some bacteria cannot be cultured because they are obligate intracellular parasites and cannot be grown outside a host cell.</para>
+<para id="fs-idp7593744">In other cases, culturable organisms become unculturable under stressful conditions, even though the same organism could be cultured previously. Those organisms that cannot be cultured but are not dead are in a <term>viable-but-non-culturable</term> (VBNC) state. The VBNC state occurs when prokaryotes respond to environmental stressors by entering a dormant state that allows their survival. The criteria for entering into the VBNC state are not completely understood. In a process called <term>resuscitation</term>, the prokaryote can go back to &#8220;normal&#8221; life when environmental conditions improve.</para>
+<para id="fs-idp77042032">Is the VBNC state an unusual way of living for prokaryotes? In fact, most of the prokaryotes living in the soil or in oceanic waters are non-culturable. It has been said that only a small fraction, perhaps one percent, of prokaryotes can be cultured under laboratory conditions. If these organisms are non-culturable, then how is it known whether they are present and alive? Microbiologists use molecular techniques, such as the polymerase chain reaction (PCR), to amplify selected portions of DNA of prokaryotes, demonstrating their existence. Recall that PCR can make billions of copies of a DNA segment in a process called amplification.</para>
+</section>
+</section>
+<section id="fs-idm65900768">
+<title>The Ecology of Biofilms</title>
+<para id="fs-idp47334512">Until a couple of decades ago, microbiologists used to think of prokaryotes as isolated entities living apart. This model, however, does not reflect the true ecology of prokaryotes, most of which prefer to live in communities where they can interact. A <term>biofilm</term> is a microbial community (<link target-id="fig-ch22_01_07" document=""/>) held together in a gummy-textured matrix that consists primarily of polysaccharides secreted by the organisms, together with some proteins and nucleic acids. Biofilms grow attached to surfaces. Some of the best-studied biofilms are composed of prokaryotes, although fungal biofilms have also been described as well as some composed of a mixture of fungi and bacteria.</para>
+<para id="fs-idp47328816">Biofilms are present almost everywhere: they can cause the clogging of pipes and readily colonize surfaces in industrial settings. In recent, large-scale outbreaks of bacterial contamination of food, biofilms have played a major role. They also colonize household surfaces, such as kitchen counters, cutting boards, sinks, and toilets, as well as places on the human body, such as the surfaces of our teeth.</para>
+<para id="fs-idp56438336">Interactions among the organisms that populate a biofilm, together with their protective exopolysaccharidic (EPS) environment, make these communities more robust than free-living, or planktonic, prokaryotes. The sticky substance that holds bacteria together also excludes most antibiotics and disinfectants, making biofilm bacteria hardier than their planktonic counterparts. Overall, biofilms are very difficult to destroy because they are resistant to many common forms of sterilization.</para>
+<note id="fs-idp41872800" class="art-connection"><label/><title>Art Connection</title>
+<figure id="fig-ch22_01_07"><media id="fs-idm63863216" alt="During the first stage of biofilm development, a few bacteria adhere to a surface. During stage 2, the bacteria grow hairy appendages called pili. During stage 3, the microfilm grows into lumpy colonies. In stage 4, the microfilm grows into a more ball-like shape that is anchored to the surface by a smaller clump of bacteria. In stage 5, the ball of bacteria is larger, and bacteria with flagella swim away.">
+<image mime-type="image/jpg" src="Figure_22_01_07.png" width="350"/>
+</media>
+
+<caption>Five stages of biofilm development are shown. During stage 1, initial attachment, bacteria adhere to a solid surface via weak van der Waals interactions. During stage 2, irreversible attachment, hairlike appendages called pili permanently anchor the bacteria to the surface. During stage 3, maturation I, the biofilm grows through cell division and recruitment of other bacteria. An extracellular matrix composed primarily of polysaccharides holds the biofilm together. During stage 4, maturation II, the biofilm continues to grow and takes on a more complex shape. During stage 5, dispersal, the biofilm matrix is partly broken down, allowing some bacteria to escape and colonize another surface. Micrographs of a <emphasis effect="italics">Pseudomonas aeruginosa</emphasis> biofilm in each of the stages of development are shown. (credit: D. Davis, Don Monroe, PLoS)</caption></figure><para id="fs-idm54467616">Compared to free-floating bacteria, bacteria in biofilms often show increased resistance to antibiotics and detergents. Why do you think this might be the case?</para>
+<!--<para><link target-id="fig-ch22_01_07" document=""/>The extracellular matrix and outer layer of cells protects the inner bacteria. The close proximity of cells also facilitates lateral gene transfer, a process by which genes such as antibiotic resistance genes are transferred from one bacterium to another. And even if lateral gene transfer does not occur, one bacterium that produces an exo-enzyme that destroys antibiotic may save neighboring bacteria.</para>-->
+</note></section>
+<section id="fs-idp8588608" class="summary">
+<title>Section Summary</title><para id="fs-idp33927248">Prokaryotes existed for billions of years before plants and animals appeared. Hot springs and hydrothermal vents may have been the environments in which life began. Microbial mats are thought to represent the earliest forms of life on Earth, and there is fossil evidence of their presence about 3.5 billion years ago. A microbial mat is a multi-layered sheet of prokaryotes that grows at interfaces between different types of material, mostly on moist surfaces. During the first 2 billion years, the atmosphere was anoxic and only anaerobic organisms were able to live. Cyanobacteria evolved from early phototrophs and began the oxygenation of the atmosphere. The increase in oxygen concentration allowed the evolution of other life forms. Fossilized microbial mats are called stromatolites and consist of laminated organo-sedimentary structures formed by precipitation of minerals by prokaryotes. They represent the earliest fossil record of life on Earth.</para>
+<para id="fs-idm58504704">Bacteria and archaea grow in virtually every environment. Those that survive under extreme conditions are called extremophiles (extreme lovers). Some prokaryotes cannot grow in a laboratory setting, but they are not dead. They are in the viable-but-non-culturable (VBNC) state. The VBNC state occurs when prokaryotes enter a dormant state in response to environmental stressors. Most prokaryotes are social and prefer to live in communities where interactions take place. A biofilm is a microbial community held together in a gummy-textured matrix.</para>
+</section>
+<section id="fs-idp106894752" class="art-exercise">
+<title>Art Connections</title>
+<exercise id="fs-idp121757008">
+<problem id="fs-idm17904624"><para id="fs-idm46305888"><link target-id="fig-ch22_01_07" document=""/> Compared to free-floating bacteria, bacteria in biofilms often show increased resistance to antibiotics and detergents. Why do you think this might be the case?</para></problem>
+<solution id="fs-idm55951824">
+<label/><para id="fs-idp6650912"><link target-id="fig-ch22_01_07" document=""/> The extracellular matrix and outer layer of cells protects the inner bacteria. The close proximity of cells also facilitates lateral gene transfer, a process by which genes such as antibiotic resistance genes are transferred from one bacterium to another. And even if lateral gene transfer does not occur, one bacterium that produces an exo-enzyme that destroys antibiotic may save neighboring bacteria.</para></solution>
+</exercise>
+</section>
+<section id="fs-idm11470032" class="multiple-choice"><title>Review Questions</title><exercise id="fs-idm35076832">
+<problem id="fs-idm9440864">
+<para id="fs-idm61915328">The first forms of life on Earth were thought to be_________.</para>
+<list id="fs-idp136141168" list-type="enumerated" number-style="lower-alpha">
+<item>single-celled plants</item>
+<item>prokaryotes</item>
+<item>insects</item>
+<item>large animals such as dinosaurs</item>
+</list>
+</problem>
+<solution id="fs-idm31473056">
+<label/>
+<para id="fs-idp53807488">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idp163375200">
+<problem id="fs-idp89119760">
+<para id="fs-idm76432912">Microbial mats __________.</para>
+<list id="fs-idp45822304" list-type="enumerated" number-style="lower-alpha">
+<item>are the earliest forms of life on Earth</item>
+<item>obtained their energy and food from hydrothermal vents</item>
+<item>are multi-layered sheet of prokaryotes including mostly bacteria but also archaea</item>
+<item>all of the above</item>
+</list>
+</problem>
+<solution id="fs-idp199300304">
+<label/>
+<para id="fs-idm109335456">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idp45747584">
+<problem id="fs-idm10627728">
+<para id="fs-idm53474880">The first organisms that oxygenated the atmosphere were</para>
+<list id="fs-idp70789440" list-type="enumerated" number-style="lower-alpha">
+<item>cyanobacteria</item>
+<item>phototrophic organisms</item>
+<item>anaerobic organisms</item>
+<item>all of the above</item>
+</list>
+</problem>
+<solution id="fs-idm53472672">
+<label/>
+<para id="fs-idp85626976">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idp124475872">
+<problem id="fs-idp182088976">
+<para id="fs-idm101768448">Halophiles are organisms that require________.</para>
+<list id="fs-idp203892784" list-type="enumerated" number-style="lower-alpha">
+<item>a salt concentration of at least 0.2 M</item>
+<item>high sugar concentration</item>
+<item>the addition of halogens</item>
+<item>all of the above</item>
+</list>
+</problem>
+<solution id="fs-idp5158288">
+<label/>
+<para id="fs-idm9138656">A</para>
+</solution>
+</exercise>
+</section><section id="fs-idp11807184" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm31610768">
+<problem id="fs-idm46269632">
+<para id="fs-idp8979536">Describe briefly how you would detect the presence of a non-culturable prokaryote in an environmental sample.</para>
+</problem>
+<solution id="fs-idp44605280">
+<label/>
+<para id="fs-idp47958032">As the organisms are non-culturable, the presence could be detected through molecular techniques, such as PCR.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp90900816">
+<problem id="fs-idm131083232">
+<para id="fs-idm28479648">Why do scientists believe that the first organisms on Earth were extremophiles?</para>
+</problem>
+<solution id="fs-idp42117536">
+<label/>
+<para id="fs-idp57352512">Because the environmental conditions on Earth were extreme: high temperatures, lack of oxygen, high radiation, and the like.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idp90692480">
+<term>acidophile</term> <meaning id="fs-idm62478288">organism with optimal growth pH of three or below</meaning>
+</definition>
+<definition id="fs-idm34761360">
+<term>alkaliphile</term> <meaning id="fs-idm7183392">organism with optimal growth pH of nine or above</meaning>
+</definition>
+<definition id="fs-idp57493856">
+<term>anaerobic</term> <meaning id="fs-idm32982464">refers to organisms that grow without oxygen</meaning>
+</definition>
+<definition id="fs-idp43656064">
+<term>anoxic</term> <meaning id="fs-idm46312512">without oxygen</meaning>
+</definition>
+<definition id="fs-idm71850224">
+<term>biofilm</term> <meaning id="fs-idm65051232">microbial community that is held together by a gummy-textured matrix</meaning>
+</definition>
+<definition id="fs-idm37868688">
+<term>cyanobacteria</term> <meaning id="fs-idm34678496">bacteria that evolved from early phototrophs and oxygenated the atmosphere; also known as blue-green algae</meaning>
+</definition>
+<definition id="fs-idm10259408">
+<term>extremophile</term> <meaning id="fs-idp26045888">organism that grows under extreme or harsh conditions</meaning>
+</definition>
+<definition id="fs-idp9004336">
+<term>halophile</term> <meaning id="fs-idm38985664">organism that require a salt concentration of at least 0.2 M</meaning>
+</definition>
+<definition id="fs-idp120335200">
+<term>hydrothermal vent</term> <meaning id="fs-idp18833456">fissure in Earth&#8217;s surface that releases geothermally heated water</meaning>
+</definition>
+<definition id="fs-idp161113840">
+<term>hyperthermophile</term> <meaning id="fs-idp7542608">organism that grows at temperatures between 80&#8211;122 &#176;C</meaning>
+</definition>
+<definition id="fs-idm58465856">
+<term>microbial mat</term> <meaning id="fs-idm62511632">multi-layered sheet of prokaryotes that may include bacteria and archaea</meaning>
+</definition>
+<definition id="fs-idp39494272">
+<term>nutrient</term> <meaning id="fs-idp49619568">essential substances for growth, such as carbon and nitrogen</meaning>
+</definition>
+<definition id="fs-idm32971808">
+<term>osmophile</term> <meaning id="fs-idm82661936">organism that grows in a high sugar concentration</meaning>
+</definition>
+<definition id="fs-idm14683184">
+<term>phototroph</term> <meaning id="fs-idp45827984">organism that is able to make its own food by converting solar energy to chemical energy</meaning>
+</definition>
+<definition id="fs-idm28308592">
+<term>psychrophile</term> <meaning id="fs-idp26020224">organism that grows at temperatures of -15 &#176;C or lower</meaning>
+</definition>
+<definition id="fs-idm44262704">
+<term>radioresistant</term> <meaning id="fs-idm53388608">organism that grows in high levels of radiation</meaning>
+</definition>
+<definition id="fs-idp87506112">
+<term>resuscitation</term> <meaning id="fs-idm42431360">process by which prokaryotes that are in the VBNC state return to viability</meaning>
+</definition>
+<definition id="fs-idp13572672">
+<term>stromatolite</term> <meaning id="fs-idp22371936">layered sedimentary structure formed by precipitation of minerals by prokaryotes in microbial mats</meaning>
+</definition>
+<definition id="fs-idm28059248">
+<term>thermophile</term> <meaning id="fs-idp163372896">organism that lives at temperatures between 60&#8211;80 &#176;C</meaning>
+</definition>
+<definition id="fs-idp109625072">
+<term>viable-but-non-culturable (VBNC) state</term> <meaning id="fs-idm32757776">survival mechanism of bacteria facing environmental stress conditions</meaning>
+</definition>
+</glossary>
+</document>

@@ -1,0 +1,349 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Biogeochemical Cycles</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44889/latest/</md:content-url>
+  <md:content-id>m44889</md:content-id>
+  <md:title>Biogeochemical Cycles</md:title>
+  <md:version>1.6</md:version>
+  <md:created>2012/08/23 16:37:03 -0500</md:created>
+  <md:revised>2013/06/20 16:11:34.083 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>acid rain</md:keyword>
+    <md:keyword>biogeochemical cycle</md:keyword>
+    <md:keyword>biological carbon cycle</md:keyword>
+    <md:keyword>carbon cycle</md:keyword>
+    <md:keyword>chesapeake bay ecosystem</md:keyword>
+    <md:keyword>dead zone</md:keyword>
+    <md:keyword>ecosystem</md:keyword>
+    <md:keyword>ecosystems</md:keyword>
+    <md:keyword>eutrophication</md:keyword>
+    <md:keyword>fallout</md:keyword>
+    <md:keyword>geological carbon cycle</md:keyword>
+    <md:keyword>hydrologic cycle</md:keyword>
+    <md:keyword>nitrogen cycle</md:keyword>
+    <md:keyword>non-renewable resource</md:keyword>
+    <md:keyword>phosphorus cycle</md:keyword>
+    <md:keyword>residence time</md:keyword>
+    <md:keyword>subduction</md:keyword>
+    <md:keyword>sulfur cycle</md:keyword>
+    <md:keyword>water cycle</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Discuss the biogeochemical cycles of water, carbon, nitrogen, phosphorus, and sulfur</item>
+<item>Explain how human activities have impacted these cycles and the potential consequences for Earth</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idp142951072">Energy flows directionally through ecosystems, entering as sunlight (or inorganic molecules for chemoautotrophs) and leaving as heat during the many transfers between trophic levels. However, the matter that makes up living organisms is conserved and recycled. The six most common elements associated with organic molecules&#8212;carbon, nitrogen, hydrogen, oxygen, phosphorus, and sulfur&#8212;take a variety of chemical forms and may exist for long periods in the atmosphere, on land, in water, or beneath the Earth&#8217;s surface. Geologic processes, such as weathering, erosion, water drainage, and the subduction of the continental plates, all play a role in this recycling of materials. Because geology and chemistry have major roles in the study of this process, the recycling of inorganic matter between living organisms and their environment is called a <term>biogeochemical cycle</term>.</para>
+<para id="fs-idm48111904">Water contains hydrogen and oxygen, which is essential to all living processes. The <term>hydrosphere</term> is the area of the Earth where water movement and storage occurs: as liquid water on the surface and beneath the surface or frozen (rivers, lakes, oceans, groundwater, polar ice caps, and glaciers), and as water vapor in the atmosphere. Carbon is found in all organic macromolecules and is an important constituent of fossil fuels. Nitrogen is a major component of our nucleic acids and proteins and is critical to human agriculture. Phosphorus, a major component of nucleic acid (along with nitrogen), is one of the main ingredients in artificial fertilizers used in agriculture and their associated environmental impacts on our surface water. Sulfur, critical to the 3&#8211;D folding of proteins (as in disulfide binding), is released into the atmosphere by the burning of fossil fuels, such as coal.</para>
+<para id="fs-idp174002336">The cycling of these elements is interconnected. For example, the movement of water is critical for the leaching of nitrogen and phosphate into rivers, lakes, and oceans. Furthermore, the ocean itself is a major reservoir for carbon. Thus, mineral nutrients are cycled, either rapidly or slowly, through the entire biosphere, from one living organism to another, and between the biotic and abiotic world.</para>
+<note id="fs-idp162390960" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idp43258000" alt="QR Code representing a URL">
+<image mime-type="image/png" src="biogeochemical.png" width="120"/>
+</media>
+<para id="fs-idp110851312">Head to this <link window="new" url="http://openstaxcollege.org/l/biogeochemical">website</link> to learn more about biogeochemical cycles.</para></note><section id="fs-idm79420464">
+<title>The Water (Hydrologic) Cycle</title>
+<para id="fs-idp25629184">Water is the basis of all living processes. The human body is more than 1/2 water and human cells are more than 70 percent water. Thus, most land animals need a supply of fresh water to survive. However, when examining the stores of water on Earth, 97.5 percent of it is non-potable salt water (<link target-id="fig-ch46_03_01" document=""/>). Of the remaining water, 99 percent is locked underground as water or as ice. Thus, less than 1 percent of fresh water is easily accessible from lakes and rivers. Many living things, such as plants, animals, and fungi, are dependent on the small amount of fresh surface water supply, a lack of which can have massive effects on ecosystem dynamics. Humans, of course, have developed technologies to increase water availability, such as digging wells to harvest groundwater, storing rainwater, and using desalination to obtain drinkable water from the ocean. Although this pursuit of drinkable water has been ongoing throughout human history, the supply of fresh water is still a major issue in modern times.</para><figure id="fig-ch46_03_01" class=" "><media id="fs-idm43332768" alt=" The pie chart shows that 97.5 percent of water on Earth, or 1,365,000,000 km3, is salt water. The remaining 2.5 percent, or 35,000,000 kilometers cubed, is fresh water. Of the fresh water, 68.9 percent is frozen in glaciers or permanent snow cover. 30.8 percent is groundwater (soil moisture, swamp water, permafrost). The remaining 0.3 percent is in lakes and rivers.">
+<image mime-type="image/jpg" src="Figure_46_03_01.jpg" width="450"/>
+</media>
+<caption>Only 2.5 percent of water on Earth is fresh water, and less than 1 percent of fresh water is easily accessible to living things.</caption></figure><para id="fs-idp162394256">Water cycling is extremely important to ecosystem dynamics. Water has a major influence on climate and, thus, on the environments of ecosystems, some located on distant parts of the Earth. Most of the water on Earth is stored for long periods in the oceans, underground, and as ice. <link target-id="fig-ch46_03_02" document=""/> illustrates the average time that an individual water molecule may spend in the Earth&#8217;s major water reservoirs. <term>Residence time</term> is a measure of the average time an individual water molecule stays in a particular reservoir. A large amount of the Earth&#8217;s water is locked in place in these reservoirs as ice, beneath the ground, and in the ocean, and, thus, is unavailable for short-term cycling (only surface water can evaporate).</para>
+<figure id="fig-ch46_03_02" class=" "><media id="fs-idm48010896" alt=" Bars on the graph show the average residence time for water molecules in various reservoirs. The residence time for glaciers and permafrost is 1,000 to 10,000 years. The residence time for groundwater is 2 weeks to 10,000 years. The residence time for oceans and seas is 4,000 years. The residence time for lakes and reservoirs is 10 years. The residence time for swamps is 1 to ten years. The residence time for soil moisture is 2 weeks to 1 year. The residence time for rivers is 2 weeks. The atmospheric residence time is 1.5 weeks. The biospheric residence time, or residence time in living organisms, is 1 week.">
+<image mime-type="image/jpg" src="Figure_46_03_02.jpg" width="320"/>
+</media>
+<caption>This graph shows the average residence time for water molecules in the Earth&#8217;s water reservoirs.</caption></figure><para id="fs-idp159366672">There are various processes that occur during the cycling of water, shown in <link target-id="fig-ch46_03_03" document=""/>. These processes include the following:</para>
+<list id="fs-idp218749536" list-type="bulleted">
+    <item>evaporation/sublimation</item>
+<item>condensation/precipitation</item>
+<item>subsurface water flow</item>
+<item>surface runoff/snowmelt</item>
+<item>streamflow</item>
+</list>
+<para id="fs-idm61974128">The water cycle is driven by the sun&#8217;s energy as it warms the oceans and other surface waters. This leads to the evaporation (water to water vapor) of liquid surface water and the sublimation (ice to water vapor) of frozen water, which deposits large amounts of water vapor into the atmosphere. Over time, this water vapor condenses into clouds as liquid or frozen droplets and is eventually followed by precipitation (rain or snow), which returns water to the Earth&#8217;s surface. Rain eventually permeates into the ground, where it may evaporate again if it is near the surface, flow beneath the surface, or be stored for long periods. More easily observed is surface runoff: the flow of fresh water either from rain or melting ice. Runoff can then make its way through streams and lakes to the oceans or flow directly to the oceans themselves.</para>
+<note id="fs-idp164018416" class="interactive"><label/><title>Link to Learning</title>
+    <media id="fs-idp81588624" alt="QR Code representing a URL">
+    <image mime-type="image/png" src="freshwater.png" width="120"/>
+    </media>
+    <para id="fs-idp32127264">Head to this <link window="new" url="http://openstaxcollege.org/l/freshwater">website</link> to learn more about the world&#8217;s fresh water supply.</para>
+</note><para id="fs-idp291469728">Rain and surface runoff are major ways in which minerals, including carbon, nitrogen, phosphorus, and sulfur, are cycled from land to water. The environmental effects of runoff will be discussed later as these cycles are described.</para>
+<figure id="fig-ch46_03_03" class=" "><media id="fs-idp142671984" alt=" Illustration shows the water cycle. Water enters the atmosphere through evaporation, evapotranspiration, sublimation, and volcanic steam. Condensation in the atmosphere turns water vapor into clouds. Water from the atmosphere returns to the Earth via precipitation or desublimation. Some of this water infiltrates the ground to become groundwater. Seepage, freshwater springs, and plant uptake return some of this water to the surface. The remaining water seeps into the oceans. The remaining surface water enters streams and freshwater lakes, where it eventually enters the ocean via surface runoff. Some water also enters the ocean via underwater vents or volcanoes.">
+<image mime-type="image/jpg" src="Figure_46_03_03.jpg" width="550"/>
+</media>
+<caption>Water from the land and oceans enters the atmosphere by evaporation or sublimation, where it condenses into clouds and falls as rain or snow. Precipitated water may enter freshwater bodies or infiltrate the soil. The cycle is complete when surface or groundwater reenters the ocean. (credit: modification of work by John M. Evans and Howard Perlman, USGS)</caption></figure></section>
+<section id="fs-idp80500896">
+<title>The Carbon Cycle</title>
+<para id="fs-idp62414208">Carbon is the second most abundant element in living organisms. Carbon is present in all organic molecules, and its role in the structure of macromolecules is of primary importance to living organisms. Carbon compounds contain especially high energy, particularly those derived from fossilized organisms, mainly plants, which humans use as fuel. Since the 1800s, the number of countries using massive amounts of fossil fuels has increased. Since the beginning of the Industrial Revolution, global demand for the Earth&#8217;s limited fossil fuel supplies has risen; therefore, the amount of carbon dioxide in our atmosphere has increased. This increase in carbon dioxide has been associated with climate change and other disturbances of the Earth&#8217;s ecosystems and is a major environmental concern worldwide. Thus, the &#8220;carbon footprint&#8221; is based on how much carbon dioxide is produced and how much fossil fuel countries consume.</para>
+<para id="fs-idm112236624">The carbon cycle is most easily studied as two interconnected sub-cycles: one dealing with rapid carbon exchange among living organisms and the other dealing with the long-term cycling of carbon through geologic processes. The entire carbon cycle is shown in <link target-id="fig-ch46_03_04" document=""/>.</para>
+<figure id="fig-ch46_03_04" class=" "><media id="fs-idp118276160" alt=" The illustration shows the carbon cycle. Carbon enters the atmosphere as carbon dioxide gas that is released from human emissions, respiration and decomposition, and volcanic emissions. Carbon dioxide is removed from the atmosphere by marine and terrestrial photosynthesis. Carbon from the weathering of rocks becomes soil carbon, which over time can become fossil carbon. Carbon enters the ocean from land via leaching and runoff. Uplifting of ocean sediments can return carbon to land.">
+<image mime-type="image/jpg" src="Figure_46_03_04.jpg" width="550"/>
+</media>
+<caption>Carbon dioxide gas exists in the atmosphere and is dissolved in water. Photosynthesis converts carbon dioxide gas to organic carbon, and respiration cycles the organic carbon back into carbon dioxide gas. Long-term storage of organic carbon occurs when matter from living organisms is buried deep underground and becomes fossilized. Volcanic activity and, more recently, human emissions, bring this stored carbon back into the carbon cycle. (credit: modification of work by John M. Evans and Howard Perlman, USGS)</caption></figure><note id="fs-idp29801344" class="interactive"><label/><title>Link to Learning</title>
+    <media id="fs-idm26472192" alt="QR Code representing a URL">
+    <image mime-type="image/png" src="carbon_cycle.png" width="120"/>
+    </media>
+    <para id="fs-idp69626944">Click this <link window="new" url="http://openstaxcollege.org/l/carbon_cycle">link</link> to read information about the United States Carbon Cycle Science Program.</para>
+</note><section id="fs-idm83051616">
+<title>The Biological Carbon Cycle</title>
+<para id="fs-idm91037520">Living organisms are connected in many ways, even between ecosystems. A good example of this connection is the exchange of carbon between autotrophs and heterotrophs within and between ecosystems by way of atmospheric carbon dioxide. Carbon dioxide is the basic building block that most autotrophs use to build multi-carbon, high energy compounds, such as glucose. The energy harnessed from the sun is used by these organisms to form the covalent bonds that link carbon atoms together. These chemical bonds thereby store this energy for later use in the process of respiration. Most terrestrial autotrophs obtain their carbon dioxide directly from the atmosphere, while marine autotrophs acquire it in the dissolved form (carbonic acid, H<sub>2</sub>CO<sub>3</sub><sup>&#8722;</sup>). However carbon dioxide is acquired, a by-product of the process is oxygen. The photosynthetic organisms are responsible for depositing approximately 21 percent oxygen content of the atmosphere that we observe today.</para><para id="fs-idm59923520">Heterotrophs and autotrophs are partners in biological carbon exchange (especially the primary consumers, largely herbivores). Heterotrophs acquire the high-energy carbon compounds from the autotrophs by consuming them, and breaking them down by respiration to obtain cellular energy, such as ATP. The most efficient type of respiration, aerobic respiration, requires oxygen obtained from the atmosphere or dissolved in water. Thus, there is a constant exchange of oxygen and carbon dioxide between the autotrophs (which need the carbon) and the heterotrophs (which need the oxygen). Gas exchange through the atmosphere and water is one way that the carbon cycle connects all living organisms on Earth.</para>
+</section>
+<section id="fs-idm65455072">
+<title>The Biogeochemical Carbon Cycle</title>
+<para id="fs-idp19400016">The movement of carbon through the land, water, and air is complex, and in many cases, it occurs much more slowly geologically than as seen between living organisms. Carbon is stored for long periods in what are known as carbon reservoirs, which include the atmosphere, bodies of liquid water (mostly oceans), ocean sediment, soil, land sediments (including fossil fuels), and the Earth&#8217;s interior.</para>
+<para id="fs-idm45416784">As stated, the atmosphere is a major reservoir of carbon in the form of carbon dioxide and is essential to the process of photosynthesis. The level of carbon dioxide in the atmosphere is greatly influenced by the reservoir of carbon in the oceans. The exchange of carbon between the atmosphere and water reservoirs influences how much carbon is found in each location, and each one affects the other reciprocally. Carbon dioxide (CO<sub>2</sub>) from the atmosphere dissolves in water and combines with water molecules to form carbonic acid, and then it ionizes to carbonate and bicarbonate ions (<link target-id="fig-ch46_03_05" document=""/>)</para>
+<figure id="fig-ch46_03_05" class=" "><media id="fs-idp108340400" alt="  In step 1, atmospheric carbon dioxide dissolves in water. In step 2 dissolve carbon dioxide (CO2) reacts with water (H2O) to form carbonic acid (H2CO3). In step 3, carbonic acid dissociates into a proton (H plus) and a bicarbonate ion (HCO3 minus). In step 4 the bicarbonate ion dissociates into another proton and a carbonate ion (CO3 minus two).">
+<image mime-type="image/jpg" src="Figure_46_03_05.jpg" width="320"/>
+</media>
+<caption>Carbon dioxide reacts with water to form bicarbonate and carbonate ions.</caption></figure><para id="fs-idp47455312">The equilibrium coefficients are such that more than 90 percent of the carbon in the ocean is found as bicarbonate ions. Some of these ions combine with seawater calcium to form calcium carbonate (CaCO<sub>3</sub>), a major component of marine organism shells. These organisms eventually form sediments on the ocean floor. Over geologic time, the calcium carbonate forms limestone, which comprises the largest carbon reservoir on Earth.</para>
+<para id="fs-idp73860192">On land, carbon is stored in soil as a result of the decomposition of living organisms (by decomposers) or from weathering of terrestrial rock and minerals. This carbon can be leached into the water reservoirs by surface runoff. Deeper underground, on land and at sea, are fossil fuels: the anaerobically decomposed remains of plants that take millions of years to form. Fossil fuels are considered a non-renewable resource because their use far exceeds their rate of formation. A <term>non-renewable resource</term>, such as fossil fuel, is either regenerated very slowly or not at all. Another way for carbon to enter the atmosphere is from land (including land beneath the surface of the ocean) by the eruption of volcanoes and other geothermal systems. Carbon sediments from the ocean floor are taken deep within the Earth by the process of <term>subduction</term>: the movement of one tectonic plate beneath another. Carbon is released as carbon dioxide when a volcano erupts or from volcanic hydrothermal vents.</para>
+<para id="fs-idm8034880">Carbon dioxide is also added to the atmosphere by the animal husbandry practices of humans. The large numbers of land animals raised to feed the Earth&#8217;s growing population results in increased carbon dioxide levels in the atmosphere due to farming practices and the respiration and methane production. This is another example of how human activity indirectly affects biogeochemical cycles in a significant way. Although much of the debate about the future effects of increasing atmospheric carbon on climate change focuses on fossils fuels, scientists take natural processes, such as volcanoes and respiration, into account as they model and predict the future impact of this increase.</para>
+</section>
+</section>
+<section id="fs-idp38678912">
+<title>The Nitrogen Cycle</title>
+<para id="fs-idm83956288">Getting nitrogen into the living world is difficult. Plants and phytoplankton are not equipped to incorporate nitrogen from the atmosphere (which exists as tightly bonded, triple covalent N<sub>2</sub>) even though this molecule comprises approximately 78 percent of the atmosphere. Nitrogen enters the living world via free-living and symbiotic bacteria, which incorporate nitrogen into their macromolecules through nitrogen fixation (conversion of N<sub>2</sub>). Cyanobacteria live in most aquatic ecosystems where sunlight is present; they play a key role in nitrogen fixation. Cyanobacteria are able to use inorganic sources of nitrogen to &#8220;fix&#8221; nitrogen. <emphasis effect="italics">Rhizobium</emphasis> bacteria live symbiotically in the root nodules of legumes (such as peas, beans, and peanuts) and provide them with the organic nitrogen they need. Free-living bacteria, such as <emphasis effect="italics">Azotobacter</emphasis>, are also important nitrogen fixers.</para>
+<para id="fs-idm45498736">Organic nitrogen is especially important to the study of ecosystem dynamics since many ecosystem processes, such as primary production and decomposition, are limited by the available supply of nitrogen. As shown in <link target-id="fig-ch46_03_06" document=""/>, the nitrogen that enters living systems by nitrogen fixation is successively converted from organic nitrogen back into nitrogen gas by bacteria. This process occurs in three steps in terrestrial systems: ammonification, nitrification, and denitrification. First, the ammonification process converts nitrogenous waste from living animals or from the remains of dead animals into ammonium (NH<sub>4</sub><sup>+</sup>) by certain bacteria and fungi. Second, the ammonium is converted to nitrites (NO<sub>2</sub><sup>&#8722;</sup>) by nitrifying bacteria, such as <emphasis effect="italics">Nitrosomonas</emphasis>, through nitrification. Subsequently, nitrites are converted to nitrates (NO<sub>3</sub><sup>&#8722;</sup>) by similar organisms. Third, the process of denitrification occurs, whereby bacteria, such as <emphasis effect="italics">Pseudomonas</emphasis> and <emphasis effect="italics">Clostridium</emphasis>, convert the nitrates into nitrogen gas, allowing it to re-enter the atmosphere.</para><note id="fs-idp41120944" class="art-connection"><label/><title>Art Connection</title>
+<figure id="fig-ch46_03_06" class=" ">
+<media id="fs-idm46827520" alt=" This illustration shows the nitrogen cycle. Nitrogen gas from the atmosphere is fixed into organic nitrogen by nitrogen-fixing bacteria. This organic nitrogen enters terrestrial food webs, and it leaves the food webs as nitrogenous wastes in the soil. Ammonification of this nitrogenous waste by bacteria and fungi in the soil converts the organic nitrogen to ammonium ion (NH4 plus). Ammonium is converted to nitrite (NO2 minus), then to nitrate (NO3 minus) by nitrifying bacteria. Denitrifying bacteria convert the nitrate back into nitrogen gas, which re-enters the atmosphere. Nitrogen from runoff and fertilizers enters the ocean, where it enters marine food webs. Some organic nitrogen falls to the ocean floor as sediment. Other organic nitrogen in the ocean is converted to nitrite and nitrate ions, which is then converted to nitrogen gas in a process analogous to the one that occurs on land.">
+<image mime-type="image/png" src="Figure_46_03_06.png" width="550"/>
+</media>
+<caption>Nitrogen enters the living world from the atmosphere via nitrogen-fixing bacteria. This nitrogen and nitrogenous waste from animals is then processed back into gaseous nitrogen by soil bacteria, which also supply terrestrial food webs with the organic nitrogen they need. (credit: modification of work by John M. Evans and Howard Perlman, USGS)</caption></figure>
+<para id="fs-idm91070416">Which of the following statements about the nitrogen cycle is false?</para>
+<list id="fs-idm26022256" list-type="enumerated" number-style="lower-alpha"><item>Ammonification converts organic nitrogenous matter from living organisms into ammonium (NH<sub>4</sub><sup>+</sup>).</item>
+<item>Denitrification by bacteria converts nitrates (NO<sub>3</sub><sup>&#8722;</sup>) to nitrogen gas (N<sub>2</sub>).</item>
+<item>Nitrification by bacteria converts nitrates (NO<sub>3</sub><sup>&#8722;</sup>) to nitrites (NO<sub>2</sub><sup>&#8722;</sup>).</item>
+<item>Nitrogen fixing bacteria convert nitrogen gas (N<sub>2</sub>) into organic compounds.</item>
+</list><!--<para><link target-id="fig-ch46_03_05" document=""/>C</para>-->
+</note><para id="fs-idp46185872">Human activity can release nitrogen into the environment by two primary means: the combustion of fossil fuels, which releases different nitrogen oxides, and by the use of artificial fertilizers in agriculture, which are then washed into lakes, streams, and rivers by surface runoff. Atmospheric nitrogen is associated with several effects on Earth&#8217;s ecosystems including the production of acid rain (as nitric acid, HNO<sub>3</sub>) and greenhouse gas (as nitrous oxide, N<sub>2</sub>O) potentially causing climate change. A major effect from fertilizer runoff is saltwater and freshwater <term>eutrophication</term>, a process whereby nutrient runoff causes the excess growth of microorganisms, depleting dissolved oxygen levels and killing ecosystem fauna.</para>
+<para id="fs-idp126368896">A similar process occurs in the marine nitrogen cycle, where the ammonification, nitrification, and denitrification processes are performed by marine bacteria. Some of this nitrogen falls to the ocean floor as sediment, which can then be moved to land in geologic time by uplift of the Earth&#8217;s surface and thereby incorporated into terrestrial rock. Although the movement of nitrogen from rock directly into living systems has been traditionally seen as insignificant compared with nitrogen fixed from the atmosphere, a recent study showed that this process may indeed be significant and should be included in any study of the global nitrogen cycle.<sup><footnote id="fs-idp73938800">Scott L. Morford, Benjamin Z. Houlton, and Randy A. Dahlgren, &#8220;Increased Forest Ecosystem Carbon and Nitrogen Storage from Nitrogen Rich Bedrock,&#8221; <emphasis effect="italics">Nature</emphasis> 477, no. 7362 (2011): 78&#8211;81.</footnote></sup></para>
+</section>
+<section id="fs-idp180651136">
+<title>The Phosphorus Cycle</title>
+<para id="fs-idp224688">Phosphorus is an essential nutrient for living processes; it is a major component of nucleic acid and phospholipids, and, as calcium phosphate, makes up the supportive components of our bones. Phosphorus is often the limiting nutrient (necessary for growth) in aquatic ecosystems (<link target-id="fig-ch46_03_07" document=""/>).</para>
+<para id="fs-idm44212480">Phosphorus occurs in nature as the phosphate ion (PO<sub>4</sub><sup>3&#8722;</sup>). In addition to phosphate runoff as a result of human activity, natural surface runoff occurs when it is leached from phosphate-containing rock by weathering, thus sending phosphates into rivers, lakes, and the ocean. This rock has its origins in the ocean. Phosphate-containing ocean sediments form primarily from the bodies of ocean organisms and from their excretions. However, in remote regions, volcanic ash, aerosols, and mineral dust may also be significant phosphate sources. This sediment then is moved to land over geologic time by the uplifting of areas of the Earth&#8217;s surface.</para>
+<para id="fs-idp21885936">Phosphorus is also reciprocally exchanged between phosphate dissolved in the ocean and marine ecosystems. The movement of phosphate from the ocean to the land and through the soil is extremely slow, with the average phosphate ion having an oceanic residence time between 20,000 and 100,000 years.</para>
+<figure id="fig-ch46_03_07" class=" "><media id="fs-idm101600496" alt="The illustration shows the phosphorus cycle. Phosphate enters the atmosphere from volcanic aerosols. As this aerosol precipitates to Earth, it enters terrestrial food webs. Some of the phosphate from terrestrial food webs dissolves in streams and lakes, and the remainder enters the soil. Another source of phosphate is fertilizers. Phosphate enters the ocean via leaching and runoff, where it becomes dissolved in ocean water or enters marine food webs. Some phosphate falls to the ocean floor where it becomes sediment. If uplifting occurs, this sediment can return to land.">
+<image mime-type="image/jpg" src="Figure_46_03_07.jpg" width="550"/>
+</media>
+<caption>In nature, phosphorus exists as the phosphate ion (PO<sub>4</sub><sup>3&#8722;</sup>). Weathering of rocks and volcanic activity releases phosphate into the soil, water, and air, where it becomes available to terrestrial food webs. Phosphate enters the oceans via surface runoff, groundwater flow, and river flow. Phosphate dissolved in ocean water cycles into marine food webs. Some phosphate from the marine food webs falls to the ocean floor, where it forms sediment. (credit: modification of work by John M. Evans and Howard Perlman, USGS)</caption></figure><para id="fs-idm44475648">Excess phosphorus and nitrogen that enters these ecosystems from fertilizer runoff and from sewage causes excessive growth of microorganisms and depletes the dissolved oxygen, which leads to the death of many ecosystem fauna, such as shellfish and finfish. This process is responsible for dead zones in lakes and at the mouths of many major rivers (<link target-id="fig-ch46_03_07" document=""/>).</para>
+<figure id="fig-ch46_03_08" class=" "><media id="fs-idp45965088" alt=" World map shows areas where dead zones occur. Dead zones are present along the eastern and western shore of the United States, in the North and Mediterranean Seas and off the east coast of Asia.">
+<image mime-type="image/jpg" src="Figure_46_03_08.jpg" width="550"/>
+</media>
+<caption>Dead zones occur when phosphorus and nitrogen from fertilizers cause excessive growth of microorganisms, which depletes oxygen and kills fauna. Worldwide, large dead zones are found in coastal areas of high population density. (credit: NASA Earth Observatory)</caption></figure><para id="fs-idp152114576">A <term>dead zone</term> is an area within a freshwater or marine ecosystem where large areas are depleted of their normal flora and fauna; these zones can be caused by eutrophication, oil spills, dumping of toxic chemicals, and other human activities. The number of dead zones has been increasing for several years, and more than 400 of these zones were present as of 2008. One of the worst dead zones is off the coast of the United States in the Gulf of Mexico, where fertilizer runoff from the Mississippi River basin has created a dead zone of over 8463&#160;square miles. Phosphate and nitrate runoff from fertilizers also negatively affect several lake and bay ecosystems including the Chesapeake Bay in the eastern United States.</para>
+<note id="fs-idp177994576" class="everyday"><label/><title>Everyday Connection</title>
+    <para id="eip-id1166547443697"><title>Chesapeake Bay</title></para>
+<figure id="fig-ch46_03_09" class=" "><media id="fs-idp168744448" alt=" Satellite image shows the Chesapeake Bay. Inset is a photo of a man holding a clump of oysters.">
+<image mime-type="image/png" src="Figure_46_03_09ab.png" width="300"/>
+</media>
+<caption>This (a) satellite image shows the Chesapeake Bay, an ecosystem affected by phosphate and nitrate runoff. A (b) member of the Army Corps of Engineers holds a clump of oysters being used as a part of the oyster restoration effort in the bay. (credit a: modification of work by NASA/MODIS; credit b: modification of work by U.S. Army)</caption></figure><para id="fs-idm46379136">The Chesapeake Bay has long been valued as one of the most scenic areas on Earth; it is now in distress and is recognized as a declining ecosystem. In the 1970s, the Chesapeake Bay was one of the first ecosystems to have identified dead zones, which continue to kill many fish and bottom-dwelling species, such as clams, oysters, and worms. Several species have declined in the Chesapeake Bay due to surface water runoff containing excess nutrients from artificial fertilizer used on land. The source of the fertilizers (with high nitrogen and phosphate content) is not limited to agricultural practices. There are many nearby urban areas and more than 150 rivers and streams empty into the bay that are carrying fertilizer runoff from lawns and gardens. Thus, the decline of the Chesapeake Bay is a complex issue and requires the cooperation of industry, agriculture, and everyday homeowners.</para>
+<para id="fs-idp69476304">Of particular interest to conservationists is the oyster population; it is estimated that more than 200,000 acres of oyster reefs existed in the bay in the 1700s, but that number has now declined to only 36,000 acres. Oyster harvesting was once a major industry for Chesapeake Bay, but it declined 88 percent between 1982 and 2007. This decline was due not only to fertilizer runoff and dead zones but also to overharvesting. Oysters require a certain minimum population density because they must be in close proximity to reproduce. Human activity has altered the oyster population and locations, greatly disrupting the ecosystem.</para>
+<para id="fs-idm9963840">The restoration of the oyster population in the Chesapeake Bay has been ongoing for several years with mixed success. Not only do many people find oysters good to eat, but they also clean up the bay. Oysters are filter feeders, and as they eat, they clean the water around them. In the 1700s, it was estimated that it took only a few days for the oyster population to filter the entire volume of the bay. Today, with changed water conditions, it is estimated that the present population would take nearly a year to do the same job.</para>
+<para id="fs-idp114537984">Restoration efforts have been ongoing for several years by non-profit organizations, such as the Chesapeake Bay Foundation. The restoration goal is to find a way to increase population density so the oysters can reproduce more efficiently. Many disease-resistant varieties (developed at the Virginia Institute of Marine Science for the College of William and Mary) are now available and have been used in the construction of experimental oyster reefs. Efforts to clean and restore the bay by Virginia and Delaware have been hampered because much of the pollution entering the bay comes from other states, which stresses the need for inter-state cooperation to gain successful restoration.</para>
+<para id="fs-idm46862592">The new, hearty oyster strains have also spawned a new and economically viable industry&#8212;oyster aquaculture&#8212;which not only supplies oysters for food and profit, but also has the added benefit of cleaning the bay.</para>
+</note></section>
+<section id="fs-idp81587264">
+<title>The Sulfur Cycle</title>
+<para id="fs-idm47535824">Sulfur is an essential element for the macromolecules of living things. As a part of the amino acid cysteine, it is involved in the formation of disulfide bonds within proteins, which help to determine their 3-D folding patterns, and hence their functions. As shown in <link target-id="fig-ch46_03_09" document=""/>, sulfur cycles between the oceans, land, and atmosphere. Atmospheric sulfur is found in the form of sulfur dioxide (SO<sub>2</sub>) and enters the atmosphere in three ways: from the decomposition of organic molecules, from volcanic activity and geothermal vents, and from the burning of fossil fuels by humans.</para><figure id="fig-ch46_03_10" class=" "><media id="fs-idm585088" alt="This illustration shows the sulfur cycle. Sulfur enters the atmosphere as sulfur dioxide (SO2) via human emissions, decomposition of H2S, and volcanic eruptions. Precipitation and fallout from the atmosphere return sulfur to the Earth, where it enters terrestrial ecosystems. Sulfur enters the oceans via runoff, where it becomes incorporated in marine ecosystems. Some marine sulfur becomes pyrite, which is trapped in sediment. If upwelling occurs, the pyrite enters the soil and is converted to soil sulfates.">
+<image mime-type="image/jpg" src="Figure_46_03_10.jpg" width="550"/>
+</media>
+<caption>Sulfur dioxide from the atmosphere becomes available to terrestrial and marine ecosystems when it is dissolved in precipitation as weak sulfuric acid or when it falls directly to the Earth as fallout. Weathering of rocks also makes sulfates available to terrestrial ecosystems. Decomposition of living organisms returns sulfates to the ocean, soil and atmosphere. (credit: modification of work by John M. Evans and Howard Perlman, USGS)</caption></figure><para id="fs-idp32111344">On land, sulfur is deposited in four major ways: precipitation, direct fallout from the atmosphere, rock weathering, and geothermal vents (<link target-id="fig-ch46_03_10" document=""/>). Atmospheric sulfur is found in the form of sulfur dioxide (SO<sub>2</sub>), and as rain falls through the atmosphere, sulfur is dissolved in the form of weak sulfuric acid (H<sub>2</sub>SO<sub>4</sub>). Sulfur can also fall directly from the atmosphere in a process called <term>fallout</term>. Also, the weathering of sulfur-containing rocks releases sulfur into the soil. These rocks originate from ocean sediments that are moved to land by the geologic uplifting of ocean sediments. Terrestrial ecosystems can then make use of these soil sulfates (<m:math display="left">
+ <m:mrow>
+  <m:msub>
+   <m:mrow>
+    <m:mtext>SO</m:mtext>
+   </m:mrow>
+   <m:mrow>
+    <m:msup>
+     <m:mtext>4</m:mtext>
+     <m:mo>&#8722;</m:mo>
+    </m:msup>
+    
+   </m:mrow>
+  </m:msub>
+  
+ </m:mrow>
+</m:math>), and upon the death and decomposition of these organisms, release the sulfur back into the atmosphere as hydrogen sulfide (H<sub>2</sub>S) gas.</para><figure id="fig-ch46_03_11" class=" "><media id="fs-idm91393408" alt=" This photo shows a white pyramid-shaped mound with gray steam escaping from it.">
+<image mime-type="image/jpg" src="Figure_46_03_11.jpg" width="340"/>
+</media>
+<caption>At this sulfur vent in Lassen Volcanic National Park in northeastern California, the yellowish sulfur deposits are visible near the mouth of the vent.</caption></figure><para id="fs-idp76138432">Sulfur enters the ocean via runoff from land, from atmospheric fallout, and from underwater geothermal vents. Some ecosystems (<link target-id="fig-ch46_02_01" document="m44887"/>) rely on chemoautotrophs using sulfur as a biological energy source. This sulfur then supports marine ecosystems in the form of sulfates.</para><para id="fs-idm2754896">Human activities have played a major role in altering the balance of the global sulfur cycle. The burning of large quantities of fossil fuels, especially from coal, releases larger amounts of hydrogen sulfide gas into the atmosphere. As rain falls through this gas, it creates the phenomenon known as acid rain. <term>Acid rain</term> is corrosive rain caused by rainwater falling to the ground through sulfur dioxide gas, turning it into weak sulfuric acid, which causes damage to aquatic ecosystems. Acid rain damages the natural environment by lowering the pH of lakes, which kills many of the resident fauna; it also affects the man-made environment through the chemical degradation of buildings. For example, many marble monuments, such as the Lincoln Memorial in Washington, DC, have suffered significant damage from acid rain over the years. These examples show the wide-ranging effects of human activities on our environment and the challenges that remain for our future.</para>
+<note id="fs-idp35259792" class="interactive"><label/><title>Link to Learning</title>
+    <media id="fs-idm39743472" alt="QR Code representing a URL">
+    <image mime-type="image/png" src="climate_change.png" width="120"/>
+    </media>
+<para id="fs-idm16011072">Click this <link window="new" url="http://openstaxcollege.org/l/climate_change">link</link> to learn more about global climate change.</para>
+</note></section>
+<section id="fs-idp51473552" class="summary">
+<title>Section Summary</title><para id="fs-idm28610672">Mineral nutrients are cycled through ecosystems and their environment. Of particular importance are water, carbon, nitrogen, phosphorus, and sulfur. All of these cycles have major impacts on ecosystem structure and function. As human activities have caused major disturbances to these cycles, their study and modeling is especially important. A variety of human activities, such as pollution, oil spills, and events) have damaged ecosystems, potentially causing global climate change. The health of Earth depends on understanding these cycles and how to protect the environment from irreversible damage.</para>
+    </section>
+<section id="fs-idp92032352" class="art-exercise">
+    <title>Art Connections</title>
+<exercise id="fs-idp149673856">
+    <problem id="fs-idm83539920">
+    <para id="fs-idm12695488"><link target-id="fig-ch46_03_06" document=""/> Which of the following statements about the nitrogen cycle is false?</para><list id="fs-idm28116592" list-type="enumerated" number-style="lower-alpha">
+    <item>Ammonification converts organic nitrogenous matter from living organisms into ammonium (NH<sub>4</sub><sup>+</sup>).</item>
+<item>Denitrification by bacteria converts nitrates (NO<sub>3</sub><sup>&#8722;</sup>) to nitrogen gas (N<sub>2</sub>).</item>
+<item>Nitrification by bacteria converts nitrates (NO<sub>3</sub><sup>&#8722;</sup>) to nitrites (NO<sub>2</sub><sup>&#8722;</sup>).</item>
+<item>Nitrogen fixing bacteria convert nitrogen gas (N<sub>2</sub>) into organic compounds.</item>
+</list>
+</problem>
+<solution id="fs-idm51933680">
+    <label/><para id="fs-idp16056272"><link target-id="fig-ch46_03_06" document=""/> C: Nitrification by bacteria converts nitrates (NO<sub>3</sub><sup>&#8722;</sup>) to nitrites (NO<sub>2</sub><sup>&#8722;</sup>).</para></solution></exercise>
+    </section>
+<section id="fs-idp19101408" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm77987344">
+<problem id="fs-idp80822160"><para id="fs-idm45265296">The movement of mineral nutrients through organisms and their environment is called a ________ cycle.</para>
+<list id="fs-idp77230704" list-type="enumerated" number-style="lower-alpha">
+<item>biological</item>
+<item>bioaccumulation</item>
+<item>biogeochemical</item>
+<item>biochemical</item>
+</list>
+</problem>
+<solution id="fs-idm14542784">
+<label/>
+<para id="fs-idp163588768">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idp16066048">
+<problem id="fs-idm161802304"><para id="fs-idp47462400">Carbon is present in the atmosphere as ________.</para>
+<list id="fs-idp71012048" list-type="enumerated" number-style="lower-alpha">
+<item>carbon dioxide</item>
+<item>carbonate ion</item>
+<item>carbon dust</item>
+<item>carbon monoxide</item>
+</list>
+</problem>
+<solution id="fs-idm43331536">
+<label/>
+<para id="fs-idp12935472">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm39704944">
+<problem id="fs-idp141745408"><para id="fs-idm9713680">The majority of water found on Earth is:	</para>
+<list id="fs-idp170533936" list-type="enumerated" number-style="lower-alpha">
+<item>ice</item>
+<item>water vapor</item>
+<item>fresh water</item>
+<item>salt water</item>
+</list>
+</problem>
+<solution id="fs-idm16671280">
+<label/>
+<para id="fs-idp78563488">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idp116092608">
+<problem id="fs-idp92116768"><para id="fs-idm59332256">The average time a molecule spends in its reservoir is known as ________.</para>
+<list id="fs-idp117136224" list-type="enumerated" number-style="lower-alpha">
+<item>residence time</item>
+<item>restriction time</item>
+<item>resilience time</item>
+<item>storage time</item>
+</list>
+</problem>
+<solution id="fs-idm85521840">
+<label/>
+<para id="fs-idp113000992">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idp90580688">
+<problem id="fs-idp115980912"><para id="fs-idp37333728">The process whereby oxygen is depleted by the growth of microorganisms due to excess nutrients in aquatic systems is called ________.</para>
+<list id="fs-idm26286640" list-type="enumerated" number-style="lower-alpha">
+<item>dead zoning</item>
+<item>eutrophication</item>
+<item>retrofication</item>
+<item>depletion</item>
+</list>
+</problem>
+<solution id="fs-idp183609072">
+<label/>
+<para id="fs-idp70469120">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idp70882832">
+<problem id="fs-idp45994464"><para id="fs-idp118334224">The process whereby nitrogen is brought into organic molecules is called ________.</para>
+<list id="fs-idp93774752" list-type="enumerated" number-style="lower-alpha">
+<item>nitrification</item>
+<item>denitrification</item>
+<item>nitrogen fixation</item>
+<item>nitrogen cycling</item>
+</list>
+</problem>
+<solution id="fs-idm66863504">
+<label/>
+<para id="fs-idm28533984">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp114484416" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm113313088">
+<problem id="fs-idp153073920"><para id="fs-idm8922352">Describe nitrogen fixation and why it is important to agriculture.</para></problem>
+<solution id="fs-idp142954816"><label/>
+<para id="fs-idm34464208">Nitrogen fixation is the process of bringing nitrogen gas from the atmosphere and incorporating it into organic molecules. Most plants do not have this capability and must rely on free-living or symbiotic bacteria to do this. As nitrogen is often the limiting nutrient in the growth of crops, farmers make use of artificial fertilizers to provide a nitrogen source to the plants as they grow.</para></solution>
+</exercise>
+<exercise id="fs-idp76672512">
+<problem id="fs-idm10541616"><para id="fs-idp18096912">What are the factors that cause dead zones? Describe eutrophication, in particular, as a cause.</para></problem>
+<solution id="fs-idm26332704"><label/>
+<para id="fs-idm15778720">Many factors can kill life in a lake or ocean, such as eutrophication by nutrient-rich surface runoff, oil spills, toxic waste spills, changes in climate, and the dumping of garbage into the ocean. Eutrophication is a result of nutrient-rich runoff from land using artificial fertilizers high in nitrogen and phosphorus. These nutrients cause the rapid and excessive growth of microorganisms, which deplete local dissolved oxygen and kill many fish and other aquatic organisms.</para></solution>
+</exercise>
+<exercise id="fs-idm111379936">
+<problem id="fs-idp144804752"><para id="fs-idp39392880">Why are drinking water supplies still a major concern for many countries?</para></problem>
+<solution id="fs-idp129450672"><label/>
+<para id="fs-idp69474496">Most of the water on Earth is salt water, which humans cannot drink unless the salt is removed. Some fresh water is locked in glaciers and polar ice caps, or is present in the atmosphere. The Earth&#8217;s water supplies are threatened by pollution and exhaustion. The effort to supply fresh drinking water to the planet&#8217;s ever-expanding human population is seen as a major challenge in this century.</para></solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm51572992"><term>acid rain</term> <meaning id="fs-idm17162960">corrosive rain caused by rainwater falling to the ground through sulfur dioxide gas, turning it into weak sulfuric acid; can damage structures and ecosystems</meaning></definition>
+<definition id="fs-idm29428800"><term>biogeochemical cycle</term> <meaning id="fs-idm87689952">cycling of mineral nutrients through ecosystems and through the non-living world</meaning></definition>
+<definition id="fs-idm40276288"><term>dead zone</term> <meaning id="fs-idp75992368">area within an ecosystem in lakes and near the mouths of rivers where large areas of ecosystems are depleted of their normal flora and fauna; these zones can be caused by eutrophication, oil spills, dumping of toxic chemicals, and other human activities</meaning></definition>
+<definition id="fs-idp160257648"><term>eutrophication</term> <meaning id="fs-idp17607936">process whereby nutrient runoff causes the excess growth of microorganisms, depleting dissolved oxygen levels and killing ecosystem fauna</meaning></definition>
+<definition id="fs-idp87802336"><term>fallout</term> <meaning id="fs-idm45711248">direct deposit of solid minerals on land or in the ocean from the atmosphere</meaning></definition>
+<definition id="fs-idp37243072"><term>hydrosphere</term> <meaning id="fs-idm6302192">area of the Earth where water movement and storage occurs</meaning></definition>
+<definition id="fs-idp43063296"><term>non-renewable resource</term> <meaning id="fs-idp63327808">resource, such as fossil fuel, that is either regenerated very slowly or not at all</meaning></definition>
+<definition id="fs-idp63355408"><term>residence time</term> <meaning id="fs-idm45470640">measure of the average time an individual water molecule stays in a particular reservoir</meaning></definition>
+<definition id="fs-idm19512512"><term>subduction</term> <meaning id="fs-idp105763344">movement of one tectonic plate beneath another</meaning></definition>
+</glossary>
+</document>

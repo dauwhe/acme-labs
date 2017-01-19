@@ -1,0 +1,251 @@
+<?xml version="1.0"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Regulation of Cellular Respiration</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml"
+          mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://legacy.cnx.org/content</md:repository>
+  <md:content-url>http://legacy.cnx.org/content/m44442/latest/</md:content-url>
+  <md:content-id>m44442</md:content-id>
+  <md:title>Regulation of Cellular Respiration</md:title>
+  <md:version>1.10</md:version>
+  <md:created>2012/08/23 10:49:25 -0500</md:created>
+  <md:revised>2014/10/29 15:26:58.447 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>cellular respiration</md:keyword>
+    <md:keyword>citric acid cycle</md:keyword>
+    <md:keyword>electron transport chain</md:keyword>
+    <md:keyword>feedback inhibition</md:keyword>
+    <md:keyword>glucose</md:keyword>
+    <md:keyword>GLUT protein</md:keyword>
+    <md:keyword>glycolysis regulation</md:keyword>
+    <md:keyword>insulin</md:keyword>
+    <md:keyword>regulation</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe how feedback inhibition would affect the production of an intermediate or product in a pathway</item>
+<item>Identify the mechanism that controls the rate of the transport of electrons through the electron transport chain</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-id1998871">Cellular respiration must be regulated in order to provide balanced amounts of energy in the form of ATP. The cell also must generate a number of intermediate compounds that are used in the anabolism and catabolism of macromolecules.  Without controls, metabolic reactions would quickly come to a stand still as the forward and backward reactions reached a state of equilibrium. Resources would be used inappropriately. A cell does not need the maximum amount of ATP that it can make all the time: At times, the cell needs to shunt some of the intermediates to pathways for amino acid, protein, glycogen, lipid, and nucleic acid production. In short, the cell needs to control its metabolism.</para><section id="fs-id1415283">
+<title>Regulatory Mechanisms</title>
+    <para id="fs-id2030121">A variety of mechanisms is used to control cellular respiration. Some type of control exists at each stage of glucose metabolism. Access of glucose to the cell can be regulated using the <term>GLUT proteins</term> that transport glucose (<link target-id="fig-ch07_07_01" document=""/>). Different forms of the GLUT protein control passage of glucose into the cells of specific tissues.</para>
+<figure id="fig-ch07_07_01"><media id="fs-id2319045" alt="When insulin in the bloodstream binds the insulin receptor in the plasma membrane of a target cell, a vesicle containing the glucose transporter Glut-4 fuses with the plasma membrane. Glut-4 is a transporter that allows glucose to enter the cell.">
+<image mime-type="image/jpg" src="Figure_07_07_01.jpg" width="400"/>
+</media>
+<caption>GLUT4 is a glucose transporter that is stored in vesicles. A cascade of events that occurs upon insulin binding to a receptor in the plasma membrane causes GLUT4-containing vesicles to fuse with the plasma membrane so that glucose may be transported into the cell.</caption></figure><para id="fs-id2011864">Some reactions are controlled by having two different enzymes—one each for the two directions of a reversible reaction. Reactions that are catalyzed by only one enzyme can go to equilibrium, stalling the reaction. In contrast, if two different enzymes (each specific for a given direction) are necessary for a reversible reaction, the opportunity to control the rate of the reaction increases, and equilibrium is not reached.</para>
+<para id="fs-id2192483">A number of enzymes involved in each of the pathways—in particular, the enzyme catalyzing the first committed reaction of the pathway—are controlled by attachment of a molecule to an allosteric site on the protein. The molecules most commonly used in this capacity are the nucleotides ATP, ADP, AMP, NAD<sup>+</sup>, and NADH. These regulators, allosteric effectors, may increase or decrease enzyme activity, depending on the prevailing conditions. The allosteric effector alters the steric structure of the enzyme, usually affecting the configuration of the active site. This alteration of the protein’s (the enzyme’s) structure either increases or decreases its affinity for its substrate, with the effect of increasing or decreasing the rate of the reaction. The attachment signals to the enzyme. This binding can increase or decrease the enzyme’s activity, providing feedback. This feedback type of control is effective as long as the chemical affecting it is attached to the enzyme. Once the overall concentration of the chemical decreases, it will diffuse away from the protein, and the control is relaxed.</para>
+</section>
+<section id="fs-id1464730">
+<title>Control of Catabolic Pathways</title>
+<para id="fs-id2278262">Enzymes, proteins, electron carriers, and pumps that play roles in glycolysis, the citric acid cycle, and the electron transport chain tend to catalyze non-reversible reactions. In other words, if the initial reaction takes place, the pathway is committed to proceeding with the remaining reactions. Whether a particular enzyme activity is released depends upon the energy needs of the cell (as reflected by the levels of ATP, ADP, and AMP).</para>
+<section id="fs-id1826889">
+<title>Glycolysis</title>
+    <para id="fs-id2164320">The control of glycolysis begins with the first enzyme in the pathway, hexokinase (<link target-id="fig-ch07_07_02" document=""/>). This enzyme catalyzes the phosphorylation of glucose, which helps to prepare the compound for cleavage in a later step. The presence of the negatively charged phosphate in the molecule also prevents the sugar from leaving the cell. When hexokinase is inhibited, glucose diffuses out of the cell and does not become a substrate for the respiration pathways in that tissue. The product of the hexokinase reaction is glucose-6-phosphate, which accumulates when a later enzyme, phosphofructokinase, is inhibited.</para>
+<figure id="fig-ch07_07_02">
+<media id="fs-id2003078" alt="This illustration shows that glycolysis is regulated via three key enzymes: hexokinase phosphofructokinase, and phosphoglycerate kinase. The first two enzymes hydrolyze an ATP and the third one produces ATP.">
+<image mime-type="image/jpg" src="Figure_07_07_02.jpg" width="600"/>
+</media>
+<caption>The glycolysis pathway is primarily regulated at the three key enzymatic steps (1, 2, and 7) as indicated. Note that the first two steps that are regulated occur early in the pathway and involve hydrolysis of ATP.</caption></figure>
+<para id="fs-id1595819">Phosphofructokinase is the main enzyme controlled in glycolysis. High levels of ATP, citrate, or a lower, more acidic pH decrease the enzyme’s activity. An increase in citrate concentration can occur because of a blockage in the citric acid cycle. Fermentation, with its production of organic acids like lactic acid, frequently accounts for the increased acidity in a cell; however, the products of fermentation do not typically accumulate in cells.</para>
+<para id="fs-id1711910">The last step in glycolysis is catalyzed by pyruvate kinase. The pyruvate produced can proceed to be catabolized or converted into the amino acid alanine. If no more energy is needed and alanine is in adequate supply, the enzyme is inhibited. The enzyme’s activity is increased when fructose-1,6-bisphosphate levels increase. (Recall that fructose-1,6-bisphosphate is an intermediate in the first half of glycolysis.) The regulation of pyruvate kinase involves phosphorylation by a kinase (pyruvate kinase kinase), resulting in a less-active enzyme. Dephosphorylation by a phosphatase reactivates it. Pyruvate kinase is also regulated by ATP (a negative allosteric effect).</para>
+<para id="fs-id1770620">If more energy is needed, more pyruvate will be converted into acetyl CoA through the action of pyruvate dehydrogenase. If either acetyl groups or NADH accumulate, there is less need for the reaction and the rate decreases. Pyruvate dehydrogenase is also regulated by phosphorylation: A kinase phosphorylates it to form an inactive enzyme, and a phosphatase reactivates it. The kinase and the phosphatase are also regulated.</para>
+</section>
+<section id="fs-id1756482">
+<title>Citric Acid Cycle</title>
+    <para id="fs-id2051223">The citric acid cycle is controlled through the enzymes that catalyze the reactions that make the first two molecules of NADH (<link target-id="fig-ch07_03_02" document="m44433"/>). These enzymes are isocitrate dehydrogenase and <emphasis effect="italics">α</emphasis>-ketoglutarate dehydrogenase. When adequate ATP and NADH levels are available, the rates of these reactions decrease. When more ATP is needed, as reflected in rising ADP levels, the rate increases. <emphasis effect="italics">α</emphasis>-Ketoglutarate dehydrogenase will also be affected by the levels of succinyl CoA—a subsequent intermediate in the cycle—causing a decrease in activity. A decrease in the rate of operation of the pathway at this point is not necessarily negative, as the increased levels of the <emphasis effect="italics">α</emphasis>-ketoglutarate not used by the citric acid cycle can be used by the cell for amino acid (glutamate) synthesis.</para></section>
+<section id="fs-id3086527">
+<title>Electron Transport Chain</title>
+<para id="fs-id2317654">Specific enzymes of the electron transport chain are unaffected by feedback inhibition, but the rate of electron transport through the pathway is affected by the levels of ADP and ATP. Greater ATP consumption by a cell is indicated by a buildup of ADP. As ATP usage decreases, the concentration of ADP decreases, and now, ATP begins to build up in the cell. This change is the relative concentration of ADP to ATP triggers the cell to slow down the electron transport chain.</para><note id="fs-id2121507" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-id1631696" alt="QR Code representing a URL">
+<image mime-type="image/png" src="electron_transp.png" width="120"/>
+</media>
+<para id="fs-id2054751">Visit this <link window="new" url="http://openstaxcollege.org/l/electron_transp">site</link> to see an animation of the electron transport chain and ATP synthesis.</para>
+</note><para id="fs-id2183864"> For a summary of feedback controls in cellular respiration, see  <link target-id="tab-ch07_07_01" document=""/>.</para> 
+    <table id="tab-ch07_07_01" summary="table x.x">
+        <tgroup cols="4">   
+            <colspec colnum="1" colname="col1"/>
+            <colspec colnum="2" colname="col2"/>
+            <colspec colnum="3" colname="col3"/>
+            <colspec colnum="4" colname="col4"/>
+            <thead>
+                <row>
+                    <entry namest="col1" nameend="col4" align="left">Summary of Feedback Controls in Cellular Respiration</entry> 
+                </row>
+                <row>
+                    <entry>Pathway</entry>
+                    <entry>Enzyme affected</entry>
+                    <entry>Elevated levels of effector</entry>
+                    <entry>Effect on pathway activity</entry>                    
+                </row>
+            </thead>
+    <tbody>
+<row>
+<entry>glycolysis</entry>
+<entry>hexokinase</entry>
+    <entry>glucose-6-phosphate</entry>
+    <entry>decrease</entry>
+</row>
+        <row>
+            <entry/>
+<entry>phosphofructokinase</entry>
+            <entry>low-energy charge (ATP, AMP), fructose-6-phosphate via fructose-2,6-bisphosphate</entry>
+            <entry>increase</entry>
+        </row>
+        <row>
+            <entry/>
+            <entry/>
+        		<entry>high-energy charge (ATP, AMP), citrate, acidic pH</entry>
+            <entry>decrease</entry>
+        </row>
+        <row>
+            <entry/>
+            <entry>pyruvate kinase</entry>
+            <entry>fructose-1,6-bisphosphate</entry>
+            <entry>increase</entry></row>
+        <row>
+            <entry/>
+            <entry/>
+            <entry>high-energy charge (ATP, AMP), alanine</entry>
+            <entry>decrease</entry></row>
+<row><entry>pyruvate to acetyl CoA conversion</entry> 
+    <entry>pyruvate dehydrogenase</entry>
+    <entry>ADP, pyruvate</entry>
+    <entry>increase</entry></row>
+<row>
+    <entry/>
+    <entry/>
+    <entry>acetyl CoA, ATP, NADH</entry>
+    <entry>decrease</entry>
+</row>
+<row>
+    <entry>citric acid cycle</entry>
+    <entry>isocitrate dehydrogenase</entry>
+    <entry>ADP</entry>
+    <entry>increase</entry></row>
+<row>
+    <entry/>
+    <entry/>
+    <entry>ATP, NADH</entry>
+    <entry>decrease</entry>
+</row>
+<row>
+    <entry/>
+    <entry><emphasis effect="italics">α</emphasis>-ketoglutarate dehydrogenase</entry>
+    <entry>Calcium ions, ADP</entry>
+    <entry>increase</entry></row>
+<row>
+    <entry/>
+    <entry/>
+    <entry>ATP, NADH, succinyl CoA</entry>
+    <entry>decrease</entry></row>
+<row><entry>electron transport chain</entry>
+    <entry/>
+    <entry>ADP</entry>
+    <entry>increase</entry>
+</row>
+<row>
+    <entry/>
+    <entry/>
+    <entry>ATP</entry>
+    <entry>decrease</entry></row>
+    </tbody>
+        </tgroup>
+    </table>
+</section>
+</section>
+<section id="fs-id2897262" class="summary">
+    <title>Section Summary</title><para id="fs-id3223553">Cellular respiration is controlled by a variety of means. The entry of glucose into a cell is controlled by the transport proteins that aid glucose passage through the cell membrane. Most of the control of the respiration processes is accomplished through the control of specific enzymes in the pathways. This is a type of negative feedback, turning the enzymes off. The enzymes respond most often to the levels of the available nucleosides ATP, ADP, AMP, NAD<sup>+</sup>, and FAD. Other intermediates of the pathway also affect certain enzymes in the systems.</para>
+</section>
+<section id="fs-id2137494" class="multiple-choice">
+    <title>Review Questions</title><exercise id="fs-id1864534">
+<problem id="fs-id1707635"><para id="fs-id1426300">The effect of high levels of ADP is to ________.</para>
+<list id="fs-id2335627" list-type="enumerated" number-style="lower-alpha">
+<item>increase the activity of the enzyme</item>
+<item>decrease the activity of the enzyme</item>
+<item>have no effect on the activity of the enzyme</item>
+<item>slow down the pathway</item>
+</list>
+</problem>
+<solution id="fs-id1974014">
+<label/>
+<para id="fs-id2228970">A</para>
+</solution>
+    </exercise>
+<exercise id="fs-id2890387">
+<problem id="fs-id988956"><para id="fs-id1582477">The control of which enzyme exerts the most control on glycolysis?</para>
+<list id="fs-id1415156" list-type="enumerated" number-style="lower-alpha">
+<item>hexokinase</item>
+<item>phosphofructokinase</item>
+<item>glucose-6-phosphatase</item>
+<item>aldolase</item>
+</list>
+</problem>
+<solution id="fs-id1699669">
+<label/>
+<para id="fs-id2914518">B</para></solution>
+    </exercise>
+</section>
+<section id="fs-id2018337" class="free-response">
+    <title>Free Response</title>
+<exercise id="fs-id2582236">
+<problem id="fs-id2681597"><para id="fs-id2155000">How does citrate from the citric acid cycle affect glycolysis?</para></problem>
+<solution id="fs-id1987043"><label/>
+<para id="fs-id2645939">Citrate can inhibit phosphofructokinase by feedback regulation.</para>
+</solution>
+</exercise>
+<exercise id="fs-id2936788">
+<problem id="fs-id2270146"><para id="fs-id2196634">Why might negative feedback mechanisms be more common than positive feedback mechanisms in living cells?</para></problem>
+<solution id="fs-id2329391"><label/>
+<para id="fs-id2186689">Negative feedback mechanisms actually control a process; it can turn it off, whereas positive feedback accelerates the process, allowing the cell no control over it. Negative feedback naturally maintains homeostasis, whereas positive feedback drives the system away from equilibrium.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-id1485699"><term>GLUT protein</term> <meaning id="fs-id1444449">integral membrane protein that transports glucose</meaning></definition>
+</glossary>
+
+</document>

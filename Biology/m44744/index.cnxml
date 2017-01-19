@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Digestive System Regulation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml"
+          mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://legacy.cnx.org/content</md:repository>
+  <md:content-url>http://legacy.cnx.org/content/m44744/latest/</md:content-url>
+  <md:content-id>m44744</md:content-id>
+  <md:title>Digestive System Regulation</md:title>
+  <md:version>1.5</md:version>
+  <md:created>2012/08/23 15:27:59 -0500</md:created>
+  <md:revised>2016/02/25 13:00:29.818 US/Central</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax</md:shortname>
+      <md:fullname>OpenStax</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>animal digestion</md:keyword>
+    <md:keyword>cephalic phase</md:keyword>
+    <md:keyword>cholecystokinin</md:keyword>
+    <md:keyword>digestion regulation</md:keyword>
+    <md:keyword>digestive system</md:keyword>
+    <md:keyword>endocrine system</md:keyword>
+    <md:keyword>gastric inhibitory peptide</md:keyword>
+    <md:keyword>gastric phase</md:keyword>
+    <md:keyword>gastrin</md:keyword>
+    <md:keyword>hormonal response</md:keyword>
+    <md:keyword>intestinal phase</md:keyword>
+    <md:keyword>neural response</md:keyword>
+    <md:keyword>nutrition</md:keyword>
+    <md:keyword>secretin</md:keyword>
+    <md:keyword>somatostatin</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Discuss the role of neural regulation in digestive processes</item>
+<item>Explain how hormones regulate digestion</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idp100625632">The brain is the control center for the sensation of hunger and satiety. The functions of the digestive system are regulated through neural and hormonal responses.</para>
+<section id="fs-idp386846192">
+<title>Neural Responses to Food</title>
+<para xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-idp48082448">In reaction to the smell, sight, or thought of food, like that shown in <link target-id="fig-ch34_04_01" document=""/>, the first response is that of salivation. The salivary glands secrete more saliva in response to stimulation by the autonomic nervous system triggered by food in preparation for digestion. Simultaneously, the stomach begins to produce hydrochloric acid to digest the food. Recall that the peristaltic movements of the esophagus and other organs of the digestive tract are under the control of the brain. The brain prepares these muscles for movement as well. When the stomach is full, the part of the brain that detects satiety signals fullness. There are three overlapping phases of gastric control—the cephalic phase, the gastric phase, and the intestinal phase—each requires many enzymes and is under neural control as well.</para><figure id="fig-ch34_04_01" class=" "><media id="fs-idp68884416" alt="Photo shows plates of food on a dinner table.">
+<image mime-type="image/jpg" src="Figure_34_04_01.jpg" width="350"/>
+</media>
+<caption>Seeing a plate of food triggers the secretion of saliva in the mouth and the production of HCL in the stomach. (credit: Kelly Bailey)</caption></figure><section id="fs-idp230213168">
+<title>Digestive Phases</title>
+<para id="fs-idp67338288">The response to food begins even before food enters the mouth. The first phase of ingestion, called the <term>cephalic phase</term>, is controlled by the neural response to the stimulus provided by food. All aspects—such as sight, sense, and smell—trigger the neural responses resulting in salivation and secretion of gastric juices. The gastric and salivary secretion in the cephalic phase can also take place due to the thought of food. Right now, if you think about a piece of chocolate or a crispy potato chip, the increase in salivation is a cephalic phase response to the thought. The central nervous system prepares the stomach to receive food.</para>
+<para id="fs-idp71992480">The <term>gastric phase</term> begins once the food arrives in the stomach. It builds on the stimulation provided during the cephalic phase. Gastric acids and enzymes process the ingested materials. The gastric phase is stimulated by (1) distension of the stomach, (2) a decrease in the pH of the gastric contents, and (3) the presence of undigested material. This phase consists of local, hormonal, and neural responses. These responses stimulate secretions and powerful contractions.</para>
+<para id="fs-idp151464896">The <term>intestinal phase</term> begins when chyme enters the small intestine triggering digestive secretions. This phase controls the rate of gastric emptying. In addition to gastrin emptying, when chyme enters the small intestine, it triggers other hormonal and neural events that coordinate the activities of the intestinal tract, pancreas, liver, and gallbladder.</para>
+</section>
+</section>
+<section id="fs-idp71589888">
+<title>Hormonal Responses to Food</title>
+<para id="fs-idp43763984">The <term>endocrine</term> <term>system</term> controls the response of the various glands in the body and the release of hormones at the appropriate times.</para>
+<para id="fs-idp269884304">One of the important factors under hormonal control is the stomach acid environment. During the gastric phase, the hormone <term>gastrin</term> is secreted by G cells in the stomach in response to the presence of proteins. Gastrin stimulates the release of stomach acid, or hydrochloric acid (HCl) which aids in the digestion of the proteins. However, when the stomach is emptied, the acidic environment need not be maintained and a hormone called <term>somatostatin</term> stops the release of hydrochloric acid. This is controlled by a negative feedback mechanism.</para>
+<para id="fs-idp240446848">In the duodenum, digestive secretions from the liver, pancreas, and gallbladder play an important role in digesting chyme during the intestinal phase. In order to neutralize the acidic chyme, a hormone called <term>secretin</term> stimulates the pancreas to produce alkaline bicarbonate solution and deliver it to the duodenum. Secretin acts in tandem with another hormone called <term>cholecystokinin</term> (CCK). Not only does CCK stimulate the pancreas to produce the requisite pancreatic juices, it also stimulates the gallbladder to release bile into the duodenum.</para>
+<note id="fs-idp87844032" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idp220727840" alt="QR Code representing a URL">
+<image mime-type="image/png" src="enteric_endo.png" width="120"/>
+</media>
+<para id="fs-idp176875488">Visit <link window="new" url="http://openstaxcollege.org/l/enteric_endo">this website</link> to learn more about the endocrine system. Review the text and watch the animation of how control is implemented in the endocrine system.</para></note><para id="fs-idp42565824">Another level of hormonal control occurs in response to the composition of food. Foods high in lipids take a long time to digest. A hormone called <term>gastric inhibitory peptide</term> is secreted by the small intestine to slow down the peristaltic movements of the intestine to allow fatty foods more time to be digested and absorbed.</para>
+<para id="fs-idp242858752">Understanding the hormonal control of the digestive system is an important area of ongoing research. Scientists are exploring the role of each hormone in the digestive process and developing ways to target these hormones. Advances could lead to knowledge that may help to battle the obesity epidemic.</para>
+</section>
+<section id="fs-idp83014672" class="summary">
+<title>Section Summary</title><para id="fs-idp6066176">The brain and the endocrine system control digestive processes. The brain controls the responses of hunger and satiety. The endocrine system controls the release of hormones and enzymes required for digestion of food in the digestive tract.</para>
+</section>
+<section id="fs-idp108728800" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp109800704">
+<problem id="fs-idp109318208"><para id="fs-idp87282096">Which hormone controls the release of bile from the gallbladder</para>
+<list id="fs-idp157702400" list-type="enumerated" number-style="lower-alpha">
+<item>pepsin</item>
+<item>amylase</item>
+<item>CCK</item>
+<item>gastrin</item>
+</list>
+</problem>
+<solution id="fs-idp267122208">
+<label/>
+<para id="fs-idp81831200">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idp144627040">
+<problem id="fs-idp133355488"><para id="fs-idp68820352">Which hormone stops acid secretion in the stomach?</para>
+<list id="fs-idp61213232" list-type="enumerated" number-style="lower-alpha">
+<item>gastrin</item>
+<item>somatostatin</item>
+<item>gastric inhibitory peptide</item>
+<item>CCK</item>
+</list>
+</problem>
+<solution id="fs-idp264072384">
+<label/>
+<para id="fs-idm1490160">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp29777648" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idp136508512"><problem id="fs-idp258915952"><para id="fs-idp115976304">Describe how hormones regulate digestion.</para></problem>
+<solution id="fs-idp18128544"><label/>
+<para id="fs-idp179163824">Hormones control the different digestive enzymes that are secreted in the stomach and the intestine during the process of digestion and absorption. For example, the hormone gastrin stimulates stomach acid secretion in response to food intake. The hormone somatostatin stops the release of stomach acid.</para>
+</solution>
+</exercise><exercise id="fs-idp87953008">
+<problem id="fs-idp264857024"><para id="fs-idm48374752">Describe one or more scenarios where loss of hormonal regulation of digestion can lead to diseases.</para></problem>
+<solution id="fs-idp188658432"><label/>
+<para id="fs-idp47795856">There are many cases where loss of hormonal regulation can lead to illnesses. For example, the bilirubin produced by the breakdown of red blood cells is converted to bile by the liver. When there is malfunction of this process, there is excess bilirubin in the blood and bile levels are low. As a result, the body struggles with dealing with fatty food. This is why a patient suffering from jaundice is asked to eat a diet with almost zero fat.</para></solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idp56898256"><term>cephalic phase</term> <meaning id="fs-idp87264304">first phase of digestion, controlled by the neural response to the stimulus provided by food</meaning></definition>
+<definition id="fs-idp142655920"><term>cholecystokinin</term> <meaning id="fs-idp43161072">hormone that stimulates the contraction of the gallbladder to release bile</meaning></definition>
+<definition id="fs-idp73065024"><term>endocrine system</term> <meaning id="fs-idp80909824">system that controls the response of the various glands in the body and the release of hormones at the appropriate times</meaning></definition>
+<definition id="fs-idm55549488"><term>gastric inhibitory peptide</term> <meaning id="fs-idp91815872">hormone secreted by the small intestine in the presence of fatty acids and sugars; it also inhibits acid production and peristalsis in order to slow down the rate at which food enters the small intestine</meaning></definition>
+<definition id="fs-idp236661648"><term>gastric phase</term> <meaning id="fs-idp95714960">digestive phase beginning once food enters the stomach; gastric acids and enzymes process the ingested materials</meaning></definition>
+<definition id="fs-idp157772400"><term>gastrin</term> <meaning id="fs-idp136198144">hormone which stimulates hydrochloric acid secretion in the stomach</meaning></definition>
+<definition id="fs-idp95333248"><term>intestinal phase</term> <meaning id="fs-idp147002320">third digestive phase; begins when chyme enters the small intestine triggering digestive secretions and controlling the rate of gastric emptying</meaning></definition>
+<definition id="fs-idp82841984"><term>secretin</term> <meaning id="fs-idp75056944">hormone which stimulates sodium bicarbonate secretion in the small intestine</meaning></definition>
+<definition id="fs-idm61397808"><term>somatostatin</term> <meaning id="fs-idp90800896">hormone released to stop acid secretion when the stomach is empty</meaning></definition>
+</glossary>
+</document>

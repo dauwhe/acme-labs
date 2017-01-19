@@ -1,0 +1,131 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44415/latest/</md:content-url>
+  <md:content-id>m44415</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.2</md:version>
+  <md:created>2012/08/23 10:35:26 -0500</md:created>
+  <md:revised>2013/01/25 16:44:20.407 US/Central</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>amphiphilic</md:keyword>
+    <md:keyword>antiporter</md:keyword>
+    <md:keyword>aquaporin</md:keyword>
+    <md:keyword>bulk transport</md:keyword>
+    <md:keyword>carrier protein</md:keyword>
+    <md:keyword>cell recognition</md:keyword>
+    <md:keyword>channel protein</md:keyword>
+    <md:keyword>co-transport</md:keyword>
+    <md:keyword>concentration gradient</md:keyword>
+    <md:keyword>contractile vacuole</md:keyword>
+    <md:keyword>diffusion</md:keyword>
+    <md:keyword>electrochemical gradient</md:keyword>
+    <md:keyword>endocytosis</md:keyword>
+    <md:keyword>exocytosis</md:keyword>
+    <md:keyword>facilitated transport</md:keyword>
+    <md:keyword>fluid mosaic model</md:keyword>
+    <md:keyword>Garth Nicholson</md:keyword>
+    <md:keyword>glucose transport protein</md:keyword>
+    <md:keyword>glycolipid</md:keyword>
+    <md:keyword>glycoprotein</md:keyword>
+    <md:keyword>Hugh Davson</md:keyword>
+    <md:keyword>hydrophilic</md:keyword>
+    <md:keyword>hydrophilic head</md:keyword>
+    <md:keyword>hydrophobic</md:keyword>
+    <md:keyword>hydrophobic tail</md:keyword>
+    <md:keyword>hypertonic</md:keyword>
+    <md:keyword>hypotonic</md:keyword>
+    <md:keyword>immunologist</md:keyword>
+    <md:keyword>integral protein</md:keyword>
+    <md:keyword>integrin</md:keyword>
+    <md:keyword>isotonic</md:keyword>
+    <md:keyword>James Danielli</md:keyword>
+    <md:keyword>membrane components</md:keyword>
+    <md:keyword>membrane fluidity</md:keyword>
+    <md:keyword>membrane function</md:keyword>
+    <md:keyword>membrane structure</md:keyword>
+    <md:keyword>osmolarity</md:keyword>
+    <md:keyword>osmoreceptor</md:keyword>
+    <md:keyword>osmoregulation</md:keyword>
+    <md:keyword>osmosis</md:keyword>
+    <md:keyword>passive transport</md:keyword>
+    <md:keyword>peripheral protein</md:keyword>
+    <md:keyword>phagocytosis</md:keyword>
+    <md:keyword>pinocytosis</md:keyword>
+    <md:keyword>plasma membrane</md:keyword>
+    <md:keyword>potocytosis</md:keyword>
+    <md:keyword>primary active transport</md:keyword>
+    <md:keyword>rate of diffusion</md:keyword>
+    <md:keyword>recepter-mediated endocytosis</md:keyword>
+    <md:keyword>S. J. Singer</md:keyword>
+    <md:keyword>secondary active transport</md:keyword>
+    <md:keyword>selective permeability</md:keyword>
+    <md:keyword>selectively permeable</md:keyword>
+    <md:keyword>sodium-potassium pump</md:keyword>
+    <md:keyword>solubility</md:keyword>
+    <md:keyword>solute</md:keyword>
+    <md:keyword>solvent</md:keyword>
+    <md:keyword>solvent density</md:keyword>
+    <md:keyword>symporter</md:keyword>
+    <md:keyword>tonicity</md:keyword>
+    <md:keyword>transport protein</md:keyword>
+    <md:keyword>turgor pressure</md:keyword>
+    <md:keyword>uniporter</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<?cnx.eoc class="summary" title="Sections Summary"?>
+<?cnx.eoc class="art-exercise" title="Art Connections"?>
+<?cnx.eoc class="multiple-choice" title="Multiple Choice"?>
+<?cnx.eoc class="free-response" title="Free Response"?>
+
+<figure id="fig-ch05_00_00" class="splash"><media id="fs-id2026471" alt="This photo shows the hustle and bustle of Grand Central Station.">
+<image mime-type="image/jpg" src="Figure_05_00_00.jpg" width="600"/>
+</media>
+
+<caption>Despite its seeming hustle and bustle, Grand Central Station functions with a high level of organization: People and objects move from one location to another, they cross or are contained within certain boundaries, and they provide a constant flow as part of larger activity. Analogously, a plasma membrane&#8217;s functions involve movement within the cell and across boundaries in the process of intracellular and intercellular activities. (credit: modification of work by Randy Le&#8217;Moine)</caption></figure><para id="fs-id1760605">The plasma membrane, which is also called the cell membrane, has many functions, but the most basic one is to define the borders of the cell and keep the cell functional. The plasma membrane is selectively permeable. This means that the membrane allows some materials to freely enter or leave the cell, while other materials cannot move freely, but require the use of a specialized structure, and occasionally, even energy investment for crossing.</para>
+</content>
+</document>

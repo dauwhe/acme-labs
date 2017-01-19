@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Eukaryotic Post-transcriptional Gene Regulation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml"
+          mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44539/latest/</md:content-url>
+  <md:content-id>m44539</md:content-id>
+  <md:title>Eukaryotic Post-transcriptional Gene Regulation</md:title>
+  <md:version>1.7</md:version>
+  <md:created>2012/08/23 13:57:12 -0500</md:created>
+  <md:revised>2013/06/26 12:23:55.077 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/" />
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>3' UTR</md:keyword>
+    <md:keyword>5' UTR</md:keyword>
+    <md:keyword>A branch site</md:keyword>
+    <md:keyword>AG dinucleotide region</md:keyword>
+    <md:keyword>dicer</md:keyword>
+    <md:keyword>eukaryotic gene regulation</md:keyword>
+    <md:keyword>eukaryotic post-transcriptional gene regulation</md:keyword>
+    <md:keyword>gene expression</md:keyword>
+    <md:keyword>GU dinucleotide signal</md:keyword>
+    <md:keyword>microRNA</md:keyword>
+    <md:keyword>miRNA</md:keyword>
+    <md:keyword>post-transcriptional gene regulation</md:keyword>
+    <md:keyword>RBP</md:keyword>
+    <md:keyword>RNA-binding protein</md:keyword>
+    <md:keyword>untranslated region</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Understand RNA splicing and explain its role in regulating gene expression</item>
+<item>Describe the importance of RNA stability in gene regulation</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-id2098364">RNA is transcribed, but must be processed into a mature form before translation can begin. This processing after an RNA molecule has been transcribed, but before it is translated into a protein, is called post-transcriptional modification. As with the epigenetic and transcriptional stages of processing, this post-transcriptional step can also be regulated to control gene expression in the cell. If the RNA is not processed, shuttled, or translated, then no protein will be synthesized.</para>
+<section id="fs-id2019050">
+<title>RNA splicing, the first stage of post-transcriptional control</title>
+    <para id="fs-id1899262">In eukaryotic cells, the RNA transcript often contains regions, called introns, that are removed prior to translation. The regions of RNA that code for protein are called exons (<link target-id="fig-ch16_05_01" document=""/>). After an RNA molecule has been transcribed, but prior to its departure from the nucleus to be translated, the RNA is processed and the introns are removed by splicing.</para><figure id="fig-ch16_05_01"><media id="fs-id1770169" alt="A pre-mRNA has four exons separated by three introns. The pre-mRNA can be alternatively spliced to create two different proteins, each with three exons. One protein contains exons one, two, and three. The other protein contains exons one, three and four.">
+<image mime-type="image/jpg" src="Figure_16_05_03.jpg" width="400"/>
+</media>
+<caption>Pre-mRNA can be alternatively spliced to create different proteins.</caption></figure><note id="fs-id2048195" class="evolution"><label/><title>Evolution Connection</title>
+
+    <para id="fs-id1418200"><title>Alternative RNA Splicing</title>In the 1970s, genes were first observed that exhibited alternative RNA splicing. Alternative RNA splicing is a mechanism that allows different protein products to be produced from one gene when different combinations of introns, and sometimes exons, are removed from the transcript (<link target-id="fig-ch16_05_02" document=""/>). This alternative splicing can be haphazard, but more often it is controlled and acts as a mechanism of gene regulation, with the frequency of different splicing alternatives controlled by the cell as a way to control the production of different protein products in different cells or at different stages of development. Alternative splicing is now understood to be a common mechanism of gene regulation in eukaryotes; according to one estimate, 70 percent of genes in humans are expressed as multiple proteins through alternative splicing.</para>
+<figure id="fig-ch16_05_02"><media id="fs-id2194968" alt="Diagram shows five methods of alternative splicing of pre-mRNA. When exon skipping occurs, an exon is spliced out in one mature mRNA product and retained in another. When mutually exclusive exons are present in the pre-mRNA, only one is retained in the mature mRNA. When an alternative 5&#x2019; donor site is present, the location of the 5&#x2019; splice site is variable. When an alternative 3&#x2019; acceptor site is present, the location of the 3&#x2019; splice site is variable. Intron retention results in an intron being retained in one mature mRNA and spliced out in another.">
+<image mime-type="image/jpg" src="Figure_15_04_02.jpg" width="400"/>
+</media>
+<caption>There are five basic modes of alternative splicing.</caption></figure><para id="fs-id1770543">How could alternative splicing evolve? Introns have a beginning and ending recognition sequence; it is easy to imagine the failure of the splicing mechanism to identify the end of an intron and instead find the end of the next intron, thus removing two introns and the intervening exon. In fact, there are mechanisms in place to prevent such intron skipping, but mutations are likely to lead to their failure. Such “mistakes” would more than likely produce a nonfunctional protein. Indeed, the cause of many genetic diseases is alternative splicing rather than mutations in a sequence. However, alternative splicing would create a protein variant without the loss of the original protein, opening up possibilities for adaptation of the new variant to new functions. Gene duplication has played an important role in the evolution of new functions in a similar way by providing genes that may evolve without eliminating the original, functional protein.</para>
+</note><note id="fs-id2030028" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-id2004529" alt="QR Code representing a URL">
+<image mime-type="image/png" src="mRNA_splicing.png" width="120"/>
+</media>
+    <para id="fs-id2571418">Visualize how mRNA splicing happens by watching the process in action in <link window="new" url="http://openstaxcollege.org/l/mRNA_splicing">this video</link>.</para>
+</note></section>
+<section id="fs-id3071072">
+<title>Control of RNA Stability</title>
+<para id="fs-id1703747">Before the mRNA leaves the nucleus, it is given two protective "caps" that prevent the end of the strand from degrading during its journey. The <term>5' cap</term>, which is placed on the 5' end of the mRNA, is usually composed of a methylated guanosine triphosphate molecule (GTP). The  <term>poly-A tail</term>, which is attached to the 3' end, is usually composed of a series of adenine nucleotides. Once the RNA is transported to the cytoplasm, the length of time that the RNA resides there can be controlled. Each RNA molecule has a defined lifespan and decays at a specific rate. This rate of decay can influence how much protein is in the cell. If the decay rate is increased, the RNA will not exist in the cytoplasm as long, shortening the time for translation to occur. Conversely, if the rate of decay is decreased, the RNA molecule will reside in the cytoplasm longer and more protein can be translated. This rate of decay is referred to as the RNA stability. If the RNA is stable, it will be detected for longer periods of time in the cytoplasm.</para><para id="fs-id2167834">Binding of proteins to the RNA can influence its stability. Proteins, called <term>RNA-binding proteins</term>, or RBPs, can bind to the regions of the RNA just upstream or downstream of the protein-coding region. These regions in the RNA that are not translated into protein are called the <term>untranslated regions</term>, or UTRs. They are not introns (those have been removed in the nucleus). Rather, these are regions that regulate mRNA localization, stability, and protein translation. The region just before the protein-coding region is called the <term>5' UTR</term>, whereas the region after the coding region is called the <term>3' UTR</term> (<link target-id="fig-ch16_05_03" document=""/>). The binding of RBPs to these regions can increase or decrease the stability of an RNA molecule, depending on the specific RBP that binds.</para>
+<figure id="fig-ch16_05_03"><media id="fs-id1445473" alt="In the mature RNA molecule, exons are spliced together between the 5' and 3' untranslated regions. A 5' cap is attached to the 5' untranslated region, and a poly-A tail is attached to the 3' untranslated region. RNA-binding proteins associate with the 5' and 3' untranslated regions.">
+<image mime-type="image/jpg" src="Figure_16_05_02.jpg" width="450"/>
+</media>
+<caption>The protein-coding region of mRNA is flanked by 5' and 3' untranslated regions (UTRs). The presence of RNA-binding proteins at the 5' or 3' UTR influences the stability of the RNA molecule.</caption></figure><section id="fs-id2590621">
+<title>RNA Stability and microRNAs</title>
+<para id="fs-id1550134">In addition to RBPs that bind to and control (increase or decrease) RNA stability, other elements called microRNAs can bind to the RNA molecule. These <term>microRNAs</term>, or miRNAs, are short RNA molecules that are only 21–24 nucleotides in length. The miRNAs are made in the nucleus as longer pre-miRNAs. These pre-miRNAs are chopped into mature miRNAs by a protein called <term>dicer</term>. Like transcription factors and RBPs, mature miRNAs recognize a specific sequence and bind to the RNA; however, miRNAs also associate with a ribonucleoprotein complex called the <term>RNA-induced silencing complex (RISC)</term>. RISC binds along with the miRNA to degrade the target mRNA. Together, miRNAs and the RISC complex rapidly destroy the RNA molecule.</para>
+</section>
+</section>
+<section id="fs-id2155116" class="summary">
+<title>Section Summary</title><para id="fs-id2572217">Post-transcriptional control can occur at any stage after transcription, including RNA splicing, nuclear shuttling, and RNA stability. Once RNA is transcribed, it must be processed to create a mature RNA that is ready to be translated. This involves the removal of introns that do not code for protein. Spliceosomes bind to the signals that mark the exon/intron border to remove the introns and ligate the exons together. Once this occurs, the RNA is mature and can be translated. RNA is created and spliced in the nucleus, but needs to be transported to the cytoplasm to be translated. RNA is transported to the cytoplasm through the nuclear pore complex. Once the RNA is in the cytoplasm, the length of time it resides there before being degraded, called RNA stability, can also be altered to control the overall amount of protein that is synthesized. The RNA stability can be increased, leading to longer residency time in the cytoplasm, or decreased, leading to shortened time and less protein synthesis. RNA stability is controlled by RNA-binding proteins (RPBs) and microRNAs (miRNAs). These RPBs and miRNAs bind to the 5' UTR or the 3' UTR of the RNA to increase or decrease RNA stability. Depending on the RBP, the stability can be increased or decreased significantly; however, miRNAs always decrease stability and promote decay.</para></section>
+<section id="fs-id2583722" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-id2685625">
+<problem id="fs-id1876100"><para id="fs-id1968588">Which of the following are involved in post-transcriptional control?</para>
+<list id="fs-id2642499" list-type="enumerated" number-style="lower-alpha">
+<item>control of RNA splicing</item>
+<item>control of RNA shuttling</item>
+<item>control of RNA stability</item>
+<item>all of the above</item>
+</list>
+</problem>
+<solution id="fs-id1684950">
+<label/>
+<para id="fs-id2585833">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id685962">
+<problem id="fs-id2216370"><para id="fs-id2914078">Binding of an RNA binding protein will ________ the stability of the RNA molecule.</para><list id="fs-id1793945" list-type="enumerated" number-style="lower-alpha">
+<item>increase</item>
+<item>decrease</item>
+<item>neither increase nor decrease</item>
+<item>either increase or decrease</item>
+</list>
+</problem>
+<solution id="fs-id2338011">
+<label/>
+<para id="fs-id1426330">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id2429574" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-id1511123">
+<problem id="fs-id2315152"><para id="fs-id2118982">Describe how RBPs can prevent miRNAs from degrading an RNA molecule.</para></problem>
+<solution id="fs-id2714180"><label/>
+<para id="fs-id3327891">RNA binding proteins (RBP) bind to the RNA and can either increase or decrease the stability of the RNA. If they increase the stability of the RNA molecule, the RNA will remain intact in the cell for a longer period of time than normal. Since both RBPs and miRNAs bind to the RNA molecule, RBP can potentially bind first to the RNA and prevent the binding of the miRNA that will degrade it.</para></solution>
+</exercise>
+<exercise id="fs-id2134312">
+<problem id="fs-id2984456"><para id="fs-id1808039">How can external stimuli alter post-transcriptional control of gene expression?</para></problem>
+<solution id="fs-id1876054"><label/>
+<para id="fs-id1894654">External stimuli can modify RNA-binding proteins (i.e., through phosphorylation of proteins) to alter their activity.</para></solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-id2025518"><term>3' UTR</term> <meaning id="fs-id1691113">3' untranslated region; region just downstream of the protein-coding region in an RNA molecule that is not translated</meaning></definition>
+<definition id="fs-id1167756837269"><term>5' cap</term><meaning id="fs-id1167746603325">a methylated guanosine triphosphate (GTP) molecule that is attached to the 5' end of a messenger RNA to protect the end from degradation</meaning></definition>
+<definition id="fs-id1412962"><term>5' UTR</term> <meaning id="fs-id2097798">5' untranslated region; region just upstream of the protein-coding region in an RNA molecule that is not translated</meaning></definition>
+<definition id="fs-id1547627"><term>dicer</term> <meaning id="fs-id2077199">enzyme that chops the pre-miRNA into the mature form of the miRNA</meaning></definition>
+<definition id="fs-id1469375"><term>microRNA (miRNA)</term> <meaning id="fs-id1398574">small RNA molecules (approximately 21 nucleotides in length) that bind to RNA molecules to degrade them</meaning></definition>
+<definition id="fs-id1167752064801"><term>poly-A tail</term><meaning id="fs-id1167774583342">a series of adenine nucleotides that are attached to the 3' end of an mRNA to protect the end from degradation</meaning></definition>
+<definition id="fs-id1627530"><term>RNA-binding protein (RBP)</term> <meaning id="fs-id1538228">protein that binds to the 3' or 5' UTR to increase or decrease the RNA stability</meaning></definition>
+<definition id="fs-id3089319"><term>RNA stability</term> <meaning id="fs-id1674740">how long an RNA molecule will remain intact in the cytoplasm</meaning></definition>
+<definition id="fs-id2929520"><term>untranslated region</term> <meaning id="fs-id2645680">segment of the RNA molecule that are not translated into protein. These regions lie before (upstream or 5') and after (downstream or 3') the protein-coding region</meaning></definition>
+<definition id="fs-id1968258"><term>RISC</term> <meaning id="fs-id2163830">protein complex that binds along with the miRNA to the RNA to degrade it</meaning></definition>
+</glossary>
+
+</document>

@@ -1,0 +1,149 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44457/latest/</md:content-url>
+  <md:content-id>m44457</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.2</md:version>
+  <md:created>2012/08/23 11:03:46 -0500</md:created>
+  <md:revised>2013/01/29 14:41:48.388 US/Central</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>anaphase</md:keyword>
+    <md:keyword>binary fission</md:keyword>
+    <md:keyword>cancer</md:keyword>
+    <md:keyword>Cdk</md:keyword>
+    <md:keyword>cell cycle</md:keyword>
+    <md:keyword>cell cycle checkpoint</md:keyword>
+    <md:keyword>cell cycle control</md:keyword>
+    <md:keyword>cell cycle regulation</md:keyword>
+    <md:keyword>cell division</md:keyword>
+    <md:keyword>cell motion</md:keyword>
+    <md:keyword>cell plate</md:keyword>
+    <md:keyword>cell reproduction</md:keyword>
+    <md:keyword>centriole</md:keyword>
+    <md:keyword>centromere</md:keyword>
+    <md:keyword>checkpoint</md:keyword>
+    <md:keyword>chromatid</md:keyword>
+    <md:keyword>chromosome</md:keyword>
+    <md:keyword>chromosome compaction</md:keyword>
+    <md:keyword>cleavage furrow</md:keyword>
+    <md:keyword>condensin</md:keyword>
+    <md:keyword>cyclin</md:keyword>
+    <md:keyword>cyclin-dependent kinase</md:keyword>
+    <md:keyword>cytokinesis</md:keyword>
+    <md:keyword>cytoplasm</md:keyword>
+    <md:keyword>diploid</md:keyword>
+    <md:keyword>DNA</md:keyword>
+    <md:keyword>double helix</md:keyword>
+    <md:keyword>eukaryotic genome</md:keyword>
+    <md:keyword>first gap</md:keyword>
+    <md:keyword>FtsZ</md:keyword>
+    <md:keyword>G0 phase</md:keyword>
+    <md:keyword>G1</md:keyword>
+    <md:keyword>G1 checkpoint</md:keyword>
+    <md:keyword>G1 phase</md:keyword>
+    <md:keyword>G2</md:keyword>
+    <md:keyword>G2 checkpoint</md:keyword>
+    <md:keyword>G2 phase</md:keyword>
+    <md:keyword>gamete</md:keyword>
+    <md:keyword>gene</md:keyword>
+    <md:keyword>genome</md:keyword>
+    <md:keyword>genomic DNA</md:keyword>
+    <md:keyword>Golgi apparatus</md:keyword>
+    <md:keyword>haploid</md:keyword>
+    <md:keyword>histone</md:keyword>
+    <md:keyword>histone protein</md:keyword>
+    <md:keyword>homologous chromosome</md:keyword>
+    <md:keyword>inhibition of cell division</md:keyword>
+    <md:keyword>initiation of cell division</md:keyword>
+    <md:keyword>interphase</md:keyword>
+    <md:keyword>karyokinesis</md:keyword>
+    <md:keyword>kinetochore</md:keyword>
+    <md:keyword>locus</md:keyword>
+    <md:keyword>M checkpoint</md:keyword>
+    <md:keyword>metaphase</md:keyword>
+    <md:keyword>metaphase plate</md:keyword>
+    <md:keyword>mitosis</md:keyword>
+    <md:keyword>mitotic phase</md:keyword>
+    <md:keyword>mitotic spindle</md:keyword>
+    <md:keyword>mutation</md:keyword>
+    <md:keyword>negative regulation</md:keyword>
+    <md:keyword>nucleosome</md:keyword>
+    <md:keyword>oncogene</md:keyword>
+    <md:keyword>origin</md:keyword>
+    <md:keyword>p21</md:keyword>
+    <md:keyword>p53</md:keyword>
+    <md:keyword>prokaryotic cell division</md:keyword>
+    <md:keyword>prokaryotic genome</md:keyword>
+    <md:keyword>prometaphase</md:keyword>
+    <md:keyword>prophase</md:keyword>
+    <md:keyword>proto-oncogene</md:keyword>
+    <md:keyword>quiescent</md:keyword>
+    <md:keyword>Rb</md:keyword>
+    <md:keyword>retinoblastoma protein</md:keyword>
+    <md:keyword>S phase</md:keyword>
+    <md:keyword>second gap</md:keyword>
+    <md:keyword>septum</md:keyword>
+    <md:keyword>sister chromatid</md:keyword>
+    <md:keyword>somatic cell</md:keyword>
+    <md:keyword>spindle checkpoint</md:keyword>
+    <md:keyword>telophase</md:keyword>
+    <md:keyword>trait</md:keyword>
+    <md:keyword>tumor suppressor</md:keyword>
+    <md:keyword>tumor suppressor gene</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<?cnx.eoc class="summary" title="Sections Summary"?>
+<?cnx.eoc class="art-exercise" title="Art Connections"?>
+<?cnx.eoc class="multiple-choice" title="Multiple Choice"?>
+<?cnx.eoc class="free-response" title="Free Response"?>
+
+<figure id="fig-ch10_00_01" class="splash"><media id="fs-id1341960" alt="Image A shows two conjoined cells forming a dumbbell shape; the fertilization envelope has been removed so that the mesh-like outer layer can be seen. Image B shows the sea urchin embryo when it has divided into 16 conjoined cells; the overall shape is rounder than in image A. Image C shows a &#8220;water melon&#8221; sea urchin which appears as a peach-colored ball covered in white protruding spines.">
+<image mime-type="image/jpg" src="Figure_10_00_02abc.jpg" width="600"/>
+</media>
+<caption>A sea urchin begins life as a single cell that (a) divides to form two cells, visible by scanning electron microscopy. After four rounds of cell division, (b) there are 16 cells, as seen in this SEM image. After many rounds of cell division, the individual develops into a complex, multicellular organism, as seen in this (c) mature sea urchin. (credit a: modification of work by Evelyn Spiegel, Louisa Howard; credit b: modification of work by Evelyn Spiegel, Louisa Howard; credit c: modification of work by Marco Busdraghi; scale-bar data from Matt Russell)</caption></figure><para id="fs-id1375702">A human, as well as every sexually reproducing organism, begins life as a fertilized egg (embryo) or zygote. Trillions of cell divisions subsequently occur in a controlled manner to produce a complex, multicellular human. In other words, that original single cell is the ancestor of every other cell in the body. Once a being is fully grown, cell reproduction is still necessary to repair or regenerate tissues. For example, new blood and skin cells are constantly being produced. All multicellular organisms use cell division for growth and the maintenance and repair of cells and tissues. Cell division is tightly regulated, and the occasional failure of regulation can have life-threatening consequences. Single-celled organisms use cell division as their method of reproduction.</para></content>
+</document>

@@ -1,0 +1,240 @@
+<?xml version="1.0"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Carbohydrates</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml"
+          mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44400/latest/</md:content-url>
+  <md:content-id>m44400</md:content-id>
+  <md:title>Carbohydrates</md:title>
+  <md:version>1.6</md:version>
+  <md:created>2012/08/22 16:20:46 -0500</md:created>
+  <md:revised>2013/04/04 15:34:34.928 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/" />
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>biological macromolecules</md:keyword>
+    <md:keyword>biological molecules</md:keyword>
+    <md:keyword>carbohydrate</md:keyword>
+    <md:keyword>carbohydrate classification</md:keyword>
+    <md:keyword>carbohydrates</md:keyword>
+    <md:keyword>cellulose</md:keyword>
+    <md:keyword>chitin</md:keyword>
+    <md:keyword>disaccharide</md:keyword>
+    <md:keyword>glycogen</md:keyword>
+    <md:keyword>glycosidic bond</md:keyword>
+    <md:keyword>molecular structure</md:keyword>
+    <md:keyword>monosaccharide</md:keyword>
+    <md:keyword>polysaccharide</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Discuss the role of carbohydrates in cells and in the extracellular materials of animals and plants</item>
+<item>Explain the classifications of carbohydrates</item>
+<item>List common monosaccharides, disaccharides, and polysaccharides</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-id1364671">Most people are familiar with carbohydrates, one type of macromolecule, especially when it comes to what we eat. To lose weight, some individuals adhere to “low-carb” diets. Athletes, in contrast, often “carb-load” before important competitions to ensure that they have enough energy to compete at a high level. Carbohydrates are, in fact, an essential part of our diet; grains, fruits, and vegetables are all natural sources of carbohydrates. Carbohydrates provide energy to the body, particularly through glucose, a simple sugar that is a component of <term>starch</term> and an ingredient in many staple foods. Carbohydrates also have other important functions in humans, animals, and plants.</para>
+<section id="fs-id1812122">
+<title>Molecular Structures</title>
+<para id="fs-id1262009"><term>Carbohydrates</term> can be represented by the stoichiometric formula (CH<sub>2</sub>O)<emphasis effect="italics"><sub>n</sub></emphasis>, where n is the number of carbons in the molecule. In other words, the ratio of carbon to hydrogen to oxygen is 1:2:1 in carbohydrate molecules. This formula also explains the origin of the term “carbohydrate”: the components are carbon (“carbo”) and the components of water (hence, “hydrate”). Carbohydrates are classified into three subtypes: monosaccharides, disaccharides, and polysaccharides.</para>
+<section id="fs-id1462931">
+<title>Monosaccharides</title>
+<para id="fs-id2177131"><term>Monosaccharides</term> (mono- = “one”; sacchar- = “sweet”) are simple sugars, the most common of which is glucose. In monosaccharides, the number of carbons usually ranges from three to seven. Most monosaccharide names end with the suffix -ose. If the sugar has an aldehyde group (the functional group with the structure R-CHO), it is known as an aldose, and if it has a ketone group (the functional group with the structure RC(=O)R'), it is known as a ketose. Depending on the number of carbons in the sugar, they also may be known as trioses (three carbons), pentoses (five carbons), and or hexoses (six carbons). See <link target-id="fig-ch03_02_01" document=""/> for an illustration of the monosaccharides.</para>
+<figure id="fig-ch03_02_01" class="span-all"><media id="fs-id1266915" alt="The molecular structures of glyceraldehyde, an aldose, and dihydroxyacetone, a ketose, are shown. Both sugars have a three-carbon backbone. Glyceraldehyde has a carbonyl group (c double bonded to O) at one end of the carbon chain with hydroxyl (OH) groups attached to the other carbons. Dihydroxyacetone has a carbonyl group in the middle of the chain and alcohol groups at each end. The molecular structures of linear forms of ribose, a pentose, and glucose, a hexose, are also shown. Both ribose and glucose are aldoses with a carbonyl group at the end of chain,and hydroxyl groups attached to the other carbons.">
+<image mime-type="image/jpg" src="Figure_03_02_01.jpg" width="400"/>
+</media>
+<caption>Monosaccharides are classified based on the position of their carbonyl group and the number of carbons in the backbone. Aldoses have a carbonyl group (indicated in green) at the end of the carbon chain, and ketoses have a carbonyl group in the middle of the carbon chain. Trioses, pentoses, and hexoses have three, five, and six carbon backbones, respectively.</caption></figure><para id="fs-id1083099">The chemical formula for glucose is C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>. In humans, glucose is an important source of energy. During cellular respiration, energy is released from glucose, and that energy is used to help make adenosine triphosphate (ATP). Plants synthesize glucose using carbon dioxide and water, and glucose in turn is used for energy requirements for the plant. Excess glucose is often stored as starch that is catabolized (the breakdown of larger molecules by cells) by humans and other animals that feed on plants.</para>
+<para id="fs-id1778752">Galactose (part of lactose, or milk sugar) and fructose (found in sucrose, in fruit) are other common monosaccharides. Although glucose, galactose, and fructose all have the same chemical formula (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>), they differ structurally and chemically (and are known as isomers) because of the different arrangement of functional groups around the asymmetric carbon; all of these monosaccharides have more than one asymmetric carbon (<link target-id="fig-ch03_02_02" document=""/>).</para>
+<note id="fs-id1385935" class="art-connection"><label/><title>Art Connection</title>
+<para id="fs-id2000117"><figure id="fig-ch03_02_02"><media id="fs-id1319192" alt="The molecular structures of the linear forms of glucose, galactose, and fructose are shown. Glucose and galactose are both aldoses with a carbonyl group (carbon double-bonded to oxygen) at one end of the molecule. A hydroxyl (OH) group is attached to each of the other residues. In glucose, the hydroxyl group attached to the second carbon is on the left side of the molecular structure and all other hydroxyl groups are on the right. In galactose, the hydroxyl groups attached to the third and fourth carbons are on the left, and the hydroxyl groups attached to the second, fifth and sixth carbon are on the right. Frucose is a ketose with C doubled bonded to O at the second carbon. All other carbons have hydroxyl groups associated with them. The hydroxyl group associated with the third carbon is on the left, and all the other hydroxyl groups are on the right.">
+<image mime-type="image/png" src="Figure_03_02_02.png" width="400"/>
+</media>
+<caption>Glucose, galactose, and fructose are all hexoses. They are structural isomers, meaning they have the same chemical formula (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>) but a different arrangement of atoms.</caption></figure></para>
+<para id="fs-id2762822">What kind of sugars are these, aldose or ketose?</para>
+</note><para id="fs-id2009364">Glucose, galactose, and fructose are isomeric monosaccharides (hexoses), meaning they have the same chemical formula but have slightly different structures. Glucose and galactose are aldoses, and fructose is a ketose.</para>
+<para id="fs-id1465546">Monosaccharides can exist as a linear chain or as ring-shaped molecules; in aqueous solutions they are usually found in ring forms (<link target-id="fig-ch03_02_03" document=""/>). Glucose in a ring form can have two different arrangements of the hydroxyl group (OH) around the anomeric carbon (carbon 1 that becomes asymmetric in the process of ring formation). If the hydroxyl group is below carbon number 1 in the sugar, it is said to be in the alpha (<emphasis effect="italics">α</emphasis>) position, and if it is above the plane, it is said to be in the beta (<emphasis effect="italics">β</emphasis>) position.</para>
+<figure id="fig-ch03_02_03" class="span-all"><media id="fs-id2020604" alt="The conversion of glucose between linear and ring forms is shown. The glucose ring has five carbons and an oxygen. In alpha glucose, the first hydroxyl group is locked in a down position, and in beta glucose, the ring is locked in an up position. Structures for ring forms of ribose and fructose are also shown. Both sugars have a ring with four carbons and an oxygen.">
+<image mime-type="image/jpg" src="Figure_03_02_03.jpg" width="400"/>
+</media>
+<caption>Five and six carbon monosaccharides exist in equilibrium between linear and ring forms. When the ring forms, the side chain it closes on is locked into an <emphasis effect="italics">α</emphasis> or <emphasis effect="italics">β </emphasis>position. Fructose and ribose also form rings, although they form five-membered rings as opposed to the six-membered ring of glucose.</caption></figure></section>
+<section id="fs-id2016502">
+<title>Disaccharides</title>
+<para id="fs-id1958211"><term>Disaccharides</term> (di- = “two”) form when two monosaccharides undergo a dehydration reaction (also known as a condensation reaction or dehydration synthesis). During this process, the hydroxyl group of one monosaccharide combines with the hydrogen of another monosaccharide, releasing a molecule of water and forming a covalent bond. A covalent bond formed between a carbohydrate molecule and another molecule (in this case, between two monosaccharides) is known as a <term>glycosidic bond</term> (<link target-id="fig-ch03_02_04" document=""/>). Glycosidic bonds (also called glycosidic linkages) can be of the alpha or the beta type.</para>
+<figure id="fig-ch03_02_04"><media id="fs-id2890621" alt="The formation of sucrose from glucose and fructose is shown. In sucrose, the number one carbon of the glucose ring is connected to the number two carbon of fructose via an oxygen.">
+<image mime-type="image/jpg" src="Figure_03_02_04.jpg" width="400"/>
+</media>
+<caption>Sucrose is formed when a monomer of glucose and a monomer of fructose are joined in a dehydration reaction to form a glycosidic bond. In the process, a water molecule is lost. By convention, the carbon atoms in a monosaccharide are numbered from the terminal carbon closest to the carbonyl group. In sucrose, a glycosidic linkage is formed between carbon 1 in glucose and carbon 2 in fructose.</caption></figure><para id="fs-id1720997">Common disaccharides include lactose, maltose, and sucrose (<link target-id="fig-ch03_02_05" document=""/>). Lactose is a disaccharide consisting of the monomers glucose and galactose. It is found naturally in milk. Maltose, or malt sugar, is a disaccharide formed by a dehydration reaction between two glucose molecules. The most common disaccharide is sucrose, or table sugar, which is composed of the monomers glucose and fructose.</para>
+<figure id="fig-ch03_02_05" class="span-all"><media id="fs-id1462227" alt=" The chemical structures of maltose, lactose, and sucrose are shown. Both maltose and lactose are made from two glucose monomers joined together in ring form. In maltose, the oxygen in the glycosidic bond points downward. In lactose, the oxygen in the glycosidic bond points upward. Sucrose is made from glucose and fructose monomers. The oxygen in the glycosidic bond points downward.">
+<image mime-type="image/jpg" src="Figure_03_02_05.jpg" width="400"/>
+</media>
+<caption>Common disaccharides include maltose (grain sugar), lactose (milk sugar), and sucrose (table sugar).</caption></figure></section>
+<section id="fs-id2051550"><title>Polysaccharides</title><para id="fs-id2164545">A long chain of monosaccharides linked by glycosidic bonds is known as a <term>polysaccharide</term> (poly- = “many”). The chain may be branched or unbranched, and it may contain different types of monosaccharides. The molecular weight may be 100,000 daltons or more depending on the number of monomers joined. Starch, glycogen, cellulose, and chitin are primary examples of polysaccharides.</para>
+<para id="fs-id1712546">Starch is the stored form of sugars in plants and is made up of a mixture of amylose and amylopectin (both polymers of glucose). Plants are able to synthesize glucose, and the excess glucose, beyond the plant’s immediate energy needs, is stored as starch in different plant parts, including roots and seeds. The starch in the seeds provides food for the embryo as it germinates and can also act as a source of food for humans and animals. The starch that is consumed by humans is broken down by enzymes, such as salivary amylases, into smaller molecules, such as maltose and glucose. The cells can then absorb the glucose.</para>
+<para id="fs-id1707972">Starch is made up of glucose monomers that are joined by <emphasis effect="italics">α</emphasis> 1-4 or <emphasis effect="italics">α</emphasis> 1-6 glycosidic bonds. The numbers 1-4 and 1-6 refer to the carbon number of the two residues that have joined to form the bond. As illustrated in <link target-id="fig-ch03_02_06" document=""/>, amylose is starch formed by unbranched chains of glucose monomers (only <emphasis effect="italics">α</emphasis> 1-4 linkages), whereas amylopectin is a branched polysaccharide (<emphasis effect="italics">α</emphasis> 1-6 linkages at the branch points).</para><figure id="fig-ch03_02_06" class="span-all"><media id="fs-id2582195" alt="The chemical structures of amylose and amylopectin are shown. Amylose consists of unbranched chains of glucose subunits, and amylopectin consists of branched chains of glucose subunits.">
+<image mime-type="image/jpg" src="Figure_03_02_06.jpg" width="400"/>
+</media>
+<caption>Amylose and amylopectin are two different forms of starch. Amylose is composed of unbranched chains of glucose monomers connected by <emphasis effect="italics">α</emphasis> 1,4 glycosidic linkages. Amylopectin is composed of branched chains of glucose monomers connected by <emphasis effect="italics">α</emphasis> 1,4 and <emphasis effect="italics">α</emphasis> 1,6 glycosidic linkages. Because of the way the subunits are joined, the glucose chains have a helical structure. Glycogen (not shown) is similar in structure to amylopectin but more highly branched.</caption></figure><para id="fs-id1477384"><term>Glycogen</term> is the storage form of glucose in humans and other vertebrates and is made up of monomers of glucose. Glycogen is the animal equivalent of starch and is a highly branched molecule usually stored in liver and muscle cells. Whenever blood glucose levels decrease, glycogen is broken down to release glucose in a process known as glycogenolysis.</para>
+<para id="fs-id2491319"><term>Cellulose</term> is the most abundant natural biopolymer. The cell wall of plants is mostly made of cellulose; this provides structural support to the cell. Wood and paper are mostly cellulosic in nature. Cellulose is made up of glucose monomers that are linked by <emphasis effect="italics">β</emphasis> 1-4 glycosidic bonds (<link target-id="fig-ch03_02_07" document=""/>).</para>
+<figure id="fig-ch03_02_07" class="span-all"><media id="fs-id1405882" alt="The chemical structure of cellulose is shown. Cellulose consists of unbranched chains of glucose subunits.">
+<image mime-type="image/jpg" src="Figure_03_02_07.jpg" width="350"/>
+</media>
+<caption>In cellulose, glucose monomers are linked in unbranched chains by <emphasis effect="italics">β</emphasis> 1-4 glycosidic linkages. Because of the way the glucose subunits are joined, every glucose monomer is flipped relative to the next one resulting in a linear, fibrous structure.</caption></figure><para id="fs-id1808424">As shown in <link target-id="fig-ch03_02_07" document=""/>, every other glucose monomer in cellulose is flipped over, and the monomers are packed tightly as extended long chains. This gives cellulose its rigidity and high tensile strength—which is so important to plant cells. While the <emphasis effect="italics">β</emphasis> 1-4 linkage cannot be broken down by human digestive enzymes, herbivores such as cows, koalas, buffalos, and horses are able, with the help of the specialized flora in their stomach, to digest plant material that is rich in cellulose and use it as a food source. In these animals, certain species of bacteria and protists reside in the rumen (part of the digestive system of herbivores) and secrete the enzyme cellulase. The appendix of grazing animals also contains bacteria that digest cellulose, giving it an important role in the digestive systems of ruminants. Cellulases can break down cellulose into glucose monomers that can be used as an energy source by the animal. Termites are also able to break down cellulose because of the presence of other organisms in their bodies that secrete cellulases.</para>
+<para id="fs-id2076089">Carbohydrates serve various functions in different animals. Arthropods (insects, crustaceans, and others) have an outer skeleton, called the exoskeleton, which protects their internal body parts (as seen in the bee in <link target-id="fig-ch03_02_08" document=""/>). This exoskeleton is made of the biological macromolecule <term>chitin</term>, which is a polysaccharide-containing nitrogen. It is made of repeating units of N-acetyl-<emphasis effect="italics">β</emphasis>-d-glucosamine, a modified sugar. Chitin is also a major component of fungal cell walls; fungi are neither animals nor plants and form a kingdom of their own in the domain Eukarya.</para>
+<figure id="fig-ch03_02_08">
+<media id="fs-id2229089" alt="A photograph shows a bee in flight, getting nectar from a flower.">
+<image mime-type="image/jpg" src="Figure_03_02_08.jpg" width="320"/>
+</media>
+<caption>Insects have a hard outer exoskeleton made of chitin, a type of polysaccharide. (credit: Louise Docker)</caption></figure>
+<note id="fs-id2689115" class="career"><label/><title>Career Connections</title>
+
+<para id="fs-id3032648"><title>Registered Dietitian</title>Obesity is a worldwide health concern, and many diseases such as diabetes and heart disease are becoming more prevalent because of obesity. This is one of the reasons why registered dietitians are increasingly sought after for advice. Registered dietitians help plan nutrition programs for individuals in various settings. They often work with patients in health care facilities, designing nutrition plans to treat and prevent diseases. For example, dietitians may teach a patient with diabetes how to manage blood sugar levels by eating the correct types and amounts of carbohydrates. Dietitians may also work in nursing homes, schools, and private practices.</para>
+<para id="fs-id1396080">To become a registered dietitian, one needs to earn at least a bachelor’s degree in dietetics, nutrition, food technology, or a related field. In addition, registered dietitians must complete a supervised internship program and pass a national exam. Those who pursue careers in dietetics take courses in nutrition, chemistry, biochemistry, biology, microbiology, and human physiology. Dietitians must become experts in the chemistry and physiology (biological functions) of food (proteins, carbohydrates, and fats).</para>
+</note></section></section>
+<section id="fs-id2584042">
+<title>Benefits of Carbohydrates</title>
+<para id="fs-id2642520">Are carbohydrates good for you? People who wish to lose weight are often told that carbohydrates are bad for them and should be avoided. Some diets completely forbid carbohydrate consumption, claiming that a low-carbohydrate diet helps people to lose weight faster. However, carbohydrates have been an important part of the human diet for thousands of years; artifacts from ancient civilizations show the presence of wheat, rice, and corn in our ancestors’ storage areas.</para>
+<para id="fs-id1760576">Carbohydrates should be supplemented with proteins, vitamins, and fats to be parts of a well-balanced diet. Calorie-wise, a gram of carbohydrate provides 4.3 Kcal. For comparison, fats provide 9 Kcal/g, a less desirable ratio. Carbohydrates contain soluble and insoluble elements; the insoluble part is known as fiber, which is mostly cellulose. Fiber has many uses; it promotes regular bowel movement by adding bulk, and it regulates the rate of consumption of blood glucose. Fiber also helps to remove excess cholesterol from the body: fiber binds to the cholesterol in the small intestine, then attaches to the cholesterol and prevents the cholesterol particles from entering the bloodstream, and then cholesterol exits the body via the feces. Fiber-rich diets also have a protective role in reducing the occurrence of colon cancer. In addition, a meal containing whole grains and vegetables gives a feeling of fullness. As an immediate source of energy, glucose is broken down during the process of cellular respiration, which produces ATP, the energy currency of the cell. Without the consumption of carbohydrates, the availability of “instant energy” would be reduced. Eliminating carbohydrates from the diet is not the best way to lose weight. A low-calorie diet that is rich in whole grains, fruits, vegetables, and lean meat, together with plenty of exercise and plenty of water, is the more sensible way to lose weight.</para>
+<note id="fs-id1685167" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-id2228037" alt="QR Code representing a URL">
+<image mime-type="image/png" src="carbohydrates.png" width="130"/>
+</media>
+<para id="fs-id1470797">For an additional perspective on carbohydrates, explore “Biomolecules: the Carbohydrates” through this <link window="new" url="http://openstaxcollege.org/l/carbohydrates">interactive animation</link>.</para>
+</note></section>
+<section id="fs-id2642295" class="summary">
+<title>Section Summary</title><para id="fs-id3032521">Carbohydrates are a group of macromolecules that are a vital energy source for the cell and provide structural support to plant cells, fungi, and all of the arthropods that include lobsters, crabs, shrimp, insects, and spiders. Carbohydrates are classified as monosaccharides, disaccharides, and polysaccharides depending on the number of monomers in the molecule. Monosaccharides are linked by glycosidic bonds that are formed as a result of dehydration reactions, forming disaccharides and polysaccharides with the elimination of a water molecule for each bond formed. Glucose, galactose, and fructose are common monosaccharides, whereas common disaccharides include lactose, maltose, and sucrose. Starch and glycogen, examples of polysaccharides, are the storage forms of glucose in plants and animals, respectively. The long polysaccharide chains may be branched or unbranched. Cellulose is an example of an unbranched polysaccharide, whereas amylopectin, a constituent of starch, is a highly branched molecule. Storage of glucose, in the form of polymers like starch of glycogen, makes it slightly less accessible for metabolism; however, this prevents it from leaking out of the cell or creating a high osmotic pressure that could cause excessive water uptake by the cell.</para>
+</section>
+<section id="fs-id2854165" class="art-exercise">
+    <title>Art Connections</title>
+    <exercise id="fs-id2750519">
+        <problem id="fs-id2250640">
+            <para id="fs-id1700158"><link target-id="fig-ch03_02_02" document=""/> What kind of sugars are these, aldose or ketose?</para>
+        </problem>
+    <solution id="fs-id3057016"><label/>
+        <para id="fs-id2643010"><link target-id="fig-ch03_02_02" document=""/> Glucose and galactose are aldoses. Fructose is a ketose.</para></solution>
+    </exercise>
+</section>
+<section id="fs-id2862763" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-id2310536">
+<problem id="fs-id1569577"><para id="fs-id2008744">An example of a monosaccharide is ________.</para>
+<list id="fs-id1597195" list-type="enumerated" number-style="lower-alpha">
+<item>fructose</item>
+<item>glucose</item>
+<item>galactose</item>
+<item>all of the above</item>
+</list>
+</problem>
+<solution id="fs-id1602684">
+<label/>
+<para id="fs-id1703103">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1352111">
+<problem id="fs-id2051904"><para id="fs-id1699648">Cellulose and starch are examples of:</para>
+<list id="fs-id1770658" list-type="enumerated" number-style="lower-alpha">
+<item>monosaccharides</item>
+<item>disaccharides</item>
+<item>lipids</item>
+<item>polysaccharides</item>
+</list>
+</problem>
+<solution id="fs-id1968434">
+<label/>
+<para id="fs-id2348312">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1730970">
+<problem id="fs-id2897121"><para id="fs-id2054430">Plant cell walls contain which of the following in abundance?</para>
+<list id="fs-id1463019" list-type="enumerated" number-style="lower-alpha">
+<item>starch</item>
+<item>cellulose</item>
+<item>glycogen</item>
+<item>lactose</item>
+</list>
+</problem>
+<solution id="fs-id1805502">
+<label/>
+<para id="fs-id2024549">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1478280">
+<problem id="fs-id2287454"><para id="fs-id2024704">Lactose is a disaccharide formed by the formation of a ________ bond between glucose and ________.</para>
+<list id="fs-id1596510" list-type="enumerated" number-style="lower-alpha">
+<item>glycosidic; lactose</item>
+<item>glycosidic; galactose</item>
+<item>hydrogen; sucrose</item>
+<item>hydrogen; fructose</item>
+</list>
+</problem>
+<solution id="fs-id1912492">
+<label/>
+<para id="fs-id1511823">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1635254" class="free-response">
+<title>Free Response</title><exercise id="fs-id1421074">
+<problem id="fs-id2763308"><para id="fs-id1462948">Describe the similarities and differences between glycogen and starch.</para></problem>
+<solution id="fs-id2854177"><label/>
+<para id="fs-id2491136">Glycogen and starch are polysaccharides. They are the storage form of glucose. Glycogen is stored in animals in the liver and in muscle cells, whereas starch is stored in the roots, seeds, and leaves of plants. Starch has two different forms, one unbranched (amylose) and one branched (amylopectin), whereas glycogen is a single type of a highly branched molecule.</para></solution>
+</exercise>
+<exercise id="fs-id2164078">
+<problem id="fs-id1876261"><para id="fs-id1396854">Why is it impossible for humans to digest food that contains cellulose?</para></problem>
+<solution id="fs-id1510995"><label/>
+<para id="fs-id2951825">The <emphasis effect="italics">β</emphasis> 1-4 glycosidic linkage in cellulose cannot be broken down by human digestive enzymes. Herbivores such as cows, buffalos, and horses are able to digest grass that is rich in cellulose and use it as a food source because bacteria and protists in their digestive systems, especially in the rumen, secrete the enzyme cellulase. Cellulases can break down cellulose into glucose monomers that can be used as an energy source by the animal.</para></solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-id2348307"><term>carbohydrate</term> <meaning id="fs-id2572195">biological macromolecule in which the ratio of carbon to hydrogen and to oxygen is 1:2:1; carbohydrates serve as energy sources and structural support in cells and form the a cellular exoskeleton of arthropods</meaning></definition>
+<definition id="fs-id2144933"><term>cellulose</term> <meaning id="fs-id1966871">polysaccharide that makes up the cell wall of plants;  provides structural support to the cell</meaning></definition>
+<definition id="fs-id1778091"><term>chitin</term> <meaning id="fs-id1957163">type of carbohydrate that forms the outer skeleton of all arthropods that include crustaceans and insects; it also forms the cell walls of fungi</meaning></definition>
+<definition id="fs-id1805432"><term>disaccharide</term> <meaning id="fs-id2123880">two sugar monomers that are linked together by a glycosidic bond</meaning></definition>
+<definition id="fs-id2581968"><term>glycogen</term> <meaning id="fs-id1449477">storage carbohydrate in animals</meaning></definition>
+<definition id="fs-id1286063"><term>glycosidic bond</term> <meaning id="fs-id2979084">bond formed by a dehydration reaction between two monosaccharides with the elimination of a water molecule</meaning></definition>
+<definition id="fs-id2155001"><term>monosaccharide</term> <meaning id="fs-id1511899">single unit or monomer of carbohydrates</meaning></definition>
+<definition id="fs-id2171791"><term>polysaccharide</term> <meaning id="fs-id1882991">long chain of monosaccharides; may be branched or unbranched</meaning></definition>
+<definition id="fs-id1386450"><term>starch</term> <meaning id="fs-id1470590">storage carbohydrate in plants</meaning></definition>
+</glossary>
+
+</document>

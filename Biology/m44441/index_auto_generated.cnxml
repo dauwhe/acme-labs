@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Connections of Carbohydrate, Protein, and Lipid Metabolic Pathways</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml"
+          mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44441/latest</md:content-url>
+  <md:content-id>m44441</md:content-id>
+  <md:title>Connections of Carbohydrate, Protein, and Lipid Metabolic Pathways</md:title>
+  <md:version>1.8</md:version>
+  <md:created>2012/08/23 10:48:48 -0500</md:created>
+  <md:revised>2014/02/24 15:59:39 -0600</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax</md:shortname>
+      <md:fullname>OpenStax</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>carbohydrate metabolic pathway</md:keyword>
+    <md:keyword>cellular metabolism</md:keyword>
+    <md:keyword>cellular respiration</md:keyword>
+    <md:keyword>glycogen</md:keyword>
+    <md:keyword>glycolysis</md:keyword>
+    <md:keyword>lipid metabolic pathway</md:keyword>
+    <md:keyword>photosynthesis</md:keyword>
+    <md:keyword>protein metabolic pathway</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Discuss the ways in which carbohydrate metabolic pathways, glycolysis, and the citric acid cycle interrelate with protein and lipid metabolic pathways</item>
+<item>Explain why metabolic pathways are not considered closed systems</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-id2099754">You have learned about the catabolism of glucose, which provides energy to living cells. But living things consume more than glucose for food. How does a turkey sandwich end up as ATP in your cells? This happens because all of the catabolic pathways for carbohydrates, proteins, and lipids eventually connect into glycolysis and the citric acid cycle pathways (see  <link target-id="fig-ch07_06_02" document=""/>). Metabolic pathways should be thought of as porous—that is, substances enter from other pathways, and intermediates leave for other pathways. These pathways are not closed systems. Many of the substrates, intermediates, and products in a particular pathway are reactants in other pathways.</para><section id="fs-id1982002">
+<title>Connections of Other Sugars to Glucose Metabolism</title>
+<para id="fs-id1760310">Glycogen, a polymer of glucose, is an energy storage molecule in animals. When there is adequate ATP present, excess glucose is shunted into glycogen for storage. Glycogen is made and stored in both liver and muscle. The glycogen will be hydrolyzed into glucose monomers (G-1-P) if blood sugar levels drop. The presence of glycogen as a source of glucose allows ATP to be produced for a longer period of time during exercise. Glycogen is broken down into G-1-P and converted into G-6-P in both muscle and liver cells, and this product enters the glycolytic pathway.</para><para id="fs-id3662169">Sucrose is a disaccharide with a molecule of glucose and a molecule of fructose bonded together with a glycosidic linkage. Fructose is one of the three dietary monosaccharides, along with glucose and galactose (which is part of the milk sugar, the disaccharide lactose), which are absorbed directly into the bloodstream during digestion. The catabolism of both fructose and galactose produces the same number of ATP molecules as glucose.</para>
+</section>
+<section id="fs-id1506941">
+<title>Connections of Proteins to Glucose Metabolism</title>
+    <para id="fs-id2573481">Proteins are hydrolyzed by a variety of enzymes in cells. Most of the time, the amino acids are recycled into the synthesis of new proteins. If there are excess amino acids, however, or if the body is in a state of starvation, some amino acids will be shunted into the pathways of glucose catabolism (<link target-id="fig-ch07_06_01" document=""/>). Each amino acid must have its amino group removed prior to entry into these pathways. The amino group is converted into ammonia. In mammals, the liver synthesizes urea from two ammonia molecules and a carbon dioxide molecule. Thus, urea is the principal waste product in mammals produced from the nitrogen originating in amino acids, and it leaves the body in urine.</para>
+<figure id="fig-ch07_06_01" class=" "><media id="fs-id1696378" alt="This illustration shows that the amino acids alanine, glycine, threonine, cysteine, and serine can be converted into pyruvate. Leucine, lysine, phenylalanine, tyrosine, tryptophan, and isoleucine can be converted into acetyl CoA. Arginine, proline, histidine, glutamine, and glutamate can be converted into &#x3B1;-ketoglutarate. Isoleucine, valine, methionine, and threonine can be converted into succinyl CoA. Tyrosine and phenylalanine can be converted into fumarate, and aspartate and asparagine can be converted into oxaloacetate.">
+<image mime-type="image/jpg" src="Figure_07_06_01.jpg" width="500"/>
+</media>
+<caption>The carbon skeletons of certain amino acids (indicated in boxes) derived from proteins can feed into the citric acid cycle. (credit: modification of work by Mikael Häggström)</caption></figure></section>
+<section id="fs-id2098556">
+<title>Connections of Lipid and Glucose Metabolisms</title>
+<para id="fs-id2089934">The lipids that are connected to the glucose pathways are cholesterol and triglycerides. Cholesterol is a lipid that contributes to cell membrane flexibility and is a precursor of steroid hormones. The synthesis of cholesterol starts with acetyl groups and proceeds in only one direction. The process cannot be reversed.</para>
+<para id="fs-id1606166">Triglycerides are a form of long-term energy storage in animals. Triglycerides are made of glycerol and three fatty acids. Animals can make most of the fatty acids they need. Triglycerides can be both made and broken down through parts of the glucose catabolism pathways. Glycerol can be phosphorylated to glycerol-3-phosphate, which continues through glycolysis. Fatty acids are catabolized in a process called beta-oxidation that takes place in the matrix of the mitochondria and converts their fatty acid chains into two carbon units of acetyl groups. The acetyl groups are picked up by CoA to form acetyl CoA that proceeds into the citric acid cycle.</para>
+<figure id="fig-ch07_06_02" class=" "><media id="fs-id2570809" alt="This illustration shows that glycogen, fats, and proteins can be catabolized via aerobic respiration. Glycogen is broken down into glucose, which feeds into glycolysis at the start. Fats are broken down into glycerol, which is processed by glycolysis, and fatty acids are converted into acetyl CoA. Proteins are broken down into amino acids, which are processed at various stages of aerobic respiration, including glycolysis, acetyl CoA formation, and the citric acid cycle.">
+<image mime-type="image/jpg" src="Figure_07_06_02.jpg" width="450"/>
+</media>
+<caption>Glycogen from the liver and muscles, hydrolyzed into glucose-1-phosphate, together with fats and proteins, can feed into the catabolic pathways for carbohydrates.</caption></figure><note id="fs-id1451059" class="evolution"><label/><title>Evolution Connection</title>   
+
+<para id="fs-id3053333"><title>Pathways of Photosynthesis and Cellular Metabolism</title>The processes of photosynthesis and cellular metabolism consist of several very complex pathways. It is generally thought that the first cells arose in an aqueous environment—a “soup” of nutrients—probably on the surface of some porous clays. If these cells reproduced successfully and their numbers climbed steadily, it follows that the cells would begin to deplete the nutrients from the medium in which they lived as they shifted the nutrients into the components of their own bodies. This hypothetical situation would have resulted in natural selection favoring those organisms that could exist by using the nutrients that remained in their environment and by manipulating these nutrients into materials upon which they could survive. Selection would favor those organisms that could extract maximal value from the nutrients to which they had access.</para>
+<para id="fs-id1998100">An early form of photosynthesis developed that harnessed the sun’s energy using water as a source of hydrogen atoms, but this pathway did not produce free oxygen (anoxygenic photosynthesis). (Early photosynthesis did not produce free oxygen because it did not use water as the source of hydrogen ions; instead, it used materials like hydrogen sulfide and consequently produced sulfur). It is thought that glycolysis developed at this time and could take advantage of the simple sugars being produced, but these reactions were unable to fully extract the energy stored in the carbohydrates.  The development of glycolysis probably predated the evolution of photosynthesis, as it was well suited to extract energy from materials spontaneously accumulating in the “primeval soup.” A later form of photosynthesis used water as a source of electrons and hydrogen, and generated free oxygen. Over time, the atmosphere became oxygenated, but not before the oxygen released oxidized metals in the ocean and created a “rust” layer in the sediment, permitting the dating of the rise of the first oxygenic photosynthesizers. Living things adapted to exploit this new atmosphere that allowed aerobic respiration as we know it to evolve. When the full process of oxygenic photosynthesis developed and the atmosphere became oxygenated, cells were finally able to use the oxygen expelled by photosynthesis to extract considerably more energy from the sugar molecules using the citric acid cycle and oxidative phosphorylation.</para>
+</note></section>
+<section id="fs-id2781116" class="summary">
+<title>Section Summary</title><para id="fs-id1006235">The breakdown and synthesis of carbohydrates, proteins, and lipids connect with the pathways of glucose catabolism. The simple sugars are galactose, fructose, glycogen, and pentose. These are catabolized during glycolysis. The amino acids from proteins connect with glucose catabolism through pyruvate, acetyl CoA, and components of the citric acid cycle. Cholesterol synthesis starts with acetyl groups, and the components of triglycerides come from glycerol-3-phosphate from glycolysis and acetyl groups produced in the mitochondria from pyruvate.</para>
+</section>
+<section id="fs-id1393436" class="multiple-choice">
+    <title>Review Questions</title><exercise id="fs-id2228167">
+<problem id="fs-id1511906"><para id="fs-id2185948">A major connection for sugars in glycolysis is ________.</para>
+<list id="fs-id2077349" list-type="enumerated" number-style="lower-alpha">
+<item>glucose-6-phosphate</item>
+<item>fructose-1,6-bisphosphate</item>
+<item>dihydroxyacetone phosphate</item>
+<item>phosphoenolpyruvate</item>
+</list>
+</problem>
+<solution id="fs-id2216308">
+<label/>
+<para id="fs-id2307454">A</para>
+</solution>
+    </exercise>
+<exercise id="fs-id2065416">
+<problem id="fs-id1524618"><para id="fs-id1353355">Beta-oxidation is ________.</para>
+<list id="fs-id1433525" list-type="enumerated" number-style="lower-alpha">
+<item>the breakdown of sugars</item>
+<item>the assembly of sugars</item>
+<item>the breakdown of fatty acids</item>
+<item>the removal of amino groups from amino acids</item>
+</list>
+</problem>
+<solution id="fs-id2018304">
+<label/>
+<para id="fs-id1896127">C</para>
+</solution>
+    </exercise>
+</section>
+<section id="fs-id2106224" class="free-response">
+<title>Free Response</title>    
+<exercise id="fs-id1705359">
+<problem id="fs-id2926956"><para id="fs-id1989096">Would you describe metabolic pathways as inherently wasteful or inherently economical, and why?</para></problem>
+<solution id="fs-id2197931"><label/>
+<para id="fs-id1240070">They are very economical. The substrates, intermediates, and products move between pathways and do so in response to finely tuned feedback inhibition loops that keep metabolism balanced overall. Intermediates in one pathway may occur in another, and they can move from one pathway to another fluidly in response to the needs of the cell.</para>
+</solution>
+</exercise>
+</section>
+</content>
+
+</document>

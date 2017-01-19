@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Regulation of Gene Expression</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml"
+          mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://legacy.cnx.org/content</md:repository>
+  <md:content-url>http://legacy.cnx.org/content/m44534/latest/</md:content-url>
+  <md:content-id>m44534</md:content-id>
+  <md:title>Regulation of Gene Expression</md:title>
+  <md:version>1.7</md:version>
+  <md:created>2012/08/23 13:54:58 -0500</md:created>
+  <md:revised>2016/02/25 12:33:21.351 US/Central</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax</md:shortname>
+      <md:fullname>OpenStax</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>epigenetic</md:keyword>
+    <md:keyword>eukaryotic gene expression</md:keyword>
+    <md:keyword>gene expression</md:keyword>
+    <md:keyword>gene expression regulation</md:keyword>
+    <md:keyword>post-transcriptional</md:keyword>
+    <md:keyword>post-translational</md:keyword>
+    <md:keyword>prokaryotic gene expression</md:keyword>
+    <md:keyword>regulation of gene expression</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Discuss why every cell does not express all of its genes</item>
+<item>Describe how prokaryotic gene regulation occurs at the transcriptional level</item>
+<item>Discuss how eukaryotic gene regulation occurs at the epigenetic, transcriptional, post-transcriptional, translational, and post-translational levels</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-id1367090">For a cell to function properly, necessary proteins must be synthesized at the proper time. All cells control or regulate the synthesis of proteins from information encoded in their DNA. The process of turning on a gene to produce RNA and protein is called <term>gene expression</term>. Whether in a simple unicellular organism or a complex multi-cellular organism, each cell controls when and how its genes are expressed. For this to occur, there must be a mechanism to control when a gene is expressed to make RNA and protein, how much of the protein is made, and when it is time to stop making that protein because it is no longer needed.</para>
+<para id="fs-id2989558">The regulation of gene expression conserves energy and space. It would require a significant amount of energy for an organism to express every gene at all times, so it is more energy efficient to turn on the genes only when they are required. In addition, only expressing a subset of genes in each cell saves space because DNA must be unwound from its tightly coiled structure to transcribe and translate the DNA. Cells would have to be enormous if every protein were expressed in every cell all the time.</para>
+<para id="fs-id2626522">The control of gene expression is extremely complex. Malfunctions in this process are detrimental to the cell and can lead to the development of many diseases, including cancer.</para>
+<section id="fs-id2300410">
+<title>Prokaryotic versus Eukaryotic Gene Expression</title>
+<para id="fs-id2011802">To understand how gene expression is regulated, we must first understand how a gene codes for a functional protein in a cell. The process occurs in both prokaryotic and eukaryotic cells, just in slightly different manners.</para>
+<para id="fs-id2988639">Prokaryotic organisms are single-celled organisms that lack a cell nucleus, and their DNA therefore floats freely in the cell cytoplasm. To synthesize a protein, the processes of transcription and translation occur almost simultaneously. When the resulting protein is no longer needed, transcription stops. As a result, the primary method to control what type of protein and how much of each protein is expressed in a prokaryotic cell is the regulation of DNA transcription. All of the subsequent steps occur automatically. When more protein is required, more transcription occurs. Therefore, in prokaryotic cells, the control of gene expression is mostly at the transcriptional level.</para>
+<para id="fs-id1446467">Eukaryotic cells, in contrast, have intracellular organelles that add to their complexity. In eukaryotic cells, the DNA is contained inside the cell’s nucleus and there it is transcribed into RNA. The newly synthesized RNA is then transported out of the nucleus into the cytoplasm, where ribosomes translate the RNA into protein. The processes of transcription and translation are physically separated by the nuclear membrane; transcription occurs only within the nucleus, and translation occurs only outside the nucleus in the cytoplasm. The regulation of gene expression can occur at all stages of the process (<link target-id="fig-ch16_01_01" document=""/>). Regulation may occur when the DNA is uncoiled and loosened from nucleosomes to bind transcription factors (<term>epigenetic</term> level), when the RNA is transcribed (transcriptional level), when the RNA is processed and exported to the cytoplasm after it is transcribed (<term>post-transcriptional</term> level), when the RNA is translated into protein (translational level), or after the protein has been made (<term>post-translational</term> level).</para>
+<figure id="fig-ch16_01_01"><media id="fs-id1568395" alt="Prokaryotic cells do not have a nucleus, and DNA is located in the cytoplasm. Ribosomes attach to the mRNA as it is being transcribed from DNA. Thus, transcription and translation occur simultaneously. In eukaryotic cells, the DNA is located in the nucleus, and ribosomes are located in the cytoplasm. After being transcribed, pre-mRNA is processed in the nucleus to make the mature mRNA, which is then exported to the cytoplasm where ribosomes become associated with it and translation begins.">
+<image mime-type="image/jpg" src="Figure_16_01_01.jpg" width="550"/>
+</media>
+<caption>Prokaryotic transcription and translation occur simultaneously in the cytoplasm, and regulation occurs at the transcriptional level. Eukaryotic gene expression is regulated during transcription and RNA processing, which take place in the nucleus, and during protein translation, which takes place in the cytoplasm. Further regulation may occur through post-translational modifications of proteins.</caption></figure><para id="fs-id1444103">The differences in the regulation of gene expression between prokaryotes and eukaryotes are summarized in <link target-id="tab-ch16_01_01" document=""/>. The regulation of gene expression is discussed in detail in subsequent modules.</para>
+    <table id="tab-ch16_01_01" class=" " summary="">    
+        <tgroup cols="2">   
+            <colspec colnum="1" colname="col1"/>
+            <colspec colnum="2" colname="col2"/>
+            <thead>
+                <row><entry namest="col1" nameend="col2" align="left">Differences in the Regulation of Gene Expression of Prokaryotic and Eukaryotic Organisms</entry></row>
+<row><entry align="center">Prokaryotic organisms</entry><entry align="center">Eukaryotic organisms</entry></row>
+            </thead>
+            <tbody>
+<row><entry>Lack nucleus</entry><entry>Contain nucleus</entry></row>
+<row><entry>DNA is found in the cytoplasm</entry><entry>DNA is confined to the nuclear compartment</entry></row>
+<row><entry>RNA transcription and protein formation occur almost simultaneously</entry><entry>RNA transcription occurs prior to protein formation, and it takes place in the nucleus. Translation of RNA to protein occurs in the cytoplasm.</entry></row>
+<row><entry>Gene expression is regulated primarily at the transcriptional level</entry><entry>Gene expression is regulated at many levels (epigenetic, transcriptional, nuclear shuttling, post-transcriptional, translational, and post-translational)</entry></row>
+            </tbody>
+        </tgroup>
+        </table>
+<note id="fs-id2853732" class="evolution"><label/><title>Evolution Connection</title>
+
+<para id="fs-id2054814"><title>Evolution of Gene Regulation</title>Prokaryotic cells can only regulate gene expression by controlling the amount of transcription. As eukaryotic cells evolved, the complexity of the control of gene expression increased. For example, with the evolution of eukaryotic cells came compartmentalization of important cellular components and cellular processes. A nuclear region that contains the DNA was formed. Transcription and translation were physically separated into two different cellular compartments. It therefore became possible to control gene expression by regulating transcription in the nucleus, and also by controlling the RNA levels and protein translation present outside the nucleus.</para>
+<para id="fs-id1435492">Some cellular processes arose from the need of the organism to defend itself. Cellular processes such as gene silencing developed to protect the cell from viral or parasitic infections. If the cell could quickly shut off gene expression for a short period of time, it would be able to survive an infection when other organisms could not. Therefore, the organism evolved a new process that helped it survive, and it was able to pass this new development to offspring.</para>
+</note></section>
+<section id="fs-id1693342" class="summary">
+<title>Section Summary</title><para xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1899262">While all somatic cells within an organism contain the same DNA, not all cells within that organism express the same proteins. Prokaryotic organisms express the entire DNA they encode in every cell, but not necessarily all at the same time. Proteins are expressed only when they are needed. Eukaryotic organisms express a subset of the DNA that is encoded in any given cell. In each cell type, the type and amount of protein is regulated by controlling gene expression. To express a protein, the DNA is first transcribed into RNA, which is then translated into proteins. In prokaryotic cells, these processes occur almost simultaneously. In eukaryotic cells, transcription occurs in the nucleus and is separate from the translation that occurs in the cytoplasm. Gene expression in prokaryotes is mostly regulated at the transcriptional level (some epigenetic and post-translational regulation is also present), whereas in eukaryotic cells, gene expression is regulated at the epigenetic, transcriptional, post-transcriptional, translational, and post-translational levels.</para></section>
+<section id="fs-id1770891" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-id2187777">
+<problem id="fs-id2689302"><para id="fs-id2162541">Control of gene expression in eukaryotic cells occurs at which level(s)?</para>
+<list id="fs-id1731340" list-type="enumerated" number-style="lower-alpha">
+<item>only the transcriptional level</item>
+<item>epigenetic and transcriptional levels</item>
+<item>epigenetic, transcriptional, and translational levels</item>
+<item>epigenetic, transcriptional, post-transcriptional, translational, and post-translational levels</item>
+</list>
+</problem>
+<solution id="fs-id2745786">
+<label/>
+<para id="fs-id2726499">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1472236">
+<problem id="fs-id1912048"><para id="fs-id3456527">Post-translational control refers to:</para>
+<list id="fs-id3274389" list-type="enumerated" number-style="lower-alpha">
+<item>regulation of gene expression after transcription</item>
+<item>regulation of gene expression after translation</item>
+<item>control of epigenetic activation</item>
+<item>period between transcription and translation</item>
+</list>
+</problem>
+<solution id="fs-id2956599">
+<label/>
+<para id="fs-id1511015">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id2984456" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-id2475955"><problem id="fs-id2918717">
+<para id="fs-id1310287">Name two differences between prokaryotic and eukaryotic cells and how these differences benefit multicellular organisms.</para>
+</problem>
+<solution id="fs-id1569019">
+<label/>
+<para id="fs-id1485528">Eukaryotic cells have a nucleus, whereas prokaryotic cells do not. In eukaryotic cells, DNA is confined within the nuclear region. Because of this, transcription and translation are physically separated. This creates a more complex mechanism for the control of gene expression that benefits multicellular organisms because it compartmentalizes gene regulation.</para>
+<para id="eip-idp46390576">Gene expression occurs at many stages in eukaryotic cells, whereas in prokaryotic cells, control of gene expression only occurs at the transcriptional level. This allows for greater control of gene expression in eukaryotes and more complex systems to be developed. Because of this, different cell types can arise in an individual organism.</para>
+</solution>
+</exercise><exercise id="fs-id1443560">
+<problem id="fs-id1442893"><para id="fs-id2310144">Describe how controlling gene expression will alter the overall protein levels in the cell.</para>
+</problem>
+<solution id="fs-id2126300">
+<label/>
+<para id="fs-id2914874">The cell controls which proteins are expressed and to what level each protein is expressed in the cell. Prokaryotic cells alter the transcription rate to turn genes on or off. This method will increase or decrease protein levels in response to what is needed by the cell. Eukaryotic cells change the accessibility (epigenetic), transcription, or translation of a gene. This will alter the amount of RNA and the lifespan of the RNA to alter the amount of protein that exists. Eukaryotic cells also control protein translation to increase or decrease the overall levels. Eukaryotic organisms are much more complex and can manipulate protein levels by changing many stages in the process.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-id2914141"><term>epigenetic</term> <meaning id="fs-id2643047">heritable changes that do not involve changes in the DNA sequence</meaning>
+</definition>
+<definition id="fs-id1582580">
+<term>gene expression</term> <meaning id="fs-id2270009">processes that control the turning on or turning off of a gene</meaning>
+</definition>
+<definition id="fs-id1421748">
+<term>post-transcriptional</term> <meaning id="fs-id1912193">control of gene expression after the RNA molecule has been created but before it is translated into protein</meaning>
+</definition>
+<definition id="fs-id2198170">
+<term>post-translational</term> <meaning id="fs-id1565919">control of gene expression after a protein has been created</meaning>
+</definition>
+</glossary>
+</document>

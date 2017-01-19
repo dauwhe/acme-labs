@@ -1,0 +1,273 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Asexual Reproduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44725/latest/</md:content-url>
+  <md:content-id>m44725</md:content-id>
+  <md:title>Asexual Reproduction</md:title>
+  <md:version>1.5</md:version>
+  <md:created>2012/08/23 15:04:11 -0500</md:created>
+  <md:revised>2013/05/10 12:08:48.254 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>annual</md:keyword>
+    <md:keyword>apomixis</md:keyword>
+    <md:keyword>artificial plant reproduction</md:keyword>
+    <md:keyword>asexual reproduction</md:keyword>
+    <md:keyword>biennial</md:keyword>
+    <md:keyword>cutting</md:keyword>
+    <md:keyword>grafting</md:keyword>
+    <md:keyword>layering</md:keyword>
+    <md:keyword>micropropagation</md:keyword>
+    <md:keyword>monocarpic</md:keyword>
+    <md:keyword>natural plant reproduction</md:keyword>
+    <md:keyword>perennial</md:keyword>
+    <md:keyword>plant death</md:keyword>
+    <md:keyword>plant life span</md:keyword>
+    <md:keyword>plant reproduction</md:keyword>
+    <md:keyword>polycarpic</md:keyword>
+    <md:keyword>senescence</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Compare the mechanisms and methods of natural and artificial asexual reproduction</item>
+<item>Describe the advantages and disadvantages of natural and artificial asexual reproduction</item>
+<item>Discuss plant life spans</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idp13093536">Many plants are able to propagate themselves using asexual reproduction. This method does not require the investment required to produce a flower, attract pollinators, or find a means of seed dispersal. Asexual reproduction produces plants that are genetically identical to the parent plant because no mixing of male and female gametes takes place. Traditionally, these plants survive well under stable environmental conditions when compared with plants produced from sexual reproduction because they carry genes identical to those of their parents.</para><para id="fs-idm47927760">Many different types of roots exhibit asexual reproduction <link target-id="fig-ch32_03_01" document=""/>. The corm is used by gladiolus and garlic. Bulbs, such as a scaly bulb in lilies and a tunicate bulb in daffodils, are other common examples. A potato is a stem tuber, while parsnip propagates from a taproot. Ginger and iris produce rhizomes, while ivy uses an adventitious root (a root arising from a plant part other than the main or primary root), and the strawberry plant has a stolon, which is also called a runner.</para>
+<figure id="fig-ch32_03_01"><media id="fs-idm179483200" alt=" Shown are photos of various roots. Part A shows bulbous garlic roots. Part B shows a tulip bulb that has sprouted a leaf. Part C shows ginger root, which has many branches. Part D shows three potato tubers. Part E shows a strawberry plant.">
+<image mime-type="image/jpg" src="Figure_32_03_01.jpg" width="300"/>
+</media>
+
+<caption>Different types of stems allow for asexual reproduction. (a) The corm of a garlic plant looks similar to (b) a tulip bulb, but the corm is solid tissue, while the bulb consists of layers of modified leaves that surround an underground stem. Both corms and bulbs can self-propagate, giving rise to new plants. (c) Ginger forms masses of stems called rhizomes that can give rise to multiple plants. (d) Potato plants form fleshy stem tubers. Each eye in the stem tuber can give rise to a new plant. (e) Strawberry plants form stolons: stems that grow at the soil surface or just below ground and can give rise to new plants. (credit a: modification of work by Dwight Sipler; credit c: modification of work by Albert Cahalan, USDA ARS; credit d: modification of work by Richard North; credit e: modification of work by Julie Magro)</caption></figure><para id="fs-idm159441456">Some plants can produce seeds without fertilization. Either the ovule or part of the ovary, which is diploid in nature, gives rise to a new seed. This method of reproduction is known as <term>apomixis</term>.</para>
+<para id="fs-idm118744752">An advantage of asexual reproduction is that the resulting plant will reach maturity faster. Since the new plant is arising from an adult plant or plant parts, it will also be sturdier than a seedling. Asexual reproduction can take place by natural or artificial (assisted by humans) means.</para>
+<section id="fs-idm139077008">
+<title>Natural Methods of Asexual Reproduction</title>
+<para id="fs-idm102566384">Natural methods of asexual reproduction include strategies that plants have developed to self-propagate. Many plants&#8212;like ginger, onion, gladioli, and dahlia&#8212;continue to grow from buds that are present on the surface of the stem. In some plants, such as the sweet potato, adventitious roots or runners can give rise to new plants <link target-id="fig-ch32_03_02" document=""/>. In <emphasis effect="italics">Bryophyllum</emphasis> and kalanchoe, the leaves have small buds on their margins. When these are detached from the plant, they grow into independent plants; or, they may start growing into independent plants if the leaf touches the soil. Some plants can be propagated through cuttings alone.</para>
+<figure id="fig-ch32_03_02"><media id="fs-idm127197232" alt=" Illustration depicts a mature plant. A runner sprouts from the base of the plant and runs along the ground. A bud and adventitious root system form from the runner.">
+<image mime-type="image/jpg" src="Figure_32_03_02.jpg" width="295"/>
+</media>
+
+<caption>A stolon, or runner, is a stem that runs along the ground. At the nodes, it forms adventitious roots and buds that grow into a new plant.</caption></figure></section>
+<section id="fs-idm42963264">
+<title>Artificial Methods of Asexual Reproduction</title>
+<para id="fs-idm216434016">These methods are frequently employed to give rise to new, and sometimes novel, plants. They include grafting, cutting, layering, and micropropagation.</para>
+<section id="fs-idp19810256">
+<title>Grafting</title>
+<para id="fs-idm131818720">Grafting has long been used to produce novel varieties of roses, citrus species, and other plants. In <term>grafting</term>, two plant species are used; part of the stem of the desirable plant is grafted onto a rooted plant called the stock. The part that is grafted or attached is called the <term>scion</term>. Both are cut at an oblique angle (any angle other than a right angle), placed in close contact with each other, and are then held together <link target-id="fig-ch32_03_03" document=""/>. Matching up these two surfaces as closely as possible is extremely important because these will be holding the plant together. The vascular systems of the two plants grow and fuse, forming a graft. After a period of time, the scion starts producing shoots, and eventually starts bearing flowers and fruits. Grafting is widely used in viticulture (grape growing) and the citrus industry. Scions capable of producing a particular fruit variety are grated onto root stock with specific resistance to disease.</para><figure id="fig-ch32_03_03"><media id="fs-idm180493072" alt=" Illustration shows the trunk of a sapling, which has been split. The upper part of a different sapling is wedged into the split and taped so that the two parts can grow together.">
+<image mime-type="image/jpg" src="Figure_32_03_03.jpg" width="320"/>
+</media>
+
+<caption>Grafting is an artificial method of asexual reproduction used to produce plants combining favorable stem characteristics with favorable root characteristics. The stem of the plant to be grafted is known as the scion, and the root is called the stock.</caption></figure></section>
+<section id="fs-idm139501856">
+<title>Cutting</title>
+<para id="fs-idm61500528">Plants such as coleus and money plant are propagated through stem <term>cuttings</term>, where a portion of the stem containing nodes and internodes is placed in moist soil and allowed to root. In some species, stems can start producing a root even when placed only in water. For example, leaves of the African violet will root if kept in water undisturbed for several weeks.</para>
+</section>
+<section id="fs-idm92510512">
+<title>Layering</title>
+<para id="fs-idm167298384"><term>Layering</term> is a method in which a stem attached to the plant is bent and covered with soil. Young stems that can be bent easily without any injury are preferred. Jasmine and bougainvillea (paper flower) can be propagated this way <link target-id="fig-ch32_03_04" document=""/>. In some plants, a modified form of layering known as air layering is employed. A portion of the bark or outermost covering of the stem is removed and covered with moss, which is then taped. Some gardeners also apply rooting hormone. After some time, roots will appear, and this portion of the plant can be removed and transplanted into a separate pot.</para>
+<figure id="fig-ch32_03_04"><media id="fs-idm147778976" alt=" Illustration shows a plant with a stem that has been bent and buried beneath the soil. A stake holds the end of the stem up so that it can form a new upright plant.">
+<image mime-type="image/jpg" src="Figure_32_03_04.jpg" width="320"/>
+</media>
+
+<caption>In layering, a part of the stem is buried so that it forms a new plant. (credit: modification of work by Pearson Scott Foresman, donated to the Wikimedia Foundation)</caption></figure></section>
+<section id="fs-idm101294272">
+<title>Micropropagation</title>
+<para id="fs-idm27373776"><term>Micropropagation</term> (also called plant tissue culture) is a method of propagating a large number of plants from a single plant in a short time under laboratory conditions <link target-id="fig-ch32_03_05" document=""/>. This method allows propagation of rare, endangered species that may be difficult to grow under natural conditions, are economically important, or are in demand as disease-free plants.</para>
+<figure id="fig-ch32_03_05"><media id="fs-idm91983248" alt=" Photo shows a plant growing in a test tube.">
+<image mime-type="image/jpg" src="Figure_32_03_05.jpg" width="275"/>
+</media>
+
+<caption>Micropropagation is used to propagate plants in sterile conditions. (credit: Nikhilesh Sanyal)</caption></figure><para id="fs-idm8266576">To start plant tissue culture, a part of the plant such as a stem, leaf, embryo, anther, or seed can be used. The plant material is thoroughly sterilized using a combination of chemical treatments standardized for that species. Under sterile conditions, the plant material is placed on a plant tissue culture medium that contains all the minerals, vitamins, and hormones required by the plant. The plant part often gives rise to an undifferentiated mass known as callus, from which individual plantlets begin to grow after a period of time. These can be separated and are first grown under greenhouse conditions before they are moved to field conditions.</para>
+</section>
+</section>
+<section id="fs-idm197831584">
+<title>Plant Life Spans</title>
+<para id="fs-idm133406992">The length of time from the beginning of development to the death of a plant is called its life span. The life cycle, on the other hand, is the sequence of stages a plant goes through from seed germination to seed production of the mature plant. Some plants, such as annuals, only need a few weeks to grow, produce seeds and die. Other plants, such as the bristlecone pine, live for thousands of years. Some bristlecone pines have a documented age of 4,500 years <link target-id="fig-ch32_03_06" document=""/>. Even as some parts of a plant, such as regions containing meristematic tissue&#8212;the area of active plant growth consisting of undifferentiated cells capable of cell division&#8212;continue to grow, some parts undergo programmed cell death (apoptosis). The cork found on stems, and the water-conducting tissue of the xylem, for example, are composed of dead cells.</para>
+<figure id="fig-ch32_03_06"><media id="fs-idm142598080" alt=" Photo shows the gnarled trunk of a bristlecone pine.">
+<image mime-type="image/jpg" src="Figure_32_03_06.jpg" width="350"/>
+</media>
+
+<caption>The bristlecone pine, shown here in the Ancient Bristlecone Pine Forest in the White Mountains of eastern California, has been known to live for 4,500 years. (credit: Rick Goldwaser)</caption></figure><para id="fs-idm126267520">Plant species that complete their lifecycle in one season are known as annuals, an example of which is <emphasis effect="italics">Arabidopsis</emphasis>, or mouse-ear cress. Biennials such as carrots complete their lifecycle in two seasons. In a biennial&#8217;s first season, the plant has a vegetative phase, whereas in the next season, it completes its reproductive phase. Commercial growers harvest the carrot roots after the first year of growth, and do not allow the plants to flower. Perennials, such as the magnolia, complete their lifecycle in two years or more.</para>
+<para id="fs-idm119386480">In another classification based on flowering frequency, <term>monocarpic</term> plants flower only once in their lifetime; examples include bamboo and yucca. During the vegetative period of their life cycle (which may be as long as 120 years in some bamboo species), these plants may reproduce asexually and accumulate a great deal of food material that will be required during their once-in-a-lifetime flowering and setting of seed after fertilization. Soon after flowering, these plants die. <term>Polycarpic</term> plants form flowers many times during their lifetime. Fruit trees, such as apple and orange trees, are polycarpic; they flower every year. Other polycarpic species, such as perennials, flower several times during their life span, but not each year. By this means, the plant does not require all its nutrients to be channelled towards flowering each year.</para>
+<para id="fs-idm89368880">As is the case with all living organisms, genetics and environmental conditions have a role to play in determining how long a plant will live. Susceptibility to disease, changing environmental conditions, drought, cold, and competition for nutrients are some of the factors that determine the survival of a plant. Plants continue to grow, despite the presence of dead tissue such as cork. Individual parts of plants, such as flowers and leaves, have different rates of survival. In many trees, the older leaves turn yellow and eventually fall from the tree. Leaf fall is triggered by factors such as a decrease in photosynthetic efficiency, due to shading by upper leaves, or oxidative damage incurred as a result of photosynthetic reactions. The components of the part to be shed are recycled by the plant for use in other processes, such as development of seed and storage. This process is known as nutrient recycling.</para>
+<para id="fs-idm166369616">The aging of a plant and all the associated processes is known as <term>senescence</term>, which is marked by several complex biochemical changes. One of the characteristics of senescence is the breakdown of chloroplasts, which is characterized by the yellowing of leaves. The chloroplasts contain components of photosynthetic machinery such as membranes and proteins. Chloroplasts also contain DNA. The proteins, lipids, and nucleic acids are broken down by specific enzymes into smaller molecules and salvaged by the plant to support the growth of other plant tissues.</para>
+<para id="fs-idm170983024">The complex pathways of nutrient recycling within a plant are not well understood. Hormones are known to play a role in senescence. Applications of cytokinins and ethylene delay or prevent senescence; in contrast, abscissic acid causes premature onset of senescence.</para>
+</section>
+<section id="fs-idm121348848" class="summary">
+<title>Sections Summary</title>
+<para id="fs-idm141341680">Many plants reproduce asexually as well as sexually. In asexual reproduction, part of the parent plant is used to generate a new plant. Grafting, layering, and micropropagation are some methods used for artificial asexual reproduction. The new plant is genetically identical to the parent plant from which the stock has been taken. Asexually reproducing plants thrive well in stable environments.</para>
+<para id="fs-idm123283632">Plants have different life spans, dependent on species, genotype, and environmental conditions. Parts of the plant, such as regions containing meristematic tissue, continue to grow, while other parts experience programmed cell death. Leaves that are no longer photosynthetically active are shed from the plant as part of senescence, and the nutrients from these leaves are recycled by the plant. Other factors, including the presence of hormones, are known to play a role in delaying senescence.</para>
+</section>
+<section id="fs-idm11222816" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm62585872">
+<problem id="fs-idm227549696">
+<para id="fs-idm43834960">________ is a useful method of asexual reproduction for propagating hard-to-root plants.</para>
+<list id="fs-idm73549520" list-type="enumerated" number-style="lower-alpha"><item>grafting</item>
+<item>layering</item>
+<item>cuttings</item>
+<item>budding</item>
+</list></problem>
+<solution id="fs-idm49126288">
+<label/>
+<para id="fs-idm3912208">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm140387168">
+<problem id="fs-idm186214656">
+<para id="fs-idm138367984">Which of the following is an advantage of asexual reproduction?</para>
+<list id="fs-idm230469040" list-type="enumerated" number-style="lower-alpha">
+<item>Cuttings taken from an adult plant show increased resistance to diseases.</item>
+<item>Grafted plants can more successfully endure drought.</item>
+<item>When cuttings or buds are taken from an adult plant or plant parts, the resulting plant will grow into an adult faster than a seedling.</item>
+<item>Asexual reproduction takes advantage of a more diverse gene pool.</item>
+</list>
+</problem>
+<solution id="fs-idm120609648">
+<label/>
+<para id="fs-idm45479136">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm161465152">
+<problem id="fs-idm8973808">
+<para id="fs-idm179563104">Plants that flower once in their lifetime are known as ________.</para>
+<list id="fs-idm168730704" list-type="enumerated" number-style="lower-alpha">
+<item>monoecious</item>
+<item>dioecious</item>
+<item>polycarpic</item>
+<item>monocarpic</item>
+</list>
+</problem>
+<solution id="fs-idm6236704">
+<label/>
+<para id="fs-idm121009088">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm142328976">
+<problem id="fs-idp905456">
+<para id="fs-idm45304704">Plant species that complete their lifecycle in one season are known as ________.</para>
+<list id="fs-idm170983568" list-type="enumerated" number-style="lower-alpha">
+<item>biennials</item>
+<item>perennials</item>
+<item>annuals</item>
+<item>polycarpic</item>
+</list>
+</problem>
+<solution id="fs-idm134788128">
+<label/>
+<para id="fs-idm170696800">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm138084592" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idp21524464">
+<problem id="fs-idm151900672">
+<para id="fs-idm77339728">What are some advantages of asexual reproduction in plants?</para>
+</problem>
+<solution id="fs-idm141396160">
+<label/>
+<para id="fs-idm101599920">Asexual reproduction does not require the expenditure of the plant&#8217;s resources and energy that would be involved in producing a flower, attracting pollinators, or dispersing seeds. Asexual reproduction results in plants that are genetically identical to the parent plant, since there is no mixing of male and female gametes, resulting in better survival. The cuttings or buds taken from an adult plant produce progeny that mature faster and are sturdier than a seedling grown from a seed.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm115792144">
+<problem id="fs-idm115223984">
+<para id="fs-idm161886176">Describe natural and artificial methods of asexual reproduction in plants.</para>
+</problem>
+<solution id="fs-idm185418576">
+<label/>
+<para id="fs-idm196237664">Asexual reproduction in plants can take place by natural methods or artificial methods. Natural methods include strategies used by the plant to propagate itself. Artificial methods include grafting, cutting, layering, and micropropagation.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm126240912">
+<problem id="fs-idm233928192">
+<para id="fs-idm48712352">Discuss the life cycles of various plants.</para>
+</problem>
+<solution id="fs-idm59294736">
+<label/>
+<para id="fs-idm197190176">Plant species that complete their life cycle in one season are known as annuals. Biennials complete their life cycle in two seasons. In the first season, the plant has a vegetative phase, whereas in the next season, it completes its reproductive phase. Perennials, such as the magnolia, complete their life cycle in two years or more.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp59121808">
+<problem id="fs-idm40274608">
+<para id="fs-idm66579936">How are plants classified on the basis of flowering frequency?</para>
+</problem>
+<solution id="fs-idp57838048">
+<label/>
+<para id="fs-idm46287904">Monocarpic plants flower only once during their lifetime. During the vegetative period of their lifecycle, these plants accumulate a great deal of food material that will be required during their once-in-a-lifetime flowering and setting of seed after fertilization. Soon after flowering, these plants die. Polycarpic plants flower several times during their life span; therefore, not all nutrients are channelled towards flowering.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm139696656">
+<term>apomixis</term> <meaning id="fs-idm142042752">process by which seeds are produced without fertilization of sperm and egg</meaning>
+</definition>
+<definition id="fs-idm177512704">
+<term>cutting</term> <meaning id="fs-idm94524784">method of asexual reproduction where a portion of the stem contains notes and internodes is placed in moist soil and allowed to root</meaning>
+</definition>
+<definition id="fs-idm153029072">
+<term>grafting</term> <meaning id="fs-idm44781888">method of asexual reproduction where the stem from one plant species is spliced to a different plant</meaning>
+</definition>
+<definition id="fs-idm201260320">
+<term>layering</term> <meaning id="fs-idm60486816">method of propagating plants by bending a stem under the soil</meaning>
+</definition>
+<definition id="fs-idm45117392">
+<term>micropropagation</term> <meaning id="fs-idm112908096">propagation of desirable plants from a plant part; carried out in a laboratory</meaning>
+</definition>
+<definition id="fs-idm141362032">
+<term>monocarpic</term> <meaning id="fs-idm130516240">plants that flower once in their lifetime</meaning>
+</definition>
+<definition id="fs-idm140089424">
+<term>polycarpic</term> <meaning id="fs-idp16598528">plants that flower several times in their lifetime</meaning>
+</definition>
+<definition id="fs-idm166273136">
+<term>scion</term> <meaning id="fs-idm13264816">the part of a plant that is grafted onto the root stock of another plant</meaning>
+</definition>
+<definition id="fs-idm142205216">
+<term>senescence</term> <meaning id="fs-idm208479312">process that describes aging in plant tissues</meaning>
+</definition>
+</glossary>
+</document>

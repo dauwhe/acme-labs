@@ -1,0 +1,211 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44783/latest/</md:content-url>
+  <md:content-id>m44783</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.2</md:version>
+  <md:created>2012/08/23 15:41:36 -0500</md:created>
+  <md:revised>2013/03/11 11:15:01.983 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>abduction</md:keyword>
+    <md:keyword>acetylcholinesterase</md:keyword>
+    <md:keyword>AChE</md:keyword>
+    <md:keyword>adduction</md:keyword>
+    <md:keyword>amphiarthroses</md:keyword>
+    <md:keyword>angular movement</md:keyword>
+    <md:keyword>appendicular skeleton</md:keyword>
+    <md:keyword>appositional growth</md:keyword>
+    <md:keyword>auditory ossicle</md:keyword>
+    <md:keyword>axial skeleton</md:keyword>
+    <md:keyword>ball-and-socket joint</md:keyword>
+    <md:keyword>bone</md:keyword>
+    <md:keyword>bone cell</md:keyword>
+    <md:keyword>bone growth</md:keyword>
+    <md:keyword>bone remodeling</md:keyword>
+    <md:keyword>bone repair</md:keyword>
+    <md:keyword>bone tissue</md:keyword>
+    <md:keyword>bone type</md:keyword>
+    <md:keyword>calcification</md:keyword>
+    <md:keyword>calf bone</md:keyword>
+    <md:keyword>cardiac muscle tissue</md:keyword>
+    <md:keyword>cartilaginous joint</md:keyword>
+    <md:keyword>circumduction</md:keyword>
+    <md:keyword>clavicle</md:keyword>
+    <md:keyword>compact bone tissue</md:keyword>
+    <md:keyword>condyloid joint</md:keyword>
+    <md:keyword>coxal bone</md:keyword>
+    <md:keyword>cranial bone</md:keyword>
+    <md:keyword>decalcification</md:keyword>
+    <md:keyword>depression</md:keyword>
+    <md:keyword>diaphysis</md:keyword>
+    <md:keyword>diarthroses</md:keyword>
+    <md:keyword>dorsiflexion</md:keyword>
+    <md:keyword>elevation</md:keyword>
+    <md:keyword>endochondral ossification</md:keyword>
+    <md:keyword>endoskeleton</md:keyword>
+    <md:keyword>epiphyseal plate</md:keyword>
+    <md:keyword>epiphyses</md:keyword>
+    <md:keyword>eversion</md:keyword>
+    <md:keyword>excitation&#8211;contraction coupling</md:keyword>
+    <md:keyword>exoskeleton</md:keyword>
+    <md:keyword>extension</md:keyword>
+    <md:keyword>facial bone</md:keyword>
+    <md:keyword>femur</md:keyword>
+    <md:keyword>fibrous joint</md:keyword>
+    <md:keyword>fibula</md:keyword>
+    <md:keyword>flat bone</md:keyword>
+    <md:keyword>flexion</md:keyword>
+    <md:keyword>forearm</md:keyword>
+    <md:keyword>gliding movement</md:keyword>
+    <md:keyword>gomphoses</md:keyword>
+    <md:keyword>Haversian canal</md:keyword>
+    <md:keyword>hinge joint</md:keyword>
+    <md:keyword>hip bone</md:keyword>
+    <md:keyword>human skeletal system</md:keyword>
+    <md:keyword>human skeleton</md:keyword>
+    <md:keyword>humerus</md:keyword>
+    <md:keyword>hydrostatic skeleton</md:keyword>
+    <md:keyword>hyoid bone</md:keyword>
+    <md:keyword>hyperextension</md:keyword>
+    <md:keyword>intervertebral disc</md:keyword>
+    <md:keyword>intramembranous ossification</md:keyword>
+    <md:keyword>inversion</md:keyword>
+    <md:keyword>irregular bone</md:keyword>
+    <md:keyword>joint</md:keyword>
+    <md:keyword>joint function</md:keyword>
+    <md:keyword>joint movement</md:keyword>
+    <md:keyword>joint structure</md:keyword>
+    <md:keyword>kneecap</md:keyword>
+    <md:keyword>lamellae</md:keyword>
+    <md:keyword>lateral rotation</md:keyword>
+    <md:keyword>locomotion</md:keyword>
+    <md:keyword>long bone</md:keyword>
+    <md:keyword>lower limb</md:keyword>
+    <md:keyword>medial rotation</md:keyword>
+    <md:keyword>metatarsal</md:keyword>
+    <md:keyword>middle ear</md:keyword>
+    <md:keyword>motor end plate</md:keyword>
+    <md:keyword>muscle contraction</md:keyword>
+    <md:keyword>muscle fiber structure</md:keyword>
+    <md:keyword>muscle tension</md:keyword>
+    <md:keyword>muscle tissue</md:keyword>
+    <md:keyword>muscle type</md:keyword>
+    <md:keyword>musculoskeletal system</md:keyword>
+    <md:keyword>myofibril</md:keyword>
+    <md:keyword>myofilament</md:keyword>
+    <md:keyword>opposition</md:keyword>
+    <md:keyword>osseous tissue</md:keyword>
+    <md:keyword>ossification</md:keyword>
+    <md:keyword>osteoblast</md:keyword>
+    <md:keyword>osteoclast</md:keyword>
+    <md:keyword>osteocyte</md:keyword>
+    <md:keyword>osteon</md:keyword>
+    <md:keyword>patella</md:keyword>
+    <md:keyword>pectoral girdle</md:keyword>
+    <md:keyword>pivot joint</md:keyword>
+    <md:keyword>planar joint</md:keyword>
+    <md:keyword>plantar flexion</md:keyword>
+    <md:keyword>pronation</md:keyword>
+    <md:keyword>protraction</md:keyword>
+    <md:keyword>radius</md:keyword>
+    <md:keyword>regulatory protein</md:keyword>
+    <md:keyword>resorption</md:keyword>
+    <md:keyword>retraction</md:keyword>
+    <md:keyword>rheumatologist</md:keyword>
+    <md:keyword>rib</md:keyword>
+    <md:keyword>ribcage</md:keyword>
+    <md:keyword>rotational movement</md:keyword>
+    <md:keyword>saddle joint</md:keyword>
+    <md:keyword>sarcolemma</md:keyword>
+    <md:keyword>sarcomere</md:keyword>
+    <md:keyword>scapula</md:keyword>
+    <md:keyword>shinbone</md:keyword>
+    <md:keyword>short bone</md:keyword>
+    <md:keyword>skeletal movement</md:keyword>
+    <md:keyword>skeletal muscle tissue</md:keyword>
+    <md:keyword>skeletal system</md:keyword>
+    <md:keyword>skeleton evolution</md:keyword>
+    <md:keyword>skull</md:keyword>
+    <md:keyword>sliding filament model of contraction</md:keyword>
+    <md:keyword>smooth muscle tissue</md:keyword>
+    <md:keyword>spine</md:keyword>
+    <md:keyword>spongy bone tissue</md:keyword>
+    <md:keyword>sternum</md:keyword>
+    <md:keyword>supination</md:keyword>
+    <md:keyword>suture</md:keyword>
+    <md:keyword>symphyses</md:keyword>
+    <md:keyword>synarthrosis</md:keyword>
+    <md:keyword>synchondrosis</md:keyword>
+    <md:keyword>syndesmoses</md:keyword>
+    <md:keyword>synovial joint</md:keyword>
+    <md:keyword>tarsal</md:keyword>
+    <md:keyword>thick filament</md:keyword>
+    <md:keyword>thighbone</md:keyword>
+    <md:keyword>thin filament</md:keyword>
+    <md:keyword>thoracic cage</md:keyword>
+    <md:keyword>tibia</md:keyword>
+    <md:keyword>trabecula</md:keyword>
+    <md:keyword>tropomyosin</md:keyword>
+    <md:keyword>troponin</md:keyword>
+    <md:keyword>ulna</md:keyword>
+    <md:keyword>vertebral column</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+    <?cnx.eoc class="summary" title="Sections Summary"?>
+<?cnx.eoc class="art-exercise" title="Art Connections"?>
+<?cnx.eoc class="multiple-choice" title="Multiple Choice"?>
+<?cnx.eoc class="free-response" title="Free Response"?>
+
+<figure id="fig-ch38_00_01" class="splash"><media id="fs-idm116864816" alt="Photo shows a man whose legs end at the knees. Prosthetic legs allow him to run on a track.">
+<image mime-type="image/jpg" src="Figure_38_00_01f.jpg" width="500"/>
+</media>
+<caption>Improvements in the design of prostheses have allowed for a wider range of activities in recipients. (credit: modification of work by Stuart Grout)</caption></figure><para id="fs-idm213934096">The muscular and skeletal systems provide support to the body and allow for a wide range of movement. The bones of the skeletal system protect the body&#8217;s internal organs and support the weight of the body. The muscles of the muscular system contract and pull on the bones, allowing for movements as diverse as standing, walking, running, and grasping items.</para>
+<para id="fs-idm26054656">Injury or disease affecting the musculoskeletal system can be very debilitating. In humans, the most common musculoskeletal diseases worldwide are caused by malnutrition. Ailments that affect the joints are also widespread, such as arthritis, which can make movement difficult and&#8212;in advanced cases&#8212;completely impair mobility. In severe cases in which the joint has suffered extensive damage, joint replacement surgery may be needed.</para>
+<para id="fs-idm144496720">Progress in the science of prosthesis design has resulted in the development of artificial joints, with joint replacement surgery in the hips and knees being the most common. Replacement joints for shoulders, elbows, and fingers are also available. Even with this progress, there is still room for improvement in the design of prostheses. The state-of-the-art prostheses have limited durability and therefore wear out quickly, particularly in young or active individuals. Current research is focused on the use of new materials, such as carbon fiber, that may make prostheses more durable.</para>
+</content>
+</document>

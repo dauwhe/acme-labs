@@ -1,0 +1,142 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44633/latest/</md:content-url>
+  <md:content-id>m44633</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.2</md:version>
+  <md:created>2012/08/23 14:30:32 -0500</md:created>
+  <md:revised>2013/02/19 12:18:05.205 US/Central</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>alternation of generations</md:keyword>
+    <md:keyword>antheridium</md:keyword>
+    <md:keyword>apical meristem</md:keyword>
+    <md:keyword>archegonium</md:keyword>
+    <md:keyword>bryophyte</md:keyword>
+    <md:keyword>bryophyte lifecycle</md:keyword>
+    <md:keyword>capsule</md:keyword>
+    <md:keyword>charales</md:keyword>
+    <md:keyword>charophyte</md:keyword>
+    <md:keyword>club moss</md:keyword>
+    <md:keyword>diplontic</md:keyword>
+    <md:keyword>divisions of land plants</md:keyword>
+    <md:keyword>early plant life</md:keyword>
+    <md:keyword>ecosystem</md:keyword>
+    <md:keyword>embryophyte</md:keyword>
+    <md:keyword>evolution of land plants</md:keyword>
+    <md:keyword>extant</md:keyword>
+    <md:keyword>extinct</md:keyword>
+    <md:keyword>extinct plant</md:keyword>
+    <md:keyword>fern</md:keyword>
+    <md:keyword>fern lifecycle</md:keyword>
+    <md:keyword>gametangium</md:keyword>
+    <md:keyword>gemma</md:keyword>
+    <md:keyword>green algae</md:keyword>
+    <md:keyword>green algae reproduction</md:keyword>
+    <md:keyword>haplodiplodontic</md:keyword>
+    <md:keyword>haplontic</md:keyword>
+    <md:keyword>heterosporous</md:keyword>
+    <md:keyword>homosporous</md:keyword>
+    <md:keyword>hornwort</md:keyword>
+    <md:keyword>horsetail</md:keyword>
+    <md:keyword>land adaptation</md:keyword>
+    <md:keyword>land plant adaptations</md:keyword>
+    <md:keyword>landscape designer</md:keyword>
+    <md:keyword>leaves</md:keyword>
+    <md:keyword>lignin</md:keyword>
+    <md:keyword>liverwort</md:keyword>
+    <md:keyword>lycophyta</md:keyword>
+    <md:keyword>megaphyll</md:keyword>
+    <md:keyword>megaspore</md:keyword>
+    <md:keyword>microphyll</md:keyword>
+    <md:keyword>microspore</md:keyword>
+    <md:keyword>moss</md:keyword>
+    <md:keyword>non-vascular plant</md:keyword>
+    <md:keyword>paleobotany</md:keyword>
+    <md:keyword>peat moss</md:keyword>
+    <md:keyword>peristome</md:keyword>
+    <md:keyword>phloem</md:keyword>
+    <md:keyword>plant adaptation</md:keyword>
+    <md:keyword>plant ecology</md:keyword>
+    <md:keyword>plant evolution</md:keyword>
+    <md:keyword>plant life on land</md:keyword>
+    <md:keyword>plant phylogeny</md:keyword>
+    <md:keyword>plants</md:keyword>
+    <md:keyword>protonema</md:keyword>
+    <md:keyword>rhizoid</md:keyword>
+    <md:keyword>root</md:keyword>
+    <md:keyword>seedless non-vascular plant</md:keyword>
+    <md:keyword>seedless plant</md:keyword>
+    <md:keyword>seedless tracheophyte</md:keyword>
+    <md:keyword>seedless vascular plant</md:keyword>
+    <md:keyword>seta</md:keyword>
+    <md:keyword>sporangia</md:keyword>
+    <md:keyword>sporocyte</md:keyword>
+    <md:keyword>sporophyll</md:keyword>
+    <md:keyword>sporopollenin</md:keyword>
+    <md:keyword>streptophyte</md:keyword>
+    <md:keyword>strobili</md:keyword>
+    <md:keyword>tracheophyte</md:keyword>
+    <md:keyword>vascular plant</md:keyword>
+    <md:keyword>vascular tissue</md:keyword>
+    <md:keyword>vein</md:keyword>
+    <md:keyword>whisk fern</md:keyword>
+    <md:keyword>xylem</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<?cnx.eoc class="summary" title="Sections Summary"?>
+<?cnx.eoc class="art-exercise" title="Art Connections"?>
+<?cnx.eoc class="multiple-choice" title="Multiple Choice"?>
+<?cnx.eoc class="free-response" title="Free Response"?>
+
+<figure id="fig-ch25_00_01" class="splash"><media id="fs-idp16609568" alt=" Photo shows a seedless plant growing under a large tree. The seedless plant has a long, slender stalk with thin, filamentous branches radiating out from it. The branches have no leaves.">
+<image mime-type="image/jpg" src="Figure_25_00_01.jpg" width="600"/>
+</media>
+
+<caption>Seedless plants, like these horsetails (<emphasis effect="italics">Equisetum</emphasis> sp.), thrive in damp, shaded environments under a tree canopy where dryness is rare. (credit: modification of work by Jerry Kirkhart)</caption></figure><para id="fs-idm4210928">An incredible variety of seedless plants populates the terrestrial landscape. Mosses may grow on a tree trunk, and horsetails may display their jointed stems and spindly leaves across the forest floor. Today, seedless plants represent only a small fraction of the plants in our environment; yet, three hundred million years ago, seedless plants dominated the landscape and grew in the enormous swampy forests of the Carboniferous period. Their decomposition created large deposits of coal that we mine today.</para>
+<para id="fs-idp12791952">Current evolutionary thought holds that all plants&#8212;green algae as well as land dwellers&#8212;are monophyletic; that is, they are descendants of a single common ancestor. The evolutionary transition from water to land imposed severe constraints on plants. They had to develop strategies to avoid drying out, to disperse reproductive cells in air, for structural support, and for capturing and filtering sunlight. While seed plants developed adaptations that allowed them to populate even the most arid habitats on Earth, full independence from water did not happen in all plants. Most seedless plants still require a moist environment.</para></content>
+</document>

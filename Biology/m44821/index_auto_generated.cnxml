@@ -1,0 +1,422 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Adaptive Immune Response</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44821/latest/</md:content-url>
+  <md:content-id>m44821</md:content-id>
+  <md:title>Adaptive Immune Response</md:title>
+  <md:version>1.6</md:version>
+  <md:created>2012/08/23 15:58:25 -0500</md:created>
+  <md:revised>2013/06/21 10:03:22.783 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>adaptive immune response</md:keyword>
+    <md:keyword>adaptive immune system</md:keyword>
+    <md:keyword>adaptive immunity</md:keyword>
+    <md:keyword>antigen</md:keyword>
+    <md:keyword>antigen-presenting cell</md:keyword>
+    <md:keyword>APC</md:keyword>
+    <md:keyword>autoimmune response</md:keyword>
+    <md:keyword>cell-mediated immune response</md:keyword>
+    <md:keyword>clonal selection</md:keyword>
+    <md:keyword>CTL</md:keyword>
+    <md:keyword>cytotoxic T lymphocyte</md:keyword>
+    <md:keyword>dendritic cell</md:keyword>
+    <md:keyword>effector cell</md:keyword>
+    <md:keyword>epitope</md:keyword>
+    <md:keyword>helper T cell</md:keyword>
+    <md:keyword>helper T lymphocyte</md:keyword>
+    <md:keyword>humoral immune response</md:keyword>
+    <md:keyword>immune response</md:keyword>
+    <md:keyword>immune system</md:keyword>
+    <md:keyword>immune tolerance</md:keyword>
+    <md:keyword>immunity</md:keyword>
+    <md:keyword>lymph</md:keyword>
+    <md:keyword>MALT</md:keyword>
+    <md:keyword>memory cell</md:keyword>
+    <md:keyword>mucosa-associated lymphoid tissue</md:keyword>
+    <md:keyword>plasma cell</md:keyword>
+    <md:keyword>regulatory T cell</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain adaptive immunity</item>
+<item>Compare and contrast adaptive and innate immunity</item>
+<item>Describe cell-mediated immune response and humoral immune response</item>
+<item>Describe immune tolerance</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idm120041696">The adaptive, or acquired, immune response takes days or even weeks to become established&#8212;much longer than the innate response; however, adaptive immunity is more specific to pathogens and has memory. <term>Adaptive immunity</term> is an immunity that occurs after exposure to an antigen either from a pathogen or a vaccination. This part of the immune system is activated when the innate immune response is insufficient to control an infection. In fact, without information from the innate immune system, the adaptive response could not be mobilized. There are two types of adaptive responses: the <term>cell-mediated immune response</term>, which is carried out by T cells, and the <term>humoral immune response</term>, which is controlled by activated B cells and antibodies. Activated T cells and B cells that are specific to molecular structures on the pathogen proliferate and attack the invading pathogen. Their attack can kill pathogens directly or secrete antibodies that enhance the phagocytosis of pathogens and disrupt the infection. Adaptive immunity also involves a memory to provide the host with long-term protection from reinfection with the same type of pathogen; on re-exposure, this memory will facilitate an efficient and quick response.</para>
+<section id="fs-idm20288224">
+<title>Antigen-presenting Cells</title><para id="fs-idm83796512">Unlike NK cells of the innate immune system, B cells (B lymphocytes) are a type of white blood cell that gives rise to antibodies, whereas T cells (T lymphocytes) are a type of white blood cell that plays an important role in the immune response. T cells are a key component in the cell-mediated response&#8212;the specific immune response that utilizes T cells to neutralize cells that have been infected with viruses and certain bacteria. There are three types of T cells: cytotoxic, helper, and suppressor T cells. Cytotoxic T cells destroy virus-infected cells in the cell-mediated immune response, and helper T cells play a part in activating both the antibody and the cell-mediated immune responses. Suppressor T cells deactivate T cells and B cells when needed, and thus prevent the immune response from becoming too intense.</para>
+<para id="fs-idm107018592">An <term>antigen</term> is a foreign or &#8220;non-self&#8221; macromolecule that reacts with cells of the immune system. Not all antigens will provoke a response. For instance, individuals produce innumerable &#8220;self&#8221; antigens and are constantly exposed to harmless foreign antigens, such as food proteins, pollen, or dust components. The suppression of immune responses to harmless macromolecules is highly regulated and typically prevents processes that could be damaging to the host, known as tolerance.</para>
+<para id="fs-idm101922000">The innate immune system contains cells that detect potentially harmful antigens, and then inform the adaptive immune response about the presence of these antigens. An <term>antigen-presenting cell (APC)</term> is an immune cell that detects, engulfs, and informs the adaptive immune response about an infection. When a pathogen is detected, these APCs will phagocytose the pathogen and digest it to form many different fragments of the antigen. Antigen fragments will then be transported to the surface of the APC, where they will serve as an indicator to other immune cells. <term>Dendritic cells</term> are immune cells that process antigen material; they are present in the skin (Langerhans cells) and the lining of the nose, lungs, stomach, and intestines. Sometimes a dendritic cell presents on the surface of other cells to induce an immune response, thus functioning as an antigen-presenting cell. Macrophages also function as APCs. Before activation and differentiation, B cells can also function as APCs.</para>
+<para id="fs-idp80950848">After phagocytosis by APCs, the phagocytic vesicle fuses with an intracellular lysosome forming phagolysosome. Within the phagolysosome, the components are broken down into fragments; the fragments are then loaded onto MHC class I or MHC class II molecules and are transported to the cell surface for antigen presentation, as illustrated in <link target-id="fig-ch42_02_01" document=""/>. Note that T lymphocytes cannot properly respond to the antigen unless it is processed and embedded in an MHC II molecule. APCs express MHC on their surfaces, and when combined with a foreign antigen, these complexes signal a &#8220;non-self&#8221; invader. Once the fragment of antigen is embedded in the MHC II molecule, the immune cell can respond. Helper T- cells are one of the main lymphocytes that respond to antigen-presenting cells. Recall that all other nucleated cells of the body expressed MHC I molecules, which signal &#8220;healthy&#8221; or &#8220;normal.&#8221;</para><figure id="fig-ch42_02_01" class=" "><media id="fs-idm29116992" alt="Illustration shows a bacterium being engulfed by a macrophage. Lysosomes fuse with the vacuole containing the bacteria. The bacterium is digested. Antigens from the bacterium are attached to a MHC II molecule and presented on the cell surface.">
+<image mime-type="image/jpg" src="Figure_42_02_01.jpg" width="295"/>
+</media>
+<caption>An APC, such as a macrophage, engulfs and digests a foreign bacterium. An antigen from the bacterium is presented on the cell surface in conjunction with an MHC II molecule Lymphocytes of the adaptive immune response interact with antigen-embedded MHC II molecules to mature into functional immune cells.</caption></figure><note id="fs-idp73081248" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idm11357488" alt="QR Code representing a URL">
+<image mime-type="image/png" src="immune_system.png" width="120"/>
+</media>
+<para id="fs-idp44884592">This <link window="new" url="http://openstaxcollege.org/l/immune_system">animation</link> from Rockefeller University shows how dendritic cells act as sentinels in the body's immune system.</para>
+</note></section>
+<section id="fs-idm27018880">
+<title>T and B Lymphocytes</title>
+<para id="fs-idm94707680">Lymphocytes in human circulating blood are approximately 80 to 90 percent T cells, shown in <link target-id="fig-ch42_02_02" document=""/>, and 10 to 20 percent B cells. Recall that the T cells are involved in the cell-mediated immune response, whereas B cells are part of the humoral immune response.</para>
+<para id="fs-idm23280816">T cells encompass a heterogeneous population of cells with extremely diverse functions. Some T cells respond to APCs of the innate immune system, and indirectly induce immune responses by releasing cytokines. Other T cells stimulate B cells to prepare their own response. Another population of T cells detects APC signals and directly kills the infected cells. Other T cells are involved in suppressing inappropriate immune reactions to harmless or &#8220;self&#8221; antigens.</para>
+<figure id="fig-ch42_02_02" class=" "><media id="fs-idm71919888" alt="Micrograph shows a cell that looks like a fuzzy snowball.">
+<image mime-type="image/jpg" src="Figure_42_02_02.jpg" width="255"/>
+</media>
+<caption>This scanning electron micrograph shows a T lymphocyte, which is responsible for the cell-mediated immune response. T cells are able to recognize antigens. (credit: modification of work by NCI; scale-bar data from Matt Russell)</caption></figure><para id="fs-idp3718960">T and B cells exhibit a common theme of recognition/binding of specific antigens via a complementary receptor, followed by activation and self-amplification/maturation to specifically bind to the particular antigen of the infecting pathogen. T and B lymphocytes are also similar in that each cell only expresses one type of antigen receptor. Any individual may possess a population of T and B cells that together express a near limitless variety of antigen receptors that are capable of recognizing virtually any infecting pathogen. T and B cells are activated when they recognize small components of antigens, called <term>epitopes</term>, presented by APCs, illustrated in <link target-id="fig-ch42_02_03" document=""/>. Note that recognition occurs at a specific epitope rather than on the entire antigen; for this reason, epitopes are known as &#8220;antigenic determinants.&#8221; In the absence of information from APCs, T and B cells remain inactive, or na&#239;ve, and are unable to prepare an immune response. The requirement for information from the APCs of innate immunity to trigger B cell or T cell activation illustrates the essential nature of the innate immune response to the functioning of the entire immune system.</para>
+<figure id="fig-ch42_02_03" class=" "><media id="fs-idm75684400" alt="Illustration shows an antigen with three epitopes, each with a unique shape. The antigen only binds to the spherical epitope.">
+<image mime-type="image/png" src="Figure_42_02_03.png" width="280"/>
+</media>
+<caption>An antigen is a macromolecule that reacts with components of the immune system. A given antigen may contain several motifs that are recognized by immune cells. Each motif is an epitope. In this figure, the entire structure is an antigen, and the orange, salmon and green components projecting from it represent potential epitopes.</caption></figure><para id="fs-idm126257376">Na&#239;ve T cells can express one of two different molecules, CD4 or CD8, on their surface, as shown in <link target-id="fig-ch42_02_04" document=""/>, and are accordingly classified as CD4<sup>+</sup> or CD8<sup>+</sup> cells. These molecules are important because they regulate how a T cell will interact with and respond to an APC. Na&#239;ve CD4<sup>+</sup> cells bind APCs via their antigen-embedded MHC II molecules and are stimulated to become <term>helper T (T<sub>H</sub>) lymphocytes</term>, cells that go on to stimulate B cells (or cytotoxic T cells) directly or secrete cytokines to inform more and various target cells about the pathogenic threat. In contrast, CD8<sup>+</sup> cells engage antigen-embedded MHC I molecules on APCs and are stimulated to become <term>cytotoxic T lymphocytes (CTLs)</term>, which directly kill infected cells by apoptosis and emit cytokines to amplify the immune response. The two populations of T cells have different mechanisms of immune protection, but both bind MHC molecules via their antigen receptors called T cell receptors (TCRs). The CD4 or CD8 surface molecules differentiate whether the TCR will engage an MHC II or an MHC I molecule. Because they assist in binding specificity, the CD4 and CD8 molecules are described as coreceptors.</para>
+<note id="fs-idm154558992" class="art-connection"><label/><title>Art Connection</title>
+<figure id="fig-ch42_02_04" class=" "><media id="fs-idm106551584" alt=" Illustration shows activation of a CD4-plus helper T cell. An antigen-presenting cell digests a pathogen. Epitopes from this pathogen are presented in conjunction with MHC II molecules on the cell surface. A T cell receptor and a CD8 receptor, both on the surface of the T cell, bind the MHC II-epitope complex. As a result, the helper T cell becomes activated and both the helper T cell and antigen-presenting cell release cytokines. The cytokines induce the helper T cell to clone itself. The cloned helper T cells release different cytokines that activate B cells and CD8+ T cells, turning them into cytotoxic T cells. The cytotoxic and binds the MHC I-epitope complex on an infected cell. The cytotoxic T cell then releases perforin molecules, which form a pore in the plasma membrane, and granzymes, which break down proteins, killing the cell.">
+<image mime-type="image/png" src="Figure_42_02_04.png" width="525"/>
+</media>
+<caption>Na&#239;ve CD4<sup>+</sup> T cells engage MHC II molecules on antigen-presenting cells (APCs) and become activated. Clones of the activated helper T cell, in turn, activate B cells and CD8<sup>+</sup> T cells, which become cytotoxic T cells. Cytotoxic T cells kill infected cells.</caption>
+</figure>
+<para id="fs-idm93891296">Which of the following statements about T cells is false?</para>
+<list id="fs-idp10452608" list-type="enumerated" number-style="lower-alpha">
+    <item>Helper T cells release cytokines while cytotoxic T cells kill the infected cell.</item>
+<item>Helper T cells are CD4<sup>+</sup>, while cytotoxic T cells are CD8<sup>+</sup>.</item>
+<item>MHC II is a receptor found on most body cells, while MHC I is a receptor found on immune cells only.</item>
+<item>The T cell receptor is found on both CD4<sup>+</sup> and CD8<sup>+</sup> T cells.</item>
+</list>
+<!--<para><link target-id="fig-ch42_02_04" document=""/>C</para>-->
+    </note><para id="fs-idm89535296">Consider the innumerable possible antigens that an individual will be exposed to during a lifetime. The mammalian adaptive immune system is adept in responding appropriately to each antigen. Mammals have an enormous diversity of T cell populations, resulting from the diversity of TCRs. Each TCR consists of two polypeptide chains that span the T cell membrane, as illustrated in <link target-id="fig-ch42_02_05" document=""/>; the chains are linked by a disulfide bridge. Each polypeptide chain is comprised of a constant domain and a variable domain: a domain, in this sense, is a specific region of a protein that may be regulatory or structural. The intracellular domain is involved in intracellular signaling. A single T cell will express thousands of identical copies of one specific TCR variant on its cell surface. The specificity of the adaptive immune system occurs because it synthesizes millions of different T cell populations, each expressing a TCR that differs in its variable domain. This TCR diversity is achieved by the mutation and recombination of genes that encode these receptors in stem cell precursors of T cells. The binding between an antigen-displaying MHC molecule and a complementary TCR &#8220;match&#8221; indicates that the adaptive immune system needs to activate and produce that specific T cell because its structure is appropriate to recognize and destroy the invading pathogen.</para>
+<figure id="fig-ch42_02_05" class=" "><media id="fs-idm22431344" alt="Illustration shows a T cell receptor, which has two column-like subunits that project from the plasma membrane. The subunits, named alpha and beta, are connected by a disulfide bridge. The upper third of the extracellular portion of each column is called the variable region, and the lower two-thirds is called the constant region. The region that spans the membrane is called the transmembrane region. Beneath the transmembrane region is a short, intracellular region.">
+<image mime-type="image/jpg" src="Figure_42_02_05.jpg" width="320"/>
+</media>
+<caption>A T cell receptor spans the membrane and projects variable binding regions into the extracellular space to bind processed antigens via MHC molecules on APCs.</caption></figure><section id="fs-idp94055216">
+<title>Helper T Lymphocytes</title>
+<para id="fs-idm113928624">The T<sub>H</sub> lymphocytes function indirectly to identify potential pathogens for other cells of the immune system. These cells are important for extracellular infections, such as those caused by certain bacteria, helminths, and protozoa. T<sub>H </sub>lymphocytes recognize specific antigens displayed in the MHC II complexes of APCs. There are two major populations of T<sub>H</sub> cells: T<sub>H</sub>1 and T<sub>H</sub>2. T<sub>H</sub>1 cells secrete cytokines to enhance the activities of macrophages and other T cells. T<sub>H</sub>1 cells activate the action of cyotoxic T cells, as well as macrophages. T<sub>H</sub>2 cells stimulate na&#239;ve B cells to destroy foreign invaders via antibody secretion. Whether a T<sub>H</sub>1 or a T<sub>H</sub>2 immune response develops depends on the specific types of cytokines secreted by cells of the innate immune system, which in turn depends on the nature of the invading pathogen.</para><para id="fs-idm147444864">The T<sub>H</sub>1-mediated response involves macrophages and is associated with inflammation. Recall the frontline defenses of macrophages involved in the innate immune response. Some intracellular bacteria, such as <emphasis effect="italics">Mycobacterium tuberculosis</emphasis>, have evolved to multiply in macrophages after they have been engulfed. These pathogens evade attempts by macrophages to destroy and digest the pathogen. When <emphasis effect="italics">M. tuberculosis</emphasis> infection occurs, macrophages can stimulate na&#239;ve T cells to become T<sub>H</sub>1 cells. These stimulated T cells secrete specific cytokines that send feedback to the macrophage to stimulate its digestive capabilities and allow it to destroy the colonizing <emphasis effect="italics">M. tuberculosis</emphasis>. In the same manner, T<sub>H</sub>1-activated macrophages also become better suited to ingest and kill tumor cells. In summary; T<sub>H</sub>1 responses are directed toward intracellular invaders while T<sub>H</sub>2 responses are aimed at those that are extracellular.</para>
+</section>
+<section id="fs-idm98482592">
+<title>B Lymphocytes</title>
+<para id="fs-idm78332688">When stimulated by the T<sub>H</sub>2 pathway, na&#239;ve B cells differentiate into antibody-secreting plasma cells. A <term>plasma cell</term> is an immune cell that secrets antibodies; these cells arise from B cells that were stimulated by antigens. Similar to T cells, na&#239;ve B cells initially are coated in thousands of B cell receptors (BCRs), which are membrane-bound forms of Ig (immunoglobulin, or an antibody). The B cell receptor has two heavy chains and two light chains connected by disulfide linkages. Each chain has a constant and a variable region; the latter is involved in antigen binding. Two other membrane proteins, Ig alpha and Ig beta, are involved in signaling. The receptors of any particular B cell, as shown in <link target-id="fig-ch42_02_06" document=""/> are all the same, but the hundreds of millions of different B cells in an individual have distinct recognition domains that contribute to extensive diversity in the types of molecular structures to which they can bind. In this state, B cells function as APCs. They bind and engulf foreign antigens via their BCRs and then display processed antigens in the context of MHC II molecules to T<sub>H</sub>2 cells. When a T<sub>H</sub>2 cell detects that a B cell is bound to a relevant antigen, it secretes specific cytokines that induce the B cell to proliferate rapidly, which makes thousands of identical (clonal) copies of it, and then it synthesizes and secretes antibodies with the same antigen recognition pattern as the BCRs. The activation of B cells corresponding to one specific BCR variant and the dramatic proliferation of that variant is known as <term>clonal selection</term>. This phenomenon drastically, but briefly, changes the proportions of BCR variants expressed by the immune system, and shifts the balance toward BCRs specific to the infecting pathogen.</para>
+<figure id="fig-ch42_02_06"><media id="fs-idm166157424" alt="Illustration shows a B cell receptor that has two column-like subunits, called heavy chains, projecting up from the plasma membrane. Each column bends away from the other about halfway up, resulting in a Y-shaped structure. Two shorter subunits, called light chains, join the heavy chains after the bend. The upper portion of both the light and heavy chains is the variable region that makes up the antigen binding site. The bottom of both light and heavy chains forms the constant region. The signal transduction region consists of two proteins, Ig beta and Ig alpha, embedded in the plasma membrane, with projections on the cytoplasmic side.">
+<image mime-type="image/jpg" src="Figure_42_02_06.jpg" width="325"/>
+</media>
+<caption>B cell receptors are embedded in the membranes of B cells and bind a variety of antigens through their variable regions. The signal transduction region transfers the signal into the cell.</caption></figure><para id="fs-idm30753312">T and B cells differ in one fundamental way: whereas T cells bind antigens that have been digested and embedded in MHC molecules by APCs, B cells function as APCs that bind intact antigens that have not been processed. Although T and B cells both react with molecules that are termed &#8220;antigens,&#8221; these lymphocytes actually respond to very different types of molecules. B cells must be able to bind intact antigens because they secrete antibodies that must recognize the pathogen directly, rather than digested remnants of the pathogen. Bacterial carbohydrate and lipid molecules can activate B cells independently from the T cells.</para>
+</section>
+<section id="fs-idp81614496">
+<title>Cytotoxic T Lymphocytes</title>
+<para id="fs-idm166134096">CTLs, a subclass of T cells, function to clear infections directly. The cell-mediated part of the adaptive immune system consists of CTLs that attack and destroy infected cells. CTLs are particularly important in protecting against viral infections; this is because viruses replicate within cells where they are shielded from extracellular contact with circulating antibodies. When APCs phagocytize pathogens and present MHC I-embedded antigens to na&#239;ve CD8<sup>+</sup> T cells that express complementary TCRs, the CD8<sup>+</sup> T cells become activated to proliferate according to clonal selection. These resulting CTLs then identify non-APCs displaying the same MHC I-embedded antigens (for example, viral proteins)&#8212;for example, the CTLs identify infected host cells.</para>
+<para id="fs-idm62045072">Intracellularly, infected cells typically die after the infecting pathogen replicates to a sufficient concentration and lyses the cell, as many viruses do. CTLs attempt to identify and destroy infected cells before the pathogen can replicate and escape, thereby halting the progression of intracellular infections. CTLs also support NK lymphocytes to destroy early cancers. Cytokines secreted by the T<sub>H</sub>1 response that stimulates macrophages also stimulate CTLs and enhance their ability to identify and destroy infected cells and tumors.</para>
+<para id="fs-idm155343088">CTLs sense MHC I-embedded antigens by directly interacting with infected cells via their TCRs. Binding of TCRs with antigens activates CTLs to release perforin and granzyme, degradative enzymes that will induce apoptosis of the infected cell. Recall that this is a similar destruction mechanism to that used by NK cells. In this process, the CTL does not become infected and is not harmed by the secretion of perforin and granzymes. In fact, the functions of NK cells and CTLs are complementary and maximize the removal of infected cells, as illustrated in <link target-id="fig-ch42_02_07" document=""/>. If the NK cell cannot identify the &#8220;missing self&#8221; pattern of down-regulated MHC I molecules, then the CTL can identify it by the complex of MHC I with foreign antigens, which signals &#8220;altered self.&#8221; Similarly, if the CTL cannot detect antigen-embedded MHC I because the receptors are depleted from the cell surface, NK cells will destroy the cell instead. CTLs also emit cytokines, such as interferons, that alter surface protein expression in other infected cells, such that the infected cells can be easily identified and destroyed. Moreover, these interferons can also prevent virally infected cells from releasing virus particles.</para>
+<note id="fs-idm152251088" class="art-connection"><label/><title>Art Connection</title>
+<figure id="fig-ch42_02_07" class=" "><media id="fs-idm66295904" alt="Healthy, uninfected cells present MHC I on their surface. A natural killer cell recognizes the MHC I and does not kill the cell. An infected cell that does not produce MHC I is killed.">
+<image mime-type="image/png" src="Figure_42_02_07.png" width="420"/>
+</media>
+
+<caption>Natural killer (NK) cells recognize the MHC I receptor on healthy cells. If MHC I is absent, the cell is lysed.</caption></figure><para id="fs-idp7530816">Based on what you know about MHC receptors, why do you think an organ transplanted from an incompatible donor to a recipient will be rejected?</para>
+<!--<para><link target-id="fig-ch42_02_07" document=""/>MHC receptors differ from person to person. Thus, MHC receptors on an incompatible donor are considered &#8220;non-self&#8221; and are rejected by the immune system.</para>-->
+</note><para id="fs-idm87238880">Plasma cells and CTLs are collectively called <term>effector cells</term>: they represent differentiated versions of their na&#239;ve counterparts, and they are involved in bringing about the immune defense of killing pathogens and infected host cells.</para></section>
+<section id="fs-idm5893552">
+<title>Mucosal Surfaces and Immune Tolerance</title>
+<para id="fs-idm113976320">The innate and adaptive immune responses discussed thus far comprise the systemic immune system (affecting the whole body), which is distinct from the mucosal immune system. Mucosal immunity is formed by mucosa-associated lymphoid tissue, which functions independently of the systemic immune system, and which has its own innate and adaptive components. <term>Mucosa-associated lymphoid tissue (MALT)</term>, illustrated in <link target-id="fig-ch42_02_08" document=""/>, is a collection of lymphatic tissue that combines with epithelial tissue lining the mucosa throughout the body. This tissue functions as the immune barrier and response in areas of the body with direct contact to the external environment. The systemic and mucosal immune systems use many of the same cell types. Foreign particles that make their way to MALT are taken up by absorptive epithelial cells called M cells and delivered to APCs located directly below the mucosal tissue. M cells function in the transport described, and are located in the Peyer&#8217;s patch, a lymphoid nodule. APCs of the mucosal immune system are primarily dendritic cells, with B cells and macrophages having minor roles. Processed antigens displayed on APCs are detected by T cells in the MALT and at various mucosal induction sites, such as the tonsils, adenoids, appendix, or the mesenteric lymph nodes of the intestine. Activated T cells then migrate through the lymphatic system and into the circulatory system to mucosal sites of infection.</para>
+<figure id="fig-ch42_02_08" class=" "><media id="fs-idp6543440" alt="The intestine is lined with epithelial cells with hair-like cilia extending into the intestinal lumen. M cells are sandwiched between these epithelial cells, in bump-like projections in the intestinal lining. The M cells are shaped like an upside-down U, with the U forming a pocket on the interior surface. Antigens are taken up from the intestinal lumen by the M cells, and excreted into this U-shaped pocket. Dendritic cells in the pocket ingest the antigen, then migrate to an area below of the intestinal lining called a Peyer&#8217;s patch. The dendritic cells, T cells and B cells aggregate to form clumps of cells called organized lymphoid follicles. There, some T cells interact with antigen associated with MHC II on the surface of the dendritic cells. Some B cells are activated by free antigen. Some antigen-presenting dendritic cells enter the lymphatic system, where more B and T cells are activated in the lymph nodes. The B cells and T cells return to bigger bumps in the intestinal epithelium called MALT effector sites. Antibodies are secreted into the intestinal lumen.">
+<image mime-type="image/jpg" src="Figure_42_02_08.jpg" width="550"/>
+</media>
+<caption>The topology and function of intestinal MALT is shown. Pathogens are taken up by M cells in the intestinal epithelium and excreted into a pocket formed by the inner surface of the cell. The pocket contains antigen-presenting cells such as dendritic cells, which engulf the antigens, then present them with MHC II molecules on the cell surface. The dendritic cells migrate to an underlying tissue called a Peyer&#8217;s patch. Antigen-presenting cells, T cells, and B cells aggregate within the Peyer&#8217;s patch, forming organized lymphoid follicles. There, some T cells and B cells are activated. Other antigen-loaded dendritic cells migrate through the lymphatic system where they activate B cells, T cells, and plasma cells in the lymph nodes. The activated cells then return to MALT tissue effector sites. IgA and other antibodies are secreted into the intestinal lumen.</caption></figure><para id="fs-idm62978896">MALT is a crucial component of a functional immune system because mucosal surfaces, such as the nasal passages, are the first tissues onto which inhaled or ingested pathogens are deposited. The mucosal tissue includes the mouth, pharynx, and esophagus, and the gastrointestinal, respiratory, and urogenital tracts.</para>
+<para id="fs-idm165148528">The immune system has to be regulated to prevent wasteful, unnecessary responses to harmless substances, and more importantly so that it does not attack &#8220;self.&#8221; The acquired ability to prevent an unnecessary or harmful immune response to a detected foreign substance known not to cause disease is described as <term>immune tolerance</term>. Immune tolerance is crucial for maintaining mucosal homeostasis given the tremendous number of foreign substances (such as food proteins) that APCs of the oral cavity, pharynx, and gastrointestinal mucosa encounter. Immune tolerance is brought about by specialized APCs in the liver, lymph nodes, small intestine, and lung that present harmless antigens to an exceptionally diverse population of <term>regulatory T (T<sub>reg</sub>) cells</term>, specialized lymphocytes that suppress local inflammation and inhibit the secretion of stimulatory immune factors. The combined result of T<sub>reg</sub> cells is to prevent immunologic activation and inflammation in undesired tissue compartments and to allow the immune system to focus on pathogens instead. In addition to promoting immune tolerance of harmless antigens, other subsets of T<sub>reg</sub> cells are involved in the prevention of the <term>autoimmune response</term>, which is an inappropriate immune response to host cells or self-antigens. Another T<sub>reg</sub> class suppresses immune responses to harmful pathogens after the infection has cleared to minimize host cell damage induced by inflammation and cell lysis.</para>
+</section>
+</section>
+<section id="fs-idp62912832">
+<title>Immunological Memory</title>
+<para id="fs-idm81772368">The adaptive immune system possesses a memory component that allows for an efficient and dramatic response upon reinvasion of the same pathogen. Memory is handled by the adaptive immune system with little reliance on cues from the innate response. During the adaptive immune response to a pathogen that has not been encountered before, called a primary response, plasma cells secreting antibodies and differentiated T cells increase, then plateau over time. As B and T cells mature into effector cells, a subset of the na&#239;ve populations differentiates into B and T memory cells with the same antigen specificities, as illustrated in <link target-id="fig-ch42_02_09" document=""/>.</para>
+<para id="fs-idm9217424">A <term>memory cell</term> is an antigen-specific B or T lymphocyte that does not differentiate into effector cells during the primary immune response, but that can immediately become effector cells upon re-exposure to the same pathogen. During the primary immune response, memory cells do not respond to antigens and do not contribute to host defenses. As the infection is cleared and pathogenic stimuli subside, the effectors are no longer needed, and they undergo apoptosis. In contrast, the memory cells persist in the circulation.</para>
+<note id="fs-idm112663888" class="art-connection"><label/><title>Art Connection</title>
+<figure id="fig-ch42_02_09" class=" "><media id="fs-idm30153408" alt="Illustration shows activation of a B cell. An antigen on the surface of a bacterium binds the B cell receptor. The antigen engulfs the antigen, and presents an epitope on its surface in conjunction with a MHC II receptor. A T cell receptor and CD4 molecule on the surface of a helper T cell recognize the epitope&#8211;MHC II complex and activate the B cell. The B cell divides and turns into memory B cells and plasma cells. Memory B cells present antigen on their surface. Plasma B cells excrete antigen.">
+<image mime-type="image/png" src="Figure_42_02_09.png" width="420"/>
+</media>
+
+<caption>After initially binding an antigen to the B cell receptor (BCR), a B cell internalizes the antigen and presents it on MHC II. A helper T cell recognizes the MHC II&#8211;antigen complex and activates the B cell. As a result, memory B cells and plasma cells are made.</caption></figure><para id="fs-idm69223136">The Rh antigen is found on Rh-positive red blood cells. An Rh-negative female can usually carry an Rh-positive fetus to term without difficulty. However, if she has a second Rh-positive fetus, her body may launch an immune attack that causes hemolytic disease of the newborn. Why do you think hemolytic disease is only a problem during the second or subsequent pregnancies?</para>
+<!--<para><link target-id="fig-ch42_02_09" document=""/>If the blood of the mother and fetus mixes, memory cells that recognize the Rh antigen can form late in the first pregnancy. During subsequent pregnancies, these memory cells launch an immune attack on the fetal blood cells. Injection of anti-Rh antibody during the first pregnancy prevents the immune response from occurring.</para>-->
+</note><para id="fs-idm162851872">If the pathogen is never encountered again during the individual&#8217;s lifetime, B and T memory cells will circulate for a few years or even several decades and will gradually die off, having never functioned as effector cells. However, if the host is re-exposed to the same pathogen type, circulating memory cells will immediately differentiate into plasma cells and CTLs without input from APCs or T<sub>H</sub> cells. One reason the adaptive immune response is delayed is because it takes time for na&#239;ve B and T cells with the appropriate antigen specificities to be identified and activated. Upon reinfection, this step is skipped, and the result is a more rapid production of immune defenses. Memory B cells that differentiate into plasma cells output tens to hundreds-fold greater antibody amounts than were secreted during the primary response, as the graph in <link target-id="fig-ch42_02_10" document=""/> illustrates. This rapid and dramatic antibody response may stop the infection before it can even become established, and the individual may not realize they had been exposed.</para>
+<figure id="fig-ch42_02_10" class=" "><media id="fs-idp7765888" alt="Bar graph plots antibody concentration versus primary and secondary immune response. During the primary immune response, a low concentration of antibody is produced. During the secondary immune response, about three times as much antibody is produced.">
+<image mime-type="image/jpg" src="Figure_42_02_10.jpg" width="320"/>
+</media>
+<caption>In the primary response to infection, antibodies are secreted first from plasma cells. Upon re-exposure to the same pathogen, memory cells differentiate into antibody-secreting plasma cells that output a greater amount of antibody for a longer period of time.</caption></figure><para id="fs-idm42113568">Vaccination is based on the knowledge that exposure to noninfectious antigens, derived from known pathogens, generates a mild primary immune response. The immune response to vaccination may not be perceived by the host as illness but still confers immune memory. When exposed to the corresponding pathogen to which an individual was vaccinated, the reaction is similar to a secondary exposure. Because each reinfection generates more memory cells and increased resistance to the pathogen, and because some memory cells die, certain vaccine courses involve one or more booster vaccinations to mimic repeat exposures: for instance, tetanus boosters are necessary every ten years because the memory cells only live that long.</para>
+<section id="fs-idm169370288">
+<title>Mucosal Immune Memory</title>
+<para id="fs-idp46289120">A subset of T and B cells of the mucosal immune system differentiates into memory cells just as in the systemic immune system. Upon reinvasion of the same pathogen type, a pronounced immune response occurs at the mucosal site where the original pathogen deposited, but a collective defense is also organized within interconnected or adjacent mucosal tissue. For instance, the immune memory of an infection in the oral cavity would also elicit a response in the pharynx if the oral cavity was exposed to the same pathogen.</para>
+<note id="fs-idp84101648" class="career"><label/><title>Career Connection</title>
+    
+<para id="fs-idm90006384"><title>Vaccinologist</title>Vaccination (or immunization) involves the delivery, usually by injection as shown in <link target-id="fig-ch42_02_11" document=""/>, of noninfectious antigen(s) derived from known pathogens. Other components, called adjuvants, are delivered in parallel to help stimulate the immune response. Immunological memory is the reason vaccines work. Ideally, the effect of vaccination is to elicit immunological memory, and thus resistance to specific pathogens without the individual having to experience an infection.</para>
+<figure id="fig-ch42_02_11" class=" "><media id="fs-idm62984592" alt="Photo shows a person receiving an injection in the arm.">
+<image mime-type="image/jpg" src="Figure_42_02_11.jpg" width="320"/>
+</media>
+<caption>Vaccines are often delivered by injection into the arm. (credit: U.S. Navy Photographer's Mate Airman Apprentice Christopher D. Blachly)</caption></figure><para id="fs-idm83554416">Vaccinologists are involved in the process of vaccine development from the initial idea to the availability of the completed vaccine. This process can take decades, can cost millions of dollars, and can involve many obstacles along the way. For instance, injected vaccines stimulate the systemic immune system, eliciting humoral and cell-mediated immunity, but have little effect on the mucosal response, which presents a challenge because many pathogens are deposited and replicate in mucosal compartments, and the injection does not provide the most efficient immune memory for these disease agents. For this reason, vaccinologists are actively involved in developing new vaccines that are applied via intranasal, aerosol, oral, or transcutaneous (absorbed through the skin) delivery methods. Importantly, mucosal-administered vaccines elicit both mucosal and systemic immunity and produce the same level of disease resistance as injected vaccines.</para>
+<figure id="fig-ch42_02_12" class=" "><media id="fs-idm89775216" alt="Photo shows a child receiving an oral vaccination from a dropper.">
+<image mime-type="image/jpg" src="Figure_42_02_12.jpg" width="200"/>
+</media>
+<caption>The polio vaccine can be administered orally. (credit: modification of work by UNICEF Sverige)</caption></figure><para id="fs-idm1534784">Currently, a version of intranasal influenza vaccine is available, and the polio and typhoid vaccines can be administered orally, as shown in <link target-id="fig-ch42_02_12" document=""/>. Similarly, the measles and rubella vaccines are being adapted to aerosol delivery using inhalation devices. Eventually, transgenic plants may be engineered to produce vaccine antigens that can be eaten to confer disease resistance. Other vaccines may be adapted to rectal or vaginal application to elicit immune responses in rectal, genitourinary, or reproductive mucosa. Finally, vaccine antigens may be adapted to transdermal application in which the skin is lightly scraped and microneedles are used to pierce the outermost layer. In addition to mobilizing the mucosal immune response, this new generation of vaccines may end the anxiety associated with injections and, in turn, improve patient participation.</para>
+</note></section>
+</section>
+<section id="fs-idp5824976">
+<title>Primary Centers of the Immune System</title>
+<para id="fs-idm69896816">Although the immune system is characterized by circulating cells throughout the body, the regulation, maturation, and intercommunication of immune factors occur at specific sites. The blood circulates immune cells, proteins, and other factors through the body. Approximately 0.1 percent of all cells in the blood are leukocytes, which encompass monocytes (the precursor of macrophages) and lymphocytes. The majority of cells in the blood are erythrocytes (red blood cells). <term>Lymph</term> is a watery fluid that bathes tissues and organs with protective white blood cells and does not contain erythrocytes. Cells of the immune system can travel between the distinct lymphatic and blood circulatory systems, which are separated by interstitial space, by a process called extravasation (passing through to surrounding tissue).</para>
+<para id="fs-idm90834240">The cells of the immune system originate from hematopoietic stem cells in the bone marrow. Cytokines stimulate these stem cells to differentiate into immune cells. B cell maturation occurs in the bone marrow, whereas na&#239;ve T cells transit from the bone marrow to the thymus for maturation. In the thymus, immature T cells that express TCRs complementary to self-antigens are destroyed. This process helps prevent autoimmune responses.</para>
+<para id="fs-idm38067776">On maturation, T and B lymphocytes circulate to various destinations. Lymph nodes scattered throughout the body, as illustrated in <link target-id="fig-ch42_02_13ab" document=""/>, house large populations of T and B cells, dendritic cells, and macrophages. Lymph gathers antigens as it drains from tissues. These antigens then are filtered through lymph nodes before the lymph is returned to circulation. APCs in the lymph nodes capture and process antigens and inform nearby lymphocytes about potential pathogens.</para><figure id="fig-ch42_02_13ab" class=" "><media id="fs-idm169232320" alt="Part A shows the location of the lymph nodes and lymph vessels in the human body. Lymph vessels run down the spine and along the sides of the body and into the arms and legs and neck. Lymph nodes are clustered in the upper arms and legs, and in the lower back. Part B shows a lymph node, which is kidney shaped. Afferent lymphatic vessels are located along the outer curve, and efferent vessels are located along the inner curve.">
+<image mime-type="image/jpg" src="Figure_42_02_13ab.jpg" width="450"/>
+</media>
+<caption>(a) Lymphatic vessels carry a clear fluid called lymph throughout the body. The liquid enters (b) lymph nodes through afferent vessels. Lymph nodes are filled with lymphocytes that purge infecting cells. The lymph then exits through efferent vessels. (credit: modification of work by NIH, NCI)</caption></figure><para id="fs-idm169969344">The spleen houses B and T cells, macrophages, dendritic cells, and NK cells. The spleen, shown in <link target-id="fig-ch42_02_14" document=""/>, is the site where APCs that have trapped foreign particles in the blood can communicate with lymphocytes. Antibodies are synthesized and secreted by activated plasma cells in the spleen, and the spleen filters foreign substances and antibody-complexed pathogens from the blood. Functionally, the spleen is to the blood as lymph nodes are to the lymph.</para>
+<figure id="fig-ch42_02_14" class=" "><media id="fs-idm113876736" alt="Illustration shows a cross section of a part of a spleen, which is located the upper left part of the abdomen. The spleen is divided into oval quadrants. At the center of these quadrants is white pulp, and at the periphery is red pulp. Arteries extend into the white pulp. Veins connect to the red pulp. The spleen is surrounded by a membrane called a capsule.">
+<image mime-type="image/jpg" src="Figure_42_02_14.jpg" width="320"/>
+</media>
+<caption>The spleen is similar to a lymph node but is much larger and filters blood instead of lymph. Blood enters the spleen through arteries and exits through veins. The spleen contains two types of tissue: red pulp and white pulp. Red pulp consists of cavities that store blood. Within the red pulp, damaged red blood cells are removed and replaced by new ones. White pulp is rich in lymphocytes that remove antigen-coated bacteria from the blood. (credit: modification of work by NCI)</caption></figure></section>
+<section id="fs-idm122780032" class="summary">
+<title>Section Summary</title><para id="fs-idm42045968">The adaptive immune response is a slower-acting, longer-lasting, and more specific response than the innate response. However, the adaptive response requires information from the innate immune system to function. APCs display antigens via MHC molecules to complementary na&#239;ve T cells. In response, the T cells differentiate and proliferate, becoming T<sub>H</sub> cells or CTLs. T<sub>H</sub> cells stimulate B cells that have engulfed and presented pathogen-derived antigens. B cells differentiate into plasma cells that secrete antibodies, whereas CTLs induce apoptosis in intracellularly infected or cancerous cells. Memory cells persist after a primary exposure to a pathogen. If re-exposure occurs, memory cells differentiate into effector cells without input from the innate immune system. The mucosal immune system is largely independent from the systemic immune system but functions in a parallel fashion to protect the extensive mucosal surfaces of the body.</para>
+    </section>
+<section id="fs-idm75690368" class="art-exercise">
+    <title>Art Connections</title>
+<exercise id="fs-idm109687888">
+    <problem id="fs-idm167820608">
+    <para id="fs-idm128637312"><link target-id="fig-ch42_02_04" document=""/> Which of the following statements about T cells is false?</para>
+<list id="fs-idm24798624" list-type="enumerated" number-style="lower-alpha"><item>Helper T cells release cytokines while cytotoxic T cells kill the infected cell.</item>
+<item>Helper T cells are CD4+, while cytotoxic T cells are CD8<sup>+</sup>.</item>
+<item>MHC II is a receptor found on most body cells, while MHC I is a receptor found on immune cells only.</item>
+<item>The T cell receptor is found on both CD4<sup>+</sup> and CD8<sup>+ </sup> T cells.</item>
+</list></problem>
+<solution id="fs-idp107017856">
+    <label/><para id="fs-idm78031360"><link target-id="fig-ch42_02_04" document=""/> C</para>
+</solution>
+</exercise>
+<exercise id="fs-idp20012208">
+    <problem id="fs-idm116257280">
+    <para id="fs-idp2976256"><link target-id="fig-ch42_02_07"/> Based on what you know about MHC receptors, why do you think an organ transplanted from an incompatible donor to a recipient will be rejected?</para></problem>
+<solution id="fs-idp73506304"><label/>
+    <para id="fs-idm15241152"><link target-id="fig-ch42_02_07" document=""/> MHC receptors differ from person to person. Thus, MHC receptors on an incompatible donor are considered &#8220;non-self&#8221; and are rejected by the immune system.</para></solution>
+</exercise>
+<exercise id="fs-idm106325552">
+    <problem id="fs-idm42845776">
+    <para id="fs-idp98596672"><link target-id="fig-ch42_02_09"/> The Rh antigen is found on Rh-positive red blood cells. An Rh-negative female can usually carry an Rh-positive fetus to term without difficulty. However, if she has a second Rh-positive fetus, her body may launch an immune attack that causes hemolytic disease of the newborn. Why do you think hemolytic disease is only a problem during the second or subsequent pregnancies?</para></problem>
+<solution id="fs-idm59149072">
+    <label/><para id="fs-idm96990416"><link target-id="fig-ch42_02_09" document=""/> If the blood of the mother and fetus mixes, memory cells that recognize the Rh antigen can form late in the first pregnancy. During subsequent pregnancies, these memory cells launch an immune attack on the fetal blood cells. Injection of anti-Rh antibody during the first pregnancy prevents the immune response from occurring.</para>
+</solution></exercise>
+</section>
+<section id="fs-idm130352080" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm148963776">
+<problem id="fs-idm24568784"><para id="fs-idp45756448">Which of the following is both a phagocyte and an antigen-presenting cell?</para>
+<list id="fs-idm69409984" list-type="enumerated" number-style="lower-alpha">
+<item>NK cell</item>
+<item>eosinophil</item>
+<item>neutrophil</item>
+<item>macrophage</item>
+</list>
+</problem>
+<solution id="fs-idm42819696">
+<label/>
+<para id="fs-idm217310464">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idp86317888">
+<problem id="fs-idm144623216"><para id="fs-idm7231232">Which immune cells bind MHC molecules on APCs via CD8 coreceptors on their cell surfaces?</para>
+<list id="fs-idm146988880" list-type="enumerated" number-style="lower-alpha">
+<item>T<sub>H</sub> cells</item>
+<item>CTLs</item>
+<item>mast cells</item>
+<item>basophils</item>
+</list>
+</problem>
+<solution id="fs-idp96715424">
+<label/>
+<para id="fs-idm123745776">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm64029392">
+<problem id="fs-idm27549072"><para id="fs-idm87194128">What &#8220;self&#8221; pattern is identified by NK cells?</para>
+      <list id="fs-idm111207072" list-type="enumerated" number-style="lower-alpha">
+          <item>altered self</item>
+      <item>missing self</item>
+      <item>normal self</item>
+      <item>non-self</item>
+      </list>
+</problem>
+    <solution id="fs-idp4104112">
+        <label/><para id="fs-idp140047120">B</para>
+    </solution>
+          </exercise>
+<exercise id="fs-idm169041360">
+<problem id="fs-idm72887392"><para id="fs-idm80514176">The acquired ability to prevent an unnecessary or destructive immune reaction to a harmless foreign particle, such as a food protein, is called ________.</para>
+    <list id="fs-idm103191872" list-type="enumerated" number-style="lower-alpha">
+        <item>the T<sub>H</sub>2 response</item>
+    <item>allergy</item>
+      <item>immune tolerance</item>
+      <item>autoimmunity</item>
+    </list>
+</problem>
+    <solution id="fs-idp7833936">
+        <label/><para id="fs-idm113672416">C</para>
+    </solution>
+    </exercise>
+<exercise id="fs-idm113318064">
+<problem id="fs-idm165034688"><para id="fs-idm207511264">A memory B cell can differentiate upon re-exposure to a pathogen of which cell type?</para>
+<list id="fs-idm41814832" list-type="enumerated" number-style="lower-alpha">
+<item>CTL</item>
+<item>na&#239;ve B cell</item>
+<item>memory T cell</item>
+<item>plasma cell</item>
+</list>
+</problem>
+<solution id="fs-idm2125888">
+<label/>
+<para id="fs-idm168712640">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm104907776">
+<problem id="fs-idm122386368"><para id="fs-idm70105376">Foreign particles circulating in the blood are filtered by the ________.</para>
+     <list id="fs-idp7636624" list-type="enumerated" number-style="lower-alpha">
+         <item>spleen</item>
+      <item>lymph nodes</item>
+      <item>MALT</item>
+      <item>lymph</item>
+     </list>
+</problem>
+    <solution id="fs-idm127015024">
+        <label/><para id="fs-idp29767008">A</para>
+    </solution>
+    </exercise>
+</section>
+<section id="fs-idm108907504" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm68120736">
+<problem id="fs-idp98113904"><para id="fs-idm123499296">Explain the difference between an epitope and an antigen.</para></problem>
+<solution id="fs-idm107721680"><label/>
+<para id="fs-idp13157280">An antigen is a molecule that reacts with some component of the immune response (antibody, B cell receptor, T cell receptor). An epitope is the region on the antigen through which binding with the immune component actually occurs.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm38570784">
+<problem id="fs-idm222340048"><para id="fs-idm70831888">What is a na&#239;ve B or T cell?</para></problem>
+<solution id="fs-idm142866848"><label/>
+<para id="fs-idm37552336">A na&#239;ve T or B cell is one that has not been activated by binding to the appropriate epitope. Na&#239;ve T and B cells cannot produce responses.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm29174080">
+<problem id="fs-idm223644640"><para id="fs-idm158820256">How does the T<sub>H</sub>1 response differ from the T<sub>H</sub>2 response?</para></problem>
+<solution id="fs-idm87907248"><label/>
+<para id="fs-idm93901440">The T<sub>H</sub>1 response involves the secretion of cytokines to stimulate macrophages and CTLs and improve their destruction of intracellular pathogens and tumor cells. It is associated with inflammation. The T<sub>H</sub>2 response is involved in the stimulation of B cells into plasma cells that synthesize and secrete antibodies.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp88606288">
+<problem id="fs-idm44739376"><para id="fs-idp5966832">In mammalian adaptive immune systems, T cell receptors are extraordinarily diverse. What function of the immune system results from this diversity, and how is this diversity achieved?</para></problem>
+<solution id="fs-idm149747376">
+<label/>
+<para id="fs-idm70905456">The diversity of TCRs allows the immune system to have millions of different T cells, and thereby to be specific in distinguishing antigens. This diversity arises from mutation and recombination in the genes that encode the variable regions of TCRs.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp45563152">
+<problem id="fs-idp106413600"><para id="fs-idm94211264">How do B and T cells differ with respect to antigens that they bind?</para></problem>
+<solution id="fs-idp91842256"><label/>
+<para id="fs-idm36661744">T cells bind antigens that have been digested and embedded in MHC molecules by APCs. In contrast, B cells function themselves as APCs to bind intact, unprocessed antigens.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm62151152">
+<problem id="fs-idm11337296"><para id="fs-idm77836208">Why is the immune response after reinfection much faster than the adaptive immune response after the initial infection?</para></problem>
+<solution id="fs-idm142904720"><label/>
+<para id="fs-idm177895568">Upon reinfection, the memory cells will immediately differentiate into plasma cells and CTLs without input from APCs or T<sub>H</sub> cells. In contrast, the adaptive immune response to the initial infection requires time for na&#239;ve B and T cells with the appropriate antigen specificities to be identified and activated.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm98467360">
+<term>adaptive immunity</term> <meaning id="fs-idp52498336">immunity that has memory and occurs after exposure to an antigen either from a pathogen or a vaccination</meaning>
+</definition>
+<definition id="fs-idm93938816">
+<term>antigen</term> <meaning id="fs-idm224878896">foreign or &#8220;non-self&#8221; protein that triggers the immune response</meaning>
+</definition>
+<definition id="fs-idm79203168">
+<term>antigen-presenting cell (APC)</term> <meaning id="fs-idp29054944">immune cell that detects, engulfs, and informs the adaptive immune response about an infection by presenting the processed antigen on the cell surface</meaning>
+</definition>
+<definition id="fs-idp66472864">
+<term>autoimmune response</term> <meaning id="fs-idm17522448">inappropriate immune response to host cells or self-antigens</meaning>
+</definition>
+<definition id="fs-idm186893504">
+<term>cell-mediated immune response</term> <meaning id="fs-idm87856864">adaptive immune response that is carried out by T cells</meaning>
+</definition>
+<definition id="fs-idp21067840">
+<term>clonal selection</term> <meaning id="fs-idm108003584">activation of B cells corresponding to one specific BCR variant and the dramatic proliferation of that variant</meaning>
+</definition>
+<definition id="fs-idp7489312">
+<term>cytotoxic T lymphocyte (CTL)</term> <meaning id="fs-idm159031488">adaptive immune cell that directly kills infected cells via perforin and granzymes, and releases cytokines to enhance the immune response</meaning>
+</definition>
+<definition id="fs-idm108806304">
+<term>dendritic cell</term> <meaning id="fs-idm36802720">immune cell that processes antigen material and presents it on the surface of other cells to induce an immune response</meaning></definition>
+<definition id="fs-idp52491088">
+<term>effector cell</term> <meaning id="fs-idm102126128">lymphocyte that has differentiated, such as a B cell, plasma cell, or cytotoxic T lymphocyte</meaning>
+</definition>
+<definition id="fs-idp226432">
+<term>epitope</term> <meaning id="fs-idm36016448">small component of an antigen that is specifically recognized by antibodies, B cells, and T cells; the antigenic determinant</meaning>
+</definition>
+<definition id="fs-idm168642224">
+<term>helper T lymphocyte (T<sub>H</sub>)</term> <meaning id="fs-idm162710064">cell of the adaptive immune system that binds APCs via MHC II molecules and stimulates B cells or secretes cytokines to initiate the immune response</meaning>
+</definition>
+<definition id="fs-idm753792">
+<term>humoral immune response</term> <meaning id="fs-idm18995072">adaptive immune response that is controlled by activated B cells and antibodies</meaning>
+</definition>
+<definition id="fs-idm68176368">
+<term>immune tolerance</term> <meaning id="fs-idm42882768">acquired ability to prevent an unnecessary or harmful immune response to a detected foreign body known not to cause disease or to self-antigens</meaning>
+</definition>
+<definition id="fs-idp81299920">
+<term>lymph</term> <meaning id="fs-idm106240784">watery fluid that bathes tissues and organs with protective white blood cells and does not contain erythrocytes</meaning>
+</definition>
+<definition id="fs-idp50631376">
+<term>mucosa-associated lymphoid tissue (MALT)</term> <meaning id="fs-idm110374672">collection of lymphatic tissue that combines with epithelial tissue lining the mucosa throughout the body</meaning>
+</definition>
+<definition id="fs-idm142990256">
+<term>memory cell</term> <meaning id="fs-idp11933472">antigen-specific B or T lymphocyte that does not differentiate into effector cells during the primary immune response but that can immediately become an effector cell upon re-exposure to the same pathogen</meaning>
+</definition>
+<definition id="fs-idp8632560">
+<term>plasma cell</term> <meaning id="fs-idp8613968">immune cell that secrets antibodies; these cells arise from B cells that were stimulated by antigens</meaning>
+</definition>
+<definition id="fs-idm154916208">
+<term>regulatory T (T<sub>reg</sub>) cell</term> <meaning id="fs-idm29224096">specialized lymphocyte that suppresses local inflammation and inhibits the secretion of cytokines, antibodies, and other stimulatory immune factors; involved in immune tolerance</meaning>
+</definition>
+</glossary>
+</document>

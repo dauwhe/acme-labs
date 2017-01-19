@@ -1,0 +1,150 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44728/latest/</md:content-url>
+  <md:content-id>m44728</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.3</md:version>
+  <md:created>2012/08/23 15:05:56 -0500</md:created>
+  <md:revised>2013/05/10 13:01:22.017 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>acclimatization</md:keyword>
+    <md:keyword>adipose tissue</md:keyword>
+    <md:keyword>alteration</md:keyword>
+    <md:keyword>animal body</md:keyword>
+    <md:keyword>animal body function</md:keyword>
+    <md:keyword>animal energy</md:keyword>
+    <md:keyword>animal form</md:keyword>
+    <md:keyword>animal size</md:keyword>
+    <md:keyword>animal speed</md:keyword>
+    <md:keyword>animal tissue</md:keyword>
+    <md:keyword>areolar connective tissue</md:keyword>
+    <md:keyword>asymmetry</md:keyword>
+    <md:keyword>basal metabolic rate</md:keyword>
+    <md:keyword>bioenergetics</md:keyword>
+    <md:keyword>blood</md:keyword>
+    <md:keyword>BMR</md:keyword>
+    <md:keyword>body cavity</md:keyword>
+    <md:keyword>body defense</md:keyword>
+    <md:keyword>body motility</md:keyword>
+    <md:keyword>body plan</md:keyword>
+    <md:keyword>body plane</md:keyword>
+    <md:keyword>body symmetry</md:keyword>
+    <md:keyword>bone</md:keyword>
+    <md:keyword>cardiac muscle</md:keyword>
+    <md:keyword>cartilage</md:keyword>
+    <md:keyword>circulatory system</md:keyword>
+    <md:keyword>coelom</md:keyword>
+    <md:keyword>columnar epithelia</md:keyword>
+    <md:keyword>connective tissue</md:keyword>
+    <md:keyword>control of homeostasis</md:keyword>
+    <md:keyword>coronal plane</md:keyword>
+    <md:keyword>cuboidal epithelia</md:keyword>
+    <md:keyword>diffusion</md:keyword>
+    <md:keyword>digestive system</md:keyword>
+    <md:keyword>dorsal cavity</md:keyword>
+    <md:keyword>ectoderm</md:keyword>
+    <md:keyword>ectotherm</md:keyword>
+    <md:keyword>embryonic animal tissue</md:keyword>
+    <md:keyword>endocrine system</md:keyword>
+    <md:keyword>endoderm</md:keyword>
+    <md:keyword>endotherm</md:keyword>
+    <md:keyword>energy requirements</md:keyword>
+    <md:keyword>epithelial tissue</md:keyword>
+    <md:keyword>estivation</md:keyword>
+    <md:keyword>fibrous connective tissue</md:keyword>
+    <md:keyword>frontal plane</md:keyword>
+    <md:keyword>fusiform</md:keyword>
+    <md:keyword>heat conservation</md:keyword>
+    <md:keyword>heat dissipation</md:keyword>
+    <md:keyword>hibernation</md:keyword>
+    <md:keyword>homeostasis</md:keyword>
+    <md:keyword>homeostatic process</md:keyword>
+    <md:keyword>horizontal plane</md:keyword>
+    <md:keyword>integumentary system</md:keyword>
+    <md:keyword>loose connective tissue</md:keyword>
+    <md:keyword>mesoderm</md:keyword>
+    <md:keyword>midsagittal plane</md:keyword>
+    <md:keyword>mobility</md:keyword>
+    <md:keyword>muscle tissue</md:keyword>
+    <md:keyword>muscular system</md:keyword>
+    <md:keyword>negative feedback loop</md:keyword>
+    <md:keyword>nervous system</md:keyword>
+    <md:keyword>nervous tissue</md:keyword>
+    <md:keyword>neural thermoregulation</md:keyword>
+    <md:keyword>organ system</md:keyword>
+    <md:keyword>pathologist</md:keyword>
+    <md:keyword>physical anthropologist</md:keyword>
+    <md:keyword>positive feedback loop</md:keyword>
+    <md:keyword>respiratory system</md:keyword>
+    <md:keyword>sagittal plane</md:keyword>
+    <md:keyword>set point</md:keyword>
+    <md:keyword>skeletal muscle</md:keyword>
+    <md:keyword>skeletal system</md:keyword>
+    <md:keyword>smooth muscle</md:keyword>
+    <md:keyword>SMR</md:keyword>
+    <md:keyword>squamous epithelia</md:keyword>
+    <md:keyword>standard metabolic rate</md:keyword>
+    <md:keyword>thermoregulation</md:keyword>
+    <md:keyword>torpor</md:keyword>
+    <md:keyword>transitional epithelia</md:keyword>
+    <md:keyword>transverse plane</md:keyword>
+    <md:keyword>ventral cavity</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<?cnx.eoc class="summary" title="Sections Summary"?>
+<?cnx.eoc class="art-exercise" title="Art Connections"?>
+<?cnx.eoc class="multiple-choice" title="Multiple Choice"?>
+<?cnx.eoc class="free-response" title="Free Response"?>
+
+<figure id="fig-ch33_00_01" class="splash"><media id="fs-idm199056688" alt="Photo shows a white arctic fox that blends in with the snow.">
+<image mime-type="image/jpg" src="Figure_33_00_01.jpg" width="500"/>
+</media>
+
+<caption>An arctic fox is a complex animal, well adapted to its environment. It changes coat color with the seasons, and has longer fur in winter to trap heat. (credit: modification of work by Keith Morehouse, USFWS)</caption></figure><para id="fs-idm74156304">The arctic fox is an example of a complex animal that has adapted to its environment and illustrates the relationships between an animal&#8217;s form and function. The structures of animals consist of primary tissues that make up more complex organs and organ systems. Homeostasis allows an animal to maintain a balance between its internal and external environments.</para>
+</content>
+</document>

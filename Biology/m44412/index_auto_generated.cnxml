@@ -1,0 +1,333 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>The Cytoskeleton</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44412/latest/</md:content-url>
+  <md:content-id>m44412</md:content-id>
+  <md:title>The Cytoskeleton</md:title>
+  <md:version>1.8</md:version>
+  <md:created>2012/08/22 16:28:48 -0500</md:created>
+  <md:revised>2013/04/29 16:44:28.566 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>cell structure</md:keyword>
+    <md:keyword>cell wall</md:keyword>
+    <md:keyword>centrosome</md:keyword>
+    <md:keyword>chloroplast</md:keyword>
+    <md:keyword>cilia</md:keyword>
+    <md:keyword>cilium</md:keyword>
+    <md:keyword>cytoplasm</md:keyword>
+    <md:keyword>cytoskeleton</md:keyword>
+    <md:keyword>endoplasmic reticulum</md:keyword>
+    <md:keyword>flagella</md:keyword>
+    <md:keyword>flagellum</md:keyword>
+    <md:keyword>Golgi apparatus</md:keyword>
+    <md:keyword>intermediate filament</md:keyword>
+    <md:keyword>lysosome</md:keyword>
+    <md:keyword>microfilament</md:keyword>
+    <md:keyword>microtubule</md:keyword>
+    <md:keyword>mitochondria</md:keyword>
+    <md:keyword>nucleoid</md:keyword>
+    <md:keyword>nucleus</md:keyword>
+    <md:keyword>peroxisome</md:keyword>
+    <md:keyword>plasma membrane</md:keyword>
+    <md:keyword>ribosome</md:keyword>
+    <md:keyword>vacuole</md:keyword>
+    <md:keyword>vesicle</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the cytoskeleton</item>
+<item>Compare the roles of microfilaments, intermediate filaments, and microtubules</item>
+<item>Compare and contrast cilia and flagella</item>
+<item>Summarize the differences among the components of prokaryotic cells, animal cells, and plant cells</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-id1322516">If you were to remove all the organelles from a cell, would the plasma membrane and the cytoplasm be the only components left? No. Within the cytoplasm, there would still be ions and organic molecules, plus a network of protein fibers that help maintain the shape of the cell, secure some organelles in specific positions, allow cytoplasm and vesicles to move within the cell, and enable cells within multicellular organisms to move. Collectively, this network of protein fibers is known as the <term>cytoskeleton</term>. There are three types of fibers within the cytoskeleton: microfilaments, intermediate filaments, and microtubules (<link target-id="fig-ch04-05-01" document=""/>). Here, we will examine each.</para>
+<figure id="fig-ch04-05-01"><media id="fs-id2076540" alt="Microfilaments line the inside of the plasma membrane, whereas microfilaments radiate out from the center of the cell. Intermediate filaments form a network throughout the cell that holds organelles in place.">
+<image mime-type="image/jpg" src="Figure_04_05_01.jpg" width="275"/>
+</media>
+
+<caption>Microfilaments thicken the cortex around the inner edge of a cell; like rubber bands, they resist tension. Microtubules are found in the interior of the cell where they maintain cell shape by resisting compressive forces. Intermediate filaments are found throughout the cell and hold organelles in place.</caption></figure><section id="fs-id1228137">
+<title>Microfilaments</title>
+<para id="fs-id1662602">Of the three types of protein fibers in the cytoskeleton, <term>microfilaments</term> are the narrowest. They function in cellular movement, have a diameter of about 7 nm, and are made of two intertwined strands of a globular protein called actin (<link target-id="fig-ch04-05-02" document=""/>). For this reason, microfilaments are also known as actin filaments.</para>
+<figure id="fig-ch04-05-02"><media id="fs-id1857136" alt="This illustration shows two actin filaments wound together. Each actin filament is composed of many actin subunits connected together to form a chain.">
+<image mime-type="image/jpg" src="Figure_04_05_02.jpg" width="275"/>
+</media>
+
+<caption>Microfilaments are made of two intertwined strands of actin.</caption></figure><para id="fs-id1773165">Actin is powered by ATP to assemble its filamentous form, which serves as a track for the movement of a motor protein called myosin. This enables actin to engage in cellular events requiring motion, such as cell division in animal cells and cytoplasmic streaming, which is the circular movement of the cell cytoplasm in plant cells. Actin and myosin are plentiful in muscle cells. When your actin and myosin filaments slide past each other, your muscles contract.</para>
+<para id="fs-id1973921">Microfilaments also provide some rigidity and shape to the cell. They can depolymerize (disassemble) and reform quickly, thus enabling a cell to change its shape and move. White blood cells (your body&#8217;s infection-fighting cells) make good use of this ability. They can move to the site of an infection and phagocytize the pathogen.</para>
+<note id="fs-id1685480" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-id1608815" alt="QR Code representing a URL">
+<image mime-type="image/png" src="chasing_bcteria.png" width="130"/>
+</media>
+<para id="fs-id1364358">To see an example of a white blood cell in action, click <link window="new" url="http://openstaxcollege.org/l/chasing_bcteria">here</link> and watch a short time-lapse video of the cell capturing two bacteria. It engulfs one and then moves on to the other.</para>
+</note></section>
+<section id="fs-id1361987">
+<title>Intermediate Filaments</title>
+<para id="fs-id1358496">Intermediate filaments are made of several strands of fibrous proteins that are wound together (<link target-id="fig-ch04-05-03" document=""/>). These elements of the cytoskeleton get their name from the fact that their diameter, 8 to 10 nm, is between those of microfilaments and microtubules.</para>
+<figure id="fig-ch04-05-03"><media id="fs-id1743523" alt="This illustration shows 10 intermediate filament fibers bundled together.">
+<image mime-type="image/jpg" src="Figure_04_05_03.jpg" width="350"/>
+</media>
+
+<caption>Intermediate filaments consist of several intertwined strands of fibrous proteins.</caption></figure><para id="fs-id1561464"><term>Intermediate filaments</term> have no role in cell movement. Their function is purely structural. They bear tension, thus maintaining the shape of the cell, and anchor the nucleus and other organelles in place. <link target-id="fig-ch04-05-01" document=""/> shows how intermediate filaments create a supportive scaffolding inside the cell.</para><para id="fs-id1232860">The intermediate filaments are the most diverse group of cytoskeletal elements. Several types of fibrous proteins are found in the intermediate filaments. You are probably most familiar with keratin, the fibrous protein that strengthens your hair, nails, and the epidermis of the skin.</para>
+</section>
+<section id="fs-id2378542">
+<title>Microtubules</title>
+<para id="fs-id1430610">As their name implies, microtubules are small hollow tubes. The walls of the microtubule are made of polymerized dimers of &#945;-tubulin and &#946;-tubulin, two globular proteins (<link target-id="fig-ch04-05-04" document=""/>). With a diameter of about 25 nm, <term>microtubules</term> are the widest components of the cytoskeleton. They help the cell resist compression, provide a track along which vesicles move through the cell, and pull replicated chromosomes to opposite ends of a dividing cell. Like microfilaments, microtubules can dissolve and reform quickly.</para>
+<figure id="fig-ch04-05-04" class="  "><media id="fs-id983244" alt="The left part of this figure is a molecular model of 13 polymerized dimers of alpha- and beta-tubulin joined together to form a hollow tube. The right part of this image shows the tubulin structure as a ring of spheres connected together.">
+<image mime-type="image/jpg" src="Figure_04_05_04ab.jpg" width="500"/>
+</media>
+
+<caption>Microtubules are hollow. Their walls consist of 13 polymerized dimers of &#945;-tubulin and &#946;-tubulin (right image). The left image shows the molecular structure of the tube.</caption></figure><para id="fs-id1773065">Microtubules are also the structural elements of flagella, cilia, and centrioles (the latter are the two perpendicular bodies of the centrosome). In fact, in animal cells, the centrosome is the microtubule-organizing center. In eukaryotic cells, flagella and cilia are quite different structurally from their counterparts in prokaryotes, as discussed below.</para>
+<section id="fs-id1454036">
+<title>Flagella and Cilia</title>
+<para id="fs-id1953693">To refresh your memory, <term>flagella</term> (singular = flagellum) are long, hair-like structures that extend from the plasma membrane and are used to move an entire cell (for example, sperm, <emphasis effect="italics">Euglena</emphasis>). When present, the cell has just one flagellum or a few flagella. When <term>cilia</term> (singular = cilium) are present, however, many of them extend along the entire surface of the plasma membrane. They are short, hair-like structures that are used to move entire cells (such as paramecia) or substances along the outer surface of the cell (for example, the cilia of cells lining the Fallopian tubes that move the ovum toward the uterus, or cilia lining the cells of the respiratory tract that trap particulate matter and move it toward your nostrils.)</para>
+<para id="fs-id1886246">Despite their differences in length and number, flagella and cilia share a common structural arrangement of microtubules called a &#8220;9 + 2 array.&#8221; This is an appropriate name because a single flagellum or cilium is made of a ring of nine microtubule doublets, surrounding a single microtubule doublet in the center (<link target-id="fig-ch04-05-05" document=""/>).</para>
+<figure id="fig-ch04-05-05"><media id="fs-id1886153" alt="This transmission electron micrograph shows a cross section of nine microtubule doublets that form a hollow tube. Another microtubule doublet sits in the center of the tube.">
+<image mime-type="image/jpg" src="Figure_04_05_05.jpg" width="275"/>
+</media>
+
+<caption>This transmission electron micrograph of two flagella shows the 9 + 2 array of microtubules: nine microtubule doublets surround a single microtubule doublet. (credit: modification of work by Dartmouth Electron Microscope Facility, Dartmouth College; scale-bar data from Matt Russell)</caption></figure><para id="fs-id1953479">You have now completed a broad survey of the components of prokaryotic and eukaryotic cells. For a summary of cellular components in prokaryotic and eukaryotic cells, see  <link target-id="tab-ch04-05-01" document=""/>.</para>
+    
+        <table id="tab-ch04-05-01" class="  " summary="This table compares the features of prokaryotic and eukaryotic cells, highlighting their different levels of functioning."><tgroup cols="1">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <colspec colnum="3" colname="c3"/>
+                <colspec colnum="4" colname="c4"/>
+                <colspec colnum="5" colname="c5"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c5" align="left">Components of Prokaryotic and Eukaryotic Cells</entry>
+</row>
+<row>
+<entry>Cell Component</entry>
+<entry>Function</entry>
+<entry>Present in Prokaryotes?</entry>
+<entry>Present in Animal Cells?</entry>
+<entry>Present in Plant Cells?</entry>
+</row>
+</thead>
+
+<tbody>
+<row>
+<entry>Plasma membrane</entry>
+<entry>Separates cell from external environment; controls passage of organic molecules, ions, water, oxygen, and wastes into and out of cell</entry>
+<entry>Yes</entry>
+<entry>Yes</entry>
+<entry>Yes</entry>
+</row>
+<row>
+<entry>Cytoplasm</entry>
+<entry>Provides turgor pressure to plant cells as fluid inside the central vacuole; site of many metabolic reactions; medium in which organelles are found</entry>
+<entry>Yes</entry>
+<entry>Yes</entry>
+<entry>Yes</entry>
+</row>
+<row>
+<entry>Nucleolus</entry>
+<entry> Darkened area within the nucleus where ribosomal subunits are synthesized.</entry>
+<entry>No</entry>
+<entry>Yes</entry>
+<entry>Yes</entry>
+</row>
+<row>
+<entry>Nucleus</entry>
+<entry>Cell organelle that houses DNA and directs synthesis of ribosomes and proteins</entry>
+<entry>No</entry>
+<entry>Yes</entry>
+<entry>Yes</entry>
+</row>
+<row>
+<entry>Ribosomes</entry>
+<entry>Protein synthesis</entry>
+<entry>Yes</entry>
+<entry>Yes</entry>
+<entry>Yes</entry>
+</row>
+<row>
+<entry>Mitochondria</entry>
+<entry>ATP production/cellular respiration</entry>
+<entry>No</entry>
+<entry>Yes</entry>
+<entry>Yes</entry>
+</row>
+<row>
+<entry>Peroxisomes</entry>
+<entry>Oxidizes and thus breaks down fatty acids and amino acids, and detoxifies poisons</entry>
+<entry>No</entry>
+<entry>Yes</entry>
+<entry>Yes</entry>
+</row>
+<row>
+<entry>Vesicles and vacuoles</entry>
+<entry>Storage and transport; digestive function in plant cells</entry>
+<entry>No</entry>
+<entry>Yes</entry>
+<entry>Yes</entry>
+</row>
+<row>
+<entry>Centrosome</entry>
+<entry>Unspecified role in cell division in animal cells; source of microtubules in animal cells</entry>
+<entry>No</entry>
+<entry>Yes</entry>
+<entry>No</entry>
+</row>
+<row>
+<entry>Lysosomes</entry>
+<entry>Digestion of macromolecules; recycling of worn-out organelles</entry>
+<entry>No</entry>
+<entry>Yes</entry>
+<entry>No</entry>
+</row>
+<row>
+<entry>Cell wall</entry>
+<entry>Protection, structural support and maintenance of cell shape</entry>
+<entry>Yes, primarily peptidoglycan</entry>
+<entry>No</entry>
+<entry>Yes, primarily cellulose</entry>
+</row>
+<row>
+<entry>Chloroplasts</entry>
+<entry>Photosynthesis</entry>
+<entry>No</entry>
+<entry>No</entry>
+<entry>Yes</entry>
+</row>
+<row>
+<entry>Endoplasmic reticulum</entry>
+<entry>Modifies proteins and synthesizes lipids</entry>
+<entry>No</entry>
+<entry>Yes</entry>
+<entry>Yes</entry>
+</row>
+<row>
+<entry>Golgi apparatus</entry>
+<entry>Modifies, sorts, tags, packages, and distributes lipids and proteins</entry>
+<entry>No</entry>
+<entry>Yes</entry>
+<entry>Yes</entry>
+</row>
+<row>
+<entry>Cytoskeleton</entry>
+<entry>Maintains cell&#8217;s shape, secures organelles in specific positions, allows cytoplasm and vesicles to move within cell, and enables unicellular organisms to move independently</entry>
+<entry>Yes</entry>
+<entry>Yes</entry>
+<entry>Yes</entry>
+</row>
+<row>
+<entry>Flagella</entry>
+<entry>Cellular locomotion</entry>
+<entry>Some</entry>
+<entry>Some</entry>
+<entry>No, except for some plant sperm cells.</entry>
+</row>
+<row>
+<entry>Cilia</entry>
+<entry>Cellular locomotion, movement of particles along extracellular surface of plasma membrane, and filtration</entry>
+<entry>Some</entry>
+<entry>Some</entry>
+<entry>No</entry>
+</row>
+</tbody>
+    </tgroup>
+    </table></section>
+</section>
+<section id="fs-id1758798" class="summary">
+<title>Section Summary</title><para id="fs-id2005174">The cytoskeleton has three different types of protein elements. From narrowest to widest, they are the microfilaments (actin filaments), intermediate filaments, and microtubules. Microfilaments are often associated with myosin. They provide rigidity and shape to the cell and facilitate cellular movements. Intermediate filaments bear tension and anchor the nucleus and other organelles in place. Microtubules help the cell resist compression, serve as tracks for motor proteins that move vesicles through the cell, and pull replicated chromosomes to opposite ends of a dividing cell. They are also the structural element of centrioles, flagella, and cilia.</para>
+</section>
+<section id="fs-id1968455" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-id1645274"><problem id="fs-id1744199">
+<para id="fs-id1973117">Which of the following have the ability to disassemble and reform quickly?</para>
+<list id="fs-id1796676" list-type="enumerated" number-style="lower-alpha">
+<item>microfilaments and intermediate filaments</item>
+<item>microfilaments and microtubules</item>
+<item>intermediate filaments and microtubules</item>
+<item>only intermediate filaments</item>
+</list>
+</problem>
+<solution id="fs-id1848502">
+<label/>
+<para id="fs-id1366449">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id2219667"><problem id="fs-id2215371">
+<para id="fs-id1857265">Which of the following do not play a role in intracellular movement?</para>
+<list id="fs-id949079" list-type="enumerated" number-style="lower-alpha">
+<item>microfilaments and intermediate filaments</item>
+<item>microfilaments and microtubules</item>
+<item>intermediate filaments and microtubules</item>
+<item>only intermediate filaments</item>
+</list>
+</problem>
+<solution id="fs-id1430811">
+<label/>
+<para id="fs-id1465956">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1670750" class="free-response">
+<title>Free Response</title><exercise id="fs-id802695">
+<problem id="fs-id1453364"><para id="fs-id1320817">What are the similarities and differences between the structures of centrioles and flagella?</para></problem>
+<solution id="fs-id1322066"><label/>
+<para id="fs-id1431607">Centrioles and flagella are alike in that they are made up of microtubules. In centrioles, two rings of nine microtubule &#8220;triplets&#8221; are arranged at right angles to one another. This arrangement does not occur in flagella.</para>
+</solution>
+</exercise>
+<exercise id="fs-id1649129">
+<problem id="fs-id1322776"><para id="fs-id1720446">How do cilia and flagella differ?</para></problem>
+<solution id="fs-id1448091"><label/>
+<para id="fs-id1105152">Cilia and flagella are alike in that they are made up of microtubules. Cilia are short, hair-like structures that exist in large numbers and usually cover the entire surface of the plasma membrane. Flagella, in contrast, are long, hair-like structures; when flagella are present, a cell has just one or two.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-id2472145"><term>cilium</term> <meaning id="fs-id1704493">(plural = cilia) short, hair-like structure that extends from the plasma membrane in large numbers and is used to move an entire cell or move substances along the outer surface of the cell</meaning></definition>
+<definition id="fs-id1526841"><term>cytoskeleton</term> <meaning id="fs-id1774415">network of protein fibers that collectively maintain the shape of the cell, secure some organelles in specific positions, allow cytoplasm and vesicles to move within the cell, and enable unicellular organisms to move independently</meaning></definition>
+<definition id="fs-id1448192"><term>flagellum</term> <meaning id="fs-id1973989">(plural = flagella) long, hair-like structure that extends from the plasma membrane and is used to move the cell</meaning></definition>
+<definition id="fs-id1904619"><term>intermediate filament</term> <meaning id="fs-id1883769">cytoskeletal component, composed of several intertwined strands of fibrous protein, that bears tension, supports cell-cell junctions, and anchors cells to extracellular structures</meaning></definition>
+<definition id="fs-id1805178"><term>microfilament</term> <meaning id="fs-id1968369">narrowest element of the cytoskeleton system; it provides rigidity and shape to the cell and enables cellular movements</meaning></definition>
+<definition id="fs-id2005388"><term>microtubule</term> <meaning id="fs-id1699781">widest element of the cytoskeleton system; it helps the cell resist compression, provides a track along which vesicles move through the cell, pulls replicated chromosomes to opposite ends of a dividing cell, and is the structural element of centrioles, flagella, and cilia</meaning></definition>
+</glossary>
+</document>

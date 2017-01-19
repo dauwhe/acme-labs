@@ -1,0 +1,270 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Vision</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44761/latest/</md:content-url>
+  <md:content-id>m44761</md:content-id>
+  <md:title>Vision</md:title>
+  <md:version>1.6</md:version>
+  <md:created>2012/08/23 15:37:07 -0500</md:created>
+  <md:revised>2013/06/21 09:43:50.243 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>candela</md:keyword>
+    <md:keyword>circadian</md:keyword>
+    <md:keyword>cone</md:keyword>
+    <md:keyword>cornea</md:keyword>
+    <md:keyword>eye</md:keyword>
+    <md:keyword>eye anatomy</md:keyword>
+    <md:keyword>fovea</md:keyword>
+    <md:keyword>hyperopia</md:keyword>
+    <md:keyword>iris</md:keyword>
+    <md:keyword>lens</md:keyword>
+    <md:keyword>light</md:keyword>
+    <md:keyword>light transduction</md:keyword>
+    <md:keyword>myopia</md:keyword>
+    <md:keyword>photoreceptor</md:keyword>
+    <md:keyword>presbyopia</md:keyword>
+    <md:keyword>pupil</md:keyword>
+    <md:keyword>retina</md:keyword>
+    <md:keyword>retinal processing</md:keyword>
+    <md:keyword>rhodopsin</md:keyword>
+    <md:keyword>rod</md:keyword>
+    <md:keyword>sense</md:keyword>
+    <md:keyword>sensory system</md:keyword>
+    <md:keyword>sight</md:keyword>
+    <md:keyword>superior colliculus</md:keyword>
+    <md:keyword>suprachiasmatic nucleus</md:keyword>
+    <md:keyword>thrichomatic coding</md:keyword>
+    <md:keyword>tonic activity</md:keyword>
+    <md:keyword>vision</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain how electromagnetic waves differs from sound waves</item>
+<item>Trace the path of light through the eye to the point of the optic nerve</item>
+<item>Explain tonic activity as it is manifested in photoreceptors in the retina</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idp54466688"><term>Vision</term> is the ability to detect light patterns from the outside environment and interpret them into images. Animals are bombarded with sensory information, and the sheer volume of visual information can be problematic. Fortunately, the visual systems of species have evolved to attend to the most-important stimuli. The importance of vision to humans is further substantiated by the fact that about one-third of the human cerebral cortex is dedicated to analyzing and perceiving visual information.</para><section id="fs-idp118381680">
+<title>Light</title>
+<para id="fs-idp48440384">As with auditory stimuli, light travels in waves. The compression waves that compose sound must travel in a medium&#8212;a gas, a liquid, or a solid. In contrast, light is composed of electromagnetic waves and needs no medium; light can travel in a vacuum (<link target-id="fig-ch36_05_01" document=""/>). The behavior of light can be discussed in terms of the behavior of waves and also in terms of the behavior of the fundamental unit of light&#8212;a packet of electromagnetic radiation called a photon. A glance at the electromagnetic spectrum shows that visible light for humans is just a small slice of the entire spectrum, which includes radiation that we cannot see as light because it is below the frequency of visible red light and above the frequency of visible violet light.</para>
+<para id="fs-idp165729760">Certain variables are important when discussing perception of light. Wavelength (which varies inversely with frequency) manifests itself as hue. Light at the red end of the visible spectrum has longer wavelengths (and is lower frequency), while light at the violet end has shorter wavelengths (and is higher frequency). The wavelength of light is expressed in nanometers (nm); one nanometer is one billionth of a meter. Humans perceive light that ranges between approximately 380 nm and 740 nm. Some other animals, though, can detect wavelengths outside of the human range. For example, bees see near-ultraviolet light in order to locate nectar guides on flowers, and some non-avian reptiles sense infrared light (heat that prey gives off).</para>
+<figure id="fig-ch36_05_01" class=" "><media id="fs-idp139931360" alt="The illustration shows the electromagnetic spectrum, which consists of different wavelengths of electromagnetic radiation. Radio waves have the longest wavelength, about 103 meters. Wavelength gets increasingly shorter for microwave, infrared, visible, ultraviolet, x-rays and gamma rays. Gamma rays have a wavelength of about 10-12 meters. Frequency is inversely proportional to wavelength.">
+<image mime-type="image/jpg" src="Figure_36_05_01.jpg" width="520"/>
+</media>
+<caption>In the electromagnetic spectrum, visible light lies between 380 nm and 740 nm. (credit: modification of work by NASA)</caption></figure><para id="fs-idm30533744">Wave amplitude is perceived as luminous intensity, or brightness. The standard unit of intensity of light is the <term>candela</term>, which is approximately the luminous intensity of a one common candle.</para>
+<para id="fs-idp32400112">Light waves travel 299,792 km per second in a vacuum, (and somewhat slower in various media such as air and water), and those waves arrive at the eye as long (red), medium (green), and short (blue) waves. What is termed &#8220;white light&#8221; is light that is perceived as white by the human eye. This effect is produced by light that stimulates equally the color receptors in the human eye. The apparent color of an object is the color (or colors) that the object reflects. Thus a red object reflects the red wavelengths in mixed (white) light and absorbs all other wavelengths of light. </para></section>
+<section id="fs-idm51896288">
+<title>Anatomy of the Eye</title>
+<para id="fs-idp137612992">The photoreceptive cells of the eye, where transduction of light to nervous impulses occurs, are located in the <term>retina</term> (shown in <link target-id="fig-ch36_05_02" document=""/>) on the inner surface of the back of the eye. But light does not impinge on the retina unaltered. It passes through other layers that process it so that it can be interpreted by the retina (<link target-id="fig-ch36_05_02" document=""/><emphasis effect="bold">b</emphasis>). The <term>cornea</term>, the front transparent layer of the eye, and the crystalline <term>lens</term>, a transparent convex structure behind the cornea, both refract (bend) light to focus the image on the retina. The <term>iris</term>, which is conspicuous as the colored part of the eye, is a circular muscular ring lying between the lens and cornea that regulates the amount of light entering the eye. In conditions of high ambient light, the iris contracts, reducing the size of the pupil at its center. In conditions of low light, the iris relaxes and the pupil enlarges.</para>
+<note id="fs-idp52568064" class="art-connection"><label/><title>Art Connection</title>
+<figure id="fig-ch36_05_02" class=" ">
+<media id="fs-idp81345152" alt="The left illustration shows a human eye, which is round and filled with vitreous humour. The optic nerve and retinal blood vessels exit the back of the eye. At the front of the eye is the lens with a pupil in the middle. The lens is covered by the iris, which in turn is covered by the cornea. The aqueous humour is a gel-like substance between the cornea and iris. The retina is the lining of the inner eye. A second illustration is a blowup which shows that the optic nerve is at the surface of the retina. Beneath the optic nerve is a layer of ganglion cells, and beneath this is a layer of bipolar cells. Both ganglia and bipolar cells are nerve cells with root-like appendages. Beneath the bipolar cell layer are the rods and cones. Rods and cones are similar in structure and column-like.">
+<image mime-type="image/jpg" src="Figure_36_05_02.png" width="520"/>
+</media>
+<caption>(a) The human eye is shown in cross section. (b) A blowup shows the layers of the retina.</caption>
+</figure>
+<para id="fs-idp56683904">Which of the following statements about the human eye is false?</para>
+<list id="fs-idm9069408" list-type="enumerated" number-style="lower-alpha">
+<item>Rods detect color, while cones detect only shades of gray.</item>
+<item>When light enters the retina, it passes the ganglion cells and bipolar cells before reaching photoreceptors at the rear of the eye.</item>
+<item>The iris adjusts the amount of light coming into the eye.</item>
+<item>The cornea is a protective layer on the front of the eye.</item>
+</list>
+<!--<para id="fs-idp172440208"><link target-id="fig-ch36_05_02" document=""/>A</para>-->
+</note><para id="fs-idp218174192">The main function of the lens is to focus light on the retina and fovea centralis. The lens is dynamic, focusing and re-focusing light as the eye rests on near and far objects in the visual field. The lens is operated by muscles that stretch it flat or allow it to thicken, changing the focal length of light coming through it to focus it sharply on the retina. With age comes the loss of the flexibility of the lens, and a form of farsightedness called <term>presbyopia</term> results. Presbyopia occurs because the image focuses behind the retina. Presbyopia is a deficit similar to a different type of farsightedness called <term>hyperopia</term> caused by an eyeball that is too short. For both defects, images in the distance are clear but images nearby are blurry. <term>Myopia</term> (nearsightedness) occurs when an eyeball is elongated and the image focus falls in front of the retina. In this case, images in the distance are blurry but images nearby are clear.</para>
+<para id="fs-idp79092400">There are two types of photoreceptors in the retina: <term>rods</term> and <term>cones</term>, named for their general appearance as illustrated in <link target-id="fig-ch36_05_03" document=""/>. Rods are strongly photosensitive and are located in the outer edges of the retina. They detect dim light and are used primarily for peripheral and nighttime vision. Cones are weakly photosensitive and are located near the center of the retina. They respond to bright light, and their primary role is in daytime, color vision.</para>
+<figure id="fig-ch36_05_03" class=" "><media id="fs-idp10914192" alt="This illustration shows that rods and cones are both long, column-like cells with the nucleus located in the bottom portion. The rod is longer than the cone. The outer segment of the rod contains rhodopsin. The outer segment of the rod contains other photo-pigments. An oil droplet is located beneath the outer segment.">
+<image mime-type="image/jpg" src="Figure_36_05_03.jpg" width="320"/>
+</media>
+<caption>Rods and cones are photoreceptors in the retina. Rods respond in low light and can detect only shades of gray. Cones respond in intense light and are responsible for color vision. (credit: modification of work by Piotr Sliwa)</caption></figure><para id="fs-idp275200720">The <term>fovea</term> is the region in the center back of the eye that is responsible for acute vision. The fovea has a high density of cones. When you bring your gaze to an object to examine it intently in bright light, the eyes orient so that the object&#8217;s image falls on the fovea. However, when looking at a star in the night sky or other object in dim light, the object can be better viewed by the peripheral vision because it is the rods at the edges of the retina, rather than the cones at the center, that operate better in low light. In humans, cones far outnumber rods in the fovea.</para>
+<note id="fs-idp119887296" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idp16200784" alt="QR Code representing a URL">
+<image mime-type="image/png" src="eye_diagram.png" width="120"/>
+</media>
+<para id="fs-idp14651376">Review the <link window="new" url="http://openstaxcollege.org/l/eye_diagram">anatomical structure</link> of the eye, clicking on each part to practice identification.</para>
+</note></section>
+<section id="fs-idp57896800">
+<title>Transduction of Light</title>
+<para id="fs-idm30468672">The rods and cones are the site of transduction of light to a neural signal. Both rods and cones contain photopigments. In vertebrates, the main photopigment, <term>rhodopsin</term>, has two main parts  <link target-id="fig-ch36_05_04" document=""/>): an opsin, which is a membrane protein (in the form of a cluster of &#945;-helices that span the membrane), and retinal&#8212;a molecule that absorbs light. When light hits a photoreceptor, it causes a shape change in the retinal, altering its structure from a bent (<emphasis effect="italics">cis</emphasis>) form of the molecule to its linear (<emphasis effect="italics">trans</emphasis>) isomer. This isomerization of retinal activates the rhodopsin, starting a cascade of events that ends with the closing of Na<sup>+</sup> channels in the membrane of the photoreceptor. Thus, unlike most other sensory neurons (which become depolarized by exposure to a stimulus) visual receptors become hyperpolarized and thus driven away from threshold (<link target-id="fig-ch36_05_05" document=""/>).</para><figure id="fig-ch36_05_04" class=" "><media id="fs-idp102699952" alt=" Molecular model A shows the structure of rhodopsin, a trans-membrane protein with seven helices spanning the membrane. A small organic molecule called retinal is tucked inside. B shows the molecular structure of retinal, which has a ring with a hydrocarbon chain attached. A ketone (double bonded oxygen) is at the end of the chain. In cis retinal the chain is kinked. In trans retinal the chain is straight.">
+<image mime-type="image/jpg" src="Figure_36_05_04.jpg" width="420"/>
+</media>
+<caption>(a) Rhodopsin, the photoreceptor in vertebrates, has two parts: the trans-membrane protein opsin, and retinal. When light strikes retinal, it changes shape from (b) a <emphasis effect="italics">cis</emphasis> to a <emphasis effect="italics">trans</emphasis> form. The signal is passed to a G-protein called transducin, triggering a series of downstream events.</caption></figure><figure id="fig-ch36_05_05" class=" "><media id="fs-idm41652368" alt="Illustration A shows the signal transduction pathway for rhodopsin, which is located in internal membranes at the top of rod cells. When light strikes rhodopsin, a G protein called transducing is activated. Transducin has three subunits, alpha, beta and gamma. Upon activation, GDP on the alpha subunit is replaced with GTP. The subunit dissociates, and binds phosphodiesterase. Phosphodiesterase, in turn, converts cGMP to GMP, which closes sodium ion channels. As a result, sodium can no longer enter the cell, and the membrane becomes hyperpolarized. Illustration b shows that the tall, thin rod cell is stacked on top of a bipolar nerve cell. In the dark the membrane is depolarized, and glutamate is released from the rod cell to the axon terminal of the bipolar cell. In the light, no glutamate is released.">
+<image mime-type="image/jpg" src="Figure_36_05_05.jpg" width="520"/>
+</media>
+
+<caption>When light strikes rhodopsin, the G-protein transducin is activated, which in turn activates phosphodiesterase. Phosphodiesterase converts cGMP to GMP, thereby closing sodium channels. As a result, the membrane becomes hyperpolarized. The hyperpolarized membrane does not release glutamate to the bipolar cell.</caption></figure><section id="fs-idp182930816">
+    <title>Trichromatic Coding</title>
+    <para id="fs-idp95869440">There are three types of cones (with different photopsins), and they differ in the wavelength to which they are most responsive, as shown in <link target-id="fig-ch36_05_06" document=""/>. Some cones are maximally responsive to short light waves of 420 nm, so they are called S cones (&#8220;S&#8221; for &#8220;short&#8221;); others respond maximally to waves of 530 nm (M cones, for &#8220;medium&#8221;); a third group responds maximally to light of longer wavelengths, at 560 nm (L, or &#8220;long&#8221; cones). With only one type of cone, color vision would not be possible, and a two-cone (dichromatic) system has limitations. Primates use a three-cone (trichromatic) system, resulting in full color vision.</para> 
+<para id="fs-idp26402176">The color we perceive is a result of the ratio of activity of our three types of cones. The colors of the visual spectrum, running from long-wavelength light to short, are red (700 nm), orange (600 nm), yellow (565 nm), green (497 nm), blue (470 nm), indigo (450 nm), and violet (425 nm). Humans have very sensitive perception of color and can distinguish about 500 levels of brightness, 200 different hues, and 20 steps of saturation, or about 2 million distinct colors.</para>
+    <figure id="fig-ch36_05_06" class=" ">
+<media id="fs-idm2994016" alt=" Graph plots normalized absorbance for rods and S, M and L cones against wavelength. For all four cell types, the trend is an approximately bell-shaped curve with a steeper decrease than increase. For S cones the peak absorbance is 420 nanometers. For rods the peak absorbance is 498 nanometers. For M cones the peak absorbance is 534 nanometers. For L cones the peak absorbance is 564 nanometers.">
+<image mime-type="image/jpg" src="Figure_36_05_06.jpg" width="380"/>
+</media>
+<caption>Human rod cells and the different types of cone cells each have an optimal wavelength. However, there is considerable overlap in the wavelengths of light detected.</caption></figure>
+    </section>
+    <section id="fs-idp201989520">
+<title>Retinal Processing</title>
+<para id="fs-idp44044176">Visual signals leave the cones and rods, travel to the bipolar cells, and then to ganglion cells. A large degree of processing of visual information occurs in the retina itself, before visual information is sent to the brain.</para>
+<para id="fs-idp51630656">Photoreceptors in the retina continuously undergo <term>tonic activity</term>. That is, they are always slightly active even when not stimulated by light. In neurons that exhibit tonic activity, the absence of stimuli maintains a firing rate at a baseline; while some stimuli increase firing rate from the baseline, and other stimuli decrease firing rate. In the absence of light, the bipolar neurons that connect rods and cones to ganglion cells are continuously and actively inhibited by the rods and cones. Exposure of the retina to light hyperpolarizes the rods and cones and removes their inhibition of bipolar cells. The now active bipolar cells in turn stimulate the ganglion cells, which send action potentials along their axons (which leave the eye as the optic nerve). Thus, the visual system relies on change in retinal activity, rather than the absence or presence of activity, to encode visual signals for the brain. Sometimes horizontal cells carry signals from one rod or cone to other photoreceptors and to several bipolar cells. When a rod or cone stimulates a horizontal cell, the horizontal cell inhibits more distant photoreceptors and bipolar cells, creating lateral inhibition. This inhibition sharpens edges and enhances contrast in the images by making regions receiving light appear lighter and dark surroundings appear darker. Amacrine cells can distribute information from one bipolar cell to many ganglion cells.</para>
+<para id="fs-idm24639296">You can demonstrate this using an easy demonstration to &#8220;trick&#8221; your retina and brain about the colors you are observing in your visual field. Look fixedly at <link target-id="fig-ch36_05_07" document=""/> for about 45 seconds. Then quickly shift your gaze to a sheet of blank white paper or a white wall. You should see an afterimage of the Norwegian flag in its correct colors. At this point, close your eyes for a moment, then reopen them, looking again at the white paper or wall; the afterimage of the flag should continue to appear as red, white, and blue. What causes this? According to an explanation called opponent process theory, as you gazed fixedly at the green, black, and yellow flag, your retinal ganglion cells that respond positively to green, black, and yellow increased their firing dramatically. When you shifted your gaze to the neutral white ground, these ganglion cells abruptly decreased their activity and the brain interpreted this abrupt downshift as if the ganglion cells were responding now to their &#8220;opponent&#8221; colors: red, white, and blue, respectively, in the visual field. Once the ganglion cells return to their baseline activity state, the false perception of color will disappear.</para>
+<figure id="fig-ch36_05_07" class=" "><media id="fs-idp215410880" alt="A Norwegian flag is shown in false colors of green, yellow and black (normally, the colors are red, white and blue, like the American flag.">
+<image mime-type="image/jpg" src="Figure_36_05_07.jpg" width="330"/>
+</media>
+<caption>View this flag to understand how retinal processing works. Stare at the center of the flag (indicated by the white dot) for 45 seconds, and then quickly look at a white background, noticing how colors appear.</caption></figure></section>
+</section>
+<section id="fs-idp47985552">
+<title>Higher Processing</title>
+<para id="fs-idp10571392">The myelinated axons of ganglion cells make up the optic nerves. Within the nerves, different axons carry different qualities of the visual signal. Some axons constitute the magnocellular (big cell) pathway, which carries information about form, movement, depth, and differences in brightness. Other axons constitute the parvocellular (small cell) pathway, which carries information on color and fine detail. Some visual information projects directly back into the brain, while other information crosses to the opposite side of the brain. This crossing of optical pathways produces the distinctive optic chiasma (Greek, for &#8220;crossing&#8221;) found at the base of the brain and allows us to coordinate information from both eyes.</para>
+<para id="fs-idp164837360">Once in the brain, visual information is processed in several places, and its routes reflect the complexity and importance of visual information to humans and other animals. One route takes the signals to the thalamus, which serves as the routing station for all incoming sensory impulses except olfaction. In the thalamus, the magnocellular and parvocellular distinctions remain intact, and there are different layers of the thalamus dedicated to each. When visual signals leave the thalamus, they travel to the primary visual cortex at the rear of the brain. From the visual cortex, the visual signals travel in two directions. One stream that projects to the parietal lobe, in the side of the brain, carries magnocellular (&#8220;where&#8221;) information. A second stream projects to the temporal lobe and carries both magnocellular (&#8220;where&#8221;) and parvocellular (&#8220;what&#8221;) information.</para>
+<para id="fs-idp5649760">Another important visual route is a pathway from the retina to the <term>superior colliculus</term> in the midbrain, where eye movements are coordinated and integrated with auditory information. Finally, there is the pathway from the retina to the <term>suprachiasmatic nucleus</term> (SCN) of the hypothalamus. The SCN is a cluster of cells that is considered to be the body&#8217;s internal clock, which controls our <term>circadian</term> (day-long) cycle. The SCN sends information to the pineal gland, which is important in sleep/wake patterns and annual cycles.</para>
+<note id="fs-idp51526480" class="interactive"><label/><title>Link to Learning</title>
+    <media id="fs-idp101323136" alt="QR Code representing a URL">
+    <image mime-type="image/png" src="sense_of_sight.png" width="120"/>
+    </media>
+<para id="fs-idp29317200">View this <link window="new" url="http://openstaxcollege.org/l/sense_of_sight">interactive presentation</link> to review what you have learned about how vision functions.</para></note></section>
+    <section id="fs-idm30394832" class="summary">
+        <title>Section Summary</title><para id="fs-idp50304608">Vision is the only photo responsive sense. Visible light travels in waves and is a very small slice of the electromagnetic radiation spectrum. Light waves differ based on their frequency (wavelength = hue) and amplitude (intensity = brightness).</para>
+<para id="fs-idp30108000">In the vertebrate retina, there are two types of light receptors (photoreceptors): cones and rods. Cones, which are the source of color vision, exist in three forms&#8212;L, M, and S&#8212;and they are differentially sensitive to different wavelengths. Cones are located in the retina, along with the dim-light, achromatic receptors (rods). Cones are found in the fovea, the central region of the retina, whereas rods are found in the peripheral regions of the retina.</para>
+<para id="fs-idp69177296">Visual signals travel from the eye over the axons of retinal ganglion cells, which make up the optic nerves. Ganglion cells come in several versions. Some ganglion cell axons carry information on form, movement, depth, and brightness, while other axons carry information on color and fine detail. Visual information is sent to the superior colliculi in the midbrain, where coordination of eye movements and integration of auditory information takes place. Visual information is also sent to the suprachiasmatic nucleus (SCN) of the hypothalamus, which plays a role in the circadian cycle.</para>
+    </section>
+<section id="fs-idp51933472" class="art-exercise">
+    <title>Art Connections</title>
+<exercise id="fs-idp141411600">
+    <problem id="fs-idm58135232">
+    <para id="fs-idm26566992"><link target-id="fig-ch36_05_02" document=""/> Which of the following statements about the human eye is false?</para>
+<list id="fs-idp182519552" list-type="enumerated" number-style="lower-alpha">
+    <item>Rods detect color, while cones detect only shades of gray.</item>
+<item>When light enters the retina, it passes the ganglion cells and bipolar cells before reaching photoreceptors at the rear of the eye.</item>
+<item>The iris adjusts the amount of light coming into the eye.</item>
+<item>The cornea is a protective layer on the front of the eye.</item>
+</list>
+</problem>
+<solution id="fs-idp172499696"><label/>
+    <para id="fs-idp50006576"><link target-id="fig-ch36_05_02" document=""/> A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp58153984" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp10755680">
+<problem id="fs-idp4420208"><para id="fs-idp39010448">Why do people over 55 often need reading glasses?</para>
+<list id="fs-idp42953616" list-type="enumerated" number-style="lower-alpha">
+<item>Their cornea no longer focuses correctly.</item>
+<item>Their lens no longer focuses correctly.</item>
+<item>Their eyeball has elongated with age, causing images to focus in front of their retina.</item>
+<item>Their retina has thinned with age, making vision more difficult.</item>
+</list>
+</problem>
+<solution id="fs-idp89317568">
+<label/>
+<para id="fs-idm28501808">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idp186617760">
+<problem id="fs-idp47635056"><para id="fs-idp11845072">Why is it easier to see images at night using peripheral, rather than the central, vision?</para>
+<list id="fs-idm23575024" list-type="enumerated" number-style="lower-alpha">
+<item>Cones are denser in the periphery of the retina.</item>
+<item>Bipolar cells are denser in the periphery of the retina.</item>
+<item>Rods are denser in the periphery of the retina.</item>
+<item>The optic nerve exits at the periphery of the retina.</item>
+</list>
+</problem>
+<solution id="fs-idp28329952">
+<label/>
+<para id="fs-idm2661664">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm49878656">
+<problem id="fs-idm100375248"><para id="fs-idp25394608">A person catching a ball must coordinate her head and eyes. What part of the brain is helping to do this?</para>
+<list id="fs-idp169469600" list-type="enumerated" number-style="lower-alpha">
+<item>hypothalamus</item>
+<item>pineal gland	</item>
+<item>thalamus</item>
+<item>superior colliculus</item>
+</list>
+</problem>
+<solution id="fs-idp92054576">
+<label/>
+<para id="fs-idp10985888">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp140514432" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idp41212752">
+<problem id="fs-idp51697088"><para id="fs-idm27273200">How could the pineal gland, the brain structure that plays a role in annual cycles, use visual information from the suprachiasmatic nucleus of the hypothalamus?</para></problem>
+<solution id="fs-idp1347488"><label/>
+<para id="fs-idm53822624">The pineal gland could use length-of-day information to determine the time of year, for example. Day length is shorter in the winter than it is in the summer. For many animals and plants, photoperiod cues them to reproduce at a certain time of year.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp106942944">
+<problem id="fs-idp186033728"><para id="fs-idp41585248">How is the relationship between photoreceptors and bipolar cells different from other sensory receptors and adjacent cells?</para></problem>
+<solution id="fs-idp55332976"><label/>
+<para id="fs-idp182853520">The photoreceptors tonically inhibit the bipolar cells, and stimulation of the receptors turns this inhibition off, activating the bipolar cells.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idp6976000"><term>candela</term> <meaning id="fs-idm45115872">(cd) unit of measurement of luminous intensity (brightness)</meaning></definition>
+<definition id="fs-idp119191584"><term>circadian</term> <meaning id="fs-idp101752752">describes a time cycle about one day in length</meaning></definition>
+<definition id="fs-idp210838480"><term>cone</term> <meaning id="fs-idp42062768">weakly photosensitive, chromatic, cone-shaped neuron in the fovea of the retina that detects bright light and is used in daytime color vision</meaning></definition>
+<definition id="fs-idp125147952"><term>cornea</term> <meaning id="fs-idm46160896">transparent layer over the front of the eye that helps focus light waves</meaning></definition>
+<definition id="fs-idp257723264"><term>fovea</term> <meaning id="fs-idp203955728">region in the center of the retina with a high density of photoreceptors and which is responsible for acute vision</meaning></definition>
+<definition id="fs-idp78370560"><term>hyperopia</term> <meaning id="fs-idm23712480">(also, farsightedness) visual defect in which the image focus falls behind the retina, thereby making images in the distance clear, but close-up images blurry</meaning></definition>
+<definition id="fs-idp229899296"><term>iris</term> <meaning id="fs-idm33641744">pigmented, circular muscle at the front of the eye that regulates the amount of light entering the eye</meaning></definition>
+<definition id="fs-idp32386224"><term>lens</term> <meaning id="fs-idp56982960">transparent, convex structure behind the cornea that helps focus light waves on the retina</meaning></definition>
+<definition id="fs-idp16752368"><term>myopia</term> <meaning id="fs-idp149060160">(also, nearsightedness) visual defect in which the image focus falls in front of the retina, thereby making images in the distance blurry, but close-up images clear</meaning></definition>
+<definition id="fs-idp56471104"><term>presbyopia</term> <meaning id="fs-idp106854688">visual defect in which the image focus falls behind the retina, thereby making images in the distance clear, but close-up images blurry; caused by age-based changes in the lens</meaning></definition>
+<definition id="fs-idp124618416"><term>pupil</term> <meaning id="fs-idp52324352">small opening though which light enters</meaning></definition>
+<definition id="fs-idp43694480"><term>retina</term> <meaning id="fs-idp97541600">layer of photoreceptive and supporting cells on the inner surface of the back of the eye</meaning></definition>
+<definition id="fs-idp52964128"><term>rhodopsin</term> <meaning id="fs-idp23263904">main photopigment in vertebrates</meaning></definition>
+<definition id="fs-idp165610864"><term>rod</term> <meaning id="fs-idp120826128">strongly photosensitive, achromatic, cylindrical neuron in the outer edges of the retina that detects dim light and is used in peripheral and nighttime vision</meaning></definition>
+<definition id="fs-idm49098528"><term>superior colliculus</term> <meaning id="fs-idm24664816">paired structure in the top of the midbrain, which manages eye movements and auditory integration</meaning></definition>
+<definition id="fs-idp4104400"><term>suprachiasmatic nucleus</term> <meaning id="fs-idm27140384">cluster of cells in the hypothalamus that plays a role in the circadian cycle</meaning></definition>
+<definition id="fs-idp13993840"><term>tonic activity</term> <meaning id="fs-idp186409552">in a neuron, slight continuous activity while at rest</meaning></definition>
+<definition id="fs-idp89250896"><term>vision</term> <meaning id="fs-idp220528736">sense of sight</meaning></definition>
+</glossary>
+</document>

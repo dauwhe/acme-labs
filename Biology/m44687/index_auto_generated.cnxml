@@ -1,0 +1,206 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Fishes</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44687/latest/</md:content-url>
+  <md:content-id>m44687</md:content-id>
+  <md:title>Fishes</md:title>
+  <md:version>1.3</md:version>
+  <md:created>2012/08/23 14:50:23 -0500</md:created>
+  <md:revised>2013/04/10 11:22:22.408 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>Actinopterygii</md:keyword>
+    <md:keyword>ampullae of Lorenzini</md:keyword>
+    <md:keyword>bony fish</md:keyword>
+    <md:keyword>cartilaginous fish</md:keyword>
+    <md:keyword>Chondrichthyes</md:keyword>
+    <md:keyword>fish</md:keyword>
+    <md:keyword>fishes</md:keyword>
+    <md:keyword>gnathostome</md:keyword>
+    <md:keyword>hagfish</md:keyword>
+    <md:keyword>jawed fish</md:keyword>
+    <md:keyword>jawless fish</md:keyword>
+    <md:keyword>lamprey</md:keyword>
+    <md:keyword>lateral line</md:keyword>
+    <md:keyword>lobe-finned fish</md:keyword>
+    <md:keyword>Myxini</md:keyword>
+    <md:keyword>Osteichthyes</md:keyword>
+    <md:keyword>Ostracoderm</md:keyword>
+    <md:keyword>Petromyzontidae</md:keyword>
+    <md:keyword>ray-finned fish</md:keyword>
+    <md:keyword>Sarcopterygii</md:keyword>
+    <md:keyword>swim bladder</md:keyword>
+    <md:keyword>Vertebrata</md:keyword>
+    <md:keyword>vertebrate</md:keyword>
+    <md:keyword>vertebrates</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the difference between jawless and jawed fishes</item>
+<item>Discuss the distinguishing features of sharks and rays compared to other modern fishes</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idm27542240">Modern fishes include an estimated 31,000 species. Fishes were the earliest vertebrates, with jawless species being the earliest and jawed species evolving later. They are active feeders, rather than sessile, suspension feeders. Jawless fishes&#8212;the hagfishes and lampreys&#8212;have a distinct cranium and complex sense organs including eyes, distinguishing them from the invertebrate chordates.</para>
+<section id="fs-idm38497792">
+<title>Jawless Fishes</title>
+<para id="fs-idm39072">Jawless fishes are craniates that represent an ancient vertebrate lineage that arose over one half-billion years ago. In the past, the hagfishes and lampreys were classified together as agnathans. Today, hagfishes and lampreys are recognized as separate clades, primarily because lampreys are true vertebrates, whereas hagfishes are not. A defining feature is the lack of paired lateral appendages (fins). Some of the earliest jawless fishes were the <term>ostracoderms</term> (which translates to &#8220;shell-skin&#8221;). Ostracoderms were vertebrate fishes encased in bony armor, unlike present-day jawless fishes, which lack bone in their scales.</para>
+<section id="fs-idp60789520">
+<title>Myxini: Hagfishes</title>
+<para id="fs-idm36962000">The clade <term>Myxini</term> includes at least 20 species of hagfishes. <term>Hagfishes</term> are eel-like scavengers that live on the ocean floor and feed on dead invertebrates, other fishes, and marine mammals (<link target-id="fig-ch29_02_01" document=""/>). Hagfishes are entirely marine and are found in oceans around the world, except for the polar regions. A unique feature of these animals is the slime glands beneath the skin that release mucus through surface pores. This mucus allows the hagfish to escape from the grip of predators. Hagfish can also twist their bodies in a knot to feed and sometimes eat carcasses from the inside out.</para>
+<figure id="fig-ch29_02_01" class=" "><media id="fs-idm120610944" alt="The photo shows wormlike hagfish clustered in a muddy hole.">
+<image mime-type="image/jpg" src="Figure_29_02_01.jpg" width="320"/>
+</media>
+<caption>Pacific hagfish are scavengers that live on the ocean floor. (credit: Linda Snook, NOAA/CBNMS)</caption></figure><para id="fs-idm43405184">The skeleton of a hagfish is composed of cartilage, which includes a cartilaginous notochord that runs the length of the body. This notochord provides support to the hagfish&#8217;s body. Hagfishes do not replace the notochord with a vertebral column during development, as do true vertebrates.</para>
+</section>
+<section id="fs-idp99241536">
+<title>Petromyzontidae: Lampreys</title>
+<para id="fs-idm24042224">The clade <term>Petromyzontidae</term> includes approximately 35&#8211;40 or more species of lampreys. <term>Lampreys</term> are similar to hagfishes in size and shape; however, lampreys possess some vertebral elements. Lampreys lack paired appendages and bone, as do the hagfishes. As adults, lampreys are characterized by a toothed, funnel-like sucking mouth. Many species have a parasitic stage of their life cycle during which they are ectoparasites of fishes (<link target-id="fig-ch29_02_02" document=""/>).</para>
+<figure id="fig-ch29_02_02" class=" "><media id="fs-idp8058944" alt="The photo shows leech-like sea lampreys latched onto a large fish.">
+<image mime-type="image/jpg" src="Figure_29_02_02.jpg" width="320"/>
+</media>
+<caption>These parasitic sea lampreys attach to their lake trout host by suction and use their rough tongues to rasp away flesh in order to feed on the trout&#8217;s blood. (credit: USGS)</caption></figure><para id="fs-idm67606128">Lampreys live primarily in coastal and fresh waters, and have a worldwide distribution, except for in the tropics and polar regions. Some species are marine, but all species spawn in fresh water. Eggs are fertilized externally, and the larvae distinctly differ from the adult form, spending 3 to 15 years as suspension feeders. Once they attain sexual maturity, the adults reproduce and die within days.</para>
+<para id="fs-idp48528">Lampreys possess a notochord as adults; however, this notochord is surrounded by a cartilaginous structure called an arcualia, which may resemble an evolutionarily early form of the vertebral column.</para>
+</section>
+</section>
+<section id="fs-idm165784160">
+<title>Gnathostomes: Jawed Fishes</title>
+<para id="fs-idp73100752"><term>Gnathostomes</term> or &#8220;jaw-mouths&#8221; are vertebrates that possess jaws. One of the most significant developments in early vertebrate evolution was the development of the jaw, which is a hinged structure attached to the cranium that allows an animal to grasp and tear its food. The evolution of jaws allowed early gnathostomes to exploit food resources that were unavailable to jawless fishes.</para>
+<para id="fs-idp111810784">Early gnathostomes also possessed two sets of paired fins, allowing the fishes to maneuver accurately. Pectoral fins are typically located on the anterior body, and pelvic fins on the posterior. Evolution of the jaw and paired fins permitted gnathostomes to expand from the sedentary suspension feeding of jawless fishes to become mobile predators. The ability of gnathostomes to exploit new nutrient sources likely is one reason that they replaced most jawless fishes during the Devonian period. Two early groups of gnathostomes were the acanthodians and placoderms (<link target-id="fig-ch29_02_03" document=""/>), which arose in the late Silurian period and are now extinct. Most modern fishes are gnathostomes that belong to the clades Chondrichthyes and Osteichthyes.</para>
+<figure id="fig-ch29_02_03" class=" "><media id="fs-idm114839376" alt="The illustration shows a large fish with a very wide mouth.">
+<image mime-type="image/jpg" src="Figure_29_02_03.jpg" width="320"/>
+</media>
+<caption><emphasis effect="italics">Dunkleosteous</emphasis> was an enormous placoderm from the Devonian period, 380&#8211;360 million years ago. It measured up to 10 meters in length and weighed up to 3.6 tons. (credit: Nobu Tamura)</caption></figure><section id="fs-idm97699232">
+<title>Chondrichthyes: Cartilaginous Fishes</title>
+<para id="fs-idp61018592">The clade <term>Chondrichthyes</term> is diverse, consisting of sharks (<link target-id="fig-ch29_02_04" document=""/>), rays, and skates, together with sawfishes and a few dozen species of fishes called <emphasis effect="italics">chimaeras</emphasis>, or &#8220;ghost&#8221; sharks.&#8221; Chondrichthyes are jawed fishes that possess paired fins and a skeleton made of cartilage. This clade arose approximately 370 million years ago in the early or middle Devonian. They are thought to be descended from the placoderms, which had skeletons made of bone; thus, the cartilaginous skeleton of Chondrichthyes is a later development. Parts of shark skeleton are strengthened by granules of calcium carbonate, but this is not the same as bone.</para>
+<para id="fs-idm152756432">Most cartilaginous fishes live in marine habitats, with a few species living in fresh water for a part or all of their lives. Most sharks are carnivores that feed on live prey, either swallowing it whole or using their jaws and teeth to tear it into smaller pieces. Shark teeth likely evolved from the jagged scales that cover their skin, called placoid scales. Some species of sharks and rays are suspension feeders that feed on plankton.</para>
+<figure id="fig-ch29_02_04" class=" "><media id="fs-idm32339040" alt="The photo shows a shark with a wide snout.">
+<image mime-type="image/jpg" src="Figure_29_02_04.jpg" width="320"/>
+</media>
+<caption>Hammerhead sharks tend to school during the day and hunt prey at night. (credit: Masashi Sugawara)</caption></figure><para id="fs-idp63857776">Sharks have well-developed sense organs that aid them in locating prey, including a keen sense of smell and electroreception, with the latter perhaps the most sensitive of any animal. Organs called <term>ampullae of Lorenzini</term> allow sharks to detect the electromagnetic fields that are produced by all living things, including their prey. Electroreception has only been observed in aquatic or amphibious animals. Sharks, together with most fishes and aquatic and larval amphibians, also have a sense organ called the <term>lateral line</term>, which is used to detect movement and vibration in the surrounding water, and is often considered homologous to &#8220;hearing&#8221; in terrestrial vertebrates. The lateral line is visible as a darker stripe that runs along the length of a fish&#8217;s body.</para>
+<para id="fs-idm68613120">Sharks reproduce sexually, and eggs are fertilized internally. Most species are ovoviviparous: The fertilized egg is retained in the oviduct of the mother&#8217;s body and the embryo is nourished by the egg yolk. The eggs hatch in the uterus, and young are born alive and fully functional. Some species of sharks are oviparous: They lay eggs that hatch outside of the mother&#8217;s body. Embryos are protected by a shark egg case or &#8220;mermaid&#8217;s purse&#8221; (<link target-id="fig-ch29_02_05" document=""/>) that has the consistency of leather. The shark egg case has tentacles that snag in seaweed and give the newborn shark cover.  A few species of sharks are viviparous: The young develop within the mother&#8217;s body and she gives live birth.</para>
+<figure id="fig-ch29_02_05" class=" "><media id="fs-idm115588304" alt="The photo shows long, thin shark embryos encase in egg cases.">
+<image mime-type="image/jpg" src="Figure_29_02_05.jpg" width="320"/>
+</media>
+<caption>Shark embryos are clearly visible through these transparent egg cases. The round structure is the yolk that nourishes the growing embryo. (credit: Jek Bacarisas)</caption></figure><para id="fs-idm291974208">Rays and skates comprise more than 500 species and are closely related to sharks. They can be distinguished from sharks by their flattened bodies, pectoral fins that are enlarged and fused to the head, and gill slits on their ventral surface (<link target-id="fig-ch29_02_06" document=""/>). Like sharks, rays and skates have a cartilaginous skeleton. Most species are marine and live on the sea floor, with nearly a worldwide distribution.</para>
+<figure id="fig-ch29_02_06" class=" "><media id="fs-idm12188480" alt="The photo shows a stingray with a long, thin body and a circular head, resting on the sandy bottom.">
+<image mime-type="image/jpg" src="Figure_29_02_06.jpg" width="320"/>
+</media>
+<caption>This stingray blends into the sandy bottom of the ocean floor. (credit: "Sailn1"/Flickr)</caption></figure></section>
+<section id="fs-idm107010224">
+<title>Osteichthyes: Bony Fishes</title>
+<para id="fs-idm149765424">Members of the clade <term>Osteichthyes</term>, also called bony fishes, are characterized by a bony skeleton. The vast majority of present-day fishes belong to this group, which consists of approximately 30,000 species, making it the largest class of vertebrates in existence today.</para>
+<para id="fs-idm67036832">Nearly all bony fishes have an ossified skeleton with specialized bone cells (osteocytes) that produce and maintain a calcium phosphate matrix. This characteristic has only reversed in a few groups of Osteichthyes, such as sturgeons and paddlefish, which have primarily cartilaginous skeletons. The skin of bony fishes is often covered by overlapping scales, and glands in the skin secrete mucus that reduces drag when swimming and aids the fish in osmoregulation. Like sharks, bony fishes have a lateral line system that detects vibrations in water.</para>
+<para id="fs-idm69325952">All bony fishes use gills to breathe. Water is drawn over gills that are located in chambers covered and ventilated by a protective, muscular flap called the operculum. Many bony fishes also have a <term>swim bladder</term>, a gas-filled organ that helps to control the buoyancy of the fish. Bony fishes are further divided into two extant clades: <term>Actinopterygii</term> (ray-finned fishes) and <term>Sarcopterygii</term> (lobe-finned fishes).</para>
+<para id="fs-idm109021264">Actinopterygii, the ray-finned fishes, include many familiar fishes&#8212;tuna, bass, trout, and salmon (<link target-id="fig-ch29_02_07" document=""/><emphasis effect="bold">a</emphasis>), among others. Ray-finned fishes are named for their fins that are webs of skin supported by bony spines called rays. In contrast, the fins of Sarcopterygii are fleshy and lobed, supported by bone (<link target-id="fig-ch29_02_07" document=""/><emphasis effect="bold">b</emphasis>). Living members of this clade include the less-familiar lungfishes and coelacanths.</para>
+<figure id="fig-ch29_02_07" class=" "><media id="fs-idm96104480" alt="The illustration compares a bright red salmon (a) and a blue coelacanth (b), both of which are similar in shape and have fins.">
+<image mime-type="image/jpg" src="Figure_29_02_07ab.jpg" width="450"/>
+</media>
+    <caption>The (a) sockeye salmon and (b) coelacanth are both bony fishes of the Osteichthyes clade. The coelacanth, sometimes called a lobe-finned fish, was thought to have gone extinct in the Late Cretaceous period, 100 million years ago, until one was discovered in 1938 near the Comoros Islands between Africa and Madagascar. (credit a: modification of work by Timothy Knepp, USFWS; credit b: modification of work by Robbie Cada)</caption></figure></section>
+    </section>
+<section id="fs-idm62078448" class="summary">
+    <title>Section Summary</title><para id="fs-idp59970832">The earliest vertebrates that diverged from the invertebrate chordates were the jawless fishes. Fishes with jaws (gnathostomes) evolved later. Jaws allowed early gnathostomes to exploit new food sources. Agnathans include the hagfishes and lampreys. Hagfishes are eel-like scavengers that feed on dead invertebrates and other fishes. Lampreys are characterized by a toothed, funnel-like sucking mouth, and most species are parasitic on other fishes. Gnathostomes include the cartilaginous fishes and the bony fishes, as well as all other tetrapods. Cartilaginous fishes include sharks, rays, skates, and ghost sharks. Most cartilaginous fishes live in marine habitats, with a few species living in fresh water for part or all of their lives. The vast majority of present-day fishes belong to the clade Osteichthyes, which consists of approximately 30,000 species. Bony fishes can be divided into two clades: Actinopterygii (ray-finned fishes, virtually all extant species) and Sarcopterygii (lobe-finned fishes, comprising fewer than 10 extant species but which are the ancestors of tetrapods).</para>
+</section>
+<section id="fs-idm19454016" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm71009680">
+<problem id="fs-idp88114416"><para id="fs-idm74340080">Members of Chondrichthyes differ from members of Osteichthyes by having a ________.</para>
+<list id="fs-idp74417008" list-type="enumerated" number-style="lower-alpha">
+<item>jaw</item>
+<item>bony skeleton</item>
+<item>cartilaginous skeleton</item>
+<item>two sets of paired fins</item>
+</list>
+</problem>
+<solution id="fs-idm40312544">
+<label/>
+<para id="fs-idm101012048">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idp74406752">
+<problem id="fs-idm101291280"><para id="fs-idm82797888">Members of Chondrichthyes are thought to be descended from fishes that had ________.</para>
+<list id="fs-idm110451792" list-type="enumerated" number-style="lower-alpha">
+<item>a cartilaginous skeleton</item>
+<item>a bony skeleton</item>
+<item>mucus glands</item>
+<item>slime glands</item>
+</list>
+</problem>
+<solution id="fs-idm164797520">
+<label/>
+<para id="fs-idm74342304">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp55746096" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm33830096">
+<problem id="fs-idm31720400"><para id="fs-idm94419200">What can be inferred about the evolution of the cranium and vertebral column from examining hagfishes and lampreys?</para></problem>
+<solution id="fs-idm39024416"><label/>
+<para id="fs-idp66794960">Comparison of hagfishes with lampreys shows that the cranium evolved first in early vertebrates, as it is seen in hagfishes, which evolved earlier than lampreys. This was followed by evolution of the vertebral column, a primitive form of which is seen in lampreys and not in hagfishes.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm121942448">
+<problem id="fs-idm175320176"><para id="fs-idp46438000">Why did gnathostomes replace most agnathans?</para></problem>
+<solution id="fs-idp13550304"><label/>
+<para id="fs-idm164248080">Evolution of the jaw and paired fins permitted gnathostomes to diversify from the sedentary suspension feeding of agnathans to a mobile predatory lifestyle. The ability of gnathostomes to utilize new nutrient sources may be one reason why the gnathostomes replaced most agnathans.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm41093696"><term>Actinopterygii</term> <meaning id="fs-idp48254464">ray-finned fishes</meaning></definition>
+<definition id="fs-idp8515136"><term>ampulla of Lorenzini</term> <meaning id="fs-idm88860272">sensory organ that allows sharks to detect electromagnetic fields produced by living things</meaning></definition>
+<definition id="fs-idm49897552"><term>Chondrichthyes</term> <meaning id="fs-idm105408800">jawed fish with paired fins and a skeleton made of cartilage</meaning></definition>
+<definition id="fs-idm77426560"><term>gnathostome</term> <meaning id="fs-idm101844352">jawed fish</meaning></definition>
+<definition id="fs-idm51148320"><term>hagfish</term> <meaning id="fs-idm48184352">eel-like jawless fish that live on the ocean floor and are scavengers</meaning></definition>
+<definition id="fs-idm68436336"><term>lamprey</term> <meaning id="fs-idp21584336">jawless fish characterized by a toothed, funnel-like, sucking mouth</meaning></definition>
+<definition id="fs-idp84952112"><term>lateral line</term> <meaning id="fs-idm50229616">sense organ that runs the length of a fish&#8217;s body; used to detect vibration in the water</meaning></definition>
+<definition id="fs-idm76951648"><term>Myxini</term> <meaning id="fs-idp13181872">hagfishes</meaning></definition>
+<definition id="fs-idm176705216"><term>Osteichthyes</term> <meaning id="fs-idm110318976">bony fish</meaning></definition>
+<definition id="fs-idm30452144"><term>ostracoderm</term> <meaning id="fs-idm18080">one of the earliest jawless fish covered in bone</meaning></definition>
+<definition id="fs-idm61548736"><term>Petromyzontidae</term> <meaning id="fs-idp45784240">clade of lampreys</meaning></definition>
+<definition id="fs-idp160963744"><term>Sarcopterygii</term> <meaning id="fs-idm176240432">lobe-finned fish</meaning></definition>
+<definition id="fs-idp121020944"><term>swim bladder</term> <meaning id="fs-idp8495920">in fishes, a gas filled organ that helps to control the buoyancy of the fish</meaning></definition>
+</glossary>
+</document>

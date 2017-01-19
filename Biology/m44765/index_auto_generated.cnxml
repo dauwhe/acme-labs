@@ -1,0 +1,179 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44765/latest/</md:content-url>
+  <md:content-id>m44765</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.2</md:version>
+  <md:created>2012/08/23 15:38:07 -0500</md:created>
+  <md:revised>2013/02/26 12:18:40.355 US/Central</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>acromegaly</md:keyword>
+    <md:keyword>ACTH</md:keyword>
+    <md:keyword>Addison's disease</md:keyword>
+    <md:keyword>adenylate cyclase</md:keyword>
+    <md:keyword>ADH</md:keyword>
+    <md:keyword>adrenal cortex</md:keyword>
+    <md:keyword>adrenal gland</md:keyword>
+    <md:keyword>adrenal medulla</md:keyword>
+    <md:keyword>adrenocorticotropic hormone</md:keyword>
+    <md:keyword>aldosterone</md:keyword>
+    <md:keyword>alpha cell</md:keyword>
+    <md:keyword>amino acid derived hormone</md:keyword>
+    <md:keyword>androgen</md:keyword>
+    <md:keyword>ANP</md:keyword>
+    <md:keyword>anterior pituitary</md:keyword>
+    <md:keyword>antidiuretic hormone</md:keyword>
+    <md:keyword>atrial natriuretic peptide</md:keyword>
+    <md:keyword>beta cell</md:keyword>
+    <md:keyword>blood calcium level</md:keyword>
+    <md:keyword>blood glucose</md:keyword>
+    <md:keyword>body regulation</md:keyword>
+    <md:keyword>calcitonin</md:keyword>
+    <md:keyword>colloid</md:keyword>
+    <md:keyword>corticosteroid</md:keyword>
+    <md:keyword>cortisol</md:keyword>
+    <md:keyword>Cushing's disease</md:keyword>
+    <md:keyword>diabetes insipidus</md:keyword>
+    <md:keyword>diabetes mellitus</md:keyword>
+    <md:keyword>diabetogenic effect</md:keyword>
+    <md:keyword>down-regulation</md:keyword>
+    <md:keyword>endocrine</md:keyword>
+    <md:keyword>endocrine gland</md:keyword>
+    <md:keyword>endocrine system</md:keyword>
+    <md:keyword>endocrinologist</md:keyword>
+    <md:keyword>epinephrine</md:keyword>
+    <md:keyword>EPO</md:keyword>
+    <md:keyword>erythropoietin</md:keyword>
+    <md:keyword>excretory system</md:keyword>
+    <md:keyword>exocrine gland</md:keyword>
+    <md:keyword>exocrine system</md:keyword>
+    <md:keyword>first messenger</md:keyword>
+    <md:keyword>G-protein</md:keyword>
+    <md:keyword>GH</md:keyword>
+    <md:keyword>GHIH</md:keyword>
+    <md:keyword>GHRH</md:keyword>
+    <md:keyword>gigantism</md:keyword>
+    <md:keyword>glucagon</md:keyword>
+    <md:keyword>glucocorticoid</md:keyword>
+    <md:keyword>gluconeogenesis</md:keyword>
+    <md:keyword>glucose-sparing effect</md:keyword>
+    <md:keyword>glycogenolysis</md:keyword>
+    <md:keyword>GnRH</md:keyword>
+    <md:keyword>goiter</md:keyword>
+    <md:keyword>growth hormone</md:keyword>
+    <md:keyword>growth hormone-inhibiting hormone</md:keyword>
+    <md:keyword>growth hormone-releasing hormone</md:keyword>
+    <md:keyword>growth regulation</md:keyword>
+    <md:keyword>homeostasis</md:keyword>
+    <md:keyword>hormonal stimuli</md:keyword>
+    <md:keyword>hormone</md:keyword>
+    <md:keyword>hormone production</md:keyword>
+    <md:keyword>hormone receptor</md:keyword>
+    <md:keyword>hormone regulation</md:keyword>
+    <md:keyword>humoral stimuli</md:keyword>
+    <md:keyword>hyperglycemia</md:keyword>
+    <md:keyword>hyperthyroidism</md:keyword>
+    <md:keyword>hypoglycemia</md:keyword>
+    <md:keyword>hypophyseal portal system</md:keyword>
+    <md:keyword>hypothyroidism</md:keyword>
+    <md:keyword>IGF</md:keyword>
+    <md:keyword>infundibulum</md:keyword>
+    <md:keyword>insulin</md:keyword>
+    <md:keyword>insulin-like growth factors</md:keyword>
+    <md:keyword>intracellular receptor</md:keyword>
+    <md:keyword>islets of Langerhans</md:keyword>
+    <md:keyword>isthmus</md:keyword>
+    <md:keyword>leptin</md:keyword>
+    <md:keyword>lipid derived hormone</md:keyword>
+    <md:keyword>long-term stress response</md:keyword>
+    <md:keyword>metabolism regulation</md:keyword>
+    <md:keyword>neural stimuli</md:keyword>
+    <md:keyword>norepinephrine</md:keyword>
+    <md:keyword>osmoreceptor</md:keyword>
+    <md:keyword>oxytocin</md:keyword>
+    <md:keyword>pancreas</md:keyword>
+    <md:keyword>pancreatic islets</md:keyword>
+    <md:keyword>parafollicular cell</md:keyword>
+    <md:keyword>parathyroid gland</md:keyword>
+    <md:keyword>parathyroid hormone</md:keyword>
+    <md:keyword>peptide hormone</md:keyword>
+    <md:keyword>pituitary dwarfism</md:keyword>
+    <md:keyword>pituitary gland</md:keyword>
+    <md:keyword>plasma membrane hormone receptor</md:keyword>
+    <md:keyword>posterior pituitary</md:keyword>
+    <md:keyword>PRL</md:keyword>
+    <md:keyword>prolactin</md:keyword>
+    <md:keyword>prolactin-releasing hormone</md:keyword>
+    <md:keyword>PTH</md:keyword>
+    <md:keyword>renin</md:keyword>
+    <md:keyword>reproductive system regulation</md:keyword>
+    <md:keyword>second messenger</md:keyword>
+    <md:keyword>secondary endocrine function</md:keyword>
+    <md:keyword>short-term stress response</md:keyword>
+    <md:keyword>thryoxine</md:keyword>
+    <md:keyword>thymus</md:keyword>
+    <md:keyword>thyroglobulin</md:keyword>
+    <md:keyword>thyroid</md:keyword>
+    <md:keyword>thyroid gland</md:keyword>
+    <md:keyword>thyroid regulation</md:keyword>
+    <md:keyword>thyroid-stimulating hormone</md:keyword>
+    <md:keyword>triiodothyronine</md:keyword>
+    <md:keyword>up-regulation</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<?cnx.eoc class="summary" title="Sections Summary"?>
+<?cnx.eoc class="art-exercise" title="Art Connections"?>
+<?cnx.eoc class="multiple-choice" title="Multiple Choice"?>
+<?cnx.eoc class="free-response" title="Free Response"?>
+
+<figure id="fig-ch37_00_01" class="splash"><media id="fs-idm109486768" alt=" Photo A shows a tadpole. Photo b shows a frog that has developed legs but still has the tail of a tadpole. Photo C shows a fully grown frog.">
+<image mime-type="image/jpg" src="Figure_37_00_01abc.jpg" width="600"/>
+</media>
+<caption>The process of amphibian metamorphosis, as seen in the tadpole-to-frog stages shown here, is driven by hormones. (credit "tadpole": modification of work by Brian Gratwicke)</caption></figure><para id="fs-idm79589648">An animal&#8217;s endocrine system controls body processes through the production, secretion, and regulation of hormones, which serve as chemical &#8220;messengers&#8221; functioning in cellular and organ activity and, ultimately, maintaining the body&#8217;s homeostasis. The endocrine system plays a role in growth, metabolism, and sexual development. In humans, common endocrine system diseases include thyroid disease and diabetes mellitus. In organisms that undergo metamorphosis, the process is controlled by the endocrine system. The transformation from tadpole to frog, for example, is complex and nuanced to adapt to specific environments and ecological circumstances.</para>
+</content>
+</document>

@@ -1,0 +1,147 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Organogenesis and Vertebrate Formation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44850/latest/</md:content-url>
+  <md:content-id>m44850</md:content-id>
+  <md:title>Organogenesis and Vertebrate Formation</md:title>
+  <md:version>1.3</md:version>
+  <md:created>2012/08/23 16:05:54 -0500</md:created>
+  <md:revised>2013/04/10 15:18:12.077 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>animal development</md:keyword>
+    <md:keyword>animal reproduction</md:keyword>
+    <md:keyword>neural tube</md:keyword>
+    <md:keyword>organogenesis</md:keyword>
+    <md:keyword>somite</md:keyword>
+    <md:keyword>vertebrate formation</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the process of organogenesis</item>
+<item>Identify the anatomical axes formed in vertebrates</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idp61264496">Gastrulation leads to the formation of the three germ layers that give rise, during further development, to the different organs in the animal body. This process is called <term>organogenesis</term>. Organogenesis is characterized by rapid and precise movements of the cells within the embryo.</para>
+<section id="fs-idp168808848">
+<title>Organogenesis</title>
+<para id="fs-idp65996928">Organs form from the germ layers through the process of differentiation. During differentiation, the embryonic stem cells express specific sets of genes which will determine their ultimate cell type. For example, some cells in the ectoderm will express the genes specific to skin cells. As a result, these cells will differentiate into epidermal cells. The process of differentiation is regulated by cellular signaling cascades.</para>
+<para id="fs-idm16832384">Scientists study organogenesis extensively in the lab in fruit flies (<emphasis effect="italics">Drosophila</emphasis>) and the nematode <emphasis effect="italics">Caenorhabditis elegans</emphasis>. <emphasis effect="italics">Drosophila</emphasis> have segments along their bodies, and the patterning associated with the segment formation has allowed scientists to study which genes play important roles in organogenesis along the length of the embryo at different time points. The nematode <emphasis effect="italics">C.elegans</emphasis> has roughly 1000 somatic cells and scientists have studied the fate of each of these cells during their development in the nematode life cycle. There is little variation in patterns of cell lineage between individuals, unlike in mammals where cell development from the embryo is dependent on cellular cues.</para>
+<para id="fs-idp65133440">In vertebrates, one of the primary steps during organogenesis is the formation of the neural system. The ectoderm forms epithelial cells and tissues, and neuronal tissues. During the formation of the neural system, special signaling molecules called growth factors signal some cells at the edge of the ectoderm to become epidermis cells. The remaining cells in the center form the neural plate. If the signaling by growth factors were disrupted, then the entire ectoderm would differentiate into neural tissue.</para>
+<para id="fs-idm17573616">The neural plate undergoes a series of cell movements where it rolls up and forms a tube called the <term>neural tube</term>, as illustrated in <link target-id="fig-ch43_06_01" document=""/>. In further development, the neural tube will give rise to the brain and the spinal cord.</para>
+<figure id="fig-ch43_06_01" class=" "><media id="fs-idm116843856" alt="Illustration shows a flat sheet. The middle of the sheet is the neural plate, and the epidermis is at either end. The neural plate border separates the neural tube from the epidermis. During convergence the plate folds, bringing the neural folds together. The neural folds fuse, joining the neural plate into a neural tube. The epidermis separates and folds around the outside.">
+<image mime-type="image/jpg" src="Figure_43_06_01.jpg" width="300"/>
+</media>
+<caption>The central region of the ectoderm forms the neural tube, which gives rise to the brain and the spinal cord.</caption></figure><para id="fs-idp7077728">The mesoderm that lies on either side of the vertebrate neural tube will develop into the various connective tissues of the animal body. A spatial pattern of gene expression reorganizes the mesoderm into groups of cells called <term>somites</term> with spaces between them. The somites, illustrated in <link target-id="fig-ch43_06_02" document=""/> will further develop into the ribs, lungs, and segmental (spine) muscle. The mesoderm also forms a structure called the notochord, which is rod-shaped and forms the central axis of the animal body.</para>
+<figure id="fig-ch43_06_02" class=" "><media id="fs-idp18282688" alt=" Embryo resembles a segmented earthworm with a bulging head.">
+<image mime-type="image/jpg" src="Figure_43_06_02.jpg" width="300"/>
+</media>
+<caption>In this five-week old human embryo, somites are segments along the length of the body. (credit: modification of work by Ed Uthman)</caption></figure></section>
+<section id="fs-idm60055584">
+<title>Vertebrate Axis Formation</title>
+<para id="fs-idm60224592">Even as the germ layers form, the ball of cells still retains its spherical shape. However, animal bodies have lateral-medial (left-right), dorsal-ventral (back-belly), and anterior-posterior (head-feet) axes, illustrated in <link target-id="fig-ch43_06_03" document=""/>.</para>
+<figure id="fig-ch43_06_03" class=" "><media id="fs-idp18656800" alt="Illustration shows a fish dissected by lines into anterior (front) and posterior (rear) ends and dorsal (top) and ventral (bottom) surfaces.">
+<image mime-type="image/jpg" src="Figure_43_06_03.jpg" width="575"/>
+</media>
+<caption>Animal bodies have three axes for symmetry. (credit: modification of work by NOAA)</caption></figure><para id="fs-idp23643616">How are these established? In one of the most seminal experiments ever to be carried out in developmental biology, Spemann and Mangold took dorsal cells from one embryo and transplanted them into the belly region of another embryo. They found that the transplanted embryo now had two notochords: one at the dorsal site from the original cells and another at the transplanted site. This suggested that the dorsal cells were genetically programmed to form the notochord and define the axis. Since then, researchers have identified many genes that are responsible for axis formation. Mutations in these genes leads to the loss of symmetry required for organism development.</para>
+<para id="fs-idp164017568">Animal bodies have externally visible symmetry. However, the internal organs are not symmetric. For example, the heart is on the left side and the liver on the right. The formation of the central left-right axis is an important process during development. This internal asymmetry is established very early during development and involves many genes. Research is still ongoing to fully understand the developmental implications of these genes.</para>
+</section>
+<section id="fs-idp61001312" class="summary">
+<title>Section Summary</title><para id="fs-idm7841920">Organogenesis is the formation of organs from the germ layers. Each germ layer gives rise to specific tissue types. The first stage is the formation of the neural system in the ectoderm. The mesoderm gives rise to somites and the notochord. Formation of vertebrate axis is another important developmental stage.</para>
+    </section>
+<section id="fs-idp25095776" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm29405328">
+<problem id="fs-idp138223968"><para id="fs-idp140633120">Which of the following gives rise to the skin cells?</para>
+<list id="fs-idm52398688" list-type="enumerated" number-style="lower-alpha">
+<item>ectoderm</item>
+<item>endoderm</item>
+<item>mesoderm</item>
+<item>none of the above</item>
+</list>
+</problem>
+<solution id="fs-idm62132720">
+<label/>
+<para id="fs-idm58516496">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idp40022656">
+<problem id="fs-idp257447904"><para id="fs-idp120852560">The ribs form from the ________.</para>
+<list id="fs-idp801472" list-type="enumerated" number-style="lower-alpha">
+<item>notochord</item>
+<item>neural plate</item>
+<item>neural tube</item>
+<item>somites</item>
+</list>
+</problem>
+<solution id="fs-idp88542464">
+<label/>
+<para id="fs-idp70126256">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp140615056" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm61820352">
+<problem id="fs-idm50146992">
+    <para id="fs-idp43143840">Explain how the different germ layers give rise to different tissue types.</para>
+</problem>
+<solution id="fs-idp51142816"><label/>
+<para id="fs-idp70222224">Organs form from the germ layers through the process of differentiation. During differentiation, the embryonic stem cells express a specific set of genes that will determine their ultimate fate as a cell type. For example, some cells in the ectoderm will express the genes specific to skin cells. As a result, these cells will differentiate into epidermal cells. The process of differentiation is regulated by cellular signaling cascades.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp121762688">
+<problem id="fs-idp180929504"><para id="fs-idm34968816">Explain the role of axis formation in development.</para></problem>
+<solution id="fs-idp20676832"><label/>
+<para id="fs-idp95249056">Animal bodies have lateral-medial (left-right), dorsal-ventral (back-belly), and anterior-posterior (head-feet) axes. The dorsal cells are genetically programmed to form the notochord and define the axis. There are many genes responsible for axis formation. Mutations in these genes lead to the loss of symmetry required for organism development.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idp48488800"><term>neural tube</term> <meaning id="fs-idm32203344">tube-like structure that forms from the ectoderm and gives rise to the brain and spinal cord</meaning></definition>
+<definition id="fs-idm34124848"><term>organogenesis</term> <meaning id="fs-idp62347904">process of organ formation</meaning></definition>
+<definition id="fs-idp81359264"><term>somite</term> <meaning id="fs-idp15683296">group of cells separated by small spaces that form from the mesoderm and give rise to connective tissue</meaning></definition>
+</glossary>
+</document>

@@ -1,0 +1,326 @@
+<?xml version="1.0"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>The Light-Dependent Reactions of Photosynthesis</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml"
+          mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44448/latest</md:content-url>
+  <md:content-id>m44448</md:content-id>
+  <md:title>The Light-Dependent Reactions of Photosynthesis</md:title>
+  <md:version>1.12</md:version>
+  <md:created>2012/08/23 05:56:46 -0500</md:created>
+  <md:revised>2015/03/13 14:53:57 -0500</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax</md:shortname>
+      <md:fullname>OpenStax</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>absorption</md:keyword>
+    <md:keyword>absorption spectrum</md:keyword>
+    <md:keyword>ADP</md:keyword>
+    <md:keyword>antenna molecule</md:keyword>
+    <md:keyword>ATP</md:keyword>
+    <md:keyword>chlorophyll a</md:keyword>
+    <md:keyword>chlorophyll b</md:keyword>
+    <md:keyword>cytochrome complex</md:keyword>
+    <md:keyword>electromagnetic spectrum</md:keyword>
+    <md:keyword>electron transport chain</md:keyword>
+    <md:keyword>light-dependent reaction</md:keyword>
+    <md:keyword>light energy</md:keyword>
+    <md:keyword>light wavelengths</md:keyword>
+    <md:keyword>NADP</md:keyword>
+    <md:keyword>NADPH</md:keyword>
+    <md:keyword>photon</md:keyword>
+    <md:keyword>photosynthesis</md:keyword>
+    <md:keyword>photosystem I</md:keyword>
+    <md:keyword>photosystem II</md:keyword>
+    <md:keyword>pigment</md:keyword>
+    <md:keyword>primary electron acceptor</md:keyword>
+    <md:keyword>reaction center</md:keyword>
+    <md:keyword>visible light</md:keyword>
+    <md:keyword>wavelength</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain how plants absorb energy from sunlight</item>
+<item>Describe short and long wavelengths of light</item>
+<item>Describe how and where photosynthesis takes place within a plant</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idm88490128">How can light be used to make food? When a person turns on a lamp, electrical energy becomes light energy. Like all other forms of kinetic energy, light can travel, change form, and be harnessed to do work. In the case of photosynthesis, light energy is converted into chemical energy, which photoautotrophs use to build carbohydrate molecules (<link target-id="fig-ch08_02_01" document=""/>). However, autotrophs only use a few specific components of sunlight.</para><figure id="fig-ch08_02_01"><media id="fs-idm92191472" alt="A photo shows the silhouette of a grassy plant against the sun at sunset.">
+<image mime-type="image/jpg" src="Figure_08_02_01.jpg" width="295"/>
+</media>
+
+<caption>Photoautotrophs can capture light energy from the sun, converting it into the chemical energy used to build food molecules. (credit: Gerry Atwell)</caption></figure><section id="fs-idp36564064">
+<title>What Is Light Energy?</title>
+<para id="fs-idm194396816">The sun emits an enormous amount of electromagnetic radiation (solar energy). Humans can see only a fraction of this energy, which portion is therefore referred to as “visible light.” The manner in which solar energy travels is described as waves. Scientists can determine the amount of energy of a wave by measuring its <term>wavelength</term>, the distance between consecutive points of a wave. A single wave is measured from two consecutive points, such as from crest to crest or from trough to trough (<link target-id="fig-ch08_02_02" document=""/>).</para>
+<figure id="fig-ch08_02_02"><media id="fs-idm128612944" alt="The illustration shows two waves. The distance between the crests (or troughs) is the wavelength.">
+<image mime-type="image/jpg" src="Figure_08_02_02.jpg" width="320"/>
+</media>
+
+<caption>The wavelength of a single wave is the distance between two consecutive points of similar position (two crests or two troughs) along the wave.</caption></figure><para id="fs-idm125423280">Visible light constitutes only one of many types of electromagnetic radiation emitted from the sun and other stars. Scientists differentiate the various types of radiant energy from the sun within the electromagnetic spectrum. The <term>electromagnetic spectrum</term> is the range of all possible frequencies of radiation (<link target-id="fig-ch08_02_03" document=""/>). The difference between wavelengths relates to the amount of energy carried by them.</para>
+<figure id="fig-ch08_02_03" class=" "><media id="fs-idp102263632" alt="The illustration lists the types of electromagnetic radiation in order of increasing wavelength. These include gamma rays, X-rays, ultraviolet, visible, infrared, and radio. Gamma rays have a very short wavelength, on the order of one thousandth of a nanometer. Radio waves have a very long wavelength, on the order of one kilometer. Visible light ranges from 380 nanometers at the violet end of the spectrum, to 750 nanometers at the red end of the spectrum.">
+<image mime-type="image/jpg" src="Figure_08_02_03.jpg" width="750"/>
+</media>
+
+<caption>The sun emits energy in the form of electromagnetic radiation. This radiation exists at different wavelengths, each of which has its own characteristic energy. All electromagnetic radiation, including visible light, is characterized by its wavelength.</caption></figure><para id="fs-idm53908304">Each type of electromagnetic radiation travels at a particular wavelength. The longer the wavelength (or the more stretched out it appears in the diagram), the less energy is carried. Short, tight waves carry the most energy. This may seem illogical, but think of it in terms of a piece of moving a heavy rope. It takes little effort by a person to move a rope in long, wide waves. To make a rope move in short, tight waves, a person would need to apply significantly more energy.</para>
+<para id="fs-idm126523248">The electromagnetic spectrum (<link target-id="fig-ch08_02_03" document=""/>) shows several types of electromagnetic radiation originating from the sun, including X-rays and ultraviolet (UV) rays. The higher-energy waves can penetrate tissues and damage cells and DNA, explaining why both X-rays and UV rays can be harmful to living organisms.</para>
+</section>
+<section id="fs-idm82071776">
+<title>Absorption of Light</title>
+<para id="fs-idm268137472">Light energy initiates the process of photosynthesis when pigments absorb the light. Organic pigments, whether in the human retina or the chloroplast thylakoid, have a narrow range of energy levels that they can absorb. Energy levels lower than those represented by red light are insufficient to raise an orbital electron to a populatable, excited (quantum) state. Energy levels higher than those in blue light will physically tear the molecules apart, called bleaching. So retinal pigments can only “see” (absorb) 700 nm to 400 nm light, which is therefore called visible light. For the same reasons, plants pigment molecules absorb only light in the wavelength range of 700 nm to 400 nm; plant physiologists refer to this range for plants as photosynthetically active radiation.</para>
+<para id="fs-idp33763296">The visible light seen by humans as white light actually exists in a rainbow of colors. Certain objects, such as a prism or a drop of water, disperse white light to reveal the colors to the human eye. The visible light portion of the electromagnetic spectrum shows the rainbow of colors, with violet and blue having shorter wavelengths, and therefore higher energy. At the other end of the spectrum toward red, the wavelengths are longer and have lower energy (<link target-id="fig-ch08_02_04" document=""/>).</para>
+<figure id="fig-ch08_02_04" class=" "><media id="fs-idm211258048" alt="The illustration shows the colors of visible light. In order of decreasing wavelength, these are red, orange, yellow, green, blue, indigo, and violet.">
+<image mime-type="image/jpg" src="Figure_08_02_04.jpg" width="750"/>
+</media>
+
+<caption>The colors of visible light do not carry the same amount of energy. Violet has the shortest wavelength and therefore carries the most energy, whereas red has the longest wavelength and carries the least amount of energy. (credit: modification of work by NASA)</caption></figure><section id="fs-idm123511168">
+<title>Understanding Pigments</title>
+<para id="fs-idp9838128">Different kinds of pigments exist, and each has evolved to absorb only certain wavelengths (colors) of visible light. Pigments reflect or transmit the wavelengths they cannot absorb, making them appear in the corresponding color.</para>
+<para id="fs-idm211300064">Chlorophylls and carotenoids are the two major classes of photosynthetic pigments found in plants and algae; each class has multiple types of pigment molecules. There are five major chlorophylls: <emphasis effect="italics">a</emphasis>, <emphasis effect="italics">b</emphasis>, <emphasis effect="italics">c</emphasis> and <emphasis effect="italics">d</emphasis> and a related molecule found in prokaryotes called bacteriochlorophyll. <term>Chlorophyll <emphasis effect="italics">a</emphasis></term> and <term>chlorophyll <emphasis effect="italics">b</emphasis></term> are found in higher plant chloroplasts and will be the focus of the following discussion.</para><para id="fs-idm123243680">With dozens of different forms, carotenoids are a much larger group of pigments. The carotenoids found in fruit—such as the red of tomato (lycopene), the yellow of corn seeds (zeaxanthin), or the orange of an orange peel (β-carotene)—are used as advertisements to attract seed dispersers. In photosynthesis, <term>carotenoids</term> function as photosynthetic pigments that are very efficient molecules for the disposal of excess energy. When a leaf is exposed to full sun, the light-dependent reactions are required to process an enormous amount of energy; if that energy is not handled properly, it can do significant damage. Therefore, many carotenoids reside in the thylakoid membrane, absorb excess energy, and safely dissipate that energy as heat.</para>
+<para id="fs-idp27821616">Each type of pigment can be identified by the specific pattern of wavelengths it absorbs from visible light, which is the <term>absorption spectrum</term>. The graph in <link target-id="fig-ch08_02_05" document=""/> shows the absorption spectra for chlorophyll <emphasis effect="italics">a</emphasis>, chlorophyll <emphasis effect="italics">b</emphasis>, and a type of carotenoid pigment called β-carotene (which absorbs blue and green light). Notice how each pigment has a distinct set of peaks and troughs, revealing a highly specific pattern of absorption. Chlorophyll <emphasis effect="italics">a</emphasis> absorbs wavelengths from either end of the visible spectrum (blue and red), but not green. Because green is reflected or transmitted, chlorophyll appears green. Carotenoids absorb in the short-wavelength blue region, and reflect the longer yellow, red, and orange wavelengths.</para>
+<figure id="fig-ch08_02_05"><media id="fs-idm181645856" alt="Chlorophyll a and chlorophyll b are made up of a long hydrocarbon chain attached to a large, complex ring made up of nitrogen and carbon. Magnesium is associated with the center of the ring. Chlorophyll b differs from chlorophyll a in that it has a CHO group instead of a CH3 group associated with one part of the ring. Beta-carotene is a branched hydrocarbon with a six-membered carbon ring at each end. Each chart shows the absorbance spectra for chlorophyll a, chlorophyll b, and &#x3B2;-carotene. The three pigments absorb blue-green and orange-red wavelengths of light but have slightly different spectra.">
+<image mime-type="image/jpg" src="Figure_08_02_05abcd.jpg" width="550"/>
+</media>
+
+<caption>(a) Chlorophyll <emphasis effect="italics">a</emphasis>, (b) chlorophyll <emphasis effect="italics">b</emphasis>, and (c) <emphasis effect="italics">β</emphasis>-carotene are hydrophobic organic pigments found in the thylakoid membrane. Chlorophyll <emphasis effect="italics">a</emphasis> and <emphasis effect="italics">b</emphasis>, which are identical except for the part indicated in the red box, are responsible for the green color of leaves. <emphasis effect="italics">β</emphasis>-carotene is responsible for the orange color in carrots. Each pigment has (d) a unique absorbance spectrum.</caption></figure><para id="fs-idm186915168">Many photosynthetic organisms have a mixture of pigments; using them, the organism can absorb energy from a wider range of wavelengths. Not all photosynthetic organisms have full access to sunlight. Some organisms grow underwater where light intensity and quality decrease and change with depth. Other organisms grow in competition for light. Plants on the rainforest floor must be able to absorb any bit of light that comes through, because the taller trees absorb most of the sunlight and scatter the remaining solar radiation (<link target-id="fig-ch08_02_06" document=""/>).</para>
+<figure id="fig-ch08_02_06"><media id="fs-idm168490976" alt="The photo shows undergrowth in a forest.">
+<image mime-type="image/jpg" src="Figure_08_02_06.jpg" width="380"/>
+</media>
+
+<caption>Plants that commonly grow in the shade have adapted to low levels of light by changing the relative concentrations of their chlorophyll pigments. (credit: Jason Hollinger)</caption></figure><para id="fs-idm160247200">When studying a photosynthetic organism, scientists can determine the types of pigments present by generating absorption spectra. An instrument called a <term>spectrophotometer</term> can differentiate which wavelengths of light a substance can absorb. Spectrophotometers measure transmitted light and compute from it the absorption. By extracting pigments from leaves and placing these samples into a spectrophotometer, scientists can identify which wavelengths of light an organism can absorb. Additional methods for the identification of plant pigments include various types of chromatography that separate the pigments by their relative affinities to solid and mobile phases.</para>
+</section>
+</section>
+<section id="fs-idm30660704">
+<title>How Light-Dependent Reactions Work</title>
+<para id="fs-idm291419072">The overall function of light-dependent reactions is to convert solar energy into chemical energy in the form of NADPH and ATP. This chemical energy supports the light-independent reactions and fuels the assembly of sugar molecules. The light-dependent reactions are depicted in <link target-id="fig-ch08_02_07" document=""/>. Protein complexes and pigment molecules work together to produce NADPH and ATP.</para>
+<figure id="fig-ch08_02_07"><media id="fs-idm3490080" alt=" Illustration a shows the structure of PSII, which is embedded in the thylakoid membrane. At the core of PSII is the reaction center. The reaction center is surrounded by the light-harvesting complex, which contains antenna pigment molecules that shunt light energy toward a pair of chlorophyll a molecules in the reaction center. As a result, an electron is excited and transferred to the primary electron acceptor. A water molecule is split, releasing two electrons which are used to replace excited electrons. Illustration b shows the structure of PSI, which is similar in structure to PSII. However, PSII uses an electron from the chloroplast electron transport chain also embedded in the thylakoid membrane to replace the excited electron.">
+<image mime-type="image/png" src="Figure_08_02_07ab.png" width="320"/>
+</media>
+
+<caption>A photosystem consists of a light-harvesting complex and a reaction center. Pigments in the light-harvesting complex pass light energy to two special chlorophyll <emphasis effect="italics">a</emphasis> molecules in the reaction center. The light excites an electron from the chlorophyll <emphasis effect="italics">a</emphasis> pair, which passes to the primary electron acceptor. The excited electron must then be replaced. In (a) photosystem II, the electron comes from the splitting of water, which releases oxygen as a waste product. In (b) photosystem I, the electron comes from the chloroplast electron transport chain discussed below.</caption></figure><para id="fs-idm97436496">The actual step that converts light energy into chemical energy takes place in a multiprotein complex called a <term>photosystem</term>, two types of which are found embedded in the thylakoid membrane, <term>photosystem II</term> (PSII) and <term>photosystem I</term> (PSI) (<link target-id="fig-ch08_02_08" document=""/>). The two complexes differ on the basis of what they oxidize (that is, the source of the low-energy electron supply) and what they reduce (the place to which they deliver their energized electrons).</para>
+<para id="fs-idm82968160">Both photosystems have the same basic structure; a number of <term>antenna proteins</term> to which the chlorophyll molecules are bound surround the <term>reaction center</term> where the photochemistry takes place. Each photosystem is serviced by the <term>light-harvesting complex</term>, which passes energy from sunlight to the reaction center; it consists of multiple antenna proteins that contain a mixture of 300–400 chlorophyll <emphasis effect="italics">a</emphasis> and <emphasis effect="italics">b</emphasis> molecules as well as other pigments like carotenoids. The absorption of a single <term>photon</term> or distinct quantity or “packet” of light by any of the chlorophylls pushes that molecule into an excited state. In short, the light energy has now been captured by biological molecules but is not stored in any useful form yet. The energy is transferred from chlorophyll to chlorophyll until eventually (after about a millionth of a second), it is delivered to the reaction center. Up to this point, only energy has been transferred between molecules, not electrons.</para>
+<note id="fs-idm100402144" class="art-connection"><label/><title>Art Connection</title>
+<figure id="fig-ch08_02_08"><media id="fs-idm130539056" alt="This illustration shows the components involved in the light reactions, which are all embedded in the thylakoid membrane. Photosystem II uses light energy to strip electrons from water, producing half an oxygen molecule and two protons in the process. The excited electron is then passed through the chloroplast electron transport chain to photosystem I. Photosystem I passes the electron to NADP+ reductase, which uses it to convert NADP+ and a proton to NADPH. As the electron transport chain moves electrons, it pumps protons into the thylakoid lumen. The splitting of water also adds electrons to the lumen, and the reduction of NADPH removes protons from the stroma. The net result is a low pH inside the thylakoid lumen, and a high pH outside, in the stroma. ATP synthase embedded the thylakoid  membrane moves protons down their electrochemical gradient, from the lumen to the stroma, and uses the energy from this gradient to make ATP.">
+<image mime-type="image/jpg" src="Figure_08_02_08.jpg" width="445"/>
+</media>
+
+<caption>In the photosystem II (PSII) reaction center, energy from sunlight is used to extract electrons from water. The electrons travel through the chloroplast electron transport chain to photosystem I (PSI), which reduces NADP<sup>+</sup> to NADPH. The electron transport chain moves protons across the thylakoid membrane into the lumen. At the same time, splitting of water adds protons to the lumen, and reduction of NADPH removes protons from the stroma. The net result is a low pH in the thylakoid lumen, and a high pH in the stroma. ATP synthase uses this electrochemical gradient to make ATP.</caption></figure><para id="fs-idm103121584">What is the initial source of electrons for the chloroplast electron transport chain?</para>
+<list id="fs-idm158722640" list-type="enumerated" number-style="lower-alpha">
+<item>water</item>
+<item>oxygen</item>
+<item>carbon dioxide</item>
+<item>NADPH</item>
+</list>
+<!-- <para><link target-id="fig-ch08_02_07" document=""/> A</para> -->
+</note><para id="fs-idm135716528">The reaction center contains a pair of chlorophyll <emphasis effect="italics">a</emphasis> molecules with a special property. Those two chlorophylls can undergo oxidation upon excitation; they can actually give up an electron in a process called a <term>photoact</term>. It is at this step in the reaction center, this step in photosynthesis, that light energy is converted into an excited electron. All of the subsequent steps involve getting that electron onto the energy carrier NADPH for delivery to the Calvin cycle where the electron is deposited onto carbon for long-term storage in the form of a carbohydrate.PSII and PSI are two major components of the photosynthetic <term>electron transport chain</term>, which also includes the <term>cytochrome complex</term>. The cytochrome complex, an enzyme composed of two protein complexes, transfers the electrons from the carrier molecule plastoquinone (Pq) to the protein plastocyanin (Pc), thus enabling both the transfer of protons across the thylakoid membrane and the transfer of electrons from PSII to PSI.
+</para><para id="fs-idm101449600">The reaction center of PSII (called <term>P680</term>) delivers its high-energy electrons, one at the time, to the <term>primary electron acceptor</term>, and through the electron transport chain (Pq to cytochrome complex to plastocyanine) to PSI. P680’s missing electron is replaced by extracting a low-energy electron from water; thus, water is split and PSII is re-reduced after every photoact. Splitting one H<sub>2</sub>O molecule releases two electrons, two hydrogen atoms, and one atom of oxygen. Splitting two molecules is required to form one molecule of diatomic O<sub>2</sub> gas. About 10 percent of the oxygen is used by mitochondria in the leaf to support oxidative phosphorylation. The remainder escapes to the atmosphere where it is used by aerobic organisms to support respiration.</para><para id="fs-idm16256512">As electrons move through the proteins that reside between PSII and PSI, they lose energy. That energy is used to move hydrogen atoms from the stromal side of the membrane to the thylakoid lumen. Those hydrogen atoms, plus the ones produced by splitting water, accumulate in the thylakoid lumen and will be used synthesize ATP in a later step. Because the electrons have lost energy prior to their arrival at PSI, they must be re-energized by PSI, hence, another photon is absorbed by the PSI antenna. That energy is relayed to the PSI reaction center (called <term>P700</term>). P700 is oxidized and sends a high-energy electron to NADP<sup>+</sup> to form NADPH. Thus, PSII captures the energy to create proton gradients to make ATP, and PSI captures the energy to reduce NADP<sup>+</sup> into NADPH. The two photosystems work in concert, in part, to guarantee that the production of NADPH will roughly equal the production of ATP. Other mechanisms exist to fine tune that ratio to exactly match the chloroplast’s constantly changing energy needs.</para><section id="fs-idm202200336">
+<title>Generating an Energy Carrier: ATP</title>
+<para id="fs-idm53562256">As in the intermembrane space of the mitochondria during cellular respiration, the buildup of hydrogen ions inside the thylakoid lumen creates a concentration gradient. The passive diffusion of hydrogen ions from high concentration (in the thylakoid lumen) to low concentration (in the stroma) is harnessed to create ATP, just as in the electron transport chain of cellular respiration. The ions build up energy because of diffusion and because they all have the same electrical charge, repelling each other.</para><para id="fs-idm115415664">To release this energy, hydrogen ions will rush through any opening, similar to water jetting through a hole in a dam. In the thylakoid, that opening is a passage through a specialized protein channel called the ATP synthase. The energy released by the hydrogen ion stream allows ATP synthase to attach a third phosphate group to ADP, which forms a molecule of ATP (<link target-id="fig-ch08_02_08" document=""/>). The flow of hydrogen ions through ATP synthase is called chemiosmosis because the ions move from an area of high to an area of low concentration through a semi-permeable structure.</para><note id="fs-idm66463072" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idm120938560" alt="QR Code representing a URL">
+<image mime-type="image/png" src="light_reactions.png" width="120"/>
+</media>
+<para id="fs-idm54765440">Visit this <link window="new" url="http://openstaxcollege.org/l/light_reactions">site</link> and click through the animation to view the process of photosynthesis within a leaf.</para>
+</note></section>
+</section>
+<section id="fs-idm97401264" class="summary">
+<title>Section Summary</title><para id="fs-idm94280464">The pigments of the first part of photosynthesis, the light-dependent reactions, absorb energy from sunlight. A photon strikes the antenna pigments of photosystem II to initiate photosynthesis. The energy travels to the reaction center that contains chlorophyll <emphasis effect="italics">a</emphasis> to the electron transport chain, which pumps hydrogen ions into the thylakoid interior. This action builds up a high concentration of ions. The ions flow through ATP synthase via chemiosmosis to form molecules of ATP, which are used for the formation of sugar molecules in the second stage of photosynthesis. Photosystem I absorbs a second photon, which results in the formation of an NADPH molecule, another energy and reducing power carrier for the light-independent reactions.</para>
+</section>
+<section id="fs-idm48280768" class="art-exercise">
+<title>Art Connections</title>
+<exercise id="fs-idm56180128">
+<problem id="fs-idp70194256">
+<para id="fs-idm147735312"><link target-id="fig-ch08_02_08" document=""/> What is the source of electrons for the chloroplast electron transport chain?</para><list id="fs-idm145846448" list-type="enumerated" number-style="lower-alpha">
+<item>Water</item>
+<item>Oxygen</item>
+<item>Carbon dioxide</item>
+<item>NADPH</item>
+</list>
+</problem>
+<solution id="fs-idm129418320">
+<label/>
+<para id="fs-idm17278992"><link target-id="fig-ch08_02_07" document=""/> A.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm140725248" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm197809616">
+<problem id="fs-idm57645968">
+<para id="fs-idm131640448">Which of the following structures is <emphasis effect="italics">not</emphasis> a component of a photosystem?</para>
+<list id="fs-idm72901680" list-type="enumerated" number-style="lower-alpha">
+<item>ATP synthase</item>
+<item>antenna molecule</item>
+<item>reaction center</item>
+<item>primary electron acceptor</item>
+</list>
+</problem>
+<solution id="fs-idm145271616">
+<label/>
+<para id="fs-idm154512624">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm133225312">
+<problem id="fs-idm3420304">
+<para id="fs-idm207684576">How many photons does it take to fully reduce one molecule of NADP<sup>+</sup> to NADPH?</para>
+<list id="fs-idm46720192" list-type="enumerated" number-style="lower-alpha">
+<item>1</item>
+<item>2</item>
+<item>4</item>
+<item>8</item>
+</list>
+</problem>
+<solution id="fs-idm54749904">
+<label/>
+<para id="fs-idm78720640">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm144749168">
+<problem id="fs-idm124657968">
+<para id="fs-idm13975664">Which complex is <emphasis effect="italics">not</emphasis> involved in the establishment of conditions for ATP synthesis?
+</para><list id="fs-idm91063312" list-type="enumerated" number-style="lower-alpha"><item>photosystem I</item>
+<item>ATP synthase</item>
+<item>photosystem II</item>
+<item>cytochrome complex</item></list></problem>
+<solution id="fs-idm46329088">
+<label/>
+<para id="fs-idm185995664">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm133171248">
+<problem id="fs-idm132367664">
+<para id="fs-idm155279760">From which component of the light-dependent reactions does NADPH form most directly?</para>
+<list id="fs-idp32033184" list-type="enumerated" number-style="lower-alpha">
+<item>photosystem II</item>
+<item>photosystem I</item>
+<item>cytochrome complex</item>
+<item>ATP synthase</item>
+</list>
+</problem>
+<solution id="fs-idp2065936">
+<label/>
+<para id="fs-idp95963120">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm142872640" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm157830256">
+<problem id="fs-idp1495776">
+<para id="fs-idp14010448">Describe the pathway of electron transfer from photosystem II to photosystem I in light-dependent reactions.</para></problem>
+<solution id="fs-idm158342224">
+<label/>
+<para id="fs-idm183692320">A photon of light hits an antenna molecule in photosystem II, and the energy released by it travels through other antenna molecules to the reaction center. The energy causes an electron to leave a molecule of chlorophyll <emphasis effect="italics">a</emphasis> to a primary electron acceptor protein. The electron travels through the electron transport chain and is accepted by a pigment molecule in photosystem I.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm88164432">
+<problem id="fs-idm132276912">
+<para id="fs-idp68485216">What are the roles of ATP and NADPH in photosynthesis?</para>
+</problem>
+<solution id="fs-idm123143120">
+<label/>
+<para id="fs-idm146644368">Both of these molecules carry energy; in the case of NADPH, it has reducing power that is used to fuel the process of making carbohydrate molecules in light-independent reactions.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm183062032">
+<term>absorption spectrum</term> <meaning id="fs-idm55857392">range of wavelengths of electromagnetic radiation absorbed by a given substance</meaning>
+</definition>
+<definition id="fs-idp28134576">
+<term>antenna protein</term> <meaning id="fs-idm195817856">pigment molecule that directly absorbs light and transfers the energy absorbed to other pigment molecules</meaning>
+</definition>
+<definition id="fs-idm4469216">
+<term>carotenoid</term> <meaning id="fs-idp19362736">photosynthetic pigment that functions to dispose of excess energy</meaning>
+</definition>
+<definition id="fs-idm159628512">
+<term>chlorophyll <emphasis effect="italics">a</emphasis></term> <meaning id="fs-idp40061136">form of chlorophyll that absorbs violet-blue and red light and consequently has a bluish-green color; the only pigment molecule that performs the photochemistry by getting excited and losing an electron to the electron transport chain</meaning>
+</definition>
+<definition id="fs-idm154072096">
+<term>chlorophyll <emphasis effect="italics">b</emphasis></term> <meaning id="fs-idm98014768">accessory pigment that absorbs blue and red-orange light and consequently has a yellowish-green tint</meaning>
+</definition>
+<definition id="fs-idm129650752">
+<term>cytochrome complex</term> <meaning id="fs-idm149510448">group of reversibly oxidizable and reducible proteins that forms part of the electron transport chain between photosystem II and photosystem I</meaning>
+</definition>
+<definition id="fs-idm194226544">
+<term>electromagnetic spectrum</term> <meaning id="fs-idm70976864">range of all possible frequencies of radiation</meaning>
+</definition>
+<definition id="fs-idm30728160">
+<term>electron transport chain</term> <meaning id="fs-idm100373344">group of proteins between PSII and PSI that pass energized electrons and use the energy released by the electrons to move hydrogen ions against their concentration gradient into the thylakoid lumen</meaning>
+</definition>
+<definition id="fs-idp6906896">
+<term>light harvesting complex</term> <meaning id="fs-idm135590992">complex that passes energy from sunlight to the reaction center in each photosystem; it consists of multiple antenna proteins that contain a mixture of 300–400 chlorophyll <emphasis effect="italics">a</emphasis> and <emphasis effect="italics">b</emphasis> molecules as well as other pigments like carotenoids</meaning>
+</definition>
+<definition id="fs-idm76092288">
+<term>P680</term> <meaning id="fs-idm91539168">reaction center of photosystem II</meaning>
+</definition>
+<definition id="fs-idm48261264">
+<term>P700</term> <meaning id="fs-idm2562848">reaction center of photosystem I</meaning>
+</definition>
+<definition id="fs-idm196081584">
+<term>photoact</term> <meaning id="fs-idm267692608">ejection of an electron from a reaction center using the energy of an absorbed photon</meaning>
+</definition>
+<definition id="fs-idm187340544">
+<term>photon</term> <meaning id="fs-idm96922928">distinct quantity or “packet” of light energy</meaning>
+</definition>
+<definition id="fs-idm531264">
+<term>photosystem</term> <meaning id="fs-idm99514832">group of proteins, chlorophyll, and other pigments that are used in the light-dependent reactions of photosynthesis to absorb light energy and convert it into chemical energy</meaning>
+</definition>
+<definition id="fs-idm106946144">
+<term>photosystem I</term> <meaning id="fs-idm52972544"> integral pigment and protein complex in thylakoid membranes that uses light energy to transport electrons from plastocyanin to NADP<sup>+</sup> (which becomes reduced to NADPH in the process)</meaning>
+</definition>
+<definition id="fs-idm153519904">
+<term>photosystem II</term> <meaning id="fs-idm42660992">integral protein and pigment complex in thylakoid membranes that transports electrons from water to the electron transport chain; oxygen is a product of PSII</meaning>
+</definition>
+<definition id="fs-idm147830256">
+<term>primary electron acceptor</term> <meaning id="fs-idm72920448">pigment or other organic molecule in the reaction center that accepts an energized electron from the reaction center</meaning>
+</definition>
+<definition id="fs-idm3318144">
+<term>reaction center</term> <meaning id="fs-idm185064640">complex of chlorophyll molecules and other organic molecules that is assembled around a special pair of chlorophyll molecules and a primary electron acceptor; capable of undergoing oxidation and reduction</meaning>
+</definition>
+<definition id="fs-idm69091392">
+<term>spectrophotometer</term> <meaning id="fs-idm183689808">instrument that can measure transmitted light and compute the absorption</meaning>
+</definition>
+<definition id="fs-idm74655728">
+<term>wavelength</term> <meaning id="fs-idm82867552">distance between consecutive points of equal position (two crests or two troughs) of a wave in a graphic representation; inversely proportional to the energy of the radiation</meaning>
+</definition>
+</glossary>
+</document>

@@ -1,0 +1,164 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44720/latest/</md:content-url>
+  <md:content-id>m44720</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.2</md:version>
+  <md:created>2012/08/23 15:01:06 -0500</md:created>
+  <md:revised>2013/02/20 10:23:53.549 US/Central</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>accessory fruit</md:keyword>
+    <md:keyword>aggregate fruit</md:keyword>
+    <md:keyword>androecium</md:keyword>
+    <md:keyword>angiosperm</md:keyword>
+    <md:keyword>angiosperm reproduction</md:keyword>
+    <md:keyword>angiosperm sexual reproduction</md:keyword>
+    <md:keyword>annual</md:keyword>
+    <md:keyword>antipodal</md:keyword>
+    <md:keyword>apomixis</md:keyword>
+    <md:keyword>artificial plant reproduction</md:keyword>
+    <md:keyword>asexual reproduction</md:keyword>
+    <md:keyword>bat pollination</md:keyword>
+    <md:keyword>biennial</md:keyword>
+    <md:keyword>bird pollination</md:keyword>
+    <md:keyword>coleoptile</md:keyword>
+    <md:keyword>coleorhiza</md:keyword>
+    <md:keyword>complete flower</md:keyword>
+    <md:keyword>cross-pollination</md:keyword>
+    <md:keyword>cutting</md:keyword>
+    <md:keyword>development of the seed</md:keyword>
+    <md:keyword>dormancy</md:keyword>
+    <md:keyword>double fertilization</md:keyword>
+    <md:keyword>endocarp</md:keyword>
+    <md:keyword>endosperm</md:keyword>
+    <md:keyword>epicotyl</md:keyword>
+    <md:keyword>epigeal germination</md:keyword>
+    <md:keyword>exine</md:keyword>
+    <md:keyword>exocarp</md:keyword>
+    <md:keyword>female gamete</md:keyword>
+    <md:keyword>female gametophyte</md:keyword>
+    <md:keyword>fertilization</md:keyword>
+    <md:keyword>flower reproduction</md:keyword>
+    <md:keyword>flower structure</md:keyword>
+    <md:keyword>fruit development</md:keyword>
+    <md:keyword>fruit dispersal</md:keyword>
+    <md:keyword>fruit type</md:keyword>
+    <md:keyword>germination</md:keyword>
+    <md:keyword>grafting</md:keyword>
+    <md:keyword>gravitropism</md:keyword>
+    <md:keyword>gymnosperm reproduction</md:keyword>
+    <md:keyword>gymnosperm sexual reproduction</md:keyword>
+    <md:keyword>hypocotyl</md:keyword>
+    <md:keyword>hypogeal germination</md:keyword>
+    <md:keyword>incompatibility</md:keyword>
+    <md:keyword>incompatibility gene</md:keyword>
+    <md:keyword>insect pollination</md:keyword>
+    <md:keyword>intine</md:keyword>
+    <md:keyword>layering</md:keyword>
+    <md:keyword>male gametophyte</md:keyword>
+    <md:keyword>megasporangium</md:keyword>
+    <md:keyword>mesocarp</md:keyword>
+    <md:keyword>micropropagation</md:keyword>
+    <md:keyword>micropyle</md:keyword>
+    <md:keyword>microsporangium</md:keyword>
+    <md:keyword>microsporophyll</md:keyword>
+    <md:keyword>monocarpic</md:keyword>
+    <md:keyword>multiple fruit</md:keyword>
+    <md:keyword>natural plant reproduction</md:keyword>
+    <md:keyword>nectar guide</md:keyword>
+    <md:keyword>perennial</md:keyword>
+    <md:keyword>perianth</md:keyword>
+    <md:keyword>pericarp</md:keyword>
+    <md:keyword>plant death</md:keyword>
+    <md:keyword>plant fertilization</md:keyword>
+    <md:keyword>plant lifecycle</md:keyword>
+    <md:keyword>plant lifespan</md:keyword>
+    <md:keyword>plant reproduction</md:keyword>
+    <md:keyword>plant reproductive development</md:keyword>
+    <md:keyword>plant reproductive process</md:keyword>
+    <md:keyword>plant reproductive structure</md:keyword>
+    <md:keyword>plant sexual reproduction</md:keyword>
+    <md:keyword>plumule</md:keyword>
+    <md:keyword>polar body</md:keyword>
+    <md:keyword>polar nuclei</md:keyword>
+    <md:keyword>pollination</md:keyword>
+    <md:keyword>pollination by bats</md:keyword>
+    <md:keyword>pollination by birds</md:keyword>
+    <md:keyword>pollination by insects</md:keyword>
+    <md:keyword>pollination by water</md:keyword>
+    <md:keyword>pollination by wind</md:keyword>
+    <md:keyword>polycarpic</md:keyword>
+    <md:keyword>radicle</md:keyword>
+    <md:keyword>scarification</md:keyword>
+    <md:keyword>scutellum</md:keyword>
+    <md:keyword>seed development</md:keyword>
+    <md:keyword>seed dispersal</md:keyword>
+    <md:keyword>seed germination</md:keyword>
+    <md:keyword>self-pollination</md:keyword>
+    <md:keyword>senescence</md:keyword>
+    <md:keyword>simple fruit</md:keyword>
+    <md:keyword>suspensor</md:keyword>
+    <md:keyword>synergid</md:keyword>
+    <md:keyword>tegmen</md:keyword>
+    <md:keyword>testa</md:keyword>
+    <md:keyword>vernalization</md:keyword>
+    <md:keyword>water pollination</md:keyword>
+    <md:keyword>wind pollination</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<?cnx.eoc class="summary" title="Sections Summary"?>
+<?cnx.eoc class="art-exercise" title="Art Connections"?>
+<?cnx.eoc class="multiple-choice" title="Multiple Choice"?>
+<?cnx.eoc class="free-response" title="Free Response"?>
+<figure id="fig-ch32_00_01" class="splash"><media id="fs-idp126708544" alt=" Photo A shows a bee drinking nectar from a flower wide, flat purple flower. Photo B shows a hummingbird drinking nectar from a long, tube-shaped red flower. Photo C shows a butterfly drinking nectar from a flat, wide orange flower.">
+<image mime-type="image/jpg" src="Figure_32_00_01abc.jpg" width="600"/>
+</media>
+
+<caption>Plants that reproduce sexually often achieve fertilization with the help of pollinators such as (a) bees, (b) birds, and (c) butterflies. (credit a: modification of work by John Severns; credit b: modification of work by Charles J. Sharp; credit c: modification of work by "Galawebdesign"/Flickr)</caption></figure><para id="fs-idm92078544">Plants have evolved different reproductive strategies for the continuation of their species. Some plants reproduce sexually, and others asexually, in contrast to animal species, which rely almost exclusively on sexual reproduction. Plant sexual reproduction usually depends on pollinating agents, while asexual reproduction is independent of these agents. Flowers are often the showiest or most strongly scented part of plants. With their bright colors, fragrances, and interesting shapes and sizes, flowers attract insects, birds, and animals to serve their pollination needs. Other plants pollinate via wind or water; still others self-pollinate.</para>
+</content>
+</document>

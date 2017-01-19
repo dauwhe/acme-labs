@@ -1,0 +1,316 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Nutritional Adaptations of Plants</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44718/latest/</md:content-url>
+  <md:content-id>m44718</md:content-id>
+  <md:title>Nutritional Adaptations of Plants</md:title>
+  <md:version>1.6</md:version>
+  <md:created>2012/08/23 15:00:23 -0500</md:created>
+  <md:revised>2013/04/12 11:18:11.930 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>epiphyte</md:keyword>
+    <md:keyword>fungi and roots</md:keyword>
+    <md:keyword>insectivorous</md:keyword>
+    <md:keyword>insectivorous plant</md:keyword>
+    <md:keyword>mycorrhizae</md:keyword>
+    <md:keyword>nitrogenase</md:keyword>
+    <md:keyword>nitrogen fixation</md:keyword>
+    <md:keyword>nodule</md:keyword>
+    <md:keyword>nutritional adaptation</md:keyword>
+    <md:keyword>parasitic plant</md:keyword>
+    <md:keyword>plant nutrition</md:keyword>
+    <md:keyword>plant parasite</md:keyword>
+    <md:keyword>rhizobia</md:keyword>
+    <md:keyword>root bacteria interaction</md:keyword>
+    <md:keyword>saprophytes</md:keyword>
+    <md:keyword>soil</md:keyword>
+    <md:keyword>symbiont</md:keyword>
+    <md:keyword>symbiotic relationship</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Understand the nutritional adaptations of plants</item>
+<item>Describe mycorrhizae</item>
+<item>Explain nitrogen fixation</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idm8339104">Plants obtain food in two different ways. Autotrophic plants can make their own food from inorganic raw materials, such as carbon dioxide and water, through photosynthesis in the presence of sunlight. Green plants are included in this group. Some plants, however, are heterotrophic: they are totally parasitic and lacking in chlorophyll. These plants, referred to as holo-parasitic plants, are unable to synthesize organic carbon and draw all of their nutrients from the host plant.</para>
+<para id="fs-idm38767216">Plants may also enlist the help of microbial partners in nutrient acquisition. Particular species of bacteria and fungi have evolved along with certain plants to create a mutualistic symbiotic relationship with roots. This improves the nutrition of both the plant and the microbe. The formation of nodules in legume plants and mycorrhization can be considered among the nutritional adaptations of plants. However, these are not the only type of adaptations that we may find; many plants have other adaptations that allow them to thrive under specific conditions.</para>
+<note id="fs-idm82362208" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idp30410288" alt="QR Code representing a URL">
+<image mime-type="image/jpeg" src="basic_photosyn.png" width="120"/>
+</media>
+<para id="fs-idp84831424">This <link window="new" url="http://openstaxcollege.org/l/basic_photosyn">video</link> reviews basic concepts about photosynthesis. In the left panel, click each tab to select a topic for review.</para>
+</note><section id="fs-idp28833632">
+<title>Nitrogen Fixation: Root and Bacteria Interactions</title>
+<para id="fs-idp25847248">Nitrogen is an important macronutrient because it is part of nucleic acids and proteins. Atmospheric nitrogen, which is the diatomic molecule N<sub>2,</sub> or dinitrogen, is the largest pool of nitrogen in terrestrial ecosystems. However, plants cannot take advantage of this nitrogen because they do not have the necessary enzymes to convert it into biologically useful forms. However, nitrogen can be &#8220;fixed,&#8221; which means that it can be converted to ammonia (NH<sub>3</sub>) through biological, physical, or chemical processes. As you have learned, biological nitrogen fixation (BNF) is the conversion of atmospheric nitrogen (N<sub>2</sub>) into ammonia (NH<sub>3</sub>), exclusively carried out by prokaryotes such as soil bacteria or cyanobacteria. Biological processes contribute 65 percent of the nitrogen used in agriculture. The following equation represents the process:</para><equation id="eip-196">
+<m:math display="block">
+ <m:mrow>
+  <m:msub>
+   <m:mtext>N</m:mtext>
+   <m:mn>2</m:mn>
+  </m:msub>
+  <m:mo>+</m:mo><m:mn>16</m:mn><m:mtext>&#160;ATP&#160;</m:mtext><m:mo>+</m:mo><m:msup>
+   <m:mrow>
+    <m:mtext>&#160;8&#160;e</m:mtext>
+   </m:mrow>
+   <m:mo>&#8722;</m:mo>
+  </m:msup>
+  <m:mtext>&#160;</m:mtext><m:mo>+</m:mo><m:msup>
+   <m:mrow>
+    <m:mtext>&#160;8&#160;H</m:mtext>
+   </m:mrow>
+   <m:mo>+</m:mo>
+  </m:msup>
+  <m:mtext>&#160;</m:mtext><m:mo stretchy="false">&#8594;</m:mo><m:msub>
+   <m:mrow>
+    <m:mtext>&#160;2NH</m:mtext>
+   </m:mrow>
+   <m:mn>3</m:mn>
+  </m:msub>
+ <m:mtext>&#160;</m:mtext><m:mo>+</m:mo><m:mtext>&#160;16&#160;ADP&#160;</m:mtext><m:mo>+</m:mo><m:mtext>&#160;16&#160;Pi&#160;</m:mtext><m:mo>+</m:mo><m:msub>
+   <m:mrow>
+    <m:mtext>&#160;H</m:mtext>
+   </m:mrow>
+   <m:mn>2</m:mn>
+  </m:msub>
+   </m:mrow>
+</m:math>
+</equation>
+<para id="fs-idm71823664">The most important source of BNF is the symbiotic interaction between soil bacteria and legume plants, including many crops important to humans (<link target-id="fig-ch31_03_01" document=""/>). The NH<sub>3</sub> resulting from fixation can be transported into plant tissue and incorporated into amino acids, which are then made into plant proteins. Some legume seeds, such as soybeans and peanuts,&#160;contain high levels of protein, and serve among the most important agricultural sources of protein in the world.</para>
+<note id="fs-idp27923008" class="art-connection"><label/><title>Art Connection</title>
+<figure id="fig-ch31_03_01"><media id="fs-idp34390736" alt=" Top photo shows a bowl of shelled peanuts. Middle photo shows red kidney beans. Bottom photo shows white, bumpy, round chickpeas.">
+<image mime-type="image/png" src="Figure_31_03_01abc.png" width="500"/>
+</media>
+
+<caption>Some common edible legumes&#8212;like (a) peanuts, (b) beans, and (c) chickpeas&#8212;are able to interact symbiotically with soil bacteria that fix nitrogen. (credit a: modification of work by Jules Clancy; credit b: modification of work by USDA)</caption></figure><para id="fs-idp30580704">Farmers often rotate corn (a cereal crop) and soy beans (a legume), planting a field with each crop in alternate seasons. What advantage might this crop rotation confer?</para>
+<!--<para id="fs-idm104257680"><link target-id="fig-ch31_03_01" document=""/>Soybeans are able to fix nitrogen in their roots, which are not harvested at the end of the growing season. The belowground nitrogen can be used in the next season by the corn.</para>-->
+</note><para id="fs-idm81678592">Soil bacteria, collectively called <term>rhizobia</term>, symbiotically interact with legume roots to form specialized structures called <term>nodules</term>, in which nitrogen fixation takes place. This process entails the reduction of atmospheric nitrogen to ammonia, by means of the enzyme <term>nitrogenase</term>. Therefore, using rhizobia is a natural and environmentally friendly way to fertilize plants, as opposed to chemical fertilization that uses a nonrenewable resource, such as natural gas. Through symbiotic nitrogen fixation, the plant benefits from using an endless source of nitrogen from the atmosphere. The process simultaneously contributes to soil fertility because the plant root system leaves behind some of the biologically available nitrogen. As in any symbiosis, both organisms benefit from the interaction: the plant obtains ammonia, and bacteria obtain carbon compounds generated through photosynthesis, as well as a protected niche in which to grow (<link target-id="fig-ch31_03_02" document=""/>).</para><figure id="fig-ch31_03_02"><media id="fs-idm64165648" alt=" Part A is a photo of legume roots, which are long and thin with hair-like appendages. Nodules are bulbous protrusions extending from the root. Part B is a transmission electron micrograph of a nodule cell cross section. Black oval-shaped vesicles containing rhizobia are visible. The vesicles are surrounded by a white layer and are scattered unevenly throughout the cell, which is gray.">
+<image mime-type="image/jpg" src="Figure_31_03_02ab.jpg" width="475"/>
+</media>
+
+<caption>Soybean roots contain (a) nitrogen-fixing nodules. Cells within the nodules are infected with <emphasis effect="italics">Bradyrhyzobium japonicum, </emphasis>a rhizobia or &#8220;root-loving&#8221; bacterium. The bacteria are encased in (b) vesicles inside the cell, as can be seen in this transmission electron micrograph. (credit a: modification of work by USDA; credit b: modification of work by Louisa Howard, Dartmouth Electron Microscope Facility; scale-bar data from Matt Russell)</caption></figure></section>
+<section id="fs-idm34396800">
+<title>Mycorrhizae: The Symbiotic Relationship between Fungi and Roots</title>
+<para id="fs-idm73723040">A nutrient depletion zone can develop when there is rapid soil solution uptake, low nutrient concentration, low diffusion rate, or low soil moisture. These conditions are very common; therefore, most plants rely on fungi to facilitate the uptake of minerals from the soil. Fungi form symbiotic associations called mycorrhizae with plant roots, in which the fungi actually are integrated into the physical structure of the root. The fungi colonize the living root tissue during active plant growth.</para>
+<para id="fs-idm58935600">Through mycorrhization, the plant obtains mainly phosphate and other minerals, such as zinc and copper, from the soil. The fungus obtains nutrients, such as sugars, from the plant root (<link target-id="fig-ch31_03_03" document=""/>). Mycorrhizae help increase the surface area of the plant root system because hyphae, which are narrow, can spread beyond the nutrient depletion zone. Hyphae can grow into small soil pores that allow access to phosphorus that would otherwise be unavailable to the plant. The beneficial effect on the plant is best observed in poor soils. The benefit to fungi is that they can obtain up to 20 percent of the total carbon accessed by plants. Mycorrhizae functions as a physical barrier to pathogens. It also provides an induction of generalized host defense mechanisms, and sometimes involves production of antibiotic compounds by the fungi.</para><figure id="fig-ch31_03_03"><media id="fs-idm110735488" alt=" Photo shows a root with many branching tips. The surface of the root is fuzzy in appearance.">
+<image mime-type="image/jpg" src="Figure_31_03_03.jpg" width="320"/>
+</media>
+<caption>Root tips proliferate in the presence of mycorrhizal infection, which appears as off-white fuzz in this image. (credit: modification of work by Nilsson et al., BMC Bioinformatics 2005)</caption></figure><para id="fs-idm62928560">There are two types of mycorrhizae: ectomycorrhizae and endomycorrhizae. Ectomycorrhizae form an extensive dense sheath around the roots, called a mantle. Hyphae from the fungi extend from the mantle into the soil, which increases the surface area for water and mineral absorption. This type of mycorrhizae is found in forest trees, especially conifers, birches, and oaks. Endomycorrhizae, also called arbuscular mycorrhizae, do not form a dense sheath over the root. Instead, the fungal mycelium is embedded within the root tissue. Endomycorrhizae are found in the roots of more than 80 percent of terrestrial plants.</para>
+</section>
+<section id="fs-idm13521920">
+<title>Nutrients from Other Sources</title>
+<para id="fs-idm112425152">Some plants cannot produce their own food and must obtain their nutrition from outside sources. This may occur with plants that are parasitic or saprophytic. Some plants are mutualistic symbionts, epiphytes, or insectivorous.</para>
+<section id="fs-idm95947664">
+<title>Plant Parasites</title>
+<para id="fs-idm82435936">A <term>parasitic plant</term> depends on its host for survival. Some parasitic plants have no leaves. An example of this is the dodder (<link target-id="fig-ch31_03_04" document=""/>), which has a weak, cylindrical stem that coils around the host and forms suckers. From these suckers, cells invade the host stem and grow to connect with the vascular bundles of the host. The parasitic plant obtains water and nutrients through these connections. The plant is a total parasite (a holoparasite) because it is completely dependent on its host. Other parasitic plants (hemiparasites) are fully photosynthetic and only use the host for water and minerals. There are about 4,100 species of parasitic plants.</para><figure id="fig-ch31_03_04"><media id="fs-idp43334176" alt=" Photo shows a beige vine with small white flowers. The vine is wrapped around a woody stem of a plant with green leaves.">
+<image mime-type="image/jpg" src="Figure_31_03_04.jpg" width="320"/>
+</media>
+<caption>The dodder is a holoparasite that penetrates the host&#8217;s vascular tissue and diverts nutrients for its own growth. Note that the vines of the dodder, which has white flowers, are beige.  The dodder has no chlorophyll and cannot produce its own food. (credit: "Lalithamba"/Flickr)</caption></figure></section>
+<section id="fs-idm45225584">
+<title>Saprophytes</title>
+<para id="fs-idm100582592">A <term>saprophyte</term> is a plant that does not have chlorophyll and gets its food from dead matter, similar to bacteria and fungi (note that fungi are often called saprophytes, which is incorrect, because fungi are not plants). Plants like these use enzymes to convert organic food materials into simpler forms from which they can absorb nutrients (<link target-id="fig-ch31_03_05" document=""/>). Most saprophytes do not directly digest dead matter: instead, they parasitize fungi that digest dead matter, or are mycorrhizal, ultimately obtaining photosynthate from a fungus that derived photosynthate from its host. Saprophytic plants are uncommon; only a few species are described.</para>
+<figure id="fig-ch31_03_05"><media id="fs-idp39724192" alt=" Photo shows a plant with light pink stems reminiscent of asparagus. Bud-like appendages grow from the tips of the stems.">
+<image mime-type="image/jpg" src="Figure_31_03_05.jpg" width="320"/>
+</media>
+<caption>Saprophytes, like this Dutchmen&#8217;s pipe (<emphasis effect="italics">Monotropa hypopitys)</emphasis>, obtain their food from dead matter and do not have chlorophyll. (credit: modification of work by Iwona Erskine-Kellie)</caption></figure></section>
+</section>
+<section id="fs-idp16465008">
+<title>Symbionts</title>
+<para id="fs-idp37219328">A <term>symbiont</term> is a plant in a symbiotic relationship, with special adaptations such as mycorrhizae or nodule formation. Fungi also form symbiotic associations with cyanobacteria and green algae (called lichens). Lichens can sometimes be seen as colorful growths on the surface of rocks and trees (<link target-id="fig-ch31_03_06" document=""/>). The algal partner (phycobiont) makes food autotrophically, some of which it shares with the fungus; the fungal partner (mycobiont) absorbs water and minerals from the environment, which are made available to the green alga. If one partner was separated from the other, they would both die.</para>
+<figure id="fig-ch31_03_06"><media id="fs-idp7742848" alt=" Photo shows a tall pine tree covered with green lichen.">
+<image mime-type="image/jpg" src="Figure_31_03_06.jpg" width="260"/>
+</media>
+
+<caption>Lichens, which often have symbiotic relationships with other plants, can sometimes be found growing on trees. (credit: "benketaro"/Flickr)</caption></figure><section id="fs-idm15987264">
+<title>Epiphytes</title>
+<para id="fs-idm6646048">An <term>epiphyte</term> is a plant that grows on other plants, but is not dependent upon the other plant for nutrition (<link target-id="fig-ch31_03_07" document=""/>). Epiphytes have two types of roots: clinging aerial roots, which absorb nutrients from humus that accumulates in the crevices of trees; and aerial roots, which absorb moisture from the atmosphere.</para>
+<figure id="fig-ch31_03_07"><media id="fs-idm2188944" alt="Photo shows a tree trunk covered with epiphytes, which look like ferns growing on the trunk of a tree. There are so many epiphytes the trunk is nearly obscured.">
+<image mime-type="image/jpg" src="Figure_31_03_07.jpg" width="260"/>
+</media>
+
+<caption>These epiphyte plants grow in the main greenhouse of the <emphasis effect="italics">Jardin des Plantes</emphasis> in Paris.</caption></figure></section>
+</section>
+<section id="fs-idp114647952">
+<title>Insectivorous Plants</title>
+<para id="fs-idm61390944">An <term>insectivorous</term> plant has specialized leaves to attract and digest insects. The Venus flytrap is popularly known for its insectivorous mode of nutrition, and has leaves that work as traps (<link target-id="fig-ch31_03_08" document=""/>). The minerals it obtains from prey compensate for those lacking in the boggy (low pH) soil of its native North Carolina coastal plains. There are three sensitive hairs in the center of each half of each leaf. The edges of each leaf are covered with long spines. Nectar secreted by the plant attracts flies to the leaf. When a fly touches the sensory hairs, the leaf immediately closes. Next, fluids and enzymes break down the prey and minerals are absorbed by the leaf. Since this plant is popular in the horticultural trade, it is threatened in its original habitat.</para>
+<figure id="fig-ch31_03_08"><media id="fs-idm77401040" alt="Photo shows a Venus flytrap. Pairs of modified leaves of this plant have the appearance of a mouth. White, hair-like appendages at the opening of the mouth have the appearance of teeth. The mouth can close on unwary insects, trapping them in the teeth.">
+<image mime-type="image/jpg" src="Figure_31_03_08.jpg" width="320"/>
+</media>
+
+<caption>A Venus flytrap has specialized leaves to trap insects. (credit: "Selena N. B. H."/Flickr)</caption></figure></section>
+<section id="fs-idp15406464" class="summary">
+<title>Section Summary</title><para id="fs-idm77189264">Atmospheric nitrogen is the largest pool of available nitrogen in terrestrial ecosystems. However, plants cannot use this nitrogen because they do not have the necessary enzymes. Biological nitrogen fixation (BNF) is the conversion of atmospheric nitrogen to ammonia. The most important source of BNF is the symbiotic interaction between soil bacteria and legumes. The bacteria form nodules on the legume&#8217;s roots in which nitrogen fixation takes place. Fungi form symbiotic associations (mycorrhizae) with plants, becoming integrated into the physical structure of the root. Through mycorrhization, the plant obtains minerals from the soil and the fungus obtains photosynthate from the plant root. Ectomycorrhizae form an extensive dense sheath around the root, while endomycorrhizae are embedded within the root tissue. Some plants&#8212;parasites, saprophytes, symbionts, epiphytes, and insectivores&#8212;have evolved adaptations to obtain their organic or mineral nutrition from various sources.</para></section>
+<section id="fs-idp28606768" class="art-exercise">
+<title>Art Connections</title>
+<exercise id="fs-idm2452752"><problem id="fs-idp57136080">
+<para id="fs-idm97757296"><link target-id="fig-ch31_03_01" document=""/> Farmers often rotate corn (a cereal crop) and soy beans (a legume) planting a field with each crop in alternate seasons. What advantage might this crop rotation confer?</para>
+</problem>
+<solution id="fs-idp16576240">
+<label/>
+<para id="fs-idm114966320"><link target-id="fig-ch31_03_01" document=""/> Soybeans are able to fix nitrogen in their roots, which are not harvested at the end of the growing season. The belowground nitrogen can be used in the next season by the corn.</para>
+</solution>
+</exercise></section>
+<section id="fs-idm62963568" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp83226592">
+<problem id="fs-idm58569856">
+<para id="fs-idp31013456">Which process produces an inorganic compound that plants can easily use?</para>
+<list id="fs-idm6244320" list-type="enumerated" number-style="lower-alpha">
+<item>photosynthesis</item>
+<item>nitrogen fixation</item>
+<item>mycorrhization</item>
+<item>Calvin cycle</item>
+</list>
+</problem>
+<solution id="fs-idm96381872">
+<label/>
+<para id="fs-idm44715200">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idp41382544">
+<problem id="fs-idm54321072">
+<para id="fs-idp83857152">Through mycorrhization, a plant obtains important nutrients such as ________.</para>
+<list id="fs-idm6188112" list-type="enumerated" number-style="lower-alpha">
+<item>phosphorus, zinc, and copper</item>
+<item>phosphorus, zinc, and calcium</item>
+<item>nickel, calcium, and zinc</item>
+<item>all of the above</item>
+</list>
+</problem>
+<solution id="fs-idp20169856">
+<label/>
+<para id="fs-idm64739936">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm132740496">
+<problem id="fs-idp11032624">
+<para id="fs-idp38126208">What term describes a plant that requires nutrition from a living host plant?</para>
+<list id="fs-idm80281488" list-type="enumerated" number-style="lower-alpha">
+<item>parasite</item>
+<item>saprophyte</item>
+<item>epiphyte</item>
+<item>insectivorous</item>
+</list>
+</problem>
+<solution id="fs-idm109596192">
+<label/>
+<para id="fs-idm82326432">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm37456816">
+<problem id="fs-idm97436688">
+<para id="fs-idm94689552">What is the term for the symbiotic association between fungi and cyanobacteria?</para>
+<list id="fs-idm130627184" list-type="enumerated" number-style="lower-alpha">
+<item>lichen</item>
+<item>mycorrhizae</item>
+<item>epiphyte</item>
+<item>nitrogen-fixing nodule</item>
+</list>
+</problem>
+<solution id="fs-idm181935680">
+<label/>
+<para id="fs-idm54320016">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm15045456" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idp32488864">
+<problem id="fs-idp27900432">
+<para id="fs-idp34456720">Why is biological nitrogen fixation an environmentally friendly way of fertilizing plants?</para>
+</problem>
+<solution id="fs-idm62952192">
+<label/>
+<para id="fs-idm75510672">Because it is natural and does not require use of a nonrenewable resource, such as natural gas.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm110822032">
+<problem id="fs-idm118839104">
+<para id="fs-idm72973008">What is the main difference, from an energy point of view, between photosynthesis and biological nitrogen fixation?</para>
+</problem>
+<solution id="fs-idp27905632">
+<label/>
+<para id="fs-idm69529520">Photosynthesis harvests and stores energy, whereas biological nitrogen fixation requires energy.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp108238624">
+<problem id="fs-idp69566064">
+<para id="fs-idm105102272">Why is a root nodule a nutritional adaptation of a plant?</para>
+</problem>
+<solution id="fs-idm71048736">
+<label/>
+<para id="fs-idp60800304">A nodule results from the symbiosis between a plant and bacterium. Within nodules, the process of nitrogen fixation allows the plant to obtain nitrogen from the air.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm35904432">
+<term>epiphyte</term> <meaning id="fs-idp90884976">plant that grows on other plants but is not dependent upon other plants for nutrition</meaning>
+</definition>
+<definition id="fs-idm64614480">
+<term>insectivorous plant</term> <meaning id="fs-idm92651120">plant that has specialized leaves to attract and digest insects</meaning>
+</definition>
+<definition id="fs-idm16315984">
+<term>nitrogenase</term> <meaning id="fs-idm114982656">enzyme that is responsible for the reduction of atmospheric nitrogen to ammonia</meaning>
+</definition>
+<definition id="fs-idm67985360">
+<term>nodules</term> <meaning id="fs-idm144544288">specialized structures that contain <emphasis effect="italics">Rhizobia</emphasis> bacteria where nitrogen fixation takes place</meaning>
+</definition>
+<definition id="fs-idm74914880">
+<term>parasitic plant</term> <meaning id="fs-idp87351408">plant that is dependent on its host for survival</meaning>
+</definition>
+<definition id="fs-idm5695376">
+<term>rhizobia</term> <meaning id="fs-idm107532976">soil bacteria that symbiotically interact with legume roots to form nodules and fix nitrogen</meaning>
+</definition>
+<definition id="fs-idp34706688">
+<term>saprophyte</term> <meaning id="fs-idm48842480">plant that does not have chlorophyll and gets its food from dead matter</meaning>
+</definition>
+<definition id="fs-idp18405728">
+<term>symbiont</term> <meaning id="fs-idm117479168">plant in a symbiotic relationship with bacteria or fungi</meaning>
+</definition>
+</glossary>
+</document>

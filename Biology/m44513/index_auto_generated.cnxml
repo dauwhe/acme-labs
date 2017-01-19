@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>DNA Repair</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml"
+          mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44513/latest</md:content-url>
+  <md:content-id>m44513</md:content-id>
+  <md:title>DNA Repair</md:title>
+  <md:version>1.6</md:version>
+  <md:created>2012/08/23 13:44:24 -0500</md:created>
+  <md:revised>2014/07/08 10:45:49 -0500</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax</md:shortname>
+      <md:fullname>OpenStax</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>deoxyribonucleic acid</md:keyword>
+    <md:keyword>DNA</md:keyword>
+    <md:keyword>DNA function</md:keyword>
+    <md:keyword>DNA repair</md:keyword>
+    <md:keyword>DNA structure</md:keyword>
+    <md:keyword>induced mutation</md:keyword>
+    <md:keyword>mismatch repair</md:keyword>
+    <md:keyword>mutation</md:keyword>
+    <md:keyword>nucleotide excision repair</md:keyword>
+    <md:keyword>point mutation</md:keyword>
+    <md:keyword>proofreading</md:keyword>
+    <md:keyword>silent mutation</md:keyword>
+    <md:keyword>spontaneous mutation</md:keyword>
+    <md:keyword>transition substitution</md:keyword>
+    <md:keyword>transversion substitution</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Discuss the different types of mutations in DNA</item>
+<item>Explain DNA repair mechanisms</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-id1976493">DNA replication is a highly accurate process, but mistakes can occasionally occur, such as a DNA polymerase inserting a wrong base. Uncorrected mistakes may sometimes lead to serious consequences, such as cancer. Repair mechanisms correct the mistakes. In rare cases, mistakes are not corrected, leading to mutations; in other cases, repair enzymes are themselves mutated or defective.</para>
+<para id="fs-id2348700">Most of the mistakes during DNA replication are promptly corrected by DNA polymerase by proofreading the base that has been just added (<link target-id="fig-ch14_06_01" document=""/>). In <term>proofreading</term>, the DNA pol reads the newly added base before adding the next one, so a correction can be made. The polymerase checks whether the newly added base has paired correctly with the base in the template strand. If it is the right base, the next nucleotide is added. If an incorrect base has been added, the enzyme makes a cut at the phosphodiester bond and releases the wrong nucleotide. This is performed by the exonuclease action of DNA pol III. Once the incorrect nucleotide has been removed, a new one will be added again.</para>
+<figure id="fig-ch14_06_01">
+<media id="fs-id2321057" alt="Illustration shows DNA polymerase replicating a strand of DNA. The enzyme has accidentally inserted G opposite A, resulting in a bulge. The enzyme backs up to fix the error.">
+<image mime-type="image/jpg" src="Figure_14_06_01.jpg" width="320"/>
+</media>
+<caption>Proofreading by DNA polymerase corrects errors during replication.</caption></figure>
+<para id="fs-id2186525">Some errors are not corrected during replication, but are instead corrected after replication is completed; this type of repair is known as <term>mismatch repair</term> (<link target-id="fig-ch14_06_02" document=""/>). The enzymes recognize the incorrectly added nucleotide and excise it; this is then replaced by the correct base. If this remains uncorrected, it may lead to more permanent damage. How do mismatch repair enzymes recognize which of the two bases is the incorrect one? In <emphasis effect="italics">E. coli</emphasis>, after replication, the nitrogenous base adenine acquires a methyl group; the parental DNA strand will have methyl groups, whereas the newly synthesized strand lacks them. Thus, DNA polymerase is able to remove the wrongly incorporated bases from the newly synthesized, non-methylated strand. In eukaryotes, the mechanism is not very well understood, but it is believed to involve recognition of unsealed nicks in the new strand, as well as a short-term continuing association of some of the replication proteins with the new daughter strand after replication has completed.</para>
+<figure id="fig-ch14_06_02"><media id="fs-id2025027" alt="The top illustration shows a replicated DNA strand with G-T base mismatch. The bottom illustration shows the repaired DNA, which has the correct G-C base pairing.">
+<image mime-type="image/jpg" src="Figure_14_06_02.jpg" width="250"/>
+</media>
+<caption>In mismatch repair, the incorrectly added base is detected after replication. The mismatch repair proteins detect this base and remove it from the newly synthesized strand by nuclease action. The gap is now filled with the correctly paired base.</caption></figure><para id="fs-id3000290">In another type of repair mechanism, <term>nucleotide excision repair</term>, enzymes replace incorrect bases by making a cut on both the 3' and 5' ends of the incorrect base (<link target-id="fig-ch14_06_03" document=""/>). The segment of DNA is removed and replaced with the correctly paired nucleotides by the action of DNA pol. Once the bases are filled in, the remaining gap is sealed with a phosphodiester linkage catalyzed by DNA ligase. This repair mechanism is often employed when UV exposure causes the formation of pyrimidine dimers.</para>
+<figure id="fig-ch14_06_03"><media id="fs-id1695253" alt="Illustration shows a DNA strand in which a thymine dimer has formed. Excision repair enzyme cut out the section of DNA that contains the dimer so it can be replaced with normal base pairs.">
+<image mime-type="image/jpg" src="Figure_14_06_03.jpg" width="200"/>
+</media>
+<caption>Nucleotide excision repairs thymine dimers. When exposed to UV, thymines lying adjacent to each other can form thymine dimers. In normal cells, they are excised and replaced.</caption></figure><para id="fs-id2078153">A well-studied example of mistakes not being corrected is seen in people suffering from xeroderma pigmentosa (<link target-id="fig-ch14_06_04" document=""/>). Affected individuals have skin that is highly sensitive to UV rays from the sun. When individuals are exposed to UV, pyrimidine dimers, especially those of thymine, are formed; people with xeroderma pigmentosa are not able to repair the damage. These are not repaired because of a defect in the nucleotide excision repair enzymes, whereas in normal individuals, the thymine dimers are excised and the defect is corrected. The thymine dimers distort the structure of the DNA double helix, and this may cause problems during DNA replication. People with xeroderma pigmentosa may have a higher risk of contracting skin cancer than those who dont have the condition.</para><figure id="fig-ch14_06_04"><media id="fs-id2583496" alt="Photo shows a person with mottled skin lesions that result from xermoderma pigmentosa.">
+<image mime-type="image/jpg" src="Figure_14_06_04.jpg" width="320"/>
+</media>
+<caption>Xeroderma pigmentosa is a condition in which thymine dimerization from exposure to UV is not repaired.  Exposure to sunlight results in skin lesions. (credit: James Halpern et al.)</caption></figure><para id="fs-id1310247">Errors during DNA replication are not the only reason why mutations arise in DNA. <term>Mutations</term>, variations in the nucleotide sequence of a genome, can also occur because of damage to DNA. Such mutations may be of two types: induced or spontaneous. <term>Induced mutations</term> are those that result from an exposure to chemicals, UV rays, x-rays, or some other environmental agent. <term>Spontaneous mutations</term> occur without any exposure to any environmental agent; they are a result of natural reactions taking place within the body.</para>
+<para id="fs-id1368727">Mutations may have a wide range of effects. Some mutations are not expressed; these are known as <term>silent mutations</term>. <term>Point mutations</term> are those mutations that affect a single base pair. The most common nucleotide mutations are substitutions, in which one base is replaced by another. These can be of two types, either transitions or transversions. <term>Transition substitution</term> refers to a purine or pyrimidine being replaced by a base of the same kind; for example, a purine such as adenine may be replaced by the purine guanine. <term>Transversion substitution</term> refers to a purine being replaced by a pyrimidine, or vice versa; for example, cytosine, a pyrimidine, is replaced by adenine, a purine. Mutations can also be the result of the addition of a base, known as an insertion, or the removal of a base, also known as deletion. Sometimes a piece of DNA from one chromosome may get translocated to another chromosome or to another region of the same chromosome; this is also known as translocation. These mutation types are shown in <link target-id="fig-ch14_06_05" document=""/>.</para>
+<note id="fs-id2046784" class="art-connection"><label/><title>Art Connection</title>
+<para id="fs-id2216817"><figure id="fig-ch14_06_05"><media id="fs-id2221137" alt="Illustration shows different types of point mutations that result from a single amino acid substitution. In a silent mutation, no change in the amino acid sequence occurs. In a missense mutation, one amino acid is substituted for another. In a nonsense mutation, a stop codon is substituted for an amino acid. In a frameshift mutation, one or more bases is added or deleted, resulting in a change in the reading frame.">
+<image mime-type="image/png" src="Figure_14_06_05.png" width="325"/>
+</media>
+<caption>Mutations can lead to changes in the protein sequence encoded by the DNA.</caption></figure></para>
+<para id="fs-id1813148">A frameshift mutation that results in the insertion of three nucleotides is often less deleterious than a mutation that results in the insertion of one nucleotide. Why?</para>
+</note><para id="fs-id2936137">Mutations in repair genes have been known to cause cancer. Many mutated repair genes have been implicated in certain forms of pancreatic cancer, colon cancer, and colorectal cancer. Mutations can affect either somatic cells or germ cells. If many mutations accumulate in a somatic cell, they may lead to problems such as the uncontrolled cell division observed in cancer. If a mutation takes place in germ cells, the mutation will be passed on to the next generation, as in the case of hemophilia and xeroderma pigmentosa.</para><section id="fs-id2065835" class="summary">
+<title>Section Summary</title><para id="fs-id1242469">DNA polymerase can make mistakes while adding nucleotides. It edits the DNA by proofreading every newly added base. Incorrect bases are removed and replaced by the correct base, and then a new base is added. Most mistakes are corrected during replication, although when this does not happen, the mismatch repair mechanism is employed. Mismatch repair enzymes recognize the wrongly incorporated base and excise it from the DNA, replacing it with the correct base. In yet another type of repair, nucleotide excision repair, the incorrect base is removed along with a few bases on the 5' and 3' end, and these are replaced by copying the template with the help of DNA polymerase. The ends of the newly synthesized fragment are attached to the rest of the DNA using DNA ligase, which creates a phosphodiester bond.</para>
+<para id="fs-id2595588">Most mistakes are corrected, and if they are not, they may result in a mutation defined as a permanent change in the DNA sequence. Mutations can be of many types, such as substitution, deletion, insertion, and translocation. Mutations in repair genes may lead to serious consequences such as cancer. Mutations can be induced or may occur spontaneously.</para>
+</section>
+<section id="fs-idp123953472" class="art-exercise">
+    <title>Art Connections</title>
+    <exercise id="fs-idp163052304">
+        <problem id="fs-idp152472016">
+            <para id="fs-idp131842896"><link target-id="fig-ch14_06_05" document=""/> A frameshift mutation that results in the insertion of three nucleotides is often less deleterious than a mutation that results in the insertion of one nucleotide. Why?</para>
+            </problem>
+        <solution id="fs-idp122564624">
+            <para id="fs-idp74157744"><link target-id="fig-ch14_06_05" document=""/> If three nucleotides are added, one additional amino acid will be incorporated into the protein chain, but the reading frame wont shift.</para></solution>
+    </exercise>
+</section>
+<section id="fs-id2681952" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-id1951731">
+<problem id="fs-id1477381"><para id="fs-id1685167">During proofreading, which of the following enzymes reads the DNA?</para>
+<list id="fs-id2781180" list-type="enumerated" number-style="lower-alpha">
+<item>primase</item>
+<item>topoisomerase</item>
+<item>DNA pol</item>
+<item>helicase</item>
+</list>
+</problem>
+<solution id="fs-id2750351">
+<label/>
+<para id="fs-id1477929">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1414909">
+<problem id="fs-id2415145"><para id="fs-id2073382">The initial mechanism for repairing nucleotide errors in DNA is ________.</para>
+<list id="fs-id1794075" list-type="enumerated" number-style="lower-alpha">
+<item>mismatch repair</item>
+<item>DNA polymerase proofreading</item>
+<item>nucleotide excision repair</item>
+<item>thymine dimers</item>
+</list>
+</problem>
+<solution id="fs-id1837280">
+<label/>
+<para id="fs-id2051151">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id811872" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-id2008893">
+<problem id="fs-id2763212"><para id="fs-id3044550">What is the consequence of mutation of a mismatch repair enzyme? How will this affect the function of a gene?</para></problem>
+<solution id="fs-id1385923"><label/>
+<para id="fs-id1712102">Mutations are not repaired, as in the case of xeroderma pigmentosa. Gene function may be affected or it may not be expressed.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-id1719569"><term>induced mutation</term> <meaning id="fs-id1769884">mutation that results from exposure to chemicals or environmental agents</meaning></definition>
+<definition id="fs-id2199830"><term>mutation</term> <meaning id="fs-id2905083">variation in the nucleotide sequence of a genome</meaning></definition>
+<definition id="fs-id2019618"><term>mismatch repair</term> <meaning id="fs-id2308429">type of repair mechanism in which mismatched bases are removed after replication</meaning></definition>
+<definition id="fs-id2013508"><term>nucleotide excision repair</term> <meaning id="fs-id2689408">type of DNA repair mechanism in which the wrong base, along with a few nucleotides upstream or downstream, are removed</meaning></definition>
+<definition id="fs-id1770263"><term>proofreading</term> <meaning id="fs-id1785888">function of DNA pol in which it reads the newly added base before adding the next one</meaning></definition>
+<definition id="fs-id1560334"><term>point mutation</term> <meaning id="fs-id2186102">mutation that affects a single base</meaning></definition>
+<definition id="fs-id1582545"><term>silent mutation</term> <meaning id="fs-id1595608">mutation that is not expressed</meaning></definition>
+<definition id="fs-id1412270"><term>spontaneous mutation</term> <meaning id="fs-id2926691">mutation that takes place in the cells as a result of chemical reactions taking place naturally without exposure to any external agent</meaning></definition>
+<definition id="fs-id2137494"><term>transition substitution</term> <meaning id="fs-id1693442">when a purine is replaced with a purine or a pyrimidine is replaced with another pyrimidine</meaning></definition>
+<definition id="fs-id1450506"><term>transversion substitution</term> <meaning id="fs-id1506870">when a purine is replaced by a pyrimidine or a pyrimidine is replaced by a purine</meaning></definition>
+</glossary>
+
+</document>

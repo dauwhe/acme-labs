@@ -1,0 +1,275 @@
+<?xml version="1.0"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Systems of Gas Exchange</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml"
+          mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://legacy.cnx.org/content</md:repository>
+  <md:content-url>http://legacy.cnx.org/content/m44792/latest/</md:content-url>
+  <md:content-id>m44792</md:content-id>
+  <md:title>Systems of Gas Exchange</md:title>
+  <md:version>1.10</md:version>
+  <md:created>2012/08/23 10:47:11 -0500</md:created>
+  <md:revised>2015/01/05 11:53:13.672 US/Central</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>acini</md:keyword>
+    <md:keyword>acinus</md:keyword>
+    <md:keyword>air sacs</md:keyword>
+    <md:keyword>alveolar duct</md:keyword>
+    <md:keyword>alveolar sac</md:keyword>
+    <md:keyword>alveoli</md:keyword>
+    <md:keyword>alveolus</md:keyword>
+    <md:keyword>bronchi</md:keyword>
+    <md:keyword>bronchiole</md:keyword>
+    <md:keyword>bronchus</md:keyword>
+    <md:keyword>cartilage</md:keyword>
+    <md:keyword>chitin</md:keyword>
+    <md:keyword>cilia</md:keyword>
+    <md:keyword>diaphragm</md:keyword>
+    <md:keyword>diffusion</md:keyword>
+    <md:keyword>direct diffusion</md:keyword>
+    <md:keyword>flatworm</md:keyword>
+    <md:keyword>gills</md:keyword>
+    <md:keyword>larynx</md:keyword>
+    <md:keyword>main bronchus</md:keyword>
+    <md:keyword>mucin</md:keyword>
+    <md:keyword>Muc protein</md:keyword>
+    <md:keyword>mucus</md:keyword>
+    <md:keyword>nasal cavity</md:keyword>
+    <md:keyword>particulate matter</md:keyword>
+    <md:keyword>pharynx</md:keyword>
+    <md:keyword>primary bronchus</md:keyword>
+    <md:keyword>respiratory bronchiole</md:keyword>
+    <md:keyword>smooth muscle</md:keyword>
+    <md:keyword>terminal bronchiole</md:keyword>
+    <md:keyword>trachea</md:keyword>
+    <md:keyword>tracheal system</md:keyword>
+    <md:keyword>Ventricaria ventricosa</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the passage of air from the outside environment to the lungs</item>
+<item>Explain how the lungs are protected from particulate matter</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idm73806576">The primary function of the respiratory system is to deliver oxygen to the cells of the body’s tissues and remove carbon dioxide, a cell waste product. The main structures of the human respiratory system are the nasal cavity, the trachea, and lungs.</para>
+<para id="fs-idm7613568">All aerobic organisms require oxygen to carry out their metabolic functions. Along the evolutionary tree, different organisms have devised different means of obtaining oxygen from the surrounding atmosphere. The environment in which the animal lives greatly determines how an animal respires. The complexity of the respiratory system is correlated with the size of the organism. As animal size increases, diffusion distances increase and the ratio of surface area to volume drops. In unicellular organisms, diffusion across the cell membrane is sufficient for supplying oxygen to the cell (<link target-id="fig-ch39_01_01" document=""/>). Diffusion is a slow, passive transport process. In order for diffusion to be a feasible means of providing oxygen to the cell, the rate of oxygen uptake must match the rate of diffusion across the membrane. In other words, if the cell were very large or thick, diffusion would not be able to provide oxygen quickly enough to the inside of the cell. Therefore, dependence on diffusion as a means of obtaining oxygen and removing carbon dioxide remains feasible only for small organisms or those with highly-flattened bodies, such as many flatworms (Platyhelminthes). Larger organisms had to evolve specialized respiratory tissues, such as gills, lungs, and respiratory passages accompanied by complex circulatory systems, to transport oxygen throughout their entire body. </para><figure id="fig-ch39_01_01" class=" "><media id="fs-idp28988480" alt="The photo shows a round, green cell with a smooth, shiny surface. The cell resembles a balloon.">
+<image mime-type="image/jpg" src="Figure_39_01_01.jpg" width="255"/>
+</media>
+<caption>The cell of the unicellular algae <emphasis effect="italics">Ventricaria ventricosa</emphasis> is one of the largest known, reaching one to five centimeters in diameter. Like all single-celled organisms, <emphasis effect="italics">V. ventricosa</emphasis> exchanges gases across the cell membrane.</caption></figure><section id="fs-idm132998432">
+<title> Direct Diffusion</title>
+<para id="fs-idm5962816">For small multicellular organisms, diffusion across the outer membrane is sufficient to meet their oxygen needs. Gas exchange by direct diffusion across surface membranes is efficient for organisms less than 1 mm in diameter. In simple organisms, such as cnidarians and flatworms, every cell in the body is close to the external environment. Their cells are kept moist and gases diffuse quickly via direct diffusion. Flatworms are small, literally flat worms, which ‘breathe’ through diffusion across the outer membrane (<link target-id="fig-ch39_01_02" document=""/>). The flat shape of these organisms increases the surface area for diffusion, ensuring that each cell within the body is close to the outer membrane surface and has access to oxygen. If the flatworm had a cylindrical body, then the cells in the center would not be able to get oxygen.</para>
+<figure id="fig-ch39_01_02" class=" "><media id="fs-idp118082464" alt="The photo shows a worm with a flat, ribbon-like body, resting on sand. The worm is black with white spots.">
+<image mime-type="image/jpg" src="Figure_39_01_02.jpg" width="280"/>
+</media>
+<caption>This flatworm’s process of respiration works by diffusion across the outer membrane. (credit: Stephen Childs)</caption></figure></section>
+<section id="fs-idm206334208">
+<title>Skin and Gills</title>
+<para id="fs-idm101993744">Earthworms and amphibians use their skin (integument) as a respiratory organ. A dense network of capillaries lies just below the skin and facilitates gas exchange between the external environment and the circulatory system. The respiratory surface must be kept moist in order for the gases to dissolve and diffuse across cell membranes.</para>
+<para id="fs-idm88563952">Organisms that live in water need to obtain oxygen from the water. Oxygen dissolves in water but at a lower concentration than in the atmosphere. The atmosphere has roughly 21 percent oxygen. In water, the oxygen concentration is much smaller than that. Fish and many other aquatic organisms have evolved gills to take up the dissolved oxygen from water (<link target-id="fig-ch39_01_03" document=""/>). Gills are thin tissue filaments that are highly branched and folded. When water passes over the gills, the dissolved oxygen in water rapidly diffuses across the gills into the bloodstream. The circulatory system can then carry the oxygenated blood to the other parts of the body. In animals that contain coelomic fluid instead of blood, oxygen diffuses across the gill surfaces into the coelomic fluid. Gills are found in mollusks, annelids, and crustaceans.</para>
+<figure id="fig-ch39_01_03" class=" "><media id="fs-idp40423632" alt="The photo shows a carp with a wedge of skin at the back of the head cut away, revealing pink gills.">
+<image mime-type="image/jpg" src="Figure_39_01_03.jpg" width="320"/>
+</media>
+<caption>This common carp, like many other aquatic organisms, has gills that allow it to obtain oxygen from water. (credit: "Guitardude012"/Wikimedia Commons)</caption></figure><para id="fs-idp117186384">The folded surfaces of the gills provide a large surface area to ensure that the fish gets sufficient oxygen. Diffusion is a process in which material travels from regions of high concentration to low concentration until equilibrium is reached. In this case, blood with a low concentration of oxygen molecules circulates through the gills. The concentration of oxygen molecules in water is higher than the concentration of oxygen molecules in gills. As a result, oxygen molecules diffuse from water (high concentration) to blood (low concentration), as shown in <link target-id="fig-ch39_01_04" document=""/>. Similarly, carbon dioxide molecules in the blood diffuse from the blood (high concentration) to water (low concentration).</para>
+<figure id="fig-ch39_01_04" class=" "><media id="fs-idp134805568" alt="The illustration shows a fish, with a box indicating the location of the gills, behind the head. A close-up image shows the gills, each of which resembles a feathery worm. Two stacks of gills attach to a structure called a columnar gill arch, forming a tall V. Water travels in from the outside of the V, between each gill, then travels out of the top of the V. Veins travel into the gill from the base of the gill arch, and arteries travel back out on the opposite side. A close-up image of a single gill shows that water travels over the gill, passing over deoxygenated veins first, then over oxygenated arteries.">
+<image mime-type="image/jpg" src="Figure_39_01_04.jpg" width="575"/>
+</media>
+<caption>As water flows over the gills, oxygen is transferred to blood via the veins. (credit "fish": modification of work by Duane Raver, NOAA)</caption></figure></section>
+<section id="fs-idp103936496">
+<title>Tracheal Systems</title>
+<para id="fs-idm89959488">Insect respiration is independent of its circulatory system; therefore, the blood does not play a direct role in oxygen transport. Insects have a highly specialized type of respiratory system called the tracheal system, which consists of a network of small tubes that carries oxygen to the entire body. The tracheal system is the most direct and efficient respiratory system in active animals. The tubes in the tracheal system are made of a polymeric material called chitin.</para>
+<para id="fs-idp104515472">Insect bodies have openings, called spiracles, along the thorax and abdomen. These openings connect to the tubular network, allowing oxygen to pass into the body (<link target-id="fig-ch39_01_05" document=""/>) and regulating the diffusion of CO<sub>2</sub> and water vapor. Air enters and leaves the tracheal system through the spiracles. Some insects can ventilate the tracheal system with body movements.</para><figure id="fig-ch39_01_05" class=" "><media id="fs-idm41776096" alt="The illustration shows the tracheal system of a bee. Openings called spiracles appear along the side of the body. Vertical tubes lead from the spiracles to a tube that runs along the top of the body from front to back.">
+<image mime-type="image/jpg" src="Figure_39_01_05.jpg" width="395"/>
+</media>
+
+<caption>Insects perform respiration via a tracheal system.</caption></figure></section>
+<section id="fs-idm69292144">
+<title>Mammalian Systems</title>
+<para id="fs-idm102166640">In mammals, pulmonary ventilation occurs via inhalation (breathing). During inhalation, air enters the body through the <term>nasal cavity</term> located just inside the nose (<link target-id="fig-ch39_01_06" document=""/>). As air passes through the nasal cavity, the air is warmed to body temperature and humidified. The respiratory tract is coated with mucus to seal the tissues from direct contact with air. Mucus is high in water. As air crosses these surfaces of the mucous membranes, it picks up water. These processes help equilibrate the air to the body conditions, reducing any damage that cold, dry air can cause. Particulate matter that is floating in the air is removed in the nasal passages via mucus and cilia. The processes of warming, humidifying, and removing particles are important protective mechanisms that prevent damage to the trachea and lungs. Thus, inhalation serves several purposes in addition to bringing oxygen into the respiratory system.</para>
+<note id="fs-idm59073280" class="art-connection"><label/><title>Art Connection</title>
+<figure id="fig-ch39_01_06" class=" "><media id="fs-idp135464960" alt="The illustration shows the flow of air through the human respiratory system. The nasal cavity is a wide cavity above and behind the nostrils, and the pharynx is the passageway behind the mouth. The nasal cavity and pharynx join and enter the trachea through the larynx. The larynx is somewhat wider than the trachea and flat. The trachea has concentric, ring-like grooves, giving it a bumpy appearance. The trachea bifurcates into two primary bronchi, which are also grooved. The primary bronchi enter the lungs, and branch into secondary bronchi. The secondary bronchi in turn branch into many tertiary bronchi. The tertiary bronchi branch into bronchioles, which branch into terminal bronchioles. Each terminal bronchiole ends in an alveolar sac. Each alveolar sac contains many alveoli clustered together, like bunches of grapes. The alveolar duct is the air passage into the alveolar sac. The alveoli are hollow, and air empties into them. Pulmonary arteries bring deoxygenated blood to the alveolar sac (and thus appear blue), and pulmonary veins return oxygenated blood (and thus appear red) to the heart. Capillaries form a web around each alveolus. The diaphragm is a membrane that pushes up against the lungs.">
+<image mime-type="image/jpg" src="Figure_39_01_06.png" width="280"/>
+</media>
+
+<caption>Air enters the respiratory system through the nasal cavity and pharynx, and then passes through the trachea and into the bronchi, which bring air into the lungs. (credit: modification of work by NCI)</caption></figure><para id="fs-idm87106608">Which of the following statements about the mammalian respiratory system is false?</para>
+      <list id="fs-idm134467392" list-type="enumerated" number-style="lower-alpha">
+          <item>When we breathe in, air travels from the pharynx to the trachea.</item>
+      <item>The bronchioles branch into bronchi.</item>
+      <item>Alveolar ducts connect to alveolar sacs.</item>
+      <item>Gas exchange between the lung and blood takes place in the alveolus.</item>
+      </list>
+<!--<para><link target-id="fig-ch39_01_06" document=""/> B</para>-->
+</note><para id="fs-idm10634816">From the nasal cavity, air passes through the <term>pharynx</term> (throat) and the <term>larynx</term> (voice box), as it makes its way to the <term>trachea</term> (<link target-id="fig-ch39_01_06" document=""/>). The main function of the trachea is to funnel the inhaled air to the lungs and the exhaled air back out of the body. The human trachea is a cylinder about 10 to 12 cm long and 2 cm in diameter that sits in front of the esophagus and extends from the larynx into the chest cavity where it divides into the two primary bronchi at the midthorax. It is made of incomplete rings of hyaline cartilage and smooth muscle (<link target-id="fig-ch39_01_07" document=""/>). The trachea is lined with mucus-producing goblet cells and ciliated epithelia. The cilia propel foreign particles trapped in the mucus toward the pharynx. The cartilage provides strength and support to the trachea to keep the passage open. The smooth muscle can contract, decreasing the trachea’s diameter, which causes expired air to rush upwards from the lungs at a great force. The forced exhalation helps expel mucus when we cough. Smooth muscle can contract or relax, depending on stimuli from the external environment or the body’s nervous system.</para>
+<figure id="fig-ch39_01_07" class=" "><media id="fs-idp5558720" alt="The illustration shows the trachea, or windpipe. The larynx is a wide collar at the top of the trachea. At the bottom, the trachea bifurcates into smaller tubes, called primary bronchi, which enter the right and left lungs. Inside the lungs, the bronchi branch into primary and secondary bronchi, then into bronchioles.">
+<image mime-type="image/jpg" src="Figure_39_01_07.jpg" width="295"/>
+</media>
+<caption>The trachea and bronchi are made of incomplete rings of cartilage. (credit: modification of work by Gray's Anatomy)</caption></figure><section id="fs-idp71400864">
+<title>Lungs: Bronchi and Alveoli</title>
+<para id="fs-idm61970592">The end of the trachea bifurcates (divides) to the right and left lungs. The lungs are not identical. The right lung is larger and contains three lobes, whereas the smaller left lung contains two lobes (<link target-id="fig-ch39_01_08" document=""/>). The muscular <term>diaphragm</term>, which facilitates breathing, is inferior to (below) the lungs and marks the end of the thoracic cavity.</para><figure id="fig-ch39_01_08" class=" "><media id="fs-idm124105344" alt="The illustration shows the trachea, which starts at the top of the neck and continues down into the chest, where it branches into the bronchi, which enter the lungs. The left lung has two lobes. The upper lobe is located in front of and above the lower lobe. The right lung has three lobes. The upper lobe is on the top, the lower lobe is on the bottom, and the middle lobe is sandwiched between them. The diaphragm presses against the bottom of the lungs and has the appearance of skin stretched over the top of a drum. Wide flaps of the diaphragm extend downward on the front left and right sides of the body. On the back, thin flaps of diaphragm stretch downward on either side of the spine.">
+<image mime-type="image/jpg" src="Figure_39_01_08.jpg" width="320"/>
+</media>
+<caption>The trachea bifurcates into the right and left bronchi in the lungs. The right lung is made of three lobes and is larger. To accommodate the heart, the left lung is smaller and has only two lobes.</caption></figure><para id="fs-idp92540672">In the lungs, air is diverted into smaller and smaller passages, or <term>bronchi</term>. Air enters the lungs through the two <term>primary (main) bronchi</term> (singular: bronchus). Each bronchus divides into secondary bronchi, then into tertiary bronchi, which in turn divide, creating smaller and smaller diameter <term>bronchioles</term> as they split and spread through the lung. Like the trachea, the bronchi are made of cartilage and smooth muscle. At the bronchioles, the cartilage is replaced with elastic fibers. Bronchi are innervated by nerves of both the parasympathetic and sympathetic nervous systems that control muscle contraction (parasympathetic) or relaxation (sympathetic) in the bronchi and bronchioles, depending on the nervous system’s cues. In humans, bronchioles with a diameter smaller than 0.5 mm are the <term>respiratory bronchioles</term>. They lack cartilage and therefore rely on inhaled air to support their shape. As the passageways decrease in diameter, the relative amount of smooth muscle increases.</para><para id="fs-idm13298864">The <term>terminal bronchioles</term> subdivide into microscopic branches called respiratory bronchioles. The respiratory bronchioles subdivide into several alveolar ducts. Numerous alveoli and alveolar sacs surround the alveolar ducts. The alveolar sacs resemble bunches of grapes tethered to the end of the bronchioles (<link target-id="fig-ch39_01_09" document=""/>). In the acinar region, the <term>alveolar ducts</term> are attached to the end of each bronchiole. At the end of each duct are approximately 100 <term>alveolar sacs</term>, each containing 20 to 30 <term>alveoli</term> that are 200 to 300 microns in diameter. Gas exchange occurs only in alveoli. Alveoli are made of thin-walled parenchymal cells, typically one-cell thick, that look like tiny bubbles within the sacs. Alveoli are in direct contact with capillaries (one-cell thick) of the circulatory system. Such intimate contact ensures that oxygen will diffuse from alveoli into the blood and be distributed to the cells of the body. In addition, the carbon dioxide that was produced by cells as a waste product will diffuse from the blood into alveoli to be exhaled. The anatomical arrangement of capillaries and alveoli emphasizes the structural and functional relationship of the respiratory and circulatory systems. Because there are so many alveoli (~300 million per lung) within each alveolar sac and so many sacs at the end of each alveolar duct, the lungs have a sponge-like consistency. This organization produces a very large surface area that is available for gas exchange. The surface area of alveoli in the lungs is approximately 75 m<sup>2</sup>. This large surface area, combined with the thin-walled nature of the alveolar parenchymal cells, allows gases to easily diffuse across the cells.</para>
+<figure id="fig-ch39_01_09" class=" "><media id="fs-idm121408416" alt="The illustration shows a terminal bronchial tube branching into three alveolar ducts. At the end of each duct is an alveolar sac made up of 20 to 30 alveoli clustered together, like grapes. The airspace in the middle of the alveolar sac, called the atrium, is continuous with the air space inside the alveolus so that air can circulate from the atrium to the alveolus. Capillaries surround each alveolus, and this is where gas exchange occurs. A pulmonary artery (shown in blue) runs along the terminal bronchiole, bringing deoxygenated blood from the heart to the alveoli. A pulmonary vein (shown in red) running along the bronchiole brings oxygenated blood back to the heart. Small, flat mucous glands are associated with the outside of the bronchial tubes.">
+<image mime-type="image/jpg" src="Figure_39_01_09.jpg" width="575"/>
+</media>
+<caption>Terminal bronchioles are connected by respiratory bronchioles to alveolar ducts and alveolar sacs. Each alveolar sac contains 20 to 30 spherical alveoli and has the appearance of a bunch of grapes. Air flows into the atrium of the alveolar sac, then circulates into alveoli where gas exchange occurs with the capillaries. Mucous glands secrete mucous into the airways, keeping them moist and flexible. (credit: modification of work by Mariana Ruiz Villareal)</caption></figure><note id="fs-idm57421024" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idm66824288" alt="QR Code representing a URL">
+<image mime-type="image/png" src="lungs_pulmonary.png" width="120"/>
+</media>
+<para id="fs-idm160014560">Watch the following <link window="new" url="http://openstaxcollege.org/l/lungs_pulmonary">video</link> to review the respiratory system.</para>
+</note></section>
+</section>
+<section id="fs-idp175658640">
+<title>Protective Mechanisms</title>
+<para id="fs-idp65242464">The air that organisms breathe contains <term>particulate matter</term> such as dust, dirt, viral particles, and bacteria that can damage the lungs or trigger allergic immune responses. The respiratory system contains several protective mechanisms to avoid problems or tissue damage. In the nasal cavity, hairs and mucus trap small particles, viruses, bacteria, dust, and dirt to prevent their entry.</para>
+<para id="fs-idm26432464">If particulates do make it beyond the nose, or enter through the mouth, the bronchi and bronchioles of the lungs also contain several protective devices. The lungs produce <term>mucus</term>—a sticky substance made of <term>mucin</term>, a complex glycoprotein, as well as salts and water—that traps particulates. The bronchi and bronchioles contain cilia, small hair-like projections that line the walls of the bronchi and bronchioles (<link target-id="fig-ch39_01_10" document=""/>). These cilia beat in unison and move mucus and particles out of the bronchi and bronchioles back up to the throat where it is swallowed and eliminated via the esophagus.</para>
+<para id="fs-idp11936080">In humans, for example, tar and other substances in cigarette smoke destroy or paralyze the cilia, making the removal of particles more difficult. In addition, smoking causes the lungs to produce more mucus, which the damaged cilia are not able to move. This causes a persistent cough, as the lungs try to rid themselves of particulate matter, and makes smokers more susceptible to respiratory ailments.</para>
+<figure id="fig-ch39_01_10" class=" "><media id="fs-idp33548672" alt="In this micrograph, cilia are long, thin, hairlike projections.">
+<image mime-type="image/jpg" src="Figure_39_01_10.jpg" width="255"/>
+</media>
+<caption>The bronchi and bronchioles contain cilia that help move mucus and other particles out of the lungs. (credit: Louisa Howard, modification of work by Dartmouth Electron Microscope Facility)</caption></figure></section>
+<section id="fs-idm22961184" class="summary">
+<title>Section Summary</title><para id="fs-idm50464832">Animal respiratory systems are designed to facilitate gas exchange. In mammals, air is warmed and humidified in the nasal cavity. Air then travels down the pharynx, through the trachea, and into the lungs. In the lungs, air passes through the branching bronchi, reaching the respiratory bronchioles, which house the first site of gas exchange. The respiratory bronchioles open into the alveolar ducts, alveolar sacs, and alveoli. Because there are so many alveoli and alveolar sacs in the lung, the surface area for gas exchange is very large. Several protective mechanisms are in place to prevent damage or infection. These include the hair and mucus in the nasal cavity that trap dust, dirt, and other particulate matter before they can enter the system. In the lungs, particles are trapped in a mucus layer and transported via cilia up to the esophageal opening at the top of the trachea to be swallowed.</para>
+    </section>
+<section id="fs-idp140495168" class="art-exercise">
+<exercise id="fs-idp35699408">
+    <problem id="fs-idp7138096">
+        <para id="fs-idm86891728"><link target-id="fig-ch39_01_06" document=""/> Which of the following statements about the mammalian respiratory system is false?</para>
+      <list id="fs-idm86953056" list-type="enumerated" number-style="lower-alpha">
+          <item>When we breathe in, air travels from the pharynx to the trachea.</item>
+      <item>The bronchioles branch into bronchi.</item>
+      <item>Alveolar ducts connect to alveolar sacs.</item>
+      <item>Gas exchange between the lung and blood takes place in the alveolus.</item>
+      </list>
+    </problem>
+<solution id="fs-idp38522512">
+    <label/>
+    <para id="fs-idm89522096"><link target-id="fig-ch39_01_06" document=""/> B</para></solution></exercise>
+</section>
+<section id="fs-idm141184192" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm57160400">
+<problem id="fs-idm101544656"><para id="fs-idp33548368">The respiratory system ________.</para>
+<list id="fs-idm129188480" list-type="enumerated" number-style="lower-alpha">
+<item>provides body tissues with oxygen</item>
+<item>provides body tissues with oxygen and carbon dioxide</item>
+<item>establishes how many breaths are taken per minute</item>
+<item>provides the body with carbon dioxide</item>
+</list>
+</problem>
+<solution id="fs-idm127961504">
+<label/>
+<para id="fs-idm82796864">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idp72164784">
+<problem id="fs-idp20721104"><para id="fs-idp19566304">Air is warmed and humidified in the nasal passages. This helps to ________.</para>
+<list id="fs-idm50578528" list-type="enumerated" number-style="lower-alpha">
+<item>ward off infection</item>
+<item>decrease sensitivity during breathing</item>
+<item>prevent damage to the lungs</item>
+<item>all of the above</item>
+</list>
+</problem>
+<solution id="fs-idp25526144">
+<label/>
+<para id="fs-idm10178528">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idp19628544">
+<problem id="fs-idp80334128"><para id="fs-idp22214064">Which is the order of airflow during inhalation?</para>
+<list id="fs-idm70191024" list-type="enumerated" number-style="lower-alpha">
+<item>nasal cavity, trachea, larynx, bronchi, bronchioles, alveoli</item>
+<item>nasal cavity, larynx, trachea, bronchi, bronchioles, alveoli</item>
+<item>nasal cavity, larynx, trachea, bronchioles, bronchi, alveoli</item>
+<item>nasal cavity, trachea, larynx, bronchi, bronchioles, alveoli</item>
+</list>
+</problem>
+<solution id="fs-idp29394720">
+<label/>
+<para id="fs-idm23944464">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm49321344" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idp14167264">
+<problem id="fs-idm16327200"><para id="fs-idp75341568">Describe the function of these terms and describe where they are located: main bronchus, trachea, alveoli, and acinus.</para></problem>
+<solution id="fs-idm9111728"><label/>
+<para id="fs-idm5032096">The main bronchus is the conduit in the lung that funnels air to the airways where gas exchange occurs. The main bronchus attaches the lungs to the very end of the trachea where it bifurcates. The trachea is the cartilaginous structure that extends from the pharynx to the primary bronchi. It serves to funnel air to the lungs. The alveoli are the sites of gas exchange; they are located at the terminal regions of the lung and are attached to the  respiratory bronchioles. The acinus is the structure in the lung where gas exchange occurs.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm49856704">
+<problem id="fs-idm41048416"><para id="fs-idm145948960">How does the structure of alveoli maximize gas exchange?</para></problem>
+<solution id="fs-idm89298544"><label/>
+<para id="fs-idp32613920">The sac-like structure of the alveoli increases their surface area. In addition, the alveoli are made of thin-walled parenchymal cells. These features allow gases to easily diffuse across the cells.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm60838720">
+<term>alveolar duct</term> <meaning id="fs-idm38707056"> duct that extends from the terminal bronchiole to the alveolar sac</meaning>
+</definition>
+<definition id="fs-idm76207904">
+<term>alveolar sac</term> <meaning id="fs-idp13074624">structure  consisting of two or more alveoli that share a common opening</meaning>
+</definition>
+<definition id="fs-idp61947696">
+<term>alveolus</term> <meaning id="fs-idm105796720">(plural: alveoli) (also, air sac) terminal region of the lung where gas exchange occurs</meaning>
+</definition>
+<definition id="fs-idm94002592">
+<term>bronchus</term> <meaning id="fs-idp99986864">(plural: bronchi) smaller branch of cartilaginous tissue that stems off of the trachea; air is funneled through the bronchi to the region where gas exchange occurs in alveoli</meaning></definition>
+<definition id="fs-idp98905168"><term>bronchiole</term> <meaning id="fs-idm15601040">airway that extends from the main tertiary bronchi to the alveolar sac</meaning></definition>
+<definition id="fs-idp117189600"><term>diaphragm</term> <meaning id="fs-idm144195744">domed-shaped skeletal muscle located under lungs that separates the thoracic cavity from the abdominal cavity</meaning></definition>
+<definition id="fs-idm48930336"><term>larynx</term> <meaning id="fs-idm49688704">voice box,  a short passageway connecting the pharynx and the trachea</meaning></definition>
+<definition id="fs-idm108619056"><term>mucin</term> <meaning id="fs-idp91814592">complex glycoprotein found in mucus</meaning></definition>
+<definition id="fs-idm85913680"><term>mucus</term> <meaning id="fs-idp134806016">sticky protein-containing  fluid secretion in the lung that traps particulate matter to be expelled from the body</meaning></definition>
+<definition id="fs-idm70259792"><term>nasal cavity</term> <meaning id="fs-idp101674960">opening of the respiratory system to the outside environment</meaning></definition>
+<definition id="fs-idp25700304"><term>particulate matter</term> <meaning id="fs-idp28818560">small particle such as dust, dirt, viral particles, and bacteria that are in the air</meaning></definition>
+<definition id="fs-idm93662016"><term>pharynx</term> <meaning id="fs-idm144158496">throat; a tube that starts in the internal nares and runs partway down the neck, where it opens into the esophagus and the larynx</meaning></definition>
+<definition id="fs-idm108546704"><term>primary bronchus</term> <meaning id="fs-idp66838848">(also, main bronchus) region of the airway within the lung that attaches to the trachea and bifurcates to each lung where it branches into secondary bronchi</meaning></definition>
+<definition id="fs-idm30409984"><term>respiratory bronchiole</term> <meaning id="fs-idm87565776">terminal portion of the bronchiole tree that is attached to the terminal bronchioles and  alveoli ducts, alveolar sacs, and alveoli</meaning></definition>
+<definition id="fs-idm69437136"><term>terminal bronchiole</term> <meaning id="fs-idm140043920">region of bronchiole that attaches to the  respiratory bronchioles</meaning></definition>
+<definition id="fs-idm123879632"><term>trachea</term> <meaning id="fs-idp11568752">cartilaginous tube that transports air from the  larynx to the  primary bronchi</meaning></definition>
+</glossary>
+</document>

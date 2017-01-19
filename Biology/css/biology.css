@@ -1,0 +1,16 @@
+
+*[data-type=document-title] {
+font-size: 2em;
+text-align: center;
+margin: 2em 0;
+}
+
+
+*[data-number-style=lower-alpha] {
+list-style-type: lower-alpha;
+}
+
+
+*[data-type=solution] {
+display: none;
+}

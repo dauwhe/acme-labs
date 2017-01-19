@@ -1,0 +1,164 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Applying Genomics</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44560/latest/</md:content-url>
+  <md:content-id>m44560</md:content-id>
+  <md:title>Applying Genomics</md:title>
+  <md:version>1.5</md:version>
+  <md:created>2012/08/23 14:05:23 -0500</md:created>
+  <md:revised>2013/04/11 13:19:42.830 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>biotechnology</md:keyword>
+    <md:keyword>disease prediction</md:keyword>
+    <md:keyword>genomics</md:keyword>
+    <md:keyword>metagenomics</md:keyword>
+    <md:keyword>microbial genomics</md:keyword>
+    <md:keyword>mitochondrial genomics</md:keyword>
+    <md:keyword>pharmacogenomics</md:keyword>
+    <md:keyword>polygenic</md:keyword>
+    <md:keyword>pure culture</md:keyword>
+    <md:keyword>toxicogenomics</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain pharmacogenomics</item>
+<item>Define polygenic</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-id2781391">The introduction of DNA sequencing and whole genome sequencing projects, particularly the Human Genome project, has expanded the applicability of DNA sequence information. Genomics is now being used in a wide variety of fields, such as metagenomics, pharmacogenomics, and mitochondrial genomics. The most commonly known application of genomics is to understand and find cures for diseases.</para>
+<section id="fs-id1907999">
+<title>Predicting Disease Risk at the Individual Level</title>
+<para id="fs-id2025320">Predicting the risk of disease involves screening currently healthy individuals by genome analysis at the individual level. Intervention with lifestyle changes and drugs can be recommended before disease onset. However, this approach is most applicable when the problem resides within a single gene defect. Such defects only account for approximately 5 percent of diseases in developed countries. Most of the common diseases, such as heart disease, are multi-factored or <term>polygenic</term>, which is a phenotypic characteristic that involves two or more genes, and also involve environmental factors such as diet. In April 2010, scientists at Stanford University published the genome analysis of a healthy individual (Stephen Quake, a scientist at Stanford University, who had his genome sequenced); the analysis predicted his propensity to acquire various diseases. A risk assessment was performed to analyze Quake&#8217;s percentage of risk for 55 different medical conditions. A rare genetic mutation was found, which showed him to be at risk for sudden heart attack. He was also predicted to have a 23 percent risk of developing prostate cancer and a 1.4 percent risk of developing Alzheimer&#8217;s. The scientists used databases and several publications to analyze the genomic data. Even though genomic sequencing is becoming more affordable and analytical tools are becoming more reliable, ethical issues surrounding genomic analysis at a population level remain to be addressed.</para>
+<note id="fs-id2763612" class="art-connection"><label/><title>Art Connection</title>
+<para id="fs-idp116430976"><figure id="fig-ch17_04_01"><media id="fs-id2009548" alt="The PCA3 test occurs in three steps. In step one, PCA3 mRNA anneals to complementary DNA primers that are attached to beads. In step two, the mRNA is amplified using reverse-transcriptase PCR. In step three, the mRNA is detected using a chemiluminescent probe.">
+<image mime-type="image/png" src="Figure_B17_02_02.png" width="325"/>
+</media>
+<caption><emphasis effect="italics">PCA3</emphasis> is a gene that is expressed in prostate epithelial cells and overexpressed in cancerous cells. A high concentration of <emphasis effect="italics">PCA3</emphasis> in urine is indicative of prostate cancer. The <emphasis effect="italics">PCA3</emphasis> test is considered to be a better indicator of cancer than the more well know PSA test, which measures the level of PSA (prostate-specific antigen) in the blood.</caption></figure></para>
+<para id="fs-id1433219">In 2011, the United States Preventative Services Task Force recommended against using the PSA test to screen healthy men for prostate cancer. Their recommendation is based on evidence that screening does not reduce the risk of death from prostate cancer. Prostate cancer often develops very slowly and does not cause problems, while the cancer treatment can have severe side effects. The <emphasis effect="italics">PCA3</emphasis> test is considered to be more accurate, but screening may still result in men who would not have been harmed by the cancer itself suffering side effects from treatment. What do you think? Should all healthy men be screened for prostate cancer using the <emphasis effect="italics">PCA3</emphasis> or PSA test? Should people in general be screened to find out if they have a genetic risk for cancer or other diseases?</para>
+<!-- <link window="new"  target-id="fig-ch17_04_01" document=""/> There are no right or wrong answers to these questions. While it is true that prostate cancer treatment itself can be harmful, many men would rather be aware that they have cancer so they can monitor the disease and begin treatment if it progresses. And while genetic screening may be useful, it is expensive and may cause needless worry. People with certain risk factors may never develop the disease, and preventative treatments may do more harm than good. --></note></section>
+
+<section id="fs-id1405801">
+<title>Pharmacogenomics and Toxicogenomics</title>
+<para id="fs-id2120976"><term>Pharmacogenomics</term>, also called toxicogenomics, involves evaluating the effectiveness and safety of drugs on the basis of information from an individual's genomic sequence. Genomic responses to drugs can be studied using experimental animals (such as laboratory rats or mice) or live cells in the laboratory before embarking on studies with humans. Studying changes in gene expression could provide information about the transcription profile in the presence of the drug, which can be used as an early indicator of the potential for toxic effects. For example, genes involved in cellular growth and controlled cell death, when disturbed, could lead to the growth of cancerous cells. Genome-wide studies can also help to find new genes involved in drug toxicity. Personal genome sequence information can be used to prescribe medications that will be most effective and least toxic on the basis of the individual patient&#8217;s genotype. The gene signatures may not be completely accurate, but can be tested further before pathologic symptoms arise.</para>
+</section>
+
+<section id="fs-id1444945">
+<title>Microbial Genomics: Metagenomics</title>
+<para id="fs-id2590614">Traditionally, microbiology has been taught with the view that microorganisms are best studied under <term>pure culture</term> conditions, which involves isolating a single type of cell and culturing it in the laboratory. Because microorganisms can go through several generations in a matter of hours, their gene expression profiles adapt to the new laboratory environment very quickly. In addition, the vast majority of bacterial species resist being cultured in isolation. Most microorganisms do not live as isolated entities, but in microbial communities known as biofilms. For all of these reasons, pure culture is not always the best way to study microorganisms. <term>Metagenomics</term> is the study of the collective genomes of multiple species that grow and interact in an environmental niche. Metagenomics can be used to identify new species more rapidly and to analyze the effect of pollutants on the environment (<link target-id="fig-ch17_04_02" document=""/>).</para>
+<figure id="fig-ch17_04_02"><media id="fs-id1797882" alt="In metagenomics, all of the genomic DNA from a particular environment is cut into fragments and ligated into a cloning vector. The fragments, which may be from several different species, are sequenced. Regions of overlap indicate that two fragments came from the same species. Thus, the genome of each species present can be determined.">
+<image mime-type="image/jpg" src="Figure_17_04_02.jpg" width="320"/>
+</media>
+<caption>Metagenomics involves isolating DNA from multiple species within an environmental niche.</caption></figure></section>
+
+<section id="fs-id2321828">
+<title>Microbial Genomics: Creation of New Biofuels</title>
+<para id="fs-id1560401">Knowledge of the genomics of microorganisms is being used to find better ways to harness biofuels from algae and cyanobacteria. The primary sources of fuel today are coal, oil, wood, and other plant products, such as ethanol. Although plants are renewable resources, there is still a need to find more alternative renewable sources of energy to meet our population&#8217;s energy demands. The microbial world is one of the largest resources for genes that encode new enzymes and produce new organic compounds, and it remains largely untapped. Microorganisms are used to create products, such as enzymes that are used in research, antibiotics, and other anti-microbial mechanisms. Microbial genomics is helping to develop diagnostic tools, improved vaccines, new disease treatments, and advanced environmental cleanup techniques.</para>
+</section>
+
+<section id="fs-id2170202">
+<title>Mitochondrial Genomics</title>
+<para id="fs-id2003238">Mitochondria are intracellular organelles that contain their own DNA. Mitochondrial DNA mutates at a rapid rate and is often used to study evolutionary relationships. Another feature that makes studying the mitochondrial genome interesting is that the mitochondrial DNA in most multicellular organisms is passed on from the mother during the process of fertilization. For this reason, mitochondrial genomics is often used to trace genealogy.</para>
+<para id="fs-id2100648">Information and clues obtained from DNA samples found at crime scenes have been used as evidence in court cases, and genetic markers have been used in forensic analysis. Genomic analysis has also become useful in this field. In 2001, the first use of genomics in forensics was published. It was a collaborative attempt between academic research institutions and the FBI to solve the mysterious cases of anthrax communicated via the US Postal Service. Using microbial genomics, researchers determined that a specific strain of anthrax was used in all the mailings.</para>
+</section>
+
+<section id="fs-id3015134">
+<title>Genomics in Agriculture</title>
+<para id="fs-id2074568">Genomics can reduce the trials and failures involved in scientific research to a certain extent, which could improve the quality and quantity of crop yields in agriculture. Linking traits to genes or gene signatures helps to improve crop breeding to generate hybrids with the most desirable qualities. Scientists use genomic data to identify desirable traits, and then transfer those traits to a different organism. Scientists are discovering how genomics can improve the quality and quantity of agricultural production. For example, scientists could use desirable traits to create a useful product or enhance an existing product, such as making a drought-sensitive crop more tolerant of the dry season.</para>
+</section>
+
+<section id="fs-id1602689" class="summary"> <title>Section Summary</title><para id="fs-id2476144">Imagination is the only barrier to the applicability of genomics. Genomics is being applied to most fields of biology; it is being used for personalized medicine, prediction of disease risks at an individual level, the study of drug interactions before the conduct of clinical trials, and the study of microorganisms in the environment as opposed to the laboratory. It is also being applied to developments such as the generation of new biofuels, genealogical assessment using mitochondria, advances in forensic science, and improvements in agriculture.</para>
+</section>
+
+<section id="fs-id2645578" class="art-exercise"><title>Art Connections</title>
+<exercise id="fs-id1481511">
+<problem id="fs-id1612804">
+<para id="fs-id1602896"><link target-id="fig-ch17_04_01" document=""/> In 2011, the United States Preventative Services Task Force recommended against using the PSA test to screen healthy men for prostate cancer. Their recommendation is based on evidence that screening does not reduce the risk of death from prostate cancer. Prostate cancer often develops very slowly and does not cause problems, while the cancer treatment can have severe side effects. The <emphasis effect="italics">PCA3</emphasis> test is considered to be more accurate, but screening may still result in men who would not have been harmed by the cancer itself suffering side effects from treatment. What do you think? Should all healthy men be screened for prostate cancer using the <emphasis effect="italics">PCA3</emphasis> or PSA test? Should people in general be screened to find out if they have a genetic risk for cancer or other diseases?</para>
+</problem>
+<solution id="fs-id2019239">
+<para id="fs-id1378262"><link target-id="fig-ch17_04_01" document=""/> There are no right or wrong answers to these questions. While it is true that prostate cancer treatment itself can be harmful, many men would rather be aware that they have cancer so they can monitor the disease and begin treatment if it progresses. And while genetic screening may be useful, it is expensive and may cause needless worry. People with certain risk factors may never develop the disease, and preventative treatments may do more harm than good.</para>
+</solution>
+</exercise>
+</section><section id="fs-id1235406" class="multiple-choice"><title>Review Questions</title><exercise id="fs-id2853936">
+<problem id="fs-id2627190"><para id="fs-id2074976">Genomics can be used in agriculture to:</para>
+<list id="fs-id2164620" list-type="enumerated" number-style="lower-alpha">
+<item>generate new hybrid strains</item>
+<item>improve disease resistance</item>
+<item>improve yield</item>
+<item>all of the above</item>
+</list>
+</problem>
+<solution id="fs-id2967307"> <label/> <para id="fs-id2337107">D</para> </solution>
+</exercise>
+<exercise id="fs-id1685167">
+<problem id="fs-id1420009"><para id="fs-id2645620">Genomics can be used on a personal level to:</para>
+<list id="fs-id2168046" list-type="enumerated" number-style="lower-alpha">
+<item>decrease transplant rejection</item>
+<item>Predict genetic diseases that a person may have inherited</item>
+<item>Determine the risks of genetic diseases for an individual&#8217;s children</item>
+<item>All the above</item>
+</list>
+</problem>
+<solution id="fs-id2931954"> <label/> <para id="fs-id1794075">A</para> </solution>
+</exercise>
+</section><section id="fs-id1201883" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-id2119684"><problem id="fs-id1781260"><para id="fs-id2073222">Explain why metagenomics is probably the most revolutionary application of genomics.</para></problem>
+<solution id="fs-id2016560"><label/>
+<para id="fs-id2937179">Metagenomics is revolutionary because it replaced the practice of using pure cultures. Pure cultures were used to study individual species in the laboratory, but did not accurately represent what happens in the environment. Metagenomics studies the genomes of bacterial populations in their environmental niche.</para></solution></exercise>
+<exercise id="fs-id2321141"><problem id="fs-id2117766"><para id="fs-id1240070">How can genomics be used to predict disease risk and treatment options?</para></problem>
+<solution id="fs-id1987001"><label/>
+<para id="fs-id1977754">Genomics can provide the unique DNA sequence of an individual, which can be used for personalized medicine and treatment options.</para></solution></exercise>
+</section>
+</content>
+
+<glossary>
+<definition id="fs-id2154950"><term>metagenomics</term> <meaning id="fs-id2195661">study of the collective genomes of multiple species that grow and interact in an environmental niche</meaning></definition>
+<definition id="fs-id2370165"><term>pharmacogenomics</term> <meaning id="fs-id2115614">study of drug interactions with the genome or proteome; also called toxicogenomics</meaning></definition>
+<definition id="fs-id1693409"><term>polygenic</term> <meaning id="fs-id2164736">phenotypic characteristic caused by two or more genes</meaning></definition>
+<definition id="fs-id2000981"><term>pure culture</term> <meaning id="fs-id3096213">growth of a single type of cell in the laboratory</meaning></definition>
+</glossary>
+
+</document>

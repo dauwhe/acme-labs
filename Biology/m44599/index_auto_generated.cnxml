@@ -1,0 +1,166 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Prevention and Treatment of Viral Infections</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44599/latest/</md:content-url>
+  <md:content-id>m44599</md:content-id>
+  <md:title>Prevention and Treatment of Viral Infections</md:title>
+  <md:version>1.3</md:version>
+  <md:created>2012/08/23 14:18:33 -0500</md:created>
+  <md:revised>2013/04/11 15:22:57.865 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>antiviral drug</md:keyword>
+    <md:keyword>attenuating</md:keyword>
+    <md:keyword>back mutation</md:keyword>
+    <md:keyword>gene therapy</md:keyword>
+    <md:keyword>HIV</md:keyword>
+    <md:keyword>killed vaccine</md:keyword>
+    <md:keyword>live vaccine</md:keyword>
+    <md:keyword>oncolytic virus</md:keyword>
+    <md:keyword>phage therapy</md:keyword>
+    <md:keyword>vaccination</md:keyword>
+    <md:keyword>vaccine</md:keyword>
+    <md:keyword>virology</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Identify major viral illnesses that affect humans</item>
+<item>Compare vaccinations and anti-viral drugs as medical approaches to viruses</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idp19562544">Viruses cause a variety of diseases in animals, including humans, ranging from the common cold to potentially fatal illnesses like meningitis (<link target-id="fig-ch21_03_01" document=""/>). These diseases can be treated by antiviral drugs or by vaccines, but some viruses, such as HIV, are capable of both avoiding the immune response and mutating to become resistant to antiviral drugs.</para>
+<figure id="fig-ch21_03_01" class=" "><media id="fs-idm4343104" alt="The illustration shows an overview of human viral diseases. Viruses that cause encephalitis or meningitis, or inflammation of the brain and surrounding tissues, include measles, arbovirus, rabies, JC virus, and LCM virus. The common cold is caused by rhinovirus, parainfluenza virus, and respiratory syncytial virus. Eye infections are caused by herpesvirus, adenovirus, and cytomegalovirus. Pharyngitis, or inflammation of the pharynx, is caused by adenovirus, Epstein-Barr virus, and cytomegalovirus. Parotitis, or inflammation of the parotid glands, is caused by mumps virus. Gingivostomatitis, or inflammation of the oral mucosa, is caused by herpes simplex type I virus. Pneumonia is caused by influenza virus types A and B, parainfluenza virus, respiratory syncytial virus, adenovirus, and SARS coronavirus. Cardiovascular problems are caused by coxsackie B virus. Hepatitis is caused by hepatitis virus types A, B, C, D, and E. Myelitis is caused by poliovirus and HLTV-1. Skin infections are caused by varicella-zoster virus, human herpesvirus 6, smallpox, molluscum contagiosum, human papillomavirus, parvovirus B19, rubella, measles, and coxsackie A virus. Gastroenteritis, or digestive disease, is caused by adenovirus, rotavirus, norovirus, astrovirus, and coronavirus. Sexually transmitted diseases are caused by herpes simplex type 2, human papillomavirus, and HIV. Pancreatitis B is caused by coxsackie B virus.">
+<image mime-type="image/jpg" src="Figure_21_03_01.jpg" width="420"/>
+</media>
+<caption>Viruses can cause dozens of ailments in humans, ranging from mild illnesses to serious diseases. (credit: modification of work by Mikael H&#228;ggstr&#246;m)</caption></figure><section id="fs-idm30755904">
+<title>Vaccines for Prevention</title>
+<para id="fs-idp72635728">While we do have limited numbers of effective antiviral drugs, such as those used to treat HIV and influenza, the primary method of controlling viral disease is by vaccination, which is intended to prevent outbreaks by building immunity to a virus or virus family (<link target-id="fig-ch21_03_02" document=""/>). <term>Vaccines</term> may be prepared using live viruses, killed viruses, or molecular subunits of the virus. The killed viral vaccines and subunit viruses are both incapable of causing disease.</para>
+<para id="fs-idm93367248">Live viral vaccines are designed in the laboratory to cause few symptoms in recipients while giving them protective immunity against future infections. Polio was one disease that represented a milestone in the use of vaccines. Mass immunization campaigns in the 1950s (killed vaccine) and 1960s (live vaccine) significantly reduced the incidence of the disease, which caused muscle paralysis in children and generated a great amount of fear in the general population when regional epidemics occurred. The success of the polio vaccine paved the way for the routine dispensation of childhood vaccines against measles, mumps, rubella, chickenpox, and other diseases.</para>
+<para id="fs-idm7189344">The danger of using live vaccines, which are usually more effective than killed vaccines, is the low but significant danger that these viruses will revert to their disease-causing form by <term>back mutations</term>. Live vaccines are usually made by <term>attenuating</term> (weakening) the &#8220;wild-type&#8221; (disease-causing) virus by growing it in the laboratory in tissues or at temperatures different from what the virus is accustomed to in the host. Adaptations to these new cells or temperatures induce mutations in the genomes of the virus, allowing it to grow better in the laboratory while inhibiting its ability to cause disease when reintroduced into conditions found in the host. These attenuated viruses thus still cause infection, but they do not grow very well, allowing the immune response to develop in time to prevent major disease. Back mutations occur when the vaccine undergoes mutations in the host such that it readapts to the host and can again cause disease, which can then be spread to other humans in an epidemic. This type of scenario happened as recently as 2007 in Nigeria where mutations in a polio vaccine led to an epidemic of polio in that country.</para>
+<para id="fs-idm18511360">Some vaccines are in continuous development because certain viruses, such as influenza and HIV, have a high mutation rate compared to other viruses and normal host cells. With influenza, mutations in the surface molecules of the virus help the organism evade the protective immunity that may have been obtained in a previous influenza season, making it necessary for individuals to get vaccinated every year. Other viruses, such as those that cause the childhood diseases measles, mumps, and rubella, mutate so infrequently that the same vaccine is used year after year.</para>
+<figure id="fig-ch21_03_02" class=" "><media id="fs-idm10135824" alt="The photo shows a person receiving an injection in the arm.">
+<image mime-type="image/jpg" src="Figure_21_03_02.jpg" width="340"/>
+</media>
+<caption>Vaccinations are designed to boost immunity to a virus to prevent infection. (credit: USACE Europe District)</caption></figure><note id="fs-idp33929792" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idp23892576" alt="QR Code representing a URL">
+<image mime-type="image/png" src="1918_flu.png" width="120"/>
+</media>
+<para id="fs-idp55602976">Watch this NOVA <link window="new" url="http://openstaxcollege.org/l/1918_flu">video</link> to learn how microbiologists are attempting to replicate the deadly 1918 Spanish influenza virus so they can understand more about virology.</para>
+</note></section>
+<section id="fs-idp33743136">
+<title> Vaccines and Anti-viral Drugs for Treatment</title>
+<para id="fs-idp39661408">In some cases, vaccines can be used to treat an active viral infection. The concept behind this is that by giving the vaccine, immunity is boosted without adding more disease-causing virus. In the case of rabies, a fatal neurological disease transmitted via the saliva of rabies virus-infected animals, the progression of the disease from the time of the animal bite to the time it enters the central nervous system may be 2 weeks or longer. This is enough time to vaccinate an individual who suspects that they have been bitten by a rabid animal, and their boosted immune response is sufficient to prevent the virus from entering nervous tissue. Thus, the potentially fatal neurological consequences of the disease are averted, and the individual only has to recover from the infected bite. This approach is also being used for the treatment of Ebola, one of the fastest and most deadly viruses on earth. Transmitted by bats and great apes, this disease can cause death in 70&#8211;90 percent of infected humans within 2 weeks. Using newly developed vaccines that boost the immune response in this way, there is hope that affected individuals will be better able to control the virus, potentially saving a greater percentage of infected persons from a rapid and very painful death.</para>
+<para id="fs-idp55980176">Another way of treating viral infections is the use of antiviral drugs. These drugs often have limited success in curing viral disease, but in many cases, they have been used to control and reduce symptoms for a wide variety of viral diseases. For most viruses, these drugs can inhibit the virus by blocking the actions of one or more of its proteins. It is important that the targeted proteins be encoded by viral genes and that these molecules are not present in a healthy host cell. In this way, viral growth is inhibited without damaging the host. There are large numbers of antiviral drugs available to treat infections, some specific for a particular virus and others that can affect multiple viruses.</para>
+<para id="fs-idp21279696">Antivirals have been developed to treat genital herpes (herpes simplex II) and influenza. For genital herpes, drugs such as acyclovir can reduce the number and duration of episodes of active viral disease, during which patients develop viral lesions in their skin cells. As the virus remains latent in nervous tissue of the body for life, this drug is not curative but can make the symptoms of the disease more manageable. For influenza, drugs like Tamiflu (oseltamivir) (<link target-id="fig-ch21_03_03" document=""/>) can reduce the duration of &#8220;flu&#8221; symptoms by 1 or 2 days, but the drug does not prevent symptoms entirely. Tamiflu works by inhibiting an enzyme (viral neuraminidase) that allows new virions to leave their infected cells. Thus, Tamiflu inhibits the spread of virus from infected to uninfected cells. Other antiviral drugs, such as Ribavirin, have been used to treat a variety of viral infections, although its mechanism of action against certain viruses remains unclear.</para><figure id="fig-ch21_03_03" class=" "><media id="fs-idp35602272" alt="Part a shows the structure of the influenza virus, which is icosahedral with a viral envelope. Neuraminidase and hemagglutinin are embedded in the envelope. Part b shows that Tamiflu prevents the step in influenza infection in which virions leave the cell.">
+<image mime-type="image/jpg" src="Figure_21_03_03ab.jpg" width="525"/>
+</media>
+<caption>(a) Tamiflu inhibits a viral enzyme called neuraminidase (NA) found in the influenza viral envelope. (b) Neuraminidase cleaves the connection between viral hemagglutinin (HA), also found in the viral envelope, and glycoproteins on the host cell surface. Inhibition of neuraminidase prevents the virus from detaching from the host cell, thereby blocking further infection. (credit a: modification of work by M. Eickmann)</caption></figure><para id="fs-idm12747440">By far, the most successful use of antivirals has been in the treatment of the retrovirus HIV, which causes a disease that, if untreated, is usually fatal within 10&#8211;12 years after infection. Anti-HIV drugs have been able to control viral replication to the point that individuals receiving these drugs survive for a significantly longer time than the untreated.</para>
+<para id="fs-idm45391520">Anti-HIV drugs inhibit viral replication at many different phases of the HIV replicative cycle (<link target-id="fig-ch21_03_04" document=""/>). Drugs have been developed that inhibit the fusion of the HIV viral envelope with the plasma membrane of the host cell (fusion inhibitors), the conversion of its RNA genome into double-stranded DNA (reverse transcriptase inhibitors), the integration of the viral DNA into the host genome (integrase inhibitors), and the processing of viral proteins (protease inhibitors).</para>
+<figure id="fig-ch21_03_04" class=" "><media id="fs-idm46594976" alt="The illustration shows the steps in the HIV life cycle. In step 1, gp120 glycoproteins in the viral envelope attach to a CD4 receptor on the host cell membrane. The glycoproteins then attached to a co-receptor, CCR5 or CXCR4, and the viral envelope fuses with the cell membrane. HIV RNA, reverse transcriptase, and other viral proteins are released into the host cell. Viral DNA is formed from RNA by reverse transcriptase. Viral DNA is then transported across the nuclear membrane, where it integrates into the host DNA. New viral RNA is made; it is used as genomic RNA and to make viral proteins. New viral RNA and proteins move to the cell surface and a new, immature HIV forms. The virus matures when a protease releases individual HIV proteins.">
+<image mime-type="image/jpg" src="Figure_21_03_04.jpg" width="525"/>
+</media>
+<caption>HIV, an enveloped, icosahedral virus, attaches to the CD4 receptor of an immune cell and fuses with the cell membrane. Viral contents are released into the cell, where viral enzymes convert the single-stranded RNA genome into DNA and incorporate it into the host genome. (credit: NIAID, NIH)</caption></figure><para id="fs-idm24414432">When any of these drugs are used individually, the high mutation rate of the virus allows it to easily and rapidly develop resistance to the drug, limiting the drug&#8217;s effectiveness. The breakthrough in the treatment of HIV was the development of HAART, highly active anti-retroviral therapy, which involves a mixture of different drugs, sometimes called a drug &#8220;cocktail.&#8221; By attacking the virus at different stages of its replicative cycle, it is much more difficult for the virus to develop resistance to multiple drugs at the same time. Still, even with the use of combination HAART therapy, there is concern that, over time, the virus will develop resistance to this therapy. Thus, new anti-HIV drugs are constantly being developed with the hope of continuing the battle against this highly fatal virus.</para>
+<note id="fs-idm27862352" class="everyday">
+<label/>
+<title>Everyday Connection</title>
+<para id="fs-idp157108304">
+<title>Applied Virology</title>
+The study of viruses has led to the development of a variety of new ways to treat non-viral diseases. Viruses have been used in <term>gene therapy</term>. Gene therapy is used to treat genetic diseases such as severe combined immunodeficiency (SCID), a heritable, recessive disease in which children are born with severely compromised immune systems. One common type of SCID is due to the lack of an enzyme, adenosine deaminase (ADA), which breaks down purine bases. To treat this disease by gene therapy, bone marrow cells are taken from a SCID patient and the ADA gene is inserted. This is where viruses come in, and their use relies on their ability to penetrate living cells and bring genes in with them. Viruses such as adenovirus, an upper respiratory human virus, are modified by the addition of the ADA gene, and the virus then transports this gene into the cell. The modified cells, now capable of making ADA, are then given back to the patients in the hope of curing them. Gene therapy using viruses as carrier of genes (viral vectors), although still experimental, holds promise for the treatment of many genetic diseases. Still, many technological problems need to be solved for this approach to be a viable method for treating genetic disease.</para>
+<para id="fs-idp6874480">Another medical use for viruses relies on their specificity and ability to kill the cells they infect. <term>Oncolytic viruses</term> are engineered in the laboratory specifically to attack and kill cancer cells. A genetically modified adenovirus known as H101 has been used since 2005 in clinical trials in China to treat head and neck cancers. The results have been promising, with a greater short-term response rate to the combination of chemotherapy and viral therapy than to chemotherapy treatment alone. This ongoing research may herald the beginning of a new age of cancer therapy, where viruses are engineered to find and specifically kill cancer cells, regardless of where in the body they may have spread.</para>
+<para id="fs-idp118642704">A third use of viruses in medicine relies on their specificity and involves using bacteriophages in the treatment of bacterial infections. Bacterial diseases have been treated with antibiotics since the 1940s. However, over time, many bacteria have developed resistance to antibiotics. A good example is methicillin-resistant <emphasis effect="italics">Staphylococcus aureus </emphasis>(MRSA, pronounced &#8220;mersa&#8221;), an infection commonly acquired in hospitals. This bacterium is resistant to a variety of antibiotics, making it difficult to treat. The use of bacteriophages specific for such bacteria would bypass their resistance to antibiotics and specifically kill them. Although <term>phage therapy</term> is in use in the Republic of Georgia to treat antibiotic-resistant bacteria, its use to treat human diseases has not been approved in most countries. However, the safety of the treatment was confirmed in the United States when the U.S. Food and Drug Administration approved spraying meats with bacteriophages to destroy the food pathogen <emphasis effect="italics">Listeria.</emphasis> As more and more antibiotic-resistant strains of bacteria evolve, the use of bacteriophages might be a potential solution to the problem, and the development of phage therapy is of much interest to researchers worldwide.</para>
+</note>
+</section>
+<section id="fs-idp38916096" class="summary">
+<title>Section Summary</title><para id="fs-idp44654224">Viruses cause a variety of diseases in humans. Many of these diseases can be prevented by the use of viral vaccines, which stimulate protective immunity against the virus without causing major disease. Viral vaccines may also be used in active viral infections, boosting the ability of the immune system to control or destroy the virus. A series of antiviral drugs that target enzymes and other protein products of viral genes have been developed and used with mixed success. Combinations of anti-HIV drugs have been used to effectively control the virus, extending the lifespans of infected individuals. Viruses have many uses in medicines, such as in the treatment of genetic disorders, cancer, and bacterial infections.</para>
+    </section>
+<section id="fs-idm76724672" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp41822000">
+<problem id="fs-idm37641696"><para id="fs-idp73437936">Which of the following is NOT used to treat active viral disease?</para>
+<list id="fs-idm89818256" list-type="enumerated" number-style="lower-alpha">
+    <item>vaccines</item>
+<item>antiviral drugs</item>
+<item>antibiotics</item>
+<item>phage therapy</item>
+</list>
+</problem>
+    <solution id="fs-idm76238432">
+        <label/>
+        <para id="fs-idm24578064">C</para>
+    </solution>
+    </exercise>
+<exercise id="fs-idm100043872">
+<problem id="fs-idm86060816"><para id="fs-idm1844720">Vaccines_______.</para>
+<list id="fs-idm51152624" list-type="enumerated" number-style="lower-alpha">
+<item>are similar to viroids</item>
+<item>are only needed once</item>
+<item>kill viruses</item>
+<item>stimulate an immune response</item>
+</list>
+</problem>
+<solution id="fs-idp220737312">
+<label/>
+<para id="fs-idp220248080">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm102775200" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idp49863504">
+<problem id="fs-idm70297456"><para id="fs-idp54211328">Why is immunization after being bitten by a rabid animal so effective and why aren&#8217;t people vaccinated for rabies like dogs and cats are?</para></problem>
+<solution id="fs-idp21542736"><label/>
+<para id="fs-idm1770320">Rabies vaccine works after a bite because it takes week for the virus to travel from the site of the bite to the central nervous system, where the most severe symptoms of the disease occur. Adults are not routinely vaccinated for rabies for two reasons: first, because the routine vaccination of domestic animals makes it unlikely that humans will contract rabies from an animal bite; second, if one is bitten by a wild animal or a domestic animal that one cannot confirm has been immunized, there is still time to give the vaccine and avoid the often fatal consequences of the disease.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idp74104128"><term>attenuation</term> <meaning id="fs-idm103195184">weakening of a virus during vaccine development</meaning></definition>
+<definition id="fs-idp58865824"><term>back mutation</term> <meaning id="fs-idp70136400">when a live virus vaccine reverts back to it disease-causing phenotype</meaning></definition>
+<definition id="fs-idm85459296"><term>gene therapy</term> <meaning id="fs-idp109864016">treatment of genetic disease by adding genes, using viruses to carry the new genes inside the cell</meaning></definition>
+<definition id="fs-idm24670560"><term>oncolytic virus</term> <meaning id="fs-idp35215840">virus engineered to specifically infect and kill cancer cells</meaning></definition>
+<definition id="fs-idm38097904"><term>phage therapy</term> <meaning id="fs-idp173316400">treatment of bacterial diseases using bacteriophages specific to a particular bacterium</meaning></definition>
+<definition id="fs-idm57722208"><term>vaccine</term> <meaning id="fs-idm41204592">weakened solution of virus components, viruses, or other agents that produce an immune response</meaning></definition>
+</glossary>
+</document>

@@ -1,0 +1,219 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44698/latest/</md:content-url>
+  <md:content-id>m44698</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.3</md:version>
+  <md:created>2012/08/23 14:53:45 -0500</md:created>
+  <md:revised>2013/05/10 11:49:37.556 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>abscisic acid</md:keyword>
+    <md:keyword>abscission</md:keyword>
+    <md:keyword>adventitious root</md:keyword>
+    <md:keyword>annual ring</md:keyword>
+    <md:keyword>apical bud</md:keyword>
+    <md:keyword>apical meristem</md:keyword>
+    <md:keyword>auxin</md:keyword>
+    <md:keyword>axillary bud</md:keyword>
+    <md:keyword>blue light</md:keyword>
+    <md:keyword>blue light response</md:keyword>
+    <md:keyword>bulb</md:keyword>
+    <md:keyword>carotenoid</md:keyword>
+    <md:keyword>casparian strip</md:keyword>
+    <md:keyword>chromophore</md:keyword>
+    <md:keyword>collenchyma cell</md:keyword>
+    <md:keyword>complex plant tissue</md:keyword>
+    <md:keyword>compound leaf</md:keyword>
+    <md:keyword>corm</md:keyword>
+    <md:keyword>cortex</md:keyword>
+    <md:keyword>cryptochrome</md:keyword>
+    <md:keyword>cuticle</md:keyword>
+    <md:keyword>cytokinin</md:keyword>
+    <md:keyword>dermal tissue</md:keyword>
+    <md:keyword>endodermis</md:keyword>
+    <md:keyword>ethylene</md:keyword>
+    <md:keyword>etoliation</md:keyword>
+    <md:keyword>evapotranspiration</md:keyword>
+    <md:keyword>fibrous root</md:keyword>
+    <md:keyword>flavin</md:keyword>
+    <md:keyword>gibberellin</md:keyword>
+    <md:keyword>gravitropism</md:keyword>
+    <md:keyword>ground tissue</md:keyword>
+    <md:keyword>growth regulator</md:keyword>
+    <md:keyword>guard cell</md:keyword>
+    <md:keyword>guttation</md:keyword>
+    <md:keyword>horticulture</md:keyword>
+    <md:keyword>intercalary meristem</md:keyword>
+    <md:keyword>internode</md:keyword>
+    <md:keyword>jasmonate</md:keyword>
+    <md:keyword>lamina</md:keyword>
+    <md:keyword>lateral meristem</md:keyword>
+    <md:keyword>lead structure</md:keyword>
+    <md:keyword>leaf</md:keyword>
+    <md:keyword>leaf adaptation</md:keyword>
+    <md:keyword>leaf anatomy</md:keyword>
+    <md:keyword>leaf arrangement</md:keyword>
+    <md:keyword>leaf form</md:keyword>
+    <md:keyword>leaf function</md:keyword>
+    <md:keyword>leaf structure</md:keyword>
+    <md:keyword>leaves</md:keyword>
+    <md:keyword>lenticel</md:keyword>
+    <md:keyword>megapascal</md:keyword>
+    <md:keyword>meristem</md:keyword>
+    <md:keyword>meristematic tissue</md:keyword>
+    <md:keyword>mesophyll</md:keyword>
+    <md:keyword>modified root</md:keyword>
+    <md:keyword>modified stem</md:keyword>
+    <md:keyword>negative gravitropism</md:keyword>
+    <md:keyword>node</md:keyword>
+    <md:keyword>oligosaccharin</md:keyword>
+    <md:keyword>palmately compound leaf</md:keyword>
+    <md:keyword>parenchyma cell</md:keyword>
+    <md:keyword>pericycle</md:keyword>
+    <md:keyword>periderm</md:keyword>
+    <md:keyword>permanent tissue</md:keyword>
+    <md:keyword>petiole</md:keyword>
+    <md:keyword>photomorphogenesis</md:keyword>
+    <md:keyword>photoperiodism</md:keyword>
+    <md:keyword>photosynthate transport</md:keyword>
+    <md:keyword>phototropin</md:keyword>
+    <md:keyword>phototropism</md:keyword>
+    <md:keyword>phyllotaxy</md:keyword>
+    <md:keyword>phytochrome</md:keyword>
+    <md:keyword>pinnately compound leaf</md:keyword>
+    <md:keyword>pith</md:keyword>
+    <md:keyword>plant adaptation</md:keyword>
+    <md:keyword>plant anatomy</md:keyword>
+    <md:keyword>plant body</md:keyword>
+    <md:keyword>plant defense</md:keyword>
+    <md:keyword>plant form</md:keyword>
+    <md:keyword>plant hormones</md:keyword>
+    <md:keyword>plant organs</md:keyword>
+    <md:keyword>plant organ system</md:keyword>
+    <md:keyword>plant physiology</md:keyword>
+    <md:keyword>plant response</md:keyword>
+    <md:keyword>plant response to touch</md:keyword>
+    <md:keyword>plant response to wind</md:keyword>
+    <md:keyword>plants</md:keyword>
+    <md:keyword>plant sensory system</md:keyword>
+    <md:keyword>plant transport</md:keyword>
+    <md:keyword>positive gravitropism</md:keyword>
+    <md:keyword>primary growth</md:keyword>
+    <md:keyword>rachis</md:keyword>
+    <md:keyword>red/far-red response</md:keyword>
+    <md:keyword>red light</md:keyword>
+    <md:keyword>rhizome</md:keyword>
+    <md:keyword>root</md:keyword>
+    <md:keyword>root anatomy</md:keyword>
+    <md:keyword>root cap</md:keyword>
+    <md:keyword>root growth</md:keyword>
+    <md:keyword>root hair</md:keyword>
+    <md:keyword>root modification</md:keyword>
+    <md:keyword>root pressure</md:keyword>
+    <md:keyword>roots</md:keyword>
+    <md:keyword>root structure</md:keyword>
+    <md:keyword>root system</md:keyword>
+    <md:keyword>root zone</md:keyword>
+    <md:keyword>runner</md:keyword>
+    <md:keyword>sclerenchyma cell</md:keyword>
+    <md:keyword>secondary growth</md:keyword>
+    <md:keyword>sessile</md:keyword>
+    <md:keyword>shoot system</md:keyword>
+    <md:keyword>sieve-tube cell</md:keyword>
+    <md:keyword>simple leaf</md:keyword>
+    <md:keyword>simple plant tissue</md:keyword>
+    <md:keyword>sink</md:keyword>
+    <md:keyword>solute transport</md:keyword>
+    <md:keyword>source</md:keyword>
+    <md:keyword>statolith</md:keyword>
+    <md:keyword>stele</md:keyword>
+    <md:keyword>stem</md:keyword>
+    <md:keyword>stem anatomy</md:keyword>
+    <md:keyword>stem growth</md:keyword>
+    <md:keyword>stem modifications</md:keyword>
+    <md:keyword>stipule</md:keyword>
+    <md:keyword>stolon</md:keyword>
+    <md:keyword>stomatal regulation</md:keyword>
+    <md:keyword>strigolactone</md:keyword>
+    <md:keyword>tap root</md:keyword>
+    <md:keyword>tendril</md:keyword>
+    <md:keyword>thigmomorphogenesis</md:keyword>
+    <md:keyword>thigmonastic</md:keyword>
+    <md:keyword>thigmotropism</md:keyword>
+    <md:keyword>thorn</md:keyword>
+    <md:keyword>tracheid</md:keyword>
+    <md:keyword>transfer cell</md:keyword>
+    <md:keyword>translocation</md:keyword>
+    <md:keyword>transpiration</md:keyword>
+    <md:keyword>transpiration regulation</md:keyword>
+    <md:keyword>trichome</md:keyword>
+    <md:keyword>tuber</md:keyword>
+    <md:keyword>vascular bundle</md:keyword>
+    <md:keyword>vascular tissue</md:keyword>
+    <md:keyword>venation</md:keyword>
+    <md:keyword>vessel element</md:keyword>
+    <md:keyword>water potential</md:keyword>
+    <md:keyword>water transport</md:keyword>
+    <md:keyword>whorled</md:keyword>
+    <md:keyword>xylem</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+
+<?cnx.eoc class="summary" title="Sections Summary"?>
+<?cnx.eoc class="art-exercise" title="Art Connections"?>
+<?cnx.eoc class="multiple-choice" title="Multiple Choice"?>
+<?cnx.eoc class="free-response" title="Free Response"?>
+
+<figure id="fig-ch30_00_01" class="splash">
+<media id="fs-idp29305472" alt=" Photo shows a plant with oval leaves that oppose each other on long, thin branches.">
+<image mime-type="image/jpg" src="Figure_30_00_01.jpg" width="600"/>
+</media>
+<caption>A locust leaf consists of leaflets arrayed along a central midrib. Each leaflet is a complex photosynthetic machine, exquisitely adapted to capture sunlight and carbon dioxide. An intricate vascular system supplies the leaf with water and minerals, and exports the products of photosynthesis. (credit: modification of work by Todd Petit)</caption></figure>
+<para id="fs-idp27991520">Plants are as essential to human existence as land, water, and air. Without plants, our day-to-day lives would be impossible because without oxygen from photosynthesis, aerobic life cannot be sustained. From providing food and shelter to serving as a source of medicines, oils, perfumes, and industrial products, plants provide humans with numerous valuable resources.</para><para id="fs-idm10821616">When you think of plants, most of the organisms that come to mind are vascular plants. These plants have tissues that conduct food and water, and they have seeds. Seed plants are divided into gymnosperms and angiosperms. Gymnosperms include the needle-leaved conifers&#8212;spruce, fir, and pine&#8212;as well as less familiar plants, such as ginkgos and cycads. Their seeds are not enclosed by a fleshy fruit. Angiosperms, also called flowering plants, constitute the majority of seed plants. They include broadleaved trees (such as maple, oak, and elm), vegetables (such as potatoes, lettuce, and carrots), grasses, and plants known for the beauty of their flowers (roses, irises, and daffodils, for example).</para>
+<para id="fs-idp29086144">While individual plant species are unique, all share a common structure: a plant body consisting of stems, roots, and leaves. They all transport water, minerals, and  sugars produced through photosynthesis through the plant body in a similar manner. All plant species also respond to environmental factors, such as light, gravity, competition, temperature, and predation.</para></content>
+</document>

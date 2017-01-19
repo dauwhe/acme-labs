@@ -1,0 +1,182 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44807/latest/</md:content-url>
+  <md:content-id>m44807</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.2</md:version>
+  <md:created>2012/08/23 15:52:59 -0500</md:created>
+  <md:revised>2013/02/28 12:47:06.707 US/Central</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>ACE</md:keyword>
+    <md:keyword>active transport</md:keyword>
+    <md:keyword>ADH</md:keyword>
+    <md:keyword>afferent arteriole</md:keyword>
+    <md:keyword>ammonia</md:keyword>
+    <md:keyword>ammonotelic</md:keyword>
+    <md:keyword>angiotensin converting enzyme</md:keyword>
+    <md:keyword>angiotensin I</md:keyword>
+    <md:keyword>angiotensin II</md:keyword>
+    <md:keyword>annelid</md:keyword>
+    <md:keyword>anti-diuretic hormone</md:keyword>
+    <md:keyword>antioxidant</md:keyword>
+    <md:keyword>arcuate artery</md:keyword>
+    <md:keyword>ascending limb</md:keyword>
+    <md:keyword>blood urea nitrogen</md:keyword>
+    <md:keyword>Bowman's capsule</md:keyword>
+    <md:keyword>BUN</md:keyword>
+    <md:keyword>calyx</md:keyword>
+    <md:keyword>cortex</md:keyword>
+    <md:keyword>cortical nephron</md:keyword>
+    <md:keyword>cortical radiate artery</md:keyword>
+    <md:keyword>countercurrent exchanger</md:keyword>
+    <md:keyword>countercurrent multiplier</md:keyword>
+    <md:keyword>DCT</md:keyword>
+    <md:keyword>descending limb</md:keyword>
+    <md:keyword>dialysis</md:keyword>
+    <md:keyword>distal convoluted tubule</md:keyword>
+    <md:keyword>efferent arteriole</md:keyword>
+    <md:keyword>electrolyte</md:keyword>
+    <md:keyword>electrolyte transport</md:keyword>
+    <md:keyword>flame cell</md:keyword>
+    <md:keyword>GFR</md:keyword>
+    <md:keyword>glomerular filtration</md:keyword>
+    <md:keyword>glomerular filtration rate</md:keyword>
+    <md:keyword>glomerulus</md:keyword>
+    <md:keyword>gout</md:keyword>
+    <md:keyword>gram molecular weight</md:keyword>
+    <md:keyword>granular cell</md:keyword>
+    <md:keyword>hilum</md:keyword>
+    <md:keyword>hormone</md:keyword>
+    <md:keyword>inferior vena cava</md:keyword>
+    <md:keyword>interlobar artery</md:keyword>
+    <md:keyword>juxtaglomerular complex</md:keyword>
+    <md:keyword>juxtamedullary nephron</md:keyword>
+    <md:keyword>keratinocyte</md:keyword>
+    <md:keyword>kidney</md:keyword>
+    <md:keyword>kidney function</md:keyword>
+    <md:keyword>kidney physiology</md:keyword>
+    <md:keyword>lobes of the kidney</md:keyword>
+    <md:keyword>loop of Henle</md:keyword>
+    <md:keyword>macula densa</md:keyword>
+    <md:keyword>Malpighian tube</md:keyword>
+    <md:keyword>medulla</md:keyword>
+    <md:keyword>microvilli</md:keyword>
+    <md:keyword>milliequivalent</md:keyword>
+    <md:keyword>milliequivalents per liter</md:keyword>
+    <md:keyword>milliosmole</md:keyword>
+    <md:keyword>mineralocorticoid</md:keyword>
+    <md:keyword>molality</md:keyword>
+    <md:keyword>molarity</md:keyword>
+    <md:keyword>mole</md:keyword>
+    <md:keyword>nephridia</md:keyword>
+    <md:keyword>nephridiopore</md:keyword>
+    <md:keyword>nephrologist</md:keyword>
+    <md:keyword>nephrology</md:keyword>
+    <md:keyword>nephron</md:keyword>
+    <md:keyword>nitrogenous waste</md:keyword>
+    <md:keyword>non-electrolyte</md:keyword>
+    <md:keyword>osmoconformer</md:keyword>
+    <md:keyword>osmolality</md:keyword>
+    <md:keyword>osmolarity</md:keyword>
+    <md:keyword>osmoregulation</md:keyword>
+    <md:keyword>osmoregulator</md:keyword>
+    <md:keyword>osmoregulatory</md:keyword>
+    <md:keyword>osmosis</md:keyword>
+    <md:keyword>osmotic balance</md:keyword>
+    <md:keyword>osmotic excretion</md:keyword>
+    <md:keyword>osmotic regulation</md:keyword>
+    <md:keyword>osmotic system</md:keyword>
+    <md:keyword>PCT</md:keyword>
+    <md:keyword>perirenal fat capsule</md:keyword>
+    <md:keyword>peritubular capillary network</md:keyword>
+    <md:keyword>planaria</md:keyword>
+    <md:keyword>proximal convoluted tubule</md:keyword>
+    <md:keyword>renal</md:keyword>
+    <md:keyword>renal artery</md:keyword>
+    <md:keyword>renal capsule</md:keyword>
+    <md:keyword>renal column</md:keyword>
+    <md:keyword>renal corpuscle</md:keyword>
+    <md:keyword>renal fascia</md:keyword>
+    <md:keyword>renal pelvis</md:keyword>
+    <md:keyword>renal pyramid</md:keyword>
+    <md:keyword>renal tubule</md:keyword>
+    <md:keyword>renal vein</md:keyword>
+    <md:keyword>renin-angiotensin-aldosterone</md:keyword>
+    <md:keyword>segmental artery</md:keyword>
+    <md:keyword>semi-permeable membrane</md:keyword>
+    <md:keyword>tonicity</md:keyword>
+    <md:keyword>transport maximum</md:keyword>
+    <md:keyword>tubular reabsorption</md:keyword>
+    <md:keyword>tubular secretion</md:keyword>
+    <md:keyword>urea cycle</md:keyword>
+    <md:keyword>ureotelic</md:keyword>
+    <md:keyword>ureter</md:keyword>
+    <md:keyword>uric acid</md:keyword>
+    <md:keyword>urinary bladder</md:keyword>
+    <md:keyword>urine</md:keyword>
+    <md:keyword>urine formation</md:keyword>
+    <md:keyword>vacuole</md:keyword>
+    <md:keyword>vasa recta</md:keyword>
+    <md:keyword>vasodilator</md:keyword>
+    <md:keyword>vasopressin</md:keyword>
+    <md:keyword>waste excretion</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+    <?cnx.eoc class="summary" title="Sections Summary"?>
+<?cnx.eoc class="art-exercise" title="Art Connections"?>
+<?cnx.eoc class="multiple-choice" title="Multiple Choice"?>
+<?cnx.eoc class="free-response" title="Free Response"?>
+    
+<figure id="fig-ch41_00_01" class="splash">
+<media id="fs-idp3414080" alt="Photo shows two garbage trucks dumping their contents into a landfill.">
+<image mime-type="image/jpg" src="Figure_41_00_01.jpg" width="600"/>
+</media>
+<caption>Just as humans recycle what we can and dump the remains into landfills, our bodies use and recycle what they can and excrete the remaining waste products. Our bodies&#8217; complex systems have developed ways to treat waste and maintain a balanced internal environment. (credit: modification of work by Redwin Law)</caption></figure>
+<para id="fs-idm203611200">The daily intake recommendation for human water consumption is eight to ten glasses of water. In order to achieve a healthy balance, the human body should excrete the eight to ten glasses of water every day. This occurs via the processes of urination, defecation, sweating and, to a small extent, respiration. The organs and tissues of the human body are soaked in fluids that are maintained at constant temperature, pH, and solute concentration, all crucial elements of homeostasis. The solutes in body fluids are mainly mineral salts and sugars, and osmotic regulation is the process by which the mineral salts and water are kept in balance. Osmotic homeostasis is maintained despite the influence of external factors like temperature, diet, and weather conditions.</para>
+</content>
+</document>

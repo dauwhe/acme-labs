@@ -1,0 +1,159 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Regulation of Hormone Production</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44771/latest/</md:content-url>
+  <md:content-id>m44771</md:content-id>
+  <md:title>Regulation of Hormone Production</md:title>
+  <md:version>1.4</md:version>
+  <md:created>2012/08/23 15:40:28 -0500</md:created>
+  <md:revised>2013/04/10 13:27:30.730 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>endocrine</md:keyword>
+    <md:keyword>endocrine system</md:keyword>
+    <md:keyword>hormonal stimuli</md:keyword>
+    <md:keyword>hormone</md:keyword>
+    <md:keyword>hormone production</md:keyword>
+    <md:keyword>humoral stimuli</md:keyword>
+    <md:keyword>neural stimuli</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain how hormone production is regulated</item>
+<item>Discuss the different stimuli that control hormone levels in the body</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idm63107616">Hormone production and release are primarily controlled by negative feedback. In negative feedback systems, a stimulus elicits the release of a substance; once the substance reaches a certain level, it sends a signal that stops further release of the substance. In this way, the concentration of hormones in blood is maintained within a narrow range. For example, the anterior pituitary signals the thyroid to release thyroid hormones. Increasing levels of these hormones in the blood then give feedback to the hypothalamus and anterior pituitary to inhibit further signaling to the thyroid gland, as illustrated in <link target-id="fig-ch37_04_01" document=""/>. There are three mechanisms by which endocrine glands are stimulated to synthesize and release hormones: humoral stimuli, hormonal stimuli, and neural stimuli.</para>
+<note id="fs-idm151695328" class="art-connection"><label/><title>Art Connection</title>
+<figure id="fig-ch37_04_01"><media id="fs-idm190917760" alt="The hypothalamus secretes thyrotropin-releasing hormone, which causes the anterior pituitary gland to secrete thyroid-stimulating hormone. Thyroid-stimulating hormone causes the thyroid gland to secrete the thyroid hormones T3 and T4, which increase metabolism, resulting in growth and development. In a negative feedback loop, T3 and T4 inhibit hormone secretion by the hypothalamus and pituitary, terminating the signal.">
+<image mime-type="image/png" src="Figure_37_04_01.png" width="280"/>
+</media>
+<caption>The anterior pituitary stimulates the thyroid gland to release thyroid hormones T<sub>3</sub> and T<sub>4</sub>. Increasing levels of these hormones in the blood results in feedback to the hypothalamus and anterior pituitary to inhibit further signaling to the thyroid gland. (credit: modification of work by Mikael H&#228;ggstr&#246;m)</caption></figure>
+<para id="fs-idm203603168">Hyperthyroidism is a condition in which the thyroid gland is overactive. Hypothyroidism is a condition in which the thyroid gland is underactive. Which of the conditions are the following two patients most likely to have?</para>
+    <para id="fs-idm245544800">Patient A has symptoms including weight gain, cold sensitivity, low heart rate and fatigue.</para>
+<para id="fs-idm11446432">Patient B has symptoms including weight loss, profuse sweating, increased heart rate and difficulty sleeping.</para>
+<!--<para><link target-id="fig-ch37_04_01" document=""/>Patient A has symptoms associated with decreased metabolism, and may be suffering from hypothyroidism. Patient B has symptoms associated with increased metabolism, and may be suffering from hyperthyroidism.</para>-->
+</note><section id="fs-idm75946256">
+<title>Humoral Stimuli</title>
+<para id="fs-idm194170224">The term &#8220;humoral&#8221; is derived from the term &#8220;humor,&#8221; which refers to bodily fluids such as blood. A <term>humoral stimulus</term> refers to the control of hormone release in response to changes in extracellular fluids such as blood or the ion concentration in the blood. For example, a rise in blood glucose levels triggers the pancreatic release of insulin. Insulin causes blood glucose levels to drop, which signals the pancreas to stop producing insulin in a negative feedback loop.</para>
+</section>
+<section id="fs-idp33858560">
+<title>Hormonal Stimuli</title>
+<para id="fs-idm308644432"><term>Hormonal stimuli</term> refers to the release of a hormone in response to another hormone. A number of endocrine glands release hormones when stimulated by hormones released by other endocrine glands. For example, the hypothalamus produces hormones that stimulate the anterior portion of the pituitary gland. The anterior pituitary in turn releases hormones that regulate hormone production by other endocrine glands. The anterior pituitary releases the thyroid-stimulating hormone, which then stimulates the thyroid gland to produce the hormones T<sub>3</sub> and T<sub>4</sub>. As blood concentrations of T<sub>3</sub> and T<sub>4</sub> rise, they inhibit both the pituitary and the hypothalamus in a negative feedback loop.</para>
+</section>
+<section id="fs-idm229832800">
+<title>Neural Stimuli</title>
+<para id="fs-idm153624816">In some cases, the nervous system directly stimulates endocrine glands to release hormones, which is referred to as <term>neural stimuli</term>. Recall that in a short-term stress response, the hormones epinephrine and norepinephrine are important for providing the bursts of energy required for the body to respond. Here, neuronal signaling from the sympathetic nervous system directly stimulates the adrenal medulla to release the hormones epinephrine and norepinephrine in response to stress.</para>
+</section>
+<section id="fs-idm35861520" class="summary">
+<title>Section Summary</title><para id="fs-idm53761088">Hormone levels are primarily controlled through negative feedback, in which rising levels of a hormone inhibit its further release. The three mechanisms of hormonal release are humoral stimuli, hormonal stimuli, and neural stimuli. Humoral stimuli refers to the control of hormonal release in response to changes in extracellular fluid levels or ion levels. Hormonal stimuli refers to the release of hormones in response to hormones released by other endocrine glands. Neural stimuli refers to the release of hormones in response to neural stimulation.</para>
+    </section>
+<section id="fs-idp118107104" class="art-exercise">
+    <title>Art Connections</title>
+<exercise id="fs-idm135591200">
+    <problem id="fs-idm28564128">
+    <para id="fs-idm207418816"><link target-id="fig-ch37_04_01" document=""/> Hyperthyroidism is a condition in which the thyroid gland is overactive. Hypothyroidism is a condition in which the thyroid gland is underactive. Which of the conditions are the following two patients most likely to have?</para>
+<para id="fs-idm192489616">Patient A has symptoms including weight gain, cold sensitivity, low heart rate and fatigue.</para>
+<para id="fs-idm116901904">Patient B has symptoms including weight loss, profuse sweating, increased heart rate and difficulty sleeping.</para>
+</problem>
+<solution id="fs-idm17120448">
+    <label/>
+    <para id="fs-idm145438880"><link target-id="fig-ch37_04_01" document=""/> Patient A has symptoms associated with decreased metabolism, and may be suffering from hypothyroidism. Patient B has symptoms associated with increased metabolism, and may be suffering from hyperthyroidism.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm28682384" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp19901472">
+<problem id="fs-idm105967744"><para id="fs-idm77593920">A rise in blood glucose levels triggers release of insulin from the pancreas. This mechanism of hormone production is stimulated by:</para>
+<list id="fs-idm169271472" list-type="enumerated" number-style="lower-alpha">
+<item>humoral stimuli</item>
+<item>hormonal stimuli</item>
+<item>neural stimuli</item>
+<item>negative stimuli</item>
+</list>
+</problem>
+<solution id="fs-idm236313760">
+<label/>
+<para id="fs-idm71687984">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm120216224">
+<problem id="fs-idm181686592"><para id="fs-idm92075088">Which mechanism of hormonal stimulation would be affected if signaling and hormone release from the hypothalamus was blocked?</para>
+<list id="fs-idm175267472" list-type="enumerated" number-style="lower-alpha">
+<item>humoral and hormonal stimuli</item>
+<item>hormonal and neural stimuli</item>
+<item>neural and humoral stimuli</item>
+<item>hormonal and negative stimuli</item>
+</list>
+</problem>
+<solution id="fs-idm89513632">
+<label/>
+<para id="fs-idp5030656">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm201728608" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm197495200">
+<problem id="fs-idp72654608"><para id="fs-idm232570096">How is hormone production and release primarily controlled?</para></problem>
+<solution id="fs-idm223774464"><label/>
+<para id="fs-idm223781776">Hormone production and release are primarily controlled by negative feedback. In negative feedback systems, a stimulus causes the release of a substance whose effects then inhibit further release. In this way, the concentration of hormones in blood is maintained within a narrow range. For example, the anterior pituitary signals the thyroid to release thyroid hormones. Increasing levels of these hormones in the blood then feed back to the hypothalamus and anterior pituitary to inhibit further signaling to the thyroid gland.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm235970128">
+<problem id="fs-idm182164944"><para id="fs-idm115711392">Compare and contrast hormonal and humoral stimuli.</para></problem>
+<solution id="fs-idm145538736"><label/>
+<para id="fs-idm87574912">The term humoral is derived from the term humor, which refers to bodily fluids such as blood. Humoral stimuli refer to the control of hormone release in response to changes in extracellular fluids such as blood or the ion concentration in the blood. For example, a rise in blood glucose levels triggers the pancreatic release of insulin. Insulin causes blood glucose levels to drop, which signals the pancreas to stop producing insulin in a negative feedback loop.</para>
+<para id="fs-idm189840976">Hormonal stimuli refer to the release of a hormone in response to another hormone. A number of endocrine glands release hormones when stimulated by hormones released by other endocrine organs. For example, the hypothalamus produces hormones that stimulate the anterior pituitary. The anterior pituitary in turn releases hormones that regulate hormone production by other endocrine glands. For example, the anterior pituitary releases thyroid-stimulating hormone, which stimulates the thyroid gland to produce the hormones T<sub>3</sub> and T<sub>4</sub>. As blood concentrations of T<sub>3</sub> and T<sub>4</sub> rise they inhibit both the pituitary and the hypothalamus in a negative feedback loop.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm153653712"><term>hormonal stimuli</term> <meaning id="fs-idm241270288">release of a hormone in response to another hormone</meaning></definition>
+<definition id="fs-idm84399184"><term>humoral stimuli</term> <meaning id="fs-idm181621136">control of hormone release in response to changes in extracellular fluids such as blood or the ion concentration in the blood</meaning></definition>
+<definition id="fs-idp63459664"><term>neural stimuli</term> <meaning id="fs-idm271482400">stimulation of endocrine glands by the nervous system</meaning></definition>
+</glossary>
+</document>

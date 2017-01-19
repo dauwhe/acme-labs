@@ -1,0 +1,118 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44561/latest/</md:content-url>
+  <md:content-id>m44561</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.2</md:version>
+  <md:created>2012/08/23 14:06:27 -0500</md:created>
+  <md:revised>2013/02/26 11:30:32.896 US/Central</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>adaptation</md:keyword>
+    <md:keyword>adaptive radiation</md:keyword>
+    <md:keyword>Alfred Wallace</md:keyword>
+    <md:keyword>allopatric speciation</md:keyword>
+    <md:keyword>allopolyploidy</md:keyword>
+    <md:keyword>aneuploidy</md:keyword>
+    <md:keyword>autopolyploidy</md:keyword>
+    <md:keyword>behavioral isolation</md:keyword>
+    <md:keyword>biological species concept</md:keyword>
+    <md:keyword>Charles Darwin</md:keyword>
+    <md:keyword>chromosomal sympatric speciation</md:keyword>
+    <md:keyword>convergent evolution</md:keyword>
+    <md:keyword>dispersal</md:keyword>
+    <md:keyword>divergent evolution</md:keyword>
+    <md:keyword>evolution</md:keyword>
+    <md:keyword>evolution evidence</md:keyword>
+    <md:keyword>evolution theory</md:keyword>
+    <md:keyword>evolutionary thought</md:keyword>
+    <md:keyword>evolving new species</md:keyword>
+    <md:keyword>field biologist</md:keyword>
+    <md:keyword>gametic barrier</md:keyword>
+    <md:keyword>gradual species model</md:keyword>
+    <md:keyword>habitat isolation</md:keyword>
+    <md:keyword>homologous structure</md:keyword>
+    <md:keyword>hybrid</md:keyword>
+    <md:keyword>hybrid sterility</md:keyword>
+    <md:keyword>hybrid viability</md:keyword>
+    <md:keyword>hybrid zone</md:keyword>
+    <md:keyword>natural selection</md:keyword>
+    <md:keyword>origin of species</md:keyword>
+    <md:keyword>outbreeding</md:keyword>
+    <md:keyword>patterns of evolution</md:keyword>
+    <md:keyword>postzygotic barrier</md:keyword>
+    <md:keyword>prezygotic barrier</md:keyword>
+    <md:keyword>punctuated equilibrium</md:keyword>
+    <md:keyword>rate of speciation</md:keyword>
+    <md:keyword>rates of speciation</md:keyword>
+    <md:keyword>reconnection</md:keyword>
+    <md:keyword>reproduction</md:keyword>
+    <md:keyword>reproductive barrier</md:keyword>
+    <md:keyword>reproductive isolation</md:keyword>
+    <md:keyword>sexual dimorphism</md:keyword>
+    <md:keyword>speciation</md:keyword>
+    <md:keyword>species</md:keyword>
+    <md:keyword>sympatric speciation</md:keyword>
+    <md:keyword>temporal isolation</md:keyword>
+    <md:keyword>variation</md:keyword>
+    <md:keyword>vestigial structure</md:keyword>
+    <md:keyword>vicariance</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+
+<?cnx.eoc class="summary" title="Sections Summary"?>
+<?cnx.eoc class="art-exercise" title="Art Connections"?>
+<?cnx.eoc class="multiple-choice" title="Multiple Choice"?>
+<?cnx.eoc class="free-response" title="Free Response"?>
+
+<figure id="fig-ch18_00_01" class="splash"><media id="fs-idp113474880" alt=" The photo on the left shows large, stalk-like saguaro cacti with multiple arms, and the photo on the right shows a lizard on a rock.">
+<image mime-type="image/jpg" src="Figure_18_00_01ab.jpg" width="600"/>
+</media>
+
+<caption>All organisms are products of evolution adapted to their environment. (a) Saguaro (<emphasis effect="italics">Carnegiea gigantea</emphasis>) can soak up 750 liters of water in a single rain storm, enabling these cacti to survive the dry conditions of the Sonora desert in Mexico and the Southwestern United States. (b) The Andean semiaquatic lizard (<emphasis effect="italics">Potamites montanicola</emphasis>) discovered in Peru in 2010 lives between 1,570 to 2,100 meters in elevation, and, unlike most lizards, is nocturnal and swims. Scientists still do no know how these cold-blood animals are able to move in the cold (10 to 15&#176;C) temperatures of the Andean night. (credit a: modification of work by Gentry George, U.S. Fish and Wildlife Service; credit b: modification of work by Germ&#225;n Ch&#225;vez and Diego V&#225;squez, <emphasis effect="italics">ZooKeys</emphasis>)</caption></figure><para id="fs-idm44006080">All species of living organisms, from bacteria to baboons to blueberries, evolved at some point from a different species. Although it may seem that living things today stay much the same, that is not the case&#8212;evolution is an ongoing process.</para>
+<para id="fs-idp80783968">The theory of evolution is the unifying theory of biology, meaning it is the framework within which biologists ask questions about the living world. Its power is that it provides direction for predictions about living things that are borne out in experiment after experiment. The Ukrainian-born American geneticist Theodosius Dobzhansky famously wrote that &#8220;nothing makes sense in biology except in the light of evolution.&#8221;<sup><footnote id="fs-idp6043216">Theodosius Dobzhansky. &#8220;Biology, Molecular and Organismic.&#8221; <emphasis effect="italics">American Zoologist</emphasis> 4, no. 4 (1964): 449.</footnote></sup> He meant that the tenet that all life has evolved and diversified from a common ancestor is the foundation from which we approach all questions in biology.</para></content>
+</document>

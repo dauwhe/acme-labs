@@ -1,0 +1,188 @@
+<?xml version="1.0"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Prokaryotic Transcription</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml"
+          mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>https://legacy.cnx.org/content</md:repository>
+  <md:content-url>https://legacy.cnx.org/content/m44523/latest/</md:content-url>
+  <md:content-id>m44523</md:content-id>
+  <md:title>Prokaryotic Transcription</md:title>
+  <md:version>1.7</md:version>
+  <md:created>2012/08/23 13:50:56 -0500</md:created>
+  <md:revised>2016/02/25 15:32:06.052 US/Central</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax</md:shortname>
+      <md:fullname>OpenStax</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>consensus</md:keyword>
+    <md:keyword>core enzyme</md:keyword>
+    <md:keyword>downstream</md:keyword>
+    <md:keyword>gene</md:keyword>
+    <md:keyword>genes</md:keyword>
+    <md:keyword>hairpin</md:keyword>
+    <md:keyword>holoenzyme</md:keyword>
+    <md:keyword>initiation site</md:keyword>
+    <md:keyword>nontemplate strand</md:keyword>
+    <md:keyword>plasmid</md:keyword>
+    <md:keyword>prokaryotic transcription</md:keyword>
+    <md:keyword>promoter</md:keyword>
+    <md:keyword>protein</md:keyword>
+    <md:keyword>proteins</md:keyword>
+    <md:keyword>Rho-dependent termination</md:keyword>
+    <md:keyword>Rho-independent termination</md:keyword>
+    <md:keyword>TATA box</md:keyword>
+    <md:keyword>template strand</md:keyword>
+    <md:keyword>transcription bubble</md:keyword>
+    <md:keyword>upstream</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>List the different steps in prokaryotic transcription</item>
+<item>Discuss the role of promoters in prokaryotic transcription</item>
+<item>Describe how and when transcription is terminated</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-id1468209">The prokaryotes, which include bacteria and archaea, are mostly single-celled organisms that, by definition, lack membrane-bound nuclei and other organelles. A bacterial chromosome is a covalently
+closed circle that, unlike eukaryotic chromosomes, is not organized around histone proteins. The central region of the cell in which prokaryotic DNA resides is called the nucleoid. In addition, prokaryotes often have abundant <term>plasmids</term>, which are shorter circular DNA molecules that may only contain one or a few genes. Plasmids can be transferred independently of the bacterial chromosome during cell division and often carry traits such as antibiotic resistance.</para><para id="fs-id671101">Transcription in prokaryotes (and in eukaryotes) requires the DNA double helix to partially unwind in the region of mRNA synthesis. The region of unwinding is called a <term>transcription bubble.</term> Transcription always proceeds from the same DNA strand for each gene, which is called the <term>template strand</term>. The mRNA product is complementary to the template strand and is almost identical to the other DNA strand, called the <term>nontemplate strand</term>. The only difference is that in mRNA, all of the T nucleotides are replaced with U nucleotides. In an RNA double helix, A can bind U via two hydrogen bonds, just as in A–T pairing in a DNA double helix.</para>
+<para id="fs-id1520179">The nucleotide pair in the DNA double helix that corresponds to the site from which the first 5' mRNA nucleotide is transcribed is called the +1 site, or the <term>initiation site</term>. Nucleotides preceding the initiation site are given negative numbers and are designated <term>upstream</term>. Conversely, nucleotides following the initiation site are denoted with “+” numbering and are called <term>downstream</term> nucleotides.</para>
+<section id="fs-id2899946">
+<title>Initiation of Transcription in Prokaryotes</title>
+<para id="fs-id2321141">Prokaryotes do not have membrane-enclosed nuclei. Therefore, the processes of transcription, translation, and mRNA degradation can all occur simultaneously. The intracellular level of a bacterial protein can quickly be amplified by multiple transcription and translation events occurring concurrently on the same DNA template. Prokaryotic transcription often covers more than one gene and produces polycistronic mRNAs that specify more than one protein.</para>
+<para id="fs-id2117424">Our discussion here will exemplify transcription by describing this process in <emphasis effect="italics">Escherichia coli</emphasis>, a well-studied bacterial species. Although some differences exist between transcription in <emphasis effect="italics">E. coli</emphasis> and transcription in archaea, an understanding of <emphasis effect="italics">E. coli </emphasis>transcription can be applied to virtually all bacterial species.</para>
+<section id="fs-id2016560">
+<title>Prokaryotic RNA Polymerase</title>
+<para id="fs-id1694517">Prokaryotes use the same RNA polymerase to transcribe all of their genes. In <emphasis effect="italics">E. coli</emphasis>, the polymerase is composed of five polypeptide subunits, two of which are identical. Four of these subunits, denoted <emphasis effect="italics">α</emphasis>, <emphasis effect="italics">α</emphasis>, <emphasis effect="italics">β</emphasis>, and <emphasis effect="italics">β</emphasis>' comprise the polymerase <term>core enzyme</term>. These subunits assemble every time a gene is transcribed, and they disassemble once transcription is complete. Each subunit has a unique role; the two <emphasis effect="italics">α</emphasis>-subunits are necessary to assemble the polymerase on the DNA; the <emphasis effect="italics">β</emphasis>-subunit binds to the ribonucleoside triphosphate that will become part of the nascent “recently born” mRNA molecule; and the <emphasis effect="italics">β</emphasis>' binds the DNA template strand. The fifth subunit, <emphasis effect="italics">σ</emphasis>, is involved only in transcription initiation. It confers transcriptional specificity such that the polymerase begins to synthesize mRNA from an appropriate initiation site. Without <emphasis effect="italics">σ</emphasis>, the core enzyme would transcribe from random sites and would produce mRNA molecules that specified protein gibberish. The polymerase comprised of all five subunits is called the <term>holoenzyme</term>.</para>
+</section>
+<section id="fs-id653506">
+<title>Prokaryotic Promoters</title>
+<para id="fs-id1236812">A <term>promoter</term> is a DNA sequence onto which the transcription machinery binds and initiates transcription. In most cases, promoters exist upstream of the genes they regulate. The specific sequence of a promoter is very important because it determines whether the corresponding gene is transcribed all the time, some of the time, or infrequently. Although promoters vary among prokaryotic genomes, a few elements are conserved. At the -10 and -35 regions upstream of the initiation site, there are two promoter <term>consensus</term> sequences, or regions that are similar across all promoters and across various bacterial species (<link target-id="fig-ch15_02_01" document=""/>). The -10 consensus sequence, called the -10 region, is TATAAT. The -35 sequence, TTGACA, is recognized and bound by <emphasis effect="italics">σ</emphasis>. Once this interaction is made, the subunits of the core enzyme bind to the site. The A–T-rich -10 region facilitates unwinding of the DNA template, and several phosphodiester bonds are made. The transcription initiation phase ends with the production of abortive transcripts, which are polymers of approximately 10 nucleotides that are made and released.</para><figure id="fig-ch15_02_01"><media id="fs-id1482493" alt="Illustration shows the &#x3C3; subunit of RNA polymerase bound to two consensus sequences that are 10 and 35 bases upstream of the transcription start site. RNA polymerase is bound to &#x3C3;.">
+<image mime-type="image/jpg" src="Figure_15_02_01.jpg" width="350"/>
+</media>
+<caption>The <emphasis effect="italics">σ</emphasis> subunit of prokaryotic RNA polymerase recognizes consensus sequences found in the promoter region upstream of the transcription start sight. The <emphasis effect="italics">σ</emphasis> subunit dissociates from the polymerase after transcription has been initiated.</caption></figure><note id="fs-id889157" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-id2217094" alt="QR Code representing a URL"> 
+<image mime-type="image/png" src="transcription.png" width="120"/> 
+</media> 
+<para id="fs-id1292460">View this <link window="new" url="http://openstaxcollege.org/l/transcription">MolecularMovies animation</link> to see the first part of transcription and the base sequence repetition of the TATA box.</para>
+</note></section>
+</section>
+
+<section id="fs-id1298841">
+<title>Elongation and Termination in Prokaryotes</title>
+<para id="fs-id3319239">The transcription elongation phase begins with the release of the <emphasis effect="italics">σ</emphasis> subunit from the polymerase. The dissociation of <emphasis effect="italics">σ</emphasis> allows the core enzyme to proceed along the DNA template, synthesizing mRNA in the 5' to 3' direction at a rate of approximately 40 nucleotides per second. As elongation proceeds, the DNA is continuously unwound ahead of the core enzyme and rewound behind it (<link target-id="fig-ch15_02_02" document=""/>). The base pairing between DNA and RNA is not stable enough to maintain the stability of the mRNA synthesis components. Instead, the RNA polymerase acts as a stable linker between the DNA template and the nascent RNA strands to ensure that elongation is not interrupted prematurely.</para>
+<figure id="fig-ch15_02_02"><media id="fs-id3014452" alt="Illustration shows RNA synthesis by RNA polymerase. The RNA strand is synthesized in the 5' to 3' direction.">
+<image mime-type="image/jpg" src="Figure_15_02_02.jpg" width="425"/>
+</media>
+<caption>During elongation, the prokaryotic RNA polymerase tracks along the DNA template, synthesizes mRNA in the 5' to 3' direction, and unwinds and rewinds the DNA as it is read.</caption></figure></section>
+
+<section id="fs-id1318146">
+<title>Prokaryotic Termination Signals</title>
+<para id="fs-id1403735">Once a gene is transcribed, the prokaryotic polymerase needs to be instructed to dissociate from the DNA template and liberate the newly made mRNA. Depending on the gene being transcribed, there are two kinds of termination signals. One is protein-based and the other is RNA-based. <term>Rho-dependent termination</term> is controlled by the rho protein, which tracks along behind the polymerase on the growing mRNA chain. Near the end of the gene, the polymerase encounters a run of G nucleotides on the DNA template and it stalls. As a result, the rho protein collides with the polymerase. The interaction with rho releases the mRNA from the transcription bubble.</para>
+<para id="fs-id2629848"><term>Rho-independent termination</term> is controlled by specific sequences in the DNA template strand. As the polymerase nears the end of the gene being transcribed, it encounters a region rich in C–G nucleotides. The mRNA folds back on itself, and the complementary C–G nucleotides bind together. The result is a stable <term>hairpin</term> that causes the polymerase to stall as soon as it begins to transcribe a region rich in A–T nucleotides. The complementary U–A region of the mRNA transcript forms only a weak interaction with the template DNA. This, coupled with the stalled polymerase, induces enough instability for the core enzyme to break away and liberate the new mRNA transcript.</para>
+<para id="fs-id2114520">Upon termination, the process of transcription is complete. By the time termination occurs, the prokaryotic transcript would already have been used to begin synthesis of numerous copies of the encoded protein because these processes can occur concurrently. The unification of transcription, translation, and even mRNA degradation is possible because all of these processes occur in the same 5' to 3' direction, and because there is no membranous compartmentalization in the prokaryotic cell (<link target-id="fig-ch15_02_03" document=""/>). In contrast, the presence of a nucleus in eukaryotic cells precludes simultaneous transcription and translation.</para>
+<figure id="fig-ch15_02_03"><media id="fs-id1260172" alt="Illustration shows multiple mRNAs transcribed off one gene. Ribosomes attach to the mRNA before transcription is complete and begin to make protein.">
+<image mime-type="image/jpg" src="Figure_15_02_03.jpg" width="350"/>
+</media>
+<caption>Multiple polymerases can transcribe a single bacterial gene while numerous ribosomes concurrently translate the mRNA transcripts into polypeptides. In this way, a specific protein can rapidly reach a high concentration in the bacterial cell.</caption></figure><note id="fs-id2626015" class="interactive"><label/><title>Link to Learning</title> 
+<media id="fs-id2608514" alt="QR Code representing a URL">
+<image mime-type="image/png" src="transcription2.png" width="120"/>
+ </media> 
+<para id="fs-id2701078">Visit this <link window="new" url="http://openstaxcollege.org/l/transcription2"> BioStudio animation</link> to see the process of prokaryotic transcription.</para>
+</note></section>
+
+<section id="fs-id2316839" class="summary"> <title>Section Summary</title><para id="fs-id1265785">In prokaryotes, mRNA synthesis is initiated at a promoter sequence on the DNA template comprising two consensus sequences that recruit RNA polymerase. The prokaryotic polymerase consists of a core enzyme of four protein subunits and a <emphasis effect="italics">σ</emphasis> protein that assists only with initiation. Elongation synthesizes mRNA in the 5' to 3' direction at a rate of 40 nucleotides per second. Termination liberates the mRNA and occurs either by rho protein interaction or by the formation of an mRNA hairpin.</para>
+</section>
+
+<section id="fs-id2642257" class="multiple-choice"> <title>Review Questions</title><exercise id="fs-id2914875">
+<problem id="fs-id1420578"><para id="fs-id1404598">Which subunit of the <emphasis effect="italics">E. coli</emphasis> polymerase confers specificity to transcription?</para>
+<list id="fs-id1425193" list-type="enumerated" number-style="lower-alpha">
+<item><emphasis effect="italics">α</emphasis></item>
+<item><emphasis effect="italics">β</emphasis></item>
+<item><emphasis effect="italics">β</emphasis>'</item>
+<item><emphasis effect="italics">σ</emphasis></item>
+</list>
+</problem>
+<solution id="fs-id890335"> <label/> <para id="fs-id1006438">D</para> </solution>
+</exercise>
+<exercise id="fs-id1313546">
+<problem id="fs-id1957391"><para id="fs-id1394141">The -10 and -35 regions of prokaryotic promoters are called consensus sequences because ________.</para>
+<list id="fs-id1704430" list-type="enumerated" number-style="lower-alpha">
+<item>they are identical in all bacterial species</item>
+<item>they are similar in all bacterial species</item>
+<item>they exist in all organisms</item>
+<item>they have the same function in all organisms</item>
+</list>
+</problem>
+<solution id="fs-id846953"> <label/> <para id="fs-id1605467">B</para> </solution>
+</exercise>
+</section>
+
+<section id="fs-id1387341" class="free-response"> <title>Free Response</title>
+<exercise id="fs-id1444265">
+<problem id="fs-id1427093"><para id="fs-id1414962">If mRNA is complementary to the DNA template strand and the DNA template strand is complementary to the DNA nontemplate strand, then why are base sequences of mRNA and the DNA nontemplate strand not identical? Could they ever be?</para></problem>
+<solution id="fs-id1291455"><label/> <para id="fs-id1432929">DNA is different from RNA in that T nucleotides in DNA are replaced with U nucleotides in RNA. Therefore, they could never be identical in base sequence.</para></solution>
+</exercise>
+<exercise id="fs-id1385377">
+<problem id="fs-id1165423"><para id="fs-id889896">In your own words, describe the difference between rho-dependent and rho-independent termination of transcription in prokaryotes.</para></problem>
+<solution id="fs-id2896656"><label/> <para id="fs-id1393826">Rho-dependent termination is controlled by the rho protein, which tracks along behind the polymerase on the growing mRNA chain. Near the end of the gene, the polymerase stalls at a run of G nucleotides on the DNA template. The rho protein collides with the polymerase and releases mRNA from the transcription bubble. Rho-independent termination is controlled by specific sequences in the DNA template strand. As the polymerase nears the end of the gene being transcribed, it encounters a region rich in C–G nucleotides. This creates an mRNA hairpin that causes the polymerase to stall right as it begins to transcribe a region rich in A–T nucleotides. Because A–U bonds are less thermostable, the core enzyme falls away.</para></solution>
+</exercise>
+</section> 
+</content>
+
+<glossary>
+<definition id="fs-id1414556"><term>consensus</term> <meaning id="fs-id1454273">DNA sequence that is used by many species to perform the same or similar functions</meaning></definition>
+<definition id="fs-id1423662"><term>core enzyme</term> <meaning id="fs-id1262355">prokaryotic RNA polymerase consisting of <emphasis effect="italics">α</emphasis>, <emphasis effect="italics">α</emphasis>, <emphasis effect="italics">β</emphasis>, and <emphasis effect="italics">β</emphasis>' but missing <emphasis effect="italics">σ</emphasis>; this complex performs elongation</meaning></definition>
+<definition id="fs-id1988912"><term>downstream</term> <meaning id="fs-id1471397">nucleotides following the initiation site in the direction of mRNA transcription; in general, sequences that are toward the 3' end relative to a site on the mRNA</meaning></definition>
+<definition id="fs-id1569194"><term>hairpin</term> <meaning id="fs-id1294148">structure of RNA when it folds back on itself and forms intramolecular hydrogen bonds between complementary nucleotides</meaning></definition>
+<definition id="fs-id1700226"><term>holoenzyme</term> <meaning id="fs-id1770973">prokaryotic RNA polymerase consisting of <emphasis effect="italics">α</emphasis>, <emphasis effect="italics">α</emphasis>, <emphasis effect="italics">β</emphasis>, <emphasis effect="italics">β</emphasis>', and <emphasis effect="italics">σ</emphasis>; this complex is responsible for transcription initiation</meaning></definition>
+<definition id="fs-id1920696"><term>initiation site</term> <meaning id="fs-id2042376">nucleotide from which mRNA synthesis proceeds in the 5' to 3' direction; denoted with a “+1”</meaning></definition>
+<definition id="fs-id1313517"><term>nontemplate strand</term> <meaning id="fs-id1560919">strand of DNA that is not used to transcribe mRNA; this strand is identical to the mRNA except that T nucleotides in the DNA are replaced by U nucleotides in the mRNA</meaning></definition>
+<definition id="fs-id1470681"><term>plasmid</term> <meaning id="fs-id2010976">extrachromosomal, covalently closed, circular DNA molecule that may only contain one or a few genes; common in prokaryotes</meaning></definition>
+<definition id="fs-id1270422"><term>promoter</term> <meaning id="fs-id1288688">DNA sequence to which RNA polymerase and associated factors bind and initiate transcription</meaning></definition>
+<definition id="fs-id1340171"><term>Rho-dependent termination</term> <meaning id="fs-id1703373">in prokaryotes, termination of transcription by an interaction between RNA polymerase and the rho protein at a run of G nucleotides on the DNA template</meaning></definition>
+<definition id="fs-id1438024"><term>Rho-independent</term> <meaning id="fs-id1438741">termination sequence-dependent termination of prokaryotic mRNA synthesis; caused by hairpin formation in the mRNA that stalls the polymerase</meaning></definition>
+<definition id="fs-id1651328"><term>TATA box</term> <meaning id="fs-id1266812">conserved promoter sequence in eukaryotes and prokaryotes that helps to establish the initiation site for transcription</meaning></definition>
+<definition id="fs-id2655268"><term>template strand</term> <meaning id="fs-id1452049">strand of DNA that specifies the complementary mRNA molecule</meaning></definition>
+<definition id="fs-id1450421"><term>transcription bubble</term> <meaning id="fs-id1797681">region of locally unwound DNA that allows for transcription of mRNA</meaning></definition>
+<definition id="fs-id1386997"><term>upstream</term> <meaning id="fs-id2331355">nucleotides preceding the initiation site; in general, sequences toward the 5' end relative to a site on the mRNA</meaning></definition>
+</glossary>
+
+</document>

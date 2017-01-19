@@ -1,0 +1,478 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Nutrition and Energy Production</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44740/latest/</md:content-url>
+  <md:content-id>m44740</md:content-id>
+  <md:title>Nutrition and Energy Production</md:title>
+  <md:version>1.5</md:version>
+  <md:created>2012/08/23 15:25:53 -0500</md:created>
+  <md:revised>2013/06/21 09:35:47.685 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>amino acid</md:keyword>
+    <md:keyword>animal digestion</md:keyword>
+    <md:keyword>digestive system</md:keyword>
+    <md:keyword>essential nutrient</md:keyword>
+    <md:keyword>food energy</md:keyword>
+    <md:keyword>food requirements</md:keyword>
+    <md:keyword>mineral</md:keyword>
+    <md:keyword>nutrition</md:keyword>
+    <md:keyword>obesity</md:keyword>
+    <md:keyword>vitamin</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain why an animal&#8217;s diet should be balanced and meet the needs of the body</item>
+<item>Define the primary components of food</item>
+<item>Describe the essential nutrients required for cellular function that cannot be synthesized by the animal body</item>
+<item>Explain how energy is produced through diet and digestion</item>
+<item>Describe how excess carbohydrates and energy are stored in the body</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idp77758880">Given the diversity of animal life on our planet, it is not surprising that the animal diet would also vary substantially. The animal diet is the source of materials needed for building DNA and other complex molecules needed for growth, maintenance, and reproduction; collectively these processes are called biosynthesis. The diet is also the source of materials for ATP production in the cells. The diet must be balanced to provide the minerals and vitamins that are required for cellular function.</para>
+<section id="fs-idm48145328"><title>Food Requirements</title><para id="fs-idp31826112">What are the fundamental requirements of the animal diet? The animal diet should be well balanced and provide nutrients required for bodily function and the minerals and vitamins required for maintaining structure and regulation necessary for good health and reproductive capability. These requirements for a human are illustrated graphically in <link target-id="fig-ch34_02_01" document=""/></para>
+<figure id="fig-ch34_02_01" class=" "><media id="fs-idp161017968" alt="Healthy diet logo shows a plate divided into four sections, labeled &#8220;fruits&#8221;, &#8220;vegetables&#8221; &#8220;grains,&#8221; and &#8220;protein&#8221;. The vegetables section is slightly larger than the other three. A circle to the side of the plate is labeled &#8220;dairy&#8221;. Beneath the plate is the web address &#8220;Choose My Plate dot gov&#8221;.">
+<image mime-type="image/jpg" src="Figure_34_02_01.jpg" width="300"/>
+</media>
+<caption>For humans, a balanced diet includes fruits, vegetables, grains, and protein. (credit: USDA)</caption></figure><note id="fs-idp122053808" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idm19654000" alt="QR Code representing a URL">
+<image mime-type="image/png" src="food_groups.png" width="120"/>
+</media>
+<para id="fs-idp61283712">The first step in ensuring that you are meeting the food requirements of your body is an awareness of the food groups and the nutrients they provide. To learn more about each food group and the recommended daily amounts, explore this <link window="new" url="http://openstaxcollege.org/l/food_groups">interactive site</link> by the United States Department of Agriculture. </para>
+    </note><note id="fs-idm42009408" class="everyday"><label/><title>Everyday Connection</title>
+
+<para id="fs-idp18762768"><title>Let&#8217;s Move! Campaign</title>Obesity is a growing epidemic and the rate of obesity among children is rapidly rising in the United States. To combat childhood obesity and ensure that children get a healthy start in life, first lady Michelle Obama has launched the Let&#8217;s Move! campaign. The goal of this campaign is to educate parents and caregivers on providing healthy nutrition and encouraging active lifestyles to future generations. This program aims to involve the entire community, including parents, teachers, and healthcare providers to ensure that children have access to healthy foods&#8212;more fruits, vegetables, and whole grains&#8212;and consume fewer calories from processed foods. Another goal is to ensure that children get physical activity. With the increase in television viewing and stationary pursuits such as video games, sedentary lifestyles have become the norm. Learn more at www.letsmove.gov.</para>
+</note><section id="fs-idp112136448">
+<title>Organic Precursors</title>
+<para id="fs-idm162453888">The organic molecules required for building cellular material and tissues must come from food. Carbohydrates or sugars are the primary source of organic carbons in the animal body. During digestion, digestible carbohydrates are ultimately broken down into glucose and used to provide energy through metabolic pathways. Complex carbohydrates, including polysaccharides, can be broken down into glucose through biochemical modification; however, humans do not produce the enzyme cellulase and lack the ability to derive glucose from the polysaccharide cellulose. In humans, these molecules provide the fiber required for moving waste through the large intestine and a healthy colon. The intestinal flora in the human gut are able to extract some nutrition from these plant fibers. The excess sugars in the body are converted into glycogen and stored in the liver and muscles for later use. Glycogen stores are used to fuel prolonged exertions, such as long-distance running, and to provide energy during food shortage. Excess glycogen can be converted to fats, which are stored in the lower layer of the skin of mammals for insulation and energy storage. Excess digestible carbohydrates are stored by mammals in order to survive famine and aid in mobility.</para>
+<para id="fs-idp61018384">Another important requirement is that of nitrogen. Protein catabolism provides a source of organic nitrogen. Amino acids are the building blocks of proteins and protein breakdown provides amino acids that are used for cellular function. The carbon and nitrogen derived from these become the building block for nucleotides, nucleic acids, proteins, cells, and tissues. Excess nitrogen must be excreted as it is toxic. Fats add flavor to food and promote a sense of satiety or fullness. Fatty foods are also significant sources of energy because one gram of fat contains nine calories. Fats are required in the diet to aid the absorption of fat-soluble vitamins and the production of fat-soluble hormones.</para>
+</section>
+<section id="fs-idp170425168"><title>Essential Nutrients</title><para id="fs-idp107662208">While the animal body can synthesize many of the molecules required for function from the organic precursors, there are some nutrients that need to be consumed from food. These nutrients are termed <term>essential nutrients</term>, meaning they must be eaten, and the body cannot produce them.</para>
+<para id="fs-idm45881456">The omega-3 alpha-linolenic acid and the omega-6 linoleic acid are essential fatty acids needed to make some membrane phospholipids. <term>Vitamins</term> are another class of essential organic molecules that are required in small quantities for many enzymes to function and, for this reason, are considered to be co-enzymes. Absence or low levels of vitamins can have a dramatic effect on health, as outlined in <link target-id="tab-ch34_02_01" document=""/> and <link target-id="tab-ch34_02_02" document=""/>. Both fat-soluble and water-soluble vitamins must be obtained from food. <term>Minerals</term>, listed in <link target-id="tab-ch34_02_03" document=""/>, are inorganic essential nutrients that must be obtained from food. Among their many functions, minerals help in structure and regulation and are considered co-factors. Certain amino acids also must be procured from food and cannot be synthesized by the body. These amino acids are the &#8220;essential&#8221; amino acids. The human body can synthesize only 11 of the 20 required amino acids; the rest must be obtained from food. The essential amino acids are listed in <link target-id="tab-ch34_02_04" document=""/>.</para>
+    <table id="tab-ch34_02_01" summary="">
+        <tgroup cols="4" align="left">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <thead>
+            <row><entry namest="c1" nameend="c4">Water-soluble Essential Vitamins</entry></row>
+                <row>
+                    <entry align="center">Vitamin</entry>
+                    <entry align="center">Function</entry>
+                    <entry align="center">Deficiencies Can Lead To</entry>
+                    <entry align="center">Sources</entry>
+                </row>
+            </thead>
+            <tbody>
+            <row>
+            <entry align="center">Vitamin B<sub>1</sub> (Thiamine)</entry>
+                <entry>Needed by the body to process lipids, proteins, and carbohydrates Coenzyme removes CO<sub>2</sub> from organic compounds</entry>
+                <entry>Muscle weakness, Beriberi: reduced heart function, CNS problems</entry>
+                <entry>Milk, meat, dried beans, whole grains</entry>
+            </row>
+                <row>
+                <entry align="center">Vitamin B<sub>2</sub> (Riboflavin)</entry>
+                    <entry>Takes an active role in metabolism, aiding in the conversion of food to energy (FAD and FMN)</entry>
+                    <entry>Cracks or sores on the outer surface of the lips (cheliosis); inflammation and redness of the tongue; moist, scaly skin inflammation (seborrheic dermatitis)</entry>
+                    <entry>Meat, eggs, enriched grains, vegetables</entry>
+                </row>
+                <row>
+                <entry align="center">Vitamin B<sub>3 </sub>(Niacin)</entry>
+                    <entry>Used by the body to release energy from carbohydrates and to process alcohol; required for the synthesis of sex hormones; component of coenzyme NAD<sup>+</sup> and NADP<sup>+</sup></entry>
+                    <entry>Pellagra, which can result in dermatitis, diarrhea, dementia, and death</entry>
+                    <entry>Meat, eggs, grains, nuts, potatoes</entry>
+                </row>
+                <row>
+                <entry align="center">Vitamin B<sub>5 </sub>(Pantothenic acid)</entry>
+                    <entry>Assists in producing energy from foods (lipids, in particular); component of coenzyme A</entry>
+                    <entry>Fatigue, poor coordination, retarded growth, numbness, tingling of hands and feet</entry>
+                    <entry>Meat, whole grains, milk, fruits, vegetables</entry>
+                </row>
+                <row>
+                <entry align="center">Vitamin B<sub>6 </sub>(Pyridoxine)</entry>
+                    <entry>The principal vitamin for processing amino acids and lipids; also helps convert nutrients into energy</entry>
+                    <entry>Irritability, depression, confusion, mouth sores or ulcers, anemia, muscular twitching</entry>
+                    <entry>Meat, dairy products, whole grains, orange juice</entry>
+                </row>
+                <row>
+                <entry align="center">Vitamin B<sub>7 </sub>(Biotin)</entry>
+                    <entry>Used in energy and amino acid metabolism, fat synthesis, and fat breakdown; helps the body use blood sugar</entry>
+                    <entry>Hair loss, dermatitis, depression, numbness and tingling in the extremities; neuromuscular disorders</entry>
+                    <entry>Meat, eggs, legumes and other vegetables</entry>
+                </row>
+                <row>
+                <entry align="center">Vitamin B<sub>9 </sub>(Folic acid)</entry>
+                    <entry>Assists the normal development of cells, especially during fetal development; helps metabolize nucleic and amino acids</entry>
+                    <entry>Deficiency during pregnancy is associated with birth defects, such as neural tube defects and anemia</entry>
+                    <entry>Leafy green vegetables, whole wheat, fruits, nuts, legumes</entry>
+                </row>
+                <row>
+                <entry align="center">Vitamin B<sub>12</sub> (Cobalamin)</entry>
+                    <entry>Maintains healthy nervous system and assists with blood cell formation; coenzyme in nucleic acid metabolism</entry>
+                    <entry>Anemia, neurological disorders, numbness, loss of balance</entry>
+                    <entry>Meat, eggs, animal products</entry>
+                </row>
+                <row>
+                <entry align="center">Vitamin C (Ascorbic acid)</entry>
+                    <entry>Helps maintain connective tissue: bone, cartilage, and dentin; boosts the immune system</entry>
+                    <entry>Scurvy, which results in bleeding, hair and tooth loss; joint pain and swelling; delayed wound healing</entry>
+                    <entry>Citrus fruits, broccoli, tomatoes, red sweet bell peppers</entry>
+                </row>
+                            </tbody>
+        </tgroup>
+        </table>
+<table id="tab-ch34_02_02" summary="">
+    <tgroup cols="4" align="left">
+    <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <thead>
+        <row>
+        <entry namest="c1" nameend="c4">Fat-soluble Essential Vitamins</entry>
+        </row>
+            <row>
+                <entry align="center">Vitamin</entry>
+                <entry align="center">Function</entry>
+                <entry align="center">Deficiencies Can Lead To</entry>
+                <entry align="center">Sources</entry>
+            </row>
+        </thead>
+        <tbody>
+        <row>
+        <entry align="center">Vitamin A (Retinol)</entry>
+            <entry>Critical to the development of bones, teeth, and skin; helps maintain eyesight, enhances the immune system, fetal development, gene expression</entry>
+            <entry>Night-blindness, skin disorders, impaired immunity</entry>
+            <entry>Dark green leafy vegetables, yellow-orange vegetables fruits, milk, butter</entry>
+        </row>
+                    <row>
+        <entry align="center">Vitamin D</entry>
+            <entry>Critical for calcium absorption for bone development and strength; maintains a stable nervous system; maintains a normal and strong heartbeat; helps in blood clotting</entry>
+            <entry>Rickets, osteomalacia, immunity</entry>
+            <entry>Cod liver oil, milk, egg yolk</entry>
+                    </row>
+     <row>
+        <entry align="center">Vitamin E (Tocopherol)</entry>
+            <entry>Lessens oxidative damage of cells,and prevents lung damage from pollutants; vital to the immune system</entry>
+            <entry>Deficiency is rare; anemia, nervous system degeneration</entry>
+            <entry>Wheat germ oil, unrefined vegetable oils, nuts, seeds, grains</entry>
+                    </row>
+                    <row>
+        <entry align="center">Vitamin K (Phylloquinone)</entry>
+            <entry>Essential to blood clotting</entry>
+            <entry>Bleeding and easy bruising</entry>
+            <entry>Leafy green vegetables, tea</entry>
+        </row>
+        </tbody>
+    </tgroup>
+</table>
+<figure id="fig-ch34_02_02" class=" ">
+<media id="fs-idm81657472" alt="Photo shows a variety of foods, including lobster, clams, nuts and liver.">
+<image mime-type="image/jpg" src="Figure_34_02_02.jpg" width="380"/>
+</media>
+    <caption>A healthy diet should include a variety of foods to ensure that needs for essential nutrients are met. (credit: Keith Weller, USDA ARS)</caption>
+</figure>
+<table id="tab-ch34_02_03" summary="">
+    <tgroup cols="4" align="left">
+    <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <thead>
+            <row><entry namest="c1" nameend="c4">Minerals and Their Function in the Human Body</entry></row>
+            <row>
+                <entry align="center">Mineral</entry>
+                <entry align="center">Function</entry>
+                <entry align="center">Deficiencies Can Lead To</entry>
+                <entry align="center">Sources</entry>
+            </row>
+        </thead>
+            <tbody>
+         <row>
+                <entry>*Calcium</entry>
+                <entry>Needed for muscle and neuron function; heart health; builds bone and supports synthesis and function of blood cells; nerve function</entry>
+                <entry>Osteoporosis, rickets, muscle spasms, impaired growth</entry>
+                <entry>Milk, yogurt, fish, green leafy vegetables, legumes</entry>
+         </row>
+         <row>
+                <entry>*Chlorine</entry>
+                <entry>Needed for production of hydrochloric acid (HCl) in the stomach and nerve function; osmotic balance</entry>
+                <entry>Muscle cramps, mood disturbances, reduced appetite</entry>
+                <entry>Table salt</entry>
+         </row>
+         <row>
+                <entry>Copper (trace amounts)</entry>
+                <entry>Required component of many redox enzymes, including cytochrome c oxidase; cofactor for hemoglobin synthesis</entry>
+                <entry>Copper deficiency is rare</entry>
+                <entry>Liver, oysters, cocoa, chocolate, sesame, nuts</entry>
+         </row>
+         <row>
+                <entry>Iodine</entry>
+                <entry>Required for the synthesis of thyroid hormones</entry>
+                <entry>Goiter</entry>
+                <entry>Seafood, iodized salt, dairy products</entry>
+         </row>
+         <row>
+                <entry>Iron</entry>
+                <entry>Required for many proteins and enzymes, notably hemoglobin, to prevent anemia</entry>
+                <entry>Anemia, which causes poor concentration, fatigue, and poor immune function</entry>
+                <entry>Red meat, leafy green vegetables, fish (tuna, salmon), eggs, dried fruits, beans, whole grains</entry>
+            </row>
+    <row>
+                <entry>*Magnesium</entry>
+                <entry>Required co-factor for ATP formation; bone formation; normal membrane functions; muscle function</entry>
+                <entry>Mood disturbances, muscle spasms</entry>
+                <entry>Whole grains, leafy green vegetables</entry>
+    </row>
+                <row>
+                <entry>Manganese (trace amounts)</entry>
+                <entry>A cofactor in enzyme functions; trace amounts are required</entry>
+                <entry>Manganese deficiency is rare</entry>
+                <entry>Common in most foods</entry>
+                </row>
+              <row>
+              <entry>Molybdenum (trace amounts)</entry>
+                  <entry>Acts as a cofactor for three essential enzymes in humans: sulfite oxidase, xanthine oxidase, and aldehyde oxidase</entry>
+                  <entry>Molybdenum deficiency is rare</entry>
+                  <entry/>
+              </row>
+    <row>
+        <entry>*Phosphorus</entry>
+        <entry>A component of bones and teeth; helps regulate acid-base balance; nucleotide synthesis</entry>
+        <entry>Weakness, bone abnormalities, calcium loss</entry>
+        <entry>Milk, hard cheese, whole grains, meats</entry>
+    </row>
+                <row>
+        <entry>*Potassium</entry>
+        <entry>Vital for muscles, heart, and nerve function</entry>
+        <entry>Cardiac rhythm disturbance, muscle weakness</entry>
+        <entry>Legumes, potato skin, tomatoes, bananas</entry>
+                </row>
+                <row>
+        <entry>Selenium (trace amounts)</entry>
+        <entry>A cofactor essential to activity of antioxidant enzymes like glutathione peroxidase; trace amounts are required</entry>
+        <entry>Selenium deficiency is rare</entry>
+        <entry>Common in most foods</entry>
+                </row>
+                                <row>
+        <entry>*Sodium</entry>
+        <entry>Systemic electrolyte required for many functions; acid-base balance; water balance; nerve function</entry>
+        <entry>Muscle cramps, fatigue, reduced appetite</entry>
+        <entry>Table salt</entry>
+                                </row>
+                                <row>
+        <entry>Zinc (trace amounts)</entry>
+        <entry>Required for several enzymes such as carboxypeptidase, liver alcohol dehydrogenase, and carbonic anhydrase</entry>
+        <entry>Anemia, poor wound healing, can lead to short stature</entry>
+        <entry>Common in most foods</entry>
+                                </row>
+<row>
+<entry namest="c1" nameend="c4">*Greater than 200mg/day required</entry>
+</row>
+                        </tbody>
+            </tgroup>
+</table>
+<table id="tab-ch34_02_04" summary=""><tgroup cols="2" align="left">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <thead>
+    <row>
+<entry namest="c1" nameend="c2" align="left">Essential Amino Acids</entry></row>
+        <row>
+            <entry align="left">Amino acids that must be consumed</entry>
+            <entry align="left">Amino acids anabolized by the body</entry>
+        </row>
+    </thead>
+        <tbody>
+    <row>
+        <entry>isoleucine</entry>
+        <entry>alanine</entry>
+    </row>
+        <row>
+        <entry>leucine</entry>
+        <entry>selenocysteine</entry>
+        </row>
+        <row>
+        <entry>lysine</entry>
+        <entry>aspartate</entry>
+        </row>
+        <row>
+        <entry>methionine</entry>
+        <entry>cysteine</entry>
+        </row>
+        <row>
+        <entry>phenylalanine</entry>
+        <entry>glutamate</entry>
+        </row>
+        <row>
+        <entry>tryptophan</entry>
+        <entry>glycine</entry>
+        </row>
+        <row>
+        <entry>valine</entry>
+        <entry>proline</entry>
+        </row>
+        <row>
+        <entry>histidine*</entry>
+        <entry>serine</entry>
+        </row>
+        <row>
+        <entry>threonine</entry>
+        <entry>tyrosine</entry>
+        </row>
+        <row>
+        <entry>arginine*</entry>
+        <entry>asparagine</entry>
+        </row>
+            <row>
+            <entry namest="c1" nameend="c2">*The human body can synthesize histidine and arginine, but not in the quantities required, especially for growing children.</entry>
+        </row>
+    </tbody>
+</tgroup>
+</table></section></section><section id="fs-idm73739024">
+<title>Food Energy and ATP</title>
+<para id="fs-idm20898848">Animals need food to obtain energy and maintain homeostasis. Homeostasis is the ability of a system to maintain a stable internal environment even in the face of external changes to the environment. For example, the normal body temperature of humans is 37&#176;C (98.6&#176;F). Humans maintain this temperature even when the external temperature is hot or cold. It takes energy to maintain this body temperature, and animals obtain this energy from food.</para>
+<para id="fs-idm37577136">The primary source of energy for animals is carbohydrates, mainly glucose. Glucose is called the body&#8217;s fuel. The digestible carbohydrates in an animal&#8217;s diet are converted to glucose molecules through a series of catabolic chemical reactions.</para>
+<para id="fs-idm13831072">Adenosine triphosphate, or ATP, is the primary energy currency in cells; ATP stores energy in phosphate ester bonds. ATP releases energy when the phosphodiester bonds are broken and ATP is converted to ADP and a phosphate group. ATP is produced by the oxidative reactions in the cytoplasm and mitochondrion of the cell, where carbohydrates, proteins, and fats undergo a series of metabolic reactions collectively called cellular respiration. For example, glycolysis is a series of reactions in which glucose is converted to pyruvic acid and some of its chemical potential energy is transferred to NADH and ATP.</para>
+<para id="fs-idm44186032">ATP is required for all cellular functions. It is used to build the organic molecules that are required for cells and tissues; it provides energy for muscle contraction and for the transmission of electrical signals in the nervous system. When the amount of ATP is available in excess of the body&#8217;s requirements, the liver uses the excess ATP and excess glucose to produce molecules called glycogen. Glycogen is a polymeric form of glucose and is stored in the liver and skeletal muscle cells. When blood sugar drops, the liver releases glucose from stores of glycogen. Skeletal muscle converts glycogen to glucose during intense exercise. The process of converting glucose and excess ATP to glycogen and the storage of excess energy is an evolutionarily important step in helping animals deal with mobility, food shortages, and famine.</para>
+<note id="fs-idm63810688" class="everyday"><label/><title>Everyday Connection</title>
+    
+<para id="fs-idm18528320"><title>Obesity</title>Obesity is a major health concern in the United States, and there is a growing focus on reducing obesity and the diseases it may lead to, such as type-2 diabetes, cancers of the colon and breast, and cardiovascular disease. How does the food consumed contribute to obesity?</para>
+<para id="fs-idp109819840">Fatty foods are calorie-dense, meaning that they have more calories per unit mass than carbohydrates or proteins. One gram of carbohydrates has four calories, one gram of protein has four calories, and one gram of fat has nine calories. Animals tend to seek lipid-rich food for their higher energy content.</para>
+<para id="fs-idp36727728">The signals of hunger (&#8220;time to eat&#8221;) and satiety (&#8220;time to stop eating&#8221;) are controlled in the hypothalamus region of the brain. Foods that are rich in fatty acids tend to promote satiety more than foods that are rich only in carbohydrates.</para>
+<para id="fs-idm155187248">Excess carbohydrate and ATP are used by the liver to synthesize glycogen. The pyruvate produced during glycolysis is used to synthesize fatty acids. When there is more glucose in the body than required, the resulting excess pyruvate is converted into molecules that eventually result in the synthesis of fatty acids within the body. These fatty acids are stored in adipose cells&#8212;the fat cells in the mammalian body whose primary role is to store fat for later use.</para>
+<para id="fs-idp214566496">It is important to note that some animals benefit from obesity. Polar bears and seals need body fat for insulation and to keep them from losing body heat during Arctic winters. When food is scarce, stored body fat provides energy for maintaining homeostasis. Fats prevent famine in mammals, allowing them to access energy when food is not available on a daily basis; fats are stored when a large kill is made or lots of food is available.</para></note></section>
+<section id="fs-idp20890144" class="summary">
+<title>Section Summary</title><para id="fs-idm81983216">Animal diet should be balanced and meet the needs of the body. Carbohydrates, proteins, and fats are the primary components of food. Some essential nutrients are required for cellular function but cannot be produced by the animal body. These include vitamins, minerals, some fatty acids, and some amino acids. Food intake in more than necessary amounts is stored as glycogen in the liver and muscle cells, and in fat cells. Excess adipose storage can lead to obesity and serious health problems. ATP is the energy currency of the cell and is obtained from the metabolic pathways. Excess carbohydrates and energy are stored as glycogen in the body.</para>
+    </section>
+<section id="fs-idm115871952" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp141568560">
+<problem id="fs-idp93247472"><para id="fs-idm78430592">Which of the following statements is not true?</para>
+<list id="fs-idp179283632" list-type="enumerated" number-style="lower-alpha">
+<item>Essential nutrients can be synthesized by the body.</item>
+<item>Vitamins are required in small quantities for bodily function.</item>
+<item>Some amino acids can be synthesized by the body, while others need to be obtained from diet.</item>
+<item>Vitamins come in two categories: fat-soluble and water-soluble.</item>
+</list>
+</problem>
+<solution id="fs-idm44691216">
+<label/>
+<para id="fs-idp148332304">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idp85552">
+<problem id="fs-idm63827296"><para id="fs-idm13117584">Which of the following is a water-soluble vitamin?</para>
+<list id="fs-idp35934656" list-type="enumerated" number-style="lower-alpha">
+<item>vitamin A</item>
+<item>vitamin E</item>
+<item>vitamin K</item>
+<item>vitamin C</item>
+</list>
+</problem>
+<solution id="fs-idm53560688">
+<label/>
+<para id="fs-idm4165088">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idp150766624">
+<problem id="fs-idp69812832"><para id="fs-idm39757744">What is the primary fuel for the body?</para>
+<list id="fs-idp75303248" list-type="enumerated" number-style="lower-alpha">
+<item>carbohydrates</item>
+<item>lipids</item>
+<item>protein</item>
+<item>glycogen</item>
+</list>
+</problem>
+<solution id="fs-idp140316656">
+<label/>
+<para id="fs-idp122871664">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm12790176">
+<problem id="fs-idm81216688"><para id="fs-idm42651648">Excess glucose is stored as ________.</para>
+<list id="fs-idm13514544" list-type="enumerated" number-style="lower-alpha">
+<item>fat</item>
+<item>glucagon</item>
+<item>glycogen</item>
+<item>it is not stored in the body</item>
+</list>
+</problem>
+<solution id="fs-idp32797408">
+<label/>
+<para id="fs-idp29963072">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm14057312" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idp124184832">
+<problem id="fs-idm115725984"><para id="fs-idp146224864">What are essential nutrients?</para></problem>
+<solution id="fs-idp217275856"><label/>
+<para id="fs-idp22207360">Essential nutrients are those nutrients that must be obtained from the diet because they cannot be produced by the body. Vitamins and minerals are examples of essential nutrients.</para></solution>
+</exercise>
+<exercise id="fs-idm92384240">
+<problem id="fs-idm91435808"><para id="fs-idp161004208">What is the role of minerals in maintaining good health?</para></problem>
+<solution id="fs-idp68055056"><label/>
+<para id="fs-idp128769376">Minerals&#8212;such as potassium, sodium, and calcium&#8212;are required for the functioning of many cellular processes, including muscle contraction and nerve conduction. While minerals are required in trace amounts, not having minerals in the diet can be potentially harmful.</para></solution>
+</exercise>
+<exercise id="fs-idp83533840">
+<problem id="fs-idm223152"><para id="fs-idp181686864">Discuss why obesity is a growing epidemic.</para></problem>
+<solution id="fs-idp77780560"><label/>
+<para id="fs-idp78604208">In the United States, obesity, particularly childhood obesity, is a growing concern. Some of the contributors to this situation include sedentary lifestyles and consuming more processed foods and less fruits and vegetables. As a result, even young children who are obese can face health concerns.</para></solution>
+</exercise>
+<exercise id="fs-idm17430400">
+<problem id="fs-idp174099968"><para id="fs-idm109944384">There are several nations where malnourishment is a common occurrence. What may be some of the health challenges posed by malnutrition?</para></problem>
+<solution id="fs-idm109708544"><label/>
+<para id="fs-idm18000320">Malnutrition, often in the form of not getting enough calories or not enough of the essential nutrients, can have severe consequences. Many malnourished children have vision and dental problems, and over the years may develop many serious health problems.</para></solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm89163104"><term>essential nutrient</term> <meaning id="fs-idm272016">nutrient that cannot be synthesized by the body; it must be obtained from food</meaning></definition>
+<definition id="fs-idm13118336"><term>mineral</term> <meaning id="fs-idp53607808">inorganic, elemental molecule that carries out important roles in the body</meaning></definition>
+<definition id="fs-idp17853136"><term>vitamin</term> <meaning id="fs-idp108418752">organic substance necessary in small amounts to sustain life</meaning></definition>
+</glossary>
+</document>

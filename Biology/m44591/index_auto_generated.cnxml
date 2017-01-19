@@ -1,0 +1,303 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Determining Evolutionary Relationships</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44591/latest/</md:content-url>
+  <md:content-id>m44591</md:content-id>
+  <md:title>Determining Evolutionary Relationships</md:title>
+  <md:version>1.5</md:version>
+  <md:created>2012/08/23 14:15:24 -0500</md:created>
+  <md:revised>2013/04/11 14:39:13.769 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>analogous trait</md:keyword>
+    <md:keyword>analogy</md:keyword>
+    <md:keyword>clade</md:keyword>
+    <md:keyword>cladistic method</md:keyword>
+    <md:keyword>cladistics</md:keyword>
+    <md:keyword>cladistics system</md:keyword>
+    <md:keyword>evolution</md:keyword>
+    <md:keyword>evolutionary relationships</md:keyword>
+    <md:keyword>homologous trait</md:keyword>
+    <md:keyword>homoplasy</md:keyword>
+    <md:keyword>maximum parsimony</md:keyword>
+    <md:keyword>molecular comparison</md:keyword>
+    <md:keyword>molecular systematics</md:keyword>
+    <md:keyword>phylogeny</md:keyword>
+    <md:keyword>shared ancestral character</md:keyword>
+    <md:keyword>shared characteristic</md:keyword>
+    <md:keyword>shared derived character</md:keyword>
+    <md:keyword>tree of life</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Compare homologous and analogous traits</item>
+<item>Discuss the purpose of cladistics</item>
+<item>Describe maximum parsimony</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idp97150976">Scientists must collect accurate information that allows them to make evolutionary connections among organisms. Similar to detective work, scientists must use evidence to uncover the facts. In the case of phylogeny, evolutionary investigations focus on two types of evidence: morphologic (form and function) and genetic.</para>
+<section id="fs-idp96162000">
+<title>Two Options for Similarities</title>
+<para id="fs-idp56426176">In general, organisms that share similar physical features and genomes tend to be more closely related than those that do not. Such features that overlap both morphologically (in form) and genetically are referred to as homologous structures; they stem from developmental similarities that are based on evolution. For example, the bones in the wings of bats and birds have homologous structures (<link target-id="fig-ch20_02_01" document=""/>).</para>
+<figure id="fig-ch20_02_01" class=" "><media id="fs-idp86426144" alt=" Photo a shows a bird in flight with a corresponding drawing of a bird wing. Photo b is a bat in flight with a corresponding drawing of a bat wing. Both the bird wing and the bat wing share common bones, analogous to the bones in the arms and fingers of humans. However, in the bat wing, the finger bones are long and separate and form a scaffolding on which the wing&#8217;s membrane is stretched. In the bird wing, the finger bones are short and fused together at the front of the wing.">
+<image mime-type="image/jpg" src="Figure_20_02_01.jpg" width="440"/>
+</media>
+
+<caption>Bat and bird wings are homologous structures, indicating that bats and birds share a common evolutionary past. (credit a: modification of work by Steve Hillebrand, USFWS; credit b: modification of work by U.S. DOI BLM)</caption></figure><para id="fs-idp55123216">Notice it is not simply a single bone, but rather a grouping of several bones arranged in a similar way. The more complex the feature, the more likely any kind of overlap is due to a common evolutionary past. Imagine two people from different countries both inventing a car with all the same parts and in exactly the same arrangement without any previous or shared knowledge. That outcome would be highly improbable. However, if two people both invented a hammer, it would be reasonable to conclude that both could have the original idea without the help of the other. The same relationship between complexity and shared evolutionary history is true for homologous structures in organisms.</para>
+<section id="fs-idm9365056">
+<title>Misleading Appearances</title>
+<para id="fs-idp88564512">Some organisms may be very closely related, even though a minor genetic change caused a major morphological difference to make them look quite different. Similarly, unrelated organisms may be distantly related, but appear very much alike. This usually happens because both organisms were in common adaptations that evolved within similar environmental conditions. When similar characteristics occur because of environmental constraints and not due to a close evolutionary relationship, it is called an <term>analogy</term> or homoplasy. For example, insects use wings to fly like bats and birds, but the wing structure and embryonic origin is completely different. These are called analogous structures (<link target-id="fig-ch20_02_02abc" document=""/>).</para>
+<para id="fs-idp46122432">Similar traits can be either homologous or analogous. Homologous structures share a similar embryonic origin; analogous organs have a similar function. For example, the bones in the front flipper of a whale are homologous to the bones in the human arm. These structures are not analogous. The wings of a butterfly and the wings of a bird are analogous but not homologous. Some structures are both analogous and homologous: the wings of a bird and the wings of a bat are both homologous and analogous. Scientists must determine which type of similarity a feature exhibits to decipher the phylogeny of the organisms being studied.</para>
+<figure id="fig-ch20_02_02abc"><media id="fs-idp100913104" alt=" Photo a shows a bat wing, photo b shows a bird wing, and photo c shows a honeybee wing, and all three are similar in overall shape. However, the bird wing and bat wing are both made from homologous bones that are similar in appearance. The honeybee wing is made of a thin, membranous material rather than bone.">
+<image mime-type="image/jpg" src="Figure_20_02_02.jpg" width="450"/>
+</media>
+
+<caption>The (c) wing of a honeybee is similar in shape to a (b) bird wing and (a) bat wing, and it serves the same function. However, the honeybee wing is not composed of bones and has a distinctly different structure and embryonic origin. These wing types (insect versus bat and bird) illustrate an analogy&#8212;similar structures that do not share an evolutionary history. (credit a: modification of work by Steve Hillebrand, USFWS; credit b: modification of work by U.S. DOI BLM; credit c: modification of work by Jon Sullivan)</caption></figure><note id="fs-idp112720384" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idp31179696" alt="QR Code representing a URL">
+<image mime-type="image/png" src="relationships.png" width="120"/>
+</media>
+<para id="fs-idp122959616">This <link window="new" url="http://openstaxcollege.org/l/relationships">website</link> has several examples to show how appearances can be misleading in understanding the phylogenetic relationships of organisms.</para>
+</note></section>
+<section id="fs-idp17189680">
+<title>Molecular Comparisons</title>
+<para id="fs-idp82199280">With the advancement of DNA technology, the area of <term>molecular systematics</term>, which describes the use of information on the molecular level including DNA analysis, has blossomed. New computer programs not only confirm many earlier classified organisms, but also uncover previously made errors. As with physical characteristics, even the DNA sequence can be tricky to read in some cases. For some situations, two very closely related organisms can appear unrelated if a mutation occurred that caused a shift in the genetic code. An insertion or deletion mutation would move each nucleotide base over one place, causing two similar codes to appear unrelated.</para>
+<para id="fs-idp96201360">Sometimes two segments of DNA code in distantly related organisms randomly share a high percentage of bases in the same locations, causing these organisms to appear closely related when they are not. For both of these situations, computer technologies have been developed to help identify the actual relationships, and, ultimately, the coupled use of both morphologic and molecular information is more effective in determining phylogeny.</para>
+<note id="fs-idp82123760" class="evolution"><label/><title>Evolution Connection</title>
+
+<para id="fs-idp57384736"><title>Why Does Phylogeny Matter?</title>Evolutionary biologists could list many reasons why understanding phylogeny is important to everyday life in human society. For botanists, phylogeny acts as a guide to discovering new plants that can be used to benefit people. Think of all the ways humans use plants&#8212;food, medicine, and clothing are a few examples. If a plant contains a compound that is effective in treating cancer, scientists might want to examine all of the relatives of that plant for other useful drugs.</para>
+<para id="fs-idm1491376">A research team in China identified a segment of DNA thought to be common to some medicinal plants in the family Fabaceae (the legume family) and worked to identify which species had this segment (<link target-id="fig-ch20_02_03" document=""/>). After testing plant species in this family, the team found a DNA marker (a known location on a chromosome that enabled them to identify the species) present. Then, using the DNA to uncover phylogenetic relationships, the team could identify whether a newly discovered plant was in this family and assess its potential medicinal properties.</para>
+<figure id="fig-ch20_02_03">
+<media id="fs-idp122464512" alt=" The illustration shows a Dalbergia sissoo plant, which is short with pods and teardrop-shaped leaves.">
+<image mime-type="image/jpg" src="Figure_20_02_03.jpg" width="320"/>
+</media>
+<caption><emphasis effect="italics">Dalbergia sissoo (D. sissoo)</emphasis> is in the Fabaceae, or legume family. Scientists found that <emphasis effect="italics">D. sissoo</emphasis> shares a DNA marker with species within the Fabaceae family that have antifungal properties. Subsequently, <emphasis effect="italics">D. sissoo</emphasis> was shown to have fungicidal activity, supporting the idea that DNA markers can be used to screen for plants with potential medicinal properties.</caption>
+</figure>
+</note></section>
+</section>
+<section id="fs-idp96526336">
+<title>Building Phylogenetic Trees</title>
+<para id="fs-idp47865664">How do scientists construct phylogenetic trees? After the homologous and analogous traits are sorted, scientists often organize the homologous traits using a system called <term>cladistics</term>. This system sorts organisms into clades: groups of organisms that descended from a single ancestor. For example, in <link target-id="fig-ch20_02_04" document=""/>, all of the organisms in the orange region evolved from a single ancestor that had amniotic eggs. Consequently, all of these organisms also have amniotic eggs and make a single clade, also called a <term>monophyletic group</term>. Clades must include all of the descendants from a branch point.</para>
+<note id="fs-idp98199440" class="art-connection"><label/><title>Art Connection</title>
+<figure id="fig-ch20_02_04">
+<media id="fs-idp125310304" alt="The illustration shows the V-shaped Vertebrata clade, which includes lancelets, lampreys, fish, lizards, rabbits, and humans. Lancelets are at the left tip of the V, and humans are at the right tip. Four more lines are drawn parallel to the lancelet line; each of these lines starts further up the right arm of the V than the next. At the end of each line, from left to right, are lampreys, fish, lizards, and rabbits. Lizards, rabbits, and humans are in the clade Amniota, which form a small V nested in the upper right-hand corner of the V-shaped Vertebrata clade.">
+<image mime-type="image/jpg" src="Figure_20_02_04.png" width="350"/>
+</media>
+<caption>Lizards, rabbits, and humans all descend from a common ancestor that had an amniotic egg. Thus, lizards, rabbits, and humans all belong to the clade Amniota. Vertebrata is a larger clade that also includes fish and lamprey.</caption>
+</figure>
+<para id="fs-idm3428944">Which animals in this figure belong to a clade that includes animals with hair? Which evolved first, hair or the amniotic egg?</para>
+<!--<para><link target-id="fig-ch20_01_04" document=""/> Rabbits and humans belong in the clade that includes animals with hair. The amniotic egg evolved before hair because the Amniota clade is larger than the clade that encompasses animals with hair.</para>-->
+</note><para id="fs-idp86169680">Clades can vary in size depending on which branch point is being referenced. The important factor is that all of the organisms in the clade or monophyletic group stem from a single point on the tree. This can be remembered because monophyletic breaks down into &#8220;mono,&#8221; meaning one, and &#8220;phyletic,&#8221; meaning evolutionary relationship. <link target-id="fig-ch20_02_05" document=""/> shows various examples of clades. Notice how each clade comes from a single point, whereas the non-clade groups show branches that do not share a single point.</para>
+<note id="fs-idp34398416" class="art-connection"><label/><title>Art Connection</title>
+<figure id="fig-ch20_02_05">
+<media id="fs-idp15258080" alt="Illustrations show a phylogenetic tree that includes eukaryotic species. A central line represents the trunk of the tree. From this trunk, various groups branch. In order from the bottom, these are diplomonads, microsporidia, trichomonads, flagellates, entamoebae, slime molds, and ciliates. At the top of the tree, animals, fungi and plants all branch from the same point and are shaded to show that they belong in the same clade. Flagellates are on a branch by themselves, and they also form their own clade and are shaded to show this. In another image, Flagellates and ciliates are shaded to show that they branch from different points on the tree and are not considered clades. Likewise, a grouping of animals and plants but not fungi would not be considered a clade cannot exclude a branch originating at the same point as the others.">
+<image mime-type="image/jpg" src="Figure_20_02_05.png" width="400"/>
+</media>
+<caption>All the organisms within a clade stem from a single point on the tree. A clade may contain multiple groups, as in the case of animals, fungi and plants, or a single group, as in the case of flagellates. Groups that diverge at a different branch point, or that do not include all groups in a single branch point, are not considered clades.</caption>
+</figure>
+<para id="fs-idp84420976">What is the largest clade in this diagram?</para>
+<!--<para><link target-id="fig-ch20_01_05" document=""/> The largest clade encompasses the entire tree.</para>-->
+</note><section id="fs-idp178110608">
+<title>Shared Characteristics</title>
+<para id="fs-idp183475232">Organisms evolve from common ancestors and then diversify. Scientists use the phrase &#8220;descent with modification&#8221; because even though related organisms have many of the same characteristics and genetic codes, changes occur. This pattern repeats over and over as one goes through the phylogenetic tree of life:</para>
+<list id="fs-idp96580912" list-type="enumerated" number-style="arabic">
+<item>A change in the genetic makeup of an organism leads to a new trait which becomes prevalent in the group.</item>
+<item>Many organisms descend from this point and have this trait.</item>
+<item>New variations continue to arise: some are adaptive and persist, leading to new traits.</item>
+<item>With new traits, a new branch point is determined (go back to step 1 and repeat).</item>
+</list>
+<para id="fs-idp34154656">If a characteristic is found in the ancestor of a group, it is considered a <term>shared ancestral character</term> because all of the organisms in the taxon or clade have that trait. The vertebrate in <link target-id="fig-ch20_02_04" document=""/> is a shared ancestral character. Now consider the amniotic egg characteristic in the same figure. Only some of the organisms in <link target-id="fig-ch20_02_04" document=""/> have this trait, and to those that do, it is called a <term>shared derived character</term> because this trait derived at some point but does not include all of the ancestors in the tree.</para><para id="fs-idm6671824">The tricky aspect to shared ancestral and shared derived characters is the fact that these terms are relative. The same trait can be considered one or the other depending on the particular diagram being used. Returning to <link target-id="fig-ch20_02_04" document=""/>, note that the amniotic egg is a shared ancestral character for the Amniota clade, while having hair is a shared derived character for some organisms in this group. These terms help scientists distinguish between clades in the building of phylogenetic trees.</para><section id="fs-idp120153744">
+<title>Choosing the Right Relationships</title>
+<para id="fs-idm2067904">Imagine being the person responsible for organizing all of the items in a department store properly&#8212;an overwhelming task. Organizing the evolutionary relationships of all life on Earth proves much more difficult: scientists must span enormous blocks of time and work with information from long-extinct organisms. Trying to decipher the proper connections, especially given the presence of homologies and analogies, makes the task of building an accurate tree of life extraordinarily difficult. Add to that the advancement of DNA technology, which now provides large quantities of genetic sequences to be used and analyzed. Taxonomy is a subjective discipline: many organisms have more than one connection to each other, so each taxonomist will decide the order of connections.</para>
+<para id="fs-idp136027872">To aid in the tremendous task of describing phylogenies accurately, scientists often use a concept called <term>maximum parsimony</term>, which means that events occurred in the simplest, most obvious way. For example, if a group of people entered a forest preserve to go hiking, based on the principle of maximum parsimony, one could predict that most of the people would hike on established trails rather than forge new ones.</para>
+<para id="fs-idp121336368">For scientists deciphering evolutionary pathways, the same idea is used: the pathway of evolution probably includes the fewest major events that coincide with the evidence at hand. Starting with all of the homologous traits in a group of organisms, scientists look for the most obvious and simple order of evolutionary events that led to the occurrence of those traits.</para>
+<note id="fs-idp43830592" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idp41621760" alt="QR Code representing a URL">
+<image mime-type="image/png" src="using_parsimony.png" width="120"/>
+</media>
+<para id="fs-idp56872384">Head to this <link window="new" url="http://openstaxcollege.org/l/using_parsimony">website</link> to learn how maximum parsimony is used to create phylogenetic trees.</para>
+<para id="fs-idp103388288">These tools and concepts are only a few of the strategies scientists use to tackle the task of revealing the evolutionary history of life on Earth. Recently, newer technologies have uncovered surprising discoveries with unexpected relationships, such as the fact that people seem to be more closely related to fungi than fungi are to plants. Sound unbelievable? As the information about DNA sequences grows, scientists will become closer to mapping the evolutionary history of all life on Earth.</para>
+</note></section>
+</section>
+</section>
+<section id="fs-idp50383888" class="summary">
+<title>Section Summary</title><para id="fs-idp52748832">To build phylogenetic trees, scientists must collect accurate information that allows them to make evolutionary connections between organisms. Using morphologic and molecular data, scientists work to identify homologous characteristics and genes. Similarities between organisms can stem either from shared evolutionary history (homologies) or from separate evolutionary paths (analogies). Newer technologies can be used to help distinguish homologies from analogies. After homologous information is identified, scientists use cladistics to organize these events as a means to determine an evolutionary timeline. Scientists apply the concept of maximum parsimony, which states that the order of events probably occurred in the most obvious and simple way with the least amount of steps. For evolutionary events, this would be the path with the least number of major divergences that correlate with the evidence.</para>
+</section>
+<section id="fs-idp28042608" class="art-exercise">
+<title>Art Connections</title>
+<exercise id="fs-idp53820672">
+<problem id="fs-idp76704672">
+<para id="fs-idm16685584"><link target-id="fig-ch20_02_04" document=""/> Which animals in this figure belong to a clade that includes animals with hair? Which evolved first, hair or the amniotic egg?</para>
+</problem>
+<solution id="fs-idp76697264">
+<label/>
+<para id="fs-idp136016608"><link target-id="fig-ch20_02_04" document=""/> Rabbits and humans belong in the clade that includes animals with hair. The amniotic egg evolved before hair because the Amniota clade is larger than the clade that encompasses animals with hair.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp197183488">
+<problem id="fs-idp103973984">
+<para id="fs-idp45005152"><link target-id="fig-ch20_02_05" document=""/> What is the largest clade in this diagram?</para>
+</problem>
+<solution id="fs-idp94882464">
+<label/>
+<para id="fs-idm1822720"><link target-id="fig-ch20_02_05" document=""/> The largest clade encompasses the entire tree.</para></solution>
+</exercise>
+</section>
+<section id="fs-idp165171376" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp83844208">
+<problem id="fs-idp81939712">
+<para id="fs-idm18304">Which statement about analogies is correct?</para>
+<list id="fs-idm8119424" list-type="enumerated" number-style="lower-alpha">
+<item>They occur only as errors.</item>
+<item>They are synonymous with homologous traits.</item>
+<item>They are derived by similar environmental constraints.</item>
+<item>They are a form of mutation.</item>
+</list>
+</problem>
+<solution id="fs-idm5462240">
+<label/>
+<para id="fs-idp47773552">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm4710848">
+<problem id="fs-idp82308912">
+<para id="fs-idp103364128">What do scientists use to apply cladistics?</para>
+<list id="fs-idp146716800" list-type="enumerated" number-style="lower-alpha">
+<item>homologous traits</item>
+<item>homoplasies</item>
+<item>analogous traits</item>
+<item>monophyletic groups</item>
+</list>
+</problem>
+<solution id="fs-idp30774704">
+<label/>
+<para id="fs-idm5991216">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idp127733920">
+<problem id="fs-idp101373040">
+<para id="fs-idm9403376">What is true about organisms that are a part of the same clade?</para>
+<list id="fs-idp20143040" list-type="enumerated" number-style="lower-alpha">
+<item>They all share the same basic characteristics.</item>
+<item>They evolved from a shared ancestor.</item>
+<item>They usually fall into the same classification taxa.</item>
+<item>They have identical phylogenies.</item>
+</list>
+</problem>
+<solution id="fs-idp132474336">
+<label/>
+<para id="fs-idm1850000">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idp149139024">
+<problem id="fs-idp181248496">
+<para id="fs-idm8991824">Why do scientists apply the concept of maximum parsimony?</para>
+<list id="fs-idp35470032" list-type="enumerated" number-style="lower-alpha">
+<item>to decipher accurate phylogenies</item>
+<item>to eliminate analogous traits</item>
+<item>to identify mutations in DNA codes</item>
+<item>to locate homoplasies</item>
+</list>
+</problem>
+<solution id="fs-idp122872272">
+<label/>
+<para id="fs-idp28903024">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm9499264" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idp96392800">
+<problem id="fs-idm28790384">
+<para id="fs-idp176608480">Dolphins and fish have similar body shapes. Is this feature more likely a homologous or analogous trait?</para>
+</problem>
+<solution id="fs-idp161396384">
+<label/>
+<para id="fs-idp122752608">Dolphins are mammals and fish are not, which means that their evolutionary paths (phylogenies) are quite separate. Dolphins probably adapted to have a similar body plan after returning to an aquatic lifestyle, and, therefore, this trait is probably analogous.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp177675648">
+<problem id="fs-idp181377280">
+<para id="fs-idm14985776">Why is it so important for scientists to distinguish between homologous and analogous characteristics before building phylogenetic trees?</para>
+</problem>
+<solution id="fs-idp60761648">
+<label/>
+<para id="fs-idp60795280">Phylogenetic trees are based on evolutionary connections. If an analogous similarity were used on a tree, this would be erroneous and, furthermore, would cause the subsequent branches to be inaccurate.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp29739984">
+<problem id="fs-idp104002896">
+<para id="fs-idp45573600">Describe maximum parsimony.</para>
+</problem>
+<solution id="fs-idp154961600">
+<label/>
+<para id="fs-idm37666272">Maximum parsimony hypothesizes that events occurred in the simplest, most obvious way, and the pathway of evolution probably includes the fewest major events that coincide with the evidence at hand.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idp32047264">
+<term>analogy</term> <meaning id="fs-idp35619808">(also, homoplasy) characteristic that is similar between organisms by convergent evolution, not due to the same evolutionary path</meaning>
+</definition>
+<definition id="fs-idp27309136">
+<term>cladistics</term> <meaning id="fs-idp195599616">system used to organize homologous traits to describe phylogenies</meaning>
+</definition>
+<definition id="fs-idp55211200">
+<term>maximum parsimony</term> <meaning id="fs-idp150918656">applying the simplest, most obvious way with the least number of steps</meaning>
+</definition>
+<definition id="fs-idp29655616">
+<term>molecular systematics</term> <meaning id="fs-idp97120208">technique using molecular evidence to identify phylogenetic relationships</meaning>
+</definition>
+<definition id="fs-idp60769824">
+<term>monophyletic group</term> <meaning id="fs-idp55550400">(also, clade) organisms that share a single ancestor</meaning>
+</definition>
+<definition id="fs-idp48289568">
+<term>shared ancestral character</term> <meaning id="fs-idp182517392">describes a characteristic on a phylogenetic tree that is shared by all organisms on the tree</meaning>
+</definition>
+<definition id="fs-idp105098576">
+<term>shared derived character</term> <meaning id="fs-idp60676960">describes a characteristic on a phylogenetic tree that is shared only by a certain clade of organisms</meaning>
+</definition>
+</glossary>
+</document>

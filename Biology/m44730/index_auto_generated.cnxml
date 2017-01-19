@@ -1,0 +1,336 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Animal Form and Function</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44730/latest/</md:content-url>
+  <md:content-id>m44730</md:content-id>
+  <md:title>Animal Form and Function</md:title>
+  <md:version>1.8</md:version>
+  <md:created>2012/08/23 15:09:45 -0500</md:created>
+  <md:revised>2013/06/26 13:42:59.758 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>animal body</md:keyword>
+    <md:keyword>animal body function</md:keyword>
+    <md:keyword>animal energy</md:keyword>
+    <md:keyword>animal form</md:keyword>
+    <md:keyword>animal size</md:keyword>
+    <md:keyword>animal speed</md:keyword>
+    <md:keyword>apodemes</md:keyword>
+    <md:keyword>asymmetry</md:keyword>
+    <md:keyword>basal metabolic rate</md:keyword>
+    <md:keyword>bioenergetics</md:keyword>
+    <md:keyword>BMR</md:keyword>
+    <md:keyword>body cavity</md:keyword>
+    <md:keyword>body plan</md:keyword>
+    <md:keyword>body plane</md:keyword>
+    <md:keyword>body symmetry</md:keyword>
+    <md:keyword>coelom</md:keyword>
+    <md:keyword>coronal plane</md:keyword>
+    <md:keyword>diffusion</md:keyword>
+    <md:keyword>dorsal cavity</md:keyword>
+    <md:keyword>ectoderm</md:keyword>
+    <md:keyword>ectotherm</md:keyword>
+    <md:keyword>embryonic animal tissue</md:keyword>
+    <md:keyword>endoderm</md:keyword>
+    <md:keyword>endotherm</md:keyword>
+    <md:keyword>energy requirements</md:keyword>
+    <md:keyword>estivation</md:keyword>
+    <md:keyword>frontal plane</md:keyword>
+    <md:keyword>fusiform</md:keyword>
+    <md:keyword>hibernation</md:keyword>
+    <md:keyword>horizontal plane</md:keyword>
+    <md:keyword>mesoderm</md:keyword>
+    <md:keyword>midsagittal plane</md:keyword>
+    <md:keyword>physical anthropologist</md:keyword>
+    <md:keyword>sagittal plane</md:keyword>
+    <md:keyword>SMR</md:keyword>
+    <md:keyword>standard metabolic rate</md:keyword>
+    <md:keyword>torpor</md:keyword>
+    <md:keyword>transverse plane</md:keyword>
+    <md:keyword>ventral cavity</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the various types of body plans that occur in animals</item>
+<item>Describe limits on animal size and shape</item>
+<item>Relate bioenergetics to body size, levels of activity, and the environment</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idp13759920">Animals vary in form and function. From a sponge to a worm to a goat, an organism has a distinct body plan that limits its size and shape. Animals&#8217; bodies are also designed to interact with their environments, whether in the deep sea, a rainforest canopy, or the desert. Therefore, a large amount of information about the structure of an organism's body (anatomy) and the function of its cells, tissues and organs (physiology) can be learned by studying that organism's environment.  </para><section id="fs-idp15081568">
+<title>Body Plans</title>
+<figure id="fig-ch33_01_01" class=" "><media id="fs-idm32002640" alt="Illustration A shows an asymmetrical sponge with a tube-like body and a growth off to one side. Illustration B shows a sea anemone with a tube-like, radial symmetrical body. Tentacles grow from the top of the tube. Three vertical planes arranged 120 degrees apart dissect the body. The half of the body on one side of each plane is a mirror image of the body on the other side. Illustration C shows a goat with a bilaterally symmetrical body. A plane runs from front to back through the middle of the goat, dissecting the body into left and right halves, which are mirror images of each other. The top part of the goat is defined as dorsal, and the bottom part is defined as ventral. The front of the goat is defined as anterior, and the back is defined as posterior.">
+<image mime-type="image/jpg" src="Figure_33_01_01.jpg" width="550"/>
+</media>
+<caption>Animals exhibit different types of body symmetry. The sponge is asymmetrical, the sea anemone has radial symmetry, and the goat has bilateral symmetry.</caption></figure><para id="fs-idm109876384">Animal body plans follow set patterns related to symmetry. They are asymmetrical, radial, or bilateral in form as illustrated in <link target-id="fig-ch33_01_01" document=""/>. <term>Asymmetrical</term> animals are animals with no pattern or symmetry; an example of an asymmetrical animal is a sponge. Radial symmetry, as illustrated in <link target-id="fig-ch33_01_01" document=""/>, describes when an animal has an up-and-down orientation: any plane cut along its longitudinal axis through the organism produces equal halves, but not a definite right or left side. This plan is found mostly in aquatic animals, especially organisms that attach themselves to a base, like a rock or a boat, and extract their food from the surrounding water as it flows around the organism. Bilateral symmetry is illustrated in the same figure by a goat. The goat also has an upper and lower component to it, but a plane cut from front to back separates the animal into definite right and left sides. Additional terms used when describing positions in the body are anterior (front), posterior (rear), dorsal (toward the back), and ventral (toward the stomach). Bilateral symmetry is found in both land-based and aquatic animals; it enables a high level of mobility.</para></section>
+<section id="fs-idp34003168"><title>Limits on Animal Size and Shape</title><para id="fs-idm67702528">Animals with bilateral symmetry that live in water tend to have a <term>fusiform</term> shape: this is a tubular shaped body that is tapered at both ends. This shape decreases the drag on the body as it moves through water and allows the animal to swim at high speeds. <link target-id="eip-idp129543248" document=""/> lists the maximum speed of various animals. Certain types of sharks can swim at fifty kilometers an hour and some dolphins at 32 to 40 kilometers per hour. Land animals frequently travel faster, although the tortoise and snail are significantly slower than cheetahs. Another difference in the adaptations of aquatic and land-dwelling organisms is that aquatic organisms are constrained in shape by the forces of drag in the water since water has higher viscosity than air. On the other hand, land-dwelling organisms are constrained mainly by gravity, and drag is relatively unimportant. For example, most adaptations in birds are for gravity not for drag.</para><table id="eip-idp129543248" summary="">
+<tgroup cols="3" align="left">
+<colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
+    <thead>
+    <row><entry namest="c1" nameend="c3">Maximum Speed of Assorted Land Marine Animals</entry></row>
+        <row><entry>Animal</entry><entry>Speed (kmh)</entry><entry>Speed (mph)</entry></row>
+    </thead>
+    <tbody>
+    <row><entry>Cheetah</entry>
+        <entry>113</entry>
+        <entry>70</entry>
+    </row>
+    <row>
+        <entry>Quarter horse</entry>
+        <entry>77</entry>
+        <entry>48</entry>
+    </row>
+    <row>
+        <entry>Fox</entry>
+        <entry>68</entry>
+        <entry>42</entry>
+    </row>
+        <row>
+            <entry>Shortfin mako shark</entry>
+            <entry>50</entry>
+            <entry>31</entry>
+        </row>
+        <row>
+            <entry>Domestic house cat</entry>
+            <entry>48</entry>
+            <entry>30</entry>
+        </row>
+        <row>
+            <entry>Human</entry>
+            <entry>45</entry>
+            <entry>28</entry>
+        </row>
+        <row>
+            <entry>Dolphin</entry>
+            <entry>32&#8211;40</entry>
+            <entry>20&#8211;25</entry>
+        </row>
+        <row>
+            <entry>Mouse</entry>
+            <entry>13</entry>
+            <entry>8</entry>
+        </row>
+        <row>
+            <entry>Snail</entry>
+            <entry>0.05</entry>
+            <entry>0.03</entry>
+        </row>
+    </tbody>
+</tgroup>
+</table>
+<para id="fs-idp33242880">Most animals have an exoskeleton, including insects, spiders, scorpions, horseshoe crabs, centipedes, and crustaceans. Scientists estimate that, of insects alone, there are over 30 million species on our planet. The exoskeleton is a hard covering or shell that provides benefits to the animal, such as protection against damage from predators and from water loss (for land animals); it also provides for the attachments of muscles.</para>
+<para id="fs-idp79617744">As the tough and resistant outer cover of an arthropod, the exoskeleton may be constructed of a tough polymer such as chitin and is often biomineralized with materials such as calcium carbonate. This is fused to the animal&#8217;s epidermis. Ingrowths of the exoskeleton, called <term>apodemes</term>, function as attachment sites for muscles, similar to tendons in more advanced animals (<link target-id="fig-ch33_01_02" document=""/>). In order to grow, the animal must first synthesize a new exoskeleton underneath the old one and then shed or molt the original covering. This limits the animal&#8217;s ability to grow continually, and may limit the individual&#8217;s ability to mature if molting does not occur at the proper time. The thickness of the exoskeleton must be increased significantly to accommodate any increase in weight. It is estimated that a doubling of body size increases body weight by a factor of eight. The increasing thickness of the chitin necessary to support this weight limits most animals with an exoskeleton to a relatively small size. The same principles apply to endoskeletons, but they are more efficient because muscles are attached on the outside, making it easier to compensate for increased mass.</para>
+<figure id="fig-ch33_01_02" class=" "><media id="fs-idm54741360" alt="Illustration shows a crab claw with a small, upper portion that pivots relative to a large, lower portion. The apodemes are located on the large portion, above and below the pivot point.">
+<image mime-type="image/jpg" src="Figure_33_01_02.jpg" width="420"/>
+</media>
+<caption>Apodemes are ingrowths on arthropod exoskeletons to which muscles attach. The apodemes on this crab leg are located above and below the fulcrum of the claw. Contraction of muscles attached to the apodemes pulls the claw closed.</caption></figure><para id="fs-idm10102256">An animal with an endoskeleton has its size determined by the amount of skeletal system it needs in order to support the other tissues and the amount of muscle it needs for movement. As the body size increases, both bone and muscle mass increase. The speed achievable by the animal is a balance between its overall size and the bone and muscle that provide support and movement.</para>
+</section><section id="fs-idm102628256">
+<title>Limiting Effects of Diffusion on Size and Development</title>
+<para id="fs-idp5864112">The exchange of nutrients and wastes between a cell and its watery environment occurs through the process of diffusion. All living cells are bathed in liquid, whether they are in a single-celled organism or a multicellular one. Diffusion is effective over a specific distance and limits the size that an individual cell can attain. If a cell is a single-celled microorganism, such as an amoeba, it can satisfy all of its nutrient and waste needs through diffusion. If the cell is too large, then diffusion is ineffective and the center of the cell does not receive adequate nutrients nor is it able to effectively dispel its waste.</para>
+<para id="fs-idm81449888">An important concept in understanding how efficient diffusion is as a means of transport is the surface to volume ratio. Recall that any three-dimensional object has a surface area and volume; the ratio of these two quantities is the surface-to-volume ratio. Consider a cell shaped like a perfect sphere: it has a surface area of 4&#960;r<sup>2</sup>, and a volume of (4/3)&#960;r<sup>3</sup>. The surface-to-volume ratio of a sphere is 3/r; as the cell gets bigger, its surface to volume ratio decreases, making diffusion less efficient. The larger the size of the sphere, or animal, the less surface area for diffusion it possesses.</para>
+<para id="fs-idp18501248">The solution to producing larger organisms is for them to become multicellular. Specialization occurs in complex organisms, allowing cells to become more efficient at doing fewer tasks. For example, circulatory systems bring nutrients and remove waste, while respiratory systems provide oxygen for the cells and remove carbon dioxide from them. Other organ systems have developed further specialization of cells and tissues and efficiently control body functions. Moreover, surface-to-volume ratio applies to other areas of animal development, such as the relationship between muscle mass and cross-sectional surface area in supporting skeletons, and in the relationship between muscle mass and the generation of dissipation of heat.</para>
+<note id="fs-idm36204976" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idm152353712" alt="QR Code representing a URL">
+<image mime-type="image/png" src="nanoscopy.png" width="120"/>
+</media>
+<para id="fs-idp109090224">Visit <link window="new" url="http://openstaxcollege.org/l/nanoscopy">this interactive site</link> to see an entire animal (a zebrafish embryo) at the cellular and sub-cellular level. Use the zoom and navigation functions for a virtual nanoscopy exploration.</para>
+</note></section>
+<section id="fs-idm11553328">
+<title>Animal Bioenergetics</title>
+<para id="fs-idm156942176">All animals must obtain their energy from food they ingest or absorb. These nutrients are converted to adenosine triphosphate (ATP) for short-term storage and use by all cells. Some animals store energy for slightly longer times as glycogen, and others store energy for much longer times in the form of triglycerides housed in specialized adipose tissues. No energy system is one hundred percent efficient, and an animal&#8217;s metabolism produces waste energy in the form of heat. If an animal can conserve that heat and maintain a relatively constant body temperature, it is classified as a warm-blooded animal and called an <term>endotherm</term>. The insulation used to conserve the body heat comes in the forms of fur, fat, or feathers. The absence of insulation in <term>ectothermic</term> animals increases their dependence on the environment for body heat.</para>
+<para id="fs-idm76567040">The amount of energy expended by an animal over a specific time is called its metabolic rate. The rate is measured variously in joules, calories, or kilocalories (1000 calories). Carbohydrates and proteins contain about 4.5 to 5 kcal/g, and fat contains about 9 kcal/g. Metabolic rate is estimated as the <term>basal metabolic rate (BMR)</term> in endothermic animals at rest and as the <term>standard metabolic rate (SMR)</term> in ectotherms. Human males have a BMR of 1600 to 1800 kcal/day, and human females have a BMR of 1300 to 1500 kcal/day. Even with insulation, endothermal animals require extensive amounts of energy to maintain a constant body temperature. An ectotherm such as an alligator has an SMR of 60 kcal/day.</para><section id="fs-idm78821056">
+<title>Energy Requirements Related to Body Size</title>
+<para id="fs-idm69258720">Smaller endothermic animals have a greater surface area for their mass than larger ones (<link target-id="fig-ch33_01_03" document=""/>). Therefore, smaller animals lose heat at a faster rate than larger animals and require more energy to maintain a constant internal temperature. This results in a smaller endothermic animal having a higher BMR, per body weight, than a larger endothermic animal.</para><figure id="fig-ch33_01_03" class=" "><media id="fs-idp58915664" alt=" A mouse has an average mass of 35 grams and a metabolic rate of 890 millimeters cubed of oxygen per gram body mass per hour. The elephant has an average mass of 4,500 kg and a metabolic rate of 75 millimeters cubed of oxygen per gram body mass per hour.">
+<image mime-type="image/jpg" src="Figure_33_01_03.jpg" width="520"/>
+</media>
+<caption>The mouse has a much higher metabolic rate than the elephant. (credit &#8220;mouse&#8221;: modification of work by Magnus Kjaergaard; credit &#8220;elephant&#8221;: modification of work by &#8220;TheLizardQueen&#8221;/Flickr)</caption></figure></section>
+<section id="fs-idm23605840">
+<title>Energy Requirements Related to Levels of Activity</title>
+<para id="fs-idp1305328">The more active an animal is, the more energy is needed to maintain that activity, and the higher its BMR or SMR. The average daily rate of energy consumption is about two to four times an animal&#8217;s BMR or SMR. Humans are more sedentary than most animals and have an average daily rate of only 1.5 times the BMR. The diet of an endothermic animal is determined by its BMR. For example: the type of grasses, leaves, or shrubs that an herbivore eats affects the number of calories that it takes in. The relative caloric content of herbivore foods, in descending order, is tall grasses &gt; legumes &gt; short grasses &gt; forbs (any broad-leaved plant, not a grass) &gt; subshrubs &gt; annuals/biennials.</para>
+</section>
+<section id="fs-idm60275632">
+<title>Energy Requirements Related to Environment</title>
+<para id="fs-idp18140912">Animals adapt to extremes of temperature or food availability through torpor. <term>Torpor</term> is a process that leads to a decrease in activity and metabolism and allows animals to survive adverse conditions. Torpor can be used by animals for long periods, such as entering a state of <term>hibernation</term> during the winter months, in which case it enables them to maintain a reduced body temperature. During hibernation, ground squirrels can achieve an abdominal temperature of 0&#176; C (32&#176; F), while a bear&#8217;s internal temperature is maintained higher at about 37&#176; C (99&#176; F).</para><para id="fs-idp111877872">If torpor occurs during the summer months with high temperatures and little water, it is called <term>estivation</term>. Some desert animals use this to survive the harshest months of the year. Torpor can occur on a daily basis; this is seen in bats and hummingbirds. While endothermy is limited in smaller animals by surface to volume ratio, some organisms can be smaller and still be endotherms because they employ daily torpor during the part of the day that is coldest.  This allows them to conserve energy during the colder parts of the day, when they consume more energy to maintain their body temperature. </para></section>
+</section>
+<section id="fs-idm391168">
+<title>Animal Body Planes and Cavities</title>
+<para id="fs-idm129981648">A standing vertebrate animal can be divided by several planes. A <term>sagittal plane</term> divides the body into right and left portions. A <term>midsagittal plane</term> divides the body exactly in the middle, making two equal right and left halves. A <term>frontal plane</term> (also called a coronal plane) separates the front from the back. A <term>transverse plane</term> (or, horizontal plane) divides the animal into upper and lower portions. This is sometimes called a cross section, and, if the transverse cut is at an angle, it is called an oblique plane. <link target-id="fig-ch33_01_04" document=""/> illustrates these planes on a goat (a four-legged animal) and a human being.</para>
+<figure id="fig-ch33_01_04" class=" "><media id="fs-idm49170752" alt="Illustration A shows the planes of a goat body. The midsagittal plane runs through the middle of the goat from front to back, separating the right and left sides. The frontal plane also runs from front to back, but separates the upper half of the body from the lower half. The transverse plane runs across the middle of the goat, and separate the front and back halves of the body. Illustration B shows the planes of a human body. The midsagittal plane runs from top to bottom and separates the right and left halves of the body. The Frontal plane also runs from top to bottom and separates the front and back halves of the body. The Transverse plane dissects the middle of the body between the chest and abdomen, separating the top of the body from the bottom. The midline is an imaginary line running through the middle of the body, from top to bottom.">
+<image mime-type="image/jpg" src="Figure_33_01_04.jpg" width="475"/>
+</media>
+<caption>Shown are the planes of a quadruped goat and a bipedal human. The midsagittal plane divides the body exactly in half, into right and left portions. The frontal plane divides the front and back, and the transverse plane divides the body into upper and lower portions.</caption></figure><para id="fs-idm24006064">Vertebrate animals have a number of defined body cavities, as illustrated in <link target-id="fig-ch33_01_05" document=""/>. Two of these are major cavities that contain smaller cavities within them. The <term>dorsal cavity</term> contains the cranial and the vertebral (or spinal) cavities. The <term>ventral cavity</term> contains the thoracic cavity, which in turn contains the pleural cavity around the lungs and the pericardial cavity, which surrounds the heart. The ventral cavity also contains the abdominopelvic cavity, which can be separated into the abdominal and the pelvic cavities.</para>
+<figure id="fig-ch33_01_05"><media id="fs-idm49168720" alt="Illustration shows a cross-sectional side view of the upper part of a human body. The entire head region above the eyes and to the back of the head and a long thin strip from this region down the back is shaded to indicate the dorsal cavity. The head is labeled cranial cavity and the long thin region down the back is the spinal cavity. A large oblong area shaded at the front of the body indicates the ventral cavity. It is labeled from top to bottom as thoracic cavity, diaphragm (thin line separating regions), abdominal cavity, and pelvic cavity. The abdominal and pelvic cavities are separated by a thin dashed line and together they are labeled the abdominopelvic cavity.">
+<image mime-type="image/jpg" src="Figure_33_01_05.jpg" width="280"/>
+</media>
+<caption>Vertebrate animals have two major body cavities. The dorsal cavity, indicated in green, contains the cranial and the spinal cavity. The ventral cavity, indicated in yellow, contains the thoracic cavity and the abdominopelvic cavity. The thoracic cavity is separated from the abdominopelvic cavity by the diaphragm. The thoracic cavity is separated into the abdominal cavity and the pelvic cavity by an imaginary line parallel to the pelvis bones. (credit: modification of work by NCI)</caption></figure><note id="fs-idp12282704" class="career"><label/><title>Career Connections</title>
+        
+<para id="fs-idm14226944"><title>Physical Anthropologist</title>Physical anthropologists study the adaption, variability, and evolution of human beings, plus their living and fossil relatives. They can work in a variety of settings, although most will have an academic appointment at a university, usually in an anthropology department or a biology, genetics, or zoology department.</para>
+<para id="fs-idp33812720">Non-academic positions are available in the automotive and aerospace industries where the focus is on human size, shape, and anatomy. Research by these professionals might range from studies of how the human body reacts to car crashes to exploring how to make seats more comfortable. Other non-academic positions can be obtained in museums of natural history, anthropology, archaeology, or science and technology. These positions involve educating students from grade school through graduate school. Physical anthropologists serve as education coordinators, collection managers, writers for museum publications, and as administrators. Zoos employ these professionals, especially if they have an expertise in primate biology; they work in collection management and captive breeding programs for endangered species. Forensic science utilizes physical anthropology expertise in identifying human and animal remains, assisting in determining the cause of death, and for expert testimony in trials.</para>
+</note></section>
+<section id="fs-idp62779936" class="summary">
+<title>Section Summary</title><para id="fs-idp18321280">Animal bodies come in a variety of sizes and shapes. Limits on animal size and shape include impacts to their movement. Diffusion affects their size and development. Bioenergetics describes how animals use and obtain energy in relation to their body size, activity level, and environment.</para>
+    </section>
+<section id="fs-idm127507008" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp64261056">
+<problem id="fs-idm51852304"><para id="fs-idm88210224">Which type of animal maintains a constant internal body temperature?</para>
+<list id="fs-idp25603808" list-type="enumerated" number-style="lower-alpha">
+<item>endotherm</item>
+<item>ectotherm</item>
+<item>coelomate</item>
+<item>mesoderm</item>
+</list>
+</problem>
+<solution id="fs-idm97005440">
+<label/>
+<para id="fs-idp20927632">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm151811072">
+<problem id="fs-idp34324304"><para id="fs-idm57623216">The symmetry found in animals that move swiftly is ________.</para>
+<list id="fs-idm148637136" list-type="enumerated" number-style="lower-alpha">
+<item>radial</item>
+<item>bilateral</item>
+<item>sequential</item>
+<item>interrupted</item>
+</list>
+</problem>
+<solution id="fs-idp34651824">
+<label/>
+<para id="fs-idm102675136">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm68253376">
+<problem id="fs-idp7026688"><para id="fs-idm156637712">What term describes the condition of a desert mouse that lowers its metabolic rate and &#8220;sleeps&#8221; during the hot day?</para>
+<list id="fs-idm28776304" list-type="enumerated" number-style="lower-alpha">
+<item>turgid</item>
+<item>hibernation</item>
+<item>estivation</item>
+<item>normal sleep pattern</item>
+</list>
+</problem>
+<solution id="fs-idm80262368">
+<label/>
+<para id="fs-idp71193488">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm131350080">
+<problem id="fs-idp26346640"><para id="fs-idm64611200">A plane that divides an animal into equal right and left portions is ________.</para>
+<list id="fs-idp25707424" list-type="enumerated" number-style="lower-alpha">
+<item>diagonal</item>
+<item>midsagittal</item>
+<item>coronal</item>
+<item>transverse</item>
+</list>
+</problem>
+<solution id="fs-idp100206656">
+<label/>
+<para id="fs-idm102381184">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm126918432">
+<problem id="fs-idm113737024"><para id="fs-idp26338208">A plane that divides an animal into dorsal and ventral portions is ________.</para>
+<list id="fs-idm101112288" list-type="enumerated" number-style="lower-alpha">
+<item>sagittal</item>
+<item>midsagittal</item>
+<item>coronal</item>
+<item>transverse</item>
+</list>
+</problem>
+<solution id="fs-idm2755264">
+<label/>
+<para id="fs-idm62700272">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm64477360">
+<problem id="fs-idp64672656"><para id="fs-idp65040256">The pleural cavity is a part of which cavity?</para>
+<list id="fs-idp81666832" list-type="enumerated" number-style="lower-alpha">
+<item>dorsal cavity</item>
+<item>thoracic cavity</item>
+<item>abdominal cavity</item>
+<item>pericardial cavity</item>
+</list>
+</problem>
+<solution id="fs-idp104147072">
+<label/>
+<para id="fs-idm65051408">B</para>
+</solution>
+</exercise>
+</section>
+    <section id="fs-idm112672512" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm84674784">
+<problem id="fs-idm133877664"><para id="fs-idm153494192">How does diffusion limit the size of an organism? How is this counteracted?</para></problem>
+<solution id="fs-idm97307376"><label/>
+<para id="fs-idm134109808">Diffusion is effective over a very short distance. If a cell exceeds this distance in its size, the center of the cell cannot get adequate nutrients nor can it expel enough waste to survive. To compensate for this, cells can loosely adhere to each other in a liquid medium, or develop into multi-celled organisms that use circulatory and respiratory systems to deliver nutrients and remove wastes.</para></solution>
+    </exercise>
+<exercise id="fs-idm131329712">
+<problem id="fs-idm18882144"><para id="fs-idm81354592">What is the relationship between BMR and body size? Why?</para></problem>
+<solution id="fs-idm67974416">
+    <label/>
+    <para id="fs-idp22243696">Basal Metabolic Rate is an expression of the metabolic processes that occur to maintain an individual&#8217;s functioning and body temperature. Smaller bodied animals have a relatively large surface area compared to a much larger animal. The large animal&#8217;s large surface area leads to increased heat loss that the animal must compensate for, resulting in a higher BMR. A small animal, having less relative surface area, does not lose as much heat and has a correspondingly lower BMR.</para>
+</solution>
+</exercise>
+        </section>
+</content>
+<glossary>
+<definition id="fs-idp92791728"><term>apodeme</term> <meaning id="fs-idm142064928">ingrowth of an animal&#8217;s exoskeleton that functions as an attachment site for muscles</meaning></definition>
+    <definition id="fs-idm10960"><term>asymmetrical</term> <meaning id="fs-idp13543488">describes animals with no axis of symmetry in their body pattern</meaning></definition>
+<definition id="fs-idm102461008"><term>basal metabolic rate (BMR)</term> <meaning id="fs-idm67915760">metabolic rate at rest in endothermic animals</meaning></definition>
+<definition id="fs-idm23466688"><term>dorsal cavity</term> <meaning id="fs-idm135718336">body cavity on the posterior or back portion of an animal; includes the cranial and vertebral cavities</meaning></definition>
+    <definition id="fs-idm164552464"><term>ectotherm</term> <meaning id="fs-idp92648112">animal incapable of maintaining a relatively constant internal body temperature</meaning></definition>
+<definition id="fs-idm90508496"><term>endotherm</term> <meaning id="fs-idm110209120">animal capable of maintaining a relatively constant internal body temperature</meaning></definition>
+<definition id="fs-idm1961088"><term>estivation</term> <meaning id="fs-idm52989680">torpor in response to extremely high temperatures and low water availability</meaning></definition>
+<definition id="fs-idm28316992"><term>frontal (coronal) plane</term> <meaning id="fs-idm95840384">plane cutting through an animal separating the individual into front and back portions</meaning></definition>
+<definition id="fs-idm83721344"><term>fusiform</term> <meaning id="fs-idm115214240">animal body shape that is tubular and tapered at both ends</meaning></definition>
+<definition id="fs-idm62368512"><term>hibernation</term> <meaning id="fs-idm77496928">torpor over a long period of time, such as a winter</meaning></definition>
+<definition id="fs-idm77471760"><term>midsagittal plane</term> <meaning id="fs-idm7076464">plane cutting through an animal separating the individual into even right and left sides</meaning></definition>
+<definition id="fs-idm101835040"><term>sagittal plane</term> <meaning id="fs-idp120270624">plane cutting through an animal separating the individual into right and left sides</meaning></definition>
+<definition id="fs-idp27020128"><term>standard metabolic rate (SMR)</term> <meaning id="fs-idm22385120">metabolic rate at rest in ectothermic animals</meaning></definition>
+<definition id="fs-idm78728352"><term>torpor</term> <meaning id="fs-idm94127744">decrease in activity and metabolism that allows an animal to survive adverse conditions</meaning></definition>
+<definition id="fs-idp93720288"><term>transverse (horizontal) plane</term> <meaning id="fs-idp69329680">plane cutting through an animal separating the individual into upper and lower portions</meaning></definition>
+<definition id="fs-idp33290208"><term>ventral cavity</term> <meaning id="fs-idp12303392">body cavity on the anterior or front portion of an animal that includes the thoracic cavities and the abdominopelvic cavities</meaning></definition>
+</glossary>
+</document>

@@ -1,0 +1,244 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Hormonal Control of Osmoregulatory Functions</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44828/latest/</md:content-url>
+  <md:content-id>m44828</md:content-id>
+  <md:title>Hormonal Control of Osmoregulatory Functions</md:title>
+  <md:version>1.5</md:version>
+  <md:created>2012/08/23 15:56:15 -0500</md:created>
+  <md:revised>2013/05/23 10:34:36.972 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>ACE</md:keyword>
+    <md:keyword>ADH</md:keyword>
+    <md:keyword>angiotensin converting enzyme</md:keyword>
+    <md:keyword>angiotensin I</md:keyword>
+    <md:keyword>angiotensin II</md:keyword>
+    <md:keyword>anti-diuretic hormone</md:keyword>
+    <md:keyword>hormone</md:keyword>
+    <md:keyword>mineralocorticoid</md:keyword>
+    <md:keyword>osmotic excretion</md:keyword>
+    <md:keyword>osmotic regulation</md:keyword>
+    <md:keyword>osmotic system</md:keyword>
+    <md:keyword>renin-angiotensin</md:keyword>
+    <md:keyword>vasodilator</md:keyword>
+    <md:keyword>vasopressin</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain how hormonal cues help the kidneys synchronize the osmotic needs of the body</item>
+<item>Describe how hormones like epinephrine, norepinephrine, renin-angiotensin, aldosterone, anti-diuretic hormone, and atrial natriuretic peptide help regulate waste elimination, maintain correct osmolarity, and perform other osmoregulatory functions</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idm47549440">While the kidneys operate to maintain osmotic balance and blood pressure in the body, they also act in concert with hormones. Hormones are small molecules that act as messengers within the body. Hormones are typically secreted from one cell and travel in the bloodstream to affect a target cell in another portion of the body. Different regions of the nephron bear specialized cells that have receptors to respond to chemical messengers and hormones. <link target-id="tab-ch41_05_01" document=""/> summarizes the hormones that control the osmoregulatory functions.</para>
+<table id="tab-ch41_05_01" summary="Hormones that control osmoregulatory functions">
+<tgroup cols="3" align="center"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c3" align="left">Hormones That Affect Osmoregulation</entry>
+</row>
+<row>
+<entry>Hormone</entry>
+<entry>Where produced</entry>
+<entry>Function</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Epinephrine and Norepinephrine</entry>
+<entry>Adrenal medulla</entry>
+<entry>Can decrease kidney function temporarily by vasoconstriction</entry>
+</row>
+<row>
+<entry>Renin</entry>
+<entry>Kidney nephrons</entry>
+<entry>Increases blood pressure by acting on angiotensinogen</entry>
+</row>
+<row>
+<entry>Angiotensin</entry>
+<entry>Liver</entry>
+<entry>Angiotensin II affects multiple processes and increases blood pressure</entry>
+</row>
+<row>
+<entry>Aldosterone</entry>
+<entry>Adrenal cortex</entry>
+<entry>Prevents loss of sodium and water</entry>
+</row>
+<row>
+<entry>Anti-diuretic hormone (vasopressin)</entry>
+<entry>Hypothalamus (stored in the posterior pituitary)</entry>
+<entry>Prevents water loss</entry>
+</row>
+<row>
+<entry>Atrial natriuretic peptide</entry>
+<entry>Heart atrium</entry>
+<entry>Decreases blood pressure by acting as a vasodilator and increasing glomerular filtration rate; decreases sodium reabsorption in kidneys</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table><section id="fs-idp114206336">
+<title>Epinephrine and Norepinephrine</title>
+<para id="fs-idm26012368">Epinephrine and norepinephrine are released by the adrenal medulla and nervous system respectively. They are the flight/fight hormones that are released when the body is under extreme stress. During stress, much of the body&#8217;s energy is used to combat imminent danger. Kidney function is halted temporarily by epinephrine and norepinephrine. These hormones function by acting directly on the smooth muscles of blood vessels to constrict them. Once the afferent arterioles are constricted, blood flow into the nephrons stops. These hormones go one step further and trigger the <term>renin-angiotensin-aldosterone</term> system.</para>
+</section>
+<section id="fs-idm56814832">
+<title>Renin-Angiotensin-Aldosterone</title>
+<para id="fs-idm10304784">The renin-angiotensin-aldosterone system, illustrated in <link target-id="fig-ch41_05_01" document=""/> proceeds through several steps to produce <term>angiotensin II</term>, which acts to stabilize blood pressure and volume. Renin (secreted by a part of the juxtaglomerular complex) is produced by the granular cells of the afferent and efferent arterioles. Thus, the kidneys control blood pressure and volume directly. Renin acts on angiotensinogen, which is made in the liver and converts it to <term>angiotensin I</term>. <term>Angiotensin converting enzyme (ACE)</term> converts angiotensin I to angiotensin II. Angiotensin II raises blood pressure by constricting blood vessels. It also triggers the release of the mineralocorticoid aldosterone from the adrenal cortex, which in turn stimulates the renal tubules to reabsorb more sodium. Angiotensin II also triggers the release of <term>anti-diuretic hormone (ADH)</term> from the hypothalamus, leading to water retention in the kidneys. It acts directly on the nephrons and decreases glomerular filtration rate. Medically, blood pressure can be controlled by drugs that inhibit ACE (called ACE inhibitors).</para><figure id="fig-ch41_05_01" class=" ">
+<media id="fs-idm11883664" alt="The renin-angiotensin-aldosterone pathway involves four hormones: renin, which is made in the kidney, angiotensin, which is made in the liver, aldosterone, which is made in the adrenal glands, and ADH, which is made in the hypothalamus and secreted by the posterior pituitary. The adrenal glands are located on top of the kidneys, and the hypothalamus and pituitary are in the brain. The pathway begins when renin converts angiotensin into angiotensin I. An enzyme called ACE then converts angiotensin I into angiotensin II. Angiotensin II has several direct effects. These include arterial constriction, which increases blood pressure, decreasing the glomerular filtration rate, which results in water retention, and increasing thirst. Angiotensin II also triggers the release of two other hormones, aldosterone and ADH. Aldosterone causes nephron distal tubules to reabsorb more sodium and water, which increases blood volume. ADH moderates the insertion of aquaporins into the nephridial collecting ducts. As a result, more water is reabsorbed by the blood. ADH also causes arteries to constrict. The hormone ANP is antagonistic to the angiotensin pathway. ANP decreases blood pressure and volume by increasing the glomerulus filtration rate, increasing reabsorption of sodium ions by the nephron, and by inhibiting the release of renin from the kidney and aldosterone from the adrenal gland.">
+<image mime-type="image/jpg" src="Figure_41_05_01.jpg" width="575"/>
+</media>
+<caption>The renin-angiotensin-aldosterone system increases blood pressure and volume. The hormone ANP has antagonistic effects. (credit: modification of work by Mikael H&#228;ggstr&#246;m)</caption>
+</figure>
+</section>
+<section id="fs-idm8612112">
+<title>Mineralocorticoids</title>
+<para id="fs-idp114630528">Mineralocorticoids are hormones synthesized by the adrenal cortex that affect osmotic balance. Aldosterone is a mineralocorticoid that regulates sodium levels in the blood. Almost all of the sodium in the blood is reclaimed by the renal tubules under the influence of aldosterone. Because sodium is always reabsorbed by active transport and water follows sodium to maintain osmotic balance, aldosterone manages not only sodium levels but also the water levels in body fluids. In contrast, the aldosterone also stimulates potassium secretion concurrently with sodium reabsorption. In contrast, absence of aldosterone means that no sodium gets reabsorbed in the renal tubules and all of it gets excreted in the urine. In addition, the daily dietary potassium load is not secreted and the retention of K<sup>+</sup> can cause a dangerous increase in plasma K<sup>+</sup> concentration. Patients who have Addison's disease have a failing adrenal cortex and cannot produce aldosterone. They lose sodium in their urine constantly, and if the supply is not replenished, the consequences can be fatal.</para>
+</section>
+<section id="fs-idm138152048">
+<title>Antidiurectic Hormone</title>
+<para id="fs-idm135252560">As previously discussed, antidiuretic hormone or ADH (also called <term>vasopressin</term>), as the name suggests, helps the body conserve water when body fluid volume, especially that of blood, is low. It is formed by the hypothalamus and is stored and released from the posterior pituitary. It acts by inserting aquaporins in the collecting ducts and promotes reabsorption of water. ADH also acts as a vasoconstrictor and increases blood pressure during hemorrhaging.</para>
+</section>
+<section id="fs-idp16229264">
+<title>Atrial Natriuretic Peptide Hormone</title>
+<para id="fs-idm3277792">The atrial natriuretic peptide (ANP) lowers blood pressure by acting as a <term>vasodilator</term>. It is released by cells in the atrium of the heart in response to high blood pressure and in patients with sleep apnea. ANP affects salt release, and because water passively follows salt to maintain osmotic balance, it also has a diuretic effect. ANP also prevents sodium reabsorption by the renal tubules, decreasing water reabsorption (thus acting as a diuretic) and lowering blood pressure. Its actions suppress the actions of aldosterone, ADH, and renin.</para>
+</section>
+<section id="fs-idm142274672" class="summary">
+<title>Section Summary</title><para id="fs-idm134598544">Hormonal cues help the kidneys synchronize the osmotic needs of the body. Hormones like epinephrine, norepinephrine, renin-angiotensin, aldosterone, anti-diuretic hormone, and atrial natriuretic peptide help regulate the needs of the body as well as the communication between the different organ systems.</para>
+</section>
+<section id="fs-idm27053760" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm77856336">
+<problem id="fs-idm113020448">
+<para id="fs-idp60918464">Renin is made by ________.</para>
+<list id="fs-idm96906256" list-type="enumerated" number-style="lower-alpha">
+<item>granular cells of the juxtaglomerular apparatus</item>
+<item>the kidneys</item>
+<item>the nephrons</item>
+<item>All of the above.</item>
+</list>
+</problem>
+<solution id="fs-idm100468048">
+<label/>
+<para id="fs-idm134768224">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm2601472">
+<problem id="fs-idm71203920">
+<para id="fs-idp114225344">Patients with Addison's disease ________.</para>
+<list id="fs-idp71515360" list-type="enumerated" number-style="lower-alpha">
+<item>retain water</item>
+<item>retain salts</item>
+<item>lose salts and water</item>
+<item>have too much aldosterone</item>
+</list>
+</problem>
+<solution id="fs-idp24625168">
+<label/>
+<para id="fs-idp96431360">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idp78582464">
+<problem id="fs-idm127224688">
+<para id="fs-idm6284976">Which hormone elicits the &#8220;fight or flight&#8221; response?</para>
+<list id="fs-idm134725328" list-type="enumerated" number-style="lower-alpha">
+<item>epinephrine</item>
+<item>mineralcorticoids</item>
+<item>anti-diuretic hormone</item>
+<item>thyroxine</item>
+</list>
+</problem>
+<solution id="fs-idm97574224">
+<label/>
+<para id="fs-idm111477680">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm2920480" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idp82471312">
+<problem id="fs-idm131591424">
+<para id="fs-idm67761552">Describe how hormones regulate blood pressure, blood volume, and kidney function.</para>
+</problem>
+<solution id="fs-idm33050624">
+<label/>
+<para id="fs-idm53331936">Hormones are small molecules that act as messengers within the body. Different regions of the nephron bear specialized cells, which have receptors to respond to chemical messengers and hormones. The hormones carry messages to the kidney. These hormonal cues help the kidneys synchronize the osmotic needs of the body. Hormones like epinephrine, norepinephrine, renin-angiotensin, aldosterone, anti-diuretic hormone, and atrial natriuretic peptide help regulate the needs of the body as well as the communication between the different organ systems.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm46375376">
+<problem id="fs-idm151401408">
+<para id="fs-idm27039824">How does the renin-angiotensin-aldosterone mechanism function? Why is it controlled by the kidneys?</para>
+</problem>
+<solution id="fs-idp112781328">
+<label/>
+<para id="fs-idp95577104">The renin-angiotensin-aldosterone system acts through several steps to produce angiotensin II, which acts to stabilize blood pressure and volume. Thus, the kidneys control blood pressure and volume directly. Renin acts on angiotensinogen, which is made in the liver and converts it to angiotensin I. ACE (angiotensin converting enzyme) converts angiotensin I to angiotensin II. Angiotensin II raises blood pressure by constricting blood vessels. It triggers the release of aldosterone from the adrenal cortex, which in turn stimulates the renal tubules to reabsorb more sodium. Angiotensin II also triggers the release of anti-diuretic hormone from the hypothalamus, which leads to water retention. It acts directly on the nephrons and decreases GFR.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm22644896">
+<term>angiotensin converting enzyme (ACE)</term> <meaning id="fs-idm110222416">enzyme that converts angiotensin I to angiotensin II</meaning>
+</definition>
+<definition id="fs-idm99943504">
+<term>angiotensin I</term> <meaning id="fs-idm65737360">product in the renin-angiotensin-aldosterone pathway</meaning>
+</definition>
+<definition id="fs-idp79041600">
+<term>angiotensin II</term> <meaning id="fs-idp129543152">molecule that affects different organs to increase blood pressure</meaning>
+</definition>
+<definition id="fs-idp6545056">
+<term>anti-diuretic hormone (ADH)</term> <meaning id="fs-idp14494800">hormone that prevents the loss of water</meaning>
+</definition>
+<definition id="fs-idm14111936">
+<term>renin-angiotensin-aldosterone</term> <meaning id="fs-idp23193456">biochemical pathway that activates angiotensin II, which increases blood pressure</meaning>
+</definition>
+<definition id="fs-idm126868768">
+<term>vasodilator</term> <meaning id="fs-idm75635344">compound that increases the diameter of blood vessels</meaning>
+</definition>
+<definition id="fs-idp87484192">
+<term>vasopressin</term> <meaning id="fs-idm90966320">another name for anti-diuretic hormone</meaning>
+</definition>
+</glossary>
+</document>

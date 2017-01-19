@@ -1,0 +1,213 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Mapping Genomes</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44554/latest/</md:content-url>
+  <md:content-id>m44554</md:content-id>
+  <md:title>Mapping Genomes</md:title>
+  <md:version>1.5</md:version>
+  <md:created>2012/08/23 14:02:11 -0500</md:created>
+  <md:revised>2013/04/11 13:28:01.568 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>biotechnology</md:keyword>
+    <md:keyword>chain termination method</md:keyword>
+    <md:keyword>contig</md:keyword>
+    <md:keyword>deoxynucleotide</md:keyword>
+    <md:keyword>dideoxynucleotide</md:keyword>
+    <md:keyword>DNA microarray</md:keyword>
+    <md:keyword>genome annotation</md:keyword>
+    <md:keyword>genomics</md:keyword>
+    <md:keyword>microsatellite polymorphism</md:keyword>
+    <md:keyword>model organism</md:keyword>
+    <md:keyword>next-generation sequencing</md:keyword>
+    <md:keyword>physical map</md:keyword>
+    <md:keyword>radiation hybrid mapping</md:keyword>
+    <md:keyword>restriction fragment length polymorphism</md:keyword>
+    <md:keyword>sequence mapping</md:keyword>
+    <md:keyword>shotgun sequencing</md:keyword>
+    <md:keyword>single nucleotide polymorphism</md:keyword>
+    <md:keyword>variable number of tandem repeats</md:keyword>
+    <md:keyword>whole genome sequencing</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Define genomics</item>
+<item>Describe genetic and physical maps</item>
+<item>Describe genomic mapping methods</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-id1276963"><term>Genomics</term> is the study of entire genomes, including the complete set of genes, their nucleotide sequence and organization, and their interactions within a species and with other species. <term>Genome mapping</term> is the process of finding the locations of genes on each chromosome. The maps created by genome mapping are comparable to the maps that we use to navigate streets. A <term>genetic map</term> is an illustration that lists genes and their location on a chromosome. Genetic maps provide the big picture (similar to a map of interstate highways) and use genetic markers (similar to landmarks). A <term>genetic marker</term> is a gene or sequence on a chromosome that co-segregates (shows genetic linkage) with a specific trait. Early geneticists called this linkage analysis. Physical maps present the intimate details of smaller regions of the chromosomes (similar to a detailed road map). A <term>physical map</term> is a representation of the physical distance, in nucleotides, between genes or genetic markers. Both genetic linkage maps and physical maps are required to build a complete picture of the genome. Having a complete map of the genome makes it easier for researchers to study individual genes. Human genome maps help researchers in their efforts to identify human disease-causing genes related to illnesses like cancer, heart disease, and cystic fibrosis. Genome mapping can be used in a variety of other applications, such as using live microbes to clean up pollutants or even prevent pollution. Research involving plant genome mapping may lead to producing higher crop yields or developing plants that better adapt to climate change.</para>
+
+<section id="fs-id2744855">
+<title>Genetic Maps</title>
+<para id="fs-id2017426">The study of genetic maps begins with <term>linkage analysis</term>, a procedure that analyzes the recombination frequency between genes to determine if they are linked or show independent assortment. The term <emphasis effect="italics">linkage</emphasis> was used before the discovery of DNA. Early geneticists relied on the observation of phenotypic changes to understand the genotype of an organism. Shortly after Gregor Mendel (the father of modern genetics) proposed that traits were determined by what are now known as genes, other researchers observed that different traits were often inherited together, and thereby deduced that the genes were physically linked by being located on the same chromosome. The mapping of genes relative to each other based on linkage analysis led to the development of the first genetic maps.</para>
+<para id="fs-id1484242">Observations that certain traits were always linked and certain others were not linked came from studying the offspring of crosses between parents with different traits. For example, in experiments performed on the garden pea, it was discovered that the color of the flower and shape of the plant&#8217;s pollen were linked traits, and therefore the genes encoding these traits were in close proximity on the same chromosome. The exchange of DNA between homologous pairs of chromosomes is called <term>genetic recombination</term>, which occurs by the crossing over of DNA between homologous strands of DNA, such as nonsister chromatids. Linkage analysis involves studying the recombination frequency between any two genes. The greater the distance between two genes, the higher the chance that a recombination event will occur between them, and the higher the recombination frequency between them. Two possibilities for recombination between two nonsister chromatids during meiosis are shown in <link target-id="fig-ch17_02_01" document=""/>. If the recombination frequency between two genes is less than 50 percent, they are said to be linked.</para>
+<figure id="fig-ch17_02_01"><media id="fs-id2951709" alt="A homologous pair of chromosomes has three genes, named A, B, and C. Gene A is located near the top of the chromosome, and genes B and C are located close together near the bottom. Each chromosome has different A, B, and C alleles. The alleles may recombine if a crossover occurs between them, so that genetic material from one chromosome is swapped with another. Genes A and B are far apart on the chromosome such that a crossover event occurring almost anywhere in the chromosome will result in the recombination of alleles for these genes. Genes B and C are much closer together, so only crossovers occurring in a very narrow region will result in recombination of these genes.">
+<image mime-type="image/jpg" src="Figure_17_02_01.jpg" width="450"/>
+</media>
+
+<caption>Crossover may occur at different locations on the chromosome. Recombination between genes <emphasis effect="italics">A</emphasis> and <emphasis effect="italics">B</emphasis> is more frequent than recombination between genes <emphasis effect="italics">B</emphasis> and <emphasis effect="italics">C</emphasis> because genes <emphasis effect="italics">A</emphasis> and <emphasis effect="italics">B</emphasis> are farther apart; a crossover is therefore more likely to occur between them.</caption></figure><para id="fs-id2305474">The generation of genetic maps requires markers, just as a road map requires landmarks (such as rivers and mountains). Early genetic maps were based on the use of known genes as markers. More sophisticated markers, including those based on non-coding DNA, are now used to compare the genomes of individuals in a population. Although individuals of a given species are genetically similar, they are not identical; every individual has a unique set of traits. These minor differences in the genome between individuals in a population are useful for the purposes of genetic mapping. In general, a good genetic marker is a region on the chromosome that shows variability or polymorphism (multiple forms) in the population.</para>
+<para id="fs-id1446134">Some genetic markers used in generating genetic maps are <term>restriction fragment length polymorphisms</term> (RFLP), variable number of tandem repeats (VNTRs), <term>microsatellite polymorphisms</term>, and the <term>single nucleotide polymorphisms</term> (SNPs). RFLPs (sometimes pronounced &#8220;rif-lips&#8221;) are detected when the DNA of an individual is cut with a restriction endonuclease that recognizes specific sequences in the DNA to generate a series of DNA fragments, which are then analyzed by gel electrophoresis. The DNA of every individual will give rise to a unique pattern of bands when cut with a particular set of restriction endonucleases; this is sometimes referred to as an individual&#8217;s DNA &#8220;fingerprint.&#8221; Certain regions of the chromosome that are subject to polymorphism will lead to the generation of the unique banding pattern. VNTRs are repeated sets of nucleotides present in the non-coding regions of DNA. Non-coding, or &#8220;junk,&#8221; DNA has no known biological function; however, research shows that much of this DNA is actually transcribed. While its function is uncertain, it is certainly active, and it may be involved in the regulation of coding genes. The number of repeats may vary in individual organisms of a population. Microsatellite polymorphisms are similar to VNTRs, but the repeat unit is very small. SNPs are variations in a single nucleotide.</para>
+<para id="fs-id1794075">Because genetic maps rely completely on the natural process of recombination, mapping is affected by natural increases or decreases in the level of recombination in any given area of the genome. Some parts of the genome are recombination hotspots, whereas others do not show a propensity for recombination. For this reason, it is important to look at mapping information developed by multiple methods.</para>
+</section>
+
+<section id="fs-id2474128">
+<title>Physical Maps</title>
+<para id="fs-id1236114">A physical map provides detail of the actual physical distance between genetic markers, as well as the number of nucleotides. There are three methods used to create a physical map: cytogenetic mapping, radiation hybrid mapping, and sequence mapping. <term>Cytogenetic mapping</term> uses information obtained by microscopic analysis of stained sections of the chromosome (<link target-id="fig-ch17_02_02" document=""/>). It is possible to determine the approximate distance between genetic markers using cytogenetic mapping, but not the exact distance (number of base pairs). <term>Radiation hybrid mapping</term> uses radiation, such as x-rays, to break the DNA into fragments. The amount of radiation can be adjusted to create smaller or larger fragments. This technique overcomes the limitation of genetic mapping and is not affected by increased or decreased recombination frequency. <term>Sequence mapping </term>resulted from DNA sequencing technology that allowed for the creation of detailed physical maps with distances measured in terms of the number of base pairs. The creation of <term>genomic libraries</term> and <term>complementary DNA (cDNA) libraries</term> (collections of cloned sequences or all DNA from a genome) has sped up the process of physical mapping. A genetic site used to generate a physical map with sequencing technology (a sequence-tagged site, or STS) is a unique sequence in the genome with a known exact chromosomal location. An <term>expressed sequence tag (EST)</term> and a single sequence length polymorphism (SSLP) are common STSs. An EST is a short STS that is identified with cDNA libraries, while SSLPs are obtained from known genetic markers and provide a link between genetic maps and physical maps.</para>
+<figure id="fig-ch17_02_02"><media id="fs-id2119684" alt="Cytogenetic maps of the 22 human autosomes and the X and Y chromosomes are shown. The map appears as a black, white, and gray banding pattern unique to each chromosome.">
+<image mime-type="image/jpg" src="Figure_17_02_02.jpg" width="320"/>
+</media>
+<caption>A cytogenetic map shows the appearance of a chromosome after it is stained and examined under a microscope. (credit: National Human Genome Research Institute)</caption></figure></section>
+
+<section id="fs-id1463775">
+<title>Integration of Genetic and Physical Maps</title>
+<para id="fs-id1831081">Genetic maps provide the outline and physical maps provide the details. It is easy to understand why both types of genome mapping techniques are important to show the big picture. Information obtained from each technique is used in combination to study the genome. Genomic mapping is being used with different model organisms that are used for research. Genome mapping is still an ongoing process, and as more advanced techniques are developed, more advances are expected. Genome mapping is similar to completing a complicated puzzle using every piece of available data. Mapping information generated in laboratories all over the world is entered into central databases, such as GenBank at the National Center for Biotechnology Information (NCBI). Efforts are being made to make the information more easily accessible to researchers and the general public. Just as we use global positioning systems instead of paper maps to navigate through roadways, NCBI has created a genome viewer tool to simplify the data-mining process.</para>
+
+<note id="fs-id1293715" class="scientific"><label/><title>Scientific Method Connection</title>
+<para id="eip-id1163934695107"><title>How to Use a Genome Map Viewer</title></para>
+<para id="fs-id2685435">Problem statement: Do the human, macaque, and mouse genomes contain common DNA sequences?</para>
+<para id="fs-id1956957">Develop a hypothesis.</para>
+<para id="fs-id2746225">To test the hypothesis, click this <link window="new" url="http://www.ncbi.nlm.nih.gov/mapview/">link</link>.</para><para id="fs-id1631652">In Search box on the left panel, type any gene name or phenotypic characteristic, such as iris pigmentation (eye color). Select the species you want to study, and then press Enter. The genome map viewer will indicate which chromosome encodes the gene in your search. Click each hit in the genome viewer for more detailed information. This type of search is the most basic use of the genome viewer; it can also be used to compare sequences between species, as well as many other complicated tasks.</para>
+<para id="fs-id1879663">Is the hypothesis correct? Why or why not?</para>
+</note><note id="fs-id1550132" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-id1612653" alt="QR Code representing a URL">
+<image mime-type="image/png" src="OMIM.png" width="120"/> </media> 
+<para id="fs-id1465546">Online Mendelian Inheritance in Man (OMIM) is a searchable online catalog of human genes and genetic disorders. This website shows genome mapping information, and also details the history and research of each trait and disorder. Click this <link window="new" url="http://openstaxcollege.org/l/OMIM">link</link> to search for traits (such as handedness) and genetic disorders (such as diabetes).</para></note></section>
+
+<section id="fs-id2250553" class="summary"> <title>Section Summary</title><para id="fs-id2197805">Genome mapping is similar to solving a big, complicated puzzle with pieces of information coming from laboratories all over the world. Genetic maps provide an outline for the location of genes within a genome, and they estimate the distance between genes and genetic markers on the basis of recombination frequencies during meiosis. Physical maps provide detailed information about the physical distance between the genes. The most detailed information is available through sequence mapping. Information from all mapping and sequencing sources is combined to study an entire genome.</para>
+</section>
+
+<section id="fs-id1977872" class="multiple-choice"> <title>Review Questions</title><exercise id="fs-id1425631">
+<problem id="fs-id2011093"><para id="fs-id2334597">ESTs are ________.</para>
+<list id="fs-id1434173" list-type="enumerated" number-style="lower-alpha">
+<item>generated after a cDNA library is made</item>
+<item>unique sequences in the genome</item>
+<item>useful for mapping using sequence information</item>
+<item>all of the above</item>
+</list>
+</problem>
+<solution id="fs-id1570289"> <label/> <para id="fs-id2291732">D</para> </solution>
+</exercise>
+<exercise id="fs-id1968258">
+<problem id="fs-id2853827"><para id="fs-id2117766">Linkage analysis ________.</para>
+<list id="fs-id2291844" list-type="enumerated" number-style="lower-alpha">
+<item>is used to create a physical map</item>
+<item>is based on the natural recombination process</item>
+<item>requires radiation hybrid mapping</item>
+<item>involves breaking and re-joining of DNA artificially</item>
+</list>
+</problem>
+<solution id="fs-id2690029"> <label/> <para id="fs-id2904571">B</para> </solution>
+</exercise>
+<exercise id="fs-id1418957">
+<problem id="fs-id1958767"><para id="fs-id2000133">Genetic recombination occurs by which process?</para>
+<list id="fs-id3570984" list-type="enumerated" number-style="lower-alpha">
+<item>independent assortment</item>
+<item>crossing over</item>
+<item>chromosome segregation</item>
+<item>sister chromatids</item>
+</list>
+</problem>
+<solution id="fs-id2278509"> <label/> <para id="fs-id2714047">B</para> </solution>
+</exercise>
+<exercise id="fs-id2609949">
+<problem id="fs-id2315017"><para id="fs-id1240070">Individual genetic maps in a given species are:</para>
+<list id="fs-id2745968" list-type="enumerated" number-style="lower-alpha">
+<item>genetically similar</item>
+<item>genetically identical</item>
+<item>genetically dissimilar</item>
+<item>not useful in species analysis</item>
+</list>
+</problem>
+<solution id="fs-id1771455"> <label/> <para id="fs-id1097260">A</para> </solution>
+</exercise>
+<exercise id="fs-id2386026">
+<problem id="fs-id2121675"><para id="fs-id1644930">Information obtained by microscopic analysis of stained chromosomes is used in:</para>
+<list id="fs-id1807315" list-type="enumerated" number-style="lower-alpha">
+<item>radiation hybrid mapping</item>
+<item>sequence mapping</item>
+<item>RFLP mapping</item>
+<item>cytogenetic mapping</item>
+</list>
+</problem>
+<solution id="fs-id2762999"> <label/> <para id="fs-id1428536">D</para> </solution>
+</exercise>
+</section>
+<section id="fs-id2739380" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-id2248830">
+<problem id="fs-id2200084"><para id="fs-id2688570">Why is so much effort being poured into genome mapping applications?</para></problem>
+<solution id="fs-id1953708"><label/>
+<para id="fs-id2026422">Genome mapping has many different applications and provides comprehensive information that can be used for predictive purposes.</para></solution>
+</exercise>
+<exercise id="fs-id1696275">
+<problem id="fs-id2682756"><para id="fs-id2321593">How could a genetic map of the human genome help find a cure for cancer?</para></problem>
+<solution id="fs-id2626001"><label/>
+<para id="fs-id1961664">A human genetic map can help identify genetic markers and sequences associated with high cancer risk, which can help to screen and provide early detection of different types of cancer.</para>
+</solution></exercise>
+</section>
+</content>
+
+<glossary>
+<definition id="fs-id1951339"><term>cytogenetic mapping</term> <meaning id="fs-id3191508">technique that uses a microscope to create a map from stained chromosomes</meaning></definition>
+<definition id="fs-id1786415"><term>expressed sequence tag (EST)</term> <meaning id="fs-id1448124">short STS that is identified with cDNA</meaning></definition>
+<definition id="fs-id2349077"><term>genetic map</term> <meaning id="fs-id1470806">outline of genes and their location on a chromosome</meaning></definition>
+<definition id="fs-id1419233"><term>genetic marker</term> <meaning id="fs-id1777919">gene or sequence on a chromosome with a known location that is associated with a specific trait</meaning></definition>
+<definition id="fs-id1630855"><term>genetic recombination</term> <meaning id="fs-id2054588">exchange of DNA between homologous pairs of chromosomes</meaning></definition>
+<definition id="fs-id2023354"><term>genome mapping</term> <meaning id="fs-id1712536">process of finding the location of genes on each chromosome</meaning></definition>
+<definition id="fs-id2008474"><term>cDNA library</term> <meaning id="fs-id1275139">collection of cloned cDNA sequences</meaning></definition>
+<definition id="fs-id1958502"><term>genomic library</term> <meaning id="fs-id1958439">collection of cloned DNA which represents all of the sequences and fragments from a genome</meaning></definition>
+<definition id="fs-id1815343"><term>genomics</term> <meaning id="fs-id1428699">study of entire genomes including the complete set of genes, their nucleotide sequence and organization, and their interactions within a species and with other species</meaning></definition>
+<definition id="fs-id2682565"><term>linkage analysis</term> <meaning id="fs-id1986894">procedure that analyzes the recombination of genes to determine if they are linked</meaning></definition>
+<definition id="fs-id2018699"><term>microsatellite polymorphism</term> <meaning id="fs-id1786464">variation between individuals in the sequence and number of repeats of microsatellite DNA</meaning></definition>
+<definition id="fs-id1381048"><term>physical map</term> <meaning id="fs-id1403735">representation of the physical distance between genes or genetic markers</meaning></definition>
+<definition id="fs-id2874090"><term>radiation hybrid mapping</term> <meaning id="fs-id2883522">information obtained by fragmenting the chromosome with x-rays</meaning></definition>
+<definition id="fs-id2162767"><term>restriction fragment length polymorphism (RFLP)</term> <meaning id="fs-id1455850">variation between individuals in the length of DNA fragments generated by restriction endonucleases</meaning></definition>
+<definition id="fs-id1446158"><term>sequence mapping</term> <meaning id="fs-id1280839">mapping information obtained after DNA sequencing</meaning></definition>
+<definition id="fs-id3319239"><term>single nucleotide polymorphism (SNP)</term> <meaning id="fs-id2583976">variation between individuals in a single nucleotide</meaning></definition>
+<definition id="fs-id1481452"><term>variable number of tandem repeats (VNTRs)</term> <meaning id="fs-id2595443">variation in the number of tandem repeats between individuals in the population</meaning></definition>
+</glossary>
+
+</document>

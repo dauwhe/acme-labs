@@ -1,0 +1,206 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>The Peripheral Nervous System</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44751/latest/</md:content-url>
+  <md:content-id>m44751</md:content-id>
+  <md:title>The Peripheral Nervous System</md:title>
+  <md:version>1.3</md:version>
+  <md:created>2012/08/23 15:31:51 -0500</md:created>
+  <md:revised>2013/04/10 12:07:27.269 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>acetylcholine</md:keyword>
+    <md:keyword>autonomic nervous system</md:keyword>
+    <md:keyword>cranial nerve</md:keyword>
+    <md:keyword>nervous system</md:keyword>
+    <md:keyword>neurologist</md:keyword>
+    <md:keyword>norepinephrine</md:keyword>
+    <md:keyword>parasympathetic nervous system</md:keyword>
+    <md:keyword>peripheral nervous system</md:keyword>
+    <md:keyword>PNS</md:keyword>
+    <md:keyword>sensory-somatic nervous system</md:keyword>
+    <md:keyword>spinal nerve</md:keyword>
+    <md:keyword>sympathetic nervous system</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the organization and functions of the sympathetic and parasympathetic nervous systems</item>
+<item>Describe the organization and function of the sensory-somatic nervous system</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idp70109264">The peripheral nervous system (PNS) is the connection between the central nervous system and the rest of the body. The CNS is like the power plant of the nervous system. It creates the signals that control the functions of the body. The PNS is like the wires that go to individual houses. Without those &#8220;wires,&#8221; the signals produced by the CNS could not control the body (and the CNS would not be able to receive sensory information from the body either).</para>
+<para id="fs-idp25657360">The PNS can be broken down into the <term>autonomic nervous system</term>, which controls bodily functions without conscious control, and the <term>sensory-somatic nervous system</term>, which transmits sensory information from the skin, muscles, and sensory organs to the CNS and sends motor commands from the CNS to the muscles.</para>
+<section id="fs-idp90728576">
+<title>Autonomic Nervous System</title>
+<note id="fs-idp157902832" class="art-connection"><label/><title>Art Connection</title>
+<figure id="fig-ch35_04_01" class=" "><media id="fs-idm28314224" alt="The autonomic nervous system is divided into sympathetic and parasympathetic systems. In the sympathetic system, the soma of the preganglionic neurons is usually located in the spine while in the parasympathetic system the soma is usually in the brainstem or sacral, at the bottom of the spine. In both systems, the preganglionic neuron releases the neurotransmitter acetylcholine into the synapse. Postganglionic neurons of the sympathetic system have somas in a sympathetic ganglion, located next to the spinal cord. Postganglionic neurons of the parasympathetic system have somas in ganglions near the target organ. Postganglionic neurons of the sympathetic system release norepinephrine into the synapse, while postganglionic neurons of the parasympathetic system release acetylcholine or nitric oxide.">
+<image mime-type="image/png" src="Figure_35_04_01f.png" width="420"/>
+</media>
+<caption>In the autonomic nervous system, a preganglionic neuron of the CNS synapses with a postganglionic neuron of the PNS. The postganglionic neuron, in turn, acts on a target organ. Autonomic responses are mediated by the sympathetic and the parasympathetic systems, which are antagonistic to one another. The sympathetic system activates the &#8220;fight or flight&#8221; response, while the parasympathetic system activates the &#8220;rest and digest&#8221; response.</caption></figure><para id="fs-idp83427632"> Which of the following statements is false?</para>
+<list id="fs-idp46023424" list-type="enumerated" number-style="lower-alpha">
+<item>The parasympathetic pathway is responsible for resting the body, while the sympathetic pathway is responsible for preparing for an emergency.</item>
+<item>Most preganglionic neurons in the sympathetic pathway originate in the spinal cord.</item>
+<item>Slowing of the heartbeat is a parasympathetic response.</item>
+<item>Parasympathetic neurons are responsible for releasing norepinephrine on the target organ, while sympathetic neurons are responsible for releasing acetylcholine.</item>
+</list>
+<!--<para><link target-id="fig-ch35_04_01" document=""/> D</para>-->
+    </note><para id="fs-idp204315456">The autonomic nervous system serves as the relay between the CNS and the internal organs. It controls the lungs, the heart, smooth muscle, and exocrine and endocrine glands. The autonomic nervous system controls these organs largely without conscious control; it can continuously monitor the conditions of these different systems and implement changes as needed. Signaling to the target tissue usually involves two synapses: a preganglionic neuron (originating in the CNS) synapses to a neuron in a ganglion that, in turn, synapses on the target organ, as illustrated in <link target-id="fig-ch35_04_01" document=""/>. There are two divisions of the autonomic nervous system that often have opposing effects: the sympathetic nervous system and the parasympathetic nervous system.</para>
+<section id="fs-idm33052512">
+<title>Sympathetic Nervous System</title>
+<para id="fs-idp113705280">The <term>sympathetic nervous system</term> is responsible for the &#8220;fight or flight&#8221; response that occurs when an animal encounters a dangerous situation. One way to remember this is to think of the surprise a person feels when encountering a snake (&#8220;snake&#8221; and &#8220;sympathetic&#8221; both begin with &#8220;s&#8221;). Examples of functions controlled by the sympathetic nervous system include an accelerated heart rate and inhibited digestion. These functions help prepare an organism&#8217;s body for the physical strain required to escape a potentially dangerous situation or to fend off a predator.</para>
+<figure id="fig-ch35_04_02" class=" "><media id="fs-idp135979872" alt="Illustration shows the effects of the sympathetic and parasympathetic systems on target organs, and the placement of the preganglionic neurons that mediate these effects. The parasympathetic system causes pupils and bronchi to constrict, slows the heart rate, and stimulates salivation, digestion, and bile secretion. Preganglionic neurons that mediate these effects are all located in the brain stem. Preganglionic neurons of the parasympathetic system that are located in the sacral cause the bladder to contract. The sympathetic system causes pupils and bronchi to dilate, increases heart rate, inhibits digestion, stimulates the breakdown of glycogen and the secretion of adrenaline and noradrenaline, and inhibits contraction of the bladder. The preganglionic neurons that mediate these effects are all located in the spine.">
+<image mime-type="image/jpg" src="Figure_35_04_02.jpg" width="575"/>
+</media>
+<caption>The sympathetic and parasympathetic nervous systems often have opposing effects on target organs.</caption></figure><para id="fs-idm45910720">Most preganglionic neurons in the sympathetic nervous system originate in the spinal cord, as illustrated in <link target-id="fig-ch35_04_02" document=""/>. The axons of these neurons release <term>acetylcholine</term> on postganglionic neurons within sympathetic ganglia (the sympathetic ganglia form a chain that extends alongside the spinal cord). The acetylcholine activates the postganglionic neurons. Postganglionic neurons then release <term>norepinephrine</term> onto target organs. As anyone who has ever felt a rush before a big test, speech, or athletic event can attest, the effects of the sympathetic nervous system are quite pervasive. This is both because one preganglionic neuron synapses on multiple postganglionic neurons, amplifying the effect of the original synapse, and because the adrenal gland also releases norepinephrine (and the closely related hormone epinephrine) into the blood stream. The physiological effects of this norepinephrine release include dilating the trachea and bronchi (making it easier for the animal to breathe), increasing heart rate, and moving blood from the skin to the heart, muscles, and brain (so the animal can think and run). The strength and speed of the sympathetic response helps an organism avoid danger, and scientists have found evidence that it may also increase LTP&#8212;allowing the animal to remember the dangerous situation and avoid it in the future.</para>
+    </section>
+<section id="fs-idp38567296">
+<title>Parasympathetic Nervous System</title>
+<para id="fs-idp17004208">While the sympathetic nervous system is activated in stressful situations, the <term>parasympathetic nervous system</term> allows an animal to &#8220;rest and digest.&#8221; One way to remember this is to think that during a restful situation like a picnic, the parasympathetic nervous system is in control (&#8220;picnic&#8221; and &#8220;parasympathetic&#8221; both start with &#8220;p&#8221;). Parasympathetic preganglionic neurons have cell bodies located in the brainstem and in the sacral (toward the bottom) spinal cord, as shown in <link target-id="fig-ch35_04_02" document=""/>. The axons of the preganglionic neurons release acetylcholine on the postganglionic neurons, which are generally located very near the target organs. Most postganglionic neurons release acetylcholine onto target organs, although some release nitric oxide.</para>
+<para id="fs-idp127922560">The parasympathetic nervous system resets organ function after the sympathetic nervous system is activated (the common adrenaline dump you feel after a &#8216;fight-or-flight&#8217; event). Effects of acetylcholine release on target organs include slowing of heart rate, lowered blood pressure, and stimulation of digestion.</para>
+</section>
+    </section>
+<section id="fs-idp165598256">
+<title>Sensory-Somatic Nervous System</title>
+<para id="fs-idp85982016">The sensory-somatic nervous system is made up of cranial and spinal nerves and contains both sensory and motor neurons. Sensory neurons transmit sensory information from the skin, skeletal muscle, and sensory organs to the CNS. Motor neurons transmit messages about desired movement from the CNS to the muscles to make them contract. Without its sensory-somatic nervous system, an animal would be unable to process any information about its environment (what it sees, feels, hears, and so on) and could not control motor movements. Unlike the autonomic nervous system, which has two synapses between the CNS and the target organ, sensory and motor neurons have only one synapse&#8212;one ending of the neuron is at the organ and the other directly contacts a CNS neuron. Acetylcholine is the main neurotransmitter released at these synapses.</para>
+<para id="fs-idp36837024">Humans have 12 <term>cranial nerves</term>, nerves that emerge from or enter the skull (cranium), as opposed to the spinal nerves, which emerge from the vertebral column. Each cranial nerve is accorded a name, which are detailed in <link target-id="fig-ch35_04_03" document=""/>. Some cranial nerves transmit only sensory information. For example, the olfactory nerve transmits information about smells from the nose to the brainstem. Other cranial nerves transmit almost solely motor information. For example, the oculomotor nerve controls the opening and closing of the eyelid and some eye movements. Other cranial nerves contain a mix of sensory and motor fibers. For example, the glossopharyngeal nerve has a role in both taste (sensory) and swallowing (motor).</para>
+<figure id="fig-ch35_04_03" class=" "><media id="fs-idp90576336" alt="Illustration shows the underside of the brain. The twelve cranial nerves cluster around the brain stem, and are symmetrically located on each side. The olfactory nerve is short and lobe-like, and is located closest to the front. Directly behind this is the optic nerve, then the oculomotor nerve. All these nerves are located in front of the brain stem. The trigeminal nerve, which is the thickest, is located on either side of the brain stem. It forms three branches shortly after leaving the brain. The trochlear nerve is a small nerve in front of the trigeminal nerve. Behind the brain stem are the smaller facial, vestibulocochlear, glossopharyngeal and hypoglossal nerves. The nerve furthest back is the accessory nerve.">
+<image mime-type="image/jpg" src="Figure_35_04_03.jpg" width="550"/>
+</media>
+<caption>The human brain contains 12 cranial nerves that receive sensory input and control motor output for the head and neck.</caption></figure><para id="fs-idp199898592"><term>Spinal nerves</term> transmit sensory and motor information between the spinal cord and the rest of the body. Each of the 31 spinal nerves (in humans) contains both sensory and motor axons. The sensory neuron cell bodies are grouped in structures called dorsal root ganglia and are shown in <link target-id="fig-ch35_04_04" document=""/>. Each sensory neuron has one projection&#8212;with a sensory receptor ending in skin, muscle, or sensory organs&#8212;and another that synapses with a neuron in the dorsal spinal cord. Motor neurons have cell bodies in the ventral gray matter of the spinal cord that project to muscle through the ventral root. These neurons are usually stimulated by interneurons within the spinal cord but are sometimes directly stimulated by sensory neurons.</para>
+<figure id="fig-ch35_04_04" class=" "><media id="fs-idp172301952" alt="Illustration shows a cross section of the spinal cord. The gray matter forms an X inside the white matter. A spinal nerve extends from the left arm of the X, and another extends from the left leg of the X. The two nerves join together to the left of the spine. The right arm and leg of the X form a symmetrical nerve. The part of the nerve that exits from the leg of the X is called the ventral root, and the part that exists from the arm of the X is called the dorsal root. The ventral root is on the belly side, and the dorsal root is on the back side. The dorsal root ganglion is a bulge halfway between where the nerve leaves the spine and where the dorsal and ventral roots join. Sensory neuron somas cluster in the dorsal root. Motor neuron somas cluster in the gray matter in the leg of the X. Motor neuron axons are bundled in the ventral root.">
+<image mime-type="image/jpg" src="Figure_35_04_04.jpg" width="300"/>
+</media>
+
+<caption>Spinal nerves contain both sensory and motor axons. The somas of sensory neurons are located in dorsal root ganglia. The somas of motor neurons are found in the ventral portion of the gray matter of the spinal cord.</caption></figure></section>
+<section id="fs-idp92313856" class="summary">
+<title>Section Summary</title><para id="fs-idp29798224">The peripheral nervous system contains both the autonomic and sensory-somatic nervous systems. The autonomic nervous system provides unconscious control over visceral functions and has two divisions: the sympathetic and parasympathetic nervous systems. The sympathetic nervous system is activated in stressful situations to prepare the animal for a &#8220;fight or flight&#8221; response. The parasympathetic nervous system is active during restful periods. The sensory-somatic nervous system is made of cranial and spinal nerves that transmit sensory information from skin and muscle to the CNS and motor commands from the CNS to the muscles.</para>
+    </section>
+<section id="fs-idp73559456" class="art-exercise">
+    <title>Art Connections</title>
+<exercise id="fs-idp106082096">
+    <problem id="fs-idp178289696">
+    <para id="fs-idp115396592"><link target-id="fig-ch35_04_01" document=""/> Which of the following statements is false?</para>
+<list id="fs-idp194405024" list-type="enumerated" number-style="lower-alpha">
+    <item>The parasympathetic pathway is responsible for relaxing the body, while the sympathetic pathway is responsible for preparing for an emergency.</item>
+<item>Most preganglionic neurons in the sympathetic pathway originate in the spinal cord.</item>
+<item>Slowing of the heartbeat is a parasympathetic response.</item>
+<item>Parasympathetic neurons are responsible for releasing norepinephrine on the target organ, while sympathetic neurons are responsible for releasing acetylcholine.</item>
+</list>
+</problem>
+<solution id="fs-idp115841184">
+    <label/>
+    <para id="fs-idp41278144"><link target-id="fig-ch35_04_01" document=""/> D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp136168224" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm34543008">
+<problem id="fs-idp176823968"><para id="fs-idm43625600">Activation of the sympathetic nervous system causes:</para>
+<list id="fs-idp196514800" list-type="enumerated" number-style="lower-alpha">
+<item>increased blood flow into the skin</item>
+<item>a decreased heart rate</item>
+<item>an increased heart rate</item>
+<item>increased digestion</item>
+</list>
+</problem>
+<solution id="fs-idm6093344">
+<label/>
+<para id="fs-idp189019712">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idp56305456">
+<problem id="fs-idp47463456"><para id="fs-idm25157728">Where are parasympathetic preganglionic cell bodies located?</para>
+<list id="fs-idp89508416" list-type="enumerated" number-style="lower-alpha"><item>cerebellum</item>
+<item>brainstem</item>
+<item>dorsal root ganglia</item>
+<item>skin</item>
+</list></problem>
+<solution id="fs-idp227559840">
+<label/>
+<para id="fs-idp197223440">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idp23991248">
+<problem id="fs-idp128222528"><para id="fs-idp199603248">________ is released by motor nerve endings onto muscle.</para>
+<list id="fs-idp123448512" list-type="enumerated" number-style="lower-alpha">
+<item>Acetylcholine</item>
+<item>Norepinephrine</item>
+<item>Dopamine</item>
+<item>Serotonin</item>
+</list>
+</problem>
+<solution id="fs-idm9798512">
+<label/>
+<para id="fs-idp117183792">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp98307984" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm307088">
+<problem id="fs-idm48240144"><para id="fs-idp114026512">What are the main differences between the sympathetic and parasympathetic branches of the autonomic nervous system?</para></problem>
+<solution id="fs-idp6052944"><label/>
+<para id="fs-idp52844336">The sympathetic nervous system prepares the body for &#8220;fight or flight,&#8221; whereas the parasympathetic nervous system allows the body to &#8220;rest and digest.&#8221; Sympathetic neurons release norepinephrine onto target organs; parasympathetic neurons release acetylcholine. Sympathetic neuron cell bodies are located in sympathetic ganglia. Parasympathetic neuron cell bodies are located in the brainstem and sacral spinal cord. Activation of the sympathetic nervous system increases heart rate and blood pressure and decreases digestion and blood flow to the skin. Activation of the parasympathetic nervous system decreases heart rate and blood pressure and increases digestion and blood flow to the skin.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp171620256">
+<problem id="fs-idp214988464"><para id="fs-idp24141936">What are the main functions of the sensory-somatic nervous system?</para></problem>
+<solution id="fs-idp147167456"><label/>
+<para id="fs-idp109840960">The sensory-somatic nervous system transmits sensory information from the skin, muscles, and sensory organs to the CNS. It also sends motor commands from the CNS to the muscles, causing them to contract.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idp122950576"><term>acetylcholine</term> <meaning id="fs-idp4843488">neurotransmitter released by neurons in the central nervous system and peripheral nervous system</meaning></definition>
+<definition id="fs-idm31866816"><term>autonomic nervous system</term> <meaning id="fs-idp36399728">part of the peripheral nervous system that controls bodily functions</meaning></definition>
+<definition id="fs-idp4149584"><term>cranial nerve</term> <meaning id="fs-idm37007280">sensory and/or motor nerve that emanates from the brain</meaning></definition>
+<definition id="fs-idp173929760"><term>norepinephrine</term> <meaning id="fs-idp9985504">neurotransmitter and hormone released by activation of the sympathetic nervous system</meaning></definition>
+<definition id="fs-idp71784896"><term>parasympathetic nervous system</term> <meaning id="fs-idp45824752">division of autonomic nervous system that regulates visceral functions during rest and digestion</meaning></definition>
+<definition id="fs-idp136683232"><term>sensory-somatic nervous system</term> <meaning id="fs-idp157134656">system of sensory and motor nerves</meaning></definition>
+<definition id="fs-idp74367104"><term>spinal nerve</term> <meaning id="fs-idp87144608">nerve projecting between skin or muscle and spinal cord</meaning></definition>
+<definition id="fs-idp73532000"><term>sympathetic nervous system</term> <meaning id="fs-idp1946592">division of autonomic nervous system activated during stressful &#8220;fight or flight&#8221; situations</meaning></definition>
+</glossary>
+</document>

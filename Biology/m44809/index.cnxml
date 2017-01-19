@@ -1,0 +1,368 @@
+<?xml version="1.0"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>The Kidneys and Osmoregulatory Organs</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml"
+          mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44809/latest/</md:content-url>
+  <md:content-id>m44809</md:content-id>
+  <md:title>The Kidneys and Osmoregulatory Organs</md:title>
+  <md:version>1.8</md:version>
+  <md:created>2012/08/23 15:53:57 -0500</md:created>
+  <md:revised>2014/02/24 17:13:40.779 US/Central</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>afferent arteriole</md:keyword>
+    <md:keyword>arcuate artery</md:keyword>
+    <md:keyword>ascending limb</md:keyword>
+    <md:keyword>Bowman's capsule</md:keyword>
+    <md:keyword>calyx</md:keyword>
+    <md:keyword>cortex</md:keyword>
+    <md:keyword>cortical nephron</md:keyword>
+    <md:keyword>cortical radiate artery</md:keyword>
+    <md:keyword>countercurrent exchanger</md:keyword>
+    <md:keyword>countercurrent multiplier</md:keyword>
+    <md:keyword>DCT</md:keyword>
+    <md:keyword>descending limb</md:keyword>
+    <md:keyword>distal convoluted tubule</md:keyword>
+    <md:keyword>efferent arteriole</md:keyword>
+    <md:keyword>GFR</md:keyword>
+    <md:keyword>glomerular filtration</md:keyword>
+    <md:keyword>glomerular filtration rate</md:keyword>
+    <md:keyword>glomerulus</md:keyword>
+    <md:keyword>granular cell</md:keyword>
+    <md:keyword>hilum</md:keyword>
+    <md:keyword>inferior vena cava</md:keyword>
+    <md:keyword>interlobar artery</md:keyword>
+    <md:keyword>juxtaglomerular complex</md:keyword>
+    <md:keyword>juxtamedullary nephron</md:keyword>
+    <md:keyword>keratinocyte</md:keyword>
+    <md:keyword>kidney</md:keyword>
+    <md:keyword>kidney function</md:keyword>
+    <md:keyword>kidney physiology</md:keyword>
+    <md:keyword>lobes of the kidney</md:keyword>
+    <md:keyword>loop of Henle</md:keyword>
+    <md:keyword>macula densa</md:keyword>
+    <md:keyword>medulla</md:keyword>
+    <md:keyword>nephrologist</md:keyword>
+    <md:keyword>nephrology</md:keyword>
+    <md:keyword>nephron</md:keyword>
+    <md:keyword>osmoregulation</md:keyword>
+    <md:keyword>osmotic excretion</md:keyword>
+    <md:keyword>osmotic regulation</md:keyword>
+    <md:keyword>osmotic system</md:keyword>
+    <md:keyword>PCT</md:keyword>
+    <md:keyword>perirenal fat capsule</md:keyword>
+    <md:keyword>peritubular capillary network</md:keyword>
+    <md:keyword>proximal convoluted tubule</md:keyword>
+    <md:keyword>renal</md:keyword>
+    <md:keyword>renal artery</md:keyword>
+    <md:keyword>renal capsule</md:keyword>
+    <md:keyword>renal column</md:keyword>
+    <md:keyword>renal corpuscle</md:keyword>
+    <md:keyword>renal fascia</md:keyword>
+    <md:keyword>renal pelvis</md:keyword>
+    <md:keyword>renal pyramid</md:keyword>
+    <md:keyword>renal tubule</md:keyword>
+    <md:keyword>renal vein</md:keyword>
+    <md:keyword>segmental artery</md:keyword>
+    <md:keyword>transport maximum</md:keyword>
+    <md:keyword>tubular reabsorption</md:keyword>
+    <md:keyword>tubular secretion</md:keyword>
+    <md:keyword>ureter</md:keyword>
+    <md:keyword>urinary bladder</md:keyword>
+    <md:keyword>urine</md:keyword>
+    <md:keyword>urine formation</md:keyword>
+    <md:keyword>vasa recta</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain how the kidneys serve as the main osmoregulatory organs in mammalian systems</item>
+<item>Describe the structure of the kidneys and the functions of the parts of the kidney</item>
+<item>Describe how the nephron is the functional unit of the kidney and explain how it actively filters blood and generates urine</item>
+<item>Detail the three steps in the formation of urine: glomerular filtration, tubular reabsorption, and tubular secretion</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idm90765152">Although the kidneys are the major osmoregulatory organ, the skin and lungs also play a role in the process. Water and electrolytes are lost through sweat glands in the skin, which helps moisturize and cool the skin surface, while the lungs expel a small amount of water in the form of mucous secretions and via evaporation of water vapor.</para>
+<section id="fs-idm72249168">
+<title>Kidneys: The Main Osmoregulatory Organ</title>
+<para id="fs-idm250556992">The <term>kidneys</term>, illustrated in <link target-id="fig-ch41_03_01" document=""/>, are a pair of bean-shaped structures that are located just below and posterior to the liver in the peritoneal cavity. The adrenal glands sit on top of each kidney and are also called the suprarenal glands. Kidneys filter blood and purify it. All the blood in the human body is filtered many times a day by the kidneys; these organs use up almost 25 percent of the oxygen absorbed through the lungs to perform this function. Oxygen allows the kidney cells to efficiently manufacture chemical energy in the form of ATP through aerobic respiration. The filtrate coming out of the kidneys is called <term>urine</term>.</para>
+<figure id="fig-ch41_03_01" class=" "><media id="fs-idp16059504" alt="Illustration shows the placement of the kidneys and bladder in a human man. The two kidneys face one another and are located on the posterior side, about halfway up the back. A renal artery and a renal vein extend from the inside middle of each kidney, toward a major blood vessel that runs up the middle of the body. A ureter runs down from each kidney to the bladder, a sac that sits just above the pelvis. The urethra runs down from the bottom of the bladder and through the penis. The adrenal glands are lumpy masses that sit on top of the kidneys.">
+<image mime-type="image/jpg" src="Figure_41_03_01.jpg" width="320"/>
+</media>
+<caption>Kidneys filter the blood, producing urine that is stored in the bladder prior to elimination through the urethra. (credit: modification of work by NCI)</caption></figure></section>
+<section id="fs-idm91426432">
+<title>Kidney Structure</title>
+<para id="fs-idp79780736">Externally, the kidneys  are surrounded by three layers, illustrated in <link target-id="fig-ch41_03_02" document=""/>. The outermost layer is a tough connective tissue layer called the <term>renal fascia</term>. The second layer is called the <term>perirenal fat capsule</term>, which helps anchor the kidneys in place. The third and innermost layer is the <term>renal capsule</term>. Internally, the kidney has three regions—an outer <term>cortex</term>, a <term>medulla</term> in the middle, and the <term>renal pelvis</term> in the region called the <term>hilum</term> of the kidney. The hilum is the concave part of the bean-shape where blood vessels and nerves enter and exit the kidney; it is also the point of exit for the ureters. The renal cortex is granular due to the presence of <term>nephrons</term>—the functional unit of the kidney. The medulla consists of multiple pyramidal tissue masses, called the <term>renal pyramids</term>. In between the pyramids are spaces called <term>renal columns</term> through which the blood vessels pass. The tips of the pyramids, called renal papillae, point toward the renal pelvis. There are, on average, eight renal pyramids in each kidney. The renal pyramids along with the adjoining cortical region are called the <term>lobes of the kidney</term>. The renal pelvis leads to the <term>ureter</term> on the outside of the kidney. On the inside of the kidney, the renal pelvis branches out into two or three extensions called the major <term>calyces</term>, which further branch into the minor calyces. The ureters are urine-bearing tubes that exit the kidney and empty into the <term>urinary bladder</term>.</para>
+<note id="fs-idm170585328" class="art-connection"><label/><title>Art Connection</title>
+<figure id="fig-ch41_03_02" class=" "><media id="fs-idm171031840" alt="The kidney is shaped like a kidney bean standing on end. Two layers, the outer renal fascia and an inner capsule, cover the outside of the kidney. The inside of the kidney consists of three layers: the outer cortex, the middle medulla and the inner renal pelvis. The renal pelvis is flush with the concave side of the kidney, and empties into the ureter, a tube that runs down outside the concave side of the kidney. Nine renal pyramids are embedded in the medulla, which is the thickest kidney layer. Each renal pyramid is teardrop-shaped, with the narrow end facing the renal pelvis. The renal artery and renal vein enter the concave part of the kidney, just above the ureter. The renal artery and renal vein branch into arterioles and venuoles, respectively, which extend into the kidney and branch into capillaries in the cortex.">
+<image mime-type="image/png" src="Figure_41_03_02.png" width="420"/>
+</media>
+
+<caption>The internal structure of the kidney is shown. (credit: modification of work by NCI)</caption></figure><para id="fs-idm141405632">Which of the following statements about the kidney is false?</para>
+<list id="fs-idm168918496" list-type="enumerated" number-style="lower-alpha">
+    <item>The renal pelvis drains into the ureter.</item>
+<item>The renal pyramids are in the medulla.</item>
+<item>The cortex covers the capsule.</item>
+<item>Nephrons are in the renal cortex.</item>
+</list>
+<!--<para><link target-id="fig-ch41_03_02" document=""/> C</para>-->
+</note><para id="fs-idm58694224">Because the kidney filters blood, its network of blood vessels is an important component of its structure and function. The arteries, veins, and nerves that supply the kidney enter and exit at the renal hilum. Renal blood supply starts with the branching of the aorta into the <term>renal arteries</term> (which are each named based on the region of the kidney they pass through) and ends with the exiting of the <term>renal veins</term> to join the <term>inferior vena cava</term>. The renal arteries split into several <term>segmental arteries</term> upon entering the kidneys. Each segmental artery splits further into several <term>interlobar arteries</term> and enters the renal columns, which supply the renal lobes. The interlobar arteries split at the junction of the renal cortex and medulla to form the <term>arcuate arteries</term>. The arcuate “bow shaped” arteries form arcs along the base of the medullary pyramids. <term>Cortical</term> <term>radiate arteries</term>, as the name suggests, radiate out from the arcuate arteries. The cortical radiate arteries branch into numerous afferent arterioles, and then enter the capillaries supplying the nephrons. Veins trace the path of the arteries and have similar names, except there are no segmental veins.</para>
+<para id="fs-idm186914928">As mentioned previously, the functional unit of the kidney is the nephron, illustrated in <link target-id="fig-ch41_03_03" document=""/>. Each kidney is made up of over one million nephrons that dot the renal cortex, giving it a granular appearance when sectioned sagittally. There are two types of nephrons—<term>cortical nephrons</term> (85 percent), which are deep in the renal cortex, and <term>juxtamedullary nephrons</term> (15 percent), which lie in the renal cortex close to the renal medulla. A nephron consists of three parts—a <term>renal corpuscle</term>, a <term>renal tubule</term>, and the associated capillary network, which originates from the cortical radiate arteries.</para>
+<note id="fs-idm230160640" class="art-connection"><label/><title>Art Connection</title>
+<figure id="fig-ch41_03_03" class=" "><media id="fs-idm206920304" alt="Illustration shows the nephron, a tube-like structure that begins in the kidney cortex. Here, arterioles converge in a bulb-like structure called the glomerulus, which is partly surrounded by a Bowman&#x2019;s capsule. Afferent arterioles enter the glomerulus, and efferent arterioles leave. The glomerulus empties into the proximal convoluted tubule. A long loop, called the loop of Henle, extends from the proximal convoluted tubule to the inner medulla of the kidney, and then back out to the cortex. There, the loop of Henle joins a distal convoluted tubule. The distal convoluted tubule joins a collecting duct, which travels from the medulla back into the cortex, toward the center of the kidney. Eventually, the contents of the renal pyramid empty into the renal pelvis, and then the ureter.">
+<image mime-type="image/png" src="Figure_41_03_03.png" width="520"/>
+</media>
+
+<caption>The nephron is the functional unit of the kidney. The glomerulus and convoluted tubules are located in the kidney cortex, while collecting ducts are located in the pyramids of the medulla. (credit: modification of work by NIDDK)</caption></figure><para id="fs-idm26960096">Which of the following statements about the nephron is false?</para>
+<list id="fs-idm121010304" list-type="enumerated" number-style="lower-alpha">
+    <item>The collecting duct empties into the distal convoluted tubule.</item>
+<item>The Bowman’s capsule surrounds the glomerulus.</item>
+<item>The loop of Henle is between the proximal and distal convoluted tubules.</item>
+<item>The loop of Henle empties into the distal convoluted tubule.</item>
+</list>
+<!--<para><link target-id="fig-ch41_03_03" document=""/>A</para>-->
+</note><section id="fs-idm34610176">
+<title>Renal Corpuscle</title>
+<para id="fs-idm74195696">The renal corpuscle, located in the renal cortex, is made up of a network of capillaries known as the <term>glomerulus</term> and the capsule, a cup-shaped chamber that surrounds it, called the glomerular or <term>Bowman's capsule</term>.</para>
+</section>
+<section id="fs-idp988736">
+<title>Renal Tubule</title>
+<para id="fs-idm72050112">The renal tubule is a long and convoluted structure that emerges from the glomerulus and can be divided into three parts based on function. The first part is called the <term>proximal convoluted tubule (PCT)</term> due to its proximity to the glomerulus; it stays in the renal cortex. The second part is called the <term>loop of Henle</term>, or nephritic loop, because it forms a loop (with <term>descending</term> and <term>ascending limbs</term>) that goes through the renal medulla. The third part of the renal tubule is called the <term>distal convoluted tubule (DCT)</term> and this part is also restricted to the renal cortex. The DCT, which is the last part of the nephron, connects and empties its contents into collecting ducts that line the medullary pyramids. The collecting ducts amass contents from multiple nephrons and fuse together as they enter the papillae of the renal medulla.</para>
+</section>
+<section id="fs-idm19359376">
+<title>Capillary Network within the Nephron</title>
+<para id="fs-idp18848064">The capillary network that originates from the renal arteries supplies the nephron with blood that needs to be filtered. The branch that enters the glomerulus is called the <term>afferent arteriole</term>. The branch that exits the glomerulus is called the <term>efferent arteriole</term>. Within the glomerulus, the network of capillaries is called the glomerular capillary bed. Once the efferent arteriole exits the glomerulus, it forms the <term>peritubular capillary network</term>, which surrounds and interacts with parts of the renal tubule. In cortical nephrons, the peritubular capillary network surrounds the PCT and DCT. In juxtamedullary nephrons, the peritubular capillary network forms a network around the loop of Henle and is called the <term>vasa recta</term>.</para>
+<note id="fs-idm98720416" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idm230041168" alt="QR Code representing a URL">
+<image mime-type="image/png" src="kidney_section.png" width="120"/>
+</media>
+<para id="fs-idm158013264">Go to <link window="new" url="http://openstaxcollege.org/l/kidney_section">this website</link> to see another coronal section of the kidney and to explore an animation of the workings of nephrons.</para></note></section>
+</section>
+<section id="fs-idm150346352">
+<title>Kidney Function and Physiology</title>
+<para id="fs-idm58891360">Kidneys filter blood in a three-step process. First, the nephrons filter blood that runs through the capillary network in the glomerulus. Almost all solutes, except for proteins, are filtered out into the glomerulus by a process called <term>glomerular filtration</term>. Second, the filtrate is collected in the renal tubules. Most of the solutes get reabsorbed in the PCT by a process called <term>tubular reabsorption</term>. In the loop of Henle, the filtrate continues to exchange solutes and water with the renal medulla and the peritubular capillary network. Water is also reabsorbed during this step.  Then, additional solutes and wastes are secreted into the kidney tubules during <term>tubular secretion</term>, which is, in essence, the opposite process to tubular reabsorption. The collecting ducts collect filtrate coming from the nephrons and fuse in the medullary papillae. From here, the papillae deliver the filtrate, now called urine, into the minor calyces that eventually connect to the ureters through the renal pelvis. This entire process is illustrated in <link target-id="fig-ch41_03_04" document=""/>.</para><figure id="fig-ch41_03_04" class=" "><media id="fs-idm140475728" alt="Illustration labels parts of a nephron and their function. The nephron begins at the glomerulus, a spherical structure that filters small solutes from the blood. The filtrate then enters a winding proximal convoluted tubule, which reabsorbs ions, water, and nutrients, and removes toxins and adjusts the filtrate pH. The proximal convoluted tubule empties into the descending loop of Henle. Aquaporins in the descending loop allow water to pass from the filtrate to the interstitial fluid. The descending loop of Henle turns into the ascending loop of Henle. Both the descending loop and ascending loop are thin at the bottom, and turn thick about a third of the way up. In the ascending loop of Henle, sodium and chlorine ions are reabsorbed from the filtrate into the interstitial fluid. The ascending loop of Henle empties into the distal convoluted tubule, which selectively secretes and absorbs ions to maintain blood pH and electrolyte balance. The distal convoluted tubule empties into a collecting duct, which reabsorbs water and solutes from the filtrate. The collecting duct travels down, toward the middle of the kidney.">
+<image mime-type="image/jpg" src="Figure_41_03_04.jpg" width="320"/>
+</media>
+<caption>Each part of the nephron performs a different function in filtering waste and maintaining homeostatic balance. (1) The glomerulus forces small solutes out of the blood by pressure. (2) The proximal convoluted tubule reabsorbs ions, water, and nutrients from the filtrate into the interstitial fluid, and actively transports toxins and drugs from the interstitial fluid into the filtrate. The proximal convoluted tubule also adjusts blood pH by selectively secreting ammonia (NH<sub>3</sub>) into the filtrate, where it reacts with H<sup>+</sup> to form NH<sub>4</sub><sup>+</sup>. The more acidic the filtrate, the more ammonia is secreted. (3) The descending loop of Henle is lined with cells containing aquaporins that allow water to pass from the filtrate into the interstitial fluid. (4) In the thin part of the ascending loop of Henle, Na<sup>+</sup> and Cl<sup>-</sup> ions diffuse into the interstitial fluid. In the thick part, these same ions are actively transported into the interstitial fluid. Because salt but not water is lost, the filtrate becomes more dilute as it travels up the limb. (5) In the distal convoluted tubule, K<sup>+</sup> and H<sup>+</sup> ions are selectively secreted into the filtrate, while Na<sup>+</sup>, Cl<sup>-</sup>, and HCO<sub>3</sub><sup>- </sup>ions are reabsorbed to maintain pH and electrolyte balance in the blood. (6) The collecting duct reabsorbs solutes and water from the filtrate, forming dilute urine. (credit: modification of work by NIDDK)</caption></figure><section id="fs-idm248852816">
+<title>Glomerular Filtration</title>
+<para id="fs-idm88899104">Glomerular filtration filters out most of the solutes due to high blood pressure and specialized membranes in the afferent arteriole. The blood pressure in the glomerulus is maintained independent of factors that affect systemic blood pressure. The “leaky” connections between the endothelial cells of the glomerular capillary network allow solutes to pass through easily. All solutes in the glomerular capillaries, except for macromolecules like proteins, pass through by passive diffusion. There is no energy requirement at this stage of the filtration process. <term>Glomerular filtration rate (GFR)</term> is the volume of glomerular filtrate formed per minute by the kidneys. GFR is regulated by multiple mechanisms and is an important indicator of kidney function.</para>
+<note id="fs-idm25727488" class="interactive"><label/><title>Link to Learning</title>
+    <media id="fs-idm207100480" alt="QR Code representing a URL">
+        <image mime-type="image/png" src="kidneys.png" width="120"/>
+    </media>
+    <para id="fs-idm174727312">To learn more about the vascular system of kidneys, click through <link window="new" url="http://openstaxcollege.org/l/kidneys">this review</link> and the steps of blood flow.</para>
+</note></section>
+<section id="fs-idm194866272">
+<title>Tubular Reabsorption and Secretion</title><para id="fs-idm224019280">Tubular reabsorption occurs in the PCT part of the renal tubule. Almost all nutrients are reabsorbed, and this occurs either by passive or active transport. Reabsorption of water and some key electrolytes are regulated and can be influenced by hormones. Sodium (Na<sup>+</sup>) is the most abundant ion and most of it is reabsorbed by active transport and then transported to the peritubular capillaries. Because Na<sup>+</sup> is actively transported out of the tubule, water follows it to even out the osmotic pressure. Water is also independently reabsorbed into the peritubular capillaries due to the presence of aquaporins, or water channels, in the PCT. This occurs due to the low blood pressure and high osmotic pressure in the peritubular capillaries. However, every solute has a <term>transport maximum</term> and the excess is not reabsorbed.</para><para id="fs-idp31481312">In the loop of Henle, the permeability of the membrane changes. The descending limb is permeable to water, not solutes; the opposite is true for the ascending limb. Additionally, the loop of Henle invades the renal medulla, which is naturally high in salt concentration and tends to absorb water from the renal tubule and concentrate the filtrate. The osmotic gradient increases as it moves deeper into the medulla. Because two sides of the loop of Henle perform opposing functions, as illustrated in <link target-id="fig-ch41_03_05" document=""/>, it acts as a <term>countercurrent multiplier</term>. The vasa recta around it acts as the <term>countercurrent exchanger</term>.</para><note id="fs-idm226226256" class="art-connection"><label/><title>Art Connection</title>
+<figure id="fig-ch41_03_05" class=" "><media id="fs-idm81500160" alt="A U-shaped tube represents the loop of Henle. Filtrate enters the descending limb, and exits the ascending limb. The descending limb is water-permeable, and water travels from the limb to the interstitial space. As a consequence, the osmolality of the filtrate inside the limb increases from 300 milliosmoles per liter at the top to 1200 milliosmoles per liter at the bottom. The ascending limb is permeable to sodium and chloride ions. Because the osmolality inside bottom part of the limb is higher than the interstitial fluid, these ions diffuse out of the ascending limb. Higher up, sodium is actively transported out of the limb, and chloride follows.">
+<image mime-type="image/png" src="Figure_41_03_05.png" width="280"/>
+</media>
+    
+<caption>The loop of Henle acts as a countercurrent multiplier that uses energy to create concentration gradients. The descending limb is water permeable. Water flows from the filtrate to the interstitial fluid, so osmolality inside the limb increases as it descends into the renal medulla. At the bottom, the osmolality is higher inside the loop than in the interstitial fluid. Thus, as filtrate enters the ascending limb, Na<sup>+</sup> and Cl<sup>-</sup> ions exit through ion channels present in the cell membrane. Further up, Na<sup>+</sup> is actively transported out of the filtrate and Cl<sup>-</sup> follows. Osmolarity is given in units of milliosmoles per liter (mOsm/L).</caption></figure><para id="fs-idm257462544">Loop diuretics are drugs sometimes used to treat hypertension. These drugs inhibit the reabsorption of Na<sup>+</sup> and Cl<sup>-</sup> ions by the ascending limb of the loop of Henle. A side effect is that they increase urination. Why do you think this is the case?</para>
+<!--<para><link target-id="fig-ch41_03_05" document=""/>Loop diuretics decrease the excretion of salt into the renal medulla, thereby reducing its osmolality. As a result, less water is excreted into the medulla by the descending limb, and more water is excreted as urine.</para>-->
+    </note><para id="fs-idm65625088">By the time the filtrate reaches the DCT, most of the urine and solutes have been reabsorbed. If the body requires additional water, all of it can be reabsorbed at this point. Further reabsorption is controlled by hormones, which will be discussed in a later section. Excretion of wastes occurs due to lack of reabsorption combined with tubular secretion. Undesirable products like metabolic wastes, urea, uric acid, and certain drugs, are excreted by tubular secretion. Most of the tubular secretion happens in the DCT, but some occurs in the early part of the collecting duct. Kidneys also maintain an acid-base balance by secreting excess H<sup>+</sup> ions.</para>
+<para id="fs-idm189006512">Although parts of the renal tubules are named proximal and distal, in a cross-section of the kidney, the tubules are placed close together and in contact with each other and the glomerulus. This allows for exchange of chemical messengers between the different cell types. For example, the DCT ascending limb of the loop of Henle has masses of cells called <term>macula densa</term>, which are in contact with cells of the afferent arterioles called <term>juxtaglomerular cells</term>. Together, the macula densa and juxtaglomerular cells form the juxtaglomerular complex (JGC). The JGC is an endocrine structure that secretes the enzyme renin and the hormone erythropoietin. When hormones trigger the macula densa cells in the DCT due to variations in blood volume, blood pressure, or electrolyte balance, these cells can immediately communicate the problem to the capillaries in the afferent and efferent arterioles, which can constrict or relax to change the glomerular filtration rate of the kidneys.</para>
+<note id="fs-idm92532320" class="career"><label/><title>Career Connection</title>
+    
+<para id="fs-idp25135840"><title>Nephrologist</title>A nephrologist studies and deals with diseases of the kidneys—both those that cause kidney failure (such as diabetes) and the conditions that are produced by kidney disease (such as hypertension). Blood pressure, blood volume, and changes in electrolyte balance come under the purview of a nephrologist.</para>
+<para id="fs-idm31711040">Nephrologists usually work with other physicians who refer patients to them or consult with them about specific diagnoses and treatment plans. Patients are usually referred to a nephrologist for symptoms such as blood or protein in the urine, very high blood pressure, kidney stones, or renal failure.</para>
+<para id="fs-idm191143760">Nephrology is a subspecialty of internal medicine. To become a nephrologist, medical school is followed by additional training to become certified in internal medicine. An additional two or more years is spent specifically studying kidney disorders and their accompanying effects on the body.</para>
+</note></section>
+</section>
+<section id="fs-idm65665536" class="summary">
+<title>Section Summary</title><para id="fs-idm292625536">The kidneys are the main osmoregulatory organs in mammalian systems; they function to filter blood and maintain the osmolarity of body fluids at 300 mOsm. They are surrounded by three layers and are made up internally of three distinct regions—the cortex, medulla, and pelvis.</para>
+<para id="fs-idm33870112">The blood vessels that transport blood into and out of the kidneys arise from and merge with the aorta and inferior vena cava, respectively. The renal arteries branch out from the aorta and enter the kidney where they further divide into segmental, interlobar, arcuate, and cortical radiate arteries.</para>
+<para id="fs-idm104668096">The nephron is the functional unit of the kidney, which actively filters blood and generates urine. The nephron is made up of the renal corpuscle and renal tubule. Cortical nephrons are found in the renal cortex, while juxtamedullary nephrons are found in the renal cortex close to the renal medulla. The nephron filters and exchanges water and solutes with two sets of blood vessels and the tissue fluid in the kidneys.</para>
+<para id="fs-idm195125680">There are three steps in the formation of urine: glomerular filtration, which occurs in the glomerulus; tubular reabsorption, which occurs in the renal tubules; and tubular secretion, which also occurs in the renal tubules.</para>
+</section>
+<section id="fs-idm105582864" class="art-exercise">
+    <title>Art Connections</title>
+    <exercise id="fs-idp35054880">
+        <problem id="fs-idm190575152">
+            <para id="fs-idm256209328"><link target-id="fig-ch41_03_02" document=""/> Which of the following statements about the kidney is false?</para>
+<list id="fs-idm119323520" list-type="enumerated" number-style="lower-alpha">
+    <item>The renal pelvis drains into the ureter.</item>
+<item>The renal pyramids are in the medulla.</item>
+<item>The cortex covers the capsule.</item>
+<item>Nephrons are in the renal cortex.</item>
+</list>
+        </problem>
+<solution id="fs-idm140465200">
+    <label/>
+    <para id="fs-idm183172528"><link target-id="fig-ch41_03_02" document=""/> C</para></solution>
+    </exercise>
+    <exercise id="fs-idm256548544">
+<problem id="fs-idp27610192">
+    <para id="fs-idm34660640"><link target-id="fig-ch41_03_03" document=""/> Which of the following statements about the nephron is false?</para>
+<list id="fs-idm204336" list-type="enumerated" number-style="lower-alpha">
+    <item>The collecting duct empties into the distal convoluted tubule.</item>
+<item>The Bowman’s capsule surrounds the glomerulus.</item>
+<item>The loop of Henle is between the proximal and distal convoluted tubules.</item>
+<item>The loop of Henle empties into the distal convoluted tubule.</item>
+</list>
+</problem>
+<solution id="fs-idm98057744">
+    <label/>
+    <para id="fs-idm155509168"><link target-id="fig-ch41_03_03" document=""/> A</para>
+    </solution>
+    </exercise>
+<exercise id="fs-idp4146096">
+    <problem id="fs-idm169056288">
+        <para id="fs-idm123604960"><link target-id="fig-ch41_03_05" document=""/> Loop diuretics are drugs sometimes used to treat hypertension. These drugs inhibit the reabsorption of Na<sup>+</sup> and Cl<sup>-</sup> ions by the ascending limb of the loop of Henle. A side effect is that they increase urination. Why do you think this is the case?</para></problem>
+<solution id="fs-idm73389664">
+    <label/>
+    <para id="fs-idm102673024"><link target-id="fig-ch41_03_05" document=""/> Loop diuretics decrease the excretion of salt into the renal medulla, thereby reducing its osmolality. As a result, less water is excreted into the medulla by the descending limb, and more water is excreted as urine.</para></solution>
+</exercise>
+    </section>
+<section id="fs-idm142446160" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp67034864">
+<problem id="fs-idm16802880"><para id="fs-idm208055168">The macula densa is/are:</para>
+<list id="fs-idm67473408" list-type="enumerated" number-style="lower-alpha">
+<item>present in the renal medulla.</item>
+<item>dense tissue present in the outer layer of the kidney.</item>
+<item>cells present in the DCT and collecting tubules.</item>
+<item>present in blood capillaries.</item>
+</list>
+</problem>
+<solution id="fs-idm141727328">
+<label/>
+<para id="fs-idm154276688">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm5875280">
+<problem id="fs-idm115424112"><para id="fs-idp75804688">The osmolarity of body fluids is maintained at ________.</para>
+<list id="fs-idm172000960" list-type="enumerated" number-style="lower-alpha">
+<item>100 mOsm</item>
+<item>300 mOsm</item>
+<item>1000 mOsm</item>
+<item>it is not constantly maintained</item>
+</list>
+</problem>
+<solution id="fs-idm75293024">
+<label/>
+<para id="fs-idm81533552">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm118933104">
+<problem id="fs-idm291614256"><para id="fs-idm137461504">The gland located at the top of the kidney is the ________ gland.</para>
+<list id="fs-idm109391424" list-type="enumerated" number-style="lower-alpha">
+<item>adrenal</item>
+<item>pituitary</item>
+<item>thyroid</item>
+<item>thymus</item>
+</list>
+</problem>
+<solution id="fs-idm206922128">
+<label/>
+<para id="fs-idm166647136">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp25496592" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm158896128">
+<problem id="fs-idm142956128"><para id="fs-idm244442352">Why are the loop of Henle and vasa recta important for the formation of concentrated urine?</para></problem>
+<solution id="fs-idp14658704"><label/>
+<para id="fs-idm155407552">The loop of Henle is part of the renal tubule that loops into the renal medulla. In the loop of Henle, the filtrate exchanges solutes and water with the renal medulla and the vasa recta (the peritubular capillary network). The vasa recta acts as the countercurrent exchanger. The kidneys maintain the osmolality of the rest of the body at a constant 300 mOsm by concentrating the filtrate as it passes through the loop of Henle.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm70793696">
+<problem id="fs-idm182599536"><para id="fs-idm88522912">Describe the structure of the kidney.</para></problem>
+<solution id="fs-idm157039072"><label/>
+<para id="fs-idm116210384">Externally, the kidneys are surrounded by three layers. The outermost layer is a tough connective tissue layer called the renal fascia. The second layer is called the perirenal fat capsule, which helps anchor the kidneys in place. The third and innermost layer is the renal capsule. Internally, the kidney has three regions—an outer cortex, a medulla in the middle, and the renal pelvis in the region called the hilum of the kidney, which is the concave part of the “bean” shape.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm128854240"><term>afferent arteriole</term> <meaning id="fs-idm238917440">arteriole that branches from the cortical radiate artery and enters the glomerulus</meaning></definition>
+<definition id="fs-idm160599648"><term>arcuate artery</term> <meaning id="fs-idm33926032">artery that branches from the interlobar artery and arches over the base of the renal pyramids</meaning></definition>
+<definition id="fs-idp40138080"><term>ascending limb</term> <meaning id="fs-idm219557088">part of the loop of Henle that ascends from the renal medulla to the renal cortex</meaning></definition>
+<definition id="fs-idm194492656"><term>Bowman's capsule</term> <meaning id="fs-idm235472560">structure that encloses the glomerulus</meaning></definition>
+<definition id="fs-idm10016320"><term>calyx</term> <meaning id="fs-idm157243872">structure that connects the renal pelvis to the renal medulla</meaning></definition>
+<definition id="fs-idm176926336"><term>cortex (animal)</term> <meaning id="fs-idm113803168">outer layer of an organ like the kidney or adrenal gland</meaning></definition>
+<definition id="fs-idm327227808"><term>cortical nephron</term> <meaning id="fs-idm85175856">nephron that lies in the renal cortex</meaning></definition>
+<definition id="fs-idm199380864"><term>cortical radiate artery</term> <meaning id="fs-idm69040720">artery that radiates from the arcuate arteries into the renal cortex</meaning></definition>
+<definition id="fs-idm126199808"><term>countercurrent exchanger</term> <meaning id="fs-idp57984">peritubular capillary network that allows exchange of solutes and water from the renal tubules</meaning></definition>
+<definition id="fs-idm207889136"><term>countercurrent multiplier</term> <meaning id="fs-idm167314912">osmotic gradient in the renal medulla that is responsible for concentration of urine</meaning></definition>
+<definition id="fs-idm227811200"><term>descending limb</term> <meaning id="fs-idp76818176">part of the loop of Henle that descends from the renal cortex into the renal medulla</meaning></definition>
+<definition id="fs-idm177950608"><term>distal convoluted tubule (DCT)</term> <meaning id="fs-idm71882512">part of the renal tubule that is the most distant from the glomerulus</meaning></definition>
+<definition id="fs-idm109569984"><term>efferent arteriole</term> <meaning id="fs-idp30963728">arteriole that exits from the glomerulus</meaning></definition>
+<definition id="fs-idm240933744"><term>glomerular filtration</term> <meaning id="fs-idm142619216">filtration of blood in the glomerular capillary network into the glomerulus</meaning></definition>
+<definition id="fs-idm19488224"><term>glomerular filtration rate (GFR)</term> <meaning id="fs-idm51490416">amount of filtrate formed by the glomerulus per minute</meaning></definition>
+<definition id="fs-idm12965456"><term>glomerulus (renal)</term> <meaning id="fs-idm239816016">part of the renal corpuscle that contains the capillary network</meaning></definition>
+<definition id="fs-idm153163888"><term>hilum</term> <meaning id="fs-idm231158704">region in the renal pelvis where blood vessels, nerves, and ureters bunch before entering or exiting the kidney</meaning></definition>
+<definition id="fs-idm159973536"><term>inferior vena cava</term> <meaning id="fs-idp84752304">one of the main veins in the human body</meaning></definition>
+<definition id="fs-idm71079408"><term>interlobar artery</term> <meaning id="fs-idm101976096">artery that branches from the segmental artery and travels in between the renal lobes</meaning></definition>
+<definition id="fs-idm155363616"><term>juxtaglomerular cell</term> <meaning id="fs-idm73397040">cell in the afferent and efferent arterioles that responds to stimuli from the macula densa</meaning></definition>
+<definition id="fs-idm244602656"><term>juxtamedullary nephron</term> <meaning id="fs-idm248377840">nephron that lies in the cortex but close to the renal medulla</meaning></definition>
+<definition id="fs-idm231415472"><term>kidney</term> <meaning id="fs-idm177875024">organ that performs excretory and osmoregulatory functions</meaning></definition>
+<definition id="fs-idp24617600"><term>lobes of the kidney</term> <meaning id="fs-idm124909552">renal pyramid along with the adjoining cortical region</meaning></definition>
+<definition id="fs-idm169984352"><term>loop of Henle</term> <meaning id="fs-idm12922464">part of the renal tubule that loops into the renal medulla</meaning></definition>
+<definition id="fs-idm193257328"><term>macula densa</term> <meaning id="fs-idm221695856">group of cells that senses changes in sodium ion concentration; present in parts of the renal tubule and collecting ducts</meaning></definition>
+<definition id="fs-idp164016"><term>medulla</term> <meaning id="fs-idp20724832">middle layer of an organ like the kidney or adrenal gland</meaning></definition>
+<definition id="fs-idm178521216"><term>nephron</term> <meaning id="fs-idm235512032">functional unit of the kidney</meaning></definition>
+<definition id="fs-idm169311248"><term>perirenal fat capsule</term> <meaning id="fs-idm150025680">fat layer that suspends the kidneys</meaning></definition>
+<definition id="fs-idm123546000"><term>peritubular capillary network</term> <meaning id="fs-idm140448208">capillary network that surrounds the renal tubule after the efferent artery exits the glomerulus</meaning></definition>
+<definition id="fs-idm185031328"><term>proximal convoluted tubule (PCT)</term> <meaning id="fs-idm10016096">part of the renal tubule that lies close to the glomerulus</meaning></definition>
+<definition id="fs-idm101853584"><term>renal artery</term> <meaning id="fs-idm102065024">branch of the artery that enters the kidney</meaning></definition>
+<definition id="fs-idm177313072"><term>renal capsule</term> <meaning id="fs-idm58908528">layer that encapsulates the kidneys</meaning></definition>
+<definition id="fs-idm20385232"><term>renal column</term> <meaning id="fs-idm106882144">area of the kidney through which the interlobar arteries travel in the process of supplying blood to the renal lobes</meaning></definition>
+<definition id="fs-idm79553904"><term>renal corpuscle</term> <meaning id="fs-idm245463488">glomerulus and the Bowman's capsule together</meaning></definition>
+<definition id="fs-idm169361264"><term>renal fascia</term> <meaning id="fs-idm66880928">connective tissue that supports the kidneys</meaning></definition>
+<definition id="fs-idp1908640"><term>renal pelvis</term> <meaning id="fs-idm66764192">region in the kidney where the calyces join the ureters</meaning></definition>
+<definition id="fs-idm186069504"><term>renal pyramid</term> <meaning id="fs-idm101408816">conical structure in the renal medulla</meaning></definition>
+<definition id="fs-idm241378544"><term>renal tubule</term> <meaning id="fs-idp40156944">tubule of the nephron that arises from the glomerulus</meaning></definition>
+<definition id="fs-idm245119984"><term>renal vein</term> <meaning id="fs-idm233298048">branch of a vein that exits the kidney and joins the inferior vena cava</meaning></definition>
+<definition id="fs-idm34661248"><term>segmental artery</term> <meaning id="fs-idm80457472">artery that branches from the renal artery</meaning></definition>
+<definition id="fs-idm33764800"><term>transport maximum</term> <meaning id="fs-idm58077936">maximum amount of solute that can be transported out of the renal tubules during reabsorption</meaning></definition>
+<definition id="fs-idm175273088"><term>tubular reabsorption</term> <meaning id="fs-idm66813680">reclamation of water and solutes that got filtered out in the glomerulus</meaning></definition>
+<definition id="fs-idp67636944"><term>tubular secretion</term> <meaning id="fs-idm70428128">process of secretion of wastes that do not get reabsorbed</meaning></definition>
+<definition id="fs-idm233998528"><term>ureter</term> <meaning id="fs-idp473216">urine-bearing tube coming out of the kidney; carries urine to the bladder</meaning></definition>
+<definition id="fs-idp50096"><term>urinary bladder</term> <meaning id="fs-idm163185920">structure that the ureters empty the urine into; stores urine</meaning></definition>
+<definition id="fs-idm117296416"><term>urine</term> <meaning id="fs-idm108598272">filtrate produced by kidneys that gets excreted out of the body</meaning></definition>
+<definition id="fs-idm155288880"><term>vasa recta</term> <meaning id="fs-idm241367472">peritubular network that surrounds the loop of Henle of the juxtamedullary nephrons</meaning></definition>
+</glossary>
+</document>

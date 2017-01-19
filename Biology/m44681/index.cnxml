@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Superphylum Deuterostomia</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml"
+          mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://legacy.cnx.org/content</md:repository>
+  <md:content-url>http://legacy.cnx.org/content/m44681/latest/</md:content-url>
+  <md:content-id>m44681</md:content-id>
+  <md:title>Superphylum Deuterostomia</md:title>
+  <md:version>1.5</md:version>
+  <md:created>2012/08/23 14:48:12 +0000</md:created>
+  <md:revised>2014/10/27 12:46:36.585 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>ambulacral system</md:keyword>
+    <md:keyword>echinoderm</md:keyword>
+    <md:keyword>echinoderm anatomy</md:keyword>
+    <md:keyword>Echinodermata</md:keyword>
+    <md:keyword>echinoderm excretory system</md:keyword>
+    <md:keyword>echinoderm morphology</md:keyword>
+    <md:keyword>echinoderm nervous system</md:keyword>
+    <md:keyword>echinoderm reproduction</md:keyword>
+    <md:keyword>Invertebrata</md:keyword>
+    <md:keyword>invertebrate</md:keyword>
+    <md:keyword>madreporite</md:keyword>
+    <md:keyword>phylum Echinodermata</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the distinguishing characteristics of echinoderms </item>
+<item>Describe the distinguishing characteristics of chordates</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+
+<para id="fs-idp147935888">The phyla Echinodermata and Chordata (the phylum in which humans are placed) both belong to the superphylum Deuterostomia. Recall that protostome and deuterostomes differ in certain aspects of their embryonic development, and they are named based on which opening of the digestive cavity develops first. The word deuterostome comes from the Greek word meaning “mouth second,” indicating that the anus is the first to develop. There are a series of other developmental characteristics that differ between protostomes and deuterostomes, including the mode of formation of the coelom and the early cell division of the embryo. In deuterostomes, internal pockets of the endodermal lining called the <term>archenteron</term> fuse to form the coelom. The endodermal lining of the archenteron (or the primitive gut) forms membrane protrusions that bud off and become the mesodermal layer. These buds, known as coelomic pouches, fuse to form the coelomic cavity, as they eventually separate from the endodermal layer. The resultant coelom is termed an <term>enterocoelom</term>. The archenteron develops into the alimentary canal, and a mouth opening is formed by invagination of ectoderm at the pole opposite the blastopore of the gastrula. The blastopore forms the anus of the alimentary system in the juvenile and adult forms. The fates of embryonic cells in deuterostomes can be altered if they are experimentally moved to a different location in the embryo due to indeterminant cleavage in early embryogenesis.</para>
+
+<section id="fs-id1171600924756"><title>Phylum Echinodermata</title><para id="fs-idp67909504">Echinodermata are so named owing to their spiny skin (from the Greek “echinos” meaning “spiny” and “dermos” meaning “skin”), and this phylum is a collection of about 7,000 described living species. <term>Echinodermata</term> are exclusively marine organisms. Sea stars (<link target-id="fig-ch28_05_01" document=""/>), sea cucumbers, sea urchins, sand dollars, and brittle stars are all examples of echinoderms. To date, no freshwater or terrestrial echinoderms are known.</para>
+<section id="fs-idp27244064">
+<title>Morphology and Anatomy</title>
+<para id="fs-idp156287072">Adult echinoderms exhibit pentaradial symmetry and have a calcareous endoskeleton made of ossicles, although the early larval stages of all echinoderms have bilateral symmetry. The endoskeleton is developed by epidermal cells and may possess pigment cells, giving vivid colors to these animals, as well as cells laden with toxins. Gonads are present in each arm. In echinoderms like sea stars, every arm bears two rows of tube feet on the oral side. These tube feet help in attachment to the substratum. These animals possess a true coelom that is modified into a unique circulatory system called a <term>water vascular system</term>. An interesting feature of these animals is their power to regenerate, even when over 75 percent of their body mass is lost.</para>
+<figure id="fig-ch28_05_01" class=" "><media id="fs-idp32485008" alt="The illustration shows a sea star, which has a mouth on the bottom and an anus on top, both in the middle of the star. The disk-shaped stomach is sandwiched between the mouth and anus. Two tubes radiate from the stomach to each arm, and many small digestive glands connect to these tubes. Beneath the stomach is a central ring canal that also connects to tubes that extend into each arm. Tube feet are attached to these tubes. Each tube foot resembles a medicine dropper, with a bulb-shaped ampulla at the top and an extension called a podium at the bottom. The bottom of the podium protrudes from the bottom of the starfish. There are many podia along the length of the arm, which allow the sea star to latch onto objects and walk. A structure called a madreporite connects to the central ring, and protrudes from the upper surface of the sea star, next to the anus.">
+<image mime-type="image/jpg" src="Figure_28_05_01.jpg" width="475"/>
+</media>
+<caption>This diagram shows the anatomy of a sea star.</caption></figure>
+</section>
+<section id="fs-idp224138672">
+<title>Water Vascular System</title>
+<para id="fs-idm100767168">Echinoderms possess a unique ambulacral or water vascular system, consisting of a central ring canal and radial canals that extend along each arm. Water circulates through these structures and facilitates gaseous exchange as well as nutrition, predation, and locomotion. The water vascular system also projects from holes in the skeleton in the form of tube feet. These tube feet can expand or contract based on the volume of water present in the system of that arm. By using hydrostatic pressure, the animal can either protrude or retract the tube feet. Water enters the madreporite on the aboral side of the echinoderm. From there, it passes into the stone canal, which moves water into the ring canal. The ring canal connects the radial canals (there are five in a pentaradial animal), and the radial canals move water into the ampullae, which have tube feet through which the water moves. By moving water through the unique water vascular system, the echinoderm can move and force open mollusk shells during feeding.</para>
+</section>
+<section id="fs-idp59500368">
+<title>Nervous System</title>
+<para id="fs-idp79637472">The nervous system in these animals is a relatively simple structure with a nerve ring at the center and five radial nerves extending outward along the arms. Structures analogous to a brain or derived from fusion of ganglia are not present in these animals.</para>
+</section>
+<section id="fs-idp193879936">
+<title>Excretory System</title>
+<para id="fs-idp27292784">Podocytes, cells specialized for ultrafiltration of bodily fluids, are present near the center of echinoderms. These podocytes are connected by an internal system of canals to an opening called the <term>madreporite</term>.</para>
+</section>
+<section id="fs-idp106328304">
+<title>Reproduction</title>
+<para id="fs-idp134515584">Echinoderms are sexually dimorphic and release their eggs and sperm cells into water; fertilization is external. In some species, the larvae divide asexually and multiply before they reach sexual maturity. Echinoderms may also reproduce asexually, as well as regenerate body parts lost in trauma.</para>
+</section>
+</section>
+<section id="fs-idp184039408"><title>Classes of Echinoderms</title><para id="fs-idp193226304">This phylum is divided into five extant classes: Asteroidea (sea stars), Ophiuroidea (brittle stars), Echinoidea (sea urchins and sand dollars), Crinoidea (sea lilies or feather stars), and Holothuroidea (sea cucumbers) (<link target-id="fig-ch28_05_02" document=""/>).</para><para id="fs-idp212433776">The most well-known echinoderms are members of class Asteroidea, or sea stars. They come in a large variety of shapes, colors, and sizes, with more than 1,800 species known so far. The key characteristic of sea stars that distinguishes them from other echinoderm classes includes thick arms (ambulacra) that extend from a central disk where organs penetrate into the arms. Sea stars use their tube feet not only for gripping surfaces but also for grasping prey. Sea stars have two stomachs, one of which can protrude through their mouths and secrete digestive juices into or onto prey, even before ingestion. This process can essentially liquefy the prey and make digestion easier.</para>
+<note id="fs-idp72420720" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idp229389696" alt="QR Code representing a URL">
+<image mime-type="image/png" src="sea_star.png" width="120"/>
+</media>
+<para id="fs-idp32559936">Explore the <link window="new" url="http://openstaxcollege.org/l/sea_star">sea star’s body plan</link> up close, watch one move across the sea floor, and see it devour a mussel.</para>
+</note><para id="fs-idp29132384">Brittle stars belong to the class Ophiuroidea. Unlike sea stars, which have plump arms, brittle stars have long, thin arms that are sharply demarcated from the central disk. Brittle stars move by lashing out their arms or wrapping them around objects and pulling themselves forward. Sea urchins and sand dollars are examples of Echinoidea. These echinoderms do not have arms, but are hemispherical or flattened with five rows of tube feet that help them in slow movement; tube feet are extruded through pores of a continuous internal shell called a test. Sea lilies and feather stars are examples of Crinoidea. Both of these species are suspension feeders. Sea cucumbers of class Holothuroidea are extended in the oral-aboral axis and have five rows of tube feet. These are the only echinoderms that demonstrate “functional” bilateral symmetry as adults, because the uniquely extended oral-aboral axis compels the animal to lie horizontally rather than stand vertically.</para>
+ <figure id="fig-ch28_05_02" class=" "><media id="fs-idm55473904" alt="The sea star in photo a is red and white, with a thick squat body and protruding spikes. The brittle star in part b is brown with a flat, pentagon-shaped body. Thin striped legs extend from each point of the pentagon. Photo c shows a sea urchin with a round, black body and very long, thin, black spines. Photo d shows a sea lily that has appendages resembling branches of a spruce tree. Photo e shows a log-shaped sea cucumber with spikes extending from its body.">
+<image mime-type="image/jpg" src="Figure_28_05_02abcde.jpg" width="550"/>
+</media>
+       <caption>Different members of Echinodermata include the (a) sea star of class Asteroidea, (b) the brittle star of class Ophiuroidea, (c) the sea urchins of class Echinoidea, (d) the sea lilies belonging to class Crinoidea, and (e) sea cucumbers, representing class Holothuroidea. (credit a: modification of work by Adrian Pingstone; credit b: modification of work by Joshua Ganderson; credit c: modification of work by Samuel Chow; credit d: modification of work by Sarah Depper; credit e: modification of work by Ed Bierman)</caption></figure></section><section id="fs-idp72910048">
+<title> Phylum Chordata</title><para id="fs-idm7430432">Animals in the phylum <term>Chordata</term> share four key features that appear at some stage of their development: a notochord, a dorsal hollow nerve cord, pharyngeal slits, and a post-anal tail. In some groups, some of these traits are present only during embryonic development. In addition to containing vertebrate classes, the phylum Chordata contains two clades of invertebrates: Urochordata (tunicates) and Cephalochordata (lancelets). Most tunicates live on the ocean floor and are suspension feeders. Lancelets are suspension feeders that feed on phytoplankton and other microorganisms.</para>
+</section>
+<section id="fs-idp310237856" class="summary">
+<title>Section Summary</title><para id="fs-idp97617136">Echinoderms are deuterostomic marine organisms. This phylum of animals bears a calcareous endoskeleton composed of ossicles. These animals also have spiny skin. Echinoderms possess water-based circulatory systems. A pore termed the madreporite is the point of entry and exit for water into the water vascular system. Osmoregulation is carried out by specialized cells known as podocytes.</para>
+<para id="fs-idp65477360">The characteristic features of Chordata are a notochord, a dorsal hollow nerve cord, pharyngeal slits, and a post-anal tail. Chordata contains two clades of invertebrates: Urochordata (tunicates) and Cephalochordata (lancelets), together with the vertebrates in Vertebrata. Most tunicates live on the ocean floor and are suspension feeders. Lancelets are suspension feeders that feed on phytoplankton and other microorganisms.</para>
+    </section>
+<section id="fs-idp255174208" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp115289728">
+<problem id="fs-idp260668976"><para id="fs-idp210559696">Echinoderms have _____.</para>
+   <list id="fs-idp239974608" list-type="enumerated" number-style="lower-alpha">
+   <item>triangular symmetry</item>
+<item>radial symmetry</item>
+<item>hexagonal symmetry</item>
+<item>pentaradial symmetry</item>
+</list>
+</problem>
+<solution id="fs-idp68361072">
+<label/>
+<para id="fs-idm15933248">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idp120703824">
+<problem id="fs-idm18244000"><para id="fs-idp59623088">The circulatory fluid in echinoderms is _____.</para>
+<list id="fs-idp241325600" list-type="enumerated" number-style="lower-alpha">
+<item>blood</item>
+<item>mesohyl</item>
+<item>water</item>
+<item>saline</item>
+</list>
+</problem>
+<solution id="fs-idp113749424">
+<label/>
+<para id="fs-idp109365600">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp188336464" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idp148339776">
+<problem id="fs-idp48992144"><para id="fs-idp59647296">Describe the different classes of echinoderms using examples.</para></problem>
+<solution id="fs-idp209540944"><label/>
+<para id="fs-idp19742080">The Asteroidea are the sea stars, the Echinoidea are the sea urchins and sand dollars, the Ophiuroidea are the brittle stars, the Crinoidea are the sea lilies and feather stars, the Holothuroidea are the sea cucumbers.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idp45187664"><term>archenteron</term> <meaning id="fs-idp29133248">primitive gut cavity within the gastrula that opens outwards via the blastopore</meaning></definition>
+<definition id="fs-idp212602064"><term>Chordata</term> <meaning id="fs-idp116701072">phylum of animals distinguished by their possession of a notochord, a dorsal, hollow nerve cord, pharyngeal slits, and a post-anal tail at some point in their development</meaning></definition>
+<definition id="fs-idm107098976"><term>Echinodermata</term> <meaning id="fs-idp80776640">phylum of deuterostomes with spiny skin; exclusively marine organisms</meaning></definition>
+<definition id="fs-idp134641584"><term>enterocoelom</term> <meaning id="fs-idp114963760">coelom formed by fusion of coelomic pouches budded from the endodermal lining of the archenteron</meaning></definition>
+<definition id="fs-idp205635280"><term>madreporite</term> <meaning id="fs-idp55645184">pore for regulating entry and exit of water into the water vascular system</meaning></definition>
+<definition id="fs-idp155395232"><term>water vascular system</term> <meaning id="fs-idp200753664">system in echinoderms where water is the circulatory fluid</meaning></definition>
+</glossary>
+</document>

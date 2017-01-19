@@ -1,0 +1,139 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44430/latest/</md:content-url>
+  <md:content-id>m44430</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.4</md:version>
+  <md:created>2012/08/23 10:44:23 -0500</md:created>
+  <md:revised>2013/06/04 08:42:56.944 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>acetyl CoA</md:keyword>
+    <md:keyword>adenosine triphosphate</md:keyword>
+    <md:keyword>aerobic respiration</md:keyword>
+    <md:keyword>alcohol fermentation</md:keyword>
+    <md:keyword>aldolase</md:keyword>
+    <md:keyword>AMP</md:keyword>
+    <md:keyword>anaerobic cellular respiration</md:keyword>
+    <md:keyword>ATP</md:keyword>
+    <md:keyword>ATP synthase</md:keyword>
+    <md:keyword>ATP yield</md:keyword>
+    <md:keyword>bacterial fermentation</md:keyword>
+    <md:keyword>carbohydrate metabolic pathway</md:keyword>
+    <md:keyword>cellular metabolism</md:keyword>
+    <md:keyword>cellular respiration</md:keyword>
+    <md:keyword>chemiosmosis</md:keyword>
+    <md:keyword>circular pathway</md:keyword>
+    <md:keyword>citric acid cycle</md:keyword>
+    <md:keyword>coenzyme A</md:keyword>
+    <md:keyword>complex I</md:keyword>
+    <md:keyword>complex II</md:keyword>
+    <md:keyword>complex III</md:keyword>
+    <md:keyword>complex IV</md:keyword>
+    <md:keyword>dephosphorylation</md:keyword>
+    <md:keyword>electron transport chain</md:keyword>
+    <md:keyword>energy</md:keyword>
+    <md:keyword>energy transfer</md:keyword>
+    <md:keyword>enolase</md:keyword>
+    <md:keyword>FAD</md:keyword>
+    <md:keyword>FADH</md:keyword>
+    <md:keyword>feedback inhibition</md:keyword>
+    <md:keyword>fermentation</md:keyword>
+    <md:keyword>fumarate</md:keyword>
+    <md:keyword>glucose</md:keyword>
+    <md:keyword>glucose breakdown</md:keyword>
+    <md:keyword>glucose metabolism</md:keyword>
+    <md:keyword>GLUT protein</md:keyword>
+    <md:keyword>glycogen</md:keyword>
+    <md:keyword>glycolysis</md:keyword>
+    <md:keyword>glycolysis regulation</md:keyword>
+    <md:keyword>GTP</md:keyword>
+    <md:keyword>hexokinase</md:keyword>
+    <md:keyword>hydrolysis</md:keyword>
+    <md:keyword>insulin</md:keyword>
+    <md:keyword>isomerase</md:keyword>
+    <md:keyword>Krebs cycle</md:keyword>
+    <md:keyword>lactate dehydrogenase</md:keyword>
+    <md:keyword>lactic acid fermentation</md:keyword>
+    <md:keyword>linear pathway</md:keyword>
+    <md:keyword>lipid metabolic pathway</md:keyword>
+    <md:keyword>metabolic pathway</md:keyword>
+    <md:keyword>mitochondrial disease</md:keyword>
+    <md:keyword>NAD</md:keyword>
+    <md:keyword>NADH</md:keyword>
+    <md:keyword>NADP</md:keyword>
+    <md:keyword>oxidative phosphorylation</md:keyword>
+    <md:keyword>phosphate group</md:keyword>
+    <md:keyword>phosphofructokinase</md:keyword>
+    <md:keyword>phosphorylation</md:keyword>
+    <md:keyword>photosynthesis</md:keyword>
+    <md:keyword>prosthetic</md:keyword>
+    <md:keyword>protein metabolic pathway</md:keyword>
+    <md:keyword>pyruvate</md:keyword>
+    <md:keyword>pyruvate kinase</md:keyword>
+    <md:keyword>pyruvate oxidation</md:keyword>
+    <md:keyword>pyruvic acid</md:keyword>
+    <md:keyword>redox reaction</md:keyword>
+    <md:keyword>regulation</md:keyword>
+    <md:keyword>substrate phosphorylation</md:keyword>
+    <md:keyword>succinyl CoA</md:keyword>
+    <md:keyword>TCA cycle</md:keyword>
+    <md:keyword>ubiquinone</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+        <?cnx.eoc class="summary" title="Sections Summary"?>
+        <?cnx.eoc class="art-exercise" title="Art Connections"?>
+        <?cnx.eoc class="multiple-choice" title="Multiple Choice"?>
+        <?cnx.eoc class="free-response" title="Free Response"?>
+<figure id="fig-ch07_00_01" class="splash">        
+<media id="fs-id1634159" alt="A photograph shows an energy plant on a hillside with clouds of white steam immediately above the plant">
+<image mime-type="image/jpg" src="Figure_07_00_01.jpg" width="700"/>
+</media>
+<caption>This geothermal energy plant transforms thermal energy from deep in the ground into electrical energy, which can be easily used. (credit: modification of work by the U.S. Department of Defense)</caption>
+    </figure>
+    <para id="fs-id2853902">The electrical energy plant in  <link target-id="fig-ch07_00_01" document=""/> converts energy from one form to another form that can be more easily used. This type of generating plant starts with underground thermal energy (heat) and transforms it into electrical energy that will be transported to homes and factories. Like a generating plant, plants and animals also must take in energy from the environment and convert it into a form that their cells can use. Energy enters an organism&#8217;s body in one form and is converted into another form that can fuel the organism&#8217;s life functions. In the process of photosynthesis, plants and other photosynthetic producers take in energy in the form of light (solar energy) and convert it into chemical energy, glucose, which stores this energy in its chemical bonds. Then, a series of metabolic pathways, collectively called cellular respiration, extracts the energy from the bonds in glucose and converts it into a form that all living things can use&#8212;both producers, such as plants, and consumers, such as animals.</para></content>
+</document>

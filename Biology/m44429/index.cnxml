@@ -1,0 +1,219 @@
+<?xml version="1.0"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Enzymes</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml"
+          mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://legacy.cnx.org/content</md:repository>
+  <md:content-url>http://legacy.cnx.org/content/m44429/latest/</md:content-url>
+  <md:content-id>m44429</md:content-id>
+  <md:title>Enzymes</md:title>
+  <md:version>1.7</md:version>
+  <md:created>2012/08/23 10:43:33 +0000</md:created>
+  <md:revised>2014/10/29 15:37:55.895 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>active site</md:keyword>
+    <md:keyword>allosteric activator</md:keyword>
+    <md:keyword>allosteric inhibition</md:keyword>
+    <md:keyword>allosteric regulator</md:keyword>
+    <md:keyword>coenzyme</md:keyword>
+    <md:keyword>cofactor</md:keyword>
+    <md:keyword>competitive inhibition</md:keyword>
+    <md:keyword>enzyme</md:keyword>
+    <md:keyword>enzyme active site</md:keyword>
+    <md:keyword>enzyme regulation</md:keyword>
+    <md:keyword>feedback inhibition</md:keyword>
+    <md:keyword>induced fit</md:keyword>
+    <md:keyword>lock-and-key model</md:keyword>
+    <md:keyword>metabolism</md:keyword>
+    <md:keyword>molecular catalyst</md:keyword>
+    <md:keyword>non-competitive inhibition</md:keyword>
+    <md:keyword>substrate</md:keyword>
+    <md:keyword>substrate specificity</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the role of enzymes in metabolic pathways</item>
+<item>Explain how enzymes function as molecular catalysts</item>
+<item>Discuss enzyme regulation by various factors</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-id1910884">A substance that helps a chemical reaction to occur is a catalyst, and the special molecules that catalyze biochemical reactions are called enzymes. Almost all enzymes are proteins, made up of chains of amino acids, and they perform the critical task of lowering the activation energies of chemical reactions inside the cell.  Enzymes do this by binding to the reactant molecules, and holding them in such a way as to make the chemical bond-breaking and bond-forming processes take place more readily. It is important to remember that enzymes don’t change the ∆G  of a reaction. In other words, they don’t change whether a reaction is exergonic (spontaneous) or endergonic. This is because they don’t change the free energy of the reactants or products. They only reduce the activation energy required to reach the transition state (<link target-id="fig-ch06_05_01" document=""/>).</para>
+<figure id="fig-ch06_05_01"><media id="fs-id2016604" alt="This plot shows that a catalyst decreases the activation energy for a reaction but does not change the Gibbs free energy.">
+<image mime-type="image/jpg" src="Figure_06_05_01.jpg" width="300"/>
+</media>
+<caption>Enzymes lower the activation energy of the reaction but do not change the free energy of the reaction.</caption></figure><section id="fs-id2596668">
+<title>Enzyme Active Site and Substrate Specificity</title>
+<para id="fs-id2322412">The chemical reactants to which an enzyme binds are the enzyme’s <term>substrates</term>. There may be one or more substrates, depending on the particular chemical reaction. In some reactions, a single-reactant substrate is broken down into multiple products. In others, two substrates may come together to create one larger molecule. Two reactants might also enter a reaction, both become modified, and leave the reaction as two products. The location within the enzyme where the substrate binds is called the enzyme’s <term>active site</term>. The active site is where the “action” happens, so to speak. Since enzymes are proteins, there is a unique combination of amino acid residues (also called side chains, or R groups) within the active site. Each residue is characterized by different properties. Residues can be large or small, weakly acidic or basic, hydrophilic or hydrophobic, positively or negatively charged, or neutral. The unique combination of amino acid residues, their positions, sequences, structures, and properties, creates a very specific chemical environment within the active site. This specific environment is suited to bind, albeit briefly, to a specific chemical substrate (or substrates). Due to this jigsaw puzzle-like match between an enzyme and its substrates (which adapts to find the best fit between the transition state and the active site), enzymes are known for their specificity. The “best fit” results from the shape and the amino acid functional group’s attraction to the substrate. There is a specifically matched enzyme for each substrate and, thus, for each chemical reaction; however, there is flexibility as well.</para>
+<para id="fs-id1344546">The fact that active sites are so perfectly suited to provide specific environmental conditions also means that they are subject to influences by the local environment. It is true that increasing the environmental temperature generally increases reaction rates, enzyme-catalyzed or otherwise. However, increasing or decreasing the temperature outside of an optimal range can affect chemical bonds within the active site in such a way that they are less well suited to bind substrates. High temperatures will eventually cause enzymes, like other biological molecules, to <term>denature</term>, a process that changes the natural properties of a substance. Likewise, the pH of the local environment can also affect enzyme function. Active site amino acid residues have their own acidic or basic properties that are optimal for catalysis. These residues are sensitive to changes in pH that can impair the way substrate molecules bind. Enzymes are suited to function best within a certain pH range, and, as with temperature, extreme pH values (acidic or basic) of the environment can cause enzymes to denature.</para>
+<section id="fs-id2385572">
+<title>Induced Fit and Enzyme Function</title>
+<para id="fs-id2781386">For many years, scientists thought that enzyme-substrate binding took place in a simple “lock-and-key” fashion. This model asserted that the enzyme and substrate fit together perfectly in one instantaneous step. However, current research supports a more refined view called <term>induced fit</term> (<link target-id="fig-ch06_05_02" document=""/>). The induced-fit model expands upon the lock-and-key model by describing a more dynamic interaction between enzyme and substrate. As the enzyme and substrate come together, their interaction causes a mild shift in the enzyme’s structure that confirms an ideal binding arrangement between the enzyme and the transition state of the substrate. This ideal binding maximizes the enzyme’s ability to catalyze its reaction.</para>
+<note id="fs-id1986955" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-id2318316" alt="QR Code representing a URL">
+<image mime-type="image/png" src="hexokinase.png" width="130"/>
+</media>
+<para id="fs-id2065566">View an animation of induced fit at <link window="new" url="http://openstaxcollege.org/l/hexokinase">this website</link>.
+</para></note><para id="fs-id2008559">When an enzyme binds its substrate, an enzyme-substrate complex is formed. This complex lowers the activation energy of the reaction and promotes its rapid progression in one of many ways. On a basic level, enzymes promote chemical reactions that involve more than one substrate by bringing the substrates together in an optimal orientation. The appropriate region (atoms and bonds) of one molecule is juxtaposed to the appropriate region of the other molecule with which it must react. Another way in which enzymes promote the reaction of their substrates is by creating an optimal environment within the active site for the reaction to occur. Certain chemical reactions might proceed best in a slightly acidic or non-polar environment. The chemical properties that emerge from the particular arrangement of amino acid residues within an active site create the perfect environment for an enzyme’s specific substrates to react.</para>
+<para id="fs-id2865494">You’ve learned that the activation energy required for many reactions includes the energy involved in manipulating or slightly contorting chemical bonds so that they can easily break and allow others to reform. Enzymatic action can aid this process. The enzyme-substrate complex can lower the activation energy by contorting substrate molecules in such a way as to facilitate bond-breaking, helping to reach the transition state. Finally, enzymes can also lower activation energies by taking part in the chemical reaction itself. The amino acid residues can provide certain ions or chemical groups that actually form covalent bonds with substrate molecules as a necessary step of the reaction process. In these cases, it is important to remember that the enzyme will always return to its original state at the completion of the reaction. One of the hallmark properties of enzymes is that they remain ultimately unchanged by the reactions they catalyze. After an enzyme is done catalyzing a reaction, it releases its product(s).</para>
+<figure id="fig-ch06_05_02" class="  "><media id="fs-id2308932" alt="In this diagram, a substrate binds the active site of an enzyme and, in the process, both the shape of the enzyme and the shape of the substrate change. The substrate is converted to products that then leave the enzyme&#x2019;s active site.">
+<image mime-type="image/jpg" src="Figure_06_05_03.jpg" width="500"/>
+</media>
+<caption>According to the induced-fit model, both enzyme and substrate undergo dynamic conformational changes upon binding. The enzyme contorts the substrate into its transition state, thereby increasing the rate of the reaction.</caption></figure></section>
+</section>
+<section id="fs-id2258482">
+<title>Control of Metabolism Through Enzyme Regulation</title>
+<para id="fs-id2115354">It would seem ideal to have a scenario in which all of the enzymes encoded in an organism’s genome existed in abundant supply and functioned optimally under all cellular conditions, in all cells, at all times. In reality, this is far from the case. A variety of mechanisms ensure that this does not happen. Cellular needs and conditions vary from cell to cell, and change within individual cells over time. The required enzymes and energetic demands of stomach cells are different from those of fat storage cells, skin cells, blood cells, and nerve cells. Furthermore, a digestive cell works much harder to process and break down nutrients during the time that closely follows a meal compared with many hours after a meal. As these cellular demands and conditions vary, so do the amounts and functionality of different enzymes.</para>
+<para id="fs-id1422858">Since the rates of biochemical reactions are controlled by activation energy, and enzymes lower and determine activation energies for chemical reactions, the relative amounts and functioning of the variety of enzymes within a cell ultimately determine which reactions will proceed and at which rates. This determination is tightly controlled. In certain cellular environments, enzyme activity is partly controlled by environmental factors, like pH and temperature. There are other mechanisms through which cells control the activity of enzymes and determine the rates at which various biochemical reactions will occur.</para>
+<section id="fs-id1759834">
+<title>Regulation of Enzymes by Molecules	</title>
+<para id="fs-id1465037">Enzymes can be regulated in ways that either promote or reduce their activity. There are many different kinds of molecules that inhibit or promote enzyme function, and various mechanisms exist for doing so. In some cases of enzyme inhibition, for example, an inhibitor molecule is similar enough to a substrate that it can bind to the active site and simply block the substrate from binding. When this happens, the enzyme is inhibited through <term>competitive inhibition</term>, because an inhibitor molecule competes with the substrate for active site binding (<link target-id="fig-ch06_05_03" document=""/>). On the other hand, in noncompetitive inhibition, an inhibitor molecule binds to the enzyme in a location other than an allosteric site and still manages to block substrate binding to the active site.</para>
+<figure id="fig-ch06_05_03"><media id="fs-id2116339" alt="This plot shows rate of reaction versus substrate concentration for an enzyme in the absence of inhibitor, and for enzyme in the presence of competitive and noncompetitive inhibitors. Both competitive and noncompetitive inhibitors slow the rate of reaction, but competitive inhibitors can be overcome by high concentrations of substrate, whereas noncompetitive inhibitors cannot.">
+<image mime-type="image/jpg" src="Figure_06_05_04.jpg" width="300"/>
+</media>
+<caption>Competitive and noncompetitive inhibition affect the rate of reaction differently. Competitive inhibitors affect the initial rate but do not affect the maximal rate, whereas noncompetitive inhibitors affect the maximal rate.</caption></figure><para id="fs-id1728320">Some inhibitor molecules bind to enzymes in a location where their binding induces a conformational change that reduces the affinity of the enzyme for its substrate. This type of inhibition is called <term>allosteric inhibition</term> (<link target-id="fig-ch06_05_04" document=""/>). Most allosterically regulated enzymes are made up of more than one polypeptide, meaning that they have more than one protein subunit. When an allosteric inhibitor binds to an enzyme, all active sites on the protein subunits are changed slightly such that they bind their substrates with less efficiency. There are allosteric activators as well as inhibitors. Allosteric activators bind to locations on an enzyme away from the active site, inducing a conformational change that increases the affinity of the enzyme’s active site(s) for its substrate(s).</para>
+<figure id="fig-ch06_05_04" class="  "><media id="fs-id1695581" alt="The left part of this diagram shows allosteric inhibition. The allosteric inhibitor binds to the enzyme at a site other than the active site. The shape of the active site is altered so that the enzyme can no longer bind to its substrate. The right part of this diagram shows allosteric activation. The allosteric activator binds to the enzyme at a site other than the active site. The shape of the active site is changed, allowing substrate to bind at a higher affinity.">
+<image mime-type="image/jpg" src="Figure_06_05_05.jpg" width="400"/>
+</media>
+<caption>Allosteric inhibitors modify the active site of the enzyme so that substrate binding is reduced or prevented. In contrast, allosteric activators modify the active site of the enzyme so that the affinity for the substrate increases.</caption></figure>
+<note id="fs-id1975059" class="everyday"><label/><title>Everyday Connection</title>
+
+<figure id="fig-ch06_05_05"><media id="fs-id1443107" alt="This photo shows several red capsule pills.">
+<image mime-type="image/jpg" src="Figure_06_05_08.jpg" width="300"/>
+</media>
+<caption>Have you ever wondered how pharmaceutical drugs are developed? (credit: Deborah Austin)</caption></figure>
+<para id="fs-id2583817"><title>Drug Discovery by Looking for Inhibitors of Key Enzymes in Specific Pathways</title>Enzymes are key components of metabolic pathways. Understanding how enzymes work and how they can be regulated is a key principle behind the development of many of the pharmaceutical drugs (<link target-id="fig-ch06_05_05" document=""/>) on the market today. Biologists working in this field collaborate with other scientists, usually chemists, to design drugs.</para>
+<para id="fs-id1341136">Consider statins for example—which is the name given to the class of drugs that reduces cholesterol levels. These compounds are essentially inhibitors of the enzyme HMG-CoA reductase. HMG-CoA reductase is the enzyme that synthesizes cholesterol from lipids in the body. By inhibiting this enzyme, the levels of cholesterol synthesized in the body can be reduced. Similarly, acetaminophen, popularly marketed under the brand name Tylenol, is an inhibitor of the enzyme cyclooxygenase. While it is effective in providing relief from fever and inflammation (pain), its mechanism of action is still not completely understood.</para>
+<para id="fs-id2018996">How are drugs developed? One of the first challenges in drug development is identifying the specific molecule that the drug is intended to target. In the case of statins, HMG-CoA reductase is the drug target. Drug targets are identified through painstaking research in the laboratory. Identifying the target alone is not sufficient; scientists also need to know how the target acts inside the cell and which reactions go awry in the case of disease. Once the target and the pathway are identified, then the actual process of drug design begins. During this stage, chemists and biologists work together to design and synthesize molecules that can either block or activate a particular reaction. However, this is only the beginning: both if and when a drug prototype is successful in performing its function, then it must undergo many tests from in vitro experiments to clinical trials before it can get FDA approval to be on the market.</para>
+</note><para id="fs-id2026260">Many enzymes don’t work optimally, or even at all, unless bound to other specific non-protein helper molecules, either temporarily through ionic or hydrogen bonds or permanently through stronger covalent bonds. Two types of helper molecules are <term>cofactors</term> and <term>coenzymes</term>. Binding to these molecules promotes optimal conformation and function for their respective enzymes. Cofactors are inorganic ions such as iron (Fe++) and magnesium (Mg++). One example of an enzyme that requires a metal ion as a cofactor is the enzyme that builds DNA molecules, DNA polymerase, which requires bound zinc ion (Zn++) to function. Coenzymes are organic helper molecules, with a basic atomic structure made up of carbon and hydrogen, which are required for enzyme action. The most common sources of coenzymes are dietary vitamins (<link target-id="fig-ch06_05_06" document=""/>). Some vitamins are precursors to coenzymes and others act directly as coenzymes. Vitamin C is a coenzyme for multiple enzymes that take part in building the important connective tissue component, collagen. An important step in the breakdown of glucose to yield energy is catalysis by a multi-enzyme complex called pyruvate dehydrogenase. Pyruvate dehydrogenase is a complex of several enzymes that actually requires one cofactor (a magnesium ion) and five different organic coenzymes to catalyze its specific chemical reaction. Therefore, enzyme function is, in part, regulated by an abundance of various cofactors and coenzymes, which are supplied primarily by the diets of most organisms.</para>
+<figure id="fig-ch06_05_06" class="  "><media id="fs-id2918854" alt="Shown are the molecular structures for Vitamin A, folic acid, Vitamin B1, Vitamin C, Vitamin B2, Vitamin D2, Vitamin B6, and Vitamin E.">
+<image mime-type="image/jpg" src="Figure_06_05_06.jpg" width="400"/>
+</media>
+<caption>Vitamins are important coenzymes or precursors of coenzymes, and are required for enzymes to function properly. Multivitamin capsules usually contain mixtures of all the vitamins at different percentages.</caption></figure></section>
+<section id="fs-id1708061">
+<title>Enzyme Compartmentalization</title>
+<para id="fs-id1524656">In eukaryotic cells, molecules such as enzymes are usually compartmentalized into different organelles. This allows for yet another level of regulation of enzyme activity. Enzymes required only for certain cellular processes can be housed separately along with their substrates, allowing for more efficient chemical reactions. Examples of this sort of enzyme regulation based on location and proximity include the enzymes involved in the latter stages of cellular respiration, which take place exclusively in the mitochondria, and the enzymes involved in the digestion of cellular debris and foreign materials, located within lysosomes.</para>
+</section>
+<section id="fs-id2018714">
+<title>Feedback Inhibition in Metabolic Pathways</title>
+<para id="fs-id1596004">Molecules can regulate enzyme function in many ways. A major question remains, however: What are these molecules and where do they come from? Some are cofactors and coenzymes, ions, and organic molecules, as you’ve learned. What other molecules in the cell provide enzymatic regulation, such as allosteric modulation, and competitive and noncompetitive inhibition? The answer is that a wide variety of molecules can perform these roles. Some of these molecules include pharmaceutical and non-pharmaceutical drugs, toxins, and poisons from the environment. Perhaps the most relevant sources of enzyme regulatory molecules, with respect to cellular metabolism, are the products of the cellular metabolic reactions themselves. In a most efficient and elegant way, cells have evolved to use the products of their own reactions for feedback inhibition of enzyme activity. <term>Feedback inhibition</term> involves the use of a reaction product to regulate its own further production (<link target-id="fig-ch06_05_07" document=""/>). The cell responds to the abundance of specific products by slowing down production during anabolic or catabolic reactions. Such reaction products may inhibit the enzymes that catalyzed their production through the mechanisms described above.</para>
+<figure id="fig-ch06_05_07" class="  "><media id="fs-id1507066" alt="This diagram shows a metabolic pathway in which three enzymes convert a substrate, in three steps, into a final product. The final product inhibits the first enzyme in the pathway.">
+<image mime-type="image/jpg" src="Figure_06_05_07.jpg" width="500"/>
+</media>
+<caption>Metabolic pathways are a series of reactions catalyzed by multiple enzymes. Feedback inhibition, where the end product of the pathway inhibits an upstream step, is an important regulatory mechanism in cells.</caption></figure><para id="fs-id2115837">The production of both amino acids and nucleotides is controlled through feedback inhibition. Additionally, ATP is an allosteric regulator of some of the enzymes involved in the catabolic breakdown of sugar, the process that produces ATP. In this way, when ATP is abundant, the cell can prevent its further production. Remember that ATP is an unstable molecule that can spontaneously dissociate into ADP. If too much ATP were present in a cell, much of it would go to waste. On the other hand, ADP serves as a positive allosteric regulator (an allosteric activator) for some of the same enzymes that are inhibited by ATP. Thus, when relative levels of ADP are high compared to ATP, the cell is triggered to produce more ATP through the catabolism of sugar.</para>
+</section>
+</section>
+<section id="fs-id2348636" class="summary">
+<title>Section Summary</title><para id="fs-id2927047">Enzymes are chemical catalysts that accelerate chemical reactions at physiological temperatures by lowering their activation energy. Enzymes are usually proteins consisting of one or more polypeptide chains. Enzymes have an active site that provides a unique chemical environment, made up of certain amino acid R groups (residues). This unique environment is perfectly suited to convert particular chemical reactants for that enzyme, called substrates, into unstable intermediates called transition states. Enzymes and substrates are thought to bind with an induced fit, which means that enzymes undergo slight conformational adjustments upon substrate contact, leading to full, optimal binding. Enzymes bind to substrates and catalyze reactions in four different ways: bringing substrates together in an optimal orientation, compromising the bond structures of substrates so that bonds can be more easily broken, providing optimal environmental conditions for a reaction to occur, or participating directly in their chemical reaction by forming transient covalent bonds with the substrates.</para>
+<para id="fs-id2155353">Enzyme action must be regulated so that in a given cell at a given time, the desired reactions are being catalyzed and the undesired reactions are not. Enzymes are regulated by cellular conditions, such as temperature and pH. They are also regulated through their location within a cell, sometimes being compartmentalized so that they can only catalyze reactions under certain circumstances. Inhibition and activation of enzymes via other molecules are other important ways that enzymes are regulated. Inhibitors can act competitively, noncompetitively, or allosterically; noncompetitive inhibitors are usually allosteric. Activators can also enhance the function of enzymes allosterically. The most common method by which cells regulate the enzymes in metabolic pathways is through feedback inhibition. During feedback inhibition, the products of a metabolic pathway serve as inhibitors (usually allosteric) of one or more of the enzymes (usually the first committed enzyme of the pathway) involved in the pathway that produces them.</para>
+</section>
+<section id="fs-id1369088" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-id1724046">
+<problem id="fs-id1786638"><para id="fs-id2258341">Which of the following is not true about enzymes:</para>
+<list id="fs-id1485321" list-type="enumerated" number-style="lower-alpha">
+<item>They increase ∆G  of reactions</item>
+<item>They are usually made of amino acids</item>
+<item>They lower the activation energy of chemical reactions</item>
+<item>Each one is specific to the particular substrate(s) to which it binds</item>
+</list>
+</problem>
+<solution id="fs-id2163063">
+<label/>
+<para id="fs-id2326289">A</para></solution>
+</exercise>
+<exercise id="fs-id2229279">
+<problem id="fs-id2118243"><para id="fs-id1966703">An allosteric inhibitor does which of the following?</para>
+<list id="fs-id1982916" list-type="enumerated" number-style="lower-alpha">
+<item>Binds to an enzyme away from the active site and changes the conformation of the active site, increasing its affinity for substrate binding</item>
+<item>Binds to the active site and blocks it from binding substrate</item>
+<item>Binds to an enzyme away from the active site and changes the conformation of the active site, decreasing its affinity for the substrate</item>
+<item>Binds directly to the active site and mimics the substrate</item>
+</list>
+</problem>
+<solution id="fs-id2340064">
+<label/>
+<para id="fs-id1791579">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id2316761">
+<problem id="fs-id2164167"><para id="fs-id1374840">Which of the following analogies best describe the induced-fit model of enzyme-substrate binding?</para>
+<list id="fs-id2926992" list-type="enumerated" number-style="lower-alpha">
+<item>A hug between two people</item>
+<item>A key fitting into a lock</item>
+<item>A square peg fitting through the square hole and a round peg fitting through the round hole of a children’s toy</item>
+<item>The fitting together of two jigsaw puzzle pieces.</item>
+</list>
+</problem>
+<solution id="fs-id1780762">
+<label/>
+<para id="fs-id1896116">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1976553" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-id1511408"><problem id="fs-id2890354"><para id="fs-id2026434">With regard to enzymes, why are vitamins necessary for good health? Give examples.</para></problem>
+<solution id="fs-id2291594"><label/>
+<para id="fs-id2491682">Most vitamins and minerals act as coenzymes and cofactors for enzyme action. Many enzymes require the binding of certain cofactors or coenzymes to be able to catalyze their reactions. Since enzymes catalyze many important reactions, it is critical to obtain sufficient vitamins and minerals from the diet and from supplements. Vitamin C (ascorbic acid) is a coenzyme necessary for the action of enzymes that build collagen, an important protein component of connective tissue throughout the body. Magnesium ion (Mg++) is an important cofactor that is necessary for the enzyme pyruvate dehydrogenase to catalyze part of the pathway that breaks down sugar to produce energy. Vitamins cannot be produced in the human body and therefore must be obtained in the diet.</para>
+</solution>
+</exercise><exercise id="fs-id1791164">
+<problem id="fs-id1876170"><para id="fs-id1962154">Explain in your own words how enzyme feedback inhibition benefits a cell.</para></problem>
+<solution id="fs-id1423640"><label/>
+<para id="fs-id1631652">Feedback inhibition allows cells to control the amounts of metabolic products produced. If there is too much of a particular product relative to what the cell’s needs, feedback inhibition effectively causes the cell to decrease production of that particular product. In general, this reduces the production of superfluous products and conserves energy, maximizing energy efficiency.</para></solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-id1396184"><term>active site</term> <meaning id="fs-id1693867">specific region of the enzyme to which the substrate binds</meaning></definition>
+<definition id="fs-id1912260"><term>allosteric inhibition</term> <meaning id="fs-id1853356">inhibition by a binding event at a site different from the active site, which induces a conformational change and reduces the affinity of the enzyme for its substrate</meaning></definition>
+<definition id="fs-id2573998"><term>coenzyme</term> <meaning id="fs-id1510995">small organic molecule, such as a vitamin or its derivative, which is required to enhance the activity of an enzyme</meaning></definition>
+<definition id="fs-id1760012"><term>cofactor</term> <meaning id="fs-id2198035">inorganic ion, such as iron and magnesium ions, required for optimal regulation of enzyme activity</meaning></definition>
+<definition id="fs-id1778350"><term>competitive inhibition</term> <meaning id="fs-id2199913">type of inhibition in which the inhibitor competes with the substrate molecule by binding to the active site of the enzyme</meaning></definition>
+<definition id="fs-id2118276"><term>denature</term> <meaning id="fs-id1731587">process that changes the natural properties of a substance</meaning></definition>
+<definition id="fs-id1569524"><term>feedback inhibition</term> <meaning id="fs-id1808392">effect of a product of a reaction sequence to decrease its further production by inhibiting the activity of the first enzyme in the pathway that produces it</meaning></definition>
+<definition id="fs-id1424163"><term>induced fit</term> <meaning id="fs-id1454994">dynamic fit between the enzyme and its substrate, in which both components modify their structures to allow for ideal binding</meaning></definition>
+<definition id="fs-id1443302"><term>substrate</term> <meaning id="fs-id1785669">molecule on which the enzyme acts</meaning></definition>
+</glossary>
+
+</document>

@@ -1,0 +1,150 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44620/latest/</md:content-url>
+  <md:content-id>m44620</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.7</md:version>
+  <md:created>2012/08/23 14:27:00 -0500</md:created>
+  <md:revised>2013/04/29 16:56:48.689 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>animal parasite</md:keyword>
+    <md:keyword>animal pathogen</md:keyword>
+    <md:keyword>antifungal</md:keyword>
+    <md:keyword>arbuscular mycorrhiza</md:keyword>
+    <md:keyword>asocarp</md:keyword>
+    <md:keyword>asomycota</md:keyword>
+    <md:keyword>basidiocarp</md:keyword>
+    <md:keyword>basidiomycota</md:keyword>
+    <md:keyword>basidium</md:keyword>
+    <md:keyword>chytrid</md:keyword>
+    <md:keyword>chytridiomycota</md:keyword>
+    <md:keyword>club fungi</md:keyword>
+    <md:keyword>coenocytic hypha</md:keyword>
+    <md:keyword>coevolution of plants and mycorrhizae</md:keyword>
+    <md:keyword>commensalism</md:keyword>
+    <md:keyword>conjugated fungi</md:keyword>
+    <md:keyword>decomposer</md:keyword>
+    <md:keyword>deuteromycota</md:keyword>
+    <md:keyword>dikaryon</md:keyword>
+    <md:keyword>dutch elm disease</md:keyword>
+    <md:keyword>ecosystem</md:keyword>
+    <md:keyword>ectomycorrhiza</md:keyword>
+    <md:keyword>food fungi</md:keyword>
+    <md:keyword>fungal infection</md:keyword>
+    <md:keyword>fungal parasite</md:keyword>
+    <md:keyword>fungal pathogen</md:keyword>
+    <md:keyword>fungi</md:keyword>
+    <md:keyword>fungi asexual reproduction</md:keyword>
+    <md:keyword>fungi beverage</md:keyword>
+    <md:keyword>fungi cell structure</md:keyword>
+    <md:keyword>fungi characteristics</md:keyword>
+    <md:keyword>fungi ecology</md:keyword>
+    <md:keyword>fungi growth</md:keyword>
+    <md:keyword>fungi habitat</md:keyword>
+    <md:keyword>fungi nutrition</md:keyword>
+    <md:keyword>fungi reproduction</md:keyword>
+    <md:keyword>fungi sexual reproduction</md:keyword>
+    <md:keyword>fungivore</md:keyword>
+    <md:keyword>fungus</md:keyword>
+    <md:keyword>fungus animal mutualism</md:keyword>
+    <md:keyword>fungus plant mutualism</md:keyword>
+    <md:keyword>glomeromycota</md:keyword>
+    <md:keyword>haustoria</md:keyword>
+    <md:keyword>heterothallic</md:keyword>
+    <md:keyword>homothallic</md:keyword>
+    <md:keyword>hypha</md:keyword>
+    <md:keyword>hyphae</md:keyword>
+    <md:keyword>imperfect fungi</md:keyword>
+    <md:keyword>industrial fungi</md:keyword>
+    <md:keyword>karyogamy</md:keyword>
+    <md:keyword>lichen</md:keyword>
+    <md:keyword>model organism</md:keyword>
+    <md:keyword>mold</md:keyword>
+    <md:keyword>mutual relationship</md:keyword>
+    <md:keyword>mycelium</md:keyword>
+    <md:keyword>mycetismus</md:keyword>
+    <md:keyword>mycologist</md:keyword>
+    <md:keyword>mycology</md:keyword>
+    <md:keyword>mycorrhiza</md:keyword>
+    <md:keyword>mycosis</md:keyword>
+    <md:keyword>mycotoxicosis</md:keyword>
+    <md:keyword>parasitism</md:keyword>
+    <md:keyword>plant parasite</md:keyword>
+    <md:keyword>plant pathogen</md:keyword>
+    <md:keyword>plasmogamy</md:keyword>
+    <md:keyword>recycler</md:keyword>
+    <md:keyword>sac fungi</md:keyword>
+    <md:keyword>saprobe</md:keyword>
+    <md:keyword>septum</md:keyword>
+    <md:keyword>soredia</md:keyword>
+    <md:keyword>sporangium</md:keyword>
+    <md:keyword>thallus</md:keyword>
+    <md:keyword>yeast</md:keyword>
+    <md:keyword>zygomycete</md:keyword>
+    <md:keyword>zygomycota</md:keyword>
+    <md:keyword>zygospore</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+
+<?cnx.eoc class="summary" title="Sections Summary"?>
+<?cnx.eoc class="art-exercise" title="Art Connections"?>
+<?cnx.eoc class="multiple-choice" title="Multiple Choice"?>
+<?cnx.eoc class="free-response" title="Free Response"?>
+
+<figure id="fig-ch24_00_01" class="splash"><media id="fs-idp1900192" alt="Left photo shows a cluster of mushrooms with bell-like domes attached to slender stalks. Middle photo shows a yellowish-orange fungus that grows in a cluster and is lobe-shaped. Right photo is a micrograph that shows a long, slender stalk that branches into long chains of spores that look like a string of beads.">
+<image mime-type="image/jpg" src="Figure_24_00_01abcf.jpg" width="600"/>
+</media>
+<caption>Many species of fungus produce the familiar mushroom (a) which is a reproductive structure. This (b) coral fungus displays brightly colored fruiting bodies. This electron micrograph shows (c) the spore-bearing structures of <emphasis effect="italics">Aspergillus</emphasis>, a type of toxic fungi found mostly in soil and plants. (credit &#8220;mushroom&#8221;: modification of work by Chris Wee; credit &#8220;coral fungus&#8221;: modification of work by Cory Zanker; credit &#8220;<emphasis effect="italics">Aspergillus</emphasis>&#8221;: modification of work by Janice Haney Carr, Robert Simmons, CDC; scale-bar data from Matt Russell)</caption></figure><para id="fs-idp11869840">The word <emphasis effect="italics">fungus</emphasis> comes from the Latin word for mushrooms.  Indeed, the familiar mushroom is a reproductive structure used by many types of fungi. However, there are also many fungi species that don't produce mushrooms at all. Being eukaryotes, a typical fungal cell contains a true nucleus and many membrane-bound organelles. The kingdom Fungi includes an enormous variety of living organisms collectively referred to as Eucomycota, or true Fungi. While scientists have identified about 100,000 species of fungi, this is only a fraction of the 1.5 million species of fungus likely present on Earth. Edible mushrooms, yeasts, black mold, and the producer of the antibiotic penicillin, <emphasis effect="italics">Penicillium notatum</emphasis>, are all members of the kingdom Fungi, which belongs to the domain Eukarya.</para><para id="fs-idp82403568">Fungi, once considered plant-like organisms, are more closely related to animals than plants. Fungi are not capable of photosynthesis: they are heterotrophic because they use complex organic compounds as sources of energy and carbon. Some fungal organisms multiply only asexually, whereas others undergo both asexual reproduction and sexual reproduction with alternation of generations. Most fungi produce a large number of <term>spores</term>, which are haploid cells that can undergo mitosis to form multicellular,  haploid individuals. Like bacteria, fungi play an essential role in ecosystems because they are decomposers and participate in the cycling of nutrients by breaking down organic materials to simple molecules.</para><para id="fs-idm43277360">Fungi often interact with other organisms, forming beneficial or mutualistic associations. For example most terrestrial plants form symbiotic relationships with fungi. The roots of the plant connect with the underground parts of the fungus forming <term>mycorrhizae</term>. Through mycorrhizae, the fungus and plant exchange nutrients and water, greatly aiding the survival of both species Alternatively, lichens are an association between a fungus and its photosynthetic partner (usually an alga). Fungi also cause serious infections in plants and animals. For example, Dutch elm disease, which is caused by the fungus<emphasis effect="italics"> Ophiostoma ulmi</emphasis>, is a particularly devastating type of fungal infestation that destroys many native species of elm (<emphasis effect="italics">Ulmus</emphasis> sp.) by infecting the tree&#8217;s vascular system. The elm bark beetle acts as a vector,  transmitting the disease from tree to tree. Accidentally introduced in the 1900s, the fungus decimated elm trees across the continent. Many European and Asiatic elms are less susceptible to Dutch elm disease than American elms.</para><para id="fs-idp2071136">In humans, fungal infections are generally considered challenging to treat. Unlike bacteria, fungi do not respond to traditional antibiotic therapy, since they are eukaryotes. Fungal infections may prove deadly for individuals with compromised immune systems.</para>
+<para id="fs-idp114547232">Fungi have many commercial applications. The food industry uses yeasts in baking, brewing, and cheese and wine making. Many industrial compounds are byproducts of fungal fermentation. Fungi are the source of many commercial enzymes and antibiotics.</para>
+</content>
+<glossary>
+<definition id="fs-id1172592824476"><term>spore</term><meaning id="fs-id1172591783279">a haploid cell that can undergo mitosis to form a multicellular,  haploid individua</meaning></definition>
+
+<definition id="fs-id1172590264979"><term>mycorrhizae</term><meaning id="fs-id1172592176630">a mutualistic relationship between a plant and a fungus. Mycorrhizae are connections between fungal hyphae, which provide soil minerals to the plant, and plant roots, which provide carbohydrates to the fungus</meaning></definition>
+</glossary>
+</document>

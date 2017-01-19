@@ -1,0 +1,141 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44404/latest/</md:content-url>
+  <md:content-id>m44404</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.2</md:version>
+  <md:created>2012/08/22 16:24:36 -0500</md:created>
+  <md:revised>2013/01/25 16:35:16.011 US/Central</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>animal cell</md:keyword>
+    <md:keyword>Anthony von Leeuwenhoek</md:keyword>
+    <md:keyword>cardiologist</md:keyword>
+    <md:keyword>cell size</md:keyword>
+    <md:keyword>cell structure</md:keyword>
+    <md:keyword>cell theory</md:keyword>
+    <md:keyword>cell wall</md:keyword>
+    <md:keyword>cellular activity</md:keyword>
+    <md:keyword>central vacuole</md:keyword>
+    <md:keyword>centrosome</md:keyword>
+    <md:keyword>chlorophyll</md:keyword>
+    <md:keyword>chloroplast</md:keyword>
+    <md:keyword>chromatin</md:keyword>
+    <md:keyword>chromosome</md:keyword>
+    <md:keyword>cilia</md:keyword>
+    <md:keyword>cilium</md:keyword>
+    <md:keyword>cytoplasm</md:keyword>
+    <md:keyword>cytoskeleton</md:keyword>
+    <md:keyword>cytosol</md:keyword>
+    <md:keyword>cytotechnologist</md:keyword>
+    <md:keyword>desmosome</md:keyword>
+    <md:keyword>electron microscope</md:keyword>
+    <md:keyword>endomembrane system</md:keyword>
+    <md:keyword>endoplasmic reticulum</md:keyword>
+    <md:keyword>endosymbiosis</md:keyword>
+    <md:keyword>ER</md:keyword>
+    <md:keyword>eukaryote</md:keyword>
+    <md:keyword>eukaryotic cell</md:keyword>
+    <md:keyword>extracellular matrix</md:keyword>
+    <md:keyword>flagella</md:keyword>
+    <md:keyword>flagellum</md:keyword>
+    <md:keyword>gap junction</md:keyword>
+    <md:keyword>geneticist</md:keyword>
+    <md:keyword>Golgi apparatus</md:keyword>
+    <md:keyword>intermediate filament</md:keyword>
+    <md:keyword>light microscope</md:keyword>
+    <md:keyword>lysosome</md:keyword>
+    <md:keyword>Matthias Schleiden</md:keyword>
+    <md:keyword>microbiologist</md:keyword>
+    <md:keyword>microfilament</md:keyword>
+    <md:keyword>microscopy</md:keyword>
+    <md:keyword>microtubule</md:keyword>
+    <md:keyword>mitochondria</md:keyword>
+    <md:keyword>nuclear envelope</md:keyword>
+    <md:keyword>nucleoid</md:keyword>
+    <md:keyword>nucleolus</md:keyword>
+    <md:keyword>nucleoplasm</md:keyword>
+    <md:keyword>nucleus</md:keyword>
+    <md:keyword>organelle</md:keyword>
+    <md:keyword>peroxisome</md:keyword>
+    <md:keyword>phospholipid bilayer</md:keyword>
+    <md:keyword>plant cell</md:keyword>
+    <md:keyword>plasma membrane</md:keyword>
+    <md:keyword>plasmodesma</md:keyword>
+    <md:keyword>plasmodesmata</md:keyword>
+    <md:keyword>prokaryote</md:keyword>
+    <md:keyword>prokaryotic cell</md:keyword>
+    <md:keyword>protein</md:keyword>
+    <md:keyword>RER</md:keyword>
+    <md:keyword>ribosome</md:keyword>
+    <md:keyword>Robert Hooke</md:keyword>
+    <md:keyword>rough endoplasmic reticulum</md:keyword>
+    <md:keyword>SER</md:keyword>
+    <md:keyword>single-cell organism</md:keyword>
+    <md:keyword>smooth endoplasmic reticulum</md:keyword>
+    <md:keyword>Theodor Schwann</md:keyword>
+    <md:keyword>tight junction</md:keyword>
+    <md:keyword>unicellular</md:keyword>
+    <md:keyword>unified cell theory</md:keyword>
+    <md:keyword>vacuole</md:keyword>
+    <md:keyword>vesicle</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<?cnx.eoc class="summary" title="Sections Summary"?>
+<?cnx.eoc class="art-exercise" title="Art Connections"?>
+<?cnx.eoc class="multiple-choice" title="Multiple Choice"?>
+<?cnx.eoc class="free-response" title="Free Response"?>
+
+<figure id="fig-ch04-00-00" class="splash"><media id="fs-id1782954" alt="Part a: Human cheek cells as viewed by light microscopy have an irregular round shape and a well-defined nucleus that takes up about one-half of the cell. Part b: Onion skin cells, also viewed by light microscopy, are long and thin with a rectangular shape defined by a cell wall. They are about as wide as a cheek cell, but at least five times as long. The cell wall and nucleus are well defined in the micrograph. The onion cell nucleus is about the same size as the cheek cell nucleus. Part c: In this scanning electron micrograph of bacterial cells, the cell surface has a three-dimensional shape. Three of the bacteria are oval in shape. The fourth is round and has protrusions called pili. One pilus connects this bacterium to another.">
+<image mime-type="image/jpg" src="Figure_04_00_00.jpg" width="550"/>
+</media>
+
+<caption>(a) Nasal sinus cells (viewed with a light microscope), (b) onion cells (viewed with a light microscope), and (c) <emphasis effect="italics">Vibrio tasmaniensis</emphasis> bacterial cells (seen through a scanning electron microscope) are from very different organisms, yet all share certain characteristics of basic cell structure. (credit a: modification of work by Ed Uthman, MD; credit b: modification of work by Umberto Salvagnin; credit c: modification of work by Anthony D'Onofrio, William H. Fowle, Eric J. Stewart, and Kim Lewis of the Lewis Lab at Northeastern University; scale-bar data from Matt Russell)</caption></figure><para id="fs-id1483937">Close your eyes and picture a brick wall. What is the basic building block of that wall? A single brick, of course. Like a brick wall, your body is composed of basic building blocks, and the building blocks of your body are cells.</para>
+<para id="fs-id806351">Your body has many kinds of cells, each specialized for a specific purpose. Just as a home is made from a variety of building materials, the human body is constructed from many cell types. For example, epithelial cells protect the surface of the body and cover the organs and body cavities within. Bone cells help to support and protect the body. Cells of the immune system fight invading bacteria. Additionally, blood and blood cells carry nutrients and oxygen throughout the body while removing carbon dioxide. Each of these cell types plays a vital role during the growth, development, and day-to-day maintenance of the body. In spite of their enormous variety, however, cells from all organisms&#8212;even ones as diverse as bacteria, onion, and human&#8212;share certain fundamental characteristics.</para>
+</content>
+
+</document>

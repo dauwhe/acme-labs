@@ -1,0 +1,219 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Phylum Porifera</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44663/latest/</md:content-url>
+  <md:content-id>m44663</md:content-id>
+  <md:title>Phylum Porifera</md:title>
+  <md:version>1.7</md:version>
+  <md:created>2012/08/23 14:41:57 -0500</md:created>
+  <md:revised>2013/06/20 16:17:01.206 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>gemmule</md:keyword>
+    <md:keyword>Invertebrata</md:keyword>
+    <md:keyword>invertebrate</md:keyword>
+    <md:keyword>mesohyl</md:keyword>
+    <md:keyword>osculum</md:keyword>
+    <md:keyword>ostia</md:keyword>
+    <md:keyword>phylum Porifera</md:keyword>
+    <md:keyword>Porifera</md:keyword>
+    <md:keyword>sclerocyte</md:keyword>
+    <md:keyword>sponge</md:keyword>
+    <md:keyword>sponge locomotion</md:keyword>
+    <md:keyword>sponge metabolism</md:keyword>
+    <md:keyword>sponge morphology</md:keyword>
+    <md:keyword>sponge reproduction</md:keyword>
+    <md:keyword>spongocoel</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the organizational features of the simplest multicellular organisms</item>
+<item>Explain the various body forms and bodily functions of sponges</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idp53501680">The invertebrates, or <term>invertebrata</term>, are animals that do not contain bony structures, such as the cranium and vertebrae. The simplest of all the invertebrates are the Parazoans, which include only the phylum <term>Porifera</term>: the sponges (<link target-id="fig-ch28_01_01" document=""/>). Parazoans (&#8220;beside animals&#8221;) do not display tissue-level organization, although they do have specialized cells that perform specific functions. Sponge larvae are able to swim; however, adults are non-motile and spend their life attached to a substratum. Since water is vital to sponges for excretion, feeding, and gas exchange, their body structure facilitates the movement of water through the sponge. Structures such as canals, chambers, and cavities enable water to move through the sponge to nearly all body cells.</para><figure id="fig-ch28_01_01" class=" "><media id="fs-idp126848496" alt="The photo shows sponges on the ocean floor. The sponges are yellow with a bumpy surface, forming rounded clumps.">
+<image mime-type="image/jpg" src="Figure_28_01_01.jpg" width="320"/>
+</media>
+
+<caption>Sponges are members of the Phylum Porifera, which contains the simplest invertebrates. (credit: Andrew Turner)</caption></figure><section id="fs-idp13836720">
+<title>Morphology of Sponges</title>
+<para id="fs-idm47212736">The morphology of the simplest sponges takes the shape of a cylinder with a large central cavity, the <term>spongocoel</term>, occupying the inside of the cylinder. Water can enter into the spongocoel from numerous pores in the body wall. Water entering the spongocoel is extruded via a large common opening called the <term>osculum</term>. However, sponges exhibit a range of diversity in body forms, including variations in the size of the spongocoel, the number of osculi, and where the cells that filter food from the water are located.</para>
+<para id="fs-idm14735456">While sponges (excluding the hexactinellids) do not exhibit tissue-layer organization, they do have different cell types that perform distinct functions. <term>Pinacocytes</term>, which are epithelial-like cells, form the outermost layer of sponges and enclose a jelly-like substance called mesohyl. <term>Mesohyl</term> is an extracellular matrix consisting of a collagen-like gel with suspended cells that perform various functions. The gel-like consistency of mesohyl acts like an endoskeleton and maintains the tubular morphology of sponges. In addition to the osculum, sponges have multiple pores called <term>ostia</term> on their bodies that allow water to enter the sponge. In some sponges, ostia are formed by porocytes, single tube-shaped cells that act as valves to regulate the flow of water into the spongocoel. In other sponges, ostia are formed by folds in the body wall of the sponge.</para><para id="fs-idm4846496"><term>Choanocytes</term> (&#8220;collar cells&#8221;) are present at various locations, depending on the type of sponge, but they always line the inner portions of some space through which water flows (the spongocoel in simple sponges, canals within the body wall in more complex sponges, and chambers scattered throughout the body in the most complex sponges). Whereas pinacocytes line the outside of the sponge, choanocytes tend to line certain inner portions of the sponge body that surround the mesohyl. The structure of a choanocyte is critical to its function, which is to generate a water current through the sponge and to trap and ingest food particles by phagocytosis. Note the similarity in appearance between the sponge choanocyte and choanoflagellates (Protista). This similarity suggests that sponges and choanoflagellates are closely related and likely share a recent common ancestry. The cell body is embedded in mesohyl and contains all organelles required for normal cell function, but protruding into the &#8220;open space&#8221; inside of the sponge is a mesh-like collar composed of microvilli with a single flagellum in the center of the column. The cumulative effect of the flagella from all choanocytes aids the movement of water through the sponge: drawing water into the sponge through the numerous ostia, into the spaces lined by choanocytes, and eventually out through the osculum (or osculi). In the meantime, food particles, including waterborne bacteria and algae, are trapped by the sieve-like collar of the choanocytes, slide down into the body of the cell, are ingested by phagocytosis, and become encased in a food vacuole. Lastly, choanocytes will differentiate into sperm for sexual reproduction, where they will become dislodged from the mesohyl and leave the sponge with expelled water through the osculum.</para><note id="fs-idm11321728" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idp65560624" alt="QR Code representing a URL">
+<image mime-type="image/png" src="filter_sponges.png" width="120"/>
+</media>
+<para id="fs-idm99831328">Watch this <link window="new" url="http://openstaxcollege.org/l/filter_sponges">video</link> to see the movement of water through the sponge body.</para>
+</note><para id="fs-idp114222544">The second crucial cells in sponges are called <term>amoebocytes</term> (or archaeocytes), named for the fact that they move throughout the mesohyl in an amoeba-like fashion. Amoebocytes have a variety of functions: delivering nutrients from choanocytes to other cells within the sponge, giving rise to eggs for sexual reproduction (which remain in the mesohyl), delivering phagocytized sperm from choanocytes to eggs, and differentiating into more-specific cell types. Some of these more-specific cell types include collencytes and lophocytes, which produce the collagen-like protein to maintain the mesohyl, sclerocytes, which produce spicules in some sponges, and spongocytes, which produce the protein spongin in the majority of sponges. These cells produce collagen to maintain the consistency of the mesohyl. The different cell types in sponges are shown in <link target-id="fig-ch28_01_02" document=""/>.</para>
+<note id="fs-idp153345296" class="art-connection"><label/><title>Art Connection</title>
+<figure id="fig-ch28_01_02" class=" "><media id="fs-idp120028432" alt="Part a shows a cross-section of a sponge, which is vase-shaped. The central opening is called the spongocoel. The body is filled with a gel-like substance called mesohyl. Pores within the body, called ostia, allow water to enter the spongocoel. Water exits through a top opening called an osculum. Part b shows an enlarged view of the sponge body. The outer surface is covered with cells called pinacocytes, which form the skin. Pinacocytes consume large food particles by phagocytosis. The inner surface is lined with cells called choanocytes, which have flagella that move water through the body. The mesohyl is sandwiched between the outer and inner surfaces. Various cell types exist within this layer. These include collagen-secreting lophocytes, amoebocytes, which carry out a variety of functions, and oocytes. Sclerocytes within this layer produce silica spicules that extend outside the body of the sponge. Porocytes, hollow tube-shaped cells that span the body of the sponge, regulate movement of water through the ostia.">
+<image mime-type="image/jpg" src="Figure_28_01_02.png" width="420"/>
+</media>
+<caption>The sponge&#8217;s (a) basic body plan and (b) some of the specialized cell types found in sponges are shown.</caption></figure><para id="fs-idp78820944">Which of the following statements is false?</para>
+<list id="fs-idm16953904" list-type="enumerated" number-style="lower-alpha">
+<item>Choanocytes have flagella that propel water through the body.</item>
+<item>Pinacocytes can transform into any cell type.</item>
+<item>Lophocytes secrete collagen.</item>
+<item>Porocytes control the flow of water through pores in the sponge body.</item>
+</list>
+<!--<para><link target-id="fig-ch28_01_02" document=""/>B</para>-->
+</note><para id="fs-idm51974240">In some sponges, <term>sclerocytes</term> secrete small <term>spicules</term> into the mesohyl, which are composed of either calcium carbonate or silica, depending on the type of sponge. These spicules serve to provide additional stiffness to the body of the sponge. Additionally, spicules, when present externally, may ward off predators. Another type of protein, spongin, may also be present in the mesohyl of some sponges.</para>
+<note id="fs-idp104879648" class="interactive"><label/><title>Link to Learning</title>
+    <media id="fs-idp112892544" alt="QR Code representing a URL">
+        <image mime-type="image/png" src="sponge_ride.png" width="120"/>
+    </media>
+    <para id="fs-idp142921696">Take an up-close <link window="new" url="http://openstaxcollege.org/l/sponge_ride">tour</link> through the sponge and its cells.</para>
+</note><para id="fs-idp65794288">The presence and composition of spicules/spongin are the differentiating characteristics of the three classes of sponges (<link target-id="fig-ch28_01_03" document=""/>): Class Calcarea contains calcium carbonate spicules and no spongin, class Hexactinellida contains six-rayed siliceous spicules and no spongin, and class Demospongia contains spongin and may or may not have spicules; if present, those spicules are siliceous. Spicules are most conspicuously present in class Hexactinellida, the order consisting of glass sponges. Some of the spicules may attain giant proportions (in relation to the typical size range of glass sponges of 3 to 10 mm) as seen in <emphasis effect="italics">Monorhaphis chuni</emphasis>, which grows up to 3 m long.</para>
+<figure id="fig-ch28_01_03" class=" "><media id="fs-idp138551680" alt="Photo A shows Clathrina clathrus, a yellow sponge composed of many yarn-like strands fused together, giving the appearance of netting. Photo B shows Stauroclayptus, a cream-colored sponge with a pitcher shape. Photo C shows Acarnus erthacus, a flat orange sponge with protrusions that have the appearance of volcanoes. Each volcano-like protrusion has a pore in the middle.">
+    <image mime-type="image/jpg" src="Figure_28_01_03abc.jpg" width="525"/>
+</media>
+<caption>(a) <emphasis effect="italics">Clathrina clathrus</emphasis> belongs to class Calcarea, (b) <emphasis effect="italics">Staurocalyptus </emphasis>spp. (common name: yellow Picasso sponge) belongs to class Hexactinellida, and (c) <emphasis effect="italics">Acarnus erithacus</emphasis> belongs to class Demospongia. (credit a: modification of work by Parent G&#233;ry; credit b: modification of work by Monterey Bay Aquarium Research Institute, NOAA; credit c: modification of work by Sanctuary Integrated Monitoring Network, Monterey Bay National Marine Sanctuary, NOAA)</caption></figure><note id="fs-idp127674720" class="interactive"><label/><title>Link to Learning</title>
+    <media id="fs-idp10520800" alt="QR Code representing a URL">
+        <image mime-type="image/png" src="id_sponges.png" width="120"/>
+    </media>
+    <para id="fs-idp29703664">Use the <link window="new" url="http://openstaxcollege.org/l/id_sponges">Interactive Sponge Guide</link> to identify species of sponges based on their external form, mineral skeleton, fiber, and skeletal architecture.</para>
+</note></section>
+<section id="fs-idp62969136">
+<title>Physiological Processes in Sponges</title>
+<para id="fs-idp173698736">Sponges, despite being simple organisms, regulate their different physiological processes through a variety of mechanisms. These processes regulate their metabolism, reproduction, and locomotion.</para>
+<section id="fs-idp18064560">
+<title>Digestion</title>
+<para id="fs-idm48212576">Sponges lack complex digestive, respiratory, circulatory, reproductive, and nervous systems. Their food is trapped when water passes through the ostia and out through the osculum. Bacteria smaller than 0.5 microns in size are trapped by choanocytes, which are the principal cells engaged in nutrition, and are ingested by phagocytosis. Particles that are larger than the ostia may be phagocytized by pinacocytes. In some sponges, amoebocytes transport food from cells that have ingested food particles to those that do not. For this type of digestion, in which food particles are digested within individual cells, the sponge draws water through diffusion. The limit of this type of digestion is that food particles must be smaller than individual cells.</para>
+<para id="fs-idm87576560">All other major body functions in the sponge (gas exchange, circulation, excretion) are performed by diffusion between the cells that line the openings within the sponge and the water that is passing through those openings. All cell types within the sponge obtain oxygen from water through diffusion. Likewise, carbon dioxide is released into seawater by diffusion. In addition, nitrogenous waste produced as a byproduct of protein metabolism is excreted via diffusion by individual cells into the water as it passes through the sponge.</para>
+</section>
+<section id="fs-idp44376592">
+<title>Reproduction</title>
+<para id="fs-idp34399520">Sponges reproduce by sexual as well as asexual methods. The typical means of asexual reproduction is either fragmentation (where a piece of the sponge breaks off, settles on a new substrate, and develops into a new individual) or budding (a genetically identical outgrowth grows from the parent and eventually detaches or remains attached to form a colony). An atypical type of asexual reproduction is found only in freshwater sponges and occurs through the formation of gemmules. <term>Gemmules</term> are environmentally resistant structures produced by adult sponges wherein the typical sponge morphology is inverted. In gemmules, an inner layer of amoebocytes is surrounded by a layer of collagen (spongin) that may be reinforced by spicules. The collagen that is normally found in the mesohyl becomes the outer protective layer. In freshwater sponges, gemmules may survive hostile environmental conditions like changes in temperature and serve to recolonize the habitat once environmental conditions stabilize. Gemmules are capable of attaching to a substratum and generating a new sponge. Since gemmules can withstand harsh environments, are resistant to desiccation, and remain dormant for long periods, they are an excellent means of colonization for a sessile organism.</para>
+<para id="fs-idm10676560">Sexual reproduction in sponges occurs when gametes are generated. Sponges are monoecious (hermaphroditic), which means that one individual can produce both gametes (eggs and sperm) simultaneously. In some sponges, production of gametes may occur throughout the year, whereas other sponges may show sexual cycles depending upon water temperature. Sponges may also become sequentially hermaphroditic, producing oocytes first and spermatozoa later. Oocytes arise by the differentiation of amoebocytes and are retained within the spongocoel, whereas spermatozoa result from the differentiation of choanocytes and are ejected via the osculum. Ejection of spermatozoa may be a timed and coordinated event, as seen in certain species. Spermatozoa carried along by water currents can fertilize the oocytes borne in the mesohyl of other sponges. Early larval development occurs within the sponge, and free-swimming larvae are then released via the osculum.</para>
+</section>
+<section id="fs-idp64403408">
+<title>Locomotion</title>
+<para id="fs-idm81395488">Sponges are generally sessile as adults and spend their lives attached to a fixed substratum. They do not show movement over large distances like other free-swimming marine invertebrates. However, sponge cells are capable of creeping along substrata via organizational plasticity. Under experimental conditions, researchers have shown that sponge cells spread on a physical support demonstrate a leading edge for directed movement. It has been speculated that this localized creeping movement may help sponges adjust to microenvironments near the point of attachment. It must be noted, however, that this pattern of movement has been documented in laboratories, but it remains to be observed in natural sponge habitats.</para>
+<note id="fs-idp64133856" class="interactive"><label/><title>Link to Learning</title>
+    <media id="fs-idp45869824" alt="QR Code representing a URL">
+        <image mime-type="image/png" src="sea_sponges.png" width="120"/>
+    </media>
+<para id="fs-idp157507392">Watch this BBC <link window="new" url="http://openstaxcollege.org/l/sea_sponges">video</link> showing the array of sponges seen along the Cayman Wall during a submersible dive.</para></note></section>
+</section>
+<section id="fs-idm80976544" class="summary">
+<title>Section Summary</title><para id="fs-idp9178016">Animals included in phylum Porifera are Parazoans because they do not show the formation of true tissues (except in class Hexactinellida). These organisms show very simple organization, with a rudimentary endoskeleton. Sponges have multiple cell types that are geared toward executing various metabolic functions. Although these animals are very simple, they perform several complex physiological functions.</para>
+    </section>
+<section id="fs-idm56372096" class="art-exercise">
+    <title>Art Connections</title>
+<exercise id="fs-idm56525232">
+    <problem id="fs-idp15480176">
+        <para id="fs-idm23269824"><link target-id="fig-ch28_01_02" document=""/> Which of the following statements is false?</para>
+      <list id="fs-idm86159728" list-type="enumerated" number-style="lower-alpha">
+      <item>Choanocytes have flagella that propel water through the body.</item>
+      <item>Pinacocytes can transform into any cell type.</item>
+      <item>Lophocytes secrete collagen.</item>
+      <item>Porocytes control the flow of water through pores in the sponge body.</item>
+      </list>
+    </problem>
+<solution id="fs-idm40475184">
+    <label/>
+    <para id="fs-idm13118144"><link target-id="fig-ch28_01_02" document=""/> B</para></solution>
+</exercise>
+</section>
+<section id="fs-idm37921392" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp46230224">
+<problem id="fs-idm8967888"><para id="fs-idp33008464">Mesohyl contains:</para>
+      <list id="fs-idm81420848" list-type="enumerated" number-style="lower-alpha">
+          <item>a polysaccharide gel and dead cells</item>
+      <item>a collagen-like gel and suspended cells for various functions</item>
+      <item>spicules composed of silica or calcium carbonate</item>
+      <item>multiple pores</item>
+      </list>
+</problem>
+    <solution id="fs-idp18735392">
+        <label/>
+        <para id="fs-idp57728496">B</para>
+    </solution>
+    </exercise>
+<exercise id="fs-idp206434368">
+<problem id="fs-idp127636928"><para id="fs-idp212115632">The large central opening in the Parazoan body is called the:</para>
+      <list id="fs-idm69727024" list-type="enumerated" number-style="lower-alpha">
+          <item>gemmule</item>
+      <item>spicule</item>
+      <item>ostia</item>
+      <item>osculum</item>
+      </list>
+</problem>
+    <solution id="fs-idp169262944">
+        <label/>
+        <para id="fs-idm16629344">D</para>
+     </solution>
+    </exercise>
+</section>
+<section id="fs-idm42698976" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm48237280">
+<problem id="fs-idm89713808"><para id="fs-idm92862592">Describe the different cell types and their functions in sponges.</para></problem>
+<solution id="fs-idm16946272"><label/>
+<para id="fs-idp235086704">Pinacocytes are epithelial-like cells, form the outermost layer of sponges, and enclose a jelly-like substance called mesohyl. In some sponges, porocytes form ostia, single tube-shaped cells that act as valves to regulate the flow of water into the spongocoel. Choanocytes (&#8220;collar cells&#8221;) are present at various locations, depending on the type of sponge, but they always line some space through which water flows and are used in feeding.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm81409984">
+<problem id="fs-idp13628176"><para id="fs-idp47985808">Describe the feeding mechanism of sponges and identify how it is different from other animals.</para></problem>
+<solution id="fs-idm52125952"><label/>
+<para id="fs-idp128559664">The sponges draw water carrying food particles into the spongocoel using the beating of flagella on the choanocytes. The food particles are caught by the collar of the choanocyte and are brought into the cell by phagocytosis. Digestion of the food particle takes place inside the cell. The difference between this and the mechanisms of other animals is that digestion takes place within cells rather than outside of cells. It means that the organism can feed only on particles smaller than the cells themselves.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idp30154560"><term>amoebocyte</term> <meaning id="fs-idm165797232">sponge cell with multiple functions, including nutrient delivery, egg formation, sperm delivery, and cell differentiation</meaning></definition>
+<definition id="fs-idm64099664"><term>choanocyte</term> <meaning id="fs-idm14469312">(also, collar cell) sponge cell that functions to generate a water current and to trap and ingest food particles via phagocytosis</meaning></definition>
+<definition id="fs-idp59742432"><term>gemmule</term> <meaning id="fs-idp49715520">structure produced by asexual reproduction in freshwater sponges where the morphology is inverted</meaning></definition>
+<definition id="fs-idp53027216"><term>invertebrata</term> <meaning id="fs-idm21942512">(also, invertebrates) category of animals that do not possess a cranium or vertebral column</meaning></definition>
+<definition id="fs-idp67911184"><term>mesohyl</term> <meaning id="fs-idp28149200">collagen-like gel containing suspended cells that perform various functions in the sponge</meaning></definition>
+<definition id="fs-idp66786896"><term>osculum</term> <meaning id="fs-idp36633408">large opening in the sponge&#8217;s body through which water leaves</meaning></definition>
+<definition id="fs-idp111000896"><term>ostium</term> <meaning id="fs-idm60499888">pore present on the sponge&#8217;s body through which water enters</meaning></definition>
+<definition id="fs-idp103964880"><term>pinacocyte</term> <meaning id="fs-idp43245616">epithelial-like cell that forms the outermost layer of sponges and encloses a jelly-like substance called mesohyl</meaning></definition>
+<definition id="fs-idp161496512"><term>Porifera</term> <meaning id="fs-idp20695312">phylum of animals with no true tissues, but a porous body with rudimentary endoskeleton</meaning></definition>
+<definition id="fs-idm166331264"><term>sclerocyte</term> <meaning id="fs-idp15682608">cell that secretes silica spicules into the mesohyl</meaning></definition>
+<definition id="fs-idm32301376"><term>spicule</term> <meaning id="fs-idp196457504">structure made of silica or calcium carbonate that provides structural support for sponges</meaning></definition>
+<definition id="fs-idp13848512"><term>spongocoel</term> <meaning id="fs-idm15965168">central cavity within the body of some sponges</meaning></definition>
+</glossary>
+</document>

@@ -1,0 +1,319 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>The Soil</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44715/latest/</md:content-url>
+  <md:content-id>m44715</md:content-id>
+  <md:title>The Soil</md:title>
+  <md:version>1.5</md:version>
+  <md:created>2012/08/23 14:59:53 -0500</md:created>
+  <md:revised>2013/04/12 11:22:23.712 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>a horizon</md:keyword>
+    <md:keyword>b horizon</md:keyword>
+    <md:keyword>c horizon</md:keyword>
+    <md:keyword>clay</md:keyword>
+    <md:keyword>horizon</md:keyword>
+    <md:keyword>humus</md:keyword>
+    <md:keyword>loam</md:keyword>
+    <md:keyword>mineral soil</md:keyword>
+    <md:keyword>o horizon</md:keyword>
+    <md:keyword>organic soil</md:keyword>
+    <md:keyword>parent material</md:keyword>
+    <md:keyword>physical properties of soil</md:keyword>
+    <md:keyword>plant nutrition</md:keyword>
+    <md:keyword>rhizosphere</md:keyword>
+    <md:keyword>sand</md:keyword>
+    <md:keyword>silt</md:keyword>
+    <md:keyword>soil</md:keyword>
+    <md:keyword>soil biology</md:keyword>
+    <md:keyword>soil climate</md:keyword>
+    <md:keyword>soil composition</md:keyword>
+    <md:keyword>soil formation</md:keyword>
+    <md:keyword>soil horizon</md:keyword>
+    <md:keyword>soil profile</md:keyword>
+    <md:keyword>soil properties</md:keyword>
+    <md:keyword>topography</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe how soils are formed</item>
+<item>Explain soil composition</item>
+<item>Describe a soil profile</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idm75787760">Plants obtain inorganic elements from the soil, which serves as a natural medium for land plants. <term>Soil</term> is the outer loose layer that covers the surface of Earth. Soil quality is a major determinant, along with climate, of plant distribution and growth. Soil quality depends not only on the chemical composition of the soil, but also the topography (regional surface features) and the presence of living organisms. In agriculture, the history of the soil, such as the cultivating practices and previous crops, modify the characteristics and fertility of that soil.</para>
+<para id="fs-idp92131984">Soil develops very slowly over long periods of time, and its formation results from natural and environmental forces acting on mineral, rock, and organic compounds. Soils can be divided into two groups: <term>organic soils</term> are those that are formed from sedimentation and primarily composed of organic matter, while those that are formed from the weathering of rocks and are primarily composed of inorganic material are called <term>mineral soils</term>. Mineral soils are predominant in terrestrial ecosystems, where soils may be covered by water for part of the year or exposed to the atmosphere.</para>
+<section id="fs-idm122071040">
+<title>Soil Composition</title>
+<para id="fs-idm86116256">Soil consists of these major components (<link target-id="fig-ch31_02_01" document=""/>):</para>
+<list id="fs-idm20861600">
+<item>inorganic mineral matter, about 40 to 45 percent of the soil volume</item>
+<item>organic matter, about 5 percent of the soil volume</item>
+<item>water and air, about 50 percent of the soil volume</item>
+</list>
+<para id="fs-idp68595664">The amount of each of the four major components of soil depends on the amount of vegetation, soil compaction, and water present in the soil. A good healthy soil has sufficient air, water, minerals, and organic material to promote and sustain plant life.</para>
+<note id="fs-idp92229216" class="art-connection"><label/><title>Art Connection</title>
+<figure id="fig-ch31_02_01"><media id="fs-idm13609904" alt=" Illustration shows a pie graph that outlines the composition of soil. Forty-five percent is inorganic mineral matter, 25 percent is water, 25 percent is air, and 5 percent is organic matter, including microorganisms and macroorganisms.">
+<image mime-type="image/png" src="Figure_31_02_01.png" width="305"/>
+</media>
+
+<caption>The four major components of soil are shown: inorganic minerals, organic matter, water, and air.</caption></figure><para id="fs-idp94466288">Soil compaction can result when soil is compressed by heavy machinery or even foot traffic. How might this compaction change the soil composition?</para>
+<!--<para id="fs-idm51398880"><link target-id="fig-ch31_02_01" document=""/>The air content of the soil decreases.</para>-->
+</note><para id="fs-idm88922480">The organic material of soil, called <term>humus</term>, is made up of microorganisms (dead and alive), and dead animals and plants in varying stages of decay. Humus improves soil structure and provides plants with water and minerals. The inorganic material of soil consists of rock, slowly broken down into smaller particles that vary in size. Soil particles that are 0.1 to 2 mm in diameter are <term>sand</term>. Soil particles between 0.002 and 0.1&#160;mm are called <term>silt</term>, and even smaller particles, less than 0.002 mm in diameter, are called <term>clay</term>. Some soils have no dominant particle size and contain a mixture of sand, silt, and humus; these soils are called <term>loams</term>.</para>
+<note id="fs-idp957920" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idm61482432" alt="QR Code representing a URL">
+<image mime-type="image/png" src="soil_survey_map.png" width="120"/>
+</media>
+<para id="fs-idm1764656">Explore this <link window="new" url="http://openstaxcollege.org/l/soil_survey_map">interactive map</link> from the USDA&#8217;s National Cooperative Soil Survey to access soil data for almost any region in the United States.</para>
+</note></section>
+<section id="fs-idm92717632">
+<title>Soil Formation</title>
+<para id="fs-idm92332624">Soil formation is the consequence of a combination of biological, physical, and chemical processes. Soil should ideally contain 50 percent solid material and 50 percent pore space. About one-half of the pore space should contain water, and the other half should contain air. The organic component of soil serves as a cementing agent, returns nutrients to the plant, allows soil to store moisture, makes soil tillable for farming, and provides energy for soil microorganisms. Most soil microorganisms&#8212;bacteria, algae, or fungi&#8212;are dormant in dry soil, but become active once moisture is available.</para>
+<para id="fs-idm61091136">Soil distribution is not homogenous because its formation results in the production of layers; together, the vertical section of a soil is called the <term>soil profile</term>. Within the soil profile, soil scientists define zones called horizons. A <term>horizon</term> is a soil layer with distinct physical and chemical properties that differ from those of other layers. Five factors account for soil formation: parent material, climate, topography, biological factors, and time.</para><section id="fs-idm89960448">
+<title>Parent Material</title>
+<para id="fs-idm1756192">The organic and inorganic material in which soils form is the <term>parent material</term>. Mineral soils form directly from the weathering of <term>bedrock</term>, the solid rock that lies beneath the soil, and therefore, they have a similar composition to the original rock. Other soils form in materials that came from elsewhere, such as sand and glacial drift. Materials located in the depth of the soil are relatively unchanged compared with the deposited material. Sediments in rivers may have different characteristics, depending on whether the stream moves quickly or slowly. A fast-moving river could have sediments of rocks and sand, whereas a slow-moving river could have fine-textured material, such as clay.</para>
+</section>
+<section id="fs-idp27656048">
+<title>Climate</title>
+<para id="fs-idm32351136">Temperature, moisture, and wind cause different patterns of weathering and therefore affect soil characteristics. The presence of moisture and nutrients from weathering will also promote biological activity: a key component of a quality soil.</para>
+</section>
+<section id="fs-idp73414688">
+<title>Topography</title>
+<para id="fs-idp77262848">Regional surface features (familiarly called &#8220;the lay of the land&#8221;) can have a major influence on the characteristics and fertility of a soil. Topography affects water runoff, which strips away parent material and affects plant growth. Steeps soils are more prone to erosion and may be thinner than soils that are relatively flat or level.</para>
+</section>
+<section id="fs-idp22052656">
+<title>Biological factors</title>
+<para id="fs-idp91477184">The presence of living organisms greatly affects soil formation and structure. Animals and microorganisms can produce pores and crevices, and plant roots can penetrate into crevices to produce more fragmentation. Plant secretions promote the development of microorganisms around the root, in an area known as the <term>rhizosphere</term>. Additionally, leaves and other material that fall from plants decompose and contribute to soil composition.</para>
+</section>
+<section id="fs-idp3692064">
+<title>Time</title>
+<para id="fs-idm35248608">Time is an important factor in soil formation because soils develop over long periods. Soil formation is a dynamic process. Materials are deposited over time, decompose, and transform into other materials that can be used by living organisms or deposited onto the surface of the soil.</para></section>
+</section>
+<section id="fs-idm58959248">
+<title>Physical Properties of the Soil</title>
+<para id="fs-idm46969520">Soils are named and classified based on their horizons. The soil profile has four distinct layers: 1) O horizon; 2) A horizon; 3) B horizon, or subsoil; and 4) C horizon, or soil base (<link target-id="fig-ch31_02_02" document=""/>). The <term>O horizon</term> has freshly decomposing organic matter&#8212;humus&#8212;at its surface, with decomposed vegetation at its base. Humus enriches the soil with nutrients and enhances soil moisture retention. Topsoil&#8212;the top layer of soil&#8212;is usually two to three inches deep, but this depth can vary considerably. For instance, river deltas like the Mississippi River delta have deep layers of topsoil. Topsoil is rich in organic material; microbial processes occur there, and it is the &#8220;workhorse&#8221; of plant production. The <term>A horizon</term> consists of a mixture of organic material with inorganic products of weathering, and it is therefore the beginning of true mineral soil. This horizon is typically darkly colored because of the presence of organic matter. In this area, rainwater percolates through the soil and carries materials from the surface. The <term>B&#160;horizon</term> is an accumulation of mostly fine material that has moved downward, resulting in a dense layer in the soil. In some soils, the B horizon contains nodules or a layer of calcium carbonate. The <term>C horizon</term>, or soil base, includes the parent material, plus the organic and inorganic material that is broken down to form soil. The parent material may be either created in its natural place, or transported from elsewhere to its present location. Beneath the C horizon lies bedrock.</para>
+<note id="fs-idm58951232" class="art-connection"><label/><title>Art Connection</title>
+<figure id="fig-ch31_02_02"><media id="fs-idm127832816" alt=" Illustration shows a cross-section of soil layers, or horizons. The top layer, from zero to two inches, is the O horizon. The O horizon is a rich, deep brown color. From two to ten inches is the A horizon. This layer is slightly lighter in color than the O horizon, and extensive root systems are visible. From ten to thirty inches is the B horizon. The B horizon is reddish brown. Longer roots extend to the bottom of this layer. The C  horizon extends from 30 to 48 inches. This layer is rocky and devoid of roots.">
+<image mime-type="image/png" src="Figure_31_02_02.png" width="285"/>
+</media>
+
+<caption>This soil profile shows the different soil layers (O horizon, A horizon, B horizon, and C horizon) found in typical soils. (credit: modification of work by USDA)</caption></figure><para id="fs-idm90918144">Which horizon is considered the topsoil, and which is considered the subsoil?</para>
+<!--<para id="fs-idm28946720"><link target-id="fig-ch31_02_02" document=""/>The A horizon is the topsoil, and the B horizon is subsoil.</para>-->
+</note><para id="fs-idm90711008">Some soils may have additional layers, or lack one of these layers. The thickness of the layers is also variable, and depends on the factors that influence soil formation. In general, immature soils may have O, A, and C horizons, whereas mature soils may display all of these, plus additional layers (<link target-id="fig-ch31_02_03" document=""/>).</para>
+<figure id="fig-ch31_02_03"><media id="fs-idp95214496" alt=" In the photo, soil has been cut away to reveal the soil profile. The O horizon is at the soil surface and is a rich black color. The brown A horizon starts beneath the O horizon and extends to about two-and-a-half feet beneath the surface. The B horizon is reddish brown and extends from the bottom of the A horizon to about two feet deep. The C horizon extends from the bottom of the B horizon to the bottom of the photo at a depth of four feet. The C horizon is light brown and has a coarser consistency than the A or B horizons.">
+<image mime-type="image/jpg" src="Figure_31_02_03.jpg" width="305"/>
+</media>
+
+<caption>The San Joaquin soil profile has an O horizon, A horizon, B horizon, and C horizon. (credit: modification of work by USDA)</caption></figure><note id="fs-idm61608448" class="career"><label/><title>Career Connections</title>
+<para id="fs-idp17240768"><title>Soil Scientist</title>A soil scientist studies the biological components, physical and chemical properties, distribution, formation, and morphology of soils. Soil scientists need to have a strong background in physical and life sciences, plus a foundation in mathematics. They may work for federal or state agencies, academia, or the private sector. Their work may involve collecting data, carrying out research, interpreting results, inspecting soils, conducting soil surveys, and recommending soil management programs.</para>
+<figure id="fig-ch31_02_04" class=" "><media id="fs-idp49908624" alt=" Photo shows a man standing next to a wall of soil in a pit that is as deep as he is tall.">
+<image mime-type="image/jpg" src="Figure_31_02_04.jpg" width="275"/>
+</media>
+<caption>This soil scientist is studying the horizons and composition of soil at a research site. (credit: USDA)</caption></figure><para id="fs-idp43896176">Many soil scientists work both in an office and in the field. According to the United States Department of Agriculture (USDA): &#8220;a soil scientist needs good observation skills to analyze and determine the characteristics of different types of soils. Soil types are complex and the geographical areas a soil scientist may survey are varied. Aerial photos or various satellite images are often used to research the areas. Computer skills and geographic information systems (GIS) help the scientist to analyze the multiple facets of geomorphology, topography, vegetation, and climate to discover the patterns left on the landscape.&#8221;<sup><footnote id="fs-idp35213280">National Resources Conservation Service / United States Department of Agriculture. &#8220;Careers in Soil Science.&#8221; http://soils.usda.gov/education/facts/careers.html</footnote></sup> Soil scientists play a key role in understanding the soil&#8217;s past, analyzing present conditions, and making recommendations for future soil-related practices.</para>
+</note></section>
+<section id="fs-idm90623680" class="summary">
+<title>Section Summary</title><para id="fs-idm86249504">Plants obtain mineral nutrients from the soil. Soil is the outer loose layer that covers the surface of Earth. Soil quality depends on the chemical composition of the soil, the topography, the presence of living organisms, the climate, and time. Agricultural practice and history may also modify the characteristics and fertility of soil. Soil consists of four major components: 1) inorganic mineral matter, 2) organic matter, 3) water and air, and 4) living matter. The organic material of soil is made of humus, which improves soil structure and provides water and minerals. Soil inorganic material consists of rock slowly broken down into smaller particles that vary in size, such as sand, silt, and loam.</para>
+<para id="fs-idm107252672">Soil formation results from a combination of biological, physical, and chemical processes. Soil is not homogenous because its formation results in the production of layers called a soil profile. Factors that affect soil formation include: parent material, climate, topography, biological factors, and time. Soils are classified based on their horizons, soil particle size, and proportions. Most soils have four distinct horizons: O, A, B, and C.</para>
+</section>
+<section id="fs-idm60459312" class="art-exercise">
+<title>Art Connections</title>
+<exercise id="fs-idp43828064">
+<problem id="fs-idp22304368">
+<para id="fs-idp68673904"><link target-id="fig-ch31_02_01" document=""/> Soil compaction can result when soil is compressed by heavy machinery or even foot traffic. How might this compaction change the soil composition?</para>
+</problem>
+<solution id="fs-idp36599248">
+<label/>
+<para id="fs-idm47548160"><link target-id="fig-ch31_02_01" document=""/> The air content of the soil decreases.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm55138880">
+<problem id="fs-idp41601776">
+<para id="fs-idp10316080"><link target-id="fig-ch31_02_02" document=""/> Which horizon is considered the topsoil, and which is considered the subsoil?</para>
+</problem>
+<solution id="fs-idp41608816">
+<label/>
+<para id="fs-idm38918944"><link target-id="fig-ch31_02_02" document=""/> The A horizon is the topsoil, and the B horizon is subsoil.</para></solution>
+</exercise>
+</section>
+<section id="fs-idm102770576" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm8094880">
+<problem id="fs-idm40658080">
+<para id="fs-idp34497456">Which factors affect soil quality?</para>
+<list id="fs-idm41529232" list-type="enumerated" number-style="lower-alpha">
+<item>chemical composition</item>
+<item>history of the soil</item>
+<item>presence of living organisms and topography</item>
+<item>all of the above</item>
+</list>
+</problem>
+<solution id="fs-idp6814704">
+<label/>
+<para id="fs-idm67148592">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idp1445456">
+<problem id="fs-idm36596800">
+<para id="fs-idm124825024">Soil particles that are 0.1 to 2 mm in diameter are called ________.</para>
+<list id="fs-idm47462784" list-type="enumerated" number-style="lower-alpha">
+<item>sand</item>
+<item>silt</item>
+<item>clay</item>
+<item>loam</item>
+</list>
+</problem>
+<solution id="fs-idm30211792">
+<label/>
+<para id="fs-idm88091840">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idp9669392">
+<problem id="fs-idm89428192">
+<para id="fs-idp187920512">A soil consists of layers called ________ that taken together are called a ________.</para>
+<list id="fs-idm58043840" list-type="enumerated" number-style="lower-alpha">
+<item>soil profiles : horizon</item>
+<item>horizons : soil profile</item>
+<item>horizons : humus</item>
+<item>humus : soil profile</item>
+</list>
+</problem>
+<solution id="fs-idp17607072">
+<label/>
+<para id="fs-idm47930160">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idp26322320">
+<problem id="fs-idp88927504">
+<para id="fs-idm91500352">What is the term used to describe the solid rock that lies beneath the soil?</para>
+<list id="fs-idm22376096" list-type="enumerated" number-style="lower-alpha">
+<item>sand</item>
+<item>bedrock</item>
+<item>clay</item>
+<item>loam</item>
+</list>
+</problem>
+<solution id="fs-idp47628176">
+<label/>
+<para id="fs-idm111386736">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm54747200" class="free-response">
+<exercise id="fs-idp48933904"><problem id="fs-idp72358464">
+<para id="fs-idm94123792">Describe the main differences between a mineral soil and an organic soil.</para>
+</problem>
+<solution id="fs-idm92209680">
+<label/>
+<para id="fs-idm87626304">A mineral soil forms from the weathering of rocks; it is inorganic material. An organic soil is formed from sedimentation; it mostly consists of humus.</para>
+</solution>
+</exercise><exercise id="fs-idp76153840"><problem id="fs-idp114664336">
+<para id="fs-idm38140752">Name and briefly explain the factors that affect soil formation.</para>
+</problem>
+<solution id="fs-idp43645392">
+<label/>
+<para id="fs-idp131124672">Parent material, climate, topography, biological factors, and time affect soil formation. Parent material is the material in which soils form. Climate describes how temperature, moisture, and wind cause different patterns of weathering, influencing the characteristics of the soil. Topography affects the characteristics and fertility of a soil. Biological factors include the presence of living organisms that greatly affect soil formation. Processes such as freezing and thawing may produce cracks in rocks; plant roots can penetrate these crevices and produce more fragmentation. Time affects soil because soil develops over long periods.</para></solution>
+</exercise><exercise id="fs-idm94008144"><problem id="fs-idm91481600">
+<para id="fs-idm4557664">Describe how topography influences the characteristics and fertility of a soil.</para>
+</problem>
+<solution id="fs-idm92602016">
+<label/>
+<para id="fs-idp48263136">Topography affects water runoff, which strips away parent material and affects plant growth. Steeps soils are more prone to erosion and may be thinner than soils that are on level surfaces.</para>
+</solution>
+</exercise></section>
+</content>
+<glossary>
+<definition id="fs-idm89696448">
+<term>A horizon</term> <meaning id="fs-idm67888016">consists of a mixture of organic material with inorganic products of weathering</meaning>
+</definition>
+<definition id="fs-idm34257216">
+<term>B horizon</term> <meaning id="fs-idp63710528">soil layer that is an accumulation of mostly fine material that has moved downward</meaning>
+</definition>
+<definition id="fs-idp6479344">
+<term>bedrock</term> <meaning id="fs-idp90431600">solid rock that lies beneath the soil</meaning>
+</definition>
+<definition id="fs-idm1221136">
+<term>C horizon</term> <meaning id="fs-idp386336">layer of soil that contains the parent material, and the organic and inorganic material that is broken down to form soil; also known as the soil base</meaning>
+</definition>
+<definition id="fs-idm6536720">
+<term>clay</term> <meaning id="fs-idp9995504">soil particles that are less than 0.002 mm in diameter</meaning>
+</definition>
+<definition id="fs-idm34261776">
+<term>horizon</term> <meaning id="fs-idm101756240">soil layer with distinct physical and chemical properties, which differs from other layers depending on how and when it was formed</meaning>
+</definition>
+<definition id="fs-idp6574448">
+<term>humus</term> <meaning id="fs-idm46251152">organic material of soil; made up of microorganisms, dead animals and plants in varying stages of decay</meaning>
+</definition>
+<definition id="fs-idp72344624">
+<term>loam</term> <meaning id="fs-idp8391744">soil that has no dominant particle size</meaning>
+</definition>
+<definition id="fs-idm52132432">
+<term>mineral soil</term> <meaning id="fs-idp37587904">type of soil that is formed from the weathering of rocks and inorganic material; composed primarily of sand, silt, and clay</meaning>
+</definition>
+<definition id="fs-idp77120736">
+<term>O horizon</term> <meaning id="fs-idp36977776">layer of soil with humus at the surface and decomposed vegetation at the base</meaning>
+</definition>
+<definition id="fs-idp23039456">
+<term>organic soil</term> <meaning id="fs-idp10407568">type of soil that is formed from sedimentation; composed primarily of organic material</meaning>
+</definition>
+<definition id="fs-idm102965680">
+<term>parent material</term> <meaning id="fs-idp21980912">organic and inorganic material in which soils form</meaning>
+</definition>
+<definition id="fs-idp14317296">
+<term>rhizosphere</term> <meaning id="fs-idm70614816">area of soil affected by root secretions and microorganisms</meaning>
+</definition>
+<definition id="fs-idm56389120">
+<term>sand</term> <meaning id="fs-idm89785632">soil particles between 0.1&#8211;2 mm in diameter</meaning>
+</definition>
+<definition id="fs-idp41027568">
+<term>silt</term> <meaning id="fs-idp43793776">soil particles between 0.002 and 0.1 mm in diameter</meaning>
+</definition>
+<definition id="fs-idp36961344">
+<term>soil profile</term> <meaning id="fs-idp78381120">vertical section of a soil</meaning>
+</definition>
+<definition id="fs-idm42319056">
+<term>soil</term> <meaning id="fs-idm68662832">outer loose layer that covers the surface of Earth</meaning>
+</definition>
+</glossary>
+</document>

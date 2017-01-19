@@ -1,0 +1,225 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Terrestrial Biomes</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44858/latest/</md:content-url>
+  <md:content-id>m44858</md:content-id>
+  <md:title>Terrestrial Biomes</md:title>
+  <md:version>1.4</md:version>
+  <md:created>2012/08/23 16:09:09 -0500</md:created>
+  <md:revised>2013/06/21 10:31:30.054 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>arctic tundra</md:keyword>
+    <md:keyword>biosphere</md:keyword>
+    <md:keyword>boreal forest</md:keyword>
+    <md:keyword>canopy</md:keyword>
+    <md:keyword>chaparral</md:keyword>
+    <md:keyword>ecology</md:keyword>
+    <md:keyword>permafrost</md:keyword>
+    <md:keyword>subtropical desert</md:keyword>
+    <md:keyword>temperate forest</md:keyword>
+    <md:keyword>temperate grassland</md:keyword>
+    <md:keyword>terrestrial biome</md:keyword>
+    <md:keyword>terrestrial environment</md:keyword>
+    <md:keyword>tropical wet forest</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Identify the two major abiotic factors that determine terrestrial biomes</item>
+<item>Recognize distinguishing characteristics of each of the eight major terrestrial biomes</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idp217595936">The Earth&#8217;s biomes are categorized into two major groups: terrestrial and aquatic. Terrestrial biomes are based on land, while aquatic biomes include both ocean and freshwater biomes. The eight major terrestrial biomes on Earth are each distinguished by characteristic temperatures and amount of precipitation. Comparing the annual totals of precipitation and fluctuations in precipitation from one biome to another provides clues as to the importance of abiotic factors in the distribution of biomes. Temperature variation on a daily and seasonal basis is also important for predicting the geographic distribution of the biome and the vegetation type in the biome. The distribution of these biomes shows that the same biome can occur in geographically distinct areas with similar climates (<link target-id="fig-ch44_03_01" document=""/>).</para>
+<note id="fs-idp166945584" class="art-connection"><label/><title>Art Connection</title>
+<figure id="fig-ch44_03_01" class=" "><media id="fs-idp150626608" alt=" This world map shows the eight major biomes, polar ice, and mountains. Tropical forests, deserts and savannas are found primarily in South America, Africa, and Australia. Tropical forests also dominate Southeast Asia. Deserts dominate the Middle East and are found in the southwestern United States. Temperate forests dominate the eastern United States, Europe, and Eastern Asia. Temperate grasslands dominate the midwestern United States and parts of Asia, and are also found in South America. The boreal forest is found in northern Canada, Europe, and Asia, and tundra exists to the north of the boreal forest. Mountainous regions run the length of North and South America, and are found in northern India, Africa, and parts of Europe. Polar ice covers Greenland and Antarctica, which the latter is not shown on the map.">
+<image mime-type="image/png" src="Figure_44_03_01.png" width="500"/>
+</media>
+<caption>Each of the world&#8217;s major biomes is distinguished by characteristic temperatures and amounts of precipitation. Polar ice and mountains are also shown.</caption></figure><para id="fs-idp79388400">Which of the following statements about biomes is false?</para>
+<list id="fs-idm138704384" list-type="enumerated" number-style="lower-alpha">
+<item>Chaparral is dominated by shrubs.</item>
+<item>Savannas and temperate grasslands are dominated by grasses.</item>
+<item>Boreal forests are dominated by deciduous trees.</item>
+<item>Lichens are common in the arctic tundra.</item>
+</list>
+<!--<para><link target-id="fig-ch44_03_01" document=""/>C. Boreal forests are not dominated by deciduous trees.</para>-->
+</note><section id="fs-idm34970432">
+<title>Tropical Wet Forest</title>
+<para id="fs-idp159065792">Tropical wet forests are also referred to as tropical rainforests. This biome is found in equatorial regions (<link target-id="fig-ch44_03_01" document=""/>). The vegetation is characterized by plants with broad leaves that fall off throughout the year. Unlike the trees of deciduous forests, the trees in this biome do not have a seasonal loss of leaves associated with variations in temperature and sunlight; these forests are &#8220;evergreen&#8221; year-round.</para>
+<para id="fs-idp155421824">The temperature and sunlight profiles of tropical wet forests are very stable in comparison to that of other terrestrial biomes, with the temperatures ranging from 20 &#176;C to 34 &#176;C (68 &#176;F to 93 &#176;F). When one compares the annual temperature variation of tropical wet forests with that of other forest biomes, the lack of seasonal temperature variation in the tropical wet forest becomes apparent. This lack of seasonality leads to year-round plant growth, rather than the seasonal (spring, summer, and fall) growth seen in other biomes. In contrast to other ecosystems, tropical ecosystems do not have long days and short days during the yearly cycle. Instead, a constant daily amount of sunlight (11&#8211;12 hrs per day) provides more solar radiation, thereby, a longer period of time for plant growth.</para><para id="fs-idp725760">The annual rainfall in tropical wet forests ranges from 125 to 660 cm (50&#8211;200 in) with some monthly variation. While sunlight and temperature remain fairly consistent, annual rainfall is highly variable. Tropical wet forests have wet months in which there can be more than 30 cm (11&#8211;12 in) of precipitation, as well as dry months in which there are fewer than 10 cm (3.5 in) of rainfall. However, the driest month of a tropical wet forest still exceeds the <emphasis effect="italics">annual</emphasis> rainfall of some other biomes, such as deserts.</para>
+<para id="fs-idp226992032">Tropical wet forests have high net primary productivity because the annual temperatures and precipitation values in these areas are ideal for plant growth. Therefore, the extensive biomass present in the tropical wet forest leads to plant communities with very high species diversities (<link target-id="fig-ch44_03_02" document=""/>). Tropical wet forests have more species of trees than any other biome; on average between 100 and 300 species of trees are present in a single hectare (2.5 acres) of South America. One way to visualize this is to compare the distinctive horizontal layers within the tropical wet forest biome. On the forest floor is a sparse layer of plants and decaying plant matter. Above that is an understory of short shrubby foliage. A layer of trees rises above this understory and is topped by a closed upper <term>canopy</term>&#8212;the uppermost overhead layer of branches and leaves. Some additional trees emerge through this closed upper canopy. These layers provide diverse and complex habitats for the variety of plants, fungi, animals, and other organisms within the tropical wet forests. For instance, epiphytes are plants that grow on other plants, which typically are not harmed. Epiphytes are found throughout tropical wet forest biomes. Many species of animals use the variety of plants and the complex structure of the tropical wet forests for food and shelter. Some organisms live several meters above ground and have adapted to this arboreal lifestyle.</para><figure id="fig-ch44_03_02" class=" "><media id="fs-idp77622176" alt=" This photo depicts a section of the Amazon River, which is brown with mud. Trees line the edge of the river.">
+<image mime-type="image/jpg" src="Figure_44_03_02.jpg" width="320"/>
+</media>
+<caption>Tropical wet forests, such as these forests of Madre de Dios, Peru, near the Amazon River, have high species diversity. (credit: Roosevelt Garcia)</caption></figure></section>
+<section id="fs-idp223482624">
+<title>Savannas</title>
+<para id="fs-idp86616816">Savannas are grasslands with scattered trees, and they are located in Africa, South America, and northern Australia (<link target-id="fig-ch44_03_01" document=""/>). Savannas are hot, tropical areas with temperatures averaging from 24 &#176;C to 29 &#176;C (75 &#176;F to 84 &#176;F) and an annual rainfall of 10&#8211;40 cm (3.9&#8211;15.7 in). Savannas have an extensive dry season; for this reason, forest trees do not grow as well as they do in the tropical wet forest (or other forest biomes). As a result, within the grasses and forbs (herbaceous flowering plants) that dominate the savanna, there are relatively few trees (<link target-id="fig-ch44_03_03" document=""/>). Since fire is an important source of disturbance in this biome, plants have evolved well-developed root systems that allow them to quickly re-sprout after a fire.</para><figure id="fig-ch44_03_03" class=" "><media id="fs-idp77247312" alt=" A grassy slope plain is dotted with small trees.">
+<image mime-type="image/jpg" src="Figure_44_03_03.jpg" width="320"/>
+</media>
+<caption>Savannas, like this one in Taita Hills Wildlife Sanctuary in Kenya, are dominated by grasses. (credit: Christopher T. Cooper)</caption></figure></section>
+<section id="fs-idp117442048">
+<title>Subtropical Deserts</title>
+<para id="fs-idm67333472">Subtropical deserts exist between 15 &#176; and 30 &#176; north and south latitude and are centered on the Tropics of Cancer and Capricorn (<link target-id="fig-ch44_03_01" document=""/>). This biome is very dry; in some years, evaporation exceeds precipitation. Subtropical hot deserts can have daytime soil surface temperatures above 60 &#176;C (140 &#176;F) and nighttime temperatures approaching 0 &#176;C (32 &#176;F). In cold deserts, temperatures can be as high as 25 &#176;C and can drop below -30 &#176;C (-22 &#176;F). Subtropical deserts are characterized by low annual precipitation of fewer than 30 cm (12 in) with little monthly variation and lack of predictability in rainfall. In some cases, the annual rainfall can be as low as 2 cm (0.8 in) in subtropical deserts located in central Australia (&#8220;the Outback&#8221;) and northern Africa.</para><para id="fs-idm115844800">The vegetation and low animal diversity of this biome is closely related to this low and unpredictable precipitation. Very dry deserts lack perennial vegetation that lives from one year to the next; instead, many plants are annuals that grow quickly and reproduce when rainfall does occur, then they die. Many other plants in these areas are characterized by having a number of adaptations that conserve water, such as deep roots, reduced foliage, and water-storing stems (<link target-id="fig-ch44_03_04" document=""/>). Seed plants in the desert produce seeds that can be in dormancy for extended periods between rains. Adaptations in desert animals include nocturnal behavior and burrowing.</para>
+<figure id="fig-ch44_03_04" class=" "><media id="fs-idp178414400" alt=" This photo shows a sandy desert dotted with scrubby bushes. An ocotillo plant dominates the picture. It has long, thin unbranched stems that grow straight up from the base of the plant and radiate out slightly. The plant has no leaves.">
+<image mime-type="image/jpg" src="Figure_44_03_04.jpg" width="255"/>
+</media>
+<caption>To reduce water loss, many desert plants have tiny leaves or no leaves at all. The leaves of ocotillo (<emphasis effect="italics">Fouquieria splendens</emphasis>), shown here in the Sonora Desert near Gila Bend, Arizona, appear only after rainfall, and then are shed.</caption></figure></section>
+<section id="fs-idp83341856">
+<title>Chaparral</title>
+<para id="fs-idp28493840">The chaparral is also called the scrub forest and is found in California, along the Mediterranean Sea, and along the southern coast of Australia (<link target-id="fig-ch44_03_01" document=""/>). The annual rainfall in this biome ranges from 65 cm to 75 cm (25.6&#8211;29.5 in), and the majority of the rain falls in the winter. Summers are very dry and many chaparral plants are dormant during the summertime. The chaparral vegetation, shown in <link target-id="fig-ch44_03_05" document=""/>, is dominated by shrubs and is adapted to periodic fires, with some plants producing seeds that only germinate after a hot fire. The ashes left behind after a fire are rich in nutrients like nitrogen that fertilize the soil and promote plant regrowth.</para>
+<figure id="fig-ch44_03_05" class=" "><media id="fs-idm49416000" alt=" Photo depicts a landscape with many shrubs, dormant grass, a few trees, and mountains in the background.">
+<image mime-type="image/jpg" src="Figure_44_03_05.jpg" width="320"/>
+</media>
+<caption>The chaparral is dominated by shrubs. (credit: Miguel Vieira)</caption></figure></section>
+<section id="fs-idm40728144">
+<title>Temperate Grasslands</title>
+<para id="fs-idp172100528">Temperate grasslands are found throughout central North America, where they are also known as prairies; they are also in Eurasia, where they are known as steppes (<link target-id="fig-ch44_03_01" document=""/>). Temperate grasslands have pronounced annual fluctuations in temperature with hot summers and cold winters. The annual temperature variation produces specific growing seasons for plants. Plant growth is possible when temperatures are warm enough to sustain plant growth and when ample water is available, which occurs in the spring, summer, and fall. During much of the winter, temperatures are low, and water, which is stored in the form of ice, is not available for plant growth.</para>
+<para id="fs-idm6655440">Annual precipitation ranges from 25 cm to 75 cm (9.8&#8211;29.5 in). Because of relatively lower annual precipitation in temperate grasslands, there are few trees except for those found growing along rivers or streams. The dominant vegetation tends to consist of grasses and some prairies sustain populations of grazing animals <link target-id="fig-ch44_03_06" document=""/>. The vegetation is very dense and the soils are fertile because the subsurface of the soil is packed with the roots and rhizomes (underground stems) of these grasses. The roots and rhizomes act to anchor plants into the ground and replenish the organic material (humus) in the soil when they die and decay.</para>
+<figure id="fig-ch44_03_06" class=" "><media id="fs-idm135133664" alt=" This photo shows a bison, which is dark brown in color with an even darker head. The hind part of the animal has short fur, and the front of the animal has longer, curly fur.">
+<image mime-type="image/jpg" src="Figure_44_03_06.jpg" width="320"/>
+</media>
+<caption>The American bison (<emphasis effect="italics">Bison bison</emphasis>), more commonly called the buffalo, is a grazing mammal that once populated American prairies in huge numbers. (credit: Jack Dykinga, USDA Agricultural Research Service)</caption></figure><para id="fs-idp18442704">Fires, mainly caused by lightning, are a natural disturbance in temperate grasslands. When fire is suppressed in temperate grasslands, the vegetation eventually converts to scrub and dense forests. Often, the restoration or management of temperate grasslands requires the use of controlled burns to suppress the growth of trees and maintain the grasses.</para>
+</section>
+<section id="fs-idp19162496">
+<title>Temperate Forests</title>
+<para id="fs-idp19484864">Temperate forests are the most common biome in eastern North America, Western Europe, Eastern Asia, Chile, and New Zealand (<link target-id="fig-ch44_03_01" document=""/>). This biome is found throughout mid-latitude regions. Temperatures range between -30 &#176;C and 30 &#176;C (-22 &#176;F to 86 &#176;F) and drop to below freezing on an annual basis. These temperatures mean that temperate forests have defined growing seasons during the spring, summer, and early fall. Precipitation is relatively constant throughout the year and ranges between 75 cm and 150 cm (29.5&#8211;59 in).</para><para id="fs-idm115850704">Because of the moderate annual rainfall and temperatures, deciduous trees are the dominant plant in this biome (<link target-id="fig-ch44_03_07" document=""/>). Deciduous trees lose their leaves each fall and remain leafless in the winter. Thus, no photosynthesis occurs in the deciduous trees during the dormant winter period. Each spring, new leaves appear as the temperature increases. Because of the dormant period, the net primary productivity of temperate forests is less than that of tropical wet forests. In addition, temperate forests show less diversity of tree species than tropical wet forest biomes.</para>
+<figure id="fig-ch44_03_07" class=" "><media id="fs-idp132162544" alt=" Photo shows a deciduous forest with many tall trees, some smaller trees and grass, and lots of dead leaves on the forest floor. Sunlight filters down to the forest floor.">
+<image mime-type="image/jpg" src="Figure_44_03_07.jpg" width="320"/>
+</media>
+<caption>Deciduous trees are the dominant plant in the temperate forest. (credit: Oliver Herold)</caption></figure><para id="fs-idp30401904">The trees of the temperate forests leaf out and shade much of the ground; however, this biome is more open than tropical wet forests because trees in the temperate forests do not grow as tall as the trees in tropical wet forests. The soils of the temperate forests are rich in inorganic and organic nutrients. This is due to the thick layer of leaf litter on forest floors. As this leaf litter decays, nutrients are returned to the soil. The leaf litter also protects soil from erosion, insulates the ground, and provides habitats for invertebrates (such as the pill bug or roly-poly, <emphasis effect="italics">Armadillidium  vulgare</emphasis>) and their predators, such as the red-backed salamander (<emphasis effect="italics">Plethodon cinereus</emphasis>).</para>
+</section>
+<section id="fs-idp82747056">
+<title>Boreal Forests</title>
+<para id="fs-idp217367728">The boreal forest, also known as taiga or coniferous forest, is found south of the Arctic Circle and across most of Canada, Alaska, Russia, and northern Europe (<link target-id="fig-ch44_03_01" document=""/>). This biome has cold, dry winters and short, cool, wet summers. The annual precipitation is from 40 cm to 100 cm (15.7&#8211;39 in) and usually takes the form of snow. Little evaporation occurs because of the cold temperatures.</para>
+<para id="fs-idp82346016">The long and cold winters in the boreal forest have led to the predominance of cold-tolerant cone-bearing plants. These are evergreen coniferous trees like pines, spruce, and fir, which retain their needle-shaped leaves year-round. Evergreen trees can photosynthesize earlier in the spring than deciduous trees because less energy from the sun is required to warm a needle-like leaf than a broad leaf. This benefits evergreen trees, which grow faster than deciduous trees in the boreal forest. In addition, soils in boreal forest regions tend to be acidic with little available nitrogen. Leaves are a nitrogen-rich structure and deciduous trees must produce a new set of these nitrogen-rich structures each year. Therefore, coniferous trees that retain nitrogen-rich needles may have a competitive advantage over the broad-leafed deciduous trees.</para>
+<para id="fs-idp122596640">The net primary productivity of boreal forests is lower than that of temperate forests and tropical wet forests. The aboveground biomass of boreal forests is high because these slow-growing tree species are long lived and accumulate standing biomass over time. Plant species diversity is less than that seen in temperate forests and tropical wet forests. Boreal forests lack the pronounced elements of the layered forest structure seen in tropical wet forests. The structure of a boreal forest is often only a tree layer and a ground layer (<link target-id="fig-ch44_03_08" document=""/>). When conifer needles are dropped, they decompose more slowly than broad leaves; therefore, fewer nutrients are returned to the soil to fuel plant growth.</para>
+<figure id="fig-ch44_03_08" class=" "><media id="fs-idp153730640" alt=" The photo shows a boreal forest with a uniform low layer of plants and tall conifers scattered throughout the landscape. The snowcapped mountains of the Alaska Range are in the background.">
+<image mime-type="image/jpg" src="Figure_44_03_08.jpg" width="320"/>
+</media>
+<caption>The boreal forest (taiga) has low lying plants and conifer trees. (credit: L.B. Brubaker)</caption></figure></section>
+<section id="fs-idp30465312">
+<title>Arctic Tundra</title>
+<para id="fs-idp40898160">The Arctic tundra lies north of the subarctic boreal forest and is located throughout the Arctic regions of the northern hemisphere (<link target-id="fig-ch44_03_01" document=""/>). The average winter temperature is -34 &#176;C (-34 &#176;F) and the average summer temperature is from 3 &#176;C to 12 &#176;C (37 &#176;F&#8211;52 &#176;F). Plants in the arctic tundra have a very short growing season of approximately 10&#8211;12 weeks. However, during this time, there are almost 24 hours of daylight and plant growth is rapid. The annual precipitation of the Arctic tundra is very low with little annual variation in precipitation. And, as in the boreal forests, there is little evaporation due to the cold temperatures.</para><para id="fs-idm26652640">Plants in the Arctic tundra are generally low to the ground (<link target-id="fig-ch44_03_09" document=""/>). There is little species diversity, low net primary productivity, and low aboveground biomass. The soils of the Arctic tundra may remain in a perennially frozen state referred to as <term>permafrost</term>. The permafrost makes it impossible for roots to penetrate deep into the soil and slows the decay of organic matter, which inhibits the release of nutrients from organic matter. During the growing season, the ground of the Arctic tundra can be completely covered with plants or lichens.</para>
+<figure id="fig-ch44_03_09" class=" "><media id="fs-idp207181024" alt=" This photo shows a flat plain covered with shrub. Many of the shrubs are covered in pink flowers.">
+<image mime-type="image/jpg" src="Figure_44_03_09.jpg" width="295"/>
+</media>
+<caption>Low-growing plants such as shrub willow dominate the tundra landscape, shown here in the Arctic National Wildlife Refuge. (credit: USFWS Arctic National Wildlife Refuge)</caption></figure><note id="fs-idp215104368" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idm44329360" alt="QR Code representing a URL">
+<image mime-type="image/png" src="biomes.png" width="120"/>
+</media>
+<para id="fs-idp72503920">Watch this <link window="new" url="http://openstaxcollege.org/l/biomes"><emphasis effect="italics">Assignment Discovery: Biomes</emphasis> video</link> for an overview of biomes. To explore further, select one of the biomes on the extended playlist: desert, savanna, temperate forest, temperate grassland, tropic, tundra.</para>
+</note></section>
+<section id="fs-idp11128016" class="summary">
+<title>Section Summary</title><para id="fs-idp126374208">The Earth has terrestrial biomes and aquatic biomes. Aquatic biomes include both freshwater and marine environments. There are eight major terrestrial biomes: tropical wet forests, savannas, subtropical deserts, chaparral, temperate grasslands, temperate forests, boreal forests, and Arctic tundra. The same biome can occur in different geographic locations with similar climates. Temperature and precipitation, and variations in both, are key abiotic factors that shape the composition of animal and plant communities in terrestrial biomes. Some biomes, such as temperate grasslands and temperate forests, have distinct seasons, with cold weather and hot weather alternating throughout the year. In warm, moist biomes, such as the tropical wet forest, net primary productivity is high, as warm temperatures, abundant water, and a year-round growing season fuel plant growth. Other biomes, such as deserts and tundra, have low primary productivity due to extreme temperatures and a shortage of available water.</para>
+    </section>
+<section id="fs-idp104169184" class="art-exercise">
+    <label/>
+<title>Art Connections</title>
+<exercise id="fs-idp44965632">
+    <problem id="fs-idp102833168">
+<para id="fs-idm3887664"><link target-id="fig-ch44_03_01" document=""/> Which of the following statements about biomes is false?</para>
+<list id="fs-idp107071920" list-type="enumerated" number-style="lower-alpha">
+<item>Chaparral is dominated by shrubs.</item>
+<item>Savannas and temperate grasslands are dominated by grasses.</item>
+<item>Boreal forests are dominated by deciduous trees.</item>
+<item>Lichens are common in the arctic tundra.</item>
+    </list>
+</problem>
+<solution id="fs-idp95719728">
+    <label/>
+    <para id="fs-idp77771248"><link target-id="fig-ch44_03_01" document=""/> C. Boreal forests are not dominated by deciduous trees.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm135013536" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp82347056">
+<problem id="fs-idp227958688"><para id="fs-idp227958816">Which of the following biomes is characterized by abundant water resources?</para>
+<list id="fs-idp103202816" list-type="enumerated" number-style="lower-alpha">
+<item>deserts</item>
+<item>boreal forests</item>
+<item>savannas</item>
+<item>tropical wet forests</item>
+</list>
+</problem>
+<solution id="fs-idm477984">
+<label/>
+<para id="fs-idp78349648">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idp59080928">
+<problem id="fs-idp35408896"><para id="fs-idp247460368">Which of the following biomes is characterized by short growing seasons?</para>
+<list id="fs-idm34321120" list-type="enumerated" number-style="lower-alpha">
+<item>deserts</item>
+<item>tropical wet forests</item>
+<item>Arctic tundras</item>
+<item>savannas</item>
+</list>
+</problem>
+<solution id="fs-idp153609536">
+<label/>
+<para id="fs-idp40569072">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp36661728" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idp32408304">
+<problem id="fs-idp4346640"><para id="fs-idp215564448">The extremely low precipitation of subtropical desert biomes might lead one to expect fire to be a major disturbance factor; however, fire is more common in the temperate grassland biome than in the subtropic desert biome. Why is this?</para></problem>
+<solution id="fs-idp31207744"><label/>
+<para id="fs-idp103131168">Fire is less common in desert biomes than in temperate grasslands because deserts have low net primary productivity and, thus, very little plant biomass to fuel a fire.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp34311808">
+<problem id="fs-idm67699696"><para id="fs-idp156189408">In what ways are the subtropical desert and the arctic tundra similar?</para></problem>
+<solution id="fs-idp199904048"><label/>
+<para id="fs-idp50767392">Both the subtropical desert and the arctic tundra have a low supply of water. In the desert, this is due to extremely low precipitation, and in the arctic tundra, much of the water is unavailable to plants because it is frozen. Both the subtropical desert and the arctic tundra have low net primary productivity.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idp9978272"><term>canopy</term> <meaning id="fs-idp209209792">branches and foliage of trees that form a layer of overhead coverage in a forest</meaning></definition>
+<definition id="fs-idp86593552"><term>permafrost</term> <meaning id="fs-idp60090112">perennially frozen portion of the Arctic tundra soil</meaning></definition>
+</glossary>
+</document>

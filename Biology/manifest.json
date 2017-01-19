@@ -1,0 +1,128 @@
+{
+	"name": "Biology",
+
+	"spine": [{
+			"href": "nav.html",
+			"type": "text/html",
+			"properties": "nav"
+		},{
+			"href": "m44386/index.cnxml.html",
+			"type": "text/html"
+		}, {
+			"href": "m44387/index.cnxml.html",
+			"type": "text/html"
+		}, {
+			"href": "m44388/index.cnxml.html",
+			"type": "text/html"
+		}, {
+			"href": "m44389/index.cnxml.html",
+			"type": "text/html"
+		}, {
+			"href": "m44390/index.cnxml.html",
+			"type": "text/html"
+		}, {
+			"href": "m44392/index.cnxml.html",
+			"type": "text/html"
+		}, {
+			"href": "m44393/index.cnxml.html",
+			"type": "text/html"
+		}, {
+			"href": "m44395/index.cnxml.html",
+			"type": "text/html"
+		}
+	],
+
+	"resources": [
+	{
+			"href": "css/biology.css",
+			"type": "text/css"
+		}, 
+		{
+			"href": "m44386/Figure_01_00_00.jpg",
+			"type": "image/jpeg"
+		}, {
+			"href": "m44387/Figure_01_01_01a.jpg",
+			"type": "image/jpeg"
+		}, {
+			"href": "m44387/Figure_01_01_01b.jpg",
+			"type": "image/jpeg"
+		}, {
+			"href": "m44387/Figure_01_01_02.jpg",
+			"type": "image/jpeg"
+		}, {
+			"href": "m44387/Figure_01_01_03.jpg",
+			"type": "image/jpeg"
+		}, {
+			"href": "m44387/Figure_01_01_04.jpg",
+			"type": "image/jpeg"
+		}, {
+			"href": "m44387/Figure_01_01_05.png",
+			"type": "image/jpeg"
+		}, {
+			"href": "m44387/Figure_01_01_06.jpg",
+			"type": "image/jpeg"
+		}, {
+			"href": "m44387/Figure_01_01_07.jpg",
+			"type": "image/jpeg"
+		}, {
+			"href": "m44387/Figure_01_01_09new.png",
+			"type": "image/jpeg"
+		},
+	
+{"href": "m44388/Figure_01_02_09.jpg", "type": "image/jpeg" },
+{"href": "m44388/Figure_01_02_10.jpg", "type": "image/jpeg" },
+{"href": "m44388/Figure_01_02_11.jpg", "type": "image/jpeg" },
+{"href": "m44388/Figure_01_02_12.jpg", "type": "image/jpeg" },
+{"href": "m44388/Figure_01_02_13.jpg", "type": "image/jpeg" },
+{"href": "m44388/Figure_01_02_14.jpg", "type": "image/jpeg" },
+{"href": "m44388/Figure_01_02_15new.png", "type": "image/png" },
+{"href": "m44388/Figure_01_02_16.jpg", "type": "image/jpeg" },
+{"href": "m44388/Figure_01_02_17a.jpg", "type": "image/jpeg" },
+{"href": "m44388/Figure_01_02_17abcd.png", "type": "image/png" },
+{"href": "m44388/Figure_01_02_17b.jpg", "type": "image/jpeg" },
+{"href": "m44388/Figure_01_02_17c.jpg", "type": "image/jpeg" },
+{"href": "m44388/Figure_01_02_17d.jpg", "type": "image/jpeg" },
+{"href": "m44388/Figure_01_02_18.jpg", "type": "image/jpeg" },
+{"href": "m44388/Figure_01_02_19.jpg", "type": "image/jpeg" },
+{"href": "m44388/movement_plants.png", "type": "image/png" },
+
+{"href": "m44389/Figure_02_00_01.jpg", "type": "image/jpeg" },
+
+{"href": "m44390/Figure_02_01_01.jpg", "type": "image/jpeg" },
+{"href": "m44390/Figure_02_01_02.png", "type": "image/jpeg" },
+{"href": "m44390/Figure_02_01_03.jpg", "type": "image/jpeg" },
+{"href": "m44390/Figure_02_01_04.jpg", "type": "image/jpeg" },
+{"href": "m44390/Figure_02_01_05.png", "type": "image/jpeg" },
+{"href": "m44390/Figure_02_01_06.png", "type": "image/jpeg" },
+{"href": "m44390/Figure_02_01_07.jpg", "type": "image/jpeg" },
+{"href": "m44390/Figure_02_01_08.jpg", "type": "image/jpeg" },
+{"href": "m44390/Figure_02_01_09.jpg", "type": "image/jpeg" },
+{"href": "m44390/Figure_02_01_10.jpg", "type": "image/jpeg" },
+{"href": "m44390/Figure_02_01_11.jpg", "type": "image/jpeg" },
+
+{"href": "m44392/Figure_02_02_01.jpg", "type": "image/jpeg" },
+{"href": "m44392/Figure_02_02_02.jpg", "type": "image/jpeg" },
+{"href": "m44392/Figure_02_02_03.jpg", "type": "image/jpeg" },
+{"href": "m44392/Figure_02_02_04.jpg", "type": "image/jpeg" },
+{"href": "m44392/Figure_02_02_05.jpg", "type": "image/jpeg" },
+{"href": "m44392/Figure_02_02_06.jpg", "type": "image/jpeg" },
+{"href": "m44392/Figure_02_02_07.jpg", "type": "image/jpeg" },
+{"href": "m44392/Figure_02_02_08.jpg", "type": "image/jpeg" },
+{"href": "m44392/all_about_water.png", "type": "image/png" },
+{"href": "m44392/ice_lattice2.png", "type": "image/png" },
+{"href": "m44392/pH_scale.png", "type": "image/png" },
+
+{"href": "m44393/Figure_02_03_01f.jpg", "type": "image/jpeg" },
+{"href": "m44393/Figure_02_03_02.jpg", "type": "image/jpeg" },
+{"href": "m44393/Figure_02_03_03.jpg", "type": "image/jpeg" },
+{"href": "m44393/Figure_02_03_04.png", "type": "image/jpeg" },
+{"href": "m44393/Figure_02_03_05.jpg", "type": "image/jpeg" },
+{"href": "m44393/Figure_02_03_06.jpg", "type": "image/jpeg" },
+{"href": "m44393/Figure_02_03_07.jpg", "type": "image/jpeg" },
+
+{"href": "m44395/Figure_03_00_01.jpg", "type": "image/jpeg" }
+
+
+
+]
+}

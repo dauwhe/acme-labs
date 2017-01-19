@@ -1,0 +1,152 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Prokaryotic Cell Division</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44467/latest/</md:content-url>
+  <md:content-id>m44467</md:content-id>
+  <md:title>Prokaryotic Cell Division</md:title>
+  <md:version>1.6</md:version>
+  <md:created>2012/08/23 11:07:10 -0500</md:created>
+  <md:revised>2013/04/09 10:16:27.210 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>binary fission</md:keyword>
+    <md:keyword>cell reproduction</md:keyword>
+    <md:keyword>FtsZ</md:keyword>
+    <md:keyword>origin</md:keyword>
+    <md:keyword>prokaryote cell division</md:keyword>
+    <md:keyword>prokaryotic cell division</md:keyword>
+    <md:keyword>septum</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the process of binary fission in prokaryotes</item>
+<item>Explain how FtsZ and tubulin proteins are examples of homology</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-id1802262">Prokaryotes, such as bacteria, propagate by binary fission. For unicellular organisms, cell division is the only method to produce new individuals. In both prokaryotic and eukaryotic cells, the outcome of cell reproduction is a pair of daughter cells that are genetically identical to the parent cell. In unicellular organisms, daughter cells are individuals.</para>
+<para id="fs-id2100898">To achieve the outcome of cloned offspring, certain steps are essential. The genomic DNA must be replicated and then allocated into the daughter cells; the cytoplasmic contents must also be divided to give both new cells the machinery to sustain life. In bacterial cells, the genome consists of a single, circular DNA chromosome; therefore, the process of cell division is simplified. Karyokinesis is unnecessary because there is no nucleus and thus no need to direct one copy of the multiple chromosomes into each daughter cell. This type of cell division is called <term>binary (prokaryotic) fission</term>.</para><section id="fs-id1720067">
+<title>Binary Fission</title>
+    <para id="fs-id2641828">Due to the relative simplicity of the prokaryotes, the cell division process, called binary fission, is a less complicated and much more rapid process than cell division in eukaryotes. The single, circular DNA chromosome of bacteria is not enclosed in a nucleus, but instead occupies a specific location, the nucleoid, within the cell (<link target-id="fig-ch10_01_01" document="m44459"/>). Although the DNA of the nucleoid is associated with proteins that aid in packaging the molecule into a compact size, there are no histone proteins and thus no nucleosomes in prokaryotes. The packing proteins of bacteria are, however, related to the cohesin and condensin proteins involved in the chromosome compaction of eukaryotes.</para><para id="fs-id2100765">The bacterial chromosome is attached to the plasma membrane at about the midpoint of the cell. The starting point of replication, the <term>origin</term>, is close to the binding site of the chromosome to the plasma membrane (<link target-id="fig-ch10_05_01" document=""/>). Replication of the DNA is bidirectional, moving away from the origin on both strands of the loop simultaneously. As the new double strands are formed, each origin point moves away from the cell wall attachment toward the opposite ends of the cell. As the cell elongates, the growing membrane aids in the transport of the chromosomes. After the chromosomes have cleared the midpoint of the elongated cell, cytoplasmic separation begins. The formation of a ring composed of repeating units of a protein called <term>FtsZ</term> directs the partition between the nucleoids. Formation of the FtsZ ring triggers the accumulation of other proteins that work together to recruit new membrane and cell wall materials to the site. A <term>septum</term> is formed between the nucleoids, extending gradually from the periphery toward the center of the cell. When the new cell walls are in place, the daughter cells separate.</para>
+<figure id="fig-ch10_05_01" class="span-all"><media id="fs-id1787656" alt="This illustration shows the steps of binary fission in prokaryotes. Replication of the single, circular chromosome begins at the origin of replication and continues simultaneously in both directions. As the DNA is replicated, the cell elongates, and FtsZ proteins migrate toward the center of the cell where they form a ring. The FtsZ ring directs the formation of a septum that divides the cell in two once DNA replication is complete.">
+<image mime-type="image/jpg" src="Figure_10_05_01.jpg" width="450"/>
+</media>
+<caption>These images show the steps of binary fission in prokaryotes. (credit: modification of work by &#8220;Mcstrother&#8221;/Wikimedia Commons)</caption></figure><note id="fs-id1511467" class="evolution span-all"><label/><title>Evolution Connection</title>
+<para id="fs-id838601"><title>Mitotic Spindle Apparatus</title>The precise timing and formation of the mitotic spindle is critical to the success of eukaryotic cell division. Prokaryotic cells, on the other hand, do not undergo karyokinesis and therefore have no need for a mitotic spindle. However, the FtsZ protein that plays such a vital role in prokaryotic cytokinesis is structurally and functionally very similar to tubulin, the building block of the microtubules that make up the mitotic spindle fibers that are necessary for eukaryotes. FtsZ proteins can form filaments, rings, and other three-dimensional structures that resemble the way tubulin forms microtubules, centrioles, and various cytoskeletal components. In addition, both FtsZ and tubulin employ the same energy source, GTP (guanosine triphosphate), to rapidly assemble and disassemble complex structures.</para>
+    <para id="fs-id1428511">FtsZ and tubulin are homologous structures derived from common evolutionary origins. In this example, FtsZ is the ancestor protein to tubulin (a modern protein). While both proteins are found in extant organisms, tubulin function has evolved and diversified tremendously since evolving from its FtsZ prokaryotic origin. A survey of mitotic assembly components found in present-day unicellular eukaryotes reveals crucial intermediary steps to the complex membrane-enclosed genomes of multicellular eukaryotes (<link target-id="tab-ch10_05_01" document=""/>).</para>
+    <table id="tab-ch10_05_01" class="span-all" summary="This table compares the tools involved in cell division among various organisms.">    
+    <tgroup cols="4">   
+        <colspec colnum="1" colname="col1"/>
+        <colspec colnum="2" colname="col2"/>
+        <colspec colnum="3" colname="col3"/>
+        <colspec colnum="4" colname="col4"/>
+<thead>
+<row><entry namest="col1" nameend="col4" align="left">Cell Division Apparatus among Various Organisms</entry></row>
+<row><entry/><entry>Structure of genetic material</entry><entry>Division of nuclear material</entry><entry>Separation of daughter cells</entry></row>
+</thead>
+<tbody>        
+<row><entry>Prokaryotes</entry><entry>There is no nucleus. The single, circular chromosome exists in a region of cytoplasm called the nucleoid.</entry><entry>Occurs through binary fission. As the chromosome is replicated, the two copies move to opposite ends of the cell by an unknown mechanism.</entry><entry>FtsZ proteins assemble into a ring that pinches the cell in two.</entry></row>
+<row><entry>Some protists</entry><entry>Linear chromosomes exist in the nucleus.</entry><entry>Chromosomes attach to the nuclear envelope, which remains intact. The mitotic spindle passes through the envelope and elongates the cell. No centrioles exist.</entry><entry>Microfilaments form a cleavage furrow that pinches the cell in two.</entry></row>
+<row><entry>Other protists</entry><entry>Linear chromosomes exist in the nucleus.</entry><entry>A mitotic spindle forms from the centrioles and passes through the nuclear membrane, which remains intact. Chromosomes attach to the mitotic spindle, which separates the chromosomes and elongates the cell.</entry><entry>Microfilaments form a cleavage furrow that pinches the cell in two.</entry></row>
+<row><entry>Animal cells</entry><entry>Linear chromosomes exist in the nucleus.</entry><entry>A mitotic spindle forms from the centrosomes. The nuclear envelope dissolves. Chromosomes attach to the mitotic spindle, which separates the chromosomes and elongates the cell.</entry><entry>Microfilaments form a cleavage furrow that pinches the cell in two.</entry></row>
+</tbody>
+        </tgroup>
+</table>
+</note></section>
+<section id="fs-id1480610" class="summary">
+    <title>Section Summary</title><para id="fs-id1794075">In both prokaryotic and eukaryotic cell division, the genomic DNA is replicated and then each copy is allocated into a daughter cell. In addition, the cytoplasmic contents are divided evenly and distributed to the new cells. However, there are many differences between prokaryotic and eukaryotic cell division. Bacteria have a single, circular DNA chromosome but no nucleus. Therefore, mitosis is not necessary in bacterial cell division. Bacterial cytokinesis is directed by a ring composed of a protein called FtsZ. Ingrowth of membrane and cell wall material from the periphery of the cells results in the formation of a septum that eventually constructs the separate cell walls of the daughter cells.</para>
+</section>
+<section id="fs-id1728179" class="multiple-choice">
+    <title>Review Questions</title><exercise id="fs-id2106304">
+<problem id="fs-id1473369"><para id="fs-id1651050">Which eukaryotic cell cycle event is missing in binary fission?</para>
+<list id="fs-id1788358" list-type="enumerated" number-style="lower-alpha">
+<item>cell growth</item>
+<item>DNA duplication</item>
+<item>karyokinesis</item>
+<item>cytokinesis</item>
+</list>
+</problem>
+<solution id="fs-id2229089">
+<label/>
+<para id="fs-id1361303">C</para>
+</solution>
+    </exercise>
+<exercise id="fs-id1466552">
+<problem id="fs-id1428215"><para id="fs-id1468864">FtsZ proteins direct the formation of a _______ that will eventually form the new cell walls of the daughter cells.</para>
+<list id="fs-id2065587" list-type="enumerated" number-style="lower-alpha">
+<item>contractile ring</item>
+<item>cell plate</item>
+<item>cytoskeleton</item>
+<item>septum</item>
+</list>
+</problem>
+<solution id="fs-id811872">
+<label/>
+<para id="fs-id2072496">B</para>
+</solution>
+    </exercise>
+</section>
+<section id="fs-id2318513" class="free-response">
+    <title>Free Response</title>
+<exercise id="fs-id2890552">
+<problem id="fs-id2642637"><para id="fs-id2025316">Name the common components of eukaryotic cell division and binary fission.</para></problem>
+<solution id="fs-id2089930"><label/>
+<para id="fs-id1561237">The common components of eukaryotic cell division and binary fission are DNA duplication, segregation of duplicated chromosomes, and division of the cytoplasmic contents.</para>
+</solution>
+</exercise>
+<exercise id="fs-id2255187">
+<problem id="fs-id2278162"><para id="fs-id2098796">Describe how the duplicated bacterial chromosomes are distributed into new daughter cells without the direction of the mitotic spindle.</para></problem>
+<solution id="fs-id1879663"><label/>
+<para id="fs-id2137494">As the chromosome is being duplicated, each origin moves away from the starting point of replication. The chromosomes are attached to the cell membrane via proteins; the growth of the membrane as the cell elongates aids in their movement.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-id1405656"><term>binary fission</term> <meaning id="fs-id1695658">prokaryotic cell division process</meaning></definition>
+<definition id="fs-id1417449"><term>FtsZ</term> <meaning id="fs-id1582545">tubulin-like protein component of the prokaryotic cytoskeleton that is important in prokaryotic cytokinesis (name origin: <emphasis effect="bold">F</emphasis>ilamenting <emphasis effect="bold">t</emphasis>emperature-<emphasis effect="bold">s</emphasis>ensitive mutant <emphasis effect="bold">Z</emphasis>)</meaning></definition>
+<definition id="fs-id3294130"><term>origin</term> <meaning id="fs-id1813061">(also, ORI) region of the prokaryotic chromosome where replication begins (origin of replication)</meaning></definition>
+<definition id="fs-id2074463"><term>septum</term> <meaning id="fs-id1876646">structure formed in a bacterial cell as a precursor to the separation of the cell into two daughter cells</meaning></definition>
+</glossary>
+</document>

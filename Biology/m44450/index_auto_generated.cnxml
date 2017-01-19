@@ -1,0 +1,141 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44450/latest/</md:content-url>
+  <md:content-id>m44450</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.2</md:version>
+  <md:created>2012/08/23 10:59:36 -0500</md:created>
+  <md:revised>2013/01/29 14:30:39.001 US/Central</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>apoptosis</md:keyword>
+    <md:keyword>autocrine signal</md:keyword>
+    <md:keyword>autoinducer</md:keyword>
+    <md:keyword>c-protein-linked receptor</md:keyword>
+    <md:keyword>cAMP</md:keyword>
+    <md:keyword>cAMP-dependent kinase</md:keyword>
+    <md:keyword>cancer biologist</md:keyword>
+    <md:keyword>cell communication</md:keyword>
+    <md:keyword>cell growth</md:keyword>
+    <md:keyword>cell suicide</md:keyword>
+    <md:keyword>cell-surface receptor</md:keyword>
+    <md:keyword>cellular metabolism</md:keyword>
+    <md:keyword>cellular receptor</md:keyword>
+    <md:keyword>chemical synapse</md:keyword>
+    <md:keyword>cyclic AMP</md:keyword>
+    <md:keyword>DAG</md:keyword>
+    <md:keyword>dephosphorylation</md:keyword>
+    <md:keyword>diacylglycerol</md:keyword>
+    <md:keyword>dimer</md:keyword>
+    <md:keyword>dimerization</md:keyword>
+    <md:keyword>endocrine cell</md:keyword>
+    <md:keyword>enzymatic cascade</md:keyword>
+    <md:keyword>enzyme-linked receptor</md:keyword>
+    <md:keyword>extracellular domain</md:keyword>
+    <md:keyword>extracellular matrix</md:keyword>
+    <md:keyword>gap junction</md:keyword>
+    <md:keyword>gene expression</md:keyword>
+    <md:keyword>growth factor</md:keyword>
+    <md:keyword>hormone</md:keyword>
+    <md:keyword>inhibitor</md:keyword>
+    <md:keyword>inositol phospholipid</md:keyword>
+    <md:keyword>inositol triphosphate</md:keyword>
+    <md:keyword>intercellular signal</md:keyword>
+    <md:keyword>internal receptor</md:keyword>
+    <md:keyword>intracellular mediator</md:keyword>
+    <md:keyword>intracellular receptor</md:keyword>
+    <md:keyword>intracellular signal</md:keyword>
+    <md:keyword>ion channel-linked receptor</md:keyword>
+    <md:keyword>IP3</md:keyword>
+    <md:keyword>kinase</md:keyword>
+    <md:keyword>kinase PKC</md:keyword>
+    <md:keyword>ligand</md:keyword>
+    <md:keyword>ligand binding</md:keyword>
+    <md:keyword>mating factor</md:keyword>
+    <md:keyword>neurotransmitter</md:keyword>
+    <md:keyword>oncogene</md:keyword>
+    <md:keyword>paracrine signal</md:keyword>
+    <md:keyword>phosphatase</md:keyword>
+    <md:keyword>phosphodiesterase</md:keyword>
+    <md:keyword>phosphorylation</md:keyword>
+    <md:keyword>quorum sensing</md:keyword>
+    <md:keyword>receptor</md:keyword>
+    <md:keyword>second messenger</md:keyword>
+    <md:keyword>signal cascade</md:keyword>
+    <md:keyword>signal integration</md:keyword>
+    <md:keyword>signal propagation</md:keyword>
+    <md:keyword>signal response</md:keyword>
+    <md:keyword>signal transduction</md:keyword>
+    <md:keyword>signal transduction pathway</md:keyword>
+    <md:keyword>signal transmission</md:keyword>
+    <md:keyword>signaling cell</md:keyword>
+    <md:keyword>signaling molecule</md:keyword>
+    <md:keyword>signaling pathway</md:keyword>
+    <md:keyword>single-celled yeast</md:keyword>
+    <md:keyword>synaptic signal</md:keyword>
+    <md:keyword>T-cell</md:keyword>
+    <md:keyword>target cell</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+
+<?cnx.eoc class="summary" title="Sections Summary"?>
+<?cnx.eoc class="art-exercise" title="Art Connections"?>
+<?cnx.eoc class="multiple-choice" title="Multiple Choice"?>
+<?cnx.eoc class="free-response" title="Free Response"?>
+
+
+<figure id="fig-ch09-00-01" class="splash"><media id="fs-id2575198" alt="This photo shows a crowd of people at a festival.">
+<image mime-type="image/jpg" src="Figure_09_01_00.jpg" width="500"/>
+</media>
+
+<caption>Have you ever become separated from a friend while in a crowd? If so, you know the challenge of searching for someone when surrounded by thousands of other people. If you and your friend have cell phones, your chances of finding each other are good. A cell phone&#8217;s ability to send and receive messages makes it an ideal communication device. (credit: modification of work by Vincent and Bella Productions)</caption></figure><para id="fs-id1296193">Imagine what life would be like if you and the people around you could not communicate. You would not be able to express your wishes to others, nor could you ask questions to find out more about your environment. Social organization is dependent on communication between the individuals that comprise that society; without communication, society would fall apart.</para>
+<para id="fs-id2571259">As with people, it is vital for individual cells to be able to interact with their environment. This is true whether a cell is growing by itself in a pond or is one of many cells that form a larger organism. In order to properly respond to external stimuli, cells have developed complex mechanisms of communication that can receive a message, transfer the information across the plasma membrane, and then produce changes within the cell in response to the message.</para>
+<para id="fs-id1446439">In multicellular organisms, cells send and receive chemical messages constantly to coordinate the actions of distant organs, tissues, and cells. The ability to send messages quickly and efficiently enables cells to coordinate and fine-tune their functions.</para>
+<para id="fs-id1318782">While the necessity for cellular communication in larger organisms seems obvious, even single-celled organisms communicate with each other. Yeast cells signal each other to aid mating. Some forms of bacteria coordinate their actions in order to form large complexes called biofilms or to organize the production of toxins to remove competing organisms. The ability of cells to communicate through chemical signals originated in single cells and was essential for the evolution of multicellular organisms. The efficient and error-free function of communication systems is vital for all life as we know it.</para>
+</content>
+
+</document>

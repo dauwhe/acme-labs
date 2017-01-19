@@ -1,0 +1,311 @@
+<?xml version="1.0"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Mammalian Heart and Blood Vessels</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml"
+          mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44805/latest/</md:content-url>
+  <md:content-id>m44805</md:content-id>
+  <md:title>Mammalian Heart and Blood Vessels</md:title>
+  <md:version>1.5</md:version>
+  <md:created>2012/08/23 15:51:32 -0500</md:created>
+  <md:revised>2014/02/24 16:58:58.443 US/Central</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>angina</md:keyword>
+    <md:keyword>aorta</md:keyword>
+    <md:keyword>arteriole</md:keyword>
+    <md:keyword>artery</md:keyword>
+    <md:keyword>atherosclerosis</md:keyword>
+    <md:keyword>atrioventricular valve</md:keyword>
+    <md:keyword>biscuspid valve</md:keyword>
+    <md:keyword>blood flow</md:keyword>
+    <md:keyword>blood vessel</md:keyword>
+    <md:keyword>capillary</md:keyword>
+    <md:keyword>capillary bed</md:keyword>
+    <md:keyword>cardiac arrest</md:keyword>
+    <md:keyword>cardiac cycle</md:keyword>
+    <md:keyword>cardiac muscle</md:keyword>
+    <md:keyword>cardiomyocyte</md:keyword>
+    <md:keyword>circulatory system</md:keyword>
+    <md:keyword>coronary artery</md:keyword>
+    <md:keyword>coronary vein</md:keyword>
+    <md:keyword>diastole</md:keyword>
+    <md:keyword>ECG</md:keyword>
+    <md:keyword>electrocardiogram</md:keyword>
+    <md:keyword>endocardium</md:keyword>
+    <md:keyword>epicardium</md:keyword>
+    <md:keyword>heart</md:keyword>
+    <md:keyword>heart anatomy</md:keyword>
+    <md:keyword>heart attack</md:keyword>
+    <md:keyword>heart structure</md:keyword>
+    <md:keyword>inferior vena cava</md:keyword>
+    <md:keyword>mitral valve</md:keyword>
+    <md:keyword>myocardial infarction</md:keyword>
+    <md:keyword>myocardium</md:keyword>
+    <md:keyword>pericardium</md:keyword>
+    <md:keyword>semilunar valve</md:keyword>
+    <md:keyword>sinoatrial (SA) node</md:keyword>
+    <md:keyword>superior vena cava</md:keyword>
+    <md:keyword>systole</md:keyword>
+    <md:keyword>tricuspid valve</md:keyword>
+    <md:keyword>vasoconstriction</md:keyword>
+    <md:keyword>vasodilation</md:keyword>
+    <md:keyword>vein</md:keyword>
+    <md:keyword>vena cava</md:keyword>
+    <md:keyword>venule</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the structure of the heart and explain how cardiac muscle is different from other muscles</item>
+<item>Describe the cardiac cycle</item>
+<item>Explain the structure of arteries, veins, and capillaries, and how blood flows through the body</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idm49489856">The heart is a complex muscle that pumps blood through the three divisions of the circulatory system: the coronary (vessels that serve the heart), pulmonary (heart and lungs), and systemic (systems of the body), as shown in <link target-id="fig-ch40_03_01" document=""/>. Coronary circulation intrinsic to the heart takes blood directly from the main artery (aorta) coming from the heart. For pulmonary and systemic circulation, the heart has to pump blood to the lungs or the rest of the body, respectively. In vertebrates, the lungs are relatively close to the heart in the thoracic cavity. The shorter distance to pump means that the muscle wall on the right side of the heart is not as thick as the left side which must have enough pressure to pump blood all the way to your big toe.</para><note id="fs-idm48341552" class="art-connection"><label/><title>Art Connection</title>
+<figure id="fig-ch40_03_01" class=" "><media id="fs-idm173396640" alt="Illustration shows blood circulation through the mammalian systemic and pulmonary circuits. Blood enters the left atrium, the upper left chamber of the heart, through veins of the systemic circuit. The major vein that feeds the heart from the upper body is the superior vena cava, and the major vein that feeds the heart from the lower body is the inferior vena cava. From the left atrium blood travels down to the left ventricle, then up to the pulmonary artery. From the pulmonary artery blood enters capillaries of the lung. Blood is then collected by the pulmonary vein, and re-enters the heart through the upper left chamber of the heart, the left atrium. Blood travels down to the left ventricle, then re-enters the systemic circuit through the aorta, which exits through the top of the heart. Blood enters tissues of the body through capillaries of the systemic circuit.">
+<image mime-type="image/jpg" src="Figure_40_03_01ab.png" width="320"/>
+</media>
+<caption>The mammalian circulatory system is divided into three circuits: the systemic circuit, the pulmonary circuit, and the coronary circuit. Blood is pumped from veins of the systemic circuit into the right atrium of the heart, then into the right ventricle. Blood then enters the pulmonary circuit, and is oxygenated by the lungs. From the pulmonary circuit, blood re-enters the heart through the left atrium. From the left ventricle, blood re-enters the systemic circuit through the aorta and is distributed to the rest of the body. The coronary circuit, which provides blood to the heart, is not shown.</caption></figure><para id="fs-idm88596752">Which of the following statements about the circulatory system is false?</para>
+<list id="fs-idm207544576" list-type="enumerated" number-style="lower-alpha">
+<item>Blood in the pulmonary vein is deoxygenated.</item>
+<item>Blood in the inferior vena cava is deoxygenated.</item>
+<item>Blood in the pulmonary artery is deoxygenated.</item>
+<item>Blood in the aorta is oxygenated.</item>
+</list>
+<!--<para><link target-id="fig-ch40_03_01" document=""/>C</para>-->
+</note><section id="fs-idm125746512">
+<title>Structure of the Heart</title>
+<para id="fs-idp58983376">The heart muscle is asymmetrical as a result of the distance blood must travel in the pulmonary and systemic circuits. Since the right side of the heart sends blood to the pulmonary circuit it is smaller than the left side which must send blood out to the whole body in the systemic circuit, as shown in <link target-id="fig-ch40_03_02" document=""/>. In humans, the heart is about the size of a clenched fist; it is divided into four chambers: two atria and two ventricles. There is one atrium and one ventricle on the right side and one atrium and one ventricle on the left side. The atria are the chambers that receive blood, and the ventricles are the chambers that pump blood. The right atrium receives deoxygenated blood from the <term>superior vena cava</term>, which drains blood from the jugular vein that comes from the brain and from the veins that come from the arms, as well as from the <term>inferior vena cava</term> which drains blood from the veins that come from the lower organs and the legs. In addition, the right atrium receives blood from the coronary sinus which drains deoxygenated blood from the heart itself. This deoxygenated blood then passes to the right ventricle through the <term>atrioventricular valve</term> or the <term>tricuspid valve</term>, a flap of connective tissue that opens in only one direction to prevent the backflow of blood. The valve separating the chambers on the left side of the heart valve is called the biscuspid or mitral valve. After it is filled, the right ventricle pumps the blood through the pulmonary arteries, by-passing the <term>semilunar valve</term> (or pulmonic valve) to the lungs for re-oxygenation. After blood passes through the pulmonary arteries, the right semilunar valves close preventing the blood from flowing backwards into the right ventricle. The left atrium then receives the oxygen-rich blood from the lungs via the pulmonary veins. This blood passes through the <term>bicuspid valve</term> or mitral valve (the atrioventricular valve on the left side of the heart) to the left ventricle where the blood is pumped out through <term>aorta</term>, the major artery of the body, taking oxygenated blood to the organs and muscles of the body. Once blood is pumped out of the left ventricle and into the aorta, the aortic semilunar valve (or aortic valve) closes preventing blood from flowing backward into the left ventricle. This pattern of pumping is referred to as double circulation and is found in all mammals.</para>
+<note id="fs-idm2331712" class="art-connection"><label/><title>Art Connection</title>
+<figure id="fig-ch40_03_02" class=" "><media id="fs-idm213128960" alt="Illustration A shows the parts of the heart. Blood enters the right atrium through an upper, superior vena cava and a lower, inferior vena cava. From the right atrium, blood flows through the funnel-shaped tricuspid valve into the right ventricle. Blood then travels up and through the pulmonary valve into the pulmonary artery. Blood re-enters the heart through the pulmonary veins, and travels down from the left atrium, through the mitral valve, into the right ventricle. Blood then travels up through the aortic valve, into the aorta. The tricuspid and mitral valves are atrioventricular and funnel-shaped. The pulmonary and aortic valves are semilunar and slightly curved. An inset shows a cross section of the heart. The myocardium is the thick muscle layer. The inside of the heart is protected by the endocardium, and the outside is protected by the pericardium. Illustration B shows the outside of the heart. Coronary arteries and coronary veins run from the top down along the right and left sides.">
+<image mime-type="image/jpg" src="Figure_40_03_02ab.png" width="520"/>
+</media>
+<caption>(a) The heart is primarily made of a thick muscle layer, called the myocardium, surrounded by membranes. One-way valves separate the four chambers. (b) Blood vessels of the coronary system, including the coronary arteries and veins, keep the heart musculature oxygenated.</caption></figure><para id="fs-idm34396288">Which of the following statements about the heart is false?</para>
+<list id="fs-idp45241824" list-type="enumerated" number-style="lower-alpha">
+    <item>The mitral valve separates the left ventricle from the left atrium.</item>
+<item>Blood travels through the bicuspid valve to the left atrium.</item>
+<item>Both the aortic and the pulmonary valves are semilunar valves.</item>
+<item>The mitral valve is an atrioventricular valve.</item>
+</list>
+<!--<para><link target-id="fig-ch40_03_02" document=""/>B</para>-->
+</note><para id="fs-idm123004624">The heart is composed of three layers; the epicardium, the myocardium, and the endocardium, illustrated in <link target-id="fig-ch40_03_02" document=""/>. The inner wall of the heart has a lining called the <term>endocardium</term>. The <term>myocardium</term> consists of the heart muscle cells that make up the middle layer and the bulk of the heart wall. The outer layer of cells is called the <term>epicardium</term>, of which the second layer is a membranous layered structure called the <term>pericardium</term> that surrounds and protects the heart; it allows enough room for vigorous pumping but also keeps the heart in place to reduce friction between the heart and other structures.</para>
+<para id="fs-idm202630448">The heart has its own blood vessels that supply the heart muscle with blood. The <term>coronary arteries</term> branch from the aorta and surround the outer surface of the heart like a crown. They diverge into capillaries where the heart muscle is supplied with oxygen before converging again into the <term>coronary veins</term> to take the deoxygenated blood back to the right atrium where the blood will be re-oxygenated through the pulmonary circuit. The heart muscle will die without a steady supply of blood. <term>Atherosclerosis</term> is the blockage of an artery by the buildup of fatty plaques. Because of the size (narrow) of the coronary arteries and their function in serving the heart itself, atherosclerosis can be deadly in these arteries. The slowdown of blood flow and subsequent oxygen deprivation that results from atherosclerosis causes severe pain, known as <term>angina</term>, and complete blockage of the arteries will cause <term>myocardial infarction</term>: the death of cardiac muscle tissue, commonly known as a heart attack.</para>
+</section>
+<section id="fs-idp5274160">
+<title>The Cardiac Cycle</title>
+<para id="fs-idm116254208">The main purpose of the heart is to pump blood through the body; it does so in a repeating sequence called the cardiac cycle. The <term>cardiac cycle</term> is the coordination of the filling and emptying of the heart of blood by electrical signals that cause the heart muscles to contract and relax. The human heart beats over 100,000 times per day. In each cardiac cycle, the heart contracts (<term>systole</term>), pushing out the blood and pumping it through the body; this is followed by a relaxation phase (<term>diastole</term>), where the heart fills with blood, as illustrated in <link target-id="fig-ch40_03_03" document=""/>. The atria contract at the same time, forcing blood through the atrioventricular valves into the ventricles. Closing of the atrioventricular valves produces a monosyllabic “lup” sound. Following a brief delay, the ventricles contract at the same time forcing blood through the semilunar valves into the aorta and the artery transporting blood to the lungs (via the pulmonary artery). Closing of the semilunar valves produces a monosyllabic “dup” sound.</para>
+<figure id="fig-ch40_03_03" class=" "><media id="fs-idm128385680" alt="Illustration A shows cardiac diastole. The cardiac muscle is relaxed, and blood flows into the heart atria and into the ventricles. Illustration B shows atrial systole; the atria contract, pushing blood into the ventricles, which are relaxed. Illustration C shows atrial diastole; after the atria relax, the ventricles contract, pushing blood out of the heart.">
+<image mime-type="image/jpg" src="Figure_40_03_03.jpg" width="575"/>
+</media>
+<caption>During (a) cardiac diastole, the heart muscle is relaxed and blood flows into the heart. During (b) atrial systole, the atria contract, pushing blood into the ventricles. During (c) atrial diastole, the ventricles contract, forcing blood out of the heart.</caption></figure><para id="fs-idm170442304">The pumping of the heart is a function of the cardiac muscle cells, or cardiomyocytes, that make up the heart muscle. <term>Cardiomyocytes</term>, shown in <link target-id="fig-ch40_03_04" document=""/>, are distinctive muscle cells that are striated like skeletal muscle but pump rhythmically and involuntarily like smooth muscle; they are connected by intercalated disks exclusive to cardiac muscle. They are self-stimulated for a period of time and isolated cardiomyocytes will beat if given the correct balance of nutrients and electrolytes.</para>
+<figure id="fig-ch40_03_04" class=" "><media id="fs-idm196615360" alt="Micrograph shows cardiac muscle cells, which are oblong and have prominent striations.">
+<image mime-type="image/jpg" src="Figure_40_03_04.jpg" width="320"/>
+</media>
+<caption>Cardiomyocytes are striated muscle cells found in cardiac tissue. (credit: modification of work by Dr. S. Girod, Anton Becker; scale-bar data from Matt Russell)</caption></figure><para id="fs-idm94701888">The autonomous beating of cardiac muscle cells is regulated by the heart’s internal pacemaker that uses electrical signals to time the beating of the heart. The electrical signals and mechanical actions, illustrated in <link target-id="fig-ch40_03_05" document=""/>, are intimately intertwined. The internal pacemaker starts at the <term>sinoatrial (SA) node</term>, which is located near the wall of the right atrium. Electrical charges spontaneously pulse from the SA node causing the two atria to contract in unison. The pulse reaches a second node, called the atrioventricular (AV) node, between the right atrium and right ventricle where it pauses for approximately 0.1 second before spreading to the walls of the ventricles. From the AV node, the electrical impulse enters the bundle of His, then to the left and right bundle branches extending through the interventricular septum. Finally, the Purkinje fibers conduct the impulse from the apex of the heart up the ventricular myocardium, and then the ventricles contract. This pause allows the atria to empty completely into the ventricles before the ventricles pump out the blood. The electrical impulses in the heart produce electrical currents that flow through the body and can be measured on the skin using electrodes. This information can be observed as an <term>electrocardiogram (ECG)</term>—a recording of the electrical impulses of the cardiac muscle.</para>
+<figure id="fig-ch40_03_05"><media id="fs-idm157988592" alt=" The sinoatrial node is located at the top of the right atrium, and the atrioventricular node is located between the right atrium and right ventricle. The heart beat begins with an electrical impulse at the sinoatrial node, which spreads throughout the walls of the atria, resulting in a bump in the ECG reading. The signal then coalesces at the atrioventricular node, causing the ECG reading to flat-line briefly. Next, the signal passes from the atrioventricular node to the Purkinje fibers, which travel from the atriovenricular node and down the middle of the heart, between the two ventricles, then ups the sides of the ventricles. As the signal passes down the Purkinje fibers the ECG reading falls. The signal then spreads throughout the ventricle walls, and the ventricles contract, resulting in a sharp spike in the ECG. The spike is followed by a flat-line, longer than the first then a bump.">
+<image mime-type="image/jpg" src="Figure_40_03_05.jpg" width="575"/>
+</media>
+<caption>The beating of the heart is regulated by an electrical impulse that causes the characteristic reading of an ECG. The signal is initiated at the sinoatrial valve. The signal then (a) spreads to the atria, causing them to contract. The signal is (b) delayed at the atrioventricular node before it is passed on to the (c) heart apex. The delay allows the atria to relax before the (d) ventricles contract. The final part of the ECG cycle prepares the heart for the next beat.</caption></figure><note id="fs-idm190521904" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idp35661232" alt="QR Code representing a URL">
+<image mime-type="image/png" src="electric_heart.png" width="120"/>
+</media>
+<para id="fs-idm356726752">Visit <link window="new" url="http://openstaxcollege.org/l/electric_heart">this site</link> to see the heart’s “pacemaker” in action.</para>
+</note></section>
+<section id="fs-idp11676624">
+<title>Arteries, Veins, and Capillaries</title>
+<para id="fs-idm128248512">The blood from the heart is carried through the body by a complex network of blood vessels (<link target-id="fig-ch40_03_06" document=""/>). <term>Arteries</term> take blood away from the heart. The main artery is the aorta that branches into major arteries that take blood to different limbs and organs. These major arteries include the carotid artery that takes blood to the brain, the brachial arteries that take blood to the arms, and the thoracic artery that takes blood to the thorax and then into the hepatic, renal, and gastric arteries for the liver, kidney, and stomach, respectively. The iliac artery takes blood to the lower limbs. The major arteries diverge into minor arteries, and then smaller vessels called <term>arterioles</term>, to reach more deeply into the muscles and organs of the body.</para>
+<figure id="fig-ch40_03_06" class=" "><media id="fs-idm190507712" alt="Illustration shows the major human blood vessels. From the heart, blood is pumped into the aorta and distributed to systemic arteries. The carotid arteries bring blood to the head. The brachial arteries bring blood to the arms. The thoracic aorta brings blood down the trunk of the body along the spine. The hepatic, gastric and renal arteries, which branch from the thoracic aorta, bring blood to the liver, stomach and kidneys, respectively. The iliac artery brings blood to the legs. Blood is returned to the heart through two major veins, the superior vena cava at the top, and the inferior vena cava at the bottom. The jugular veins return blood from the head. The basilic veins return blood from the arms.  The hepatic, gastric and renal veins return blood from the liver, stomach and kidneys, respectively. The iliac vein returns blood from the legs.">
+<image mime-type="image/jpg" src="Figure_40_03_06.jpg" width="300"/>
+</media>
+<caption>The major human arteries and veins are shown. (credit: modification of work by Mariana Ruiz Villareal)</caption></figure><para id="fs-idm204731312">Arterioles diverge into capillary beds. <term>Capillary beds</term> contain a large number (10 to 100) of <term>capillaries</term> that branch among the cells and tissues of the body. Capillaries are narrow-diameter tubes that can fit red blood cells through in single file and are the sites for the exchange of nutrients, waste, and oxygen with tissues at the cellular level. Fluid also crosses into the interstitial space from the capillaries. The capillaries converge again into <term>venules</term> that connect to minor veins that finally connect to major veins that take blood high in carbon dioxide back to the heart. <term>Veins</term> are blood vessels that bring blood back to the heart. The major veins drain blood from the same organs and limbs that the major arteries supply. Fluid is also brought back to the heart via the lymphatic system.</para>
+<para id="fs-idm69642496">The structure of the different types of blood vessels reflects their function or layers. There are three distinct layers, or tunics, that form the walls of blood vessels (<link target-id="fig-ch40_03_07" document=""/>). The first tunic is a smooth, inner lining of endothelial cells that are in contact with the red blood cells. The endothelial tunic is continuous with the endocardium of the heart. In capillaries, this single layer of cells is the location of diffusion of oxygen and carbon dioxide between the endothelial cells and red blood cells, as well as the exchange site via endocytosis and exocytosis. The movement of materials at the site of capillaries is regulated by <term>vasoconstriction</term>, narrowing of the blood vessels, and <term>vasodilation</term>, widening of the blood vessels; this is important in the overall regulation of blood pressure.</para>
+<para id="fs-idm46223136">Veins and arteries both have two further tunics that surround the endothelium: the middle tunic is composed of smooth muscle and the outermost layer is connective tissue (collagen and elastic fibers). The elastic connective tissue stretches and supports the blood vessels, and the smooth muscle layer helps regulate blood flow by altering vascular resistance through vasoconstriction and vasodilation. The arteries have thicker smooth muscle and connective tissue than the veins to accommodate the higher pressure and speed of freshly pumped blood. The veins are thinner walled as the pressure and rate of flow are much lower. In addition, veins are structurally different than arteries in that veins have valves to prevent the backflow of blood. Because veins have to work against gravity to get blood back to the heart, contraction of skeletal muscle assists with the flow of blood back to the heart.</para>
+<figure id="fig-ch40_03_07" class=" "><media id="fs-idm84626864" alt=" Illustrations A and B show that arteries and veins consist of three layers, an inner endothelium called the tunica intima, a middle layer of smooth muscle and elastic fibers called the tunica media, and an outer layer of connective tissues and elastic fibers called the tunica externa. The outer two layers are thinner in the vein than in the artery. The central cavity is called the lumen. Veins have valves that extend into the lumen.">
+<image mime-type="image/jpg" src="Figure_40_03_07.jpg" width="455"/>
+</media>
+<caption>Arteries and veins consist of three layers: an outer tunica externa, a middle tunica media, and an inner tunica intima. Capillaries consist of a single layer of epithelial cells, the tunica intima. (credit: modification of work by NCI, NIH)</caption></figure></section>
+<section id="fs-idp11858496" class="summary">
+<title>Section Summary</title><para id="fs-idm146392688">The heart muscle pumps blood through three divisions of the circulatory system: coronary, pulmonary, and systemic. There is one atrium and one ventricle on the right side and one atrium and one ventricle on the left side. The pumping of the heart is a function of cardiomyocytes, distinctive muscle cells that are striated like skeletal muscle but pump rhythmically and involuntarily like smooth muscle. The internal pacemaker starts at the sinoatrial node, which is located near the wall of the right atrium. Electrical charges pulse from the SA node causing the two atria to contract in unison; then the pulse reaches the atrioventricular node between the right atrium and right ventricle. A pause in the electric signal allows the atria to empty completely into the ventricles before the ventricles pump out the blood. The blood from the heart is carried through the body by a complex network of blood vessels; arteries take blood away from the heart, and veins bring blood back to the heart.</para>
+</section>
+    <section id="fs-idm96878960" class="art-exercise">
+    <title>Art Connections</title>
+<exercise id="fs-idm133142336">
+<problem id="fs-idp64759712">
+    <para id="fs-idp59489584"><link target-id="fig-ch40_03_01" document=""/> Which of the following statements about the circulatory system is false?</para>
+<list id="fs-idm91588752" list-type="enumerated" number-style="lower-alpha">
+    <item>Blood in the pulmonary vein is deoxygenated.</item>
+<item>Blood in the inferior vena cava is deoxygenated.</item>
+<item>Blood in the pulmonary artery is deoxygenated.</item>
+<item>Blood in the aorta is oxygenated.</item>
+</list>
+</problem>
+<solution id="fs-idm34777600">
+    <label/>
+    <para id="fs-idm212834896"><link target-id="fig-ch40_03_01" document=""/> C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm83962384">
+    <problem id="fs-idm153369248">
+    <para id="fs-idm49741936"><link target-id="fig-ch40_03_02" document=""/> Which of the following statements about the heart is false?</para>
+<list id="fs-idm119909392" list-type="enumerated" number-style="lower-alpha">
+<item>The mitral valve separates the left ventricle from the left atrium.</item>
+<item>Blood travels through the bicuspid valve to the left atrium.</item>
+<item>Both the aortic and the pulmonary valves are semilunar valves.</item>
+<item>The mitral valve is an atrioventricular valve.</item>
+</list>
+    </problem>
+<solution id="fs-idp29314256">
+    <label/>
+    <para id="fs-idm136609856"><link target-id="fig-ch40_03_02" document=""/> B</para></solution>
+</exercise>
+        </section>
+<section id="fs-idm39708752" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp26179632">
+<problem id="fs-idm4154656"><para id="fs-idm48603232">The heart’s internal pacemaker beats by:</para>
+<list id="fs-idm124555776" list-type="enumerated" number-style="lower-alpha">
+<item>an internal implant that sends an electrical impulse through the heart</item>
+<item>the excitation of cardiac muscle cells at the sinoatrial node followed by the atrioventricular node</item>
+<item>the excitation of cardiac muscle cells at the atrioventricular node followed by the sinoatrial node</item>
+<item>the action of the sinus</item>
+</list>
+</problem>
+<solution id="fs-idm157977904">
+<label/>
+<para id="fs-idm91595776">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm153328976">
+<problem id="fs-idm59692352"><para id="fs-idm82702432">During the systolic phase of the cardiac cycle, the heart is ________.</para>
+<list id="fs-idm194894272" list-type="enumerated" number-style="lower-alpha">
+<item>contracting</item>
+<item>relaxing</item>
+<item>contracting and relaxing</item>
+<item>filling with blood</item>
+</list>
+</problem>
+<solution id="fs-idm205094448">
+<label/>
+<para id="fs-idm178956720">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm232681600">
+<problem id="fs-idm52992688"><para id="fs-idm49790016">Cardiomyocytes are similar to skeletal muscle because:</para>
+<list id="fs-idm162816848" list-type="enumerated" number-style="lower-alpha">
+<item>they beat involuntarily</item>
+<item>they are used for weight lifting</item>
+<item>they pulse rhythmically</item>
+<item>they are striated</item>
+</list>
+</problem>
+<solution id="fs-idm24989312">
+<label/>
+<para id="fs-idm199497600">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm25699712">
+<problem id="fs-idm132484624"><para id="fs-idm3800352">How do arteries differ from veins?</para>
+<list id="fs-idm203542496" list-type="enumerated" number-style="lower-alpha">
+<item>Arteries have thicker smooth muscle layers to accommodate the changes in pressure from the heart.</item>
+<item>Arteries carry blood.</item>
+<item>Arteries have thinner smooth muscle layers and valves and move blood by the action of skeletal muscle.</item>
+<item>Arteries are thin walled and are used for gas exchange.</item>
+</list>
+</problem>
+<solution id="fs-idp36042496">
+<label/>
+<para id="fs-idm41011216">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm156774480" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm125745408">
+<problem id="fs-idm152911840"><para id="fs-idm205296672">Describe the cardiac cycle.</para></problem>
+<solution id="fs-idp40683088"><label/>
+<para id="fs-idm42588928">The heart receives an electrical signal from the sinoatrial node triggering the cardiac muscle cells in the atria to contract. The signal pauses at the atrioventricular node before spreading to the walls of the ventricles so the blood is pumped through the body. This is the systolic phase. The heart then relaxes in the diastole and fills again with blood.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm54961200">
+<problem id="fs-idm83165984"><para id="fs-idm90933808">What happens in capillaries?</para></problem>
+<solution id="fs-idm216790480"><label/>
+<para id="fs-idm142025504">The capillaries basically exchange materials with their surroundings. Their walls are very thin and are made of one or two layers of cells, where gases, nutrients, and waste are diffused. They are distributed as beds, complex networks that link arteries as well as veins.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm84209056"><term>angina</term> <meaning id="fs-idm170382880">pain caused by partial blockage of the coronary arteries by the buildup of plaque and lack of oxygen to the heart muscle</meaning></definition>
+<definition id="fs-idm213817520"><term>aorta</term> <meaning id="fs-idm169209888">major artery of the body that takes blood away from the heart</meaning></definition>
+<definition id="fs-idp51600688"><term>arteriole</term> <meaning id="fs-idm42583296">small vessel that connects an artery to a capillary bed</meaning></definition>
+<definition id="fs-idp26105072"><term>artery</term> <meaning id="fs-idm168458448">blood vessel that takes blood away from the heart</meaning></definition>
+<definition id="fs-idm42536832"><term>atherosclerosis</term> <meaning id="fs-idm55834032">buildup of fatty plaques in the coronary arteries in the heart</meaning></definition>
+<definition id="fs-idp22427216"><term>atrioventricular valve</term> <meaning id="fs-idp36073776">one-way membranous flap of connective tissue between the atrium and the ventricle in the right side of the heart; also known as tricuspid valve</meaning></definition>
+<definition id="fs-idm82339264"><term>bicuspid valve</term> <meaning id="fs-idp18658528">(also, mitral valve; left atrioventricular valve) one-way membranous flap between the atrium and the ventricle in the left side of the heart</meaning></definition>
+<definition id="fs-idm130106400"><term>capillary</term> <meaning id="fs-idm55223520">smallest blood vessel that allows the passage of individual blood cells and the site of diffusion of oxygen and nutrient exchange</meaning></definition>
+<definition id="fs-idm219981024"><term>capillary bed</term> <meaning id="fs-idm9904288">large number of capillaries that converge to take blood to a particular organ or tissue</meaning></definition>
+<definition id="fs-idp23473632"><term>cardiac cycle</term> <meaning id="fs-idp35628944">filling and emptying the heart of blood by electrical signals that cause the heart muscles to contract and relax</meaning></definition>
+<definition id="fs-idm126755088"><term>cardiomyocyte</term> <meaning id="fs-idm130669216">specialized heart muscle cell that is striated but contracts involuntarily like smooth muscle</meaning></definition>
+<definition id="fs-idm116194352"><term>coronary artery</term> <meaning id="fs-idm46457776">vessel that supplies the heart tissue with blood</meaning></definition>
+<definition id="fs-idm161927600"><term>coronary vein</term> <meaning id="fs-idp28779456">vessel that takes blood away from the heart tissue back to the chambers in the heart</meaning></definition>
+<definition id="fs-idm130097184"><term>diastole</term> <meaning id="fs-idm235215776">relaxation phase of the cardiac cycle when the heart is relaxed and the ventricles are filling with blood</meaning></definition>
+<definition id="fs-idm42352272"><term>electrocardiogram (ECG)</term> <meaning id="fs-idm124461760">recording of the electrical impulses of the cardiac muscle</meaning></definition>
+<definition id="fs-idm56911920"><term>endocardium</term> <meaning id="fs-idm89181536">innermost layer of tissue in the heart</meaning></definition>
+<definition id="fs-idm54360416"><term>epicardium</term> <meaning id="fs-idm216226544">outermost tissue layer of the heart</meaning></definition>
+<definition id="fs-idm135402432"><term>inferior vena cava</term> <meaning id="fs-idm46757152">drains blood from the veins that come from the lower organs and the legs</meaning></definition>
+<definition id="fs-idp43819104"><term>myocardial infarction</term> <meaning id="fs-idm221737008">(also, heart attack) complete blockage of the coronary arteries and death of the cardiac muscle tissue</meaning></definition>
+<definition id="fs-idm212500192"><term>myocardium</term> <meaning id="fs-idm128783632">heart muscle cells that make up the middle layer and the bulk of the heart wall</meaning></definition>
+<definition id="fs-idm224979536"><term>pericardium</term> <meaning id="fs-idm80075536">membrane layer protecting the heart; also part of the epicardium</meaning></definition>
+<definition id="fs-idm164168128"><term>semilunar valve</term> <meaning id="fs-idm92294288"> membranous flap of connective tissue between the aorta and a ventricle of the heart (the aortic or pulmonary semilunar valves)</meaning></definition>
+<definition id="fs-idm118917696"><term>sinoatrial (SA) node</term> <meaning id="fs-idm196099744">the heart’s internal pacemaker; located near the wall of the right atrium</meaning></definition>
+<definition id="fs-idm206689472"><term>superior vena cava</term> <meaning id="fs-idm123010016">drains blood from the jugular vein that comes from the brain and from the veins that come from the arms</meaning></definition>
+<definition id="fs-idm62709312"><term>systole</term> <meaning id="fs-idm8324688">contraction phase of cardiac cycle when the ventricles are pumping blood into the arteries</meaning></definition>
+<definition id="fs-idm122799552"><term>tricuspid valve</term> <meaning id="fs-idp31418240">one-way membranous flap of connective tissue between the atrium and the ventricle in the right side of the heart; also known as atrioventricular valve</meaning></definition>
+<definition id="fs-idm243460992"><term>vasoconstriction</term> <meaning id="fs-idm161278944">narrowing of a blood vessel</meaning></definition>
+<definition id="fs-idm194977840"><term>vasodilation</term> <meaning id="fs-idp14647104">widening of a blood vessel</meaning></definition>
+<definition id="fs-idm130828080"><term>vein</term> <meaning id="fs-idm31679072">blood vessel that brings blood back to the heart</meaning></definition>
+<definition id="fs-idp480880"><term>vena cava</term> <meaning id="fs-idm49500912">major vein of the body returning blood from the upper and lower parts of the body; see the superior vena cava and inferior vena cava</meaning></definition>
+<definition id="fs-idm24480528"><term>venule</term> <meaning id="fs-idm78546800">blood vessel that connects a capillary bed to a vein</meaning></definition>
+</glossary>
+</document>

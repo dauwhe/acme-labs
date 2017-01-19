@@ -1,0 +1,217 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Ecology of Fungi</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44632/latest/</md:content-url>
+  <md:content-id>m44632</md:content-id>
+  <md:title>Ecology of Fungi</md:title>
+  <md:version>1.5</md:version>
+  <md:created>2012/08/23 14:28:43 -0500</md:created>
+  <md:revised>2013/04/12 10:18:18.333 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>arbuscular mycorrhiza</md:keyword>
+    <md:keyword>coevolution of plants and mycorrhizae</md:keyword>
+    <md:keyword>decomposer</md:keyword>
+    <md:keyword>ecosystem</md:keyword>
+    <md:keyword>ectomycorrhiza</md:keyword>
+    <md:keyword>fungi</md:keyword>
+    <md:keyword>fungi ecology</md:keyword>
+    <md:keyword>fungi habitat</md:keyword>
+    <md:keyword>fungivore</md:keyword>
+    <md:keyword>fungus</md:keyword>
+    <md:keyword>fungus animal mutualism</md:keyword>
+    <md:keyword>fungus plant mutualism</md:keyword>
+    <md:keyword>lichen</md:keyword>
+    <md:keyword>mutual relationship</md:keyword>
+    <md:keyword>mycorrhiza</md:keyword>
+    <md:keyword>recycler</md:keyword>
+    <md:keyword>soredia</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the role of fungi in the ecosystem</item>
+<item>Describe mutualistic relationships of fungi with plant roots and photosynthetic organisms</item>
+<item>Describe the beneficial relationship between some fungi and insects</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idm113900608">Fungi play a crucial role in the balance of ecosystems. They colonize most habitats on Earth, preferring dark, moist conditions. They can thrive in seemingly hostile environments, such as the tundra, thanks to a most successful symbiosis with photosynthetic organisms like algae to produce lichens. Fungi are not obvious in the way large animals or tall trees appear. Yet, like bacteria, they are the major decomposers of nature. With their versatile metabolism, fungi break down organic matter, which would not otherwise be recycled.</para>
+<section id="fs-idp73638048">
+<title>Habitats</title>
+<para id="fs-idp7862448">Although fungi are primarily associated with humid and cool environments that provide a supply of organic matter, they colonize a surprising diversity of habitats, from seawater to human skin and mucous membranes. Chytrids are found primarily in aquatic environments. Other fungi, such as <emphasis effect="italics">Coccidioides immitis</emphasis>, which causes pneumonia when its spores are inhaled, thrive in the dry and sandy soil of the southwestern United States. Fungi that parasitize coral reefs live in the ocean. However, most members of the Kingdom Fungi grow on the forest floor, where the dark and damp environment is rich in decaying debris from plants and animals. In these environments, fungi play a major role as decomposers and recyclers, making it possible for members of the other kingdoms to be supplied with nutrients and live.</para>
+</section>
+<section id="fs-idm86441744">
+<title>Decomposers and Recyclers</title>
+<para id="fs-idm65469024">The food web would be incomplete without organisms that decompose organic matter (<link target-id="fig-ch24_03_01" document=""/>). Some elements&#8212;such as nitrogen and phosphorus&#8212;are required in large quantities by biological systems, and yet are not abundant in the environment. The action of fungi releases these elements from decaying matter, making them available to other living organisms. Trace elements present in low amounts in many habitats are essential for growth, and would remain tied up in rotting organic matter if fungi and bacteria did not return them to the environment via their metabolic activity.</para>
+<figure id="fig-ch24_03_01"><media id="fs-idm104090896" alt="Photo shows two shell-shaped mushrooms growing on decaying wood.">
+<image mime-type="image/jpg" src="Figure_24_03_01.jpg" width="350"/>
+</media>
+<caption>Fungi are an important part of ecosystem nutrient cycles. These bracket fungi growing on the side of a tree are the fruiting structures of a basidiomycete. They receive their nutrients through their hyphae, which invade and decay the tree trunk. (credit: Cory Zanker)</caption></figure><para id="fs-idm38691040">The ability of fungi to degrade many large and insoluble molecules is due to their mode of nutrition. As seen earlier, digestion precedes ingestion. Fungi produce a variety of exoenzymes to digest nutrients. The enzymes are either released into the substrate or remain bound to the outside of the fungal cell wall. Large molecules are broken down into small molecules, which are transported into the cell by a system of protein carriers embedded in the cell membrane. Because the movement of small molecules and enzymes is dependent on the presence of water, active growth depends on a relatively high percentage of moisture in the environment.</para>
+<para id="fs-idm29231552">As saprobes, fungi help maintain a sustainable ecosystem for the animals and plants that share the same habitat. In addition to replenishing the environment with nutrients, fungi interact directly with other organisms in beneficial, and sometimes damaging, ways (<link target-id="fig-ch24_03_02" document=""/>).</para>
+<figure id="fig-ch24_03_02"><media id="fs-idm31082432" alt="Photo shows a shell-shaped shelf fungus growing on a living tree.">
+<image mime-type="image/jpg" src="Figure_24_03_02.jpg" width="350"/>
+</media>
+<caption>Shelf fungi, so called because they grow on trees in a stack, attack and digest the trunk or branches of a tree. While some shelf fungi are found only on dead trees, others can parasitize living trees and cause eventual death, so they are considered serious tree pathogens. (credit: Cory Zanker)</caption></figure></section>
+<section id="fs-idm103051328">
+<title>Mutualistic Relationships</title>
+<para id="fs-idp97698336">Symbiosis is the ecological interaction between two organisms that live together. The definition does not describe the quality of the interaction. When both members of the association benefit, the symbiotic relationship is called mutualistic. Fungi form mutualistic associations with many types of organisms, including cyanobacteria, algae, plants, and animals.</para>
+<section id="fs-idm102961600">
+<title>Fungus/Plant Mutualism</title>
+<para id="fs-idm101352512">One of the most remarkable associations between fungi and plants is the establishment of mycorrhizae. <term>Mycorrhiza</term>, which comes from the Greek words <emphasis effect="italics">myco</emphasis> meaning fungus and<emphasis effect="italics"> rhizo</emphasis> meaning root, refers to the association between vascular plant roots and their symbiotic fungi. Somewhere between 80 and 90 percent of all plant species have mycorrhizal partners. In a mycorrhizal association, the fungal mycelia use their extensive network of hyphae and large surface area in contact with the soil to channel water and minerals from the soil into the plant. In exchange, the plant supplies the products of photosynthesis to fuel the metabolism of the fungus.</para>
+<para id="fs-idp96668112">There are a number of types of mycorrhizae. <term>Ectomycorrhizae</term> (&#8220;outside&#8221; mycorrhiza) depend on fungi enveloping the roots in a sheath (called a mantle) and a Hartig net of hyphae that extends into the roots between cells (<link target-id="fig-ch24_03_03" document=""/>). The fungal partner can belong to the Ascomycota, Basidiomycota or Zygomycota. In a second type, the Glomeromycete fungi form vesicular&#8211;arbuscular interactions with <term>arbuscular mycorrhiza</term> (sometimes called endomycorrhizae). In these mycorrhiza, the fungi form arbuscules that penetrate root cells and are the site of the metabolic exchanges between the fungus and the host plant (<link target-id="fig-ch24_03_03" document=""/> and <link target-id="fig-ch24_03_04" document=""/>). The arbuscules (from the Latin for little trees) have a shrub-like appearance. Orchids rely on a third type of mycorrhiza. Orchids are epiphytes that form small seeds without much storage to sustain germination and growth. Their seeds will not germinate without a mycorrhizal partner (usually a Basidiomycete). After nutrients in the seed are depleted, fungal symbionts support the growth of the orchid by providing necessary carbohydrates and minerals. Some orchids continue to be mycorrhizal throughout their lifecycle.</para>
+<note id="fs-idm30351520" class="art-connection"><label/><title>Art Connection</title>
+<figure id="fig-ch24_03_03"><media id="fs-idp9068688" alt="Part A compares two types of mycorrhizae are shown: ectomycorrhiza and arbuscular mycorrhiza. In ectomycorrhiza, fungal hyphae form a structure called a Hartig net inside the root. The Hartig net forms rows of cells that extend straight down, and branch toward the outside of the root. A fungal mantle surrounds the root. Mycelia extend from the fungal mantle. In arbuscular mycorrhiza, the fungi form finger-like clusters that are connected to mycelia that extend from the root into the soil. Part B is a micrograph of arbuscular mycorrhiza, which appear as grape-like clusters in a root tip.">
+<image mime-type="image/png" src="Figure_24_03_03.png" width="400"/>
+</media>
+
+<caption>(a) Ectomycorrhiza and (b) arbuscular mycorrhiza  have different mechanisms for interacting with the roots of plants. (credit b: MS Turmel, University of Manitoba, Plant Science Department)</caption></figure><para id="fs-idm30998528">If symbiotic fungi are absent from the soil, what impact do you think this would have on plant growth?</para>
+<!--<para><link target-id="fig-ch24_03_03" document=""/> Without mycorrhiza, plants cannot absorb adequate nutrients, which stunts their growth. Addition of fungal spores to sterile soil can alleviate this problem.</para>-->
+</note><figure id="fig-ch24_03_04"><media id="fs-idm86818400" alt="Part A is a photograph showing a white fungal mantle that covers a tree-like structure that has grown from the side of a root. Part B is a micrograph showing ribbon-like hyphae surrounded by spores that are about 30 microns across.">
+<image mime-type="image/jpg" src="Figure_24_03_04ab.jpg" width="500"/>
+</media>
+<caption>The (a) infection of <emphasis effect="italics">Pinus radiata</emphasis> (Monterey pine) roots by the hyphae of <emphasis effect="italics">Amanita muscaria</emphasis> (fly amanita) causes the pine tree to produce many small, branched rootlets. The <emphasis effect="italics">Amanita</emphasis> hyphae cover these small roots with a white mantle. (b) Spores (round bodies) and hyphae (thread-like structures) are evident in this light micrograph of an arbuscular mycorrhiza between a fungus and the root of a corn plant. (credit a: modification of work by Randy Molina, USDA; credit b: modification of work by Sara Wright, USDA-ARS; scale-bar data from Matt Russell)</caption></figure>
+<para id="fs-idm66951648">Other examples of fungus&#8211;plant mutualism include the endophytes: fungi that live inside tissue without damaging the host plant. Endophytes release toxins that repel herbivores, or confer resistance to environmental stress factors, such as infection by microorganisms, drought, or heavy metals in soil.</para>
+<note id="fs-idm47752496" class="evolution"><label/><title>Evolution Connection</title>
+
+<para id="fs-idm46361760"><title>Coevolution of Land Plants and Mycorrhizae</title>Mycorrhizae are the mutually beneficial symbiotic association between roots of vascular plants and fungi. A well-accepted theory proposes that fungi were instrumental in the evolution of the root system in plants and contributed to the success of Angiosperms. The bryophytes (mosses and liverworts), which are considered the most primitive plants and the first to survive on dry land, do not have a true root system; some have vesicular&#8211;arbuscular mycorrhizae and some do not. They depend on a simple rhizoid (an underground organ) and cannot survive in dry areas. True roots appeared in vascular plants. Vascular plants that developed a system of thin extensions from the rhizoids (found in mosses) are thought to have had a selective advantage because they had a greater surface area of contact with the fungal partners than the mosses and liverworts, thus availing themselves of more nutrients in the ground.</para><para id="fs-idm63746176">Fossil records indicate that fungi preceded plants on dry land. The first association between fungi and photosynthetic organisms on land involved moss-like plants and endophytes. These early associations developed before roots appeared in plants. Slowly, the benefits of the endophyte and rhizoid interactions for both partners led to present-day mycorrhizae; up to about 90 percent of today&#8217;s vascular plants have associations with fungi in their rhizosphere. The fungi involved in mycorrhizae display many characteristics of primitive fungi; they produce simple spores, show little diversification, do not have a sexual reproductive cycle, and cannot live outside of a mycorrhizal association. The plants benefited from the association because mycorrhizae allowed them to move into new habitats because of increased uptake of nutrients, and this gave them a selective advantage over plants that did not establish symbiotic relationships.</para>
+</note></section>
+<section id="fs-idm126658976">
+<title>Lichens</title>
+<para id="fs-idm69749344"><term>Lichens</term> display a range of colors and textures (<link target-id="fs-idp9077424" document=""/>) and can survive in the most unusual and hostile habitats. They cover rocks, gravestones, tree bark, and the ground in the tundra where plant roots cannot penetrate. Lichens can survive extended periods of drought, when they become completely desiccated, and then rapidly become active once water is available again.</para><note id="fs-idm87937072" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idm1065216" alt="QR Code representing a URL">
+<image mime-type="image/png" src="lichenland.png" width="130"/>
+</media>
+<para id="fs-idm51001920">Explore the world of lichens using this <link window="new" url="http://openstaxcollege.org/l/lichenland">site</link> from Oregon State University.</para>
+</note><figure id="fs-idp9077424" orient="vertical"><media id="eip-idp53461680" alt=" Different lichens are shown. Part A shows a lichen that appears like brown flecks on gray rock. Part B shows a moss-like lichen hanging from a tree. Part C shows lichen that have a wide, flat, convoluted shape.">
+<image mime-type="image/jpg" src="Figure_24_03_05abcf.jpg" width="500"/>
+</media><caption>Lichens have many forms. They may be (a) crust-like, (b) hair-like, or (c) leaf-like. (credit a: modification of work by Jo Naylor; credit b: modification of work by "djpmapleferryman"/Flickr; credit c: modification of work by Cory Zanker)</caption></figure><para id="fs-idm62172896">Lichens are not a single organism, but rather an example of a mutualism, in which a fungus (usually a member of the Ascomycota or Basidiomycota phyla) lives in close contact with a photosynthetic organism (a eukaryotic alga or a prokaryotic cyanobacterium) (<link target-id="fig-ch24_03_06" document=""/>). Generally, neither the fungus nor the photosynthetic organism can survive alone outside of the symbiotic relationship. The body of a lichen, referred to as a thallus, is formed of hyphae wrapped around the photosynthetic partner. The photosynthetic organism provides carbon and energy in the form of carbohydrates. Some cyanobacteria fix nitrogen from the atmosphere, contributing nitrogenous compounds to the association. In return, the fungus supplies minerals and protection from dryness and excessive light by encasing the algae in its mycelium. The fungus also attaches the symbiotic organism to the substrate.</para>
+<figure id="fig-ch24_03_06">
+<media id="fs-idp5353360" alt=" The lichen has multiple layers. The top layer, or cortex, is made up of irregularly shaped cells. Beneath this layer, the cells in the algal zone hyphae wrap around the cyanobacteria. Beneath the algal zone, long, thread-like mycelia occur. Beneath the mycelia is the lower cortex, which is similar in appearance to the upper cortex, but with larger cells. Projections beneath the lower cortex anchor the lichen to its substrate.">
+<image mime-type="image/jpg" src="Figure_24_03_06.jpg" width="300"/>
+</media>
+<caption>This cross-section of a lichen thallus shows the (a) upper cortex of fungal hyphae, which provides protection; the (b) algal zone where photosynthesis occurs, the (c) medulla of fungal hyphae, and the (d) lower cortex, which also provides protection and may have (e) rhizines to anchor the thallus to the substrate.</caption>
+</figure>
+<para id="fs-idm55282832">The thallus of lichens grows very slowly, expanding its diameter a few millimeters per year. Both the fungus and the alga participate in the formation of dispersal units for reproduction. Lichens produce <term>soredia</term>, clusters of algal cells surrounded by mycelia. Soredia are dispersed by wind and water and form new lichens.</para>
+<para id="fs-idm96393232">Lichens are extremely sensitive to air pollution, especially to abnormal levels of nitrogen and sulfur. The U.S. Forest Service and National Park Service can monitor air quality by measuring the relative abundance and health of the lichen population in an area. Lichens fulfill many ecological roles. Caribou and reindeer eat lichens, and they provide cover for small invertebrates that hide in the mycelium. In the production of textiles, weavers used lichens to dye wool for many centuries until the advent of synthetic dyes.</para>
+<note id="fs-idm101662880" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idm27068128" alt="QR Code representing a URL">
+<image mime-type="image/png" src="lichen_monitrng.png" width="130"/>
+</media>
+<para id="fs-idp94699504">Lichens are used to monitor the quality of air. Read more on this <link window="new" url="http://openstaxcollege.org/l/lichen_monitrng">site</link> from the United States Forest Service.</para></note></section>
+<section id="fs-idm91025456">
+<title>Fungus/Animal Mutualism</title>
+<para id="fs-idm100112528">Fungi have evolved mutualisms with numerous insects in Phylum Arthropoda: jointed, legged invertebrates. Arthropods depend on the fungus for protection from predators and pathogens, while the fungus obtains nutrients and a way to disseminate spores into new environments. The association between species of Basidiomycota and scale insects is one example. The fungal mycelium covers and protects the insect colonies. The scale insects foster a flow of nutrients from the parasitized plant to the fungus. In a second example, leaf-cutting ants of Central and South America literally farm fungi. They cut disks of leaves from plants and pile them up in gardens (<link target-id="fig-ch24_03_07" document=""/>). Fungi are cultivated in these disk gardens, digesting the cellulose in the leaves that the ants cannot break down. Once smaller sugar molecules are produced and consumed by the fungi, the fungi in turn become a meal for the ants. The insects also patrol their garden, preying on competing fungi. Both ants and fungi benefit from the association. The fungus receives a steady supply of leaves and freedom from competition, while the ants feed on the fungi they cultivate.</para>
+<figure id="fig-ch24_03_07"><media id="fs-idm29582560" alt=" Photo shows an ant carrying a leaf over its head.">
+<image mime-type="image/jpg" src="Figure_24_03_07.jpg" width="325"/>
+</media>
+<caption>A leaf cutting ant transports a leaf that will feed a farmed fungus. (credit: Scott Bauer, USDA-ARS)</caption></figure></section>
+</section>
+<section id="fs-idm35347152">
+<title>Fungivores</title>
+<para id="fs-idm90358288">Animal dispersal is important for some fungi because an animal may carry spores considerable distances from the source. Fungal spores are rarely completely degraded in the gastrointestinal tract of an animal, and many are able to germinate when they are passed in the feces. Some dung fungi actually require passage through the digestive system of herbivores to complete their lifecycle. The black truffle&#8212;a prized gourmet delicacy&#8212;is the fruiting body of an underground mushroom. Almost all truffles are ectomycorrhizal, and are usually found in close association with trees. Animals eat truffles and disperse the spores. In Italy and France, truffle hunters use female pigs to sniff out truffles. Female pigs are attracted to truffles because the fungus releases a volatile compound closely related to a pheromone produced by male pigs.</para></section>
+<section id="fs-idm45773456" class="summary">
+<title>Section Summary</title><para id="fs-idm111556832">Fungi have colonized nearly all environments on Earth, but are frequently found in cool, dark, moist places with a supply of decaying material. Fungi are saprobes that decompose organic matter. Many successful mutualistic relationships involve a fungus and another organism. Many fungi establish complex mycorrhizal associations with the roots of plants. Some ants farm fungi as a supply of food. Lichens are a symbiotic relationship between a fungus and a photosynthetic organism, usually an alga or cyanobacterium. The photosynthetic organism provides energy derived from light and carbohydrates, while the fungus supplies minerals and protection. Some animals that consume fungi help disseminate spores over long distances.</para>
+</section>
+<section id="fs-idm87571920" class="art-exercise">
+<title>Art Connections</title>
+<exercise id="fs-idm112715536">
+<problem id="fs-idp13217392">
+<para id="fs-idm52332432"><link target-id="fig-ch24_03_03" document=""/> If symbiotic fungi are absent from the soil, what impact do you think this would have on plant growth?</para>
+</problem>
+<solution id="eip-idp57526896">
+<label/>
+<para id="fs-idm84950240"><link target-id="fig-ch24_03_03" document=""/> Without mycorrhiza, plants cannot absorb adequate nutrients, which stunts their growth. Addition of fungal spores to sterile soil can alleviate this problem.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm61209968" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm67316192">
+<problem id="fs-idm29649312">
+<para id="fs-idm50565440">What term describes the close association of a fungus with the root of a tree?</para>
+<list id="fs-idm64949920" list-type="enumerated" number-style="lower-alpha">
+<item>a rhizoid</item>
+<item>a lichen</item>
+<item>a mycorrhiza</item>
+<item>an endophyte</item>
+</list>
+</problem>
+<solution id="fs-idm46389936">
+<label/>
+<para id="fs-idm115873008">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm61794080">
+<problem id="fs-idm88103344">
+<para id="fs-idp33313968">Why are fungi important decomposers?</para>
+<list id="fs-idm96565312" list-type="enumerated" number-style="lower-alpha">
+<item>They produce many spores.</item>
+<item>They can grow in many different environments.</item>
+<item>They produce mycelia.</item>
+<item>They recycle carbon and inorganic minerals by the process of decomposition.</item>
+</list>
+</problem>
+<solution id="fs-idm90392192">
+<label/>
+<para id="fs-idm40398768">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm35096832" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm66901712">
+<problem id="fs-idm88991584"><para id="fs-idp75172256">Why does protection from light actually benefit the photosynthetic partner in lichens?</para></problem>
+<solution id="fs-idp73570480"><label/>
+<para id="fs-idm89516560">Protection from excess light that may bleach photosynthetic pigments allows the photosynthetic partner to survive in environments unfavorable to plants.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm91833040"><term>arbuscular mycorrhiza</term> <meaning id="fs-idm35490320">mycorrhizal association in which the fungal hyphae enter the root cells and form extensive networks</meaning></definition>
+<definition id="fs-idm49463216"><term>ectomycorrhiza</term> <meaning id="fs-idm87150816">mycorrhizal fungi that surround the roots with a mantle and have a Hartig net that extends into the roots between cells</meaning></definition>
+<definition id="fs-idm152102032"><term>lichen</term> <meaning id="fs-idp93168768">close association of a fungus with a photosynthetic alga or bacterium that benefits both partners</meaning></definition>
+<definition id="fs-idm38214912"><term>mycorrhiza</term> <meaning id="fs-idm174141552">mutualistic association between fungi and vascular plant roots</meaning></definition>
+<definition id="fs-idm116977248"><term>soredia</term> <meaning id="fs-idm64035776">clusters of algal cells and mycelia that allow lichens to propagate</meaning></definition>
+</glossary>
+</document>

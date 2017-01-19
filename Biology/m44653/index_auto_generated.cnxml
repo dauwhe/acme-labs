@@ -1,0 +1,256 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Evolution of Seed Plants</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44653/latest/</md:content-url>
+  <md:content-id>m44653</md:content-id>
+  <md:title>Evolution of Seed Plants</md:title>
+  <md:version>1.6</md:version>
+  <md:created>2012/08/23 14:34:57 -0500</md:created>
+  <md:revised>2013/04/10 10:59:51.669 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>adaptation to land</md:keyword>
+    <md:keyword>angiosperm</md:keyword>
+    <md:keyword>angiosperm evolution</md:keyword>
+    <md:keyword>carboniferous period</md:keyword>
+    <md:keyword>flower</md:keyword>
+    <md:keyword>flower evolution</md:keyword>
+    <md:keyword>fruit</md:keyword>
+    <md:keyword>fruit evolution</md:keyword>
+    <md:keyword>gymnosperm</md:keyword>
+    <md:keyword>gymnosperm evolution</md:keyword>
+    <md:keyword>heterosporous</md:keyword>
+    <md:keyword>homosporous</md:keyword>
+    <md:keyword>megaspore</md:keyword>
+    <md:keyword>microspore</md:keyword>
+    <md:keyword>ovule</md:keyword>
+    <md:keyword>plant adaptation</md:keyword>
+    <md:keyword>plant phylogeny</md:keyword>
+    <md:keyword>pollen</md:keyword>
+    <md:keyword>pollen evolution</md:keyword>
+    <md:keyword>pollen grain</md:keyword>
+    <md:keyword>pollen tube</md:keyword>
+    <md:keyword>progymnosperm</md:keyword>
+    <md:keyword>seed</md:keyword>
+    <md:keyword>seed evolution</md:keyword>
+    <md:keyword>seed plant</md:keyword>
+    <md:keyword>seed plant evolution</md:keyword>
+    <md:keyword>seed plant reproduction</md:keyword>
+    <md:keyword>spermatophyte</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain when seed plants first appeared and when gymnosperms became the dominant plant group</item>
+<item>Describe the two major innovations that allowed seed plants to reproduce in the absence of water</item>
+<item>Discuss the purpose of pollen grains and seeds</item>
+<item>Describe the significance of angiosperms bearing both flowers and fruit</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idm4233248">The first plants to colonize land were most likely closely related to modern day mosses (bryophytes) and are thought to have appeared about 500 million years ago. They were followed by liverworts (also bryophytes) and primitive vascular plants&#8212;the pterophytes&#8212;from which modern ferns are derived. The lifecycle of bryophytes and pterophytes is characterized by the alternation of generations, like gymnosperms and angiosperms; what sets bryophytes and pterophytes apart from gymnosperms and angiosperms is their reproductive requirement for water. The completion of the bryophyte and pterophyte life cycle requires water because the male gametophyte releases sperm, which must swim&#8212;propelled by their flagella&#8212;to reach and fertilize the female gamete or egg. After fertilization, the zygote matures and grows into a sporophyte, which in turn will form sporangia or "spore vessels." In the sporangia, mother cells undergo meiosis and produce the haploid spores. Release of spores in a suitable environment will lead to germination and a new generation of gametophytes.</para>
+<para id="fs-idp217794576">In seed plants, the evolutionary trend led to a dominant sporophyte generation, and at the same time, a systematic reduction in the size of the gametophyte: from a conspicuous structure to a microscopic cluster of cells enclosed in the tissues of the sporophyte. Whereas lower vascular plants, such as club mosses and ferns, are mostly homosporous (produce only one type of spore), all seed plants, or <term>spermatophytes</term>, are heterosporous. They form two types of spores: megaspores (female) and microspores (male). Megaspores develop into female gametophytes that produce eggs, and microspores mature into male gametophytes that generate sperm. Because the gametophytes mature within the spores, they are not free-living, as are the gametophytes of other seedless vascular plants. Heterosporous seedless plants are seen as the evolutionary forerunners of seed plants.</para>
+<para id="fs-idp121615600">Seeds and pollen&#8212;two critical adaptations to drought, and to reproduction that doesn&#8217;t require water&#8212;distinguish seed plants from other (seedless) vascular plants. Both adaptations were required for the colonization of land begun by the bryophytes and their ancestors. Fossils place the earliest distinct seed plants at about 350 million years ago. The first reliable record of gymnosperms dates their appearance to the Pennsylvanian period, about 319 million years ago (<link target-id="fig-ch26_01_01" document=""/>). Gymnosperms were preceded by <term>progymnosperms</term>, the first naked seed plants, which arose about 380 million years ago. Progymnosperms were a transitional group of plants that superficially resembled conifers (cone bearers) because they produced wood from the secondary growth of the vascular tissues; however, they still reproduced like ferns, releasing spores into the environment. Gymnosperms dominated the landscape in the early (Triassic) and middle (Jurassic) Mesozoic era. Angiosperms surpassed gymnosperms by the middle of the Cretaceous (about 100 million years ago) in the late Mesozoic era, and today are the most abundant plant group in most terrestrial biomes.</para>
+<figure id="fig-ch26_01_01">
+<media id="fs-idm7582800" alt=" Part A is a table showing a timeline of geological eras. Part B is a geological time scale shaped like a spiral; it includes images indicating when certain species evolved.">
+<image mime-type="image/jpg" src="Figure_26_01_01.jpg" width="340"/>
+</media>
+<caption>Various plant species evolved in different eras. (credit: United States Geological Survey)</caption>
+</figure>
+<para id="fs-idp39544208">Pollen and seed were innovative structures that allowed seed plants to break their dependence on water for reproduction and development of the embryo, and to conquer dry land. The <term>pollen grains</term> are the male gametophytes, which contain the sperm (gametes) of the plant. The small haploid (1<emphasis effect="italics">n</emphasis>) cells are encased in a protective coat that prevents desiccation (drying out) and mechanical damage. Pollen grains can travel far from their original sporophyte, spreading the plant&#8217;s genes. The <term>seed</term> offers the embryo protection, nourishment, and a mechanism to maintain dormancy for tens or even thousands of years, ensuring germination can occur when growth conditions are optimal. Seeds therefore allow plants to disperse the next generation through both space and time. With such evolutionary advantages, seed plants have become the most successful and familiar group of plants, in part because of their size and striking appearance.</para>
+<section id="fs-idp1993232">
+<title>Evolution of Gymnosperms</title>
+<para id="fs-idp106419072">The fossil plant <emphasis effect="italics">Elkinsia polymorpha</emphasis>, a "seed fern" from the Devonian period&#8212;about 400&#160;million years ago&#8212;is considered the earliest seed plant known to date. Seed ferns (<link target-id="fig-ch26_01_02" document=""/>) produced their seeds along their branches without specialized structures. What makes them the first true seed plants is that they developed structures called cupules to enclose and protect the <term>ovule</term>&#8212;the female gametophyte and associated tissues&#8212;which develops into a seed upon fertilization. Seed plants resembling modern tree ferns became more numerous and diverse in the coal swamps of the Carboniferous period.</para>
+<figure id="fig-ch26_01_02">
+<media id="fs-idp69511200" alt=" Photo shows a fossilized leaf that is more than ten inches long, brown and feather-shaped.">
+<image mime-type="image/jpg" src="Figure_26_01_02.jpg" width="340"/>
+</media>
+<caption>This fossilized leaf is from <emphasis effect="italics">Glossopteris</emphasis>, a seed fern that thrived during the Permian age (290&#8211;240&#160;million years ago). (credit: D.L. Schmidt, USGS)</caption></figure><para id="fs-idm3831664">Fossil records indicate the first gymnosperms (progymnosperms) most likely originated in the Paleozoic era, during the middle Devonian period: about 390 million years ago. Following the wet Mississippian and Pennsylvanian periods, which were dominated by giant fern trees, the Permian period was dry. This gave a reproductive edge to seed plants, which are better adapted to survive dry spells. The Ginkgoales, a group of gymnosperms with only one surviving species&#8212;the <emphasis effect="italics">Gingko biloba&#8212;</emphasis>were the first gymnosperms to appear during the lower Jurassic. Gymnosperms expanded in the Mesozoic era (about 240 million years ago), supplanting ferns in the landscape, and reaching their greatest diversity during this time. The Jurassic period was as much the age of the cycads (palm-tree-like gymnosperms) as the age of the dinosaurs. Gingkoales and the more familiar conifers also dotted the landscape. Although angiosperms (flowering plants) are the major form of plant life in most biomes, gymnosperms still dominate some ecosystems, such as the taiga (boreal forests) and the alpine forests at higher mountain elevations (<link target-id="fig-ch26_01_03" document=""/>) because of their adaptation to cold and dry growth conditions.</para>
+<figure id="fig-ch26_01_03">
+<media id="fs-idm25088432" alt=" Photo shows a boreal forest with a uniform low layer of plants and tall conifers scattered throughout the landscape. The snowcapped mountains of the Alaska Range are in the background.">
+<image mime-type="image/jpg" src="Figure_26_01_03.jpg" width="320"/>
+</media>
+<caption>This boreal forest (taiga) has low-lying plants and conifer trees. (credit: L.B. Brubaker, NOAA)</caption>
+</figure>
+<section id="fs-idp46274048">
+<title>Seeds and Pollen as an Evolutionary Adaptation to Dry Land</title>
+<para id="fs-idm3827568">Unlike bryophyte and fern spores (which are haploid cells dependent on moisture for rapid development of gametophytes), seeds contain a diploid embryo that will germinate into a sporophyte. Storage tissue to sustain growth and a protective coat give seeds their superior evolutionary advantage. Several layers of hardened tissue prevent desiccation, and free reproduction from the need for a constant supply of water. Furthermore, seeds remain in a state of dormancy&#8212;induced by desiccation and the hormone abscisic acid&#8212;until conditions for growth become favorable. Whether blown by the wind, floating on water, or carried away by animals, seeds are scattered in an expanding geographic range, thus avoiding competition with the parent plant.</para>
+<para id="fs-idp123862752">Pollen grains (<link target-id="fig-ch26_01_04" document=""/>) are male gametophytes and are carried by wind, water, or a pollinator. The whole structure is protected from desiccation and can reach the female organs without dependence on water. Male gametes reach female gametophyte and the egg cell gamete though a pollen tube: an extension of a cell within the pollen grain. The sperm of modern gymnosperms lack flagella, but in cycads and the <emphasis effect="italics">Gingko</emphasis>, the sperm still possess flagella that allow them to swim down the <term>pollen tube</term> to the female gamete; however, they are enclosed in a pollen grain.</para>
+<figure id="fig-ch26_01_04"><media id="fs-idp60578464" alt=" The micrograph shows four different kinds of fossilized pollen. The pollen is oval or round in shape, with a bumpy texture.">
+<image mime-type="image/jpg" src="Figure_26_01_04.jpg" width="280"/>
+</media>
+
+<caption>This fossilized pollen is from a Buckbean fen core found in Yellowstone National Park, Wyoming. The pollen is magnified 1,054 times. (credit: R.G. Baker, USGS; scale-bar data from Matt Russell)</caption></figure></section>
+</section>
+<section id="fs-idp121891648">
+<title>Evolution of Angiosperms</title>
+<para id="fs-idm5298576">Undisputed fossil records place the massive appearance and diversification of angiosperms in the middle to late Mesozoic era. Angiosperms (&#8220;seed in a vessel&#8221;) produce a flower containing male and/or female reproductive structures. Fossil evidence (<link target-id="fig-ch26_01_05" document=""/>) indicates that flowering plants first appeared in the Lower Cretaceous, about 125 million years ago, and were rapidly diversifying by the Middle Cretaceous, about 100 million years ago. Earlier traces of angiosperms are scarce. Fossilized pollen recovered from Jurassic geological material has been attributed to angiosperms. A few early Cretaceous rocks show clear imprints of leaves resembling angiosperm leaves. By the mid-Cretaceous, a staggering number of diverse flowering plants crowd the fossil record. The same geological period is also marked by the appearance of many modern groups of insects, including pollinating insects that played a key role in ecology and the evolution of flowering plants.</para>
+<para id="fs-idp118817936">Although several hypotheses have been offered to explain this sudden profusion and variety of flowering plants, none have garnered the consensus of paleobotanists (scientists who study ancient plants). New data in comparative genomics and paleobotany have, however, shed some light on the evolution of angiosperms. Rather than being derived from gymnosperms, angiosperms form a sister clade (a species and its descendents) that developed in parallel with the gymnosperms. The two innovative structures of flowers and fruit represent an improved reproductive strategy that served to protect the embryo, while increasing genetic variability and range. Paleobotanists debate whether angiosperms evolved from small woody bushes, or were basal angiosperms related to tropical grasses. Both views draw support from cladistics studies, and the so-called woody magnoliid hypothesis&#8212;which proposes that the early ancestors of angiosperms were shrubs&#8212;also offers molecular biological evidence.</para>
+<para id="fs-idp28014000">The most primitive living angiosperm is considered to be <emphasis effect="italics">Amborella trichopoda</emphasis>, a small plant native to the rainforest of New Caledonia, an island in the South Pacific. Analysis of the genome of <emphasis effect="italics">A. trichopoda</emphasis> has shown that it is related to all existing flowering plants and belongs to the oldest confirmed branch of the angiosperm family tree. A few other angiosperm groups called basal angiosperms, are viewed as primitive because they branched off early from the phylogenetic tree. Most modern angiosperms are classified as either monocots or eudicots, based on the structure of their leaves and embryos. Basal angiosperms, such as water lilies, are considered more primitive because they share morphological traits with both monocots and eudicots.</para>
+<figure id="fig-ch26_01_05"><media id="fs-idm47749824" alt=" Photo shows a fossilized leaf, which looks much like a modern teardrop-shaped leaf with multiple, branching veins.">
+<image mime-type="image/jpg" src="Figure_26_01_05.jpg" width="240"/>
+</media>
+
+<caption>This leaf imprint shows a <emphasis effect="italics">Ficus speciosissima</emphasis>, an angiosperm that flourished during the Cretaceous period. (credit: W. T. Lee, USGS)</caption></figure><section id="fs-idm26009936"><title>Flowers and Fruits as an Evolutionary Adaptation</title><para id="fs-idp131161424">Angiosperms produce their gametes in separate organs, which are usually housed in a <term>flower</term>. Both fertilization and embryo development take place inside an anatomical structure that provides a stable system of sexual reproduction largely sheltered from environmental fluctuations. Flowering plants are the most diverse phylum on Earth after insects; flowers come in a bewildering array of sizes, shapes, colors, smells, and arrangements. Most flowers have a mutualistic pollinator, with the distinctive features of flowers reflecting the nature of the pollination agent. The relationship between pollinator and flower characteristics is one of the great examples of coevolution.</para>
+<para id="fs-idm22583776">Following fertilization of the egg, the ovule grows into a seed. The surrounding tissues of the ovary thicken, developing into a <term>fruit</term> that will protect the seed and often ensure its dispersal over a wide geographic range. Not all fruits develop from an ovary; such structures are &#8220;false fruits.&#8221; Like flowers, fruit can vary tremendously in appearance, size, smell, and taste. Tomatoes, walnut shells and avocados are all examples of fruit. As with pollen and seeds, fruits also act as agents of dispersal. Some may be carried away by the wind. Many attract animals that will eat the fruit and pass the seeds through their digestive systems, then deposit the seeds in another location. Cockleburs are covered with stiff, hooked spines that can hook into fur (or clothing) and hitch a ride on an animal for long distances. The cockleburs that clung to the velvet trousers of an enterprising Swiss hiker, George de Mestral, inspired his invention of the loop and hook fastener he named Velcro.</para>
+<note id="fs-idp95847440" class="evolution"><label/><title>Evolution Connection</title>
+
+<para id="fs-idp34879664"><title>Building Phylogenetic Trees with Analysis of DNA Sequence Alignments</title>All living organisms display patterns of relationships derived from their evolutionary history. Phylogeny is the science that describes the relative connections between organisms, in terms of ancestral and descendant species. Phylogenetic trees, such as the plant evolutionary history shown in <link target-id="fig-ch26_01_06" document=""/>, are tree-like branching diagrams that depict these relationships. Species are found at the tips of the branches. Each branching point, called a node, is the point at which a single taxonomic group (taxon), such as a species, separates into two or more species.</para>
+<figure id="fig-ch26_01_06" class=" "><media id="fs-idp116366816" alt="">
+<image mime-type="image/jpeg" src="Figure_26_01_06.jpg" width="520"/>    
+</media>
+<caption>This phylogenetic tree shows the evolutionary relationships of plants.</caption></figure><para id="fs-idp19625408">Phylogenetic trees have been built to describe the relationships between species since Darwin&#8217;s time. Traditional methods involve comparison of homologous anatomical structures and embryonic development, assuming that closely related organisms share anatomical features during embryo development. Some traits that disappear in the adult are present in the embryo; for example, a human fetus, at one point, has a tail. The study of fossil records shows the intermediate stages that link an ancestral form to its descendants. Most of these approaches are imprecise and lend themselves to multiple interpretations. As the tools of molecular biology and computational analysis have been developed and perfected in recent years, a new generation of tree-building methods has taken shape. The key assumption is that genes for essential proteins or RNA structures, such as the ribosomal RNA, are inherently conserved because mutations (changes in the DNA sequence) could compromise the survival of the organism. DNA from minute amounts of living organisms or fossils can be amplified by polymerase chain reaction (PCR) and sequenced, targeting the regions of the genome that are most likely to be conserved between species. The genes encoding the ribosomal RNA from the small 18S subunit and plastid genes are frequently chosen for DNA alignment analysis.</para>
+<para id="fs-idp119054496">Once the sequences of interest are obtained, they are compared with existing sequences in databases such as GenBank, which is maintained by The National Center for Biotechnology Information. A number of computational tools are available to align and analyze sequences. Sophisticated computer analysis programs determine the percentage of sequence identity or homology. Sequence homology can be used to estimate the evolutionary distance between two DNA sequences and reflect the time elapsed since the genes separated from a common ancestor. Molecular analysis has revolutionized phylogenetic trees. In some cases, prior results from morphological studies have been confirmed: for example, confirming <emphasis effect="italics">Amborella trichopoda </emphasis>as the most primitive angiosperm known. However, some groups and relationships have been rearranged as a result of DNA analysis.</para>
+</note></section></section>
+<section id="fs-idp34969856" class="summary">
+<title>Section Summary</title><para id="fs-idm3786208">Seed plants appeared about one million years ago, during the Carboniferous period. Two major innovations&#8212;seed and pollen&#8212;allowed seed plants to reproduce in the absence of water. The gametophytes of seed plants shrank, while the sporophytes became prominent structures and the diploid stage became the longest phase of the lifecycle. Gymnosperms became the dominant group during the Triassic. In these, pollen grains and seeds protect against desiccation. The seed, unlike a spore, is a diploid embryo surrounded by storage tissue and protective layers. It is equipped to delay germination until growth conditions are optimal. Angiosperms bear both flowers and fruit. The structures protect the gametes and the embryo during its development. Angiosperms appeared during the Mesozoic era and have become the dominant plant life in terrestrial habitats.</para>
+</section>
+<section id="fs-idp82145696" class="multiple-choice"><title>Review Questions</title><exercise id="fs-idp152109776">
+<problem id="fs-idm25542800">
+<para id="fs-idm21061888">Seed plants are ________.</para>
+<list id="fs-idm2767248" list-type="enumerated" number-style="lower-alpha">
+<item>all homosporous.</item>
+<item>mostly homosporous with some heterosporous.</item>
+<item>mostly heterosporous with some homosporous.</item>
+<item>all heterosporous.</item>
+</list>
+</problem>
+<solution id="fs-idm22386640">
+<label/>
+<para id="fs-idp109561072">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idp35796256">
+<problem id="fs-idp16858720">
+<para id="fs-idp164197344">Besides the seed, what other major structure diminishes a plant&#8217;s reliance on water for reproduction?</para>
+<list id="fs-idp114478096" list-type="enumerated" number-style="lower-alpha">
+<item>flower</item>
+<item>fruit</item>
+<item>pollen</item>
+<item>spore</item>
+</list>
+</problem>
+<solution id="fs-idm26169984">
+<label/>
+<para id="fs-idp65680928">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm50302448">
+<problem id="fs-idp68126624">
+<para id="fs-idp14170128">In which of the following geological periods would gymnosperms dominate the landscape?</para>
+<list id="fs-idp190051424" list-type="enumerated" number-style="lower-alpha">
+<item>Carboniferous</item>
+<item>Permian</item>
+<item>Triassic</item>
+<item>Eocene (present)</item>
+</list>
+</problem>
+<solution id="fs-idp66467280">
+<label/>
+<para id="fs-idm9558400">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm14716480">
+<problem id="fs-idm62977232">
+<para id="fs-idp17599552">Which of the following structures widens the geographic range of a species and is an agent of dispersal?</para>
+<list id="fs-idm3076192" list-type="enumerated" number-style="lower-alpha">
+<item>seed</item>
+<item>flower</item>
+<item>leaf</item>
+<item>root</item>
+</list>
+</problem>
+<solution id="fs-idp189041008">
+<label/>
+<para id="fs-idp117780400">A</para>
+</solution>
+</exercise>
+</section><section id="fs-idp20494176" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idp76047552">
+<problem id="fs-idp54413776">
+<para id="fs-idp38594848">The Triassic Period was marked by the increase in number and variety of angiosperms. Insects also diversified enormously during the same period. Can you propose the reason or reasons that could foster coevolution?</para>
+</problem>
+<solution id="fs-idp64739856">
+<label/>
+<para id="fs-idp63123968">Both pollination and herbivory contributed to diversity, with plants needing to attract some insects and repel others.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp8568960">
+<problem id="fs-idp38625504">
+<para id="fs-idp731712">What role did the adaptations of seed and pollen play in the development and expansion of seed plants?</para>
+</problem>
+<solution id="fs-idp46667424">
+<label/>
+<para id="fs-idp77314496">Seeds and pollen allowed plants to reproduce in absence of water. This allowed them to expand their range onto dry land and to survive drought conditions.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idp19242224">
+<term>flower</term> <meaning id="fs-idm65023360">branches specialized for reproduction found in some seed-bearing plants, containing either specialized male or female organs or both male and female organs</meaning>
+</definition>
+<definition id="fs-idp21453760">
+<term>fruit</term> <meaning id="fs-idp46702928">thickened tissue derived from ovary wall that protects the embryo after fertilization and facilitates seed dispersal</meaning>
+</definition>
+<definition id="fs-idp138838992">
+<term>ovule</term> <meaning id="fs-idp143214080">female gametophyte</meaning>
+</definition>
+<definition id="fs-idp28383808">
+<term>pollen grain</term> <meaning id="fs-idp248308032">structure containing the male gametophyte of the plant</meaning>
+</definition>
+<definition id="fs-idp28879744">
+<term>pollen tube</term> <meaning id="fs-idp18391488">extension from the pollen grain that delivers sperm to the egg cell</meaning>
+</definition>
+<definition id="fs-idp82110448">
+<term>progymnosperm</term> <meaning id="fs-idm13748272">transitional group of plants that resembled conifers because they produced wood, yet still reproduced like ferns</meaning>
+</definition>
+<definition id="fs-idp217338000">
+<term>seed</term> <meaning id="fs-idp36134576">structure containing the embryo, storage tissue and protective coat</meaning>
+</definition>
+<definition id="fs-idm13677104">
+<term>spermatophyte</term> <meaning id="fs-idp65657184">seed plant; from the Greek <emphasis effect="italics">sperm</emphasis> (seed) and <emphasis effect="italics">phyte </emphasis>(plant)</meaning>
+</definition>
+</glossary>
+</document>

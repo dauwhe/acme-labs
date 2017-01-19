@@ -1,0 +1,261 @@
+<?xml version="1.0"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Bryophytes</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml"
+          mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44638/latest/</md:content-url>
+  <md:content-id>m44638</md:content-id>
+  <md:title>Bryophytes</md:title>
+  <md:version>1.6</md:version>
+  <md:created>2012/08/23 14:32:10 -0500</md:created>
+  <md:revised>2013/04/12 10:21:29.128 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/" />
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>bryophyte</md:keyword>
+    <md:keyword>bryophyte lifecycle</md:keyword>
+    <md:keyword>capsule</md:keyword>
+    <md:keyword>gemma</md:keyword>
+    <md:keyword>hornwort</md:keyword>
+    <md:keyword>land adaptation</md:keyword>
+    <md:keyword>liverwort</md:keyword>
+    <md:keyword>moss</md:keyword>
+    <md:keyword>peristome</md:keyword>
+    <md:keyword>plants</md:keyword>
+    <md:keyword>protonema</md:keyword>
+    <md:keyword>rhizoid</md:keyword>
+    <md:keyword>seedless plants</md:keyword>
+    <md:keyword>seta</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Identify the main characteristics of bryophytes</item>
+<item>Describe the distinguishing traits of liverworts, hornworts, and mosses</item>
+<item>Chart the development of land adaptations in the bryophytes</item>
+<item>Describe the events in the bryophyte lifecycle</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idp55079744">Bryophytes are the group of plants that are the closest extant relative of early terrestrial plants. The first bryophytes (liverworts) most likely appeared in the Ordovician period, about 450 million years ago. Because of the lack of lignin and other resistant structures, the likelihood of bryophytes forming fossils is rather small. Some spores protected by sporopollenin have survived and are attributed to early bryophytes. By the Silurian period, however, vascular plants had spread through the continents. This compelling fact is used as evidence that non-vascular plants must have preceded the Silurian period.</para>
+<para id="fs-idp69469856">More than 25,000 species of bryophytes thrive in mostly damp habitats, although some live in deserts. They constitute the major flora of inhospitable environments like the tundra, where their small size and tolerance to desiccation offer distinct advantages. They generally lack lignin and do not have actual tracheids (xylem cells specialized for water conduction). Rather, water and nutrients circulate inside specialized conducting cells. Although the term non-tracheophyte is more accurate, bryophytes are commonly called nonvascular plants.</para>
+<para id="fs-idp129949424">In a bryophyte, all the conspicuous vegetative organs—including the photosynthetic leaf-like structures, the thallus, stem, and the rhizoid that anchors the plant to its substrate—belong to the haploid organism or gametophyte. The sporophyte is barely noticeable. The gametes formed by bryophytes swim with a flagellum, as do gametes in a few of the tracheophytes. The sporangium—the multicellular sexual reproductive structure—is present in bryophytes and absent in the majority of algae. The bryophyte embryo also remains attached to the parent plant, which protects and nourishes it. This is a characteristic of land plants.</para>
+<para id="fs-idp185953312">The bryophytes are divided into three phyla: the liverworts or Hepaticophyta, the hornworts or Anthocerotophyta, and the mosses or true Bryophyta.</para>
+<section id="fs-idp74140832">
+<title>Liverworts</title>
+<para id="fs-idp255585568"><term>Liverworts</term> (Hepaticophyta) are viewed as the plants most closely related to the ancestor that moved to land. Liverworts have colonized every terrestrial habitat on Earth and diversified to more than 7000 existing species (<link target-id="fig-ch25_03_01" document=""/>). Some gametophytes form lobate green structures, as seen in <link target-id="fig-ch25_03_02" document=""/>. The shape is similar to the lobes of the liver, and hence provides the origin of the name given to the phylum.</para><figure id="fig-ch25_03_01"><media id="fs-idp103270144" alt=" The illustration shows a variety of liverworts, which all share a branched, leafy structure.">
+<image mime-type="image/jpg" src="Figure_25_03_01.jpg" width="280"/>
+</media>
+<caption>This 1904 drawing shows the variety of forms of Hepaticophyta.</caption></figure><figure id="fig-ch25_03_02"><media id="fs-idp56225280" alt=" Photo shows a liverwort with lettuce-like leaves.">
+<image mime-type="image/jpg" src="Figure_25_03_02.jpg" width="320"/>
+</media>
+<caption>A liverwort, <emphasis effect="italics">Lunularia cruciata</emphasis>, displays its lobate, flat thallus. The organism in the photograph is in the gametophyte stage.</caption></figure><para id="fs-idp18139680">Openings that allow the movement of gases may be observed in liverworts. However, these are not stomata, because they do not actively open and close. The plant takes up water over its entire surface and has no cuticle to prevent desiccation. <link target-id="fig-ch25_03_03" document=""/> represents the lifecycle of a liverwort. The cycle starts with the release of haploid spores from the sporangium that developed on the sporophyte. Spores disseminated by wind or water germinate into flattened thalli attached to the substrate by thin, single-celled filaments. Male and female gametangia develop on separate, individual plants. Once released, male gametes swim with the aid of their flagella to the female gametangium (the archegonium), and fertilization ensues. The zygote grows into a small sporophyte still attached to the parent gametophyte. It will give rise, by meiosis, to the next generation of spores. Liverwort plants can also reproduce asexually, by the breaking of branches or the spreading of leaf fragments called gemmae. In this latter type of reproduction, the <term>gemmae</term>—small, intact, complete pieces of plant that are produced in a cup on the surface of the thallus (shown in <link target-id="fig-ch25_03_03" document=""/>)—are splashed out of the cup by raindrops. The gemmae then land nearby and develop into gametophytes.</para>
+<figure id="fig-ch25_03_03"><media id="fs-idm19197664" alt=" The liverwort has a flat, leaf-like structure haploid (1n) called a thallus. Root-like rhizoids grow from the bottom of the thallus. A slender stalk extends from the thallus, and an archegonial head sits at its top. The archegonial head has fronds, like a palm tree. The underside of the archegonial head contains protrusions called archegonia, which house the eggs. Sperm enter through a hole in the bottom of the archegonium and fertilize the egg to produce a diploid (2n) embryo. The embryo grows into a stalk. Meiosis produces haploid (1n) spores in a sac at the tip of the stalk . The sac bursts open, releasing the spores. The spores sprout, producing a new thallus and rhizoids.">
+<image mime-type="image/jpg" src="Figure_25_03_03f.jpg" width="420"/>
+</media>
+<caption>The life cycle of a typical liverwort is shown. (credit: modification of work by Mariana Ruiz Villareal)</caption></figure></section>
+<section id="fs-idp37789488">
+<title>Hornworts</title>
+<para id="fs-idp18682528">The <term>hornworts</term> (<emphasis effect="italics">Anthocerotophyta</emphasis>) belong to the broad bryophyte group. They have colonized a variety of habitats on land, although they are never far from a source of moisture. The short, blue-green gametophyte is the dominant phase of the lifecycle of a hornwort. The narrow, pipe-like sporophyte is the defining characteristic of the group. The sporophytes emerge from the parent gametophyte and continue to grow throughout the life of the plant (<link target-id="fig-ch25_03_04" document=""/>).</para>
+<figure id="fig-ch25_03_04"><media id="fs-idp77183440" alt=" The base of the hornwort plant, called the thallus, has a wrinkled, leaf-like appearance. The sporophytes are a cluster of slender green stalks with brown tips grows from this wrinkled mass.">
+<image mime-type="image/jpg" src="Figure_25_03_04.jpg" width="280"/>
+</media>
+
+<caption>Hornworts grow a tall and slender sporophyte. (credit: modification of work by Jason Hollinger)</caption></figure><para id="fs-idp40993168">Stomata appear in the hornworts and are abundant on the sporophyte. Photosynthetic cells in the thallus contain a single chloroplast. Meristem cells at the base of the plant keep dividing and adding to its height. Many hornworts establish symbiotic relationships with cyanobacteria that fix nitrogen from the environment.</para>
+<para id="fs-idp38143760">The lifecycle of hornworts (<link target-id="fig-ch25_03_05" document=""/>) follows the general pattern of alternation of generations. The gametophytes grow as flat thalli on the soil with embedded gametangia. Flagellated sperm swim to the archegonia and fertilize eggs. The zygote develops into a long and slender sporophyte that eventually splits open, releasing spores. Thin cells called pseudoelaters surround the spores and help propel them further in the environment. Unlike the elaters observed in horsetails, the hornwort pseudoelaters are single-celled structures. The haploid spores germinate and give rise to the next generation of gametophyte.</para>
+<figure id="fig-ch25_03_05"><media id="fs-idp32529008" alt=" In hornworts, the gametophyte is a haploid (1n) leaf-like structure with slender stalks called rhizoids underneath. Male sex organs called antheridia produce sperm, and female sex organs called archegonia produce eggs. Both male and female sex organs form just beneath the surface of the gametophyte, and are exposed to the surface as the organs mature. The sperm swims to the egg or is propelled by water. When the egg is fertilized, the embryo grows into a hollow tube-like structure called a sporophyte. Meiosis inside the sporophyte produces haploid (1n) spores. The spores are ejected from the top of the tube. They grow into new gametophytes, completing the cycle.">
+<image mime-type="image/jpg" src="Figure_25_03_05.jpg" width="365"/>
+</media>
+<caption>The alternation of generation in hornworts is shown. (credit: modification of work by “Smith609”/Wikimedia Commons based on original work by Mariana Ruiz Villareal)</caption></figure></section>
+<section id="fs-idp118696896">
+<title>Mosses</title>
+<para id="fs-idp205099984">More than 10,000 species of <term>mosses</term> have been catalogued. Their habitats vary from the tundra, where they are the main vegetation, to the understory of tropical forests. In the tundra, the mosses’ shallow rhizoids allow them to fasten to a substrate without penetrating the frozen soil. Mosses slow down erosion, store moisture and soil nutrients, and provide shelter for small animals as well as food for larger herbivores, such as the musk ox. Mosses are very sensitive to air pollution and are used to monitor air quality. They are also sensitive to copper salts, so these salts are a common ingredient of compounds marketed to eliminate mosses from lawns.</para>
+<para id="fs-idp118341040">Mosses form diminutive gametophytes, which are the dominant phase of the lifecycle. Green, flat structures—resembling true leaves, but lacking vascular tissue—are attached in a spiral to a central stalk. The plants absorb water and nutrients directly through these leaf-like structures. Some mosses have small branches. Some primitive traits of green algae, such as flagellated sperm, are still present in mosses that are dependent on water for reproduction. Other features of mosses are clearly adaptations to dry land. For example, stomata are present on the stems of the sporophyte, and a primitive vascular system runs up the sporophyte’s stalk. Additionally, mosses are anchored to the substrate—whether it is soil, rock, or roof tiles—by multicellular <term>rhizoids</term>. These structures are precursors of roots. They originate from the base of the gametophyte, but are not the major route for the absorption of water and minerals. The lack of a true root system explains why it is so easy to rip moss mats from a tree trunk. The moss lifecycle follows the pattern of alternation of generations as shown in <link target-id="fig-ch25_03_06" document=""/>. The most familiar structure is the haploid gametophyte, which germinates from a haploid spore and forms first a <term>protonema</term>—usually, a tangle of single-celled filaments that hug the ground. Cells akin to an apical meristem actively divide and give rise to a gametophore, consisting of a photosynthetic stem and foliage-like structures. Rhizoids form at the base of the gametophore. Gametangia of both sexes develop on separate gametophores. The male organ (the antheridium) produces many sperm, whereas the archegonium (the female organ) forms a single egg. At fertilization, the sperm swims down the neck to the venter and unites with the egg inside the archegonium. The zygote, protected by the archegonium, divides and grows into a sporophyte, still attached by its foot to the gametophyte.</para>
+<note id="fs-idp38849072" class="art-connection"><label/><title>Art Connection</title>
+<figure id="fig-ch25_03_06"><media id="fs-idp146952048" alt=" In mosses, the mature haploid (1n) gametophyte is a slender, nonvascular stem with fuzzy, non-vascular leaves. Root-like rhizoids grow from the bottom. Male antheridia and female archegonia grow at the tip of the stem. Sperm fertilize the eggs, producing a diploid (2n) zygote inside a vase-like structure called a venter inside the archegonial head. The embryo grows into a sporophyte that projects like a flower from the vase. The sporophyte undergoes meiosis to produce haploid (1n) spores that grow to produce mature gametophytes, completing the cycle.">
+<image mime-type="image/jpg" src="Figure_25_03_06.png" width="250"/>
+</media>
+
+<caption>This illustration shows the life cycle of mosses. (credit: modification of work by Mariana Ruiz Villareal)</caption></figure><para id="fs-idp133041520">Which of the following statements about the moss life cycle is false?</para>
+<list id="fs-idm15481712" list-type="enumerated" number-style="lower-alpha"><item>The mature gametophyte is haploid.</item>
+<item>The sporophyte produces haploid spores.</item>
+<item>The calyptra buds to form a mature gametophyte.</item>
+<item>The zygote is housed in the venter.</item>
+</list><!-- <para><link target-id="fig-ch25_03_06" document=""/>C.</para> -->
+</note><para id="fs-idp73329552">The slender <term>seta</term> (plural, setae), as seen in <link target-id="fig-ch25_03_07" document=""/>, contains tubular cells that transfer nutrients from the base of the sporophyte (the foot) to the sporangium or <term>capsule</term>.</para>
+<figure id="fig-ch25_03_07"><media id="fs-idp68040528" alt=" In the photo, setae appear as long, slender, bent stems with oval-shaped capsules at the tips.">
+<image mime-type="image/jpg" src="Figure_25_03_07.jpg" width="300"/>
+</media>
+
+<caption>This photograph shows the long slender stems, called setae, connected to capsules of the moss <emphasis effect="italics">Thamnobryum alopecurum</emphasis>. (credit: modification of work by Hermann Schachner)</caption></figure><para id="fs-idp203769616">A structure called a <term>peristome</term> increases the spread of spores after the tip of the capsule falls off at dispersal. The concentric tissue around the mouth of the capsule is made of triangular, close-fitting units, a little like “teeth”; these open and close depending on moisture levels, and periodically release spores.</para>
+</section>
+<section id="fs-idp46942832" class="summary">
+<title>Section Summary</title><para id="fs-idp71190016">Seedless nonvascular plants are small, having the gametophyte as the dominant stage of the lifecycle. Without a vascular system and roots, they absorb water and nutrients on all their exposed surfaces. Collectively known as bryophytes, the three main groups include the liverworts, the hornworts, and the mosses. Liverworts are the most primitive plants and are closely related to the first land plants. Hornworts developed stomata and possess a single chloroplast per cell. Mosses have simple conductive cells and are attached to the substrate by rhizoids. They colonize harsh habitats and can regain moisture after drying out. The moss sporangium is a complex structure that allows release of spores away from the parent plant.</para>
+</section>
+<section id="fs-idp58856944" class="art-exercise">
+<title>Art Connections</title>
+<exercise id="fs-idp203895424">
+<problem id="fs-idp127568496">
+<para id="fs-idp73404816"><link target-id="fig-ch25_03_06" document=""/> Which of the following statements about the moss life cycle is false?</para>
+<list id="fs-idp144814112" list-type="enumerated" number-style="lower-alpha">
+<item>The mature gametophyte is haploid.</item>
+<item>The sporophyte produces haploid spores.</item>
+<item>The rhizoid buds to form a mature gametophyte.</item>
+<item>The zygote is housed in the venter.</item>
+</list>
+</problem>
+<solution id="fs-idp266870304">
+<label/>
+<para id="fs-idp20247520"><link target-id="fig-ch25_03_06" document=""/> C.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp240783584" class="multiple-choice"><title>Review Questions</title><exercise id="fs-idp144803456">
+<problem id="fs-idp113591744">
+<para id="fs-idp68145520">Which of the following structures is not found in bryophytes?</para>
+<list id="fs-idp140736544" list-type="enumerated" number-style="lower-alpha">
+<item>a cellulose cell wall</item>
+<item>chloroplast</item>
+<item>sporangium</item>
+<item>root</item>
+</list>
+</problem>
+<solution id="fs-idp56681392">
+<label/>
+<para id="fs-idp106939920">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idp148910848">
+<problem id="fs-idp253606512">
+<para id="fs-idp48245056">Stomata appear in which group of plants?</para>
+<list id="fs-idp152199248" list-type="enumerated" number-style="lower-alpha">
+<item>Charales</item>
+<item>liverworts</item>
+<item>hornworts</item>
+<item>mosses</item>
+</list>
+</problem>
+<solution id="fs-idp115519072">
+<label/>
+<para id="fs-idp34847424">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idp177356832">
+<problem id="fs-idp73498272">
+<para id="fs-idp14766032">The chromosome complement in a moss protonema is:</para>
+<list id="fs-idp14617856" list-type="enumerated" number-style="lower-alpha"><item>1<emphasis effect="italics">n</emphasis></item>
+<item>2<emphasis effect="italics">n</emphasis></item>
+<item>3<emphasis effect="italics">n</emphasis></item>
+<item>varies with the size of the protonema</item>
+</list></problem>
+<solution id="fs-idp107287744">
+<label/>
+<para id="fs-idp152498144">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idp117088800">
+<problem id="fs-idp19742256">
+<para id="fs-idp76581056">Why do mosses grow well in the Arctic tundra?</para>
+<list id="fs-idp43410752" list-type="enumerated" number-style="lower-alpha">
+<item>They grow better at cold temperatures.</item>
+<item>They do not require moisture.</item>
+<item>They do not have true roots and can grow on hard surfaces.</item>
+<item>There are no herbivores in the tundra.</item>
+</list>
+</problem>
+<solution id="fs-idp18975184">
+<label/>
+<para id="fs-idp95327328">C</para>
+</solution>
+</exercise>
+</section><section id="fs-idp265418576" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idp142657408">
+<problem id="fs-idp117082608">
+<para id="fs-idp125436512">In areas where it rains often, mosses grow on roofs. How do mosses survive on roofs without soil?</para>
+</problem>
+<solution id="fs-idp149788288">
+<label/>
+<para id="fs-idp32971616">Mosses absorb water and nutrients carried by the rain and do not need soil because they do not derive much nutrition from the soil.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp104776864">
+<problem id="fs-idp14696224">
+<para id="fs-idp187738960">What are the three classes of bryophytes?</para>
+</problem>
+<solution id="fs-idp109034496">
+<label/>
+<para id="fs-idp185486384">The bryophytes are divided into three phyla: the liverworts or Hepaticophyta, the hornworts or Anthocerotophyta, and the mosses or true Bryophyta.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idp7816064">
+<term>capsule</term> <meaning id="fs-idp155003008">case of the sporangium in mosses</meaning>
+</definition>
+<definition id="fs-idp15941408">
+<term>gemma</term> <meaning id="fs-idm9482112">(plural, gemmae) leaf fragment that spreads for asexual reproduction</meaning>
+</definition>
+<definition id="fs-idm17461680">
+<term>hornworts</term> <meaning id="fs-idm9791216">group of non-vascular plants in which stomata appear</meaning>
+</definition>
+<definition id="fs-idm6505248">
+<term>liverworts</term> <meaning id="fs-idp113089872">most primitive group of the non-vascular plants</meaning>
+</definition>
+<definition id="fs-idp112989504">
+<term>mosses</term> <meaning id="fs-idp203790880">group of bryophytes in which a primitive conductive system appears</meaning>
+</definition>
+<definition id="fs-idp11287248">
+<term>peristome</term> <meaning id="fs-idp308112">tissue that surrounds the opening of the capsule and allows periodic release of spores</meaning>
+</definition>
+<definition id="fs-idp14568432">
+<term>protonema</term> <meaning id="fs-idp22613136">tangle of single celled filaments that forms from the haploid spore</meaning>
+</definition>
+<definition id="fs-idp72803296">
+<term>rhizoids</term> <meaning id="fs-idp40037824">thin filaments that anchor the plant to the substrate</meaning>
+</definition>
+<definition id="fs-idp33004656">
+<term>seta</term> <meaning id="fs-idp239204880">stalk that supports the capsule in mosses</meaning>
+</definition>
+</glossary>
+</document>

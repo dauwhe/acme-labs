@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>The Genetic Code</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml"
+          mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>https://legacy.cnx.org/content</md:repository>
+  <md:content-url>https://legacy.cnx.org/content/m44522/latest/</md:content-url>
+  <md:content-id>m44522</md:content-id>
+  <md:title>The Genetic Code</md:title>
+  <md:version>1.9</md:version>
+  <md:created>2012/08/23 13:50:09 -0500</md:created>
+  <md:revised>2016/02/25 15:40:35.303 US/Central</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax</md:shortname>
+      <md:fullname>OpenStax</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>central dogma</md:keyword>
+    <md:keyword>codon</md:keyword>
+    <md:keyword>colinear</md:keyword>
+    <md:keyword>degeneracy</md:keyword>
+    <md:keyword>gene</md:keyword>
+    <md:keyword>genes</md:keyword>
+    <md:keyword>genetic code</md:keyword>
+    <md:keyword>nonsense codon</md:keyword>
+    <md:keyword>protein</md:keyword>
+    <md:keyword>proteins</md:keyword>
+    <md:keyword>reading frame</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain the “central dogma” of protein synthesis</item>
+<item>Describe the genetic code and how the nucleotide sequence prescribes the amino acid and the protein sequence</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-id2750556">The cellular process of transcription generates messenger RNA (mRNA), a mobile molecular copy of one or more genes with an alphabet of A, C, G, and uracil (U). Translation of the mRNA template converts nucleotide-based genetic information into a protein product. Protein sequences consist of 20 commonly occurring amino acids; therefore, it can be said that the protein alphabet consists of 20 letters (<link target-id="fig-ch15_01_01" document=""/>). Each amino acid is defined by a three-nucleotide sequence called the triplet codon. Different amino acids have different chemistries (such as acidic versus basic, or polar and nonpolar) and different structural constraints. Variation in amino acid sequence gives rise to enormous variation in protein structure and function.</para>
+
+<figure id="fig-ch15_01_01"><media id="fs-id1695436" alt="Structures of the twenty amino acids are given. Six amino acids&#x2014;glycine, alanine, valine, leucine, methionine, and isoleucine&#x2014;are non-polar and aliphatic, meaning they do not have a ring. Six amino acids&#x2014;serine, threonine, cysteine, proline, asparagine, and glutamate&#x2014;are polar but uncharged. Three amino acids&#x2014;lysine, arginine, and histidine&#x2014;are positively charged. Two amino acids, glutamate and aspartate, are negatively charged. Three amino acids&#x2014;phenylalanine, tyrosine, and tryptophan&#x2014;are nonpolar and aromatic.">
+<image mime-type="image/jpg" src="Figure_15_01_01.jpg" width="500"/>
+</media>
+
+<caption>Structures of the 20 amino acids found in proteins are shown. Each amino acid is composed of an amino group (<m:math display="">
+ <m:mrow>
+  <m:mtext>N</m:mtext><m:msubsup>
+   <m:mtext>H</m:mtext>
+   <m:mn>3</m:mn>
+   <m:mo>+</m:mo>
+  </m:msubsup>
+ </m:mrow>
+</m:math>), a carboxyl group (COO<sup>-</sup>), and a side chain (blue). The side chain may be nonpolar, polar, or charged, as well as large or small. It is the variety of amino acid side chains that gives rise to the incredible variation of protein structure and function.</caption></figure><section id="fs-id2013510">
+<title>The Central Dogma: DNA Encodes RNA; RNA Encodes Protein</title>
+<para id="fs-id2155314">The flow of genetic information in cells from DNA to mRNA to protein is described by the <term>Central Dogma</term> (<link target-id="fig-ch15_01_02" document=""/>), which states that genes specify the sequence of mRNAs, which in turn specify the sequence of proteins. The decoding of one molecule to another is performed by specific proteins and RNAs. Because the information stored in DNA is so central to cellular function, it makes intuitive sense that the cell would make mRNA copies of this information for protein synthesis, while keeping the DNA itself intact and protected. The copying of DNA to RNA is relatively straightforward, with one nucleotide being added to the mRNA strand for every nucleotide read in the DNA strand. The translation to protein is a bit more complex because three mRNA nucleotides correspond to one amino acid in the polypeptide sequence. However, the translation to protein is still systematic and <term>colinear</term>, such that nucleotides 1 to 3 correspond to amino acid 1, nucleotides 4 to 6 correspond to amino acid 2, and so on.</para><figure id="fig-ch15_01_02"><media id="fs-id2681268" alt="To make a protein, genetic information encoded by the DNA must be transcribed onto an mRNA molecule. The RNA is then processed by splicing to remove exons and by the addition of a 5' cap and a poly-A tail. A ribosome then reads the sequence on the mRNA, and uses this information to string amino acids into a protein.">
+<image mime-type="image/jpg" src="Figure_15_01_02.jpg" width="280"/>
+</media>
+<caption>Instructions on DNA are transcribed onto messenger RNA. Ribosomes are able to read the genetic information inscribed on a strand of messenger RNA and use this information to string amino acids together into a protein.</caption></figure><section id="fs-id2000981">
+<title>The Genetic Code Is Degenerate and Universal</title>
+<para id="fs-id1290387">Given the different numbers of “letters” in the mRNA and protein “alphabets,” scientists theorized that combinations of nucleotides corresponded to single amino acids. Nucleotide doublets would not be sufficient to specify every amino acid because there are only 16 possible two-nucleotide combinations (4<sup>2</sup>). In contrast, there are 64 possible nucleotide triplets (4<sup>3</sup>), which is far more than the number of amino acids. Scientists theorized that amino acids were encoded by nucleotide triplets and that the genetic code was <term>degenerate</term>. In other words, a given amino acid could be encoded by more than one nucleotide triplet. This was later confirmed experimentally; Francis Crick and Sydney Brenner used the chemical mutagen proflavin to insert one, two, or three nucleotides into the gene of a virus. When one or two nucleotides were inserted, protein synthesis was completely abolished. When three nucleotides were inserted, the protein was synthesized and functional. This demonstrated that three nucleotides specify each amino acid. These nucleotide triplets are called <term>codons</term>. The insertion of one or two nucleotides completely changed the triplet <term>reading frame</term>, thereby altering the message for every subsequent amino acid (<link target-id="fig-ch15_01_05" document=""/>). Though insertion of three nucleotides caused an extra amino acid to be inserted during translation, the integrity of the rest of the protein was maintained.</para>
+<para id="fs-id1565817">Scientists painstakingly solved the genetic code by translating synthetic mRNAs in vitro and sequencing the proteins they specified (<link target-id="fig-ch15_01_04" document=""/>).</para>
+<figure id="fig-ch15_01_04"><media id="fs-id2989543" alt="Figure shows all 64 codons. Sixty-two of these code for amino acids, and three are stop codons.">
+<image mime-type="image/jpg" src="Figure_15_01_04.jpg" width="300"/>
+</media>
+
+<caption>This figure shows the genetic code for translating each nucleotide triplet in mRNA into an amino acid or a termination signal in a nascent protein. (credit: modification of work by NIH)</caption></figure><para id="fs-id1634383">In addition to instructing the addition of a specific amino acid to a polypeptide chain, three of the 64 codons terminate protein synthesis and release the polypeptide from the translation machinery. These triplets are called <term>nonsense codons</term>, or stop codons. Another codon, AUG, also has a special function. In addition to specifying the amino acid methionine, it also serves as the start codon to initiate translation. The reading frame for translation is set by the AUG start codon near the 5' end of the mRNA.</para>
+<para id="fs-id913366">The genetic code is universal. With a few exceptions, virtually all species use the same genetic code for protein synthesis. Conservation of codons means that a purified mRNA encoding the globin protein in horses could be transferred to a tulip cell, and the tulip would synthesize horse globin. That there is only one genetic code is powerful evidence that all of life on Earth shares a common origin, especially considering that there are about 10<sup>84</sup> possible combinations of 20 amino acids and 64 triplet codons.</para>
+
+<note id="fs-id2739380" class="interactive"><label/><title>Link to Learning</title> 
+<media id="fs-id1712352" alt="QR Code representing a URL">
+<image mime-type="image/png" src="create_protein.png" width="120"/>
+ </media> 
+<para id="fs-id1965995">Transcribe a gene and translate it to protein using complementary pairing and the genetic code at this <link window="new" url="http://openstaxcollege.org/l/create_protein"> site</link>.</para></note><figure id="fig-ch15_01_05"><media id="fs-id2339630" alt="Illustration shows a frameshift mutation in which the reading frame is altered by the deletion of two amino acids.">
+<image mime-type="image/jpg" src="Figure_15_01_05.jpg" width="350"/>
+</media>
+
+<caption>The deletion of two nucleotides shifts the reading frame of an mRNA and changes the entire protein message, creating a nonfunctional protein or terminating protein synthesis altogether.</caption></figure><para id="fs-id1288651">Degeneracy is believed to be a cellular mechanism to reduce the negative impact of random mutations. Codons that specify the same amino acid typically only differ by one nucleotide. In addition, amino acids with chemically similar side chains are encoded by similar codons. This nuance of the genetic code ensures that a single-nucleotide substitution mutation might either specify the same amino acid but have no effect or specify a similar amino acid, preventing the protein from being rendered completely nonfunctional.</para>
+</section>
+<note id="fs-id1796872" class="scientific"><label/><title>Scientific Method Connection</title>
+<para id="eip-id1169982614662"><title>Which Has More DNA: A Kiwi or a Strawberry?</title></para>
+<figure id="fig-ch15_01_03"><media id="fs-id3051050" alt="Photographs show a thin slice of a green kiwi fruit and a bowl of strawberries.">
+<image mime-type="image/jpg" src="Figure_15_01_03.jpg" width="450"/>
+</media>
+<caption>Do you think that a kiwi or a strawberry has more DNA per fruit? (credit “kiwi”: "Kelbv"/Flickr; credit: “strawberry”: Alisdair McDiarmid)</caption></figure><para id="eip-id2896007"><emphasis effect="bold">Question</emphasis>: Would a kiwifruit and strawberry that are approximately the same size (<link target-id="fig-ch15_01_03" document=""/>) also have approximately the same amount of DNA?</para>
+<para id="eip-id1416267"><emphasis effect="bold">Background</emphasis>: Genes are carried on chromosomes and are made of DNA. All mammals are diploid, meaning they have two copies of each chromosome. However, not all plants are diploid. The common strawberry is octoploid (8<emphasis effect="italics">n</emphasis>) and the cultivated kiwi is hexaploid (6<emphasis effect="italics">n</emphasis>). Research the total number of chromosomes in the cells of each of these fruits and think about how this might correspond to the amount of DNA in these fruits’ cell nuclei. Read about the technique of DNA isolation to understand how each step in the isolation protocol helps liberate and precipitate DNA.</para>
+<para id="eip-id1407858"><emphasis effect="bold">Hypothesis</emphasis>: Hypothesize whether you would be able to detect a difference in DNA quantity from similarly sized strawberries and kiwis. Which fruit do you think would yield more DNA?</para>
+<para id="eip-id2117311"><emphasis effect="bold">Test your hypothesis</emphasis>: Isolate the DNA from a strawberry and a kiwi that are similarly sized. Perform the experiment in at least triplicate for each fruit.</para>
+<list id="eip-716" list-type="enumerated" number-style="arabic"><item>Prepare a bottle of DNA extraction buffer from 900 mL water, 50 mL dish detergent, and two teaspoons of table salt. Mix by inversion (cap it and turn it upside down a few times).</item>
+<item>Grind a strawberry and a kiwifruit by hand in a plastic bag, or using a mortar and pestle, or with a metal bowl and the end of a blunt instrument. Grind for at least two minutes per fruit.</item>
+<item>Add 10 mL of the DNA extraction buffer to each fruit, and mix well for at least one minute.</item>
+<item>Remove cellular debris by filtering each fruit mixture through cheesecloth or porous cloth and into a funnel placed in a test tube or an appropriate container.</item>
+<item>Pour ice-cold ethanol or isopropanol (rubbing alcohol) into the test tube. You should observe white, precipitated DNA.</item>
+<item>Gather the DNA from each fruit by winding it around separate glass rods.</item></list>
+
+<para id="eip-id2024898">
+<emphasis effect="bold">Record your observations</emphasis>: Because you are not quantitatively measuring DNA volume, you can record for each trial whether the two fruits produced the same or different amounts of DNA as observed by eye. If one or the other fruit produced noticeably more DNA, record this as well. Determine whether your observations are consistent with several pieces of each fruit.</para>
+<para id="eip-id1463552"><emphasis effect="bold">Analyze your data</emphasis>: Did you notice an obvious difference in the amount of DNA produced by each fruit? Were your results reproducible?</para>
+<para id="eip-id1458204"><emphasis effect="bold">Draw a conclusion</emphasis>: Given what you know about the number of chromosomes in each fruit, can you conclude that chromosome number necessarily correlates to DNA amount? Can you identify any drawbacks to this procedure? If you had access to a laboratory, how could you standardize your comparison and make it more quantitative?</para>
+</note></section>
+
+<section id="fs-id2476108" class="summary"> <title>Section Summary</title><para id="fs-id3086772">The genetic code refers to the DNA alphabet (A, T, C, G), the RNA alphabet (A, U, C, G), and the polypeptide alphabet (20 amino acids). The Central Dogma describes the flow of genetic information in the cell from genes to mRNA to proteins. Genes are used to make mRNA by the process of transcription; mRNA is used to synthesize proteins by the process of translation. The genetic code is degenerate because 64 triplet codons in mRNA specify only 20 amino acids and three nonsense codons. Almost every species on the planet uses the same genetic code.</para>
+</section>
+
+<section id="fs-id1404598" class="multiple-choice"> <title>Review Questions</title><exercise id="fs-id2024650">
+<problem id="fs-id2567848"><para id="fs-id2574085">The AUC and AUA codons in mRNA both specify isoleucine. What feature of the genetic code explains this?</para>
+<list id="fs-id1812494" list-type="enumerated" number-style="lower-alpha">
+<item>complementarity</item>
+<item>nonsense codons</item>
+<item>universality</item>
+<item>degeneracy</item>
+</list>
+</problem>
+<solution id="fs-id2682565"> <label/><para id="fs-id1310016">D</para> </solution>
+</exercise>
+<exercise id="fs-id1428699">
+<problem id="fs-id2318009"><para id="fs-id2013469">How many nucleotides are in 12 mRNA codons?</para>
+<list id="fs-id1450423" list-type="enumerated" number-style="lower-alpha">
+<item>12</item>
+<item>24</item>
+<item>36</item>
+<item>48</item>
+</list>
+</problem>
+<solution id="fs-id1425193"> <label/><para id="fs-id2688570">C</para> </solution>
+</exercise>
+</section>
+
+<section id="fs-id1419233" class="free-response"> <title>Free Response</title>
+<exercise id="fs-id2198100">
+<problem id="fs-id2171449"><para id="fs-id2072320">Imagine if there were 200 commonly occurring amino acids instead of 20. Given what you know about the genetic code, what would be the shortest possible codon length? Explain.</para></problem>
+<solution id="fs-id2575162"><label/> <para id="fs-id653506">For 200 commonly occurring amino acids, codons consisting of four types of nucleotides would have to be at least four nucleotides long, because 4<sup>4</sup> = 256. There would be much less degeneracy in this case.</para></solution>
+</exercise>
+<exercise id="fs-id889157">
+<problem id="fs-id1449262"><para id="fs-id1292460">Discuss how degeneracy of the genetic code makes cells more robust to mutations.</para></problem>
+<solution id="fs-id1280839"><label/> <para id="fs-id2595443">Codons that specify the same amino acid typically only differ by one nucleotide. In addition, amino acids with chemically similar side chains are encoded by similar codons. This nuance of the genetic code ensures that a single-nucleotide substitution mutation might either specify the same amino acid and have no effect, or may specify a similar amino acid, preventing the protein from being rendered completely nonfunctional.</para></solution>
+</exercise>
+</section> 
+</content>
+
+<glossary>
+<definition id="fs-id2123902"><term>Central Dogma</term> <meaning id="fs-id2051878">states that genes specify the sequence of mRNAs, which in turn specify the sequence of proteins</meaning></definition>
+<definition id="fs-id1803173"><term>codon</term> <meaning id="fs-id1926864">three consecutive nucleotides in mRNA that specify the insertion of an amino acid or the release of a polypeptide chain during translation</meaning></definition>
+<definition id="fs-id1360285"><term>colinear</term> <meaning id="fs-id2317494">in terms of RNA and protein, three “units” of RNA (nucleotides) specify one “unit” of protein (amino acid) in a consecutive fashion</meaning></definition>
+<definition id="fs-id782653"><term>degeneracy</term> <meaning id="fs-id1911442">(of the genetic code) describes that a given amino acid can be encoded by more than one nucleotide triplet; the code is degenerate, but not ambiguous</meaning></definition>
+<definition id="fs-id1429792"><term>nonsense codon</term> <meaning id="fs-id2228902">one of the three mRNA codons that specifies termination of translation</meaning></definition>
+<definition id="fs-id1466536"><term>reading frame</term> <meaning id="fs-id1403490">sequence of triplet codons in mRNA that specify a particular protein; a ribosome shift of one or two nucleotides in either direction completely abolishes synthesis of that protein</meaning></definition>
+</glossary>
+
+</document>

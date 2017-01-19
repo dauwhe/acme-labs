@@ -1,0 +1,220 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Preserving Biodiversity</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44898/latest/</md:content-url>
+  <md:content-id>m44898</md:content-id>
+  <md:title>Preserving Biodiversity</md:title>
+  <md:version>1.4</md:version>
+  <md:created>2012/08/23 16:40:29 -0500</md:created>
+  <md:revised>2013/04/10 15:32:12.786 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>biodiversity</md:keyword>
+    <md:keyword>biodiversity preservation</md:keyword>
+    <md:keyword>CITES</md:keyword>
+    <md:keyword>conservation</md:keyword>
+    <md:keyword>DNA barcoding</md:keyword>
+    <md:keyword>Endangered Species Act</md:keyword>
+    <md:keyword>habitat restoration</md:keyword>
+    <md:keyword>Kyoto protocol</md:keyword>
+    <md:keyword>measuring biodiversity</md:keyword>
+    <md:keyword>Migratory Bird Act</md:keyword>
+    <md:keyword>nature preserve</md:keyword>
+    <md:keyword>preservation</md:keyword>
+    <md:keyword>preserve</md:keyword>
+    <md:keyword>preserve design</md:keyword>
+    <md:keyword>wildlife preserve</md:keyword>
+    <md:keyword>zoo</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Identify new technologies for describing biodiversity</item>
+<item>Explain the legislative framework for conservation</item>
+<item>Describe principles and challenges of conservation preserve design</item>
+<item>Identify examples of the effects of habitat restoration</item>
+<item>Discuss the role of zoos in biodiversity conservation</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idm4119888">Preserving biodiversity is an extraordinary challenge that must be met by greater understanding of biodiversity itself, changes in human behavior and beliefs, and various preservation strategies.</para>
+<section id="fs-idp94514128">
+<title>Measuring Biodiversity</title>
+<para id="fs-idp82523840">The technology of molecular genetics and data processing and storage are maturing to the point where cataloguing the planet&#8217;s species in an accessible way is close to feasible. <term>DNA barcoding</term> is one molecular genetic method, which takes advantage of rapid evolution in a mitochondrial gene present in eukaryotes, excepting the plants, to identify species using the sequence of portions of the gene. Plants may be barcoded using a combination of chloroplast genes. Rapid mass sequencing machines make the molecular genetics portion of the work relatively inexpensive and quick. Computer resources store and make available the large volumes of data. Projects are currently underway to use DNA barcoding to catalog museum specimens, which have already been named and studied, as well as testing the method on less studied groups. As of mid 2012, close to 150,000 named species had been barcoded. Early studies suggest there are significant numbers of undescribed species that looked too much like sibling species to previously be recognized as different. These now can be identified with DNA barcoding.</para>
+<para id="fs-idp16362032">Numerous computer databases now provide information about named species and a framework for adding new species. However, as already noted, at the present rate of description of new species, it will take close to 500 years before the complete catalog of life is known. Many, perhaps most, species on the planet do not have that much time.</para>
+<para id="fs-idp98749872">There is also the problem of understanding which species known to science are threatened and to what degree they are threatened. This task is carried out by the non-profit IUCN which, as previously mentioned, maintains the Red List&#8212;an online listing of endangered species categorized by taxonomy, type of threat, and other criteria (<link target-id="fig-ch47_04_01" document=""/>). The Red List is supported by scientific research. In 2011, the list contained 61,000 species, all with supporting documentation.</para>
+<note id="fs-idp33743712" class="art-connection"><label/><title>Art Connection</title>
+<para id="fs-idp99135040"><figure id="fig-ch47_04_01"><media id="fs-idm19813072" alt=" Bar graph shows the percentage of animal species, by group, that are critically endangered, endangered, or vulnerable. Approximately 21% of mammal species are on the IUCN Red List. Of these, about 10% are vulnerable, 7% are endangered, and 4% are critically endangered. Approximately 12% of bird species are on the Red List. Of these, about 6% are vulnerable, 4% are endangered, and 2% are critically endangered. Approximately 6% of reptile species are on the Red List. Of these, about 3% are vulnerable, 2% are endangered, and 1% is critically endangered. Approximately 29% of amphibian species are on the Red List. Of these, about 10% are vulnerable, 12% are endangered, and 7% are critically endangered. Approximately 4% of fish species are on the Red List. Of these, about 2% are vulnerable, 1% is endangered, and 1% is critically endangered. No insect species fall on the Red List. Approximately 1.5% of mollusk species are on the Red List. Of these, about 1% is vulnerable, and 0.25% each are endangered or critically endangered. Approximately 3% of plant species are on the Red List. Of these, about 2% are vulnerable, .5% each are endangered or critically endangered.">
+<image mime-type="image/png" src="Figure_47_04_01.png" width="280"/>
+</media>
+<caption>This chart shows the percentage of various animal species, by group, on the IUCN Red List as of 2007.</caption></figure></para>
+<para id="fs-idp43349248">Which of the following statements is not supported by this graph?</para><list id="fs-idp2905840" list-type="enumerated" number-style="lower-alpha">
+    <item>There are more vulnerable fishes than critically endangered and endangered fishes combined.</item>
+<item>There are more critically endangered amphibians than vulnerable, endangered and critically endangered reptiles combined.</item>
+<item>Within each group, there are more critically endangered species than vulnerable species.</item>
+<item>A greater percentage of bird species are critically endangered than mollusk species.</item>
+</list>
+<!--<para><link target-id="fig-ch47_04_01" document=""/> C</para>-->
+</note></section>
+<section id="fs-idp78383264">
+<title>Changing Human Behavior</title>
+<para id="fs-idp117080240">Legislation throughout the world has been enacted to protect species. The legislation includes international treaties as well as national and state laws. The Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) treaty came into force in 1975. The treaty, and the national legislation that supports it, provides a legal framework for preventing approximately 33,000 listed species from being transported across nations&#8217; borders, thus protecting them from being caught or killed when international trade is involved. The treaty is limited in its reach because it only deals with international movement of organisms or their parts. It is also limited by various countries&#8217; ability or willingness to enforce the treaty and supporting legislation. The illegal trade in organisms and their parts is probably a market in the hundreds of millions of dollars. Illegal wildlife trade is monitored by another non-profit: Trade Records Analysis of Flora and Fauna in Commerce (TRAFFIC).</para>
+<para id="fs-idp11155600">Within many countries there are laws that protect endangered species and regulate hunting and fishing. In the United States, the Endangered Species Act (ESA) was enacted in 1973. Species at risk are listed by the Act; the U.S. Fish &amp; Wildlife Service is required by law to develop management plans that protect the listed species and bring them back to sustainable numbers. The Act, and others like it in other countries, is a useful tool, but it suffers because it is often difficult to get a species listed, or to get an effective management plan in place once it is listed. Additionally, species may be controversially taken off the list without necessarily having had a change in their situation. More fundamentally, the approach to protecting individual species rather than entire ecosystems is both inefficient and focuses efforts on a few highly visible and often charismatic species, perhaps at the expense of other species that go unprotected. At the same time, the Act has a critical habitat provision outlined in the recovery mechanism that may benefit species other than the one targeted for management.</para>
+<para id="fs-idp56338064">The Migratory Bird Treaty Act (MBTA) is an agreement between the United States and Canada that was signed into law in 1918 in response to declines in North American bird species caused by hunting. The Act now lists over 800 protected species. It makes it illegal to disturb or kill the protected species or distribute their parts (much of the hunting of birds in the past was for their feathers).</para>
+<para id="fs-idp60873232">The international response to global warming has been mixed. The Kyoto Protocol, an international agreement that came out of the United Nations Framework Convention on Climate Change that committed countries to reducing greenhouse gas emissions by 2012, was ratified by some countries, but spurned by others. Two important countries in terms of their potential impact that did not ratify the Kyoto Protocol were the United States and China. The United States rejected it as a result of a powerful fossil fuel industry and China because of a concern it would stifle the nation&#8217;s growth. Some goals for reduction in greenhouse gasses were met and exceeded by individual countries, but worldwide, the effort to limit greenhouse gas production is not succeeding. The intended replacement for the Kyoto Protocol has not materialized because governments cannot agree on timelines and benchmarks. Meanwhile, climate scientists predict the resulting costs to human societies and biodiversity will be high.</para>
+<para id="fs-idp10297920">As already mentioned, the private non-profit sector plays a large role in the conservation effort both in North America and around the world. The approaches range from species-specific organizations to the broadly focused IUCN and TRAFFIC. The Nature Conservancy takes a novel approach. It purchases land and protects it in an attempt to set up preserves for ecosystems. Ultimately, human behavior will change when human values change. At present, the growing urbanization of the human population is a force that poses challenges to the valuing of biodiversity.</para>
+</section>
+<section id="fs-idp1659104">
+<title>Conservation in Preserves</title>
+<para id="fs-idm46445360">Establishment of wildlife and ecosystem preserves is one of the key tools in conservation efforts. A preserve is an area of land set aside with varying degrees of protection for the organisms that exist within the boundaries of the preserve. Preserves can be effective in the short term for protecting both species and ecosystems, but they face challenges that scientists are still exploring to strengthen their viability as long-term solutions.</para>
+<section id="fs-idp99560976">
+<title>How Much Area to Preserve?</title>
+<para id="fs-idp52534208">Due to the way protected lands are allocated (they tend to contain less economically valuable resources rather than being set aside specifically for the species or ecosystems at risk) and the way biodiversity is distributed, determining a target percentage of land or marine habitat that should be protected to maintain biodiversity levels is challenging. The IUCN World Parks Congress estimated that 11.5 percent of Earth&#8217;s land surface was covered by preserves of various kinds in 2003. This area is greater than previous goals; however, it only represents 9 out of 14 recognized major biomes. Research has shown that 12 percent of all species live only outside preserves; these percentages are much higher when only threatened species and high quality preserves are considered. For example, high quality preserves include only about 50 percent of threatened amphibian species. The conclusion must be that either the percentage of area protected must increase, or the percentage of high quality preserves must increase, or preserves must be targeted with greater attention to biodiversity protection. Researchers argue that more attention to the latter solution is required.</para>
+</section>
+<section id="fs-idp82605120">
+<title>Preserve Design</title>
+<para id="fs-idp53754640">There has been extensive research into optimal preserve designs for maintaining biodiversity. The fundamental principle behind much of the research has been the seminal theoretical work of Robert H. MacArthur and Edward O. Wilson published in 1967 on island biogeography.<sup><footnote id="fs-idm29436336">Robert H. MacArthur and Edward O. Wilson, E. O., <emphasis effect="italics">The Theory of Island Biogeography</emphasis> (Princeton, N.J.: Princeton University Press, 1967).</footnote></sup> This work sought to understand the factors affecting biodiversity on islands. The fundamental conclusion was that biodiversity on an island was a function of the origin of species through migration, speciation, and extinction on that island. Islands farther from a mainland are harder to get to, so migration is lower and the equilibrium number of species is lower. Within island populations, evidence suggests that the number of species gradually increases to a level similar to the numbers on the mainland from which the species is suspected to have migrated. In addition, smaller islands are harder to find, so their immigration rates for new species are lower. Smaller islands are also less geographically diverse so there are fewer niches to promote speciation. And finally, smaller islands support smaller populations, so the probability of extinction is higher.</para><para id="fs-idp80202768">As islands get larger, the number of species accelerates, although the effect of island area on species numbers is not a direct correlation. Conservation preserves can be seen as &#8220;islands&#8221; of habitat within &#8220;an ocean&#8221; of non-habitat. For a species to persist in a preserve, the preserve must be large enough. The critical size depends, in part, on the home range that is characteristic of the species. A preserve for wolves, which range hundreds of kilometers, must be much larger than a preserve for butterflies, which might range within ten kilometers during its lifetime. But larger preserves have more core area of optimal habitat for individual species, they have more niches to support more species, and they attract more species because they can be found and reached more easily.</para>
+<para id="fs-idm82792864">Preserves perform better when there are buffer zones around them of suboptimal habitat. The buffer allows organisms to exit the boundaries of the preserve without immediate negative consequences from predation or lack of resources. One large preserve is better than the same area of several smaller preserves because there is more core habitat unaffected by edges. For this same reason, preserves in the shape of a square or circle will be better than a preserve with many thin &#8220;arms.&#8221; If preserves must be smaller, then providing wildlife corridors between them so that individuals and their genes can move between the preserves, for example along rivers and streams, will make the smaller preserves behave more like a large one. All of these factors are taken into consideration when planning the nature of a preserve before the land is set aside.</para>
+<para id="fs-idp95346416">In addition to the physical, biological, and ecological specifications of a preserve, there are a variety of policy, legislative, and enforcement specifications related to uses of the preserve for functions other than protection of species. These can include anything from timber extraction, mineral extraction, regulated hunting, human habitation, and nondestructive human recreation. Many of these policy decisions are made based on political pressures rather than conservation considerations. In some cases, wildlife protection policies have been so strict that subsistence-living indigenous populations have been forced from ancestral lands that fell within a preserve. In other cases, even if a preserve is designed to protect wildlife, if the protections are not or cannot be enforced, the preserve status will have little meaning in the face of illegal poaching and timber extraction. This is a widespread problem with preserves in areas of the tropics.</para>
+</section>
+<section id="fs-idp115852224">
+<title>Limitations on Preserves</title>
+<para id="fs-idp111425504">Some of the limitations on preserves as conservation tools are evident from the discussion of preserve design. Political and economic pressures typically make preserves smaller, never larger, so setting aside areas that are large enough is difficult. If the area set aside is sufficiently large, there may not be sufficient area to create a buffer around the preserve. In this case, an area on the outer edges of the preserve inevitably becomes a riskier suboptimal habitat for the species in the preserve. Enforcement of protections is also a significant issue in countries without the resources or political will to prevent poaching and illegal resource extraction.</para>
+<para id="fs-idp40731792">Climate change will create inevitable problems with the location of preserves. The species within them will migrate to higher latitudes as the habitat of the preserve becomes less favorable. Scientists are planning for the effects of global warming on future preserves and striving to predict the need for new preserves to accommodate anticipated changes to habitats; however, the end effectiveness is tenuous since these efforts are prediction based.</para>
+<para id="fs-idp130648144">Finally, an argument can be made that conservation preserves reinforce the cultural perception that humans are separate from nature, can exist outside of it, and can only operate in ways that do damage to biodiversity. Creating preserves reduces the pressure on human activities outside the preserves to be sustainable and non-damaging to biodiversity. Ultimately, the political, economic, and human demographic pressures will degrade and reduce the size of conservation preserves if the activities outside them are not altered to be less damaging to biodiversity.</para>
+<note id="fs-idp136892880" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idm40666032" alt="QR Code representing a URL">
+<image mime-type="image/png" src="protected_areas.png" width="120"/>
+</media>
+<para id="fs-idp1416944">An <link window="new" url="http://openstaxcollege.org/l/protected_areas">interactive global data system</link> of protected areas can be found at website. Review data about individual protected areas by location or study statistics on protected areas by country or region.</para></note></section>
+<section id="fs-idm47469760">
+<title>Habitat Restoration</title>
+<para id="fs-idp1652000">Habitat restoration holds considerable promise as a mechanism for restoring and maintaining biodiversity. Of course once a species has become extinct, its restoration is impossible. However, restoration can improve the biodiversity of degraded ecosystems. Reintroducing wolves, a top predator, to Yellowstone National Park in 1995 led to dramatic changes in the ecosystem that increased biodiversity. The wolves (<link target-id="fig-ch47_04_02" document=""/>) function to suppress elk and coyote populations and provide more abundant resources to the guild of carrion eaters. Reducing elk populations has allowed revegetation of riparian areas, which has increased the diversity of species in that habitat. Decreasing the coyote population has increased the populations of species that were previously suppressed by this predator. The number of species of carrion eaters has increased because of the predatory activities of the wolves. In this habitat, the wolf is a keystone species, meaning a species that is instrumental in maintaining diversity in an ecosystem. Removing a keystone species from an ecological community may cause a collapse in diversity. The results from the Yellowstone experiment suggest that restoring a keystone species can have the effect of restoring biodiversity in the community. Ecologists have argued for the identification of keystone species where possible and for focusing protection efforts on those species; likewise, it also makes sense to attempt to return them to their ecosystem if they have been removed.</para>
+<figure id="fig-ch47_04_02"><media id="fs-idp101142736" alt="[alt] Photo A shows a pack of wolves walking on snow. Photo B shows a river running through a meadow with a few copses of trees, some living and some dead. Photo C shows and elk, and photo d shows a beaver.">
+<image mime-type="image/jpg" src="Figure_47_04_02abcd.jpg" width="420"/>
+</media>
+<caption>(a) The Gibbon wolf pack in Yellowstone National Park, March 1, 2007, represents a keystone species. The reintroduction of wolves into Yellowstone National Park in 1995 led to a change in the grazing behavior of (b) elk. To avoid predation, the elk no longer grazed exposed stream and riverbeds, such as (c) the Lamar Riverbed in Yellowstone. This allowed willow and cottonwood seedlings to grow. The seedlings decreased erosion and provided shading to the creek, which improved fish habitat. A new colony of (d) beaver may also have benefited from the habitat change. (credit a: modification of work by Doug Smith, NPS; credit c: modification of work by Jim Peaco, NPS; credit d: modification of work by &#8220;Shiny Things&#8221;/Flickr)</caption></figure><para id="fs-idp26507744">Other large-scale restoration experiments underway involve dam removal. In the United States, since the mid-1980s, many aging dams are being considered for removal rather than replacement because of shifting beliefs about the ecological value of free-flowing rivers and because many dams no longer provide the benefit and functions that they did when they were first built. The measured benefits of dam removal include restoration of naturally fluctuating water levels (the purpose of dams is frequently to reduce variation in river flows), which leads to increased fish diversity and improved water quality. In the Pacific Northwest, dam removal projects are expected to increase populations of salmon, which is considered a keystone species because it transports key nutrients to inland ecosystems during its annual spawning migrations. In other regions such as the Atlantic coast, dam removal has allowed the return of spawning anadromous fish species (species that are born in fresh water, live most of their lives in salt water, and return to fresh water to spawn). Some of the largest dam removal projects have yet to occur or have happened too recently for the consequences to be measured. The large-scale ecological experiments that these removal projects constitute will provide valuable data for other dam projects slated either for removal or construction.</para>
+</section>
+<section id="fs-idm3023840">
+<title>The Role of Captive Breeding</title>
+<para id="fs-idp36559984">Zoos have sought to play a role in conservation efforts both through captive breeding programs and education. The transformation of the missions of zoos from collection and exhibition facilities to organizations that are dedicated to conservation is ongoing. In general, it has been recognized that, except in some specific targeted cases, captive breeding programs for endangered species are inefficient and often prone to failure when the species are reintroduced to the wild. Zoo facilities are far too limited to contemplate captive breeding programs for the numbers of species that are now at risk. Education is another potential positive impact of zoos on conservation efforts, particularly given the global trend to urbanization and the consequent reduction in contacts between people and wildlife. A number of studies have been performed to look at the effectiveness of zoos on people&#8217;s attitudes and actions regarding conservation; at present, the results tend to be mixed.</para>
+</section>
+<section id="fs-idp195883264" class="summary">
+<title>Section Summary</title><para id="fs-idp77935936">New technological methods such as DNA barcoding and information processing and accessibility are facilitating the cataloging of the planet&#8217;s biodiversity. There is also a legislative framework for biodiversity protection. International treaties such as CITES regulate the transportation of endangered species across international borders. Legislation within individual countries protecting species and agreements on global warming have had limited success; there is at present no international agreement on targets for greenhouse gas emissions. In the United States, the Endangered Species Act protects listed species but is hampered by procedural difficulties and a focus on individual species. The Migratory Bird Act is an agreement between Canada and the United States to protect migratory birds. The non-profit sector is also very active in conservation efforts in a variety of ways.</para>
+<para id="fs-idp82866464">Conservation preserves are a major tool in biodiversity protection. Presently, 11percent of Earth&#8217;s land surface is protected in some way. The science of island biogeography has informed the optimal design of preserves; however, preserves have limitations imposed by political and economic forces. In addition, climate change will limit the effectiveness of preserves in the future. A downside of preserves is that they may lessen the pressure on human societies to function more sustainably outside the preserves.</para>
+<para id="fs-idp94834544">Habitat restoration has the potential to restore ecosystems to previous biodiversity levels before species become extinct. Examples of restoration include reintroduction of keystone species and removal of dams on rivers. Zoos have attempted to take a more active role in conservation and can have a limited role in captive breeding programs. Zoos also may have a useful role in education.</para>
+</section>
+    <section id="fs-idp11171504" class="art-exercise"><title>Art Connections</title><exercise id="fs-idp27680144">
+        <problem id="fs-idm19217360">
+            <para id="fs-idp130468032"><link target-id="fig-ch47_04_01" document=""/> Which of the following statements is not supported by this graph?</para>
+<list id="fs-idm131796320" list-type="enumerated" number-style="lower-alpha"><item>There are more vulnerable fishes than critically endangered and endangered fishes combined.</item>
+<item>There are more critically endangered amphibians than vulnerable, endangered and critically endangered reptiles combined.</item>
+<item>Within each group, there are more critically endangered species than vulnerable species.</item>
+<item>A greater percentage of bird species are critically endangered than mollusk species.</item>
+</list></problem>
+<solution id="fs-idp170052000">
+<label/>
+<para id="fs-idp232802656"><link target-id="fig-ch47_04_01" document=""/> C</para></solution>
+    </exercise>
+        </section></section>
+<section id="fs-idp79654352" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp16760560">
+<problem id="fs-idp203950272"><para id="fs-idp145859264">Certain parrot species cannot be brought to the United States to be sold as pets. What is the name of the legislation that makes this illegal?</para>
+      <list id="fs-idm24730224" list-type="enumerated" number-style="lower-alpha">
+      <item>Red List</item>
+      <item>Migratory Bird Act</item>
+      <item>CITES</item>
+      <item>Endangered Species Act (ESA)</item>
+      </list>
+      </problem>
+      <solution id="fs-idp50881072">
+<label/>
+<para id="fs-idp14408752">C</para>
+</solution>
+      </exercise>
+<exercise id="fs-idp175505216">
+<problem id="fs-idm58478640"><para id="fs-idp82849728">What was the name of the first international agreement on climate change?</para>
+      <list id="fs-idp8885584" list-type="enumerated" number-style="lower-alpha">
+      <item>Red List</item>
+      <item>Montreal Protocol</item>
+      <item>International Union for the Conservation of Nature (IUCN)</item>
+      <item>Kyoto Protocol</item>
+      </list>
+      </problem>
+      <solution id="fs-idm39353680">
+<label/>
+<para id="fs-idp169210128">D</para>
+</solution>
+      </exercise>
+<exercise id="fs-idm4134384">
+<problem id="fs-idp169380384"><para id="fs-idm35515312">About what percentage of land on the planet is set aside as a preserve of some type?</para>
+      <list id="fs-idp123655648" list-type="enumerated" number-style="lower-alpha">
+      <item>1 percent</item>
+      <item>6 percent</item>
+      <item>11 percent</item>
+      <item>15 percent</item>
+      </list>
+      </problem>
+      <solution id="fs-idp98222800">
+<label/>
+<para id="fs-idm25239072">C</para>
+</solution>
+      </exercise>
+</section>
+<section id="fs-idp144829360" class="free-response"><title>Free Response</title><exercise id="fs-idp75454816">
+<problem id="fs-idp94919680"><para id="fs-idp10442512">Describe two considerations in conservation preserve design.</para></problem>
+<solution id="fs-idp928848"><label/>
+<para id="fs-idm33493520">Larger preserves will contain more species. Preserves should have a buffer around them to protect species from edge effects. Preserves that are round or square are better than preserves with many thin arms.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp17512400">
+<problem id="fs-idp122513632"><para id="fs-idp96560816">Describe what happens to an ecosystem when a keystone species is removed.</para></problem>
+<solution id="fs-idp99939248"><label/>
+<para id="fs-idm26710912">When a keystone species is removed many species will disappear from the ecosystem.</para>
+</solution>
+</exercise>
+</section></content>
+<glossary>
+<definition id="fs-idp192790000"><term>DNA barcoding</term> <meaning id="fs-idp131408448">molecular genetic method for identifying a unique genetic sequence to associate with a species</meaning></definition>
+</glossary>
+</document>

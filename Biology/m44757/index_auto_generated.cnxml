@@ -1,0 +1,205 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Somatosensation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44757/latest/</md:content-url>
+  <md:content-id>m44757</md:content-id>
+  <md:title>Somatosensation</md:title>
+  <md:version>1.5</md:version>
+  <md:created>2012/08/23 15:35:14 -0500</md:created>
+  <md:revised>2013/06/21 09:41:20.028 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>bulboid corpuscle</md:keyword>
+    <md:keyword>bulbous corpuscle</md:keyword>
+    <md:keyword>free nerve ending</md:keyword>
+    <md:keyword>glabrous</md:keyword>
+    <md:keyword>Golgi tendon organ</md:keyword>
+    <md:keyword>Krause end bulb</md:keyword>
+    <md:keyword>mechanoreceptor</md:keyword>
+    <md:keyword>mechanoreceptor density</md:keyword>
+    <md:keyword>Meissner's corpuscle</md:keyword>
+    <md:keyword>Merkel's disc</md:keyword>
+    <md:keyword>muscle spindle</md:keyword>
+    <md:keyword>nociception</md:keyword>
+    <md:keyword>Pacinian corpuscle</md:keyword>
+    <md:keyword>pain</md:keyword>
+    <md:keyword>propriorception</md:keyword>
+    <md:keyword>Ruffini ending</md:keyword>
+    <md:keyword>sense</md:keyword>
+    <md:keyword>sensory system</md:keyword>
+    <md:keyword>skin sensor</md:keyword>
+    <md:keyword>somatosensation</md:keyword>
+    <md:keyword>somatosensory receptor</md:keyword>
+    <md:keyword>tactile corpuscle</md:keyword>
+    <md:keyword>thermoreception</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe four important mechanoreceptors in human skin</item>
+<item>Describe the topographical distribution of somatosensory receptors between glabrous and hairy skin</item>
+<item>Explain why the perception of pain is subjective</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idp27604304">Somatosensation is a mixed sensory category and includes all sensation received from the skin and mucous membranes, as well from as the limbs and joints. Somatosensation is also known as tactile sense, or more familiarly, as the sense of touch. Somatosensation occurs all over the exterior of the body and at some interior locations as well. A variety of receptor types&#8212;embedded in the skin, mucous membranes, muscles, joints, internal organs, and cardiovascular system&#8212;play a role.</para>
+<para id="fs-idm94876192">Recall that the epidermis is the outermost layer of skin in mammals. It is relatively thin, is composed of keratin-filled cells, and has no blood supply. The epidermis serves as a barrier to water and to invasion by pathogens. Below this, the much thicker dermis contains blood vessels, sweat glands, hair follicles, lymph vessels, and lipid-secreting sebaceous glands (<link target-id="fig-ch36_02_01" document=""/>). Below the epidermis and dermis is the subcutaneous tissue, or hypodermis, the fatty layer that contains blood vessels, connective tissue, and the axons of sensory neurons. The hypodermis, which holds about 50 percent of the body&#8217;s fat, attaches the dermis to the bone and muscle, and supplies nerves and blood vessels to the dermis.</para>
+<figure id="fig-ch36_02_01"><media id="fs-idm61986416" alt="Illustration shows a cross section of mammalian skin. The outer epidermis is a thin layer, smooth on the outside, bumpy on the inside. The middle dermis is much thicker than the dermis. Blood, nerve and lymph vessels run along the bottom of it, and smaller capillaries and nerve endings extend to the upper part. One nerve ends in a receptor. Sweat glands extend from the dermis into the epidermis. Hair follicles extend from the base of the dermis to the upper part where they are joined by oil glands. Hairs extend from the follicles, through the epidermis and out of the skin. The hypodermis is a fatty layer beneath the dermis.">
+    <image mime-type="image/jpg" src="Figure_36_02_01.jpg" width="300"/>
+    </media>
+    
+<caption>Mammalian skin has three layers: an epidermis, a dermis, and a hypodermis. (credit: modification of work by Don Bliss, National Cancer Institute)</caption></figure><section id="fs-idm51435344">
+<title>Somatosensory Receptors</title>
+<para id="fs-idm80787056">Sensory receptors are classified into five categories: mechanoreceptors, thermoreceptors, proprioceptors, pain receptors, and chemoreceptors. These categories are based on the nature of stimuli each receptor class transduces. What is commonly referred to as &#8220;touch&#8221; involves more than one kind of stimulus and more than one kind of receptor. Mechanoreceptors in the skin are described as encapsulated (that is, surrounded by a capsule) or unencapsulated (a group that includes free nerve endings). A <term>free nerve ending</term>, as its name implies, is an unencapsulated dendrite of a sensory neuron. Free nerve endings are the most common nerve endings in skin, and they extend into the middle of the epidermis. Free nerve endings are sensitive to painful stimuli, to hot and cold, and to light touch. They are slow to adjust to a stimulus and so are less sensitive to abrupt changes in stimulation.</para><para id="fs-idm10056800">There are three classes of mechanoreceptors: tactile, proprioceptors, and baroreceptors. Mechanoreceptors sense stimuli due to physical deformation of their plasma membranes. They contain mechanically gated ion channels whose gates open or close in response to pressure, touch, stretching, and sound.&#8221; There are four primary tactile mechanoreceptors in human skin: Merkel&#8217;s disks, Meissner&#8217;s corpuscles, Ruffini endings, and Pacinian corpuscle; two are located toward the surface of the skin and two are located deeper. A fifth type of mechanoreceptor, Krause end bulbs, are found only in specialized regions. <term>Merkel&#8217;s disks</term> (shown in <link target-id="fig-ch36_02_02" document=""/>) are found in the upper layers of skin near the base of the epidermis, both in skin that has hair and on <term>glabrous</term> skin, that is, the hairless skin found on the palms and fingers, the soles of the feet, and the lips of humans and other primates. Merkel&#8217;s disks are densely distributed in the fingertips and lips. They are slow-adapting, unencapsulated nerve endings, and they respond to light touch. Light touch, also known as discriminative touch, is a light pressure that allows the location of a stimulus to be pinpointed. The receptive fields of Merkel&#8217;s disks are small with well-defined borders. That makes them finely sensitive to edges and they come into use in tasks such as typing on a keyboard.</para>
+<note id="fs-idm42774704" class="art-connection"><label/><title>Art Connection</title>
+<figure id="fig-ch36_02_02"><media id="fs-idm201457184" alt="Illustration shows the location of various mechanoreceptors in a cross section of the epidermis and dermis. A nerve runs along the middle of the dermis, and all the mechanoreceptors are connected to it. Ruffini endings, Merkel&#8217;s disks, and Meissner&#8217;s corpuscles are all located in the upper dermis above the nerve. Ruffini endings are bulbous, horizontal mechanoreceptors located in the middle of the upper dermis. Meissner&#8217;s corpuscles are bulbous, vertical mechanoreceptors that touch the bottom of the epidermis. Merkel&#8217;s disks have finger-like projections that also touch the bottom of the epidermis. The last type of mechanoreceptor, Pacini corpuscles, are oval mechanoreceptors located in the lower dermis.">
+<image mime-type="image/png" src="Figure_36_02_02.png" width="350"/>
+</media>
+<caption>Four of the primary mechanoreceptors in human skin are shown. Merkel&#8217;s disks, which are unencapsulated, respond to light touch. Meissner&#8217;s corpuscles, Ruffini endings, Pacinian corpuscles, and Krause end bulbs are all encapsulated. Meissner&#8217;s corpuscles respond to touch and low-frequency vibration. Ruffini endings detect stretch, deformation within joints, and warmth. Pacinian corpuscles detect transient pressure and high-frequency vibration. Krause end bulbs detect cold.</caption>
+</figure>
+<para id="fs-idm80194144">Which of the following statements about mechanoreceptors is false?</para>
+<list id="fs-idm50444832" list-type="enumerated" number-style="lower-alpha"><item>Pacini corpuscles are found in both glabrous and hairy skin.</item>
+<item>Merkel&#8217;s disks are abundant on the fingertips and lips.</item>
+<item>Ruffini endings are encapsulated mechanoreceptors.</item>
+<item>Meissner&#8217;s corpuscles extend into the lower dermis.</item>
+</list><!--<para><link target-id="fig-ch36_01_02" document=""/>D</para>-->
+</note><para id="fs-idm134301152"><term>Meissner&#8217;s corpuscles</term>, (shown in <link target-id="fig-ch36_02_03" document=""/>) also known as tactile corpuscles, are found in the upper dermis, but they project into the epidermis. They, too, are found primarily in the glabrous skin on the fingertips and eyelids. They respond to fine touch and pressure, but they also respond to low-frequency vibration or flutter. They are rapidly adapting, fluid-filled, encapsulated neurons with small, well-defined borders and are responsive to fine details. Like Merkel&#8217;s disks, Meissner&#8217;s corpuscles are not as plentiful in the palms as they are in the fingertips.</para>
+<figure id="fig-ch36_02_03"><media id="fs-idm120547424" alt="Micrograph shows the epidermis, which stains dark pink and the dermis, which stains light pink. Finger-like projections of epidermis extend into the dermis. Between two of these fingers is an oval Meissner corpuscle about ten microns across and 20 microns long.">
+    <image mime-type="image/jpg" src="Figure_36_02_03.jpg" width="295"/>
+    </media>
+<caption>Meissner corpuscles in the fingertips, such as the one viewed here using bright field light microscopy, allow for touch discrimination of fine detail. (credit: modification of work by "Wbensmith"/Wikimedia Commons; scale-bar data from Matt Russell)</caption></figure><para id="fs-idp46190528">Deeper in the epidermis, near the base, are <term>Ruffini endings</term>, which are also known as bulbous corpuscles. They are found in both glabrous and hairy skin. These are slow-adapting, encapsulated mechanoreceptors that detect skin stretch and deformations within joints, so they provide valuable feedback for gripping objects and controlling finger position and movement. Thus, they also contribute to proprioception and kinesthesia. Ruffini endings also detect warmth. Note that these warmth detectors are situated deeper in the skin than are the cold detectors. It is not surprising, then, that humans detect cold stimuli before they detect warm stimuli.</para><para id="fs-idm125449616"><term>Pacinian corpuscles</term> (seen in <link target-id="fig-ch36_02_04" document=""/>) are located deep in the dermis of both glabrous and hairy skin and are structurally similar to Meissner&#8217;s corpuscles; they are found in the bone periosteum, joint capsules, pancreas and other viscera, breast, and genitals. They are rapidly adapting mechanoreceptors that sense deep transient (but not prolonged) pressure and high-frequency vibration. Pacinian receptors detect pressure and vibration by being compressed, stimulating their internal dendrites. There are fewer Pacinian corpuscles and Ruffini endings in skin than there are Merkel&#8217;s disks and Meissner&#8217;s corpuscles.</para>
+<figure id="fig-ch36_02_04"><media id="fs-idm62604976" alt="Micrograph shows three Pacinian corpuscles embedded in the dermis. The corpuscles are round and about 1.4 millimeters across and have rings, like a tree stump.">
+<image mime-type="image/jpg" src="Figure_36_02_04.jpg" width="295"/>
+</media>
+<caption>Pacinian corpuscles, such as these visualized using bright field light microscopy, detect pressure (touch) and high-frequency vibration. (credit: modification of work by Ed Uthman; scale-bar data from Matt Russell)</caption></figure><para id="fs-idm173340560">In proprioception, proprioceptive and kinesthetic signals travel through myelinated afferent neurons running from the spinal cord to the medulla. Neurons are not physically connected, but communicate via neurotransmitters secreted into synapses or &#8220;gaps&#8221; between communicating neurons. Once in the medulla, the neurons continue carrying the signals to the thalamus.</para><para id="fs-idp50945328"><term>Muscle spindles</term> are stretch receptors that detect the amount of stretch, or lengthening of muscles. Related to these are <term>Golgi tendon organs</term>, which are tension receptors that detect the force of muscle contraction. Proprioceptive and kinesthetic signals come from limbs. Unconscious proprioceptive signals run from the spinal cord to the cerebellum, the brain region that coordinates muscle contraction, rather than to the thalamus, like most other sensory information.</para>
+<para id="fs-idm140157936">Barorecptors detect pressure changes in an organ. They are found in the walls of the carotid artery and the aorta where they monitor blood pressure, and in the lungs where they detect the degree of lung expansion. Stretch receptors are found at various sites in the digestive and urinary systems.</para>
+<para id="fs-idm196069696">In addition to these two types of deeper receptors, there are also rapidly adapting hair receptors, which are found on nerve endings that wrap around the base of hair follicles. There are a few types of hair receptors that detect slow and rapid hair movement, and they differ in their sensitivity to movement. Some hair receptors also detect skin deflection, and certain rapidly adapting hair receptors allow detection of stimuli that have not yet touched the skin.</para>
+<section id="fs-idm172957136">
+<title>Integration of Signals from Mechanoreceptors</title>
+<para id="fs-idm70983152">The configuration of the different types of receptors working in concert in human skin results in a very refined sense of touch. The nociceptive receptors&#8212;those that detect pain&#8212;are located near the surface. Small, finely calibrated mechanoreceptors&#8212;Merkel&#8217;s disks and Meissner&#8217;s corpuscles&#8212;are located in the upper layers and can precisely localize even gentle touch. The large mechanoreceptors&#8212;Pacinian corpuscles and Ruffini endings&#8212;are located in the lower layers and respond to deeper touch. (Consider that the deep pressure that reaches those deeper receptors would not need to be finely localized.) Both the upper and lower layers of the skin hold rapidly and slowly adapting receptors. Both primary somatosensory cortex and secondary cortical areas are responsible for processing the complex picture of stimuli transmitted from the interplay of mechanoreceptors.</para>
+</section>
+<section id="fs-idm147853312">
+<title>Density of Mechanoreceptors</title>
+<para id="fs-idp4306848">The distribution of touch receptors in human skin is not consistent over the body. In humans, touch receptors are less dense in skin covered with any type of hair, such as the arms, legs, torso, and face. Touch receptors are denser in glabrous skin (the type found on human fingertips and lips, for example), which is typically more sensitive and is thicker than hairy skin (4 to 5 mm versus 2 to 3 mm).</para>
+<para id="fs-idp12283952">How is receptor density estimated in a human subject? The relative density of pressure receptors in different locations on the body can be demonstrated experimentally using a two-point discrimination test. In this demonstration, two sharp points, such as two thumbtacks, are brought into contact with the subject&#8217;s skin (though not hard enough to cause pain or break the skin). The subject reports if he or she feels one point or two points. If the two points are felt as one point, it can be inferred that the two points are both in the receptive field of a single sensory receptor. If two points are felt as two separate points, each is in the receptive field of two separate sensory receptors. The points could then be moved closer and re-tested until the subject reports feeling only one point, and the size of the receptive field of a single receptor could be estimated from that distance.</para>
+</section>
+</section>
+<section id="fs-idm211054720">
+<title>Thermoreception</title>
+<para id="fs-idm160095024">In addition to Krause end bulbs that detect cold and Ruffini endings that detect warmth, there are different types of cold receptors on some free nerve endings: thermoreceptors, located in the dermis, skeletal muscles, liver, and hypothalamus, that are activated by different temperatures. Their pathways into the brain run from the spinal cord through the thalamus to the primary somatosensory cortex. Warmth and cold information from the face travels through one of the cranial nerves to the brain. You know from experience that a tolerably cold or hot stimulus can quickly progress to a much more intense stimulus that is no longer tolerable. Any stimulus that is too intense can be perceived as pain because temperature sensations are conducted along the same pathways that carry pain sensations</para>
+</section>
+<section id="fs-idm214352368">
+<title>Pain</title>
+<para id="fs-idm143583024">
+Pain is the name given to <term>nociception</term>, which is the neural processing of injurious stimuli in response to tissue damage. Pain is caused by true sources of injury, such as contact with a heat source that causes a thermal burn or contact with a corrosive chemical. But pain also can be caused by harmless stimuli that mimic the action of damaging stimuli, such as contact with capsaicins, the compounds that cause peppers to taste hot and which are used in self-defense pepper sprays and certain topical medications. Peppers taste &#8220;hot&#8221; because the protein receptors that bind capsaicin open the same calcium channels that are activated by warm receptors.</para>
+<para id="fs-idm132414512">Nociception starts at the sensory receptors, but pain, inasmuch as it is the perception of nociception, does not start until it is communicated to the brain. There are several nociceptive pathways to and through the brain. Most axons carrying nociceptive information into the brain from the spinal cord project to the thalamus (as do other sensory neurons) and the neural signal undergoes final processing in the primary somatosensory cortex. Interestingly, one nociceptive pathway projects not to the thalamus but directly to the hypothalamus in the forebrain, which modulates the cardiovascular and neuroendocrine functions of the autonomic nervous system. Recall that threatening&#8212;or painful&#8212;stimuli stimulate the sympathetic branch of the visceral sensory system, readying a fight-or-flight response.</para>
+<note id="fs-idm50149456" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idm160186608" alt="QR Code representing a URL">
+<image mime-type="image/png" src="nociceptive.png" width="120"/>
+</media>
+<para id="fs-idm87424368">View this <link window="new" url="http://openstaxcollege.org/l/nociceptive">video</link> that animates the five phases of nociceptive pain.</para>
+</note></section>
+<section id="fs-idm136386592" class="summary"><title>Section Summary</title><para id="fs-idm23599504">Somatosensation includes all sensation received from the skin and mucous membranes, as well as from the limbs and joints. Somatosensation occurs all over the exterior of the body and at some interior locations as well, and a variety of receptor types, embedded in the skin and mucous membranes, play a role.</para>
+<para id="fs-idm112115296">There are several types of specialized sensory receptors. Rapidly adapting free nerve endings detect nociception, hot and cold, and light touch. Slowly adapting, encapsulated Merkel&#8217;s disks are found in fingertips and lips, and respond to light touch. Meissner&#8217;s corpuscles, found in glabrous skin, are rapidly adapting, encapsulated receptors that detect touch, low-frequency vibration, and flutter. Ruffini endings are slowly adapting, encapsulated receptors that detect skin stretch, joint activity, and warmth. Hair receptors are rapidly adapting nerve endings wrapped around the base of hair follicles that detect hair movement and skin deflection. Finally, Pacinian corpuscles are encapsulated, rapidly adapting receptors that detect transient pressure and high-frequency vibration.</para>
+</section><section id="fs-idm190848880" class="art-exercise"><title>Art Connections</title>
+<exercise id="fs-idp18848768">
+    <problem id="fs-idp96423136">
+<para id="fs-idm133623600"><link target-id="fig-ch36_02_02" document=""/> Which of the following statements about mechanoreceptors is false?</para>
+        <list id="fs-idp15369472" list-type="enumerated" number-style="lower-alpha"><item>Pacini corpuscles are found in both glabrous and hairy skin.</item>
+<item>Merkel&#8217;s disks are abundant on the fingertips and lips.</item>
+<item>Ruffini endings are encapsulated mechanoreceptors.</item>
+<item>Meissner&#8217;s corpuscles extend into the lower dermis.</item></list>
+    </problem>
+    <solution id="fs-idm22719168"><label/><para id="fs-idm113364224"><link target-id="fig-ch36_02_02" document=""/> D</para></solution>
+</exercise>
+    </section><section id="fs-idm157841760" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm75363216">
+<problem id="fs-idm201923680"><para id="fs-idp68953616">_____ are found only in _____ skin, and detect skin deflection.</para>
+<list id="fs-idm114479632" list-type="enumerated" number-style="lower-alpha">
+<item>Meissner&#8217;s corpuscles: hairy</item>
+<item>Merkel&#8217;s disks: glabrous</item>
+<item>hair receptors: hairy</item>
+<item>Krause end bulbs: hairy</item>
+</list>
+</problem>
+<solution id="fs-idm215705136">
+<label/>
+<para id="fs-idp33688192">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idp59279184">
+<problem id="fs-idp11956256"><para id="fs-idm143118032">If you were to burn your epidermis, what receptor type would you most likely burn?</para>
+<list id="fs-idm192453152" list-type="enumerated" number-style="lower-alpha">
+<item>free nerve endings</item>
+<item>Ruffini endings</item>
+<item>Pacinian corpuscle</item>
+<item>hair receptors</item>
+</list>
+</problem>
+<solution id="fs-idm154403792">
+<label/>
+<para id="fs-idp55944736">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm100554416" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm132262912">
+<problem id="fs-idm140646800"><para id="fs-idp59866944">What can be inferred about the relative sizes of the areas of cortex that process signals from skin not densely innervated with sensory receptors and skin that is densely innervated with sensory receptors?</para></problem>
+<solution id="fs-idm132949248"><label/>
+<para id="fs-idm78103200">The cortical areas serving skin that is densely innervated likely are larger than those serving skin that is less densely innervated.</para></solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm80622176"><term>free nerve ending</term> <meaning id="fs-idp15324000">ending of an afferent neuron that lacks a specialized structure for detection of sensory stimuli; some respond to touch, pain, or temperature</meaning></definition>
+<definition id="fs-idm200979824"><term>glabrous</term> <meaning id="fs-idm44325664">describes the non-hairy skin found on palms and fingers, soles of feet, and lips of humans and other primates</meaning></definition>
+<definition id="fs-idm114133472"><term>Golgi tendon organ</term> <meaning id="fs-idm204005792">muscular proprioceptive tension receptor that provides the sensory component of the Golgi tendon reflex</meaning></definition>
+<definition id="fs-idm80368304"><term>Meissner&#8217;s corpuscle</term> <meaning id="fs-idm51083728">(also, tactile corpuscle) encapsulated, rapidly-adapting mechanoreceptor in the skin that responds to light touch</meaning></definition>
+<definition id="fs-idm4993712"><term>Merkel's disc</term> <meaning id="fs-idm178032800">unencapsulated, slowly-adapting mechanoreceptor in the skin that responds to touch</meaning></definition>
+<definition id="fs-idp49461872"><term>muscle spindle</term> <meaning id="fs-idm140496576">proprioceptive stretch receptor that lies within a muscle and that shortens the muscle to an optimal length for efficient contraction</meaning></definition>
+<definition id="fs-idp17756096"><term>nociception</term> <meaning id="fs-idm220483232">neural processing of noxious (such as damaging) stimuli</meaning></definition>
+<definition id="fs-idm140150448"><term>Pacinian corpuscle</term> <meaning id="fs-idm5833888">encapsulated mechanoreceptor in the skin that responds to deep pressure and vibration</meaning></definition>
+<definition id="fs-idm217315984"><term>Ruffini ending</term> <meaning id="fs-idm199906592">(also, bulbous corpuscle) slowly-adapting mechanoreceptor in the skin that responds to skin stretch and joint position</meaning></definition>
+</glossary>
+</document>

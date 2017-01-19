@@ -1,0 +1,216 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Eukaryotic Transcription</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44524/latest/</md:content-url>
+  <md:content-id>m44524</md:content-id>
+  <md:title>Eukaryotic Transcription</md:title>
+  <md:version>1.5</md:version>
+  <md:created>2012/08/23 13:51:38 -0500</md:created>
+  <md:revised>2013/04/10 15:16:43.033 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>CAAT box</md:keyword>
+    <md:keyword>eukaryotic transcription</md:keyword>
+    <md:keyword>FACT</md:keyword>
+    <md:keyword>GC-rich box</md:keyword>
+    <md:keyword>gene</md:keyword>
+    <md:keyword>genes</md:keyword>
+    <md:keyword>octamer box</md:keyword>
+    <md:keyword>preinitiation complex</md:keyword>
+    <md:keyword>protein</md:keyword>
+    <md:keyword>proteins</md:keyword>
+    <md:keyword>small nuclear RNA</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>List the steps in eukaryotic transcription</item>
+<item>Discuss the role of RNA polymerases in transcription</item>
+<item>Compare and contrast the three RNA polymerases</item>
+<item>Explain the significance of transcription factors</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-id2026267">Prokaryotes and eukaryotes perform fundamentally the same process of transcription, with a few key differences. The most important difference between prokaryotes and eukaryotes is the latter&#8217;s membrane-bound nucleus and organelles. With the genes bound in a nucleus, the eukaryotic cell must be able to transport its mRNA to the cytoplasm and must protect its mRNA from degrading before it is translated. Eukaryotes also employ three different polymerases that each transcribe a different subset of genes. Eukaryotic mRNAs are usually monogenic, meaning that they specify a single protein.</para>
+
+<section id="fs-id1760576">
+<title>Initiation of Transcription in Eukaryotes</title>
+<para id="fs-id2862612">Unlike the prokaryotic polymerase that can bind to a DNA template on its own, eukaryotes require several other proteins, called transcription factors, to first bind to the promoter region and then help recruit the appropriate polymerase.</para>
+
+<section id="fs-id3688592">
+<title>The Three Eukaryotic RNA Polymerases</title>
+<para id="fs-id3043156">The features of eukaryotic mRNA synthesis are markedly more complex those of prokaryotes. Instead of a single polymerase comprising five subunits, the eukaryotes have three polymerases that are each made up of 10 subunits or more. Each eukaryotic polymerase also requires a distinct set of transcription factors to bring it to the DNA template.</para>
+<para id="fs-id2074568">RNA polymerase I is located in the nucleolus, a specialized nuclear substructure in which ribosomal RNA (rRNA) is transcribed, processed, and assembled into ribosomes (<link target-id="tab-ch15_03_01" document=""/>). The rRNA molecules are considered structural RNAs because they have a cellular role but are not translated into protein. The rRNAs are components of the ribosome and are essential to the process of translation. RNA polymerase I synthesizes all of the rRNAs except for the 5S rRNA molecule. The &#8220;S&#8221; designation applies to &#8220;Svedberg&#8221; units, a nonadditive value that characterizes the speed at which a particle sediments during centrifugation.</para>
+<table id="tab-ch15_03_01" summary="table x.x">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c4" align="left">Locations, Products, and Sensitivities of the Three Eukaryotic RNA Polymerases</entry>
+</row>
+<row>
+<entry align="center">RNA Polymerase</entry>
+<entry align="center">Cellular Compartment</entry>
+<entry align="center">Product of Transcription</entry>
+<entry align="center">&#945;-Amanitin Sensitivity</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="center">I</entry>
+<entry>Nucleolus</entry>
+<entry>All rRNAs except 5S rRNA</entry>
+<entry>Insensitive</entry>
+</row>
+<row>
+<entry align="center">II</entry>
+<entry>Nucleus</entry>
+<entry>All protein-coding nuclear pre-mRNAs</entry>
+<entry>Extremely sensitive</entry>
+</row>
+<row>
+<entry align="center">III</entry>
+<entry>Nucleus</entry>
+<entry>5S rRNA, tRNAs, and small nuclear RNAs</entry>
+<entry>Moderately sensitive</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table><para id="fs-id2694589">RNA polymerase II is located in the nucleus and synthesizes all protein-coding nuclear pre-mRNAs. Eukaryotic pre-mRNAs undergo extensive processing after transcription but before translation. For clarity, this module&#8217;s discussion of transcription and translation in eukaryotes will use the term &#8220;mRNAs&#8221; to describe only the mature, processed molecules that are ready to be translated. RNA polymerase II is responsible for transcribing the overwhelming majority of eukaryotic genes.</para>
+<para id="fs-id2014161">RNA polymerase III is also located in the nucleus. This polymerase transcribes a variety of structural RNAs that includes the 5S pre-rRNA, transfer pre-RNAs (pre-tRNAs), and <term>small nuclear </term>pre-<term>RNAs</term>. The tRNAs have a critical role in translation; they serve as the adaptor molecules between the mRNA template and the growing polypeptide chain. Small nuclear RNAs have a variety of functions, including &#8220;splicing&#8221; pre-mRNAs and regulating transcription factors.</para>
+<para id="fs-id2583722">A scientist characterizing a new gene can determine which polymerase transcribes it by testing whether the gene is expressed in the presence of a particular mushroom poison, &#945;-amanitin (<link target-id="tab-ch15_03_01" document=""/>). Interestingly, &#945;-amanitin produced by <emphasis effect="italics">Amanita phalloides</emphasis>, the Death Cap mushroom, affects the three polymerases very differently. RNA polymerase I is completely insensitive to &#945;-amanitin, meaning that the polymerase can transcribe DNA in vitro in the presence of this poison. In contrast, RNA polymerase II is extremely sensitive to &#945;-amanitin, and RNA polymerase III is moderately sensitive. Knowing the transcribing polymerase can clue a researcher into the general function of the gene being studied. Because RNA polymerase II transcribes the vast majority of genes, we will focus on this polymerase in our subsequent discussions about eukaryotic transcription factors and promoters.</para>
+</section>
+
+<section id="fs-id1951192">
+<title>Structure of an RNA Polymerase II Promoter</title>
+<para id="fs-id2196807">Eukaryotic promoters are much larger and more complex than prokaryotic promoters, but both have a TATA box. For example, in the mouse thymidine kinase gene, the TATA box is located at approximately -30 relative to the initiation (+1) site (<link target-id="fig-ch15_03_01" document=""/>). For this gene, the exact TATA box sequence is TATAAAA, as read in the 5' to 3' direction on the nontemplate strand. This sequence is not identical to the <emphasis effect="italics">E. coli</emphasis> TATA box, but it conserves the A&#8211;T rich element. The thermostability of A&#8211;T bonds is low and this helps the DNA template to locally unwind in preparation for transcription.</para>
+<figure id="fig-ch15_03_01"><media id="fs-id2574107" alt="Illustration shows a series of transcription factors binding to the promoter, which is upstream of the gene. After all of the transcription factors are bound, RNA polymerase binds as well.">
+<image mime-type="image/jpg" src="Figure_15_03_01.jpg" width="280"/>
+</media>
+<caption>A generalized promoter of a gene transcribed by RNA polymerase II is shown. Transcription factors recognize the promoter. RNA polymerase II then binds and forms the transcription initiation complex.</caption></figure><note id="fs-id1461234" class="art-connection"><label/><title>Art Connection</title>
+<para id="fs-idm74169728"><figure id="fig-ch15_03_02"><media id="fs-id2278509" alt="An illustration shows that before RNA processing, there is a primary RNA transcript including five boxes labeled, left to right, as exon 1, intron, exon 2, intron, and exon 3. After RNA processing, there is a spliced RNA with these parts, left to right: a 5' cap, a 5' untranslated region, exon 1, exon 2, exon 3, a 3' untranslated region, and a poly-a tail.">
+<image mime-type="image/jpg" src="Figure_15_03_02.png" width="320"/>
+</media>
+<caption>Eukaryotic mRNA contains introns that must be spliced out. A 5' cap and 3' poly-A tail are also added.</caption></figure></para>
+<para id="fs-id2000672">A scientist splices a eukaryotic promoter in front of a bacterial gene and inserts the gene in a bacterial chromosome. Would you expect the bacteria to transcribe the gene?</para>
+<!-- <link window="new"  target-id="fig-ch15_03_02" document=""/>No. Prokaryotes use different promoters than eukaryotes. -->
+</note><para id="fs-id1807694">The mouse genome includes one gene and two pseudogenes for cytoplasmic thymidine kinase. Pseudogenes are genes that have lost their protein-coding ability or are no longer expressed by the cell. These pseudogenes are copied from mRNA and incorporated into the chromosome. For example, the mouse thymidine kinase promoter also has a conserved <term>CAAT box</term> (GGCCAATCT) at approximately -80. This sequence is essential and is involved in binding transcription factors. Further upstream of the TATA box, eukaryotic promoters may also contain one or more <term>GC-rich boxes</term> (GGCG) or <term>octamer boxes</term> (ATTTGCAT). These elements bind cellular factors that increase the efficiency of transcription initiation and are often identified in more &#8220;active&#8221; genes that are constantly being expressed by the cell.</para>
+</section>
+<section id="fs-id1894765">
+<title>Transcription Factors for RNA Polymerase II</title>
+<para id="fs-id1977416">The complexity of eukaryotic transcription does not end with the polymerases and promoters. An army of basal transcription factors, enhancers, and silencers also help to regulate the frequency with which pre-mRNA is synthesized from a gene. Enhancers and silencers affect the efficiency of transcription but are not necessary for transcription to proceed. Basal transcription factors are crucial in the formation of a <term>preinitiation complex</term> on the DNA template that subsequently recruits RNA polymerase II for transcription initiation.</para>
+<para id="fs-id2334805">The names of the basal transcription factors begin with &#8220;TFII&#8221; (this is the transcription factor for RNA polymerase II) and are specified with the letters A&#8211;J. The transcription factors systematically fall into place on the DNA template, with each one further stabilizing the preinitiation complex and contributing to the recruitment of RNA polymerase II.</para>
+<para id="fs-id1720501">The processes of bringing RNA polymerases I and III to the DNA template involve slightly less complex collections of transcription factors, but the general theme is the same. Eukaryotic transcription is a tightly regulated process that requires a variety of proteins to interact with each other and with the DNA strand. Although the process of transcription in eukaryotes involves a greater metabolic investment than in prokaryotes, it ensures that the cell transcribes precisely the pre-mRNAs that it needs for protein synthesis.</para>
+<note id="fs-id2016560" class="evolution"><label/><title>Evolution Connection</title>
+<para id="fs-id1479424"><title>The Evolution of Promoters</title>The evolution of genes may be a familiar concept. Mutations can occur in genes during DNA replication, and the result may or may not be beneficial to the cell. By altering an enzyme, structural protein, or some other factor, the process of mutation can transform functions or physical features. However, eukaryotic promoters and other gene regulatory sequences may evolve as well. For instance, consider a gene that, over many generations, becomes more valuable to the cell. Maybe the gene encodes a structural protein that the cell needs to synthesize in abundance for a certain function. If this is the case, it would be beneficial to the cell for that gene&#8217;s promoter to recruit transcription factors more efficiently and increase gene expression.</para>
+<para id="fs-id2694641">Scientists examining the evolution of promoter sequences have reported varying results. In part, this is because it is difficult to infer exactly where a eukaryotic promoter begins and ends. Some promoters occur within genes; others are located very far upstream, or even downstream, of the genes they are regulating. However, when researchers limited their examination to human core promoter sequences that were defined experimentally as sequences that bind the preinitiation complex, they found that promoters evolve even faster than protein-coding genes.</para>
+<para id="fs-id1448131">It is still unclear how promoter evolution might correspond to the evolution of humans or other higher organisms. However, the evolution of a promoter to effectively make more or less of a given gene product is an intriguing alternative to the evolution of the genes themselves.<sup><footnote id="fs-idm20771056">H Liang et al., &#8220;Fast evolution of core promoters in primate genomes,&#8221; <emphasis effect="italics">Molecular Biology and Evolution</emphasis> 25 (2008): 1239&#8211;44.</footnote></sup>
+</para>
+</note></section>
+<section id="fs-id1836540">
+<title>Promoter Structures for RNA Polymerases I and III</title>
+<para id="fs-id2279649">In eukaryotes, the conserved promoter elements differ for genes transcribed by RNA polymerases I, II, and III. RNA polymerase I transcribes genes that have two GC-rich promoter sequences in the -45 to +20 region. These sequences alone are sufficient for transcription initiation to occur, but promoters with additional sequences in the region from -180 to -105 upstream of the initiation site will further enhance initiation. Genes that are transcribed by RNA polymerase III have upstream promoters or promoters that occur within the genes themselves.</para>
+</section>
+</section>
+
+<section id="fs-id2896654">
+<title>Eukaryotic Elongation and Termination</title>
+<para id="fs-id1613052">Following the formation of the preinitiation complex, the polymerase is released from the other transcription factors, and elongation is allowed to proceed as it does in prokaryotes with the polymerase synthesizing pre-mRNA in the 5' to 3' direction. As discussed previously, RNA polymerase II transcribes the major share of eukaryotic genes, so this section will focus on how this polymerase accomplishes elongation and termination.</para>
+<para id="fs-id3053365">Although the enzymatic process of elongation is essentially the same in eukaryotes and prokaryotes, the DNA template is more complex. When eukaryotic cells are not dividing, their genes exist as a diffuse mass of DNA and proteins called chromatin. The DNA is tightly packaged around charged histone proteins at repeated intervals. These DNA&#8211;histone complexes, collectively called nucleosomes, are regularly spaced and include 146 nucleotides of DNA wound around eight histones like thread around a spool.</para>
+<para id="fs-id1910636">For polynucleotide synthesis to occur, the transcription machinery needs to move histones out of the way every time it encounters a nucleosome. This is accomplished by a special protein complex called <term>FACT</term>, which stands for &#8220;facilitates chromatin transcription.&#8221; This complex pulls histones away from the DNA template as the polymerase moves along it. Once the pre-mRNA is synthesized, the FACT complex replaces the histones to recreate the nucleosomes.</para>
+<para id="fs-id1360285">The termination of transcription is different for the different polymerases. Unlike in prokaryotes, elongation by RNA polymerase II in eukaryotes takes place 1,000&#8211;2,000 nucleotides beyond the end of the gene being transcribed. This pre-mRNA tail is subsequently removed by cleavage during mRNA processing. On the other hand, RNA polymerases I and III require termination signals. Genes transcribed by RNA polymerase I contain a specific 18-nucleotide sequence that is recognized by a termination protein. The process of termination in RNA polymerase III involves an mRNA hairpin similar to rho-independent termination of transcription in prokaryotes.</para>
+</section>
+
+<section id="fs-id1847057" class="summary"> <title>Section Summary</title><para id="fs-id1097260">Transcription in eukaryotes involves one of three types of polymerases, depending on the gene being transcribed. RNA polymerase II transcribes all of the protein-coding genes, whereas RNA polymerase I transcribes rRNA genes, and RNA polymerase III transcribes rRNA, tRNA, and small nuclear RNA genes. The initiation of transcription in eukaryotes involves the binding of several transcription factors to complex promoter sequences that are usually located upstream of the gene being copied. The mRNA is synthesized in the 5' to 3' direction, and the FACT complex moves and reassembles nucleosomes as the polymerase passes by. Whereas RNA polymerases I and III terminate transcription by protein- or RNA hairpin-dependent methods, RNA polymerase II transcribes for 1,000 or more nucleotides beyond the gene template and cleaves the excess during pre-mRNA processing.</para>
+</section>
+
+<section id="fs-idm104374304" class="art-exercise">
+<title>Art Connections</title>
+<exercise id="fs-idp79573648">
+<problem id="fs-idm70130112">
+<para id="fs-idm59081616"><link target-id="fig-ch15_03_02" document=""/> A scientist splices a eukaryotic promoter in front of a bacterial gene and inserts the gene in a bacterial chromosome. Would you expect the bacteria to transcribe the gene?</para>
+</problem>
+<solution id="fs-idm45398016"><label/>
+<para id="fs-idm11981392"><link target-id="fig-ch15_03_02" document=""/> No. Prokaryotes use different promoters than eukaryotes.</para>
+</solution>
+</exercise>
+</section>
+
+<section id="fs-id2118978" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-id2062496">
+<problem id="fs-id1236812"><para id="fs-id2169822">Which feature of promoters can be found in both prokaryotes and eukaryotes?</para>
+<list id="fs-id1418272" list-type="enumerated" number-style="lower-alpha">
+<item>GC box</item>
+<item>TATA box</item>
+<item>octamer box</item>
+<item>-10 and -35 sequences</item>
+</list>
+</problem>
+<solution id="fs-id2155698"> <label/> <para id="fs-id1275139">B</para> </solution>
+</exercise>
+<exercise id="fs-id1419233">
+<problem id="fs-id2338606"><para id="fs-id1447963">What transcripts will be most affected by low levels of &#945;-amanitin?</para>
+<list id="fs-id1380375" list-type="enumerated" number-style="lower-alpha">
+<item>18S and 28S rRNAs</item>
+<item>pre-mRNAs</item>
+<item>5S rRNAs and tRNAs</item>
+<item>other small nuclear RNAs</item>
+</list>
+</problem>
+<solution id="fs-id782653"> <label/> <para id="fs-id1461386">B</para> </solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-id2273024"><term>CAAT box</term> <meaning id="fs-id1381048">(GGCCAATCT) essential eukaryotic promoter sequence involved in binding transcription factors</meaning></definition>
+<definition id="fs-id1478784"><term>FACT</term> <meaning id="fs-id3086772">complex that &#8220;facilitates chromatin transcription&#8221; by disassembling nucleosomes ahead of a transcribing RNA polymerase II and reassembling them after the polymerase passes by</meaning></definition>
+<definition id="fs-id1957596"><term>GC-rich box</term> <meaning id="fs-id1298633">(GGCG) nonessential eukaryotic promoter sequence that binds cellular factors to increase the efficiency of transcription; may be present several times in a promoter</meaning></definition>
+<definition id="fs-id1442805"><term>Octamer box</term> <meaning id="fs-id1006438">(ATTTGCAT) nonessential eukaryotic promoter sequence that binds cellular factors to increase the efficiency of transcription; may be present several times in a promoter</meaning></definition>
+<definition id="fs-id2321556"><term>preinitiation complex</term> <meaning id="fs-id2304857">cluster of transcription factors and other proteins that recruit RNA polymerase II for transcription of a DNA template</meaning></definition>
+<definition id="fs-id1786415"><term>small nuclear RNA</term> <meaning id="fs-id1986894">molecules synthesized by RNA polymerase III that have a variety of functions, including splicing pre-mRNAs and regulating transcription factors</meaning></definition>
+</glossary>
+
+</document>

@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Synthesis of Biological Macromolecules</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml"
+          mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://legacy.cnx.org/content</md:repository>
+  <md:content-url>http://legacy.cnx.org/content/m44397/latest/</md:content-url>
+  <md:content-id>m44397</md:content-id>
+  <md:title>Synthesis of Biological Macromolecules</md:title>
+  <md:version>1.12</md:version>
+  <md:created>2012/08/22 11:20:21 +0000</md:created>
+  <md:revised>2014/10/29 16:26:56.773 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>biological macromolecule</md:keyword>
+    <md:keyword>biological macromolecules</md:keyword>
+    <md:keyword>biological molecules</md:keyword>
+    <md:keyword>condensation</md:keyword>
+    <md:keyword>condensation reaction</md:keyword>
+    <md:keyword>dehydration</md:keyword>
+    <md:keyword>dehydration reaction</md:keyword>
+    <md:keyword>dehydration synthesis</md:keyword>
+    <md:keyword>hydrolysis</md:keyword>
+    <md:keyword>hydrolysis reaction</md:keyword>
+    <md:keyword>macromolecule synthesis</md:keyword>
+    <md:keyword>monomer</md:keyword>
+    <md:keyword>polymer</md:keyword>
+    <md:keyword>synthesis of biological macromolecules</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Understand the synthesis of macromolecules</item>
+<item>Explain dehydration (or condensation) and hydrolysis reactions</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-id1724224">As you’ve learned, <term>biological macromolecules</term> are large molecules, necessary for life, that are built from smaller organic molecules. There are four major classes of biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids); each is an important cell component and performs a wide array of functions. Combined, these molecules make up the majority of a cell’s dry mass (recall that water makes up the majority of its complete mass). Biological macromolecules are organic, meaning they contain carbon. In addition, they may contain hydrogen, oxygen, nitrogen, and additional minor elements.</para>
+<section id="fs-id1266915">
+<title>Dehydration Synthesis</title>
+<para id="fs-id1384510">Most macromolecules are made from single subunits, or building blocks, called <term>monomers</term>. The monomers combine with each other using covalent bonds to form larger molecules known as <term>polymers</term>. In doing so, monomers release water molecules as byproducts. This type of reaction is known as <term>dehydration synthesis</term>, which means “to put together while losing water.”</para>
+<figure id="fig-ch03_01_01" class="span-all"><media id="fs-id1477384" alt="Shown is the reaction of two glucose monomers to form maltose. When maltose is formed, a water molecules is released.">
+<image mime-type="image/jpg" src="Figure_03_01_01.jpg" width="600"/>
+</media>
+<caption>In the dehydration synthesis reaction depicted above, two molecules of glucose are linked together to form the disaccharide maltose. In the process, a water molecule is formed.
+</caption></figure><para id="fs-id1730720">In a dehydration synthesis reaction (<link target-id="fig-ch03_01_01" document=""/>), the hydrogen of one monomer combines with the hydroxyl group of another monomer, releasing a molecule of water. At the same time, the monomers share electrons and form covalent bonds. As additional monomers join, this chain of repeating monomers forms a polymer. Different types of monomers can combine in many configurations, giving rise to a diverse group of macromolecules. Even one kind of monomer can combine in a variety of ways to form several different polymers: for example, glucose monomers are the constituents of starch, glycogen, and cellulose.</para>
+</section>
+<section id="fs-id1808810">
+<title>Hydrolysis</title>
+<para id="fs-id1431430">Polymers are broken down into monomers in a process known as hydrolysis, which means “to split water,” a reaction in which a water molecule is used during the breakdown (<link target-id="fig-ch03_01_02" document=""/>). During these reactions, the polymer is broken into two components: one part gains a hydrogen atom (H+) and the other gains a hydroxyl molecule (OH–) from a split water molecule.</para>
+<figure id="fig-ch03_01_02" class="span-all"><media id="fs-id1405882" alt="Shown is the breakdown of maltose to form two glucose monomers. Water is a reactant.">
+<image mime-type="image/jpg" src="Figure_03_01_02.jpg" width="600"/>
+</media>
+<caption>In the hydrolysis reaction shown here, the disaccharide maltose is broken down to form two glucose monomers with the addition of a water molecule. Note that this reaction is the reverse of the synthesis reaction shown in <link target-id="fig-ch03_01_01" document=""/>.</caption></figure><para id="fs-id2016502">Dehydration and <term>hydrolysis reactions</term> are catalyzed, or “sped up,” by specific enzymes; dehydration reactions involve the formation of new bonds, requiring energy, while hydrolysis reactions break bonds and release energy. These reactions are similar for most macromolecules, but each monomer and polymer reaction is specific for its class. For example, in our bodies, food is hydrolyzed, or broken down, into smaller molecules by catalytic enzymes in the digestive system. This allows for easy absorption of nutrients by cells in the intestine. Each macromolecule is broken down by a specific enzyme. For instance, carbohydrates are broken down by amylase, sucrase, lactase, or maltase. Proteins are broken down by the enzymes pepsin and peptidase, and by hydrochloric acid. Lipids are broken down by lipases. Breakdown of these macromolecules provides energy for cellular activities.</para>
+<note id="fs-id1425951" class="interactive"><label/><title>Link to Learning</title><media id="fs-id1712253" alt="QR Code representing a URL">
+<image mime-type="image/png" src="hydrolysis.png" width="130"/>
+</media>
+<para id="fs-id1443321">Visit <link window="new" url="http://openstaxcollege.org/l/hydrolysis">this site</link> to see visual representations of dehydration synthesis and hydrolysis.</para>
+</note></section>
+<section id="fs-id891930" class="summary">
+<title>Section Summary</title><para id="fs-id2334482">Proteins, carbohydrates, nucleic acids, and lipids are the four major classes of biological macromolecules—large molecules necessary for life that are built from smaller organic molecules. Macromolecules are made up of single units known as monomers that are joined by covalent bonds to form larger polymers. The polymer is more than the sum of its parts: it acquires new characteristics, and leads to an osmotic pressure that is much lower than that formed by its ingredients; this is an important advantage in the maintenance of cellular osmotic conditions. A monomer joins with another monomer with the release of a water molecule, leading to the formation of a covalent bond. These types of reactions are known as dehydration or condensation reactions. When polymers are broken down into smaller units (monomers), a molecule of water is used for each bond broken by these reactions; such reactions are known as hydrolysis reactions. Dehydration and hydrolysis reactions are similar for all macromolecules, but each monomer and polymer reaction is specific to its class. Dehydration reactions typically require an investment of energy for new bond formation, while hydrolysis reactions typically release energy by breaking bonds.</para></section>
+<section id="fs-id1484046" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-id1313020">
+<problem id="fs-id2590162"><para id="fs-id886306">Dehydration synthesis leads to formation of</para>
+<list id="fs-id1238542" list-type="enumerated" number-style="lower-alpha">
+<item>monomers</item>
+<item>polymers</item>
+<item>water and polymers</item>
+<item>none of the above</item>
+</list>
+</problem>
+<solution id="fs-id2195778">
+<label/>
+<para id="fs-id1352597">C</para></solution>
+</exercise>
+<exercise id="fs-id1342364">
+<problem id="fs-id1958165"><para id="fs-id2229443">During the breakdown of polymers, which of the following reactions takes place?</para>
+<list id="fs-id2571309" list-type="enumerated" number-style="lower-alpha">
+<item>hydrolysis</item>
+<item>dehydration</item>
+<item>condensation</item>
+<item>covalent bond</item>
+</list>
+</problem>
+<solution id="fs-id1398346">
+<label/>
+<para id="fs-id1570679">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id2024298" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-id1462931">
+<problem id="fs-id2300024"><para id="fs-id1635297">Why are biological macromolecules considered organic?</para></problem>
+<solution id="fs-id1384512"><label/>
+<para id="fs-id2008744">Biological macromolecules are organic because they contain carbon.</para></solution>
+</exercise>
+<exercise id="fs-id2590218">
+<problem id="fs-id1270040"><para id="fs-id1462641">What role do electrons play in dehydration synthesis and hydrolysis?</para></problem>
+<solution id="fs-id1770003"><label/>
+<para id="fs-id1799174">In a dehydration synthesis reaction, the hydrogen of one monomer combines with the hydroxyl group of another monomer, releasing a molecule of water. This creates an opening in the outer shells of atoms in the monomers, which can share electrons and form covalent bonds.</para></solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-id1415749"><term>biological macromolecule</term> <meaning id="fs-id1294957">large molecule necessary for life that is built from smaller organic molecules</meaning></definition>
+<definition id="fs-id1447611"><term>dehydration synthesis</term> <meaning id="fs-id1957606">(also, condensation) reaction that links monomer molecules together, releasing a molecule of water for each bond formed</meaning></definition>
+<definition id="fs-id1708547"><term>hydrolysis</term> <meaning id="fs-id1836399">reaction causes breakdown of larger molecules into smaller molecules with the utilization of water</meaning></definition>
+<definition id="fs-id1797970"><term>monomer</term> <meaning id="fs-id1442842">smallest unit of larger molecules called polymers</meaning></definition>
+<definition id="fs-id2079181"><term>polymer</term> <meaning id="fs-id1720997">chain of monomer residues that is linked by covalent bonds; polymerization is the process of polymer formation from monomers by condensation</meaning></definition>
+</glossary>
+
+</document>

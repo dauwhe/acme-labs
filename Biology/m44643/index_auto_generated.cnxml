@@ -1,0 +1,155 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44643/latest/</md:content-url>
+  <md:content-id>m44643</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.2</md:version>
+  <md:created>2012/08/23 14:34:25 -0500</md:created>
+  <md:revised>2013/02/20 09:19:02.753 US/Central</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>adaptation to land</md:keyword>
+    <md:keyword>angiosperm</md:keyword>
+    <md:keyword>angiosperm diversity</md:keyword>
+    <md:keyword>angiosperm evolution</md:keyword>
+    <md:keyword>angiosperm lifecycle</md:keyword>
+    <md:keyword>anther</md:keyword>
+    <md:keyword>anthophyta</md:keyword>
+    <md:keyword>barcoding</md:keyword>
+    <md:keyword>basal angiosperm</md:keyword>
+    <md:keyword>biodiversity</md:keyword>
+    <md:keyword>calyx</md:keyword>
+    <md:keyword>carboniferous period</md:keyword>
+    <md:keyword>carpel</md:keyword>
+    <md:keyword>cone</md:keyword>
+    <md:keyword>conifer lifecycle</md:keyword>
+    <md:keyword>corolla</md:keyword>
+    <md:keyword>cotyledon</md:keyword>
+    <md:keyword>crop</md:keyword>
+    <md:keyword>cycad</md:keyword>
+    <md:keyword>deforestation</md:keyword>
+    <md:keyword>dioecious</md:keyword>
+    <md:keyword>double fertilization</md:keyword>
+    <md:keyword>ethnobotanist</md:keyword>
+    <md:keyword>eudicot</md:keyword>
+    <md:keyword>filament</md:keyword>
+    <md:keyword>flower</md:keyword>
+    <md:keyword>flower evolution</md:keyword>
+    <md:keyword>fruit</md:keyword>
+    <md:keyword>fruit evolution</md:keyword>
+    <md:keyword>gingko biloba</md:keyword>
+    <md:keyword>gingkophyte</md:keyword>
+    <md:keyword>gnetophyte</md:keyword>
+    <md:keyword>gymnosperm</md:keyword>
+    <md:keyword>gymnosperm diversity</md:keyword>
+    <md:keyword>gymnosperm evolution</md:keyword>
+    <md:keyword>gymnosperm seed</md:keyword>
+    <md:keyword>gynoecium</md:keyword>
+    <md:keyword>heirloom plant</md:keyword>
+    <md:keyword>heirloom seed</md:keyword>
+    <md:keyword>herb</md:keyword>
+    <md:keyword>herbaceous plant</md:keyword>
+    <md:keyword>herbivory</md:keyword>
+    <md:keyword>heterosporous</md:keyword>
+    <md:keyword>heterosporous seed plant</md:keyword>
+    <md:keyword>homosporous</md:keyword>
+    <md:keyword>industrial plant use</md:keyword>
+    <md:keyword>integument</md:keyword>
+    <md:keyword>leaf vein</md:keyword>
+    <md:keyword>megaspore</md:keyword>
+    <md:keyword>megasporocyte</md:keyword>
+    <md:keyword>microspore</md:keyword>
+    <md:keyword>microsporocyte</md:keyword>
+    <md:keyword>monocot</md:keyword>
+    <md:keyword>monoecious</md:keyword>
+    <md:keyword>monovary</md:keyword>
+    <md:keyword>nectar</md:keyword>
+    <md:keyword>ovule</md:keyword>
+    <md:keyword>paleozoic period</md:keyword>
+    <md:keyword>petal</md:keyword>
+    <md:keyword>pistil</md:keyword>
+    <md:keyword>plant adaptation</md:keyword>
+    <md:keyword>plant animal interaction</md:keyword>
+    <md:keyword>plant biodiversity</md:keyword>
+    <md:keyword>plant phylogeny</md:keyword>
+    <md:keyword>pollen</md:keyword>
+    <md:keyword>pollen evolution</md:keyword>
+    <md:keyword>pollen grain</md:keyword>
+    <md:keyword>pollen tube</md:keyword>
+    <md:keyword>pollination</md:keyword>
+    <md:keyword>progymnosperm</md:keyword>
+    <md:keyword>root</md:keyword>
+    <md:keyword>seed</md:keyword>
+    <md:keyword>seed evolution</md:keyword>
+    <md:keyword>seed plant</md:keyword>
+    <md:keyword>seed plant evolution</md:keyword>
+    <md:keyword>seed plant reproduction</md:keyword>
+    <md:keyword>sepal</md:keyword>
+    <md:keyword>spermatophyte</md:keyword>
+    <md:keyword>spice</md:keyword>
+    <md:keyword>stamen</md:keyword>
+    <md:keyword>stigma</md:keyword>
+    <md:keyword>strobilus</md:keyword>
+    <md:keyword>style</md:keyword>
+    <md:keyword>terrestrial ecosystem</md:keyword>
+    <md:keyword>vascular tissue</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<?cnx.eoc class="summary" title="Sections Summary"?>
+<?cnx.eoc class="art-exercise" title="Art Connections"?>
+<?cnx.eoc class="multiple-choice" title="Multiple Choice"?>
+<?cnx.eoc class="free-response" title="Free Response"?>
+    
+<figure id="fig-ch26_00_01" class="splash">
+<media id="fs-idp67241568" alt="Photo A shows a palm tree on a beach. Photo B shows a field of wheat. Photo C shows white cotton balls on a cotton plant. Photo D shows a red poppy flower.">
+<image mime-type="image/jpg" src="Figure_26_00_01abcd.jpg" width="600"/>
+</media>
+<caption>Seed plants dominate the landscape and play an integral role in human societies. (a) Palm trees grow along the shoreline; (b) wheat is a crop grown in most of the world; (c) the flower of the cotton plant produces fibers that are woven into fabric; (d) the potent alkaloids of the beautiful opium poppy have influenced human life both as a medicinal remedy and as a dangerously addictive drug. (credit a: modification of work by Ryan Kozie; credit b: modification of work by Stephen Ausmus; credit c: modification of work by David Nance; credit d: modification of work by Jolly Janner)</caption>
+</figure>
+<para id="fs-idm151618480">The lush palms on tropical shorelines do not depend on water for the dispersal of their pollen, fertilization, or the survival of the zygote&#8212;unlike mosses, liverworts, and ferns of the terrain. Seed plants, such as palms, have broken free from the need to rely on water for their reproductive needs. They play an integral role in all aspects of life on the planet, shaping the physical terrain, influencing the climate, and maintaining life as we know it. For millennia, human societies have depended on seed plants for nutrition and medicinal compounds: and more recently, for industrial by-products, such as timber and paper, dyes, and textiles. Palms provide materials including rattans, oils, and dates. Wheat is grown to feed both human and animal populations. The fruit of the cotton boll flower is harvested as a boll, with its fibers transformed into clothing or pulp for paper. The showy opium poppy is valued both as an ornamental flower and as a source of potent opiate compounds.</para>
+   </content>
+</document>

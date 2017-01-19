@@ -1,0 +1,167 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44661/latest/</md:content-url>
+  <md:content-id>m44661</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.3</md:version>
+  <md:created>2012/08/23 14:41:27 -0500</md:created>
+  <md:revised>2013/06/20 16:15:00.899 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>ambulacral system</md:keyword>
+    <md:keyword>annelid</md:keyword>
+    <md:keyword>Annelida</md:keyword>
+    <md:keyword>annelid anatomy</md:keyword>
+    <md:keyword>annelid morphology</md:keyword>
+    <md:keyword>Anthozoa</md:keyword>
+    <md:keyword>archenteron</md:keyword>
+    <md:keyword>arthropod</md:keyword>
+    <md:keyword>Arthropoda</md:keyword>
+    <md:keyword>arthropod morphology</md:keyword>
+    <md:keyword>biramous appendage</md:keyword>
+    <md:keyword>captacula</md:keyword>
+    <md:keyword>C. elegans</md:keyword>
+    <md:keyword>cephalothorax</md:keyword>
+    <md:keyword>chaetae</md:keyword>
+    <md:keyword>Chelicerata</md:keyword>
+    <md:keyword>clitellum</md:keyword>
+    <md:keyword>Cnidaria</md:keyword>
+    <md:keyword>cnidarian</md:keyword>
+    <md:keyword>cnidocyte</md:keyword>
+    <md:keyword>coelenteron</md:keyword>
+    <md:keyword>coelom</md:keyword>
+    <md:keyword>coelomate</md:keyword>
+    <md:keyword>conspiral</md:keyword>
+    <md:keyword>Crustacea</md:keyword>
+    <md:keyword>ctenidia</md:keyword>
+    <md:keyword>Cubozoa</md:keyword>
+    <md:keyword>cypris</md:keyword>
+    <md:keyword>echinoderm</md:keyword>
+    <md:keyword>echinoderm anatomy</md:keyword>
+    <md:keyword>Echinodermata</md:keyword>
+    <md:keyword>echinoderm excretory system</md:keyword>
+    <md:keyword>echinoderm morphology</md:keyword>
+    <md:keyword>echinoderm nervous system</md:keyword>
+    <md:keyword>echinoderm reproduction</md:keyword>
+    <md:keyword>enterocoelous coelom</md:keyword>
+    <md:keyword>eucoelomate</md:keyword>
+    <md:keyword>gemmule</md:keyword>
+    <md:keyword>hemocoel</md:keyword>
+    <md:keyword>hermaphrodite</md:keyword>
+    <md:keyword>Hexapoda</md:keyword>
+    <md:keyword>Hydrozoa</md:keyword>
+    <md:keyword>Invertebrata</md:keyword>
+    <md:keyword>invertebrate</md:keyword>
+    <md:keyword>Lophotrochozoa</md:keyword>
+    <md:keyword>madreporite</md:keyword>
+    <md:keyword>mantle</md:keyword>
+    <md:keyword>medusa</md:keyword>
+    <md:keyword>mesoglea</md:keyword>
+    <md:keyword>mesohyl</md:keyword>
+    <md:keyword>metamerism</md:keyword>
+    <md:keyword>Mollusca</md:keyword>
+    <md:keyword>Myriapoda</md:keyword>
+    <md:keyword>nacre</md:keyword>
+    <md:keyword>nauplius</md:keyword>
+    <md:keyword>nematocyst</md:keyword>
+    <md:keyword>Nematoda</md:keyword>
+    <md:keyword>nematode</md:keyword>
+    <md:keyword>nematode excretory system</md:keyword>
+    <md:keyword>nematode morphology</md:keyword>
+    <md:keyword>nematode nervous system</md:keyword>
+    <md:keyword>nematode reproduction</md:keyword>
+    <md:keyword>Nemertea</md:keyword>
+    <md:keyword>Nemertea digestive system</md:keyword>
+    <md:keyword>Nemertea morphology</md:keyword>
+    <md:keyword>Nemertea nervous system</md:keyword>
+    <md:keyword>Nemertea reproduction</md:keyword>
+    <md:keyword>osculum</md:keyword>
+    <md:keyword>ostia</md:keyword>
+    <md:keyword>oviger</md:keyword>
+    <md:keyword>pedipalp</md:keyword>
+    <md:keyword>phylum Annelida</md:keyword>
+    <md:keyword>phylum Arthropoda</md:keyword>
+    <md:keyword>phylum Cnidaria</md:keyword>
+    <md:keyword>phylum Echinodermata</md:keyword>
+    <md:keyword>phylum Mollusca</md:keyword>
+    <md:keyword>phylum Nematoda</md:keyword>
+    <md:keyword>phylum Nemertea</md:keyword>
+    <md:keyword>phylum Porifera</md:keyword>
+    <md:keyword>pilidium</md:keyword>
+    <md:keyword>planospiral</md:keyword>
+    <md:keyword>planuliform</md:keyword>
+    <md:keyword>polyp</md:keyword>
+    <md:keyword>Porifera</md:keyword>
+    <md:keyword>pseudocoelomate</md:keyword>
+    <md:keyword>radula</md:keyword>
+    <md:keyword>rhynchocoel</md:keyword>
+    <md:keyword>schizocoelous coelom</md:keyword>
+    <md:keyword>sclerocyte</md:keyword>
+    <md:keyword>Scyphozoa</md:keyword>
+    <md:keyword>sponge</md:keyword>
+    <md:keyword>sponge locomotion</md:keyword>
+    <md:keyword>sponge metabolism</md:keyword>
+    <md:keyword>sponge morphology</md:keyword>
+    <md:keyword>sponge reproduction</md:keyword>
+    <md:keyword>spongocoel</md:keyword>
+    <md:keyword>superphylum Lophotrochozoa</md:keyword>
+    <md:keyword>trocophore</md:keyword>
+    <md:keyword>uniramous appendage</md:keyword>
+    <md:keyword>veliger</md:keyword>
+    <md:keyword>zoea</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+    <?cnx.eoc class="summary" title="Sections Summary"?>
+<?cnx.eoc class="art-exercise" title="Art Connections"?>
+<?cnx.eoc class="multiple-choice" title="Multiple Choice"?>
+<?cnx.eoc class="free-response" title="Free Response"?>
+
+<figure id="fig-ch28_00_01" class="splash"><media id="fs-idp170113376" alt="The photo shows a purple and orange starfish on a sandy flat beach.">
+<image mime-type="image/jpg" src="Figure_28_00_01.jpg" width="600"/>
+</media>
+<caption>Nearly 97 percent of animal species are invertebrates, including this sea star (<emphasis effect="italics">Astropecten articulates</emphasis>) common to the eastern and southern coasts of the United States (credit: modification of work by Mark Walz)</caption></figure><para id="fs-idp27076880">A brief look at any magazine pertaining to our natural world, such as <emphasis effect="italics">National Geographic</emphasis>, would show a rich variety of vertebrates, especially mammals and birds. To most people, these are the animals that attract our attention. Concentrating on vertebrates, however, gives us a rather biased and limited view of biodiversity, because it ignores nearly 97 percent of the animal kingdom, namely the invertebrates. Invertebrate animals are those without a cranium and defined vertebral column or spine. In addition to lacking a spine, most invertebrates also lack an endoskeleton. A large number of invertebrates are aquatic animals, and scientific research suggests that many of the world&#8217;s species are aquatic invertebrates that have not yet been documented.</para></content>
+</document>

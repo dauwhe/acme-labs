@@ -1,0 +1,343 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>The Role of Seed Plants</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44652/latest/</md:content-url>
+  <md:content-id>m44652</md:content-id>
+  <md:title>The Role of Seed Plants</md:title>
+  <md:version>1.4</md:version>
+  <md:created>2012/08/23 14:37:18 -0500</md:created>
+  <md:revised>2013/04/10 10:59:47.298 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>barcoding</md:keyword>
+    <md:keyword>biodiversity</md:keyword>
+    <md:keyword>crop</md:keyword>
+    <md:keyword>deforestation</md:keyword>
+    <md:keyword>ethnobotanist</md:keyword>
+    <md:keyword>heirloom plant</md:keyword>
+    <md:keyword>heirloom seed</md:keyword>
+    <md:keyword>herb</md:keyword>
+    <md:keyword>herbivory</md:keyword>
+    <md:keyword>industrial plant use</md:keyword>
+    <md:keyword>nectar</md:keyword>
+    <md:keyword>plant animal interaction</md:keyword>
+    <md:keyword>plant biodiversity</md:keyword>
+    <md:keyword>pollination</md:keyword>
+    <md:keyword>seed plant</md:keyword>
+    <md:keyword>spice</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain how angiosperm diversity is due, in part, to multiple interactions with animals</item>
+<item>Describe ways in which pollination occurs</item>
+<item>Discuss the roles that plants play in ecosystems and how deforestation threatens plant biodiversity</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idp38421488">Without seed plants, life as we know it would not be possible. Plants play a key role in the maintenance of terrestrial ecosystems through stabilization of soils, cycling of carbon, and climate moderation. Large tropical forests release oxygen and act as carbon dioxide sinks. Seed plants provide shelter to many life forms, as well as food for herbivores, thereby indirectly feeding carnivores. Plant secondary metabolites are used for medicinal purposes and industrial production.</para>
+<section id="fs-idp4132128">
+<title>Animals and Plants: Herbivory</title>
+<para id="fs-idm179643600">Coevolution of flowering plants and insects is a hypothesis that has received much attention and support, especially because both angiosperms and insects diversified at about the same time in the middle Mesozoic. Many authors have attributed the diversity of plants and insects to pollination and <term>herbivory</term>, or consumption of plants by insects and other animals. This is believed to have been as much a driving force as pollination. Coevolution of herbivores and plant defenses is observed in nature. Unlike animals, most plants cannot outrun predators or use mimicry to hide from hungry animals. A sort of arms race exists between plants and herbivores. To &#8220;combat&#8221; herbivores, some plant seeds&#8212;such as acorn and unripened persimmon&#8212;are high in alkaloids and therefore unsavory to some animals. Other plants are protected by bark, although some animals developed specialized mouth pieces to tear and chew vegetal material. Spines and thorns (<link target-id="fig-ch26_04_01" document=""/>) deter most animals, except for mammals with thick fur, and some birds have specialized beaks to get past such defenses.</para>
+<figure id="fig-ch26_04_01"><media id="fs-idm74031712" alt=" Photo A shows a green cactus. It is covered in clusters of long, slender spines that are pale white and have visible sharp points. Photo B shows a green fuzzy stem with several short green thorns protruding from it.">
+<image mime-type="image/jpg" src="Figure_26_04_01.jpg" width="420"/>
+</media>
+
+<caption>(a) Spines and (b) thorns are examples of plant defenses. (credit a: modification of work by Jon Sullivan; credit b: modification of work by I. S&#225;&#269;ek, Sr.)</caption></figure><para id="fs-idm115284896">Herbivory has been used by seed plants for their own benefit in a display of mutualistic relationships. The dispersal of fruit by animals is the most striking example. The plant offers to the herbivore a nutritious source of food in return for spreading the plant&#8217;s genetic material to a wider area.</para>
+<para id="fs-idm136309328">An extreme example of collaboration between an animal and a plant is the case of acacia trees and ants. The trees support the insects with shelter and food. In return, ants discourage herbivores, both invertebrates and vertebrates, by stinging and attacking leaf-eating insects.</para>
+</section>
+<section id="fs-idm67167568">
+<title>Animals and Plants: Pollination</title>
+<para id="fs-idm48706448">Grasses are a successful group of flowering plants that are wind pollinated. They produce large amounts of powdery pollen carried over large distances by the wind. The flowers are small and wisp-like. Large trees such as oaks, maples, and birches are also wind pollinated.</para>
+<note id="fs-idm13022000" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idm145499088" alt="QR Code representing a URL">
+<image mime-type="image/png" src="pollinators2.png" width="120"/>
+</media>
+<para id="fs-idm120942240">Explore this <link window="new" url="http://openstaxcollege.org/l/pollinators2">website</link> for additional information on pollinators.</para></note><para id="fs-idm136484096">More than 80 percent of angiosperms depend on animals for <term>pollination</term>: the transfer of pollen from the anther to the stigma. Consequently, plants have developed many adaptations to attract pollinators. The specificity of specialized plant structures that target animals can be very surprising. It is possible, for example, to determine the type of pollinator favored by a plant just from the flower&#8217;s characteristics. Many bird or insect-pollinated flowers secrete <term>nectar</term>, which is a sugary liquid. They also produce both fertile pollen, for reproduction, and sterile pollen rich in nutrients for birds and insects. Butterflies and bees can detect ultraviolet light. Flowers that attract these pollinators usually display a pattern of low ultraviolet reflectance that helps them quickly locate the flower's center and collect nectar while being dusted with pollen (<link target-id="fig-ch26_04_02" document=""/>). Large, red flowers with little smell and a long funnel shape are preferred by hummingbirds, who have good color perception, a poor sense of smell, and need a strong perch. White flowers opened at night attract moths. Other animals&#8212;such as bats, lemurs, and lizards&#8212;can also act as pollinating agents. Any disruption to these interactions, such as the disappearance of bees as a consequence of colony collapse disorders, can lead to disaster for agricultural industries that depend heavily on pollinated crops.</para>
+<figure id="fig-ch26_04_02">
+<media id="fs-idm117402000" alt=" Photo shows a fat, yellow and black bumblebee drinking nectar from a purple and yellow flower.">
+<image mime-type="image/jpg" src="Figure_26_04_02.jpg" width="280"/>
+</media>
+<caption>As a bee collects nectar from a flower, it is dusted by pollen, which it then disperses to other flowers. (credit: John Severns)</caption></figure><note id="fs-idp62350128" class="scientific method"><label/><title>Scientific Method Connection</title>
+
+<para id="fs-idm43587376"><title>Testing Attraction of Flies by Rotting Flesh Smell</title>Question: Will flowers that offer cues to bees attract carrion flies if sprayed with compounds that smell like rotten flesh?</para>
+<para id="fs-idm37410560">Background: Visitation of flowers by pollinating flies is a function mostly of smell. Flies are attracted by rotting flesh and carrions. The putrid odor seems to be the major attractant. The polyamines putrescine and cadaverine, which are the products of protein breakdown after animal death, are the source of the pungent smell of decaying meat. Some plants strategically attract flies by synthesizing polyamines similar to those generated by decaying flesh and thereby attract carrion flies.</para>
+<para id="fs-idm42483632">Flies seek out dead animals because they normally lay their eggs on them and their maggots feed on the decaying flesh. Interestingly, time of death can be determined by a forensic entomologist based on the stages and type of maggots recovered from cadavers.</para>
+<para id="fs-idm30467136">Hypothesis: Because flies are drawn to other organisms based on smell and not sight, a flower that is normally attractive to bees because of its colors will attract flies if it is sprayed with polyamines similar to those generated by decaying flesh.</para>
+<para id="fs-idp52991568">Test the hypothesis:</para>
+<list id="eip-146" list-type="enumerated" number-style="arabic"><item>Select flowers usually pollinated by bees. White petunia may be good choice.</item>
+<item>Divide the flowers into two groups, and while wearing eye protection and gloves, spray one group with a solution of either putrescine or cadaverine. (Putrescine dihydrochloride is typically available in 98 percent concentration; this can be diluted to approximately 50 percent for this experiment.)</item>
+<item>Place the flowers in a location where flies are present, keeping the sprayed and unsprayed flowers separated.</item>
+<item>Observe the movement of the flies for one hour. Record the number of visits to the flowers using a table similar to <link target-id="tab-ch26_04_01" document=""/>. Given the rapid movement of flies, it may be beneficial to use a video camera to record the fly&#8211;flower interaction. Replay the video in slow motion to obtain an accurate record of the number of fly visits to the flowers.</item>
+<item>Repeat the experiment four more times with the same species of flower, but using different specimens.</item>
+<item>Repeat the entire experiment with a different type of flower that is normally pollinated by bees.</item>
+</list><table id="tab-ch26_04_01" summary="Table showing the results of number of visits by flies to sprayed and controlled/unsprayed flowers">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c3" align="left">Results of Number of Visits by Flies to Sprayed and Control/Unsprayed Flowers</entry>
+</row>
+<row>
+<entry>Trial #</entry>
+<entry align="center">Sprayed Flowers</entry>
+<entry align="center">Unsprayed Flowers</entry>
+</row>    
+</thead>
+<tbody>
+<row>
+<entry>1</entry>
+<entry/><entry/>
+</row>
+<row>
+<entry>2</entry>
+<entry/><entry/>
+</row>
+<row>
+<entry>3</entry>
+<entry/><entry/>
+</row>
+<row>
+<entry>4</entry>
+<entry/><entry/>
+</row>
+<row>
+<entry>5</entry>
+<entry/><entry/>
+</row>
+</tbody>
+
+</tgroup>
+</table><para id="fs-idp112053024">Analyze your data: Review the data you have recorded. Average the number of visits that flies made to sprayed flowers over the course of the five trials (on the first flower type) and compare and contrast them to the average number of visits that flies made to the unsprayed/control flowers. Can you draw any conclusions regarding the attraction of the flies to the sprayed flowers?</para>
+<para id="fs-idm66611632">For the second flower type used, average the number of visits that flies made to sprayed flowers over the course of the five trials and compare and contrast them to the average number of visits that flies made to the unsprayed/control flowers. Can you draw any conclusions regarding the attraction of the flies to the sprayed flowers?</para>
+<para id="fs-idp31527248">Compare and contrast the average number of visits that flies made to the two flower types. Can you draw any conclusions about whether the appearance of the flower had any impact on the attraction of flies? Did smell override any appearance differences, or were the flies attracted to one flower type more than another?</para>
+<para id="fs-idm110700704">Form a conclusion: Do the results support the hypothesis? If not, how can this be explained?</para>
+</note></section>
+<section id="fs-idp48087392"><title>The Importance of Seed Plants in Human Life</title><para id="fs-idm54258784">Seed plants are the foundation of human diets across the world (<link target-id="fig-ch26_04_03" document=""/>). Many societies eat almost exclusively vegetarian fare and depend solely on seed plants for their nutritional needs. A few <term>crops</term> (rice, wheat, and potatoes) dominate the agricultural landscape. Many crops were developed during the agricultural revolution, when human societies made the transition from nomadic hunter&#8211;gatherers to horticulture and agriculture. Cereals, rich in carbohydrates, provide the staple of many human diets. Beans and nuts supply proteins. Fats are derived from crushed seeds, as is the case for peanut and rapeseed (canola) oils, or fruits such as olives. Animal husbandry also consumes large amounts of crops.</para>
+<para id="fs-idm62134672">Staple crops are not the only food derived from seed plants. Fruits and vegetables provide nutrients, vitamins, and fiber. Sugar, to sweeten dishes, is produced from the monocot sugarcane and the eudicot sugar beet. Drinks are made from infusions of tea leaves, chamomile flowers, crushed coffee beans, or powdered cocoa beans. Spices come from many different plant parts: saffron and cloves are stamens and buds, black pepper and vanilla are seeds, the bark of a bush in the <emphasis effect="italics">Laurales</emphasis> family supplies cinnamon, and the herbs that flavor many dishes come from dried leaves and fruit, such as the pungent red chili pepper. The volatile oils of flowers and bark provide the scent of perfumes. Additionally, no discussion of seed plant contribution to human diet would be complete without the mention of alcohol. Fermentation of plant-derived sugars and starches is used to produce alcoholic beverages in all societies. In some cases, the beverages are derived from the fermentation of sugars from fruit, as with wines and, in other cases, from the fermentation of carbohydrates derived from seeds, as with beers.</para>
+<para id="fs-idp14300592">Seed plants have many other uses, including providing wood as a source of timber for construction, fuel, and material to build furniture. Most paper is derived from the pulp of coniferous trees. Fibers of seed plants such as cotton, flax, and hemp are woven into cloth. Textile dyes, such as indigo, were mostly of plant origin until the advent of synthetic chemical dyes.</para>
+<para id="fs-idp4597168">Lastly, it is more difficult to quantify the benefits of ornamental seed plants. These grace private and public spaces, adding beauty and serenity to human lives and inspiring painters and poets alike.</para>
+<figure id="fig-ch26_04_03"><media id="fs-idm65312352" alt=" Photo A shows small, almond-shaped cacao seeds and the oval cacao fruit. Illustration B shows the teardrop-shaped leaves and small pink flowers of a cinchona tree. Photo C shows a violin. Photo D shows a bouquet of purple and yellow tulips.">
+<image mime-type="image/jpg" src="Figure_26_04_03abcd.jpg" width="380"/>
+</media>
+
+<caption>Humans rely on plants for a variety of reasons. (a) Cacao beans were introduced in Europe from the New World, where they were used by Mesoamerican civilizations. Combined with sugar, another plant product, chocolate is a popular food. (b) Flowers like the tulip are cultivated for their beauty. (c) Quinine, extracted from cinchona trees, is used to treat malaria, to reduce fever, and to alleviate pain. (d) This violin is made of wood. (credit a: modification of work by "Everjean"/Flickr; credit b: modification of work by Rosendahl; credit c: modification of work by Franz Eugen K&#246;hler)</caption></figure><para id="fs-idm45828048">The medicinal properties of plants have been known to human societies since ancient times. There are references to the use of plants&#8217; curative properties in Egyptian, Babylonian, and Chinese writings from 5,000 years ago. Many modern synthetic therapeutic drugs are derived or synthesized de novo from plant secondary metabolites. It is important to note that the same plant extract can be a therapeutic remedy at low concentrations, become an addictive drug at higher doses, and can potentially kill at high concentrations. <link target-id="tab-ch26_04_02" document=""/> presents a few drugs, their plants of origin, and their medicinal applications.</para><table id="tab-ch26_04_02" class=" " summary="">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c3" align="left">Plant Origin  of Medicinal Compounds and Medical Applications</entry>
+</row>
+<row>
+<entry>Plant</entry>
+<entry>Compound</entry>
+<entry>Application</entry>
+</row> 
+</thead>
+<tbody>
+<row>
+<entry>Deadly nightshade
+(<emphasis effect="italics">Atropa belladonna</emphasis> ) </entry>
+<entry>Atropine</entry>
+<entry>Dilate eye pupils for eye exams</entry>
+</row>
+<row>
+<entry>Foxglove (<emphasis effect="italics">Digitalis purpurea</emphasis>)</entry>
+<entry>Digitalis</entry>
+<entry>Heart disease, stimulates heart beat</entry>
+</row>
+<row>
+<entry>Yam (<emphasis effect="italics">Dioscorea </emphasis>spp.)</entry>
+<entry>Steroids </entry>
+<entry>Steroid hormones: contraceptive pill and cortisone</entry>
+</row>
+<row>
+<entry>Ephedra (<emphasis effect="italics">Ephedra</emphasis> spp.)</entry>
+<entry>Ephedrine</entry>
+<entry>Decongestant and bronchiole dilator</entry>
+</row>
+<row>
+<entry>Pacific yew (<emphasis effect="italics">Taxus brevifolia</emphasis>)</entry>
+<entry>Taxol</entry>
+<entry>Cancer chemotherapy; inhibits mitosis</entry>
+</row>
+<row>
+<entry>Opium poppy (<emphasis effect="italics">Papaver somniferum</emphasis>)</entry>
+<entry>Opioids</entry>
+<entry>Analgesic (reduces pain without loss of consciousness) and narcotic (reduces pain with drowsiness and loss of consciousness) in higher doses</entry>
+</row>
+<row>
+<entry>Quinine tree (<emphasis effect="italics">Cinchona</emphasis> spp.)</entry>
+<entry>Quinine</entry>
+<entry>Antipyretic (lowers body temperature) and antimalarial</entry>
+</row>
+<row>
+<entry>Willow (<emphasis effect="italics">Salix</emphasis> spp.)</entry>
+<entry>Salicylic acid (aspirin)</entry>
+<entry>Analgesic and antipyretic</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<note id="fs-idm29563040" class="career"><label/><title>Career Connection</title>
+
+<para id="fs-idm117585216"><title>Ethnobotanist</title>The relatively new field of ethnobotany studies the interaction between a particular culture and the plants native to the region. Seed plants have a large influence on day-to-day human life. Not only are plants the major source of food and medicine, they also influence many other aspects of society, from clothing to industry. The medicinal properties of plants were recognized early on in human cultures. From the mid-1900s, synthetic chemicals began to supplant plant-based remedies.</para>
+<para id="fs-idp45030048">Pharmacognosy is the branch of pharmacology that focuses on medicines derived from natural sources. With massive globalization and industrialization, there is a concern that much human knowledge of plants and their medicinal purposes will disappear with the cultures that fostered them. This is where ethnobotanists come in. To learn about and understand the use of plants in a particular culture, an ethnobotanist must bring in knowledge of plant life and an understanding and appreciation of diverse cultures and traditions. The Amazon forest is home to an incredible diversity of vegetation and is considered an untapped resource of medicinal plants; yet, both the ecosystem and its indigenous cultures are threatened with extinction.</para>
+<para id="fs-idm194925568">To become an ethnobotanist, a person must acquire a broad knowledge of plant biology, ecology and sociology. Not only are the plant specimens studied and collected, but also the stories, recipes, and traditions that are linked to them. For ethnobotanists, plants are not viewed solely as biological organisms to be studied in a laboratory, but as an integral part of human culture. The convergence of molecular biology, anthropology, and ecology make the field of ethnobotany a truly multidisciplinary science.</para>
+</note></section><section id="fs-idp38433200">
+<title>Biodiversity of Plants</title>
+<para id="fs-idm72209264">Biodiversity ensures a resource for new food crops and medicines. Plant life balances ecosystems, protects watersheds, mitigates erosion, moderates climate and provides shelter for many animal species. Threats to plant diversity, however, come from many angles. The explosion of the human population, especially in tropical countries where birth rates are highest and economic development is in full swing, is leading to human encroachment into forested areas. To feed the larger population, humans need to obtain arable land, so there is massive clearing of trees. The need for more energy to power larger cities and economic growth therein leads to the construction of dams, the consequent flooding of ecosystems, and increased emissions of pollutants. Other threats to tropical forests come from poachers, who log trees for their precious wood. Ebony and Brazilian rosewood, both on the endangered list, are examples of tree species driven almost to extinction by indiscriminate logging.</para>
+<para id="fs-idm180716512">The number of plant species becoming extinct is increasing at an alarming rate. Because ecosystems are in a delicate balance, and seed plants maintain close symbiotic relationships with animals&#8212;whether predators or pollinators&#8212;the disappearance of a single plant can lead to the extinction of connected animal species. A real and pressing issue is that many plant species have not yet been catalogued, and so their place in the ecosystem is unknown. These unknown species are threatened by logging, habitat destruction, and loss of pollinators. They may become extinct before we have the chance to begin to understand the possible impacts from their disappearance. Efforts to preserve biodiversity take several lines of action, from preserving heirloom seeds to barcoding species. <term>Heirloom seeds</term> come from plants that were traditionally grown in human populations, as opposed to the seeds used for large-scale agricultural production. <term>Barcoding</term> is a technique in which one or more short gene sequences, taken from a well-characterized portion of the genome, are used to identify a species through DNA analysis.</para>
+</section>
+<section id="fs-idm58980336" class="summary">
+<title>Section Summary</title><para id="fs-idm74127200">Angiosperm diversity is due in part to multiple interactions with animals. Herbivory has favored the development of defense mechanisms in plants, and avoidance of those defense mechanism in animals. Pollination (the transfer of pollen to a carpel) is mainly carried out by wind and animals, and angiosperms have evolved numerous adaptations to capture the wind or attract specific classes of animals.</para>
+<para id="fs-idm108245872">Plants play a key role in ecosystems. They are a source of food and medicinal compounds, and provide raw materials for many industries. Rapid deforestation and industrialization, however, threaten plant biodiversity. In turn, this threatens the ecosystem.</para>
+</section>
+<section id="fs-idm182207392" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm10555264">
+<problem id="fs-idm6071968">
+<para id="fs-idm4011104">Which of the following plant structures is not a defense against herbivory?</para>
+<list id="fs-idm77233392" list-type="enumerated" number-style="lower-alpha">
+<item>thorns</item>
+<item>spines</item>
+<item>nectar</item>
+<item>alkaloids</item>
+</list>
+</problem>
+<solution id="fs-idm89825232">
+<label/>
+<para id="fs-idm74494176">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm90052592">
+<problem id="fs-idm50498848">
+<para id="fs-idm75391104">White and sweet-smelling flowers with abundant nectar are probably pollinated by</para>
+<list id="fs-idm83003568" list-type="enumerated" number-style="lower-alpha">
+<item>bees and butterflies</item>
+<item>flies</item>
+<item>birds</item>
+<item>wind</item>
+</list>
+</problem>
+<solution id="fs-idm34491696">
+<label/>
+<para id="fs-idm43784656">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm39473840">
+<problem id="fs-idp152158352">
+<para id="fs-idp118697792">Abundant and powdery pollen produced by small, indistinct flowers is probably transported by:</para>
+<list id="fs-idm87468336" list-type="enumerated" number-style="lower-alpha">
+<item>bees and butterflies</item>
+<item>flies</item>
+<item>birds</item>
+<item>wind</item>
+</list>
+</problem>
+<solution id="fs-idm45141088">
+<label/>
+<para id="fs-idm12245472">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm37266304">
+<problem id="fs-idm1584800">
+<para id="fs-idp86169776">Plants are a source of ________.</para>
+<list id="fs-idm73173600" list-type="enumerated" number-style="lower-alpha">
+<item>food</item>
+<item>fuel</item>
+<item>medicine</item>
+<item>all of the above</item>
+</list>
+</problem>
+<solution id="fs-idp2700144">
+<label/>
+<para id="fs-idm114559472">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm95075040" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm140854400">
+<problem id="fs-idm36828720">
+<para id="fs-idp2522112">Biosynthesis of nectar and nutrient-rich pollen is energetically very expensive for a plant. Yet, plants funnel large amounts of energy into animal pollination. What are the evolutionary advantages that offset the cost of attracting animal pollinators?</para>
+</problem>
+<solution id="fs-idp10179104">
+<label/>
+<para id="fs-idm17111792">Using animal pollinators promotes cross-pollination and increases genetic diversity. The odds that the pollen will reach another flower are greatly increased compared with the randomness of wind pollination.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm95190000">
+<problem id="fs-idm29708512">
+<para id="fs-idm65533888">What is biodiversity and why is it important to an ecosystem?</para>
+</problem>
+<solution id="fs-idm94616896">
+<label/>
+<para id="fs-idm45069840">Biodiversity is the variation in all forms of life. It can refer to variation within a species, within an ecosystem, or on an entire planet. It is important because it ensures a resource for new food crops and medicines. Plant life balances the ecosystems, protects watersheds, mitigates erosion, moderates climate, and provides shelter for many animal species.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm48647456">
+<term>barcoding</term> <meaning id="fs-idm74311840">molecular biology technique in which one or more short gene sequences taken from a well-characterized portion of the genome is used to identify a species</meaning>
+</definition>
+<definition id="fs-idm77302464">
+<term>crop</term> <meaning id="fs-idm58667024">cultivated plant</meaning>
+</definition>
+<definition id="fs-idp32227984">
+<term>heirloom seed</term> <meaning id="fs-idp38471648">seed from a plant that was grown historically, but has not been used in modern agriculture on a large scale</meaning>
+</definition>
+<definition id="fs-idm119401360">
+<term>herbivory</term> <meaning id="fs-idm94573744">consumption of plants by insects and other animals</meaning>
+</definition>
+<definition id="fs-idm76880736">
+<term>nectar</term> <meaning id="fs-idp12198304">liquid rich in sugars produced by flowers to attract animal pollinators</meaning>
+</definition>
+<definition id="fs-idm96095936">
+<term>pollination</term> <meaning id="fs-idm54261440">transfer of pollen from the anther to the stigma</meaning>
+</definition>
+</glossary>
+</document>

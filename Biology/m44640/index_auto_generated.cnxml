@@ -1,0 +1,372 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Seedless Vascular Plants</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44640/latest/</md:content-url>
+  <md:content-id>m44640</md:content-id>
+  <md:title>Seedless Vascular Plants</md:title>
+  <md:version>1.4</md:version>
+  <md:created>2012/08/23 14:32:57 -0500</md:created>
+  <md:revised>2013/04/10 10:52:33.697 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>club moss</md:keyword>
+    <md:keyword>fern</md:keyword>
+    <md:keyword>fern lifecycle</md:keyword>
+    <md:keyword>horsetail</md:keyword>
+    <md:keyword>land adaptation</md:keyword>
+    <md:keyword>landscape designer</md:keyword>
+    <md:keyword>leaves</md:keyword>
+    <md:keyword>lignin</md:keyword>
+    <md:keyword>lycophyta</md:keyword>
+    <md:keyword>megaphyll</md:keyword>
+    <md:keyword>microphyll</md:keyword>
+    <md:keyword>phloem</md:keyword>
+    <md:keyword>plants</md:keyword>
+    <md:keyword>root</md:keyword>
+    <md:keyword>seedless plants</md:keyword>
+    <md:keyword>seedless tracheophyte</md:keyword>
+    <md:keyword>seedless vascular plant</md:keyword>
+    <md:keyword>sporophyll</md:keyword>
+    <md:keyword>strobili</md:keyword>
+    <md:keyword>tracheophyte</md:keyword>
+    <md:keyword>vascular tissue</md:keyword>
+    <md:keyword>vein</md:keyword>
+    <md:keyword>whisk fern</md:keyword>
+    <md:keyword>xylem</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Identify the new traits that first appear in tracheophytes</item>
+<item>Discuss the importance of adaptations to life on land</item>
+<item>Describe the classes of seedless tracheophytes</item>
+<item>Describe the lifecycle of a fern</item>
+<item>Explain the role of seedless vascular plants in the ecosystem</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idm134441184">The vascular plants, or <term>tracheophytes</term>, are the dominant and most conspicuous group of land plants. More than 260,000 species of tracheophytes represent more than 90 percent of Earth&#8217;s vegetation. Several evolutionary innovations explain their success and their ability to spread to all habitats.</para>
+<para id="fs-idp15424432">Bryophytes may have been successful at the transition from an aquatic habitat to land, but they are still dependent on water for reproduction, and absorb moisture and nutrients through the gametophyte surface. The lack of roots for absorbing water and minerals from the soil, as well as a lack of reinforced conducting cells, limits bryophytes to small sizes. Although they may survive in reasonably dry conditions, they cannot reproduce and expand their habitat range in the absence of water. Vascular plants, on the other hand, can achieve enormous heights, thus competing successfully for light. Photosynthetic organs become leaves, and pipe-like cells or vascular tissues transport water, minerals, and fixed carbon throughout the organism.</para>
+<para id="fs-idm39006336">In seedless vascular plants, the diploid sporophyte is the dominant phase of the lifecycle. The gametophyte is now an inconspicuous, but still independent, organism. Throughout plant evolution, there is an evident reversal of roles in the dominant phase of the lifecycle. Seedless vascular plants still depend on water during fertilization, as the sperm must swim on a layer of moisture to reach the egg. This step in reproduction explains why ferns and their relatives are more abundant in damp environments.</para>
+<section id="fs-idm34320368">
+<title>Vascular Tissue: Xylem and Phloem</title>
+<para id="fs-idm74726304">The first fossils that show the presence of vascular tissue date to the Silurian period, about 430&#160;million years ago. The simplest arrangement of conductive cells shows a pattern of xylem at the center surrounded by phloem. <term>Xylem</term> is the tissue responsible for the storage and long-distance transport of water and nutrients, as well as the transfer of water-soluble growth factors from the organs of synthesis to the target organs. The tissue consists of conducting cells, known as tracheids, and supportive filler tissue, called parenchyma. Xylem conductive cells incorporate the compound <term>lignin</term> into their walls, and are thus described as lignified. Lignin itself is a complex polymer that is impermeable to water and confers mechanical strength to vascular tissue. With their rigid cell walls, the xylem cells provide support to the plant and allow it to achieve impressive heights. Tall plants have a selective advantage by being able to reach unfiltered sunlight and disperse their spores or seeds further away, thus expanding their range. By growing higher than other plants, tall trees cast their shadow on shorter plants and limit competition for water and precious nutrients in the soil.</para>
+<para id="fs-idm32531376"><term>Phloem</term> is the second type of vascular tissue; it transports sugars, proteins, and other solutes throughout the plant. Phloem cells are divided into sieve elements (conducting cells) and cells that support the sieve elements. Together, xylem and phloem tissues form the vascular system of plants.</para>
+</section>
+<section id="fs-idp147092752">
+<title>Roots: Support for the Plant</title>
+<para id="fs-idm38070128">Roots are not well preserved in the fossil record. Nevertheless, it seems that roots appeared later in evolution than vascular tissue. The development of an extensive network of roots represented a significant new feature of vascular plants. Thin rhizoids attached bryophytes to the substrate, but these rather flimsy filaments did not provide a strong anchor for the plant; neither did they absorb substantial amounts of water and nutrients. In contrast, roots, with their prominent vascular tissue system, transfer water and minerals from the soil to the rest of the plant. The extensive network of roots that penetrates deep into the soil to reach sources of water also stabilizes trees by acting as a ballast or anchor. The majority of roots establish a symbiotic relationship with fungi, forming mycorrhizae, which benefit the plant by greatly increasing the surface area for absorption of water and soil minerals and nutrients.</para>
+</section>
+<section id="fs-idm176053184">
+<title>Leaves, Sporophylls, and Strobili</title>
+<para id="fs-idm52191792">A third innovation marks the seedless vascular plants. Accompanying the prominence of the sporophyte and the development of vascular tissue, the appearance of true leaves improved their photosynthetic efficiency. Leaves capture more sunlight with their increased surface area by employing more chloroplasts to trap light energy and convert it to chemical energy, which is then used to fix atmospheric carbon dioxide into carbohydrates. The carbohydrates are exported to the rest of the plant by the conductive cells of phloem tissue.</para>
+<para id="fs-idm60574880">The existence of two types of morphology suggests that leaves evolved independently in several groups of plants. The first type of leaf is the <term>microphyll</term>, or &#8220;little leaf,&#8221; which can be dated to 350&#160;million years ago in the late Silurian. A microphyll is small and has a simple vascular system. A single unbranched <term>vein</term>&#8212;a bundle of vascular tissue made of xylem and phloem&#8212;runs through the center of the leaf. Microphylls may have originated from the flattening of lateral branches, or from sporangia that lost their reproductive capabilities. Microphylls are present in the club mosses and probably preceded the development of <term>megaphylls</term>, or &#8220;big leaves&#8221;, which are larger leaves with a pattern of branching veins. Megaphylls most likely appeared independently several times during the course of evolution. Their complex networks of veins suggest that several branches may have combined into a flattened organ, with the gaps between the branches being filled with photosynthetic tissue.</para>
+<para id="fs-idm8944064">In addition to photosynthesis, leaves play another role in the life of the plants. Pine cones, mature fronds of ferns, and flowers are all <term>sporophylls</term>&#8212;leaves that were modified structurally to bear sporangia. <term>Strobili</term> are cone-like structures that contain sporangia. They are prominent in conifers and are commonly known as pine cones.</para>
+</section>
+<section id="fs-idm38085728">
+<title>Ferns and Other Seedless Vascular Plants</title>
+<para id="fs-idm138284976">By the late Devonian period, plants had evolved vascular tissue, well-defined leaves, and root systems. With these advantages, plants increased in height and size. During the Carboniferous period, swamp forests of club mosses and horsetails&#8212;some specimens reaching heights of more than 30 m (100 ft)&#8212;covered most of the land. These forests gave rise to the extensive coal deposits that gave the Carboniferous its name. In seedless vascular plants, the sporophyte became the dominant phase of the lifecycle.</para>
+<para id="fs-idp366528">Water is still required for fertilization of seedless vascular plants, and most favor a moist environment. Modern-day seedless tracheophytes include club mosses, horsetails, ferns, and whisk ferns.</para>
+<section id="fs-idm118118432">
+<title> Phylum Lycopodiophyta: Club Mosses</title>
+<para id="fs-idm29351232">The <term>club mosses</term>, or phylum <term>Lycopodiophyta</term>, are the earliest group of seedless vascular plants. They dominated the landscape of the Carboniferous, growing into tall trees and forming large swamp forests. Today&#8217;s club mosses are diminutive, evergreen plants consisting of a stem (which may be branched) and microphylls (<link target-id="fig-ch25_04_01" document=""/>). The phylum Lycopodiophyta consists of close to 1,200 species, including the quillworts (<emphasis effect="italics">Isoetales</emphasis>), the club mosses (<emphasis effect="italics">Lycopodiales</emphasis>), and spike mosses (<emphasis effect="italics">Selaginellales</emphasis>), none of which are true mosses or bryophytes.</para>
+<para id="fs-idm103324176">Lycophytes follow the pattern of alternation of generations seen in the bryophytes, except that the sporophyte is the major stage of the lifecycle. The gametophytes do not depend on the sporophyte for nutrients. Some gametophytes develop underground and form mycorrhizal associations with fungi. In club mosses, the sporophyte gives rise to sporophylls arranged in strobili, cone-like structures that give the class its name. Lycophytes can be homosporous or heterosporous.</para>
+<figure id="fig-ch25_04_01"><media id="fs-idm78969136" alt=" In the photo, seed-like strobili are arranged around the slender stalks of a club moss.">
+<image mime-type="image/jpg" src="Figure_25_04_01.jpg" width="300"/>
+</media>
+
+<caption>In the club mosses such as <emphasis effect="italics">Lycopodium clavatum</emphasis>, sporangia are arranged in clusters called strobili. (credit: Cory Zanker)</caption></figure></section>
+<section id="fs-idp14845616">
+<title>Phylum Monilophyta: Class Equisetopsida (Horsetails)</title><para id="fs-idm84883904">Horsetails, whisk ferns and ferns belong to the phylum Monilophyta, with <term>horsetails</term> placed in the Class Equisetopsida. The single genus <emphasis effect="italics">Equisetum</emphasis> is the survivor of a large group of plants, known as Arthrophyta, which produced large trees and entire swamp forests in the Carboniferous. The plants are usually found in damp environments and marshes (<link target-id="fig-ch25_04_02" document=""/>).</para>
+<figure id="fig-ch25_04_02"><media id="fs-idm110024672" alt=" In the photo, bushy horsetail plants grow in water.">
+<image mime-type="image/jpg" src="Figure_25_04_02.jpg" width="300"/>
+</media>
+<caption>Horsetails thrive in a marsh. (credit: Myriam Feldman)</caption></figure><para id="fs-idm136524704">The stem of a horsetail is characterized by the presence of joints or nodes, hence the name Arthrophyta (arthro- = "joint"; -phyta = "plant"). Leaves and branches come out as whorls from the evenly spaced joints. The needle-shaped leaves do not contribute greatly to photosynthesis, the majority of which takes place in the green stem (<link target-id="fig-ch25_04_03" document=""/>).</para><figure id="fig-ch25_04_03"><media id="fs-idm89062800" alt=" Photo shows a horsetail plant, which resembles a scrub brush, with a thick stem and whorls of thin leaves branching from the stem.">
+<image mime-type="image/jpg" src="Figure_25_04_03.jpg" width="250"/>
+</media>
+<caption>Thin leaves originating at the joints are noticeable on the horsetail plant. Horsetails were once used as scrubbing brushes and were nicknamed scouring brushes.  (credit: Myriam Feldman)</caption></figure><para id="fs-idm122967808">Silica collects in the epidermal cells, contributing to the stiffness of horsetail plants. Underground stems known as rhizomes anchor the plants to the ground. Modern-day horsetails are homosporous and produce bisexual gametophytes.</para>
+</section>
+<section id="fs-idm55210608">
+<title>Phylum Monilophyta: Class Psilotopsida (Whisk Ferns)</title><para id="fs-idm88821984">While most ferns form large leaves and branching roots, the <term>whisk ferns</term>, Class Psilotopsida, lack both roots and leaves, probably lost by reduction. Photosynthesis takes place in their green stems, and small yellow knobs form at the tip of the branch stem and contain the sporangia. Whisk ferns were considered an early pterophytes. However, recent comparative DNA analysis suggests that this group may have lost both vascular tissue and roots through evolution, and is more closely related to ferns.</para>
+<figure id="fig-ch25_04_04"><media id="fs-idm97300000" alt=" Photo shows a whisk fern with many green stems that have small knobs along their length.">
+<image mime-type="image/jpg" src="Figure_25_04_04.jpg" width="300"/>
+</media>
+<caption>The whisk fern <emphasis effect="italics">Psilotum nudum</emphasis> has conspicuous green stems with knob-shaped sporangia. (credit: Forest &amp; Kim Starr)</caption></figure></section>
+<section id="fs-idm12846736"><title>Phylum Monilophyta: Class Psilotopsida (Ferns)</title><para id="fs-idm152851824">With their large fronds, <term>ferns</term> are the most readily recognizable seedless vascular plants. They are considered the most advanced seedless vascular plants and display characteristics commonly observed in seed plants. More than 20,000 species of ferns live in environments ranging from tropics to temperate forests. Although some species survive in dry environments, most ferns are restricted to moist, shaded places. Ferns made their appearance in the fossil record during the Devonian period and expanded during the Carboniferous.</para>
+<para id="fs-idm95410432">The dominant stage of the lifecycle of a fern is the sporophyte, which consists of large compound leaves called fronds. Fronds fulfill a double role; they are photosynthetic organs that also carry reproductive organs. The stem may be buried underground as a rhizome, from which adventitious roots grow to absorb water and nutrients from the soil; or, they may grow above ground as a trunk in tree ferns (<link target-id="fig-ch25_04_05" document=""/>). <term>Adventitious</term> organs are those that grow in unusual places, such as roots growing from the side of a stem.</para>
+<figure id="fig-ch25_04_05"><media id="fs-idm83562688" alt=" Photo shows a potted tree fern.">
+<image mime-type="image/jpg" src="Figure_25_04_05.jpg" width="300"/>
+</media>
+<caption>Some specimens of this short tree-fern species can grow very tall. (credit: Adrian Pingstone)</caption></figure><para id="fs-idm14302608">The tip of a developing fern frond is rolled into a crozier, or fiddlehead (<link target-id="fig-ch25_04_06" document=""/><emphasis effect="bold">a</emphasis> and <link target-id="fig-ch25_04_06" document=""/><emphasis effect="bold">b</emphasis>). Fiddleheads unroll as the frond develops.</para><figure id="fig-ch25_04_06" orient="horizontal"><subfigure id="fs-idm61641616">
+<media id="fs-idm50656704" alt="Fiddleheads at the top of a maturing fern curl into a structure that resembles their namesake.">
+<image mime-type="image/jpg" src="Figure_25_04_06a.jpg" width="200"/>
+</media>
+</subfigure>
+<subfigure id="fs-idm25651600">
+<media id="fs-idm97060576" alt="">
+<image mime-type="image/jpg" src="Figure_25_04_06b.jpg" width="177"/>
+</media>
+</subfigure>
+
+<caption>Croziers, or fiddleheads, are the tips of fern fronds. (credit a: modification of work by Cory Zanker; credit b: modification of work by Myriam Feldman)</caption></figure><para id="fs-idm154677344">The lifecycle of a fern is depicted in <link target-id="fig-ch25_04_07" document=""/>.</para><note id="fs-idm105543216" class="art-connection"><label/><title>Art Connection</title>
+<para id="fs-idm29082096">
+<figure id="fig-ch25_04_07" class=" "><media id="fs-idm89425584" alt=" The fern life cycle begins with a diploid (2n) sporophyte, which is the fern plant. Sporangia are round bumps that occur on the bottom of the leaves. Sporangia undergo mitosis to form haploid (1n) spores. The spores germinate and grow into a green gametophyte 1n that resembles lettuce. The gametophyte contains antheridia that produce, sperm and archegonia that produce eggs. Inside the archegonium the sperm fertilizes the egg, forming a diploid (2n) zygote. The zygote undergoes mitosis to form a 2n sporophyte, ending the cycle.">
+<image mime-type="image/jpg" src="Figure_25_04_07.png" width="450"/>
+</media>
+<caption>This life cycle of a fern shows alternation of generations with a dominant sporophyte stage. (credit "fern": modification of work by Cory Zanker; credit "gametophyte": modification of work by "Vlmastra"/Wikimedia Commons)</caption></figure></para>
+<para id="fs-idp12634592">Which of the following statements about the fern life cycle is false?</para>
+<list id="fs-idm166449616" list-type="enumerated" number-style="lower-alpha"><item>Sporangia produce haploid spores.</item>
+<item>The sporophyte grows from a gametophyte.</item>
+<item>The sporophyte is diploid and the gametophyte is haploid.</item>
+<item>Sporangia form on the underside of the gametophyte.</item>
+</list><!-- <para><link target-id="fig-ch25_04_06" document=""/> D.</para> -->
+</note><note id="fs-idp43867440" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idm39481232" alt="QR Code representing a URL">
+<image mime-type="image/png" src="fern_life_cycle.png" width="120"/>
+</media>
+<para id="fs-idm45039728">To see an animation of the lifecycle of a fern and to test your knowledge, go to the <link window="new" url="http://openstaxcollege.org/l/fern_life_cycle">website</link>.</para>
+</note><para id="fs-idp20396000">Most ferns produce the same type of spores and are therefore homosporous. The diploid sporophyte is the most conspicuous stage of the lifecycle. On the underside of its mature fronds, sori (singular, sorus) form as small clusters where sporangia develop (<link target-id="fig-ch25_04_08" document=""/>).</para><figure id="fig-ch25_04_08"><media id="fs-idm43857296" alt=" The photo shows small bumps called sori on the underside of a fern frond.">
+<image mime-type="image/jpg" src="Figure_25_04_08.jpg" width="320"/>
+</media>
+
+<caption>Sori appear as small bumps on the underside of a fern frond. (credit: Myriam Feldman)</caption></figure><para id="fs-idm96012032">Inside the sori, spores are produced by meiosis and released into the air. Those that land on a suitable substrate germinate and form a heart-shaped gametophyte, which is attached to the ground by thin filamentous rhizoids (<link target-id="fig-ch25_04_09" document=""/>).</para><figure id="fig-ch25_04_09"><media id="fs-idm31530992" alt=" The photo shows a young sporophyte with a fan-shaped leaf growing from a lettuce-like gametophyte.">
+<image mime-type="image/jpg" src="Figure_25_04_09.jpg" width="320"/>
+</media>
+
+<caption>Shown here are a young sporophyte (upper part of image) and a heart-shaped gametophyte (bottom part of image). (credit: modification of work by "Vlmastra"/Wikimedia Commons)</caption></figure><para id="fs-idm51934000">The inconspicuous gametophyte harbors both sex gametangia. Flagellated sperm released from the antheridium swim on a wet surface to the archegonium, where the egg is fertilized. The newly formed zygote grows into a sporophyte that emerges from the gametophyte and grows by mitosis into the next generation sporophyte.</para>
+<note id="fs-idm51956176" class="career"><label/><title>Career Connection</title>
+
+<para id="fs-idm10126368"><title>Landscape Designer</title>Looking at the well-laid parterres of flowers and fountains in the grounds of royal castles and historic houses of Europe, it&#8217;s clear that the gardens&#8217; creators knew about more than art and design. They were also familiar with the biology of the plants they chose. Landscape design also has strong roots in the United States&#8217; tradition. A prime example of early American classical design is Monticello: Thomas Jefferson&#8217;s private estate. Among his many interests, Jefferson maintained a strong passion for botany. Landscape layout can encompass a small private space, like a backyard garden; public gathering places, like Central Park in New York City; or an entire city plan, like Pierre L&#8217;Enfant&#8217;s design for Washington, DC.</para>
+<para id="fs-idm114948992">A landscape designer will plan traditional public spaces&#8212;such as botanical gardens, parks, college campuses, gardens, and larger developments&#8212;as well as natural areas and private gardens. The restoration of natural places encroached on by human intervention, such as wetlands, also requires the expertise of a landscape designer.</para>
+<para id="fs-idm21520048">With such an array of necessary skills, a landscape designer&#8217;s education includes a solid background in botany, soil science, plant pathology, entomology, and horticulture. Coursework in architecture and design software is also required for the completion of the degree. The successful design of a landscape rests on an extensive knowledge of plant growth requirements, such as light and shade, moisture levels, compatibility of different species, and susceptibility to pathogens and pests. Mosses and ferns will thrive in a shaded area, where fountains provide moisture; cacti, on the other hand, would not fare well in that environment. The future growth of individual plants must be taken into account, to avoid crowding and competition for light and nutrients. The appearance of the space over time is also of concern. Shapes, colors, and biology must be balanced for a well-maintained and sustainable green space. Art, architecture, and biology blend in a beautifully designed and implemented landscape.</para>
+</note><figure id="fig-ch25_04_10"><media id="fs-idm158488992" alt=" Photo shows a landscaped garden with a variety of flowers and bushes.">
+<image mime-type="image/jpg" src="Figure_25_04_10.jpg" width="300"/>
+</media>
+
+<caption>This landscaped border at a college campus was designed by students in the horticulture and landscaping department of the college. (credit: Myriam Feldman)</caption></figure></section></section>
+<section id="fs-idp25444480">
+<title>The Importance of Seedless Vascular Plants</title>
+<para id="fs-idm124445328">Mosses and liverworts are often the first macroscopic organisms to colonize an area, both in a primary succession&#8212;where bare land is settled for the first time by living organisms&#8212;or in a secondary succession, where soil remains intact after a catastrophic event wipes out many existing species. Their spores are carried by the wind, birds, or insects. Once mosses and liverworts are established, they provide food and shelter for other species. In a hostile environment, like the tundra where the soil is frozen, bryophytes grow well because they do not have roots and can dry and rehydrate rapidly once water is again available. Mosses are at the base of the food chain in the tundra biome. Many species&#8212;from small insects to musk oxen and reindeer&#8212;depend on mosses for food. In turn, predators feed on the herbivores, which are the primary consumers. Some reports indicate that bryophytes make the soil more amenable to colonization by other plants. Because they establish symbiotic relationships with nitrogen-fixing cyanobacteria, mosses replenish the soil with nitrogen.</para>
+<para id="fs-idm26806336">At the end of the nineteenth century, scientists observed that lichens and mosses were becoming increasingly rare in urban and suburban areas. Since bryophytes have neither a root system for absorption of water and nutrients, nor a cuticle layer that protects them from desiccation, pollutants in rainwater readily penetrate their tissues; they absorb moisture and nutrients through their entire exposed surfaces. Therefore, pollutants dissolved in rainwater penetrate plant tissues readily and have a larger impact on mosses than on other plants. The disappearance of mosses can be considered a bioindicator for the level of pollution in the environment.</para>
+<para id="fs-idm174429184">Ferns contribute to the environment by promoting the weathering of rock, accelerating the formation of topsoil, and slowing down erosion by spreading rhizomes in the soil. The water ferns of the genus <emphasis effect="italics">Azolla</emphasis> harbor nitrogen-fixing cyanobacteria and restore this important nutrient to aquatic habitats.</para>
+<para id="fs-idm173090944">Seedless plants have historically played a role in human life through uses as tools, fuel, and medicine. Dried <term>peat moss</term>, <emphasis effect="italics">Sphagnum</emphasis>, is commonly used as fuel in some parts of Europe and is considered a renewable resource. <emphasis effect="italics">Sphagnum </emphasis>bogs (<link target-id="fig-ch25_04_11" document=""/>) are cultivated with cranberry and blueberry bushes. The ability of <emphasis effect="italics">Sphagnum</emphasis> to hold moisture makes the moss a common soil conditioner. Florists use blocks of <emphasis effect="italics">Sphagnum </emphasis>to maintain moisture for floral arrangements.</para><figure id="fig-ch25_04_11"><media id="fs-idm86857648" alt=" The Sphagnum in the photo has the appearance of a bumpy red carpet with protruding black stalks.">
+<image mime-type="image/jpg" src="Figure_25_04_11.jpg" width="300"/>
+</media>
+<caption><emphasis effect="italics">Sphagnum acutifolium</emphasis> is dried peat moss and can be used as fuel. (credit: Ken Goulding)</caption></figure><para id="fs-idm86479728">The attractive fronds of ferns make them a favorite ornamental plant. Because they thrive in low light, they are well suited as house plants. More importantly, fiddleheads are a traditional spring food of Native Americans in the Pacific Northwest, and are popular as a side dish in French cuisine. The licorice fern, <emphasis effect="italics">Polypodium glycyrrhiza, </emphasis>is part of the diet of the Pacific Northwest coastal tribes, owing in part to the sweetness of its rhizomes. It has a faint licorice taste and serves as a sweetener. The rhizome also figures in the pharmacopeia of Native Americans for its medicinal properties and is used as a remedy for sore throat.</para>
+<note id="fs-idm40365728" class="interactive"><label/><title>LInk to Learning</title>
+<media id="fs-idm33053120" alt="QR Code representing">
+<image mime-type="image/png" src="fiddleheads.png" width="120"/>
+</media>
+<para id="fs-idp30117984">Go to this <link window="new" url="http://openstaxcollege.org/l/fiddleheads">website</link> to learn how to identify fern species based upon their fiddleheads.</para></note><para id="fs-idp93496336">By far the greatest impact of seedless vascular plants on human life, however, comes from their extinct progenitors. The tall club mosses, horsetails, and tree-like ferns that flourished in the swampy forests of the Carboniferous period gave rise to large deposits of coal throughout the world. Coal provided an abundant source of energy during the Industrial Revolution, which had tremendous consequences on human societies, including rapid technological progress and growth of large cities, as well as the degradation of the environment. Coal is still a prime source of energy and also a major contributor to global warming.</para>
+</section>
+<section id="fs-idm108391904" class="summary">
+<title>Section Summary</title><para id="fs-idm103079632">Vascular systems consist of xylem tissue, which transports water and minerals, and phloem tissue, which transports sugars and proteins. With the development of the vascular system, there appeared leaves to act as large photosynthetic organs, and roots to access water from the ground. Small uncomplicated leaves are microphylls. Large leaves with vein patterns are megaphylls. Modified leaves that bear sporangia are sporophylls. Some sporophylls are arranged in cone structures called strobili.</para>
+<para id="fs-idm39878704">The seedless vascular plants include club mosses, which are the most primitive; whisk ferns, which lost leaves and roots by reductive evolution; and horsetails and ferns. Ferns are the most advanced group of seedless vascular plants. They are distinguished by large leaves called fronds and small sporangia-containing structures called sori, which are found on the underside of the fronds.</para>
+<para id="fs-idp1634224">Mosses play an essential role in the balance of the ecosystems; they are pioneering species that colonize bare or devastated environments and make it possible for a succession to occur. They contribute to the enrichment of the soil and provide shelter and nutrients for animals in hostile environments. Mosses and ferns can be used as fuels and serve culinary, medical, and decorative purposes.</para>
+</section>
+<section id="fs-idm1431488" class="art-exercise"><title>Art Connections</title><exercise id="fs-idm86403968">
+<problem id="fs-idp39345504">
+<para id="fs-idm110386800"><link target-id="fig-ch25_04_06" document=""/> Which of the following statements about the fern life cycle is false?</para>
+<list id="fs-idm13633696" list-type="enumerated" number-style="lower-alpha">
+<item>Sporangia produce haploid spores.</item>
+<item>The sporophyte grows from a gametophyte.</item>
+<item>The sporophyte is diploid and the gametophyte is haploid.</item>
+<item>Sporangia form on the underside of the gametophyte.</item>
+</list>
+</problem>
+<solution id="fs-idm114336720">
+<label/>
+<para id="fs-idm141233728"><link target-id="fig-ch25_04_06" document=""/> D.</para>
+</solution>
+</exercise>
+</section><section id="fs-idp25064400" class="multiple-choice"><title>Review Questions</title><exercise id="fs-idm106145808"><problem id="fs-idm142633056">
+<para id="fs-idm138570544">Microphylls are characteristic of which types of plants?</para>
+<list id="fs-idm34637344" list-type="enumerated" number-style="lower-alpha">
+<item>mosses</item>
+<item>liverworts</item>
+<item>club mosses</item>
+<item>ferns</item>
+</list>
+</problem>
+<solution id="fs-idm34653392">
+<label/>
+<para id="fs-idm40230608">C</para>
+</solution>
+</exercise><exercise id="fs-idm149369136"><problem id="fs-idm84607984">
+<para id="fs-idm11470096">A plant in the understory of a forest displays a segmented stem and slender leaves arranged in a whorl. It is probably a ________.</para>
+<list id="fs-idm37971472" list-type="enumerated" number-style="lower-alpha">
+<item>club moss</item>
+<item>whisk fern</item>
+<item>fern</item>
+<item>horsetail</item>
+</list>
+</problem>
+<solution id="fs-idm138049840">
+<label/>
+<para id="fs-idm157702992">D</para>
+</solution>
+</exercise><exercise id="fs-idm52208096">
+<problem id="fs-idm150762240">
+<para id="fs-idm86593760">The following structures are found on the underside of fern leaves and contain sporangia:</para>
+<list id="fs-idm47184416" list-type="enumerated" number-style="lower-alpha">
+<item>sori</item>
+<item>rhizomes</item>
+<item>megaphylls</item>
+<item>microphylls</item>
+</list>
+</problem>
+<solution id="fs-idp12109056">
+<label/>
+<para id="fs-idm43679024">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm116603568"><problem id="fs-idm46053904">
+<para id="fs-idm161849072">The dominant organism in fern is the ________.</para>
+<list id="fs-idp25055888" list-type="enumerated" number-style="lower-alpha">
+<item>sperm</item>
+<item>spore</item>
+<item>gamete</item>
+<item>sporophyte</item>
+</list>
+</problem>
+<solution id="fs-idm41606160">
+<label/>
+<para id="fs-idm152463072">D</para>
+</solution>
+</exercise><exercise id="fs-idp76109760"><problem id="fs-idm76247216">
+<para id="fs-idp16488352">What seedless plant is a renewable source of energy?</para>
+<list id="fs-idm93559008" list-type="enumerated" number-style="lower-alpha">
+<item>club moss</item>
+<item>horsetail</item>
+<item>sphagnum moss</item>
+<item>fern</item>
+</list>
+</problem>
+<solution id="fs-idm95347312">
+<label/>
+<para id="fs-idm110447984">C</para>
+</solution>
+</exercise><exercise id="fs-idm28125280"><problem id="fs-idm114421424">
+<para id="fs-idp28558160">How do mosses contribute to returning nitrogen to the soil?</para>
+<list id="fs-idp2090560" list-type="enumerated" number-style="lower-alpha">
+<item>Mosses fix nitrogen from the air.</item>
+<item>Mosses harbor cyanobacteria that fix nitrogen.</item>
+<item>Mosses die and return nitrogen to the soil.</item>
+<item>Mosses decompose rocks and release nitrogen.</item>
+</list>
+</problem>
+<solution id="fs-idm12851984">
+<label/>
+<para id="fs-idm12494672">D</para>
+</solution>
+</exercise></section><section id="fs-idm96185232" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm102267760">
+<problem id="fs-idm69183104">
+<para id="fs-idm159167856">How did the development of a vascular system contribute to the increase in size of plants?</para></problem>
+<solution id="fs-idm107301856">
+<label/>
+<para id="fs-idm1551440">Plants became able to transport water and nutrients and not be limited by rates of diffusion. Vascularization allowed the development of leaves, which increased efficiency of photosynthesis and provided more energy for plant growth.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp14432288">
+<problem id="fs-idm135769184">
+<para id="fs-idm1671840">Which plant is considered the most advanced seedless vascular plant and why?</para></problem>
+<solution id="fs-idm161775232">
+<label/>
+<para id="fs-idm49412512">Ferns are considered the most advanced seedless vascular plants, because they display characteristics commonly observed in seed plants&#8212;they form large leaves and branching roots.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm139125376">
+<term>adventitious</term> <meaning id="fs-idp49213296">describes an organ that grows in an unusual place, such as a roots growing from the side of a stem</meaning>
+</definition>
+<definition id="fs-idp138931408">
+<term>club mosses</term> <meaning id="fs-idm1526144">earliest group of seedless vascular plants</meaning>
+</definition>
+<definition id="fs-idm134407264">
+<term>fern</term> <meaning id="fs-idp44521984">seedless vascular plant that produces large fronds; the most advanced group of seedless vascular plants</meaning>
+</definition>
+<definition id="fs-idm20571776">
+<term>horsetail</term> <meaning id="fs-idm153761632">seedless vascular plant characterized by joints</meaning>
+</definition>
+<definition id="fs-idm100734352">
+<term>lignin</term> <meaning id="fs-idm140993936">complex polymer impermeable to water</meaning>
+</definition>
+<definition id="fs-idm103391616">
+<term>lycophyte</term> <meaning id="fs-idm9216992">club moss</meaning>
+</definition>
+<definition id="fs-idm23279552">
+<term>megaphyll</term> <meaning id="fs-idm71847232">larger leaves with a pattern of branching veins</meaning>
+</definition>
+<definition id="fs-idm41532672">
+<term>microphyll</term> <meaning id="fs-idm108796464">small size and simple vascular system with a single unbranched vein</meaning>
+</definition>
+<definition id="fs-idp28816816">
+<term>peat moss</term> <meaning id="fs-idm83620768">Sphagnum</meaning>
+</definition>
+<definition id="fs-idm110011472">
+<term>phloem</term> <meaning id="fs-idm14887392">tissue responsible for transport of sugars, proteins, and other solutes</meaning>
+</definition>
+<definition id="fs-idm51313904">
+<term>sporophyll</term> <meaning id="fs-idm122246832">leaf modified structurally to bear sporangia</meaning>
+</definition>
+<definition id="fs-idm84950928">
+<term>strobili</term> <meaning id="fs-idm12455568">cone-like structures that contain the sporangia</meaning>
+</definition>
+<definition id="fs-idp106240560">
+<term>tracheophyte</term> <meaning id="fs-idm118790480">vascular plant</meaning>
+</definition>
+<definition id="fs-idm108623040">
+<term>vein</term> <meaning id="fs-idm100531280">bundle of vascular tissue made of xylem and phloem</meaning>
+</definition>
+<definition id="fs-idm175930384">
+<term>whisk fern</term> <meaning id="fs-idm118102864">seedless vascular plant that lost roots and leaves by reduction</meaning>
+</definition>
+<definition id="fs-idp20288">
+<term>xylem</term> <meaning id="fs-idp49746272">tissue responsible for long-distance transport of water and nutrients</meaning>
+</definition>
+</glossary>
+</document>

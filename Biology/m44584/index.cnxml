@@ -1,0 +1,288 @@
+<?xml version="1.0"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Population Genetics</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml"
+          mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44584/latest/</md:content-url>
+  <md:content-id>m44584</md:content-id>
+  <md:title>Population Genetics</md:title>
+  <md:version>1.5</md:version>
+  <md:created>2012/08/23 14:12:50 -0500</md:created>
+  <md:revised>2013/04/11 14:05:57.591 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/" />
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>acquired trait</md:keyword>
+    <md:keyword>Afrikaner</md:keyword>
+    <md:keyword>altitudinal cline</md:keyword>
+    <md:keyword>assortative mating</md:keyword>
+    <md:keyword>bottleneck effect</md:keyword>
+    <md:keyword>cline</md:keyword>
+    <md:keyword>environmental variance</md:keyword>
+    <md:keyword>Fanconi anemia (FA)</md:keyword>
+    <md:keyword>gene flow</md:keyword>
+    <md:keyword>genetic drift</md:keyword>
+    <md:keyword>genetic variance</md:keyword>
+    <md:keyword>geographical variation</md:keyword>
+    <md:keyword>heritability</md:keyword>
+    <md:keyword>Huntington's disease</md:keyword>
+    <md:keyword>inbreeding</md:keyword>
+    <md:keyword>inbreeding depression</md:keyword>
+    <md:keyword>Jean-Baptiste Lamarck</md:keyword>
+    <md:keyword>latitudinal cline</md:keyword>
+    <md:keyword>mutation</md:keyword>
+    <md:keyword>natural selection</md:keyword>
+    <md:keyword>nonrandom mating</md:keyword>
+    <md:keyword>physical location</md:keyword>
+    <md:keyword>polymorphism</md:keyword>
+    <md:keyword>population variation</md:keyword>
+    <md:keyword>selective pressure</md:keyword>
+    <md:keyword>temperature-dependent sex determination (TSD)</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the different types of variation in a population</item>
+<item>Explain why only heritable variation can be acted upon by natural selection</item>
+<item>Describe genetic drift and the bottleneck effect</item>
+<item>Explain how each evolutionary force can influence the allele frequencies of a population</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idp61189056">Individuals of a population often display different phenotypes, or express different alleles of a particular gene, referred to as polymorphisms. Populations with two or more variations of particular characteristics are called polymorphic. The distribution of phenotypes among individuals, known as the <term>population variation</term>, is influenced by a number of factors, including the population’s genetic structure and the environment (<link target-id="fig-ch19_02_01" document=""/>). Understanding the sources of a phenotypic variation in a population is important for determining how a population will evolve in response to different evolutionary pressures.</para>
+<figure id="fig-ch19_02_01"><media id="fs-idm54115200" alt=" This photo shows four kittens in a basket: two are gray, black, orange, and white, the third cat is orange and white, and the fourth cat is black.">
+<image mime-type="image/jpg" src="Figure_19_02_01.jpg" width="345"/>
+</media>
+<caption>The distribution of phenotypes in this litter of kittens illustrates population variation. (credit: Pieter Lanser)</caption></figure><section id="fs-idp80873184">
+<title>Genetic Variance</title>
+<para id="fs-idp51276304">Natural selection and some of the other evolutionary forces can only act on heritable traits, namely an organism’s genetic code. Because alleles are passed from parent to offspring, those that confer beneficial traits or behaviors may be selected for, while deleterious alleles may be selected against. Acquired traits, for the most part, are not heritable. For example, if an athlete works out in the gym every day, building up muscle strength, the athlete’s offspring will not necessarily grow up to be a body builder. If there is a genetic basis for the ability to run fast, on the other hand, this may be passed to a child.</para>
+<note id="fs-idp49678752" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idm46935584" alt="QR Code representing a URL">
+<image mime-type="image/png" src="epigenetic.png" width="120"/>
+</media>
+<para id="fs-idm35464176">Before Darwinian evolution became the prevailing theory of the field, French naturalist Jean-Baptiste Lamarck theorized that acquired traits could, in fact, be inherited; while this hypothesis has largely been unsupported, scientists have recently begun to realize that Lamarck was not completely wrong. Visit this <link window="new" url="http://openstaxcollege.org/l/epigenetic">site</link> to learn more.</para>
+</note><para id="fs-idp81956544"><term>Heritability</term> is the fraction of phenotype variation that can be attributed to genetic differences, or genetic variance, among individuals in a population. The greater the hereditability of a population’s phenotypic variation, the more susceptible it is to the evolutionary forces that act on heritable variation.</para>
+<para id="fs-idm33908784">The diversity of alleles and genotypes within a population is called <term>genetic variance</term>. When scientists are involved in the breeding of a species, such as with animals in zoos and nature preserves, they try to increase a population’s genetic variance to preserve as much of the phenotypic diversity as they can. This also helps reduce the risks associated with <term>inbreeding</term>, the mating of closely related individuals, which can have the undesirable effect of bringing together deleterious recessive mutations that can cause abnormalities and susceptibility to disease. For example, a disease that is caused by a rare, recessive allele might exist in a population, but it will only manifest itself when an individual carries two copies of the allele. Because the allele is rare in a normal, healthy population with unrestricted habitat, the chance that two carriers will mate is low, and even then, only 25 percent of their offspring will inherit the disease allele from both parents. While it is likely to happen at some point, it will not happen frequently enough for natural selection to be able to swiftly eliminate the allele from the population, and as a result, the allele will be maintained at low levels in the gene pool. However, if a family of carriers begins to interbreed with each other, this will dramatically increase the likelihood of two carriers mating and eventually producing diseased offspring, a phenomenon known as <term>inbreeding depression</term>.</para>
+<para id="fs-idp75088976">Changes in allele frequencies that are identified in a population can shed light on how it is evolving. In addition to natural selection, there are other evolutionary forces that could be in play: genetic drift, gene flow, mutation, nonrandom mating, and environmental variances.</para>
+</section>
+<section id="fs-idp26534064">
+<title>Genetic Drift</title>
+<para id="fs-idm78896048">The theory of natural selection stems from the observation that some individuals in a population are more likely to survive longer and have more offspring than others; thus, they will pass on more of their genes to the next generation. A big, powerful male gorilla, for example, is much more likely than a smaller, weaker one to become the population’s silverback, the pack’s leader who mates far more than the other males of the group. The pack leader will father more offspring, who share half of his genes, and are likely to also grow bigger and stronger like their father. Over time, the genes for bigger size will increase in frequency in the population, and the population will, as a result, grow larger on average. That is, this would occur if this particular <term>selection pressure</term>, or driving selective force, were the only one acting on the population. In other examples, better camouflage or a stronger resistance to drought might pose a selection pressure.</para>
+<para id="fs-idm30526416">Another way a population’s allele and genotype frequencies can change is <term>genetic drift</term> (<link target-id="fig-ch19_02_02" document=""/>), which is simply the effect of chance. By chance, some individuals will have more offspring than others—not due to an advantage conferred by some genetically-encoded trait, but just because one male happened to be in the right place at the right time (when the receptive female walked by) or because the other one happened to be in the wrong place at the wrong time (when a fox was hunting).</para>
+<note id="fs-idm21195008" class="art-connection"><label/><title>Art Connection</title>
+<para id="fs-idm91336928"><figure id="fig-ch19_02_02"><media id="fs-idp67330832" alt=" A population has 10 rabbits. 2 of these rabbits are homozygous dominant for the B allele and have brown coat color. 6 are heterozygous and also have brown coat color. Two are homozygous recessive and have white coat color. The frequency of the capital B allele, p, is .5 and the frequency of the small b allele, q, is also .5.Only 5 of the rabbits, including 2 homozygous dominant and 3 heterozygous individuals, produce offspring. 5 of the resulting offspring are homozygous dominant, 4 are heterozygous, and 1 is homozygous recessive. The frequency of alleles in the second generation is p=.7 and q=.3. Only 2 rabbits in the second generation produce offspring, and both of these are homozygous dominant. As a result, the recessive small b allele is lost in the third generation, and all of the rabbits are heterozygous dominant with brown coat color.">
+<image mime-type="image/png" src="Figure_19_02_02.png" width="275"/>
+</media>
+<caption>Genetic drift in a population can lead to the elimination of an allele from a population by chance. In this example, rabbits with the brown coat color allele (<emphasis effect="italics">B</emphasis>) are dominant over rabbits with the white coat color allele (<emphasis effect="italics">b</emphasis>). In the first generation, the two alleles occur with equal frequency in the population, resulting in p and q values of .5. Only half of the individuals reproduce, resulting in a second generation with p and q values of .7 and .3, respectively. Only two individuals in the second generation reproduce, and by chance these individuals are homozygous dominant for brown coat color. As a result, in the third generation the recessive <emphasis effect="italics">b</emphasis> allele is lost.</caption></figure></para>
+<para id="fs-idm93442624">Do you think genetic drift would happen more quickly on an island or on the mainland?</para>
+<!--<para><link target-id="fig-ch19_02_02" document=""/>Genetic drift is likely to occur more rapidly on an island where smaller populations are expected to occur.</para>-->
+</note><para id="fs-idm18731200">Small populations are more susceptible to the forces of genetic drift. Large populations, on the other hand, are buffered against the effects of chance. If one individual of a population of 10 individuals happens to die at a young age before it leaves any offspring to the next generation, all of its genes—1/10 of the population’s gene pool—will be suddenly lost. In a population of 100, that’s only 1 percent of the overall gene pool; therefore, it is much less impactful on the population’s genetic structure.</para>
+<note id="fs-idp1983504" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idp138735392" alt="QR Code representing a URL">
+<image mime-type="image/png" src="genetic_drift.png" width="120"/>
+</media>
+<para id="fs-idm45931344">Go to this <link window="new" url="http://openstaxcollege.org/l/genetic_drift">site</link> to watch an animation of random sampling and genetic drift in action.</para>
+</note><para id="fs-idp4080576">Genetic drift can also be magnified by natural events, such as a natural disaster that kills—at random—a large portion of the population. Known as the <term>bottleneck effect</term>, it results in a large portion of the genome suddenly being wiped out (<link target-id="fig-ch19_02_03" document=""/>). In one fell swoop, the genetic structure of the survivors becomes the genetic structure of the entire population, which may be very different from the pre-disaster population.</para>
+<figure id="fig-ch19_02_03"><media id="fs-idp51184464" alt="This illustration shows a narrow-neck bottle filled with red, orange, and green marbles. The bottle is tipped so the marbles pour into a glass. Because of the bottleneck, only seven marbles escape, and these are all orange and green. The marbles in the bottle represent the original population, and the marbles in the glass represent the surviving population. Because of the bottleneck effect, the surviving population is less diverse than the original population.">
+<image mime-type="image/jpg" src="Figure_19_02_03.jpg" width="300"/>
+</media>
+<caption>A chance event or catastrophe can reduce the genetic variability within a population.</caption></figure><para id="fs-idm47030080">Another scenario in which populations might experience a strong influence of genetic drift is if some portion of the population leaves to start a new population in a new location or if a population gets divided by a physical barrier of some kind. In this situation, those individuals are unlikely to be representative of the entire population, which results in the founder effect. The founder effect occurs when the genetic structure changes to match that of the new population’s founding fathers and mothers. The founder effect is believed to have been a key factor in the genetic history of the Afrikaner population of Dutch settlers in South Africa, as evidenced by mutations that are common in Afrikaners but rare in most other populations. This is likely due to the fact that a higher-than-normal proportion of the founding colonists carried these mutations. As a result, the population expresses unusually high incidences of Huntington’s disease (HD) and Fanconi anemia (FA), a genetic disorder known to cause blood marrow and congenital abnormalities—even cancer.<sup><footnote id="fs-idm35617696">A. J. Tipping et al., “Molecular and Genealogical Evidence for a Founder Effect in Fanconi Anemia Families of the Afrikaner Population of South Africa,” <emphasis effect="italics">PNAS</emphasis> 98, no. 10 (2001): 5734-5739, doi: 10.1073/pnas.091402398.</footnote></sup></para><note id="fs-idp75130400" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idp42175520" alt="QR Code representing a URL">
+<image mime-type="image/png" src="founder_bottle.png" width="120"/>
+</media>
+    <para id="fs-idp29188400">Watch this short <link window="new" url="http://openstaxcollege.org/l/founder_bottle">video</link> to learn more about the founder and bottleneck effects.</para>
+</note><note id="fs-idp50278960" class="scientific"><label/><title>Scientific Method Connection</title>
+    <para id="eip-id1171535448279"><title>Testing the Bottleneck Effect</title></para>
+<para id="fs-idp53661840"><emphasis effect="bold">Question:</emphasis> How do natural disasters affect the genetic structure of a population?</para>
+<para id="fs-idm87802752"><emphasis effect="bold">Background: </emphasis>When much of a population is suddenly wiped out by an earthquake or hurricane, the individuals that survive the event are usually a random sampling of the original group. As a result, the genetic makeup of the population can change dramatically. This phenomenon is known as the bottleneck effect.</para>
+<para id="fs-idm37862240"><emphasis effect="bold">Hypothesis: </emphasis>Repeated natural disasters will yield different population genetic structures; therefore, each time this experiment is run, the results will vary.</para>
+<para id="fs-idp6716496"><emphasis effect="bold">Test the hypothesis: </emphasis>Count out the original population using different colored beads. For example, red, blue, and yellow beads might represent red, blue, and yellow individuals. After recording the number of each individual in the original population, place them all in a bottle with a narrow neck that will only allow a few beads out at a time. Then, pour 1/3 of the bottle’s contents into a bowl. This represents the surviving individuals after a natural disaster kills a majority of the population. Count the number of the different colored beads in the bowl, and record it. Then, place all of the beads back in the bottle and repeat the experiment four more times.</para>
+<para id="fs-idp107504240"><emphasis effect="bold">Analyze the data: </emphasis>Compare the five populations that resulted from the experiment. Do the populations all contain the same number of different colored beads, or do they vary? Remember, these populations all came from the same exact parent population.</para>
+<para id="fs-idm37584880"><emphasis effect="bold">Form a conclusion: </emphasis>Most likely, the five resulting populations will differ quite dramatically. This is because natural disasters are not selective—they kill and spare individuals at random. Now think about how this might affect a real population. What happens when a hurricane hits the Mississippi Gulf Coast? How do the seabirds that live on the beach fare?</para>
+</note></section>
+<section id="fs-idm51545568">
+<title>Gene Flow</title>
+<para id="fs-idm31935728">Another important evolutionary force is <term>gene flow</term>: the flow of alleles in and out of a population due to the migration of individuals or gametes (<link target-id="fig-ch19_02_04" document=""/>). While some populations are fairly stable, others experience more flux. Many plants, for example, send their pollen far and wide, by wind or by bird, to pollinate other populations of the same species some distance away. Even a population that may initially appear to be stable, such as a pride of lions, can experience its fair share of immigration and emigration as developing males leave their mothers to seek out a new pride with genetically unrelated females. This variable flow of individuals in and out of the group not only changes the gene structure of the population, but it can also introduce new genetic variation to populations in different geological locations and habitats.</para>
+<para id="fs-idp4472544"><figure id="fig-ch19_02_04"><media id="fs-idp97522656" alt="This illustration shows an individual from a population of brown insects traveling toward a population of green insects.">
+<image mime-type="image/jpg" src="Figure_19_02_04.jpg" width="365"/>
+</media>
+<caption>Gene flow can occur when an individual travels from one geographic location to another.</caption></figure></para>
+</section>
+<section id="fs-idm72311744">
+<title>Mutation</title>
+<para id="fs-idp60262576">Mutations are changes to an organism’s DNA and are an important driver of diversity in populations. Species evolve because of the accumulation of mutations that occur over time. The appearance of new mutations is the most common way to introduce novel genotypic and phenotypic variance. Some mutations are unfavorable or harmful and are quickly eliminated from the population by natural selection. Others are beneficial and will spread through the population. Whether or not a mutation is beneficial or harmful is determined by whether it helps an organism survive to sexual maturity and reproduce. Some mutations do not do anything and can linger, unaffected by natural selection, in the genome. Some can have a dramatic effect on a gene and the resulting phenotype.</para>
+</section>
+<section id="fs-idm32899104">
+<title>Nonrandom Mating</title>
+<para id="fs-idm81332000">If individuals nonrandomly mate with their peers, the result can be a changing population. There are many reasons <term>nonrandom mating</term> occurs. One reason is simple mate choice; for example, female peahens may prefer peacocks with bigger, brighter tails. Traits that lead to more matings for an individual become selected for by natural selection. One common form of mate choice, called <term>assortative mating</term>, is an individual’s preference to mate with partners who are phenotypically similar to themselves.</para>
+<para id="fs-idm89683824">Another cause of nonrandom mating is physical location. This is especially true in large populations spread over large geographic distances where not all individuals will have equal access to one another. Some might be miles apart through woods or over rough terrain, while others might live immediately nearby.</para>
+</section>
+<section id="fs-idp25218480">
+<title>Environmental Variance</title>
+<para id="fs-idm72231696">Genes are not the only players involved in determining population variation. Phenotypes are also influenced by other factors, such as the environment (<link target-id="fig-ch19_02_05" document=""/>). A beachgoer is likely to have darker skin than a city dweller, for example, due to regular exposure to the sun, an environmental factor. Some major characteristics, such as gender, are determined by the environment for some species. For example, some turtles and other reptiles have temperature-dependent sex determination (TSD). TSD means that individuals develop into males if their eggs are incubated within a certain temperature range, or females at a different temperature range.</para>
+<figure id="fig-ch19_02_05"><media id="fs-idp155463248" alt="This photo shows a person holding a baby alligator.">
+<image mime-type="image/jpg" src="Figure_19_02_05.jpg" width="345"/>
+</media>
+<caption>The sex of the American alligator (<emphasis effect="italics">Alligator mississippiensis</emphasis>) is determined by the temperature at which the eggs are incubated. Eggs incubated at 30°C produce females, and eggs incubated at 33°C produce males. (credit: Steve Hillebrand, USFWS)</caption></figure><para id="fs-idm85899280">Geographic separation between populations can lead to differences in the phenotypic variation between those populations. Such <term>geographical variation</term> is seen between most populations and can be significant. One type of geographic variation, called a <term>cline</term>, can be seen as populations of a given species vary gradually across an ecological gradient. Species of warm-blooded animals, for example, tend to have larger bodies in the cooler climates closer to the earth’s poles, allowing them to better conserve heat. This is considered a latitudinal cline. Alternatively, flowering plants tend to bloom at different times depending on where they are along the slope of a mountain, known as an altitudinal cline.</para>
+<para id="fs-idm137166592">If there is gene flow between the populations, the individuals will likely show gradual differences in phenotype along the cline. Restricted gene flow, on the other hand, can lead to abrupt differences, even speciation.</para>
+</section>
+<section id="fs-idp5325056" class="summary">
+<title>Section Summary</title><para id="fs-idm33275472">Both genetic and environmental factors can cause phenotypic variation in a population. Different alleles can confer different phenotypes, and different environments can also cause individuals to look or act differently. Only those differences encoded in an individual’s genes, however, can be passed to its offspring and, thus, be a target of natural selection. Natural selection works by selecting for alleles that confer beneficial traits or behaviors, while selecting against those for deleterious qualities. Genetic drift stems from the chance occurrence that some individuals in the germ line have more offspring than others. When individuals leave or join the population, allele frequencies can change as a result of gene flow. Mutations to an individual’s DNA may introduce new variation into a population. Allele frequencies can also be altered when individuals do not randomly mate with others in the group.</para>
+    </section>
+<section id="fs-idm31234096" class="art-exercise">
+    <title>Art Connections</title>
+<exercise id="fs-idp10864432">
+    <problem id="fs-idp49675680">
+        <para id="fs-idm87650416"><link target-id="fig-ch19_02_02" document=""/> Do you think genetic drift would happen more quickly on an island or on the mainland?</para></problem>
+<solution id="fs-idp6352560">
+    <label/>
+    <para id="fs-idm72161856"><link target-id="fig-ch19_02_02" document=""/> Genetic drift is likely to occur more rapidly on an island where smaller populations are expected to occur.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm122764112" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm20960192">
+<problem id="fs-idm76301648"><para id="fs-idp5436256">When male lions reach sexual maturity, they leave their group in search of a new pride. This can alter the allele frequencies of the population through which of the following mechanisms?</para>
+<list id="fs-idp739840" list-type="enumerated" number-style="lower-alpha">
+<item>natural selection</item>
+<item>genetic drift</item>
+<item>gene flow</item>
+<item>random mating</item>
+</list>
+</problem>
+<solution id="fs-idp32670688">
+<label/>
+<para id="fs-idm68635200">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idp89063888">
+<problem id="fs-idm30244336"><para id="fs-idm72639712">Which of the following evolutionary forces can introduce new genetic variation into a population?</para>
+<list id="fs-idp142455568" list-type="enumerated" number-style="lower-alpha">
+<item>natural selection and genetic drift</item>
+<item>mutation and gene flow</item>
+<item>natural selection and nonrandom mating</item>
+<item>mutation and genetic drift</item>
+</list>
+</problem>
+<solution id="fs-idm87711088">
+<label/>
+<para id="fs-idm43341728">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm68528576">
+<problem id="fs-idp46215296"><para id="fs-idm14624912">What is assortative mating?</para>
+<list id="fs-idp6657312" list-type="enumerated" number-style="lower-alpha">
+<item>when individuals mate with those who are similar to themselves</item>
+<item>when individuals mate with those who are dissimilar to themselves</item>
+<item>when individuals mate with those who are the most fit in the population</item>
+<item>when individuals mate with those who are least fit in the population</item>
+</list>
+</problem>
+<solution id="fs-idp33918176">
+<label/>
+<para id="fs-idm11527616">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm52589200">
+<problem id="fs-idp153898816"><para id="fs-idp136179824">When closely related individuals mate with each other, or inbreed, the offspring are often not as fit as the offspring of two unrelated individuals. Why?</para>
+<list id="fs-idm16085392" list-type="enumerated" number-style="lower-alpha">
+<item>Close relatives are genetically incompatible.</item>
+<item>The DNA of close relatives reacts negatively in the offspring.</item>
+<item>Inbreeding can bring together rare, deleterious mutations that lead to harmful phenotypes.</item>
+<item>Inbreeding causes normally silent alleles to be expressed.</item>
+</list>
+</problem>
+<solution id="fs-idp10863584">
+<label/>
+<para id="fs-idp91114864">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idp68638704">
+<problem id="fs-idp222777920"><para id="fs-idm38073024">What is a cline?</para>
+<list id="fs-idp164634832" list-type="enumerated" number-style="lower-alpha">
+<item>the slope of a mountain where a population lives</item>
+<item>the degree to which a mutation helps an individual survive</item>
+<item>the number of individuals in the population</item>
+<item>gradual geographic variation across an ecological gradient</item>
+</list>
+</problem>
+<solution id="fs-idm95259456">
+<label/>
+<para id="fs-idm13950928">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp26418416" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm78478960">
+<problem id="fs-idm10743904"><para id="fs-idp17746080">Describe a situation in which a population would undergo the bottleneck effect and explain what impact that would have on the population’s gene pool.</para></problem>
+<solution id="fs-idm66988464"><label/>
+<para id="fs-idp96473456">A hurricane kills a large percentage of a population of sand-dwelling crustaceans—only a few individuals survive. The alleles carried by those surviving individuals would represent the entire population’s gene pool. If those surviving individuals are not representative of the original population, the post-hurricane gene pool will differ from the original gene pool.</para></solution>
+</exercise>
+<exercise id="fs-idm101801968">
+<problem id="fs-idp177568848"><para id="fs-idm46874688">Describe natural selection and give an example of natural selection at work in a population.</para></problem>
+<solution id="fs-idp195688560"><label/>
+<para id="fs-idp161129664">The theory of natural selection stems from the observation that some individuals in a population survive longer and have more offspring than others: thus, more of their genes are passed to the next generation. For example, a big, powerful male gorilla is much more likely than a smaller, weaker one to become the population’s silverback: the pack’s leader who mates far more than the other males of the group. Therefore, the pack leader will father more offspring who share half of his genes and are likely to grow bigger and stronger like their father. Over time, the genes for bigger size will increase in frequency in the population, and the average body size, as a result, grow larger on average.</para></solution>
+</exercise>
+<exercise id="fs-idp12811312">
+<problem id="fs-idp31648496"><para id="fs-idp56729600">Explain what a cline is and provide examples.</para></problem>
+<solution id="fs-idm18688784"><label/>
+<para id="fs-idp44918352">A cline is a type of geographic variation that is seen in populations of a given species that vary gradually across an ecological gradient. For example, warm-blooded animals tend to have larger bodies in the cooler climates closer to the earth’s poles, allowing them to better conserve heat. This is considered a latitudinal cline. Flowering plants tend to bloom at different times depending on where they are along the slope of a mountain. This is known as an altitudinal cline.</para></solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idp882352"><term>assortative mating</term> <meaning id="fs-idp61126880">when individuals tend to mate with those who are phenotypically similar to themselves</meaning></definition>
+<definition id="fs-idp49550688"><term>bottleneck effect</term> <meaning id="fs-idp7844992">magnification of genetic drift as a result of natural events or catastrophes</meaning></definition>
+<definition id="fs-idm39570880"><term>cline</term> <meaning id="fs-idm46647952">gradual geographic variation across an ecological gradient</meaning></definition>
+<definition id="fs-idp48706992"><term>gene flow</term> <meaning id="fs-idm1660320">flow of alleles in and out of a population due to the migration of individuals or gametes</meaning></definition>
+<definition id="fs-idm72605376"><term>genetic drift</term> <meaning id="fs-idp5815088">effect of chance on a population’s gene pool</meaning></definition>
+<definition id="fs-idm31012784"><term>genetic variance</term> <meaning id="fs-idm16958928">diversity of alleles and genotypes in a population</meaning></definition>
+<definition id="fs-idm1878256"><term>geographical variation</term> <meaning id="fs-idp17798432">differences in the phenotypic variation between populations that are separated geographically</meaning></definition>
+<definition id="fs-idp195637184"><term>heritability</term> <meaning id="fs-idm68739904">fraction of population variation that can be attributed to its genetic variance</meaning></definition>
+<definition id="fs-idm74155600"><term>inbreeding</term> <meaning id="fs-idm49922016">mating of closely related individuals</meaning></definition>
+<definition id="fs-idm54180768"><term>inbreeding depression</term> <meaning id="fs-idp93040816">increase in abnormalities and disease in inbreeding populations</meaning></definition>
+<definition id="fs-idp35596080"><term>nonrandom mating</term> <meaning id="fs-idp90544">changes in a population’s gene pool due to mate choice or other forces that cause individuals to mate with certain phenotypes more than others</meaning></definition>
+<definition id="fs-idp89495728"><term>population variation</term> <meaning id="fs-idm4416">distribution of phenotypes in a population</meaning></definition>
+<definition id="fs-idp59261952"><term>selective pressure</term> <meaning id="fs-idp49780448">environmental factor that causes one phenotype to be better than another</meaning></definition>
+</glossary>
+</document>

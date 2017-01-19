@@ -1,0 +1,364 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Angiosperms</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44650/latest/</md:content-url>
+  <md:content-id>m44650</md:content-id>
+  <md:title>Angiosperms</md:title>
+  <md:version>1.4</md:version>
+  <md:created>2012/08/23 14:36:50 -0500</md:created>
+  <md:revised>2013/04/10 10:58:58.721 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>angiosperm</md:keyword>
+    <md:keyword>angiosperm diversity</md:keyword>
+    <md:keyword>angiosperm life cycle</md:keyword>
+    <md:keyword>anther</md:keyword>
+    <md:keyword>anthophyta</md:keyword>
+    <md:keyword>basal angiosperm</md:keyword>
+    <md:keyword>calyx</md:keyword>
+    <md:keyword>carpel</md:keyword>
+    <md:keyword>corolla</md:keyword>
+    <md:keyword>cotyledon</md:keyword>
+    <md:keyword>double fertilization</md:keyword>
+    <md:keyword>eudicot</md:keyword>
+    <md:keyword>filament</md:keyword>
+    <md:keyword>flower</md:keyword>
+    <md:keyword>fruit</md:keyword>
+    <md:keyword>gynoecium</md:keyword>
+    <md:keyword>herbaceous plant</md:keyword>
+    <md:keyword>leaf vein</md:keyword>
+    <md:keyword>monocot</md:keyword>
+    <md:keyword>monovary</md:keyword>
+    <md:keyword>petal</md:keyword>
+    <md:keyword>pistil</md:keyword>
+    <md:keyword>pollen</md:keyword>
+    <md:keyword>root</md:keyword>
+    <md:keyword>seed plant</md:keyword>
+    <md:keyword>sepal</md:keyword>
+    <md:keyword>stamen</md:keyword>
+    <md:keyword>stigma</md:keyword>
+    <md:keyword>style</md:keyword>
+    <md:keyword>terrestrial ecosystem</md:keyword>
+    <md:keyword>vascular tissue</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain why angiosperms are the dominant form of plant life in most terrestrial ecosystems </item>
+<item>Describe the main parts of a flower and their purpose</item>
+<item>Detail the life cycle of an angiosperm </item>
+<item>Discuss the two main groups of flowering plants</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idm2480560">From their humble and still obscure beginning during the early Jurassic period, the angiosperms&#8212;or flowering plants&#8212;have evolved to dominate most terrestrial ecosystems (<link target-id="fig-ch26_03_01" document=""/>). With more than 250,000 species, the angiosperm phylum (Anthophyta) is second only to insects in terms of diversification.</para>
+<figure id="fig-ch26_03_01">
+<media id="fs-idp67520368" alt=" Photo shows a winding pathway bordered by flowers in a variety of colors and shapes.">
+<image mime-type="image/jpg" src="Figure_26_03_01.jpg" width="345"/>
+</media>
+<caption>These flowers grow in a botanical garden border in Bellevue, WA. Flowering plants dominate terrestrial landscapes. The vivid colors of flowers are an adaptation to pollination by animals such as insects and birds. (credit: Myriam Feldman)</caption>
+</figure>
+<para id="fs-idp42171600">The success of angiosperms is due to two novel reproductive structures: flowers and fruit. The function of the flower is to ensure pollination. Flowers also provide protection for the ovule and developing embryo inside a receptacle. The function of the fruit is seed dispersal. They also protect the developing seed. Different fruit structures or tissues on fruit&#8212;such as sweet flesh, wings, parachutes, or spines that grab&#8212;reflect the dispersal strategies that help spread seeds.</para>
+<section id="fs-idm60640624">
+<title>Flowers</title>
+<para id="fs-idm91968544">Flowers are modified leaves, or sporophylls, organized around a central stalk. Although they vary greatly in appearance, all flowers contain the same structures: sepals, petals, carpels, and stamens. The peduncle attaches the flower to the plant. A whorl of <term>sepals</term> (collectively called the <term>calyx</term>) is located at the base of the peduncle and encloses the unopened floral bud. Sepals are usually photosynthetic organs, although there are some exceptions. For example, the corolla in lilies and tulips consists of three sepals and three petals that look virtually identical. <term>Petals</term>, collectively the <term>corolla</term>, are located inside the whorl of sepals and often display vivid colors to attract pollinators. Flowers pollinated by wind are usually small, feathery, and visually inconspicuous. Sepals and petals together form the <term>perianth</term>. The sexual organs (carpels and stamens) are located at the center of the flower.</para>
+<para id="fs-idm33765824">As illustrated in <link target-id="fig-ch26_03_02" document=""/>, styles, stigmas, and ovules constitute the female organ: the <term>gynoecium</term> or <term>carpel</term>. Flower structure is very diverse, and carpels may be singular, multiple, or fused. Multiple fused carpels comprise a <term>pistil</term>. The megaspores and the female gametophytes are produced and protected by the thick tissues of the carpel. A long, thin structure called a <term>style</term> leads from the sticky <term>stigma</term>, where pollen is deposited, to the <term>ovary</term>, enclosed in the carpel. The ovary houses one or more ovules, each of which will develop into a seed upon fertilization. The male reproductive organs, the <term>stamens</term> (collectively called the androecium), surround the central carpel. Stamens are composed of a thin stalk called a <term>filament</term> and a sac-like structure called the anther. The filament supports the <term>anther</term>, where the microspores are produced by meiosis and develop into pollen grains.</para>
+<figure id="fig-ch26_03_02">
+<media id="fs-idm5220080" alt="Illustration shows parts of a flower, which is called the perianth. The corolla is composed of petals, and the calyx is composed of sepals. At the center of the perianth is a vase-like structure called the carpel. A flower may have one or more carpels, but the example shown has only one. The narrow neck of the carpel, called the style, widens into a flat stima at the top. The ovary is the wide part of the carpel. Ovules, or megasporangia, are clusters of pods in the middle of the ovary. The androecium is composed of stamens which cluster around the  carpel. The stamen consists a long, stalk-like filament with an anther at the end. The anther shown is tri-lobed. Each lobe, called a microsporangium, is filled with pollen.">
+<image mime-type="image/jpg" src="Figure_26_03_02.jpg" width="375"/>
+</media>
+<caption>This image depicts the structure of a perfect flower. Perfect flowers produce both male and female floral organs. The flower shown has only one carpel, but some flowers have a cluster of carpels. Together, all the carpels make up the gynoecium. (credit: modification of work by Mariana Ruiz Villareal)</caption>
+</figure>
+</section>
+<section id="fs-idp88842288">
+<title>Fruit</title>
+<para id="fs-idm28338128">As the seed develops, the walls of the ovary thicken and form the fruit. The seed forms in an ovary, which also enlarges as the seeds grow. In botany, a fertilized and fully grown, ripened ovary is a fruit. Many foods commonly called vegetables are actually fruit. Eggplants, zucchini, string beans, and bell peppers are all technically fruit because they contain seeds and are derived from the thick ovary tissue. Acorns are nuts, and winged maple whirligigs (whose botanical name is samara) are also fruit. Botanists classify fruit into more than two dozen different categories, only a few of which are actually fleshy and sweet.</para>
+<para id="fs-idm38928288">Mature fruit can be fleshy or dry. Fleshy fruit include the familiar berries, peaches, apples, grapes, and tomatoes. Rice, wheat, and nuts are examples of dry fruit. Another distinction is that not all fruits are derived from the ovary. For instance, strawberries are derived from the receptacle and apples from the pericarp, or hypanthium. Some fruits are derived from separate ovaries in a single flower, such as the raspberry. Other fruits, such as the pineapple, form from clusters of flowers. Additionally, some fruits, like watermelon and orange, have rinds. Regardless of how they are formed, fruits are an agent of seed dispersal. The variety of shapes and characteristics reflect the mode of dispersal. Wind carries the light dry fruit of trees and dandelions. Water transports floating coconuts. Some fruits attract herbivores with color or perfume, or as food. Once eaten, tough, undigested seeds are dispersed through the herbivore&#8217;s feces. Other fruits have burs and hooks to cling to fur and hitch rides on animals.</para>
+</section>
+<section id="fs-idp175340512">
+<title>The Life Cycle of an Angiosperm</title><para id="fs-idm13973680">The adult, or sporophyte, phase is the main phase of an angiosperm&#8217;s life cycle (<link target-id="fig-ch26_03_03" document=""/>). Like gymnosperms, angiosperms are heterosporous. Therefore, they generate microspores, which will generate pollen grains as the male gametophytes, and megaspores, which will form an ovule that contains female gametophytes. Inside the anthers&#8217; microsporangia, male gametophytes divide by meiosis to generate haploid microspores, which, in turn, undergo mitosis and give rise to pollen grains. Each pollen grain contains two cells: one generative cell that will divide into two sperm and a second cell that will become the pollen tube cell.</para>
+<note id="fs-idp67544128" class="art-connection"><label/><title>Art Connection</title>
+<figure id="fig-ch26_03_03"><media id="fs-idp39168384" alt=" The parts of the flower are shown. The base of the perianth, which includes petals and sepals, is called the flora axis. A narrowing called the articulation separates the floral axis from the lower pedicel, which attached the flower to a stem. Microsporangia are in the anthers. Microspores, or mother cells form inside the microsporangia. The microspore undergoes meiosis, producing four cells, each of which becomes a grain of pollen with a hard coating. The pollen grain undergoes mitosis, producing a generative cell and a tube cell. Macrospores form inside vase-like carpel, in the ovules, which are in the ovaries. The macrospores undergo meiosis, producing four cells. The cells then undergo mitosis, producing three antipodals, two polar nuclei, and egg and two synergids, each with a nucleus. Together, these cells are called the megagametophyte, or embryo sac. Pollination occurs when a pollen grain lands on the stigma, the flat structure at the top of the carpel.  The tube nucleus grows into the long style, to the ovary. There, the generative cell of the sperm fertilizes the egg.">
+<image mime-type="image/png" src="Figure_26_03_03.png" width="430"/>
+</media>
+
+<caption>The life cycle of an angiosperm is shown. Anthers and carpels are structures that shelter the actual gametophytes: the pollen grain and embryo sac. Double fertilization is a process unique to angiosperms. (credit: modification of work by Mariana Ruiz Villareal)</caption></figure><para id="fs-idp113022208">If a flower lacked a megasporangium, what type of gamete would not form? If the flower lacked a microsporangium, what type of gamete would not form?</para>
+<!--<para><link target-id="fig-ch26_03_03" document=""/>Without a megasporangium, an egg would not form; without a microsporangium, pollen would not form.</para>-->
+</note><para id="fs-idp67453984">The ovule, sheltered within the ovary of the carpel, contains the megasporangium protected by two layers of integuments and the ovary wall. Within each megasporangium, a megasporocyte undergoes meiosis, generating four megaspores&#8212;three small and one large. Only the large megaspore survives; it produces the female gametophyte, referred to as the embryo sac. The megaspore divides three times to form an eight-cell stage. Four of these cells migrate to each pole of the embryo sac; two come to the equator, and will eventually fuse to form a 2<emphasis effect="italics">n</emphasis> polar nucleus; the three cells away from the egg form antipodals, and the two cells closest to the egg become the synergids.</para><para id="fs-idp22828720">The mature embryo sac contains one egg cell, two synergids or &#8220;helper&#8221; cells, three antipodal cells, and two polar nuclei in a central cell. When a pollen grain reaches the stigma, a pollen tube extends from the grain, grows down the style, and enters through the micropyle: an opening in the integuments of the ovule. The two sperm cells are deposited in the embryo sac.</para>
+<para id="fs-idm37265552">A double fertilization event then occurs. One sperm and the egg combine, forming a diploid zygote&#8212;the future embryo. The other sperm fuses with the 2<emphasis effect="italics">n</emphasis> polar nuclei, forming a triploid cell that will develop into the endosperm, which is tissue that serves as a food reserve. The zygote develops into an embryo with a radicle, or small root, and one (monocot) or two (dicot) leaf-like organs called <term>cotyledons</term>. This difference in the number of embryonic leaves is the basis for the two major groups of angiosperms: the monocots and the eudicots. Seed food reserves are stored outside the embryo, in the form of complex carbohydrates, lipids or proteins. The cotyledons serve as conduits to transmit the broken-down food reserves from their storage site inside the seed to the developing embryo. The seed consists of a toughened layer of integuments forming the coat, the endosperm with food reserves, and at the center, the well-protected embryo.</para><para id="fs-idm1559840">Most flowers are monoecious or bisexual, which means that they carry both stamens and carpels; only a few species self-pollinate. Monoecious flowers are also known as &#8220;perfect&#8221; flowers because they contain both types of sex organs (<link target-id="fig-ch26_03_02" document=""/>). Both anatomical and environmental barriers promote cross-pollination mediated by a physical agent (wind or water), or an animal, such as an insect or bird. Cross-pollination increases genetic diversity in a species.</para>
+</section>
+<section id="fs-idm99940976">
+<title>Diversity of Angiosperms</title>
+<para id="fs-idp29665600">Angiosperms are classified in a single phylum: the <term>Anthophyta</term>. Modern angiosperms appear to be a monophyletic group, which means that they originate from a single ancestor. Flowering plants are divided into two major groups, according to the structure of the cotyledons, pollen grains, and other structures. <term>Monocots</term> include grasses and lilies, and eudicots or <term>dicots</term> form a polyphyletic group. <term>Basal angiosperms</term> are a group of plants that are believed to have branched off before the separation into monocots and eudicots because they exhibit traits from both groups. They are categorized separately in many classification schemes. The <emphasis effect="italics">Magnoliidae </emphasis>(magnolia trees, laurels, and water lilies) and the <emphasis effect="italics">Piperaceae</emphasis> (peppers) belong to the basal angiosperm group.</para>
+<section id="fs-idp45101232">
+<title>Basal Angiosperms</title>
+<para id="fs-idm45729648">The Magnoliidae are represented by the magnolias: tall trees bearing large, fragrant flowers that have many parts and are considered archaic (<link target-id="fig-ch26_03_04" document=""/><emphasis effect="bold">d</emphasis>). Laurel trees produce fragrant leaves and small, inconspicuous flowers. The <emphasis effect="italics">Laurales</emphasis> grow mostly in warmer climates and are small trees and shrubs. Familiar plants in this group include the bay laurel, cinnamon, spice bush (<link target-id="fig-ch26_03_04" document=""/><emphasis effect="bold">a</emphasis>), and avocado tree. The <emphasis effect="italics">Nymphaeales</emphasis> are comprised of the water lilies, lotus (<link target-id="fig-ch26_03_04" document=""/><emphasis effect="bold">c</emphasis>), and similar plants; all species thrive in freshwater biomes, and have leaves that float on the water surface or grow underwater. Water lilies are particularly prized by gardeners, and have graced ponds and pools for thousands of years. The <emphasis effect="italics">Piperales</emphasis> are a group of herbs, shrubs, and small trees that grow in the tropical climates. They have small flowers without petals that are tightly arranged in long spikes. Many species are the source of prized fragrance or spices, for example the berries of <emphasis effect="italics">Piper nigrum</emphasis> (<link target-id="fig-ch26_03_04" document=""/><emphasis effect="bold">b</emphasis>) are the familiar black peppercorns that are used to flavor many dishes.</para>
+<figure id="fig-ch26_03_04" class=" "><media id="fs-idm90124256" alt=" Photo A depicts a common spicebush plant with bright red berries growing at the tips of red stems. Illustration B shows a pepper plant with teardrop-shaped leaves and tiny flowers clustered on a long stem. Photo C shows lotus plants with broad, circular leaves and pink flowers growing in water. Photo D shows red magnolia seeds clustered in an egg-shaped pink sac scattered with small, brown spikes.">
+<image mime-type="image/jpg" src="Figure_26_03_04abcd.jpg" width="345"/>
+</media>
+
+<caption>The (a) common spicebush belongs to the <emphasis effect="italics">Laurales</emphasis>, the same family as cinnamon and bay laurel. The fruit of (b) the <emphasis effect="italics">Piper nigrum</emphasis> plant is black pepper, the main product that was traded along spice routes. Notice the small, unobtrusive, clustered flowers. (c) Lotus flowers, <emphasis effect="italics">Nelumbo nucifera</emphasis>, have been cultivated since ancient times for their ornamental value; the root of the lotus flower is eaten as a vegetable. The red seeds of (d) a magnolia tree, characteristic of the final stage, are just starting to appear. (credit a: modification of work by Cory Zanker; credit b: modification of work by Franz Eugen K&#246;hler; credit c: modification of work by "berduchwal"/Flickr; credit d: modification of work by "Coastside2"/Wikimedia Commons).</caption></figure></section>
+<section id="fs-idm53282704">
+<title>Monocots</title>
+<para id="fs-idm81894832">Plants in the monocot group are primarily identified as such by the presence of a single cotyledon in the seedling. Other anatomical features shared by monocots include veins that run parallel to the length of the leaves, and flower parts that are arranged in a three- or six-fold symmetry. True woody tissue is rarely found in monocots. In palm trees, vascular and parenchyma tissues produced by the primary and secondary thickening meristems form the trunk. The pollen from the first angiosperms was monosulcate, containing a single furrow or pore through the outer layer. This feature is still seen in the modern monocots. Vascular tissue of the stem is not arranged in any particular pattern. The root system is mostly adventitious and unusually positioned, with no major tap root. The monocots include familiar plants such as the true lilies (which are at the origin of their alternate name of Liliopsida), orchids, grasses, and palms. Many important crops are monocots, such as rice and other cereals, corn, sugar cane, and tropical fruits like bananas and pineapples (<link target-id="fig-ch26_03_05" document=""/>).</para>
+<figure id="fig-ch26_03_05"><media id="fs-idm34945104" alt=" Under monocots, the first photo shows rice, which has long, think blade-like leaves and clusters of seeds on long stems. The second photo shows wheat, which is similar in appearance to rice. The third photo shows a banana tree, with bunches of green bananas growing upward. Under dicots, the first shows light brown, oval-shaped beans with dark brown flecks. The second photo shows leafy cabbages growing in a garden. The third photo shows peaches growing on a tree.">
+<image mime-type="image/jpg" src="Figure_26_03_05.jpg" width="475"/>
+</media>
+
+<caption>The world&#8217;s major crops are flowering plants. (a) Rice, (b) wheat, and (c) bananas are monocots, while (d) cabbage, (e) beans, and (f) peaches are dicots. (credit a: modification of work by David Nance, USDA ARS; credit b, c: modification of work by Rosendahl; credit d: modification of work by Bill Tarpenning, USDA; credit e: modification of work by Scott Bauer, USDA ARS; credit f: modification of work by Keith Weller, USDA)</caption></figure></section>
+<section id="fs-idm39093632">
+<title>Eudicots</title>
+<para id="fs-idp75747248">Eudicots, or true dicots, are characterized by the presence of two cotyledons in the developing shoot. Veins form a network in leaves, and flower parts come in four, five, or many whorls. Vascular tissue forms a ring in the stem; in monocots, vascular tissue is scattered in the stem. Eudicots can be <term>herbaceous</term> (like grasses), or produce woody tissues. Most eudicots produce pollen that is trisulcate or triporate, with three furrows or pores. The root system is usually anchored by one main root developed from the embryonic radicle. Eudicots comprise two-thirds of all flowering plants. The major differences between monocots and eudicots are summarized in <link target-id="tab-ch26_03_01" document=""/>. Many species exhibit characteristics that belong to either group; as such, the classification of a plant as a monocot or a eudicot is not always clearly evident.</para><table id="tab-ch26_03_01" class=" " summary="">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c3" align="left">Comparison of Structural Characteristics of Monocots and Eudicots</entry>
+</row>
+<row>
+<entry>Characteristic</entry>
+<entry>Monocot</entry>
+<entry>Eudicot</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Cotyledon</entry>
+<entry>One</entry>
+<entry>Two</entry>
+</row>
+<row>
+<entry>Veins in Leaves</entry>
+<entry>Parallel</entry>
+<entry>Network (branched)</entry>
+</row>
+<row>
+<entry>Stem Vascular Tissue</entry>
+<entry>Scattered</entry>
+<entry>Arranged in ring pattern</entry>
+</row>
+<row>
+<entry>Roots</entry>
+<entry>Network of adventitious roots</entry>
+<entry>Tap root with many lateral roots</entry>
+</row>
+<row>
+<entry>Pollen</entry>
+<entry>Monosulcate</entry>
+<entry>Trisulcate</entry>
+</row>
+<row>
+<entry>Flower Parts</entry>
+<entry>Three or multiple of three</entry>
+<entry>Four, five, multiple of four or five and whorls</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</section>
+</section>
+<section id="fs-idm55493328" class="summary">
+<title>Section Summary</title><para id="fs-idm109253584">Angiosperms are the dominant form of plant life in most terrestrial ecosystems, comprising about 90 percent of all plant species. Most crops and ornamental plants are angiosperms. Their success comes from two innovative structures that protect reproduction from variability in the environment: the flower and the fruit. Flowers were derived from modified leaves. The main parts of a flower are the sepals and petals, which protect the reproductive parts: the stamens and the carpels. The stamens produce the male gametes in pollen grains. The carpels contain the female gametes (the eggs inside the ovules), which are within the ovary of a carpel. The walls of the ovary thicken after fertilization, ripening into fruit that ensures dispersal by wind, water, or animals.</para>
+<para id="fs-idm47171424">The angiosperm life cycle is dominated by the sporophyte stage. Double fertilization is an event unique to angiosperms. One sperm in the pollen fertilizes the egg, forming a diploid zygote, while the other combines with the two polar nuclei, forming a triploid cell that develops into a food storage tissue called the endosperm. Flowering plants are divided into two main groups, the monocots and eudicots, according to the number of cotyledons in the seedlings. Basal angiosperms belong to an older lineage than monocots and eudicots.</para>
+</section>
+<section id="fs-idm132146976" class="art-exercise">
+<title>Art Connections</title>
+<exercise id="fs-idp6180992">
+<problem id="fs-idm112949408">
+<para id="fs-idm41340768"><link target-id="fig-ch26_03_03" document=""/> If a flower lacked a megasporangium, what type of gamete would not form? If the flower lacked a microsporangium, what type of gamete would not form?</para>
+</problem>
+<solution id="fs-idm101684528">
+<label/>
+<para id="fs-idm9321280"><link target-id="fig-ch26_03_03" document=""/> Without a megasporangium, an egg would not form; without a microsporangium, pollen would not form.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm96758640" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp45858640">
+<problem id="fs-idm93268256">
+<para id="fs-idm91525136">Which of the following structures in a flower is not directly involved in reproduction?</para>
+<list id="fs-idm6512464" list-type="enumerated" number-style="lower-alpha">
+<item>the style</item>
+<item>the stamen</item>
+<item>the sepal</item>
+<item>the anther</item>
+</list>
+</problem>
+<solution id="fs-idm3979088">
+<label/>
+<para id="fs-idm90096400">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm38276480">
+<problem id="fs-idm81832016">
+<para id="fs-idm150994128">Pollen grains develop in which structure?</para>
+<list id="fs-idm72395152" list-type="enumerated" number-style="lower-alpha">
+<item>the anther</item>
+<item>the stigma</item>
+<item>the filament</item>
+<item>the carpel</item>
+</list>
+</problem>
+<solution id="fs-idm2740016">
+<label/>
+<para id="fs-idm82270912">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idp1290560">
+<problem id="fs-idp134314768">
+<para id="fs-idm28526832">In the course of double fertilization, one sperm cell fuses with the egg and the second one fuses with ________.</para>
+<list id="fs-idm40821424" list-type="enumerated" number-style="lower-alpha">
+<item>the synergids</item>
+<item>the polar nuclei of the center cell</item>
+<item>the egg as well</item>
+<item>the antipodal cells</item>
+</list>
+</problem>
+<solution id="fs-idm2652304">
+<label/>
+<para id="fs-idp22465232">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idp29778752">
+<problem id="fs-idm47093168">
+<para id="fs-idp45810960">Corn develops from a seedling with a single cotyledon, displays parallel veins on its leaves, and produces monosulcate pollen. It is most likely:</para>
+<list id="fs-idm59143936" list-type="enumerated" number-style="lower-alpha">
+<item>a gymnosperm</item>
+<item>a monocot</item>
+<item>a eudicot</item>
+<item>a basal angiosperm</item>
+</list>
+</problem>
+<solution id="fs-idm47064288">
+<label/>
+<para id="fs-idp135012976">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp5382736" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm79772960">
+<problem id="fs-idm156539984">
+<para id="fs-idp68078704">Some cycads are considered endangered species and their trade is severely restricted. Customs officials stop suspected smugglers who claim that the plants in their possession are palm trees, not cycads. How would a botanist distinguish between the two types of plants?</para>
+</problem>
+<solution id="fs-idp21508256">
+<label/>
+<para id="fs-idm59997200">The resemblance between cycads and palm trees is only superficial. Cycads are gymnosperms and do not bear flowers or fruit. Cycads produce cones: large, female cones that produce naked seeds, and smaller male cones on separate plants. Palms do not.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp62600640">
+<problem id="fs-idm54675184">
+<para id="fs-idp6137968">What are the two structures that allow angiosperms to be the dominant form of plant life in most terrestrial ecosystems?</para>
+</problem>
+<solution id="fs-idm1956368">
+<label/>
+<para id="fs-idp88930048">Angiosperms are successful because of flowers and fruit. These structures protect reproduction from variability in the environment.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm9703824">
+<term>anther</term> <meaning id="fs-idm42239392">sac-like structure at the tip of the stamen in which pollen grains are produced</meaning>
+</definition>
+<definition id="fs-idm105471168">
+<term>Anthophyta</term> <meaning id="fs-idp4803616">phylum to which angiosperms belong</meaning>
+</definition>
+<definition id="fs-idp122020496">
+<term>basal angiosperms</term> <meaning id="fs-idp34509536">a group of plants that probably branched off before the separation of monocots and eudicots</meaning>
+</definition>
+<definition id="fs-idp9179472">
+<term>calyx</term> <meaning id="fs-idm45922400">whorl of sepals</meaning>
+</definition>
+<definition id="fs-idm59224320">
+<term>carpel</term> <meaning id="fs-idp56528800">single unit of the pistil</meaning>
+</definition>
+<definition id="fs-idp187998736">
+<term>corolla</term> <meaning id="fs-idp41018544">collection of petals</meaning>
+</definition>
+<definition id="fs-idp40801792">
+<term>cotyledon</term> <meaning id="fs-idm85058816">primitive leaf that develop in the zygote; monocots have one cotyledon, and dicots have two cotyledons</meaning>
+</definition>
+<definition id="fs-idm39032704">
+<term>dicot</term> <meaning id="fs-idm10283440">(also, eudicot) related group of angiosperms whose embryos possess two cotyledons</meaning>
+</definition>
+<definition id="fs-idm30770672">
+<term>filament</term> <meaning id="fs-idm67417392">thin stalk that links the anther to the base of the flower</meaning>
+</definition>
+<definition id="fs-idm41382672">
+<term>gynoecium</term> <meaning id="fs-idm47317824">(also, carpel) structure that constitute the female reproductive organ</meaning>
+</definition>
+<definition id="fs-idm1826928">
+<term>herbaceous</term> <meaning id="fs-idm13939136">grass-like plant noticeable by the absence of woody tissue</meaning>
+</definition>
+<definition id="fs-idm38136128">
+<term>monocot</term> <meaning id="fs-idp24313376">related group of angiosperms that produce embryos with one cotyledon and pollen with a single ridge</meaning>
+</definition>
+<definition id="fs-idm22515072">
+<term>ovary</term> <meaning id="fs-idm40053520">chamber that contains and protects the ovule or female megasporangium</meaning>
+</definition>
+<definition id="fs-idm25532528">
+<term>perianth</term> <meaning id="fs-idp137675248">part of the plant consisting of the calyx (sepals) and corolla (petals)</meaning>
+</definition>
+<definition id="fs-idp164260448">
+<term>petal</term> <meaning id="fs-idm45970368">modified leaf interior to the sepals; colorful petals attract animal pollinators</meaning>
+</definition>
+<definition id="fs-idp25295456">
+<term>pistil</term> <meaning id="fs-idm101563632">fused group of carpels</meaning>
+</definition>
+<definition id="fs-idp61124320">
+<term>sepal</term> <meaning id="fs-idm5559568">modified leaf that encloses the bud; outermost structure of a flower</meaning>
+</definition>
+<definition id="fs-idp35850720">
+<term>stamen</term> <meaning id="fs-idm23155520">structure that contains the male reproductive organs</meaning>
+</definition>
+<definition id="fs-idp60957808">
+<term>stigma</term> <meaning id="fs-idm51617616">uppermost structure of the carpel where pollen is deposited</meaning>
+</definition>
+<definition id="fs-idm38749920">
+<term>style</term> <meaning id="fs-idm106443360">long, thin structure that links the stigma to the ovary</meaning>
+</definition>
+</glossary>
+</document>

@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Osmoregulation and Osmotic Balance</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml"
+          mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44808/latest/</md:content-url>
+  <md:content-id>m44808</md:content-id>
+  <md:title>Osmoregulation and Osmotic Balance</md:title>
+  <md:version>1.7</md:version>
+  <md:created>2012/08/23 15:53:35 -0500</md:created>
+  <md:revised>2014/02/24 17:03:04.547 US/Central</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>active transport</md:keyword>
+    <md:keyword>dialysis</md:keyword>
+    <md:keyword>electrolyte</md:keyword>
+    <md:keyword>electrolyte transport</md:keyword>
+    <md:keyword>gram molecular weight</md:keyword>
+    <md:keyword>milliequivalent</md:keyword>
+    <md:keyword>milliequivalents per liter</md:keyword>
+    <md:keyword>milliosmole</md:keyword>
+    <md:keyword>molality</md:keyword>
+    <md:keyword>molarity</md:keyword>
+    <md:keyword>mole</md:keyword>
+    <md:keyword>non-electrolyte</md:keyword>
+    <md:keyword>osmoconformer</md:keyword>
+    <md:keyword>osmolality</md:keyword>
+    <md:keyword>osmolarity</md:keyword>
+    <md:keyword>osmoregulation</md:keyword>
+    <md:keyword>osmoregulator</md:keyword>
+    <md:keyword>osmoregulatory</md:keyword>
+    <md:keyword>osmosis</md:keyword>
+    <md:keyword>osmotic balance</md:keyword>
+    <md:keyword>osmotic excretion</md:keyword>
+    <md:keyword>osmotic pressure</md:keyword>
+    <md:keyword>osmotic regulation</md:keyword>
+    <md:keyword>osmotic system</md:keyword>
+    <md:keyword>semi-permeable membrane</md:keyword>
+    <md:keyword>tonicity</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Define osmosis and explain its role within molecules</item>
+<item>Explain why osmoregulation and osmotic balance are important body functions</item>
+<item>Describe active transport mechanisms</item>
+<item>Explain osmolarity and the way in which it is measured</item>
+<item>Describe osmoregulators or osmoconformers and how these tools allow animals to adapt to different environments</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idm15739200">Osmosis is the diffusion of water across a membrane in response to <term>osmotic pressure</term> caused by an imbalance of molecules on either side of the membrane. <term>Osmoregulation</term> is the process of maintenance of salt and water balance (<term>osmotic balance</term>) across membranes within the body’s fluids, which are composed of water, plus electrolytes and non-electrolytes. An <term>electrolyte</term> is a solute that dissociates into ions when dissolved in water. A <term>non-electrolyte</term>, in contrast, doesn’t dissociate into ions during water dissolution. Both electrolytes and non-electrolytes contribute to the osmotic balance. The body’s fluids include blood plasma, the cytosol within cells, and interstitial fluid, the fluid that exists in the spaces between cells and tissues of the body. The membranes of the body (such as the pleural, serous, and cell membranes) are <term>semi-permeable membranes</term>. Semi-permeable membranes are permeable (or permissive) to certain types of solutes and water. Solutions on two sides of a semi-permeable membrane tend to equalize in solute concentration by movement of solutes and/or water across the membrane. As seen in <link target-id="fig-ch41_01_01" document=""/>, a cell placed in water tends to swell due to gain of water from the hypotonic or “low salt” environment. A cell placed in a solution with higher salt concentration, on the other hand, tends to make the membrane shrivel up due to loss of water into the hypertonic or “high salt” environment. Isotonic cells have an equal concentration of solutes inside and outside the cell; this equalizes the osmotic pressure on either side of the cell membrane which is a semi-permeable membrane.</para>
+<figure id="fig-ch41_01_01" class=" ">
+<media id="fs-idp142053840" alt="The left part of this illustration shows shriveled red blood cells bathed in a hypertonic solution. The middle part shows healthy red blood cells bathed in an isotonic solution, and the right part shows bloated red blood cells bathed in a hypotonic solution. One of the bloated cells in the hypotonic solution bursts.">
+<image mime-type="image/jpg" src="Figure_41_01_01.jpg" width="380"/>
+</media>
+<caption>Cells placed in a hypertonic environment tend to shrink due to loss of water. In a hypotonic environment, cells tend to swell due to intake of water. The blood maintains an isotonic environment so that cells neither shrink nor swell. (credit: Mariana Ruiz Villareal)</caption></figure>
+<para id="fs-idp317901792">The body does not exist in isolation. There is a constant input of water and electrolytes into the system. While osmoregulation is achieved across membranes within the body, excess electrolytes and wastes are transported to the kidneys and excreted, helping to maintain osmotic balance.</para>
+<section id="fs-idp54127232">
+<title>Need for Osmoregulation</title>
+<para id="fs-idp6024352">Biological systems constantly interact and exchange water and nutrients with the environment by way of consumption of food and water and through excretion in the form of sweat, urine, and feces. Without a mechanism to regulate osmotic pressure, or when a disease damages this mechanism, there is a tendency to accumulate toxic waste and water, which can have dire consequences.</para>
+<para id="fs-idm11703344">Mammalian systems have evolved to regulate not only the overall osmotic pressure across membranes, but also specific concentrations of important electrolytes in the three major fluid compartments: blood plasma, extracellular fluid, and intracellular fluid. Since osmotic pressure is regulated by the movement of water across membranes, the volume of the fluid compartments can also change temporarily. Because blood plasma is one of the fluid components, osmotic pressures have a direct bearing on blood pressure.</para>
+</section>
+<section id="fs-idp160208656">
+<title>Transport of Electrolytes across Cell Membranes</title>
+<para id="fs-idm22780000">Electrolytes, such as sodium chloride, ionize in water, meaning that they dissociate into their component ions. In water, sodium chloride (NaCl), dissociates into the sodium ion (Na<sup>+</sup>) and the chloride ion (Cl<sup>–</sup>). The most important ions, whose concentrations are
+very closely regulated in body fluids, are the cations sodium (Na<sup>+</sup>), potassium (K<sup>+</sup>), calcium (Ca<sup>+2</sup>),
+magnesium (Mg<sup>+2</sup>), and the anions chloride (Cl<sup>-</sup>), carbonate (CO<sub>3</sub><sup>-2</sup>), bicarbonate (HCO<sub>3</sub><sup>-</sup>), and phosphate(PO<sub>3</sub><sup>-</sup>).  Electrolytes are lost from the body during urination and perspiration. For this
+reason, athletes are encouraged to replace electrolytes and fluids during periods of increased activity and perspiration. 
+
+</para><para id="eip-152">Osmotic pressure is influenced by the concentration of solutes in a solution. It is directly proportional to
+the number of solute atoms or molecules and not dependent on the size of the solute molecules. Because  electrolytes dissociate into their component ions, they, in essence, add more solute particles into the solution and have a greater effect on osmotic pressure, per mass than compounds that do not dissociate in water, such as glucose.
+</para><para id="fs-idp192669184">Water can pass through membranes by passive diffusion. If electrolyte ions could passively diffuse across membranes, it would be impossible to maintain specific concentrations of ions in each fluid compartment therefore they require special mechanisms to cross the semi-permeable membranes in the body. This movement can be accomplished by facilitated diffusion and active transport. Facilitated diffusion requires protein-based channels for moving the solute. Active transport requires energy in the form of ATP conversion, carrier proteins, or pumps in order to move ions against the concentration gradient.</para>
+</section>
+<section id="fs-idp85228080">
+<title>Concept of Osmolality and Milliequivalent</title>
+<para id="fs-idp16230720">In order to calculate osmotic pressure, it is necessary to understand how solute concentrations are measured. The unit for measuring solutes is the <term>mole</term>. One mole is defined as the gram molecular weight of the solute. For example, the molecular weight of sodium chloride is 58.44. Thus, one mole of sodium chloride weighs 58.44 grams. The <term>molarity</term> of a solution is the number of moles of solute per liter of solution. The <term>molality</term> of a solution is the number of moles of solute per kilogram of solvent. If the solvent is water, one kilogram of water is equal to one liter of water. While molarity and molality are used to express the concentration of solutions, electrolyte concentrations are usually expressed in terms of milliequivalents per liter (mEq/L): the mEq/L is equal to the ion concentration (in millimoles) multiplied by the number of electrical charges on the ion. The unit of milliequivalent takes into consideration the ions present in the solution (since electrolytes form ions in aqueous solutions) and the charge on the ions.</para>
+<para id="fs-idp105917248">Thus, for ions that have a charge of one, one milliequivalent is equal to one millimole. For ions that have a charge of two (like calcium), one milliequivalent is equal to 0.5 millimoles. Another unit for the expression of electrolyte concentration is the milliosmole (mOsm), which is the number of milliequivalents of solute per kilogram of solvent. Body fluids are usually maintained within the range of 280 to 300 mOsm.</para>
+</section>
+<section id="fs-idm71869712">
+<title>Osmoregulators and Osmoconformers</title>
+<para id="fs-idp149727408">Persons lost at sea without any fresh water to drink are at risk of severe dehydration because the human body cannot adapt to drinking seawater, which is hypertonic in comparison to body fluids. Organisms such as goldfish that can tolerate only a relatively narrow range of salinity are referred to as stenohaline. About 90 percent of all bony fish are restricted to either freshwater or seawater. They are incapable of osmotic regulation in the opposite environment. It is possible, however, for a few fishes like salmon to spend part of their life in fresh water and part in sea water. Organisms like the salmon and molly that can tolerate a relatively wide range of salinity are referred to as euryhaline organisms. This is possible because some fish have evolved <term>osmoregulatory</term> mechanisms to survive in all kinds of aquatic environments. When they live in fresh water, their bodies tend to take up water because the environment is relatively hypotonic, as illustrated in <link target-id="fig-ch41_01_02" document=""/><emphasis effect="bold">a</emphasis>. In such hypotonic environments, these fish do not drink much water. Instead, they pass a lot of very dilute urine, and they achieve electrolyte balance by active transport of salts through the gills. When they move to a hypertonic marine environment, these fish start drinking sea water; they excrete the excess salts through their gills and their urine, as illustrated in <link target-id="fig-ch41_01_02" document=""/><emphasis effect="bold">b</emphasis>. Most marine invertebrates, on the other hand, may be isotonic with sea water (<term>osmoconformers</term>). Their body fluid concentrations conform to changes in seawater concentration. Cartilaginous fishes’ salt composition of the blood is similar to bony fishes; however, the blood of sharks contains the organic compounds urea and trimethylamine oxide (TMAO). This does not mean that their electrolyte composition is similar to that of sea water. They achieve isotonicity with the sea by storing large concentrations of urea. These animals that secrete urea are called ureotelic animals. TMAO stabilizes proteins in the presence of high urea levels, preventing the disruption of peptide bonds that would occur in other animals exposed to similar levels of urea. Sharks are cartilaginous fish with a rectal gland to secrete salt and assist in osmoregulation.</para>
+<figure id="fig-ch41_01_02" class=" "><media id="fs-idp175392880" alt="Illustration A shows a fish in a freshwater environment, where water is absorbed through the skin. To compensate, the fish drinks little water and excretes dilute urine. Sodium, potassium and chlorine ions are lost through the skin, and the fish actively transports these same ions into its gills to compensate for this loss. Illustration B shows a fish in a saltwater environment, where water is lost through the skin. To compensate, the fish drinks ample water and excretes concentrated urine. It absorbs sodium, potassium, and chlorine ions through its skin, and excretes them through its gills.">
+<image mime-type="image/jpg" src="Figure_41_01_02ab.jpg" width="550"/>
+</media>
+<caption>Fish are osmoregulators, but must use different mechanisms to survive in (a) freshwater or (b) saltwater environments. (credit: modification of work by Duane Raver, NOAA)</caption></figure><note id="fs-idm10520544" class="career"><label/><title>Career Connection</title>
+    
+<para id="fs-idp65896848"><title>Dialysis Technician</title>Dialysis is a medical process of removing wastes and excess water from the blood by diffusion and ultrafiltration. When kidney function fails, dialysis must be done to artificially rid the body of wastes. This is a vital process to keep patients alive. In some cases, the patients undergo artificial dialysis until they are eligible for a kidney transplant. In others who are not candidates for kidney transplants, dialysis is a life-long necessity.</para>
+<para id="fs-idp85844528">Dialysis technicians typically work in hospitals and clinics. While some roles in this field include equipment development and maintenance, most dialysis technicians work in direct patient care. Their on-the-job duties, which typically occur under the direct supervision of a registered nurse, focus on providing dialysis treatments. This can include reviewing patient history and current condition, assessing and responding to patient needs before and during treatment, and monitoring the dialysis process. Treatment may include taking and reporting a patient’s vital signs and preparing solutions and equipment to ensure accurate and sterile procedures.</para>
+</note></section>
+<section id="fs-idm13993872" class="summary">
+<title>Section Summary</title><para id="fs-idp68024336">Solute concentrations across a semi-permeable membranes influence the movement of water and solutes across the membrane. It is the number of solute molecules and not the molecular size that is important in osmosis. Osmoregulation and osmotic balance are important bodily functions, resulting in water and salt balance. Not all solutes can pass through a semi-permeable membrane. Osmosis is the movement of water across the membrane. Osmosis occurs to equalize the number of solute molecules across a semi-permeable membrane by the movement of water to the side of higher solute concentration. Facilitated diffusion utilizes protein channels to move solute molecules from areas of higher to lower concentration while active transport mechanisms are required to move solutes against concentration gradients. Osmolarity is measured in units of milliequivalents or milliosmoles, both of which take into consideration the number of solute particles and the charge on them. Fish that live in fresh water or saltwater adapt by being osmoregulators or osmoconformers.</para>
+    </section>
+<section id="fs-idp170228272" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm76593808">
+<problem id="fs-idp244239504"><para id="fs-idp28925904">When a dehydrated human patient needs to be given fluids intravenously, he or she is given:</para>
+<list id="fs-idp57701328" list-type="enumerated" number-style="lower-alpha">
+<item>water, which is hypotonic with respect to body fluids</item>
+<item>saline at a concentration that is isotonic with respect to body fluids</item>
+<item>glucose because it is a non-electrolyte</item>
+<item>blood</item>
+</list>
+</problem>
+<solution id="fs-idp175448112">
+<label/>
+<para id="fs-idp71114464">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm2578240">
+<problem id="fs-idp141888016"><para id="fs-idp13725200">The sodium ion is at the highest concentration in:</para>
+<list id="fs-idm18534240" list-type="enumerated" number-style="lower-alpha">
+<item>intracellular fluid</item>
+<item>extracellular fluid</item>
+<item>blood plasma</item>
+<item>none of the above</item>
+</list>
+</problem>
+<solution id="fs-idm51466192">
+<label/>
+<para id="fs-idm52405152">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idp206826416">
+<problem id="fs-idp150849552"><para id="fs-idp84793600">Cells in a hypertonic solution tend to:</para>
+<list id="fs-idp73104720" list-type="enumerated" number-style="lower-alpha">
+<item>shrink due to water loss</item>
+<item>swell due to water gain</item>
+<item>stay the same size due to water moving into and out of the cell at the same rate</item>
+<item>none of the above</item>
+</list>
+</problem>
+<solution id="fs-idp148922160">
+<label/>
+<para id="fs-idp72295120">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm17911008" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm46483664">
+<problem id="fs-idm22902160"><para id="fs-idp97189760">Why is excretion important in order to achieve osmotic balance?</para></problem>
+<solution id="fs-idm13893552"><label/>
+<para id="fs-idp249643504">Excretion allows an organism to rid itself of waste molecules that could be toxic if allowed to accumulate. It also allows the organism to keep the amount of water and dissolved solutes in balance.</para></solution>
+</exercise>
+<exercise id="fs-idp15980864">
+<problem id="fs-idp84171760"><para id="fs-idp79936064">Why do electrolyte ions move across membranes by active transport?</para></problem>
+<solution id="fs-idp72610592"><label/>
+<para id="fs-idp115300704">Electrolyte ions often require special mechanisms to cross the semi-permeable membranes in the body. Active transport is the movement against a concentration gradient.</para></solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idp147223936"><term>electrolyte</term> <meaning id="fs-idp138010368">solute that breaks down into ions when dissolved in water</meaning></definition>
+<definition id="fs-idp91340976"><term>molality</term> <meaning id="fs-idp216811200">number of moles of solute per kilogram of solvent</meaning></definition>
+<definition id="fs-idp112798688"><term>molarity</term> <meaning id="fs-idm25206912">number of moles of solute per liter of solution</meaning></definition>
+<definition id="fs-idp159263632"><term>mole</term> <meaning id="fs-idm62718160">gram equivalent of the molecular weight of a substance</meaning></definition>
+<definition id="fs-idp106123392"><term>non-electrolyte</term> <meaning id="fs-idp69652944">solute that does not break down into ions when dissolved in water</meaning></definition>
+<definition id="fs-idp26120656"><term>osmoconformer</term> <meaning id="fs-idp34223120">organism that changes its tonicity based on its environment</meaning></definition>
+<definition id="fs-idm72243136"><term>osmoregulation</term> <meaning id="fs-idm60797568">mechanism by which water and solute concentrations are maintained at desired levels</meaning></definition>
+<definition id="fs-idm9417088"><term>osmoregulator</term> <meaning id="fs-idp100178272">organism that maintains its tonicity irrespective of its environment</meaning></definition>
+<definition id="fs-idp71941584"><term>osmotic balance</term> <meaning id="fs-idp28919952">balance of the amount of water and salt input and output to and from a biological system without disturbing the desired osmotic pressure and solute concentration in every compartment</meaning></definition>
+<definition id="fs-idm56512304"><term>osmotic pressure</term> <meaning id="fs-idp78255296">pressure exerted on a membrane to equalize solute concentration on either side</meaning></definition>
+<definition id="fs-idp204224640"><term>semi-permeable membrane</term> <meaning id="fs-idp56618112">membrane that allows only certain solutes to pass through</meaning></definition>
+</glossary>
+</document>

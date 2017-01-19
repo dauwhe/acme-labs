@@ -1,0 +1,286 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Overview of Photosynthesis</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44447/latest/</md:content-url>
+  <md:content-id>m44447</md:content-id>
+  <md:title>Overview of Photosynthesis</md:title>
+  <md:version>1.8</md:version>
+  <md:created>2012/08/23 10:55:16 -0500</md:created>
+  <md:revised>2013/10/07 13:45:12.306 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>autotroph</md:keyword>
+    <md:keyword>chemosynthetic organism</md:keyword>
+    <md:keyword>chlorophyll</md:keyword>
+    <md:keyword>chloroplast</md:keyword>
+    <md:keyword>energy</md:keyword>
+    <md:keyword>food production</md:keyword>
+    <md:keyword>grana</md:keyword>
+    <md:keyword>granum</md:keyword>
+    <md:keyword>heterotroph</md:keyword>
+    <md:keyword>light-dependent reaction</md:keyword>
+    <md:keyword>light-independent reaction</md:keyword>
+    <md:keyword>mesophyll</md:keyword>
+    <md:keyword>photoautotroph</md:keyword>
+    <md:keyword>photosynthesis</md:keyword>
+    <md:keyword>photosynthesis products</md:keyword>
+    <md:keyword>photosynthesis reactants</md:keyword>
+    <md:keyword>pigment</md:keyword>
+    <md:keyword>solar dependence</md:keyword>
+    <md:keyword>stomata</md:keyword>
+    <md:keyword>stroma</md:keyword>
+    <md:keyword>thylakoid</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain the relevance of photosynthesis to other living things</item>
+<item>Describe the main structures involved in photosynthesis</item>
+<item>Identify the substrates and products of photosynthesis</item>
+<item>Summarize the process of photosynthesis</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idp15776">Photosynthesis is essential to all life on earth; both plants and animals depend on it. It is the only biological process that can capture energy that originates in outer space (sunlight) and convert it into chemical compounds (carbohydrates) that every organism uses to power its metabolism. In brief, the energy of sunlight is captured and used to energize electrons, which are then stored in the covalent bonds of sugar molecules. How long lasting and stable are those covalent bonds? The energy extracted today by the burning of coal and petroleum products represents sunlight energy captured and stored by photosynthesis almost 200 million years ago.</para><para id="fs-idm163325392">Plants, algae, and a group of bacteria called cyanobacteria are the only organisms capable of performing photosynthesis (<link target-id="fig-ch08_01_01" document=""/>). Because they use light to manufacture their own food, they are called <term>photoautotrophs</term> (literally, &#8220;self-feeders using light&#8221;). Other organisms, such as animals, fungi, and most other bacteria, are termed <term>heterotrophs</term> (&#8220;other feeders&#8221;), because they must rely on the sugars produced by photosynthetic organisms for their energy needs. A third very interesting group of bacteria synthesize sugars, not by using sunlight&#8217;s energy, but by extracting energy from inorganic chemical compounds; hence, they are referred to as <term>chemoautotrophs</term>.</para>
+<figure id="fig-ch08_01_01" class=" "><media id="fs-idm17797712" alt="Photo a shows a fern leaf. Photo b shows thick, green algae growing on water. Micrograph c shows cyanobacteria, which are green rods about 10 microns long. Photo D shows black smoke pouring out of a deep sea vent covered with red worms. Micrograph E shows rod-shaped bacteria about 1.5 microns long.">
+<image mime-type="image/jpg" src="Figure_08_01_01.jpg" width="550"/>
+</media>
+
+<caption>Photoautotrophs including (a) plants, (b) algae, and (c) cyanobacteria synthesize their organic compounds via photosynthesis using sunlight as an energy source. Cyanobacteria and planktonic algae can grow over enormous areas in water, at times completely covering the surface. In a (d) deep sea vent, chemoautotrophs, such as these (e) thermophilic bacteria, capture energy from inorganic compounds to produce organic compounds. The ecosystem surrounding the vents has a diverse array of animals, such as tubeworms, crustaceans, and octopi that derive energy from the bacteria. (credit a: modification of work by Steve Hillebrand, U.S. Fish and Wildlife Service; credit b: modification of work by "eutrophication&amp;hypoxia"/Flickr; credit c: modification of work by NASA; credit d: University of Washington, NOAA; credit e: modification of work by Mark Amend, West Coast and Polar Regions Undersea Research Center, UAF, NOAA)</caption></figure><para id="fs-idm88222304">The importance of photosynthesis is not just that it can capture sunlight&#8217;s energy. A lizard sunning itself on a cold day can use the sun&#8217;s energy to warm up. Photosynthesis is vital because it evolved as a way to store the energy in solar radiation (the &#8220;photo-&#8221; part) as high-energy electrons in the carbon-carbon bonds of carbohydrate molecules (the &#8220;-synthesis&#8221; part). Those carbohydrates are the energy source that heterotrophs use to power the synthesis of ATP via respiration. Therefore, photosynthesis powers 99 percent of Earth&#8217;s ecosystems. When a top predator, such as a wolf, preys on a deer (<link target-id="fig-ch08_01_02" document=""/>), the wolf is at the end of an energy path that went from nuclear reactions on the surface of the sun, to light, to photosynthesis, to vegetation, to deer, and finally to wolf.</para>
+<figure id="fig-ch08_01_02"><media id="fs-idm32549792" alt="A photo shows deer running through tall grass beside a forest.">
+<image mime-type="image/jpg" src="Figure_08_01_02.jpg" width="320"/>
+</media>
+
+<caption>The energy stored in carbohydrate molecules from photosynthesis passes through the food chain. The predator that eats these deer receives a portion of the energy that originated in the photosynthetic vegetation that the deer consumed. (credit: modification of work by Steve VanRiper, U.S. Fish and Wildlife Service)</caption></figure><section id="fs-idp42926384">
+<title>Main Structures and Summary of Photosynthesis</title>
+<para id="fs-idm107168592">Photosynthesis is a multi-step process that requires sunlight, carbon dioxide (which is low in energy), and water as substrates (<link target-id="fig-ch08_01_03" document=""/>). After the process is complete, it releases oxygen and produces glyceraldehyde-3-phosphate (GA3P), simple carbohydrate molecules (which are high in energy) that can subsequently be converted into glucose, sucrose, or any of dozens of other sugar molecules. These sugar molecules contain energy and the energized carbon that all living things need to survive.</para>
+<figure id="fig-ch08_01_03"><media id="fs-idm19845344" alt="Photo of a tree. Arrows indicate that the tree uses carbon dioxide, water, and sunlight to make sugars and oxygen.">
+<image mime-type="image/jpg" src="Figure_08_01_03.jpg" width="270"/>
+</media>
+
+<caption>Photosynthesis uses solar energy, carbon dioxide, and water to produce energy-storing carbohydrates. Oxygen is generated as a waste product of photosynthesis.</caption></figure><para id="fs-idm128756608">The following is the chemical equation for photosynthesis (<link target-id="fig-ch08_01_04" document=""/>):</para>
+<figure id="fig-ch08_01_04">
+<media id="fs-idm107118720" alt="The photosynthesis equation is shown. According to this equation, six carbon dioxide and six water molecules produce one sugar molecule and six oxygen molecules. The sugar molecule is made of six carbons, twelve hydrogens, and six oxygens. Sunlight is used as an energy source.">
+<image mime-type="image/jpg" src="Figure_08_01_04.jpg" width="380"/>
+</media>
+<caption>The basic equation for photosynthesis is deceptively simple. In reality, the process takes place in many steps involving intermediate reactants and products. Glucose, the primary energy source in cells, is made from two three-carbon GA3Ps.</caption>
+</figure>
+<para id="fs-idm83121488">Although the equation looks simple, the many steps that take place during photosynthesis are actually quite complex. Before learning the details of how photoautotrophs turn sunlight into food, it is important to become familiar with the structures involved.</para>
+<para id="fs-idm194890448">In plants, photosynthesis generally takes place in leaves, which consist of several layers of cells. The process of photosynthesis occurs in a middle layer called the <term>mesophyll</term>. The gas exchange of carbon dioxide and oxygen occurs through small, regulated openings called <term>stomata</term> (singular: stoma), which also play roles in the regulation of gas exchange and water balance. The stomata are typically located on the underside of the leaf, which helps to minimize water loss. Each stoma is flanked by guard cells that regulate the opening and closing of the stomata by swelling or shrinking in response to osmotic changes.</para><para id="fs-idm56890608">In all autotrophic eukaryotes, photosynthesis takes place inside an organelle called a <term>chloroplast</term>. For plants, chloroplast-containing cells exist in the mesophyll. Chloroplasts have a double membrane envelope (composed of an outer membrane and an inner membrane). Within the chloroplast are stacked, disc-shaped structures called <term>thylakoids</term>. Embedded in the thylakoid membrane is chlorophyll, a <term>pigment</term> (molecule that absorbs light) responsible for the initial interaction between light and plant material, and numerous proteins that make up the electron transport chain. The thylakoid membrane encloses an internal space called the <term>thylakoid lumen</term>. As shown in <link target-id="fig-ch08_01_05" document=""/>, a stack of thylakoids is called a <term>granum</term>, and the liquid-filled space surrounding the granum is called <term>stroma</term> or &#8220;bed&#8221; (not to be confused with stoma or &#8220;mouth,&#8221; an opening on the leaf epidermis).</para><note id="fs-idm18480448" class="art-connection"><label/><title>Art Connection</title>
+<figure id="fig-ch08_01_05"><media id="fs-idm101936224" alt="This illustration shows a chloroplast, which has an outer membrane and an inner membrane. The space between the outer and inner membranes is called the intermembrane space. Inside the inner membrane are flat, pancake-like structures called thylakoids. The thylakoids form stacks called grana. The liquid inside the inner membrane is called the stroma, and the space inside the thylakoid is called the thylakoid lumen.">
+<image mime-type="image/png" src="Figure_08_01_05.png" width="320"/>
+</media>
+
+<caption>Photosynthesis takes place in chloroplasts, which have an outer membrane and an inner membrane. Stacks of thylakoids called grana form a third membrane layer.</caption></figure><para id="fs-idp4507744">On a hot, dry day, plants close their stomata to conserve water. What impact will this have on photosynthesis?</para>
+<!--<para><link target-id="fig-ch08_01_05" document=""/> Levels of carbon dioxide (a necessary photosynthetic substrate) will fall. As a result, the rate of photosynthesis will decrease.</para>-->
+</note></section>
+<section id="fs-idp19796064">
+<title>The Two Parts of Photosynthesis</title>
+<para id="fs-idm84258528">Photosynthesis takes place in two sequential stages: the light-dependent reactions and the light independent-reactions. In the <term>light-dependent reactions</term>, energy from sunlight is absorbed by chlorophyll and that energy is converted into stored chemical energy. In the <term>light-independent reactions</term>, the chemical energy harvested during the light-dependent reactions drive the assembly of sugar molecules from carbon dioxide. Therefore, although the light-independent reactions do not use light as a reactant, they require the products of the light-dependent reactions to function. In addition, several enzymes of the light-independent reactions are activated by light. The light-dependent reactions utilize certain molecules to temporarily store the energy: These are referred to as energy carriers. The energy carriers that move energy from light-dependent reactions to light-independent reactions can be thought of as &#8220;full&#8221; because they are rich in energy. After the energy is released, the &#8220;empty&#8221; energy carriers return to the light-dependent reaction to obtain more energy. <link target-id="fig-ch08_01_06" document=""/> illustrates the components inside the chloroplast where the light-dependent and light-independent reactions take place.</para><figure id="fig-ch08_01_06"><media id="fs-idm54375680" alt="This illustration shows a chloroplast with an outer membrane, an inner membrane, and stacks of membranes inside the inner membrane called thylakoids. The entire stack is called a granum. In the light reactions, energy from sunlight is converted into chemical energy in the form of ATP and NADPH. In the process, water is used and oxygen is produced. Energy from ATP and NADPH are used to power the Calvin cycle, which produces GA3P from carbon dioxide. ATP is broken down to ADP and Pi, and NADPH is oxidized to NADP+. The cycle is completed when the light reactions convert these molecules back into ATP and NADPH.">
+<image mime-type="image/jpg" src="Figure_08_01_06.jpg" width="420"/>
+</media>
+
+<caption>Photosynthesis takes place in two stages: light dependent reactions and the Calvin cycle. Light-dependent reactions, which take place in the thylakoid membrane, use light energy to make ATP and NADPH. The Calvin cycle, which takes place in the stroma, uses energy derived from these compounds to make GA3P from CO<sub>2</sub>.</caption></figure><note id="fs-idm105779792" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idm161385056" alt="QR Code representing a URL">
+<image mime-type="image/png" src="photosynthesis.png" width="120"/>
+</media>
+<para id="fs-idm89266032">Click the <link window="new" url="http://openstaxcollege.org/l/photosynthesis">link</link> to learn more about photosynthesis.</para>
+</note><note id="fs-idp103890080" class="everyday"><label/><title>Everyday Connection</title>
+<para id="eip-id1164468595750"><title>Photosynthesis at the Grocery Store</title></para>
+<figure id="fig-ch08_01_07"><media id="fs-idm141120128" alt="A photo shows people shopping in a grocery store.">
+<image mime-type="image/jpg" src="Figure_08_01_07.jpg" width="320"/>
+</media>
+
+<caption>Foods that humans consume originate from photosynthesis. (credit: Associa&#231;&#227;o Brasileira de Supermercados)</caption></figure><para id="fs-idm82036720">Major grocery stores in the United States are organized into departments, such as dairy, meats, produce, bread, cereals, and so forth. Each aisle (<link target-id="fig-ch08_01_07" document=""/>) contains hundreds, if not thousands, of different products for customers to buy and consume.</para>
+<para id="fs-idm24841808">Although there is a large variety, each item links back to photosynthesis. Meats and dairy link, because the animals were fed plant-based foods. The breads, cereals, and pastas come largely from starchy grains, which are the seeds of photosynthesis-dependent plants. What about desserts and drinks? All of these products contain sugar&#8212;sucrose is a plant product, a disaccharide, a carbohydrate molecule, which is built directly from photosynthesis. Moreover, many items are less obviously derived from plants: For instance, paper goods are generally plant products, and many plastics (abundant as products and packaging) are derived from algae. Virtually every spice and flavoring in the spice aisle was produced by a plant as a leaf, root, bark, flower, fruit, or stem. Ultimately, photosynthesis connects to every meal and every food a person consumes.</para>
+</note></section>
+<section id="fs-idm85078704" class="summary">
+<title>Section Summary</title><para id="fs-idm202695168">The process of photosynthesis transformed life on Earth. By harnessing energy from the sun, photosynthesis evolved to allow living things access to enormous amounts of energy. Because of photosynthesis, living things gained access to sufficient energy that allowed them to build new structures and achieve the biodiversity evident today.</para>
+<para id="fs-idm202694912">Only certain organisms, called photoautotrophs, can perform photosynthesis; they require the presence of chlorophyll, a specialized pigment that absorbs certain portions of the visible spectrum and can capture energy from sunlight. Photosynthesis uses carbon dioxide and water to assemble carbohydrate molecules and release oxygen as a waste product into the atmosphere. Eukaryotic autotrophs, such as plants and algae, have organelles called chloroplasts in which photosynthesis takes place, and starch accumulates. In prokaryotes, such as cyanobacteria, the process is less localized and occurs within folded membranes, extensions of the plasma membrane, and in the cytoplasm.</para>
+</section>
+<section id="fs-idm143330848" class="art-exercise">
+<title>Art Connections</title>
+<exercise id="fs-idm94786144">
+<problem id="fs-idm94785888">
+<para id="fs-idm106049184"><link target-id="fig-ch08_01_05" document=""/> On a hot, dry day, plants close their stomata to conserve water. What impact will this have on photosynthesis?</para>
+</problem>
+<solution id="fs-idm616864">
+<label/>
+<para id="fs-idm95527936"><link target-id="fig-ch08_01_05" document=""/> Levels of carbon dioxide (a necessary photosynthetic substrate) will immediately fall. As a result, the rate of photosynthesis will be inhibited.</para></solution>
+</exercise>
+</section>
+<section id="fs-idm143607712" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm106883952">
+<problem id="fs-idm106883696">
+<para id="fs-idm126906768">Which of the following components is <emphasis effect="italics">not</emphasis> used by both plants and cyanobacteria to carry out photosynthesis?</para>
+<list id="fs-idm83914592" list-type="enumerated" number-style="lower-alpha">
+<item>chloroplasts</item>
+<item>chlorophyll</item>
+<item>carbon dioxide</item>
+<item>water</item>
+</list>
+</problem>
+<solution id="fs-idm89408144">
+<label/>
+<para id="fs-idp19797456">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idp62360928">
+<problem id="fs-idp62361184">
+<para id="fs-idp3924448">What two main products result from photosynthesis?</para>
+<list id="fs-idm119934976" list-type="enumerated" number-style="lower-alpha">
+<item>oxygen and carbon dioxide</item>
+<item>chlorophyll and oxygen</item>
+<item>sugars/carbohydrates and oxygen</item>
+<item>sugars/carbohydrates and carbon dioxide</item>
+</list>
+</problem>
+<solution id="fs-idm94735824">
+<label/>
+<para id="fs-idm51164688">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm83342320">
+<problem id="fs-idm83342064">
+<para id="fs-idp62781920">In which compartment of the plant cell do the light-independent reactions of photosynthesis take place?</para>
+<list id="fs-idm1667216" list-type="enumerated" number-style="lower-alpha">
+<item>thylakoid</item>
+<item>stroma</item>
+<item>outer membrane</item>
+<item>mesophyll</item>
+</list>
+</problem>
+<solution id="fs-idm54724752">
+<label/>
+<para id="fs-idp102285440">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm72864672">
+<problem id="fs-idm103988512">
+<para id="fs-idm103988256">Which statement about thylakoids in eukaryotes is <emphasis effect="italics">not</emphasis> correct?</para>
+<list id="fs-idm147525728" list-type="enumerated" number-style="lower-alpha">
+<item>Thylakoids are assembled into stacks.</item>
+<item>Thylakoids exist as a maze of folded membranes.</item>
+<item>The space surrounding thylakoids is called stroma.</item>
+<item>Thylakoids contain chlorophyll.</item>
+</list>
+</problem>
+<solution id="fs-idm114421296">
+<label/>
+<para id="fs-idm65517008">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm121299616" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm156359696">
+<problem id="fs-idm145288816">
+<para id="fs-idm145288560">What is the overall outcome of the light reactions in photosynthesis?</para>
+</problem>
+<solution id="fs-idm86753536">
+<label/>
+<para id="fs-idm14509984">The outcome of light reactions in photosynthesis is the conversion of solar energy into chemical energy that the chloroplasts can use to do work (mostly anabolic production of carbohydrates from carbon dioxide).</para>
+</solution>
+</exercise>
+<exercise id="fs-idm59023120">
+<problem id="fs-idp81832672">
+<para id="fs-idp81832928">Why are carnivores, such as lions, dependent on photosynthesis to survive?</para>
+</problem>
+<solution id="fs-idp16901840">
+<label/>
+<para id="fs-idm69200768">Because lions eat animals that eat plants.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm91151424">
+<problem id="fs-idm93158624">
+<para id="fs-idm93158368">Why are energy carriers thought of as either &#8220;full&#8221; or &#8220;empty&#8221;?</para>
+</problem>
+<solution id="fs-idp37862384">
+<label/>
+<para id="fs-idm102995360">The energy carriers that move from the light-dependent reaction to the light-independent one are &#8220;full&#8221; because they bring energy. After the energy is released, the &#8220;empty&#8221; energy carriers return to the light-dependent reaction to obtain more energy. There is not much actual movement involved. Both ATP and NADPH are produced in the stroma where they are also used and reconverted into ADP, Pi, and NADP<sup>+</sup>.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm147514928">
+<term>chemoautotroph</term> <meaning id="fs-idm56843536">organism that can build organic molecules using energy derived from inorganic chemicals instead of sunlight</meaning>
+</definition>
+<definition id="fs-idp36509744">
+<term>chloroplast</term> <meaning id="fs-idm115454992">organelle in which photosynthesis takes place</meaning>
+</definition>
+<definition id="fs-idp519792">
+<term>granum</term> <meaning id="fs-idm48893056">stack of thylakoids located inside a chloroplast</meaning>
+</definition>
+<definition id="fs-idm57669760">
+<term>heterotroph</term> <meaning id="fs-idm17841808">organism that consumes organic substances or other organisms for food</meaning>
+</definition>
+<definition id="fs-idm141143008">
+<term>light-dependent reaction</term> <meaning id="fs-idm103277888">first stage of photosynthesis where certain wavelengths of the visible light are absorbed to form two energy-carrying molecules (ATP and NADPH)</meaning>
+</definition>
+<definition id="fs-idp64643776">
+<term>light-independent reaction</term> <meaning id="fs-idm53313936">second stage of photosynthesis, though which carbon dioxide is used to build carbohydrate molecules using energy from ATP and NADPH</meaning>
+</definition>
+<definition id="fs-idm30412384">
+<term>mesophyll</term> <meaning id="fs-idm68575648">middle layer of chlorophyll-rich cells in a leaf</meaning>
+</definition>
+<definition id="fs-idm16724288">
+<term>photoautotroph</term> <meaning id="fs-idm82527312">organism capable of producing its own organic compounds from sunlight</meaning>
+</definition>
+<definition id="fs-idm46677904">
+<term>pigment</term> <meaning id="fs-idm136406096">molecule that is capable of absorbing certain wavelengths of light and reflecting others (which accounts for its color)</meaning>
+</definition>
+<definition id="fs-idm57517536">
+<term>stoma</term> <meaning id="fs-idm64056112">opening that regulates gas exchange and water evaporation between leaves and the environment, typically situated on the underside of leaves</meaning>
+</definition>
+<definition id="fs-idp33583520">
+<term>stroma</term> <meaning id="fs-idm95258848">fluid-filled space surrounding the grana inside a chloroplast where the light-independent reactions of photosynthesis take place</meaning>
+</definition>
+<definition id="fs-idm132329200">
+<term>thylakoid</term> <meaning id="fs-idp18175568">disc-shaped, membrane-bound structure inside a chloroplast where the light-dependent reactions of photosynthesis take place; stacks of thylakoids are called grana</meaning>
+</definition>
+<definition id="fs-idm83874096">
+<term>thylakoid lumen</term> <meaning id="fs-idm97654752">aqueous space bound by a thylakoid membrane where protons accumulate during light-driven electron transport</meaning>
+</definition>
+</glossary>
+</document>

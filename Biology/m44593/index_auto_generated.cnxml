@@ -1,0 +1,344 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Perspectives on the Phylogenetic Tree</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44593/latest/</md:content-url>
+  <md:content-id>m44593</md:content-id>
+  <md:title>Perspectives on the Phylogenetic Tree</md:title>
+  <md:version>1.5</md:version>
+  <md:created>2012/08/23 14:15:47 -0500</md:created>
+  <md:revised>2013/04/11 14:44:25.853 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>eukaryote evolution</md:keyword>
+    <md:keyword>eukaryote-first hypothesis</md:keyword>
+    <md:keyword>eukaryote HGT</md:keyword>
+    <md:keyword>evolution</md:keyword>
+    <md:keyword>evolutionary relationships</md:keyword>
+    <md:keyword>gene transfer agent</md:keyword>
+    <md:keyword>genome fusion</md:keyword>
+    <md:keyword>GTA</md:keyword>
+    <md:keyword>HGT</md:keyword>
+    <md:keyword>horizontal gene transfer</md:keyword>
+    <md:keyword>James Lake</md:keyword>
+    <md:keyword>lateral gene transfer</md:keyword>
+    <md:keyword>mitochondria-first hypothesis</md:keyword>
+    <md:keyword>network model</md:keyword>
+    <md:keyword>nucleus-first hypothesis</md:keyword>
+    <md:keyword>phylogenetic model</md:keyword>
+    <md:keyword>phylogeny</md:keyword>
+    <md:keyword>prokaryote HGT</md:keyword>
+    <md:keyword>ring model</md:keyword>
+    <md:keyword>ring of life</md:keyword>
+    <md:keyword>tree of life</md:keyword>
+    <md:keyword>web model</md:keyword>
+    <md:keyword>web of life</md:keyword>
+    <md:keyword>W. Ford Doolittle</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe horizontal gene transfer</item>
+<item>Illustrate how prokaryotes and eukaryotes transfer genes horizontally</item>
+<item>Identify the web and ring models of phylogenetic relationships and describe how they differ from the original phylogenetic tree concept</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idm35657248">The concepts of phylogenetic modeling are constantly changing. It is one of the most dynamic fields of study in all of biology. Over the last several decades, new research has challenged scientists&#8217; ideas about how organisms are related. New models of these relationships have been proposed for consideration by the scientific community.</para>
+<para id="fs-idp4500080">Many phylogenetic trees have been shown as models of the evolutionary relationship among species. Phylogenetic trees originated with Charles Darwin, who sketched the first phylogenetic tree in 1837 (<link target-id="fig-ch20_03_01" document=""/><emphasis effect="bold">a</emphasis>), which served as a pattern for subsequent studies for more than a century. The concept of a phylogenetic tree with a single trunk representing a common ancestor, with the branches representing the divergence of species from this ancestor, fits well with the structure of many common trees, such as the oak (<link target-id="fig-ch20_03_01" document=""/><emphasis effect="bold">b</emphasis>). However, evidence from modern DNA sequence analysis and newly developed computer algorithms has caused skepticism about the validity of the standard tree model in the scientific community.</para>
+<figure id="fig-ch20_03_01">
+<media id="fs-idm68369888" alt=" Image a shows Charles Darwin&#8217;s sketch of lines branching, like those on a tree. Photo b shows a photo of an oak tree with many branches.">
+<image mime-type="image/jpg" src="Figure_20_03_01ab.jpg" width="500"/>
+</media>
+<caption>The (a) concept of the &#8220;tree of life&#8221; goes back to an 1837 sketch by Charles Darwin. Like an (b) oak tree, the &#8220;tree of life&#8221; has a single trunk and many branches. (credit b: modification of work by "Amada44"/Wikimedia Commons)</caption>
+</figure>
+<section id="fs-idm42591824">
+<title>Limitations to the Classic Model</title>
+<para id="fs-idm98480400">Classical thinking about prokaryotic evolution, included in the classic tree model, is that species evolve clonally. That is, they produce offspring themselves with only random mutations causing the descent into the variety of modern-day and extinct species known to science. This view is somewhat complicated in eukaryotes that reproduce sexually, but the laws of Mendelian genetics explain the variation in offspring, again, to be a result of a mutation within the species. The concept of genes being transferred between unrelated species was not considered as a possibility until relatively recently. Horizontal gene transfer (HGT), also known as lateral gene transfer, is the transfer of genes between unrelated species. HGT has been shown to be an ever-present phenomenon, with many evolutionists postulating a major role for this process in evolution, thus complicating the simple tree model. Genes have been shown to be passed between species which are only distantly related using standard phylogeny, thus adding a layer of complexity to the understanding of phylogenetic relationships.</para>
+<para id="fs-idp7507536">The various ways that HGT occurs in prokaryotes is important to understanding phylogenies. Although at present HGT is not viewed as important to eukaryotic evolution, HGT does occur in this domain as well. Finally, as an example of the ultimate gene transfer, theories of genome fusion between symbiotic or endosymbiotic organisms have been proposed to explain an event of great importance&#8212;the evolution of the first eukaryotic cell, without which humans could not have come into existence.</para>
+</section>
+<section id="fs-idp115591616">
+<title>Horizontal Gene Transfer</title>
+<para id="fs-idp25026896"><term>Horizontal gene transfer (HGT)</term> is the introduction of genetic material from one species to another species by mechanisms other than the vertical transmission from parent(s) to offspring. These transfers allow even distantly related species to share genes, influencing their phenotypes. It is thought that HGT is more prevalent in prokaryotes, but that only about 2% of the prokaryotic genome may be transferred by this process. Some researchers believe such estimates are premature:  the actual importance of HGT to evolutionary processes must be viewed as a work in progress. As the phenomenon is investigated more thoroughly, it may be revealed to be more common. Many scientists believe that HGT and mutation appear to be (especially in prokaryotes) a significant source of genetic variation, which is the raw material for the process of natural selection. These transfers may occur between any two species that share an intimate relationship (<link target-id="tab-ch20-03-01" document=""/>).</para>
+<table id="tab-ch20-03-01" summary="">
+<tgroup cols="4">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col4" align="left">Summary of Mechanisms of Prokaryotic and Eukaryotic HGT</entry>
+</row>
+<row>
+<entry/>
+<entry>Mechanism</entry>
+<entry>Mode of Transmission</entry>
+<entry>Example</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry><emphasis effect="bold">Prokaryotes</emphasis></entry>
+<entry>transformation</entry>
+<entry>DNA uptake</entry>
+<entry>many prokaryotes</entry>
+</row>
+<row>
+<entry/>
+<entry>transduction</entry>
+<entry>bacteriophage (virus)</entry>
+<entry>bacteria</entry>
+</row>
+<row>
+<entry/>
+<entry>conjugation</entry>
+<entry>pilus</entry>
+<entry>many prokaryotes</entry>
+</row>
+<row>
+<entry/>
+<entry>gene transfer agents</entry>
+<entry>phage-like particles</entry>
+<entry>purple non-sulfur bacteria</entry>
+</row>
+<row>
+<entry><emphasis effect="bold">Eukaryotes</emphasis></entry>
+<entry>from food organisms</entry>
+<entry>unknown</entry>
+<entry>aphid</entry>
+</row>
+<row>
+<entry/>
+<entry>jumping genes</entry>
+<entry>transposons</entry>
+<entry>rice and millet plants</entry>
+</row>
+<row>
+<entry/>
+<entry>epiphytes/parasites</entry>
+<entry>unknown</entry>
+<entry>yew tree fungi</entry>
+</row>
+<row>
+<entry/>
+<entry>from viral infections</entry>
+<entry/>
+<entry/>
+</row>		
+</tbody>
+</tgroup>
+</table>
+<section id="fs-idm14127536">
+<title>HGT in Prokaryotes</title>
+<para id="fs-idm16767680">The mechanism of HGT has been shown to be quite common in the prokaryotic domains of Bacteria and Archaea, significantly changing the way their evolution is viewed. The majority of evolutionary models, such as in the Endosymbiont Theory, propose that eukaryotes descended from multiple prokaryotes, which makes HGT all the more important to understanding the phylogenetic relationships of all extant and extinct species.</para>
+<para id="fs-idm12487888">The fact that genes are transferred among common bacteria is well known to microbiology students. These gene transfers between species are the major mechanism whereby bacteria acquire resistance to antibiotics. Classically, this type of transfer has been thought to occur by three different mechanisms:</para>
+<list id="fs-idm78811632" list-type="enumerated" number-style="arabic">
+<item>Transformation: naked DNA is taken up by a bacteria</item>
+<item>Transduction: genes are transferred using a virus</item>
+<item>Conjugation: the use a hollow tube called a pilus to transfer genes between organisms</item>
+</list>
+<para id="fs-idp26893472">More recently, a fourth mechanism of gene transfer between prokaryotes has been discovered. Small, virus-like particles called <term>gene transfer agents (GTAs)</term> transfer random genomic segments from one species of prokaryote to another. GTAs have been shown to be responsible for genetic changes, sometimes at a very high frequency compared to other evolutionary processes. The first GTA was characterized in 1974 using purple, non-sulfur bacteria. These GTAs, which are thought to be bacteriophages that lost the ability to reproduce on their own, carry random pieces of DNA from one organism to another. The ability of GTAs to act with high frequency has been demonstrated in controlled studies using marine bacteria. Gene transfer events in marine prokaryotes, either by GTAs or by viruses, have been estimated to be as high as 10<sup>13</sup> per year in the Mediterranean Sea alone. GTAs and viruses are thought to be efficient HGT vehicles with a major impact on prokaryotic evolution.</para>
+<para id="fs-idm115689824">As a consequence of this modern DNA analysis, the idea that eukaryotes evolved directly from Archaea has fallen out of favor. While eukaryotes share many features that are absent in bacteria, such as the TATA box (found in the promoter region of many genes), the discovery that some eukaryotic genes were more homologous with bacterial DNA than Archaea DNA made this idea less tenable. Furthermore, the fusion of genomes from Archaea and Bacteria by endosymbiosis has been proposed as the ultimate event in eukaryotic evolution.</para>
+</section>
+<section id="fs-idm99953024">
+<title>HGT in Eukaryotes</title>
+<para id="fs-idp17402144">Although it is easy to see how prokaryotes exchange genetic material by HGT, it was initially thought that this process was absent in eukaryotes. After all, prokaryotes are but single cells exposed directly to their environment, whereas the sex cells of multicellular organisms are usually sequestered in protected parts of the body. It follows from this idea that the gene transfers between multicellular eukaryotes should be more difficult. Indeed, it is thought that this process is rarer in eukaryotes and has a much smaller evolutionary impact than in prokaryotes. In spite of this fact, HGT between distantly related organisms has been demonstrated in several eukaryotic species, and it is possible that more examples will be discovered in the future.</para>
+<para id="fs-idm39146080">In plants, gene transfer has been observed in species that cannot cross-pollinate by normal means. Transposons or &#8220;jumping genes&#8221; have been shown to transfer between rice and millet plant species. Furthermore, fungal species feeding on yew trees, from which the anti-cancer drug TAXOL&#174; is derived from the bark, have acquired the ability to make taxol themselves, a clear example of gene transfer.</para>
+<para id="fs-idm107918560">In animals, a particularly interesting example of HGT occurs within the aphid species (<link target-id="fig-ch20_03_02" document=""/>). Aphids are insects that vary in color based on carotenoid content. Carotenoids are pigments made by a variety of plants, fungi, and microbes, and they serve a variety of functions in animals, who obtain these chemicals from their food. Humans require carotenoids to synthesize vitamin A, and we obtain them by eating orange fruits and vegetables: carrots, apricots, mangoes, and sweet potatoes. On the other hand, aphids have acquired the ability to make the carotenoids on their own. According to DNA analysis, this ability is due to the transfer of fungal genes into the insect by HGT, presumably as the insect consumed fungi for food. A carotenoid enzyme called a desaturase is responsible for the red coloration seen in certain aphids, and it has been further shown that when this gene is inactivated by mutation, the aphids revert back to their more common green color (<link target-id="fig-ch20_03_02" document=""/>).</para>
+<figure id="fig-ch20_03_02"><media id="fs-idm14790256" alt="Photo a shows small, oval-shaped red aphids crawling on a leaf. Photo b shows green aphids.">
+<image mime-type="image/jpg" src="Figure_20_03_02.jpg" width="450"/>
+</media>
+<caption>(a) Red aphids get their color from red carotenoid pigment. Genes necessary to make this pigment are present in certain fungi, and scientists speculate that aphids acquired these genes through HGT after consuming fungi for food. If genes for making carotenoids are inactivated by mutation, the aphids revert back to (b) their green color. Red coloration makes the aphids a lot more conspicuous to predators, but evidence suggests that red aphids are more resistant to insecticides than green ones. Thus, red aphids may be more fit to survive in some environments than green ones. (credit a: modification of work by Benny Mazur; credit b: modification of work by Mick Talbot)</caption></figure></section>
+</section>
+<section id="fs-idp766224">
+<title>Genome Fusion and the Evolution of Eukaryotes</title>
+<para id="fs-idp89332464">Scientists believe the ultimate in HGT occurs through <term>genome fusion</term> between different species of prokaryotes when two symbiotic organisms become endosymbiotic. This occurs when one species is taken inside the cytoplasm of another species, which ultimately results in a genome consisting of genes from both the endosymbiont and the host. This mechanism is an aspect of the Endosymbiont Theory, which is accepted by a majority of biologists as the mechanism whereby eukaryotic cells obtained their mitochondria and chloroplasts. However, the role of endosymbiosis in the development of the nucleus is more controversial. Nuclear and mitochondrial DNA are thought to be of different (separate) evolutionary origin, with the mitochondrial DNA being derived from the circular genomes of bacteria that were engulfed by ancient prokaryotic cells. Mitochondrial DNA can be regarded as the smallest chromosome. Interestingly enough, mitochondrial DNA is inherited only from the mother. The mitochondrial DNA degrades in sperm when the sperm degrades in the fertilized egg or in other instances when the mitochondria located in the flagellum of the sperm fails to enter the egg.</para>
+<para id="fs-idp53484800">Within the past decade, the process of genome fusion by endosymbiosis has been proposed by James Lake of the UCLA/NASA Astrobiology Institute to be responsible for the evolution of the first eukaryotic cells (<link target-id="fig-ch20_03_03" document=""/><emphasis effect="bold">a</emphasis>). Using DNA analysis and a new mathematical algorithm called conditioned reconstruction (CR), his laboratory proposed that eukaryotic cells developed from an endosymbiotic gene fusion between two species, one an Archaea and the other a Bacteria. As mentioned, some eukaryotic genes resemble those of Archaea, whereas others resemble those from Bacteria. An endosymbiotic fusion event, such as Lake has proposed, would clearly explain this observation. On the other hand, this work is new and the CR algorithm is relatively unsubstantiated, which causes many scientists to resist this hypothesis.</para>
+<para id="fs-idp3404944">More recent work by Lake (<link target-id="fig-ch20_03_03" document=""/><emphasis effect="bold">b</emphasis>) proposes that gram-negative bacteria, which are unique within their domain in that they contain two lipid bilayer membranes, indeed resulted from an endosymbiotic fusion of archaeal and bacterial species. The double membrane would be a direct result of the endosymbiosis, with the endosymbiont picking up the second membrane from the host as it was internalized. This mechanism has also been used to explain the double membranes found in mitochondria and chloroplasts. Lake&#8217;s work is not without skepticism, and the ideas are still debated within the biological science community. In addition to Lake&#8217;s hypothesis, there are several other competing theories as to the origin of eukaryotes. How did the eukaryotic nucleus evolve? One theory is that the prokaryotic cells produced an additional membrane that surrounded the bacterial chromosome. Some bacteria have the DNA enclosed by two membranes; however, there is no evidence of a nucleolus or nuclear pores. Other proteobacteria also have membrane-bound chromosomes. If the eukaryotic nucleus evolved this way, we would expect one of the two types of prokaryotes to be more closely related to eukaryotes.</para>
+<figure id="fig-ch20_03_03">
+<media id="fs-idp26957504" alt="Part A shows a eukaryotic cell. The illustration indicates that, within the nucleus, operational genes were inherited from an ancestral Eubacteria, and informational genes were inherited from an ancestral Archaebacteria. Part B indicates that the outer membrane of Gram-negative bacteria is derived from Archaea, and the inner membrane is derived from Gram-positive bacteria.">
+<image mime-type="image/jpg" src="Figure_20_03_03.jpg" width="320"/>
+</media>
+<caption>The theory that mitochondria and chloroplasts are endosymbiotic in origin is now widely accepted. More controversial is the proposal that (a) the eukaryotic nucleus resulted from the fusion of archaeal and bacterial genomes, and that (b) Gram-negative bacteria, which have two membranes, resulted from the fusion of Archaea and Gram-positive bacteria, each of which has a single membrane.</caption>
+</figure>
+<para id="fs-idm3600320">The <term>nucleus-first</term> hypothesis proposes that the nucleus evolved in prokaryotes first (<link target-id="fig-ch20_03_04" document=""/><emphasis effect="bold">a</emphasis>), followed by a later fusion of the new eukaryote with bacteria that became mitochondria. The <term>mitochondria-first</term> hypothesis proposes that mitochondria were first established in a prokaryotic host (<link target-id="fig-ch20_03_04" document=""/><emphasis effect="bold">b</emphasis>), which subsequently acquired a nucleus, by fusion or other mechanisms, to become the first eukaryotic cell. Most interestingly, the <term>eukaryote-first</term> hypothesis proposes that prokaryotes actually evolved from eukaryotes by losing genes and complexity (<link target-id="fig-ch20_03_04" document=""/><emphasis effect="bold">c</emphasis>). All of these hypotheses are testable. Only time and more experimentation will determine which hypothesis is best supported by data.</para>
+<figure id="fig-ch20_03_04">
+<media id="fs-idp90022272" alt=" Part A shows the nucleus-first hypothesis. According to this hypothesis, a primary endosymbiotic event resulted in an ancestral eukaryotic cell acquiring a nucleus, and a secondary endosymbiotic event resulted in the acquisition of a mitochondrion. Part B shows the mitochondrion-first hypothesis. According to this hypothesis, the mitochondrion was acquired before the nucleus, but both were acquired by endosymbiosis. Part C shows the eukaryote-first hypothesis. According to this hypothesis, prokaryotes evolved from eukaryotic cells that lost their nuclei and organelles.">
+<image mime-type="image/jpg" src="Figure_20_03_04.jpg" width="400"/>
+</media>
+<caption>Three alternate hypotheses of eukaryotic and prokaryotic evolution are (a) the nucleus-first hypothesis, (b) the mitochondrion-first hypothesis, and (c) the eukaryote-first hypothesis.</caption>
+</figure>
+</section>
+<section id="fs-idm112750352">
+<title>Web and Network Models</title>
+<para id="fs-idm98464208">The recognition of the importance of HGT, especially in the evolution of prokaryotes, has caused some to propose abandoning the classic &#8220;tree of life&#8221; model. In 1999, W. Ford Doolittle proposed a phylogenetic model that resembles a web or a network more than a tree. The hypothesis is that eukaryotes evolved not from a single prokaryotic ancestor, but from a pool of many species that were sharing genes by HGT mechanisms. As shown in <link target-id="fig-ch20_03_05" document=""/><emphasis effect="bold">a</emphasis>, some individual prokaryotes were responsible for transferring the bacteria that caused mitochondrial development to the new eukaryotes, whereas other species transferred the bacteria that gave rise to chloroplasts. This model is often called the &#8220;<term>web of life</term>.&#8221; In an effort to save the tree analogy, some have proposed using the <emphasis effect="italics">Ficus</emphasis> tree (<link target-id="fig-ch20_03_05" document=""/><emphasis effect="bold">b</emphasis>) with its multiple trunks as a phylogenetic to represent a diminished evolutionary role for HGT.</para><figure id="fig-ch20_03_05"><media id="fs-idp28268800" alt=" Illustration (a) shows the web of life. The base of this web is an ancestral community of primitive cells. This pool of ancestral cells gave rise to the three domains of life. However, because of gene transfer and endosymbiosis events, connections occur between the branches at various points. Thus, eukaryotic chloroplasts and mitochondria originated in bacterial lineages, and archaea and bacteria have exchanged genes.">
+<image mime-type="image/jpg" src="Figure_20_03_05.jpg" width="500"/>
+</media>
+
+<caption>In the (a) phylogenetic model proposed by W. Ford Doolittle, the &#8220;tree of life&#8221; arose from a community of ancestral cells, has multiple trunks, and has connections between branches where horizontal gene transfer has occurred. Visually, this concept is better represented by (b) the multi-trunked <emphasis effect="bold">Ficus</emphasis> than by the single trunk of the oak similar to the tree drawn by Darwin <link target-id="fig-ch20_03_01" document=""/>. (credit b: modification of work by "psyberartist"/Flickr)</caption></figure></section>
+<section id="fs-idm111127392">
+<title>Ring of Life Models</title>
+<para id="fs-idm57170032">Others have proposed abandoning any tree-like model of phylogeny in favor of a ring structure, the so-called &#8220;<term>ring of life</term>&#8221; (<link target-id="fig-ch20_03_06" document=""/>); a phylogenetic model where all three domains of life evolved from a pool of primitive prokaryotes. Lake, again using the conditioned reconstruction algorithm, proposes a ring-like model in which species of all three domains&#8212;Archaea, Bacteria, and Eukarya&#8212;evolved from a single pool of gene-swapping prokaryotes. His laboratory proposes that this structure is the best fit for data from extensive DNA analyses performed in his laboratory, and that the ring model is the only one that adequately takes HGT and genomic fusion into account. However, other phylogeneticists remain highly skeptical of this model.</para>
+<figure id="fig-ch20_03_06">
+<media id="fs-idm85890208" alt="Illustration shows a ring with the words &#8220;pool of primitive prokaryotes&#8221; in the middle. Three arrows point outward from the ring, pointing at the three domains, Bacteria, Archaea, and Eukarya, indicating that all three domains arose from a common pool of prokaryotes.">
+<image mime-type="image/jpg" src="Figure_20_03_06.jpg" width="350"/>
+</media>
+<caption>According to the &#8220;ring of life&#8221; phylogenetic model, the three domains of life evolved from a pool of primitive prokaryotes.</caption>
+</figure>
+<para id="fs-idm18766656">In summary, the &#8220;tree of life&#8221; model proposed by Darwin must be modified to include HGT. Does this mean abandoning the tree model completely? Even Lake argues that all attempts should be made to discover some modification of the tree model to allow it to accurately fit his data, and only the inability to do so will sway people toward his ring proposal.</para>
+<para id="fs-idp25848032">This doesn&#8217;t mean a tree, web, or a ring will correlate completely to an accurate description of phylogenetic relationships of life. A consequence of the new thinking about phylogenetic models is the idea that Darwin&#8217;s original conception of the phylogenetic tree is too simple, but made sense based on what was known at the time. However, the search for a more useful model moves on: each model serving as hypotheses to be tested with the possibility of developing new models. This is how science advances. These models are used as visualizations to help construct hypothetical evolutionary relationships and understand the massive amount of data being analyzed.</para>
+</section>
+<section id="fs-idm133664448" class="summary">
+<title>Section Summary</title><para id="fs-idm46136144">The phylogenetic tree, first used by Darwin, is the classic &#8220;tree of life&#8221; model describing phylogenetic relationships among species, and the most common model used today. New ideas about HGT and genome fusion have caused some to suggest revising the model to resemble webs or rings.</para>
+</section>
+<section id="fs-idm51408624" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm11427024">
+<problem id="fs-idm41081984">
+<para id="fs-idp68782480">The transfer of genes by a mechanism not involving asexual reproduction is called:</para>
+<list id="fs-idm3721584" list-type="enumerated" number-style="lower-alpha">
+<item>meiosis</item>
+<item>web of life</item>
+<item>horizontal gene transfer</item>
+<item>gene fusion</item>
+</list>
+</problem>
+<solution id="fs-idp26459776">
+<label/>
+<para id="fs-idm121622064">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm62610816">
+<problem id="fs-idm60708672">
+<para id="fs-idm106023296">Particles that transfer genetic material from one species to another, especially in marine prokaryotes:</para>
+<list id="fs-idm41159616" list-type="enumerated" number-style="lower-alpha">
+<item>horizontal gene transfer</item>
+<item>lateral gene transfer</item>
+<item>genome fusion device</item>
+<item>gene transfer agents</item>
+</list>
+</problem>
+<solution id="fs-idm59530192">
+<label/>
+<para id="fs-idm71755376">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idp131254784">
+<problem id="fs-idm32593968">
+<para id="fs-idm21201808">What does the trunk of the classic phylogenetic tree represent?</para>
+<list id="fs-idm38096752" list-type="enumerated" number-style="lower-alpha">
+<item>single common ancestor</item>
+<item>pool of ancestral organisms</item>
+<item>new species</item>
+<item>old species</item>
+</list>
+</problem>
+<solution id="fs-idm14080560">
+<label/>
+<para id="fs-idp145627360">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm63059136">
+<problem id="fs-idm49537600">
+<para id="fs-idm48545312">Which phylogenetic model proposes that all three domains of life evolved from a pool of primitive prokaryotes?</para>
+<list id="fs-idm190880" list-type="enumerated" number-style="lower-alpha">
+<item>tree of life</item>
+<item>web of life</item>
+<item>ring of life</item>
+<item>network model</item>
+</list>
+</problem>
+<solution id="fs-idp2981584">
+<label/>
+<para id="fs-idp68825728">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp36397920" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm75528944">
+<problem id="fs-idm14292368">
+<para id="fs-idp4057984">Compare three different ways that eukaryotic cells may have evolved.</para>
+</problem>
+<solution id="fs-idm72526704">
+<label/>
+<para id="fs-idp24608080">Some hypotheses propose that mitochondria were acquired first, followed by the development of the nucleus. Others propose that the nucleus evolved first and that this new eukaryotic cell later acquired the mitochondria. Still others hypothesize that prokaryotes descended from eukaryotes by the loss of genes and complexity.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm35642672">
+<problem id="fs-idm35617216">
+<para id="fs-idm77091008">Describe how aphids acquired the ability to change color.</para>
+</problem>
+<solution id="fs-idm75075072">
+<label/>
+<para id="fs-idm179829328">Aphids have acquired the ability to make the carotenoids on their own. DNA analysis has demonstrated that this ability is due to the transfer of fungal genes into the insect by HGT, presumably as the insect consumed fungi for food.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idp53549872">
+<term>eukaryote-first hypothesis</term> <meaning id="fs-idp38023840">proposal that prokaryotes evolved from eukaryotes</meaning>
+</definition>
+<definition id="fs-idp28881728">
+<term>gene transfer agent (GTA)</term> <meaning id="fs-idm57846704">bacteriophage-like particle that transfers random genomic segments from one species of prokaryote to another</meaning>
+</definition>
+<definition id="fs-idm68301008">
+<term>genome fusion</term> <meaning id="fs-idp66940608">fusion of two prokaryotic genomes, presumably by endosymbiosis</meaning>
+</definition>
+<definition id="fs-idp68760976">
+<term>horizontal gene transfer (HGT)</term> <meaning id="fs-idm12326208">(also, lateral gene transfer) transfer of genes between unrelated species</meaning>
+</definition>
+<definition id="fs-idp27897680">
+<term>mitochondria-first hypothesis</term> <meaning id="fs-idm118647248">proposal that prokaryotes acquired a mitochondrion first, followed by nuclear development</meaning>
+</definition>
+<definition id="fs-idp66848096">
+<term>nucleus-first hypothesis</term> <meaning id="fs-idm108519312">proposal that prokaryotes acquired a nucleus first, and then the mitochondrion</meaning>
+</definition>
+<definition id="fs-idm18689456">
+<term>ring of life</term> <meaning id="fs-idm99338832">phylogenetic model where all three domains of life evolved from a pool of primitive prokaryotes</meaning>
+</definition>
+<definition id="fs-idp26484048">
+<term>web of life</term> <meaning id="fs-idm39983808">phylogenetic model that attempts to incorporate the effects of horizontal gene transfer on evolution</meaning>
+</definition>
+</glossary>
+</document>

@@ -1,0 +1,135 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44612/latest/</md:content-url>
+  <md:content-id>m44612</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.3</md:version>
+  <md:created>2012/08/23 14:24:14 -0500</md:created>
+  <md:revised>2013/04/26 16:07:34.652 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>alveolate</md:keyword>
+    <md:keyword>Amoeba</md:keyword>
+    <md:keyword>Amoebozoa</md:keyword>
+    <md:keyword>apicomplexan</md:keyword>
+    <md:keyword>Archaeplastida</md:keyword>
+    <md:keyword>biological carbon pump</md:keyword>
+    <md:keyword>bioluminescence</md:keyword>
+    <md:keyword>brown algae</md:keyword>
+    <md:keyword>chlorarachniophytes</md:keyword>
+    <md:keyword>chlorophyte</md:keyword>
+    <md:keyword>chloroplast</md:keyword>
+    <md:keyword>Chromalveolata</md:keyword>
+    <md:keyword>ciliate</md:keyword>
+    <md:keyword>contractile vacuole</md:keyword>
+    <md:keyword>cytoplasmic streaming</md:keyword>
+    <md:keyword>decomposition</md:keyword>
+    <md:keyword>diatom</md:keyword>
+    <md:keyword>dinoflagellate</md:keyword>
+    <md:keyword>diplomonad</md:keyword>
+    <md:keyword>endosymbiosis</md:keyword>
+    <md:keyword>eukaryote evolution</md:keyword>
+    <md:keyword>eukaryote origin</md:keyword>
+    <md:keyword>Excavata</md:keyword>
+    <md:keyword>foram</md:keyword>
+    <md:keyword>foraminiferan</md:keyword>
+    <md:keyword>green algae</md:keyword>
+    <md:keyword>hydrogenosome</md:keyword>
+    <md:keyword>kinetoplast</md:keyword>
+    <md:keyword>Laminaria</md:keyword>
+    <md:keyword>mitochondria</md:keyword>
+    <md:keyword>mitosome</md:keyword>
+    <md:keyword>mixotroph</md:keyword>
+    <md:keyword>oomycete</md:keyword>
+    <md:keyword>Opisthokonta</md:keyword>
+    <md:keyword>parabasalid</md:keyword>
+    <md:keyword>Paramecium</md:keyword>
+    <md:keyword>parasite</md:keyword>
+    <md:keyword>pathogen</md:keyword>
+    <md:keyword>pellicle</md:keyword>
+    <md:keyword>photoautotroph</md:keyword>
+    <md:keyword>plankton</md:keyword>
+    <md:keyword>plant parasite</md:keyword>
+    <md:keyword>Plasmodium</md:keyword>
+    <md:keyword>plastid</md:keyword>
+    <md:keyword>protist</md:keyword>
+    <md:keyword>Protista</md:keyword>
+    <md:keyword>protist cell structure</md:keyword>
+    <md:keyword>protist diversity</md:keyword>
+    <md:keyword>protist ecology</md:keyword>
+    <md:keyword>protist group</md:keyword>
+    <md:keyword>protist habitat</md:keyword>
+    <md:keyword>protist life cycle</md:keyword>
+    <md:keyword>protist metabolism</md:keyword>
+    <md:keyword>protist motility</md:keyword>
+    <md:keyword>protist supergroup</md:keyword>
+    <md:keyword>radiolarian</md:keyword>
+    <md:keyword>raphe</md:keyword>
+    <md:keyword>red algae</md:keyword>
+    <md:keyword>Rhizaria</md:keyword>
+    <md:keyword>rhodophyte</md:keyword>
+    <md:keyword>secondary endosymbiosis</md:keyword>
+    <md:keyword>slime mold</md:keyword>
+    <md:keyword>Stentor</md:keyword>
+    <md:keyword>stramenopile</md:keyword>
+    <md:keyword>trophic diversity</md:keyword>
+    <md:keyword>trypanosome</md:keyword>
+    <md:keyword>water mold</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<?cnx.eoc class="summary" title="Sections Summary"?>
+<?cnx.eoc class="art-exercise" title="Art Connections"?>
+<?cnx.eoc class="multiple-choice" title="Multiple Choice"?>
+<?cnx.eoc class="free-response" title="Free Response"?>
+
+<figure id="fig-ch23_00_01" class="splash"><media id="fs-idp20306320" alt="Part a is a micrograph of a round, transparent single-celled organism with long thin spines. Part b is a micrograph of an oval, transparent organism with ridges running along its length. The nucleus is visible as a large, round sphere. Cilia extend from the surface of the organism. Part c is an underwater photo of a kelp forest growing from the seabed.">
+<image mime-type="image/jpg" src="Figure_B23_00_01abc.jpg" width="600"/>
+</media>
+<caption>Protists range from the microscopic, single-celled (a) <emphasis effect="italics">Acanthocystis turfacea</emphasis> and the (b) ciliate <emphasis effect="italics">Tetrahymena thermophila</emphasis>, both visualized here using light microscopy, to the enormous, multicellular (c) kelps (Chromalveolata) that extend for hundreds of feet in underwater &#8220;forests.&#8221; (credit a: modification of work by Yuiuji Tsukii; credit b: modification of work by Richard Robinson, Public Library of Science; credit c: modification of work by Kip Evans, NOAA; scale-bar data from Matt Russell)</caption></figure><para id="fs-idm25501744">Humans have been familiar with macroscopic organisms (organisms big enough to see with the unaided eye) since before there was a written history, and it is likely that most cultures distinguished between animals and land plants, and most probably included the macroscopic fungi as plants. Therefore, it became an interesting challenge to deal with the world of microorganisms once microscopes were developed a few centuries ago. Many different naming schemes were used over the last couple of centuries, but it has become the most common practice to refer to eukaryotes that are not land plants, animals, or fungi as protists.</para>
+<para id="fs-idm21563504">This name was first suggested by Ernst Haeckel in the late nineteenth century. It has been applied in many contexts and has been formally used to represent a kingdom-level taxon called Protista. However, many modern systematists (biologists who study the relationships among organisms) are beginning to shy away from the idea of formal ranks such as kingdom and phylum. Instead, they are naming taxa as groups of organisms thought to include all the descendants of a last common ancestor (monophyletic group). During the past two decades, the field of molecular genetics has demonstrated that some protists are more related to animals, plants, or fungi than they are to other protists. Therefore,  not including animals, plants and fungi make the kingdom Protista a paraphyletic group, or one that does not include all descendents of its common ancestor. For this reason, protist lineages originally classified into the kingdom Protista continue to be examined and debated. In the meantime, the term &#8220;protist&#8221; still is used informally to describe this tremendously diverse group of eukaryotes.</para><para id="fs-idp19934576">Most protists are microscopic, unicellular organisms that are abundant in soil, freshwater, brackish, and marine environments. They are also common in the digestive tracts of animals and in the vascular tissues of plants. Others invade the cells of other protists, animals, and plants. Not all protists are microscopic. Some have huge, macroscopic cells, such as the plasmodia (giant amoebae) of myxomycete slime molds or the marine green alga <emphasis effect="italics">Caulerpa</emphasis>, which can have single cells that can be several meters in size. Some protists are multicellular, such as the red, green, and brown seaweeds. It is among the protists that one finds the wealth of ways that organisms can grow.</para>
+    </content>
+</document>

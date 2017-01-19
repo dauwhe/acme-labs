@@ -1,0 +1,136 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44883/latest/</md:content-url>
+  <md:content-id>m44883</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.2</md:version>
+  <md:created>2012/08/23 16:35:09 -0500</md:created>
+  <md:revised>2013/02/26 13:06:28.256 US/Central</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>acid rain</md:keyword>
+    <md:keyword>analytical model</md:keyword>
+    <md:keyword>apex consumer</md:keyword>
+    <md:keyword>assimilation</md:keyword>
+    <md:keyword>autotroph</md:keyword>
+    <md:keyword>biogeochemical cycle</md:keyword>
+    <md:keyword>biological carbon cycle</md:keyword>
+    <md:keyword>biological magnification</md:keyword>
+    <md:keyword>biomagnification</md:keyword>
+    <md:keyword>biomass</md:keyword>
+    <md:keyword>carbon cycle</md:keyword>
+    <md:keyword>chemoautotroph</md:keyword>
+    <md:keyword>chesapeake bay ecosystem</md:keyword>
+    <md:keyword>conceptual model</md:keyword>
+    <md:keyword>dead zone</md:keyword>
+    <md:keyword>detrital food web</md:keyword>
+    <md:keyword>ecological efficiency</md:keyword>
+    <md:keyword>ecological pyramid</md:keyword>
+    <md:keyword>ecological resilience</md:keyword>
+    <md:keyword>ecological resistance</md:keyword>
+    <md:keyword>ecology of ecosystems</md:keyword>
+    <md:keyword>ecosystem</md:keyword>
+    <md:keyword>ecosystem dynamics</md:keyword>
+    <md:keyword>ecosystem ecology</md:keyword>
+    <md:keyword>ecosystem energy</md:keyword>
+    <md:keyword>ecosystem energy flow</md:keyword>
+    <md:keyword>ecosystem energy model</md:keyword>
+    <md:keyword>ecosystem experiment</md:keyword>
+    <md:keyword>ecosystem model</md:keyword>
+    <md:keyword>ecosystem modeling</md:keyword>
+    <md:keyword>ecosystem structure</md:keyword>
+    <md:keyword>ecosystems</md:keyword>
+    <md:keyword>eltonian pyramid</md:keyword>
+    <md:keyword>equilibrium</md:keyword>
+    <md:keyword>eutrophication</md:keyword>
+    <md:keyword>fallout</md:keyword>
+    <md:keyword>food chain</md:keyword>
+    <md:keyword>food chain energy</md:keyword>
+    <md:keyword>food web</md:keyword>
+    <md:keyword>food web energy</md:keyword>
+    <md:keyword>geological carbon cycle</md:keyword>
+    <md:keyword>grazing food web</md:keyword>
+    <md:keyword>gross primary productivity</md:keyword>
+    <md:keyword>heteroautotroph</md:keyword>
+    <md:keyword>holistic ecosystem model</md:keyword>
+    <md:keyword>hydrologic cycle</md:keyword>
+    <md:keyword>mesocosm</md:keyword>
+    <md:keyword>microcosm</md:keyword>
+    <md:keyword>net consumer productivity</md:keyword>
+    <md:keyword>net primary productivity</md:keyword>
+    <md:keyword>net production efficiency</md:keyword>
+    <md:keyword>nitrogen cycle</md:keyword>
+    <md:keyword>non-renewable resource</md:keyword>
+    <md:keyword>phosphorus cycle</md:keyword>
+    <md:keyword>photoautotroph</md:keyword>
+    <md:keyword>primary consumer</md:keyword>
+    <md:keyword>primary producer</md:keyword>
+    <md:keyword>residence time</md:keyword>
+    <md:keyword>secondary consumer</md:keyword>
+    <md:keyword>simulation model</md:keyword>
+    <md:keyword>subduction</md:keyword>
+    <md:keyword>sulfur cycle</md:keyword>
+    <md:keyword>tertiary consumer</md:keyword>
+    <md:keyword>trophic level</md:keyword>
+    <md:keyword>trophic level energy</md:keyword>
+    <md:keyword>trophic level transfer efficiency</md:keyword>
+    <md:keyword>types of ecosystems</md:keyword>
+    <md:keyword>water cycle</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<?cnx.eoc class="summary" title="Sections Summary"?>
+<?cnx.eoc class="art-exercise" title="Art Connections"?>
+<?cnx.eoc class="multiple-choice" title="Multiple Choice"?>
+<?cnx.eoc class="free-response" title="Free Response"?>
+
+<figure id="fig-ch46_00_01" class="splash"><media id="fs-idm37084832" alt="Left photo shows a long, straight highway in the middle of a desert. Right photo shows a mouse.">
+<image mime-type="image/jpg" src="Figure_46_00_00.jpg" width="600"/>
+</media>
+<caption>In the southwestern United States, rainy weather causes an increase in production of pinyon nuts, causing the deer mouse population to explode. Deer mice may carry a virus called <emphasis effect="italics">Sin Nombre</emphasis> (a hantavirus) that causes respiratory disease in humans and has a high fatality rate. In 1992&#8211;1993, wet <emphasis effect="italics">El Ni&#241;o</emphasis> weather caused a <emphasis effect="italics">Sin Nombre</emphasis> epidemic. Navajo healers, who were aware of the link between this disease and weather, predicted the outbreak. (credit "highway": modification of work by Phillip Capper; credit "mouse": modification of work by USFWS)</caption></figure><para id="fs-idp195322288">In 1993, an interesting example of ecosystem dynamics occurred when a rare lung disease struck inhabitants of the southwestern United States. This disease had an alarming rate of fatalities, killing more than half of early patients, many of whom were Native Americans. These formerly healthy young adults died from complete respiratory failure. The disease was unknown, and the Centers for Disease Control (CDC), the United States government agency responsible for managing potential epidemics, was brought in to investigate. The scientists could have learned about the disease had they known to talk with the Navajo healers who lived in the area and who had observed the connection between rainfall and mice populations, thereby predicting the 1993 outbreak.</para>
+<para id="fs-idm17346944">The cause of the disease, determined within a few weeks by the CDC investigators, was the hantavirus known as <emphasis effect="italics">Sin Nombre</emphasis>, the virus with &#8220;no name.&#8221; With insights from traditional Navajo medicine, scientists were able to characterize the disease rapidly and institute effective health measures to prevent its spread. This example illustrates the importance of understanding the complexities of ecosystems and how they respond to changes in the environment.</para>
+</content>
+</document>

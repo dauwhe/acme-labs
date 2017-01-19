@@ -1,0 +1,366 @@
+<?xml version="1.0"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Reproductive Development and Structure</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml"
+          mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44722/latest/</md:content-url>
+  <md:content-id>m44722</md:content-id>
+  <md:title>Reproductive Development and Structure</md:title>
+  <md:version>1.9</md:version>
+  <md:created>2012/08/23 15:02:52 -0500</md:created>
+  <md:revised>2013/06/24 11:00:54.293 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/" />
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>androecium</md:keyword>
+    <md:keyword>angiosperm</md:keyword>
+    <md:keyword>angiosperm reproduction</md:keyword>
+    <md:keyword>angiosperm sexual reproduction</md:keyword>
+    <md:keyword>antipodal</md:keyword>
+    <md:keyword>complete flower</md:keyword>
+    <md:keyword>exine</md:keyword>
+    <md:keyword>female gamete</md:keyword>
+    <md:keyword>female gametophyte</md:keyword>
+    <md:keyword>flower reproduction</md:keyword>
+    <md:keyword>flower structure</md:keyword>
+    <md:keyword>gymnosperm reproduction</md:keyword>
+    <md:keyword>gymnosperm sexual reproduction</md:keyword>
+    <md:keyword>intine</md:keyword>
+    <md:keyword>male gametophyte</md:keyword>
+    <md:keyword>megasporangium</md:keyword>
+    <md:keyword>micropyle</md:keyword>
+    <md:keyword>microsporangium</md:keyword>
+    <md:keyword>microsporophyll</md:keyword>
+    <md:keyword>perianth</md:keyword>
+    <md:keyword>plant lifecycle</md:keyword>
+    <md:keyword>plant reproduction</md:keyword>
+    <md:keyword>plant reproductive development</md:keyword>
+    <md:keyword>plant reproductive process</md:keyword>
+    <md:keyword>plant reproductive structure</md:keyword>
+    <md:keyword>plant sexual reproduction</md:keyword>
+    <md:keyword>polar body</md:keyword>
+    <md:keyword>polar nuclei</md:keyword>
+    <md:keyword>synergid</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the two stages of a plant’s lifecycle </item>
+<item>Compare and contrast male and female gametophytes and explain how they form in angiosperms</item>
+<item>Describe the reproductive structures of a plant</item>
+<item>Describe the components of a complete flower </item>
+<item>Describe the development of microsporangium and megasporangium in gymnosperms</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idp12633056">Sexual reproduction takes place with slight variations in different groups of plants. Plants have two distinct stages in their lifecycle: the gametophyte stage and the sporophyte stage. The haploid <term>gametophyte</term> produces the male and female gametes by mitosis in distinct multicellular structures. Fusion of the male and females gametes forms the diploid zygote, which develops into the <term>sporophyte</term>. After reaching maturity, the diploid sporophyte produces spores by meiosis, which in turn divide by mitosis to produce the haploid gametophyte. The new gametophyte produces gametes, and the cycle continues. This is the alternation of generations, and is typical of plant reproduction (<link target-id="fig-ch32_01_01" document=""/>).</para>
+<figure id="fig-ch32_01_01"><media id="fs-idp30472816" alt=" Illustration shows the life cycle of angiosperms, which includes a microgametophyte stage and a megagametophyte stage. The life cycle begins with the fusion of egg and sperm to form a zygote. The zygote undergoes mitosis, resulting in a male microsporophyte or a female megasporophyte. The microsporophyte has a cluster of cells called a microsporangium, and the megasporophyte has a cluster of cells called a megasporangium. Through meiosis, the microsporangium forms microspores, and the megasporangium forms megaspores. Both microspores and megaspores undergo mitosis, forming the microgametophyte and megagametophyte, respectively. Within the microgametophyte, the fusion of egg and sperm completes the cycle.">
+<image mime-type="image/jpg" src="Figure_32_01_01.jpg" width="420"/>
+</media>
+
+<caption>The alternation of generations in angiosperms is depicted in this diagram. (credit: modification of work by Peter Coxhead)</caption></figure><para id="fs-idp118765184">The life cycle of higher plants is dominated by the sporophyte stage, with the gametophyte borne on the sporophyte. In ferns, the gametophyte is free-living and very distinct in structure from the diploid sporophyte. In bryophytes, such as mosses, the haploid gametophyte is more developed than the sporophyte.</para><para id="fs-idm128926864">During the vegetative phase of growth, plants increase in size and produce a shoot system and a root system. As they enter the reproductive phase, some of the branches start to bear flowers. Many flowers are borne singly, whereas some are borne in clusters. The flower is borne on a stalk known as a receptacle. Flower shape, color, and size are unique to each species, and are often used by taxonomists to classify plants.</para><section id="fs-idp12182032">
+<title>Sexual Reproduction in Angiosperms</title>
+<para id="fs-idm143123984">The lifecycle of angiosperms follows the alternation of generations explained previously. The haploid gametophyte alternates with the diploid sporophyte during the sexual reproduction process of angiosperms. Flowers contain the plant’s reproductive structures.</para>
+<section id="fs-idm128616016">
+<title>Flower Structure</title>
+<para id="fs-idm123612080">A typical flower has four main parts—or whorls—known as the calyx, corolla, androecium, and gynoecium (<link target-id="fig-ch32_01_02" document=""/>). The outermost whorl of the flower has green, leafy structures known as sepals. The sepals, collectively called the calyx, help to protect the unopened bud. The second whorl is comprised of petals—usually, brightly colored—collectively called the corolla. The number of sepals and petals varies depending on whether the plant is a monocot or dicot. In monocots, petals usually number three or multiples of three; in dicots, the number of petals is four or five, or multiples of four and five. Together, the calyx and corolla are known as the <term>perianth</term>. The third whorl contains the male reproductive structures and is known as the androecium. The <term>androecium</term> has stamens with anthers that contain the microsporangia. The innermost group of structures in the flower is the <term>gynoecium</term>, or the female reproductive component(s). The carpel is the individual unit of the gynoecium and has a stigma, style, and ovary. A flower may have one or multiple carpels.</para><note id="fs-idm70503296" class="art-connection"><label/><title>Art Connection</title>
+<para id="fs-idm50682544"><figure id="fig-ch32_01_02"><media id="fs-idm59637040" alt=" Illustration shows parts of a flower, which is called the perianth. The corolla is composed of petals, and the calyx is composed of sepals. At the center of the perianth is a vase-like structure called the carpel. A flower may have one or more carpels, but the example shown has only one. The narrow neck of the carpel, called the style, widens into a flat stigma at the top. The ovary is the wide part of the carpel. Ovules, or megasporangia, are clusters of pods in the middle of the ovary. The androecium is composed of stamens which cluster around the carpel. The stamen consists a long, stalk-like filament with an anther at the end. The anther shown is tri-lobed. Each lobe,  called a microsporangium, is filled with pollen.">
+<image mime-type="image/png" src="Figure_32_01_02.png" width="380"/>
+</media>
+
+<caption>The four main parts of the flower are the calyx, corolla, androecium, and gynoecium. The androecium is the sum of all the male reproductive organs, and the gynoecium is the sum of the female reproductive organs. (credit: modification of work by Mariana Ruiz Villareal)</caption></figure></para>
+<para id="fs-idp19765248">If the anther is missing, what type of reproductive structure will the flower be unable to produce? What term is used to describe an incomplete flower lacking the androecium? What term describes an incomplete flower lacking a gynoecium?</para><!--<solution>
+<para><link target-id="fig-ch32_01_02" document=""/> Pollen (or sperm); carpellate; staminate.</para>
+</solution>-->
+</note><para id="fs-idm146094240">If all four whorls (the calyx, corolla, androecium, and gynoecium) are present, the flower is described as complete. If any of the four parts is missing, the flower is known as incomplete. Flowers that contain both an androecium and a gynoecium are called perfect, androgynous or hermaphrodites. There are two types of incomplete flowers: staminate flowers contain only an androecium, and carpellate flowers have only a gynoecium (<link target-id="fig-ch32_01_03" document=""/>).</para>
+<figure id="fig-ch32_01_03"><media id="fs-idm65608768" alt=" Illustration shows parts of a corn plant. Pistillate flowers are tiny flowers that cluster in strands to form the tassel at the top of the plant. Pollen grains are small, teardrop-shaped structures. Carpellate flowers are clustered in the immature ear, which is covered by leaves. Silk protrudes from the tops of the leaves covering the flower. In the mature ear, the kernels form where the carpellate flowers were located.">
+<image mime-type="image/jpg" src="Figure_32_01_03.jpg" width="320"/>
+</media>
+
+<caption>The corn plant has both staminate (male) and carpellate (female) flowers. Staminate flowers, which are clustered in the tassel at the tip of the stem, produce pollen grains. Carpellate flower are clustered in the immature ears. Each strand of silk is a stigma. The corn kernels are seeds that develop on the ear after fertilization. Also shown is the lower stem and root.</caption></figure><para id="fs-idm168308816">If both male and female flowers are borne on the same plant, the species is called monoecious (meaning “one home”): examples are corn and pea. Species with male and female flowers borne on separate plants are termed dioecious, or “two homes,” examples of which are <emphasis effect="italics">C. papaya</emphasis> and <emphasis effect="italics">Cannabis</emphasis>. The ovary, which may contain one or multiple ovules, may be placed above other flower parts, which is referred to as superior; or, it may be placed below the other flower parts, referred to as inferior (<link target-id="fig-ch32_01_04" document=""/>).</para>
+<figure id="fig-ch32_01_04"><media id="fs-idm169203360" alt=" Part A shows a lily, which has an ovary above the petals. The ovary sits above the teardrop-shaped petals. Part B shows several fuchsia flowers hanging down from a stem. The ovary is below the edge of the petals.">
+<image mime-type="image/jpg" src="Figure_32_01_04ab.jpg" width="420"/>
+</media>
+
+<caption>The (a) lily is a superior flower, which has the ovary above the other flower parts. (b) Fuchsia is an inferior flower, which has the ovary beneath other flower parts. (credit a photo: modification of work by Benjamin Zwittnig; credit b photo: modification of work by "Koshy Koshy"/Flickr)</caption></figure></section>
+<section id="fs-idm135524992">
+<title>Male Gametophyte (The Pollen Grain)</title>
+<para id="fs-idm77294320">The male gametophyte develops and reaches maturity in an immature anther. In a plant’s male reproductive organs, development of pollen takes place in a structure known as the <term>microsporangium</term> (<link target-id="fig-ch32_01_05" document=""/>). The microsporangia, which are usually bi-lobed, are pollen sacs in which the microspores develop into pollen grains. These are found in the anther, which is at the end of the stamen—the long filament that supports the anther.</para><figure id="fig-ch32_01_05"><media id="fs-idm80533456" alt=" Illustration A shows cross section of an anther, which has four lobes each containing a pollen sac, or microsporangium. Inside the pollen sac is a layer called the tapetum, and within this ring are the microspore mother cells. As the microsporangium matures, two pollen sacs merge and an opening forms between them so that the pollen can be released. Micrographs in part B show pollen sacs with a visible opening between them.">
+<image mime-type="image/jpg" src="Figure_32_01_05.jpg" width="420"/>
+</media>
+
+<caption>Shown is (a) a cross section of an anther at two developmental stages. The immature anther (top) contains four microsporangia, or pollen sacs. Each microsporangium contains hundreds of microspore mother cells that will each give rise to four pollen grains. The tapetum supports the development and maturation of the pollen grains. Upon maturation of the pollen (bottom), the pollen sac walls split open and the pollen grains (male gametophytes) are released. (b) In these scanning electron micrographs, pollen sacs are ready to burst, releasing their grains. (credit b: modification of work by Robert R. Wise; scale-bar data from Matt Russell)</caption></figure><para id="fs-idm85661264">Within the microsporangium, the microspore mother cell divides by meiosis to give rise to four microspores, each of which will ultimately form a pollen grain (<link target-id="fig-ch32_01_06" document=""/>). An inner layer of cells, known as the tapetum, provides nutrition to the developing microspores and contributes key components to the pollen wall. Mature pollen grains contain two cells: a generative cell and a pollen tube cell. The generative cell is contained within the larger pollen tube cell. Upon germination, the tube cell forms the pollen tube through which the generative cell migrates to enter the ovary. During its transit inside the pollen tube, the generative cell divides to form two male gametes (sperm cells). Upon maturity, the microsporangia burst, releasing the pollen grains from the anther.</para>
+<figure id="fig-ch32_01_06"><media id="fs-idm115792752" alt=" Illustration shows the formation of pollen from a microspore mother cell. The mother cell undergoes meiosis to form a tetrad of cells, which separate to form the pollen grains. The pollen grains undergo mitosis without cytokinesis, resulting in four mature pollen grains with two nuclei each. One is called the generative nucleus, and the other is called the pollen tube nucleus. Two projective layers form around the mature pollen grain, the inner intine and the outer exine. Micrograph shows a pollen grain, which looks like puffed wheat.">
+<image mime-type="image/jpg" src="Figure_32_01_06f.jpg" width="380"/>
+</media>
+
+<caption>Pollen develops from the microspore mother cells. The mature pollen grain is composed of two cells: the pollen tube cell and the generative cell, which is inside the tube cell. The pollen grain has two coverings: an inner layer (intine) and an outer layer (exine). The inset scanning electron micrograph shows <emphasis effect="italics">Arabidopsis lyrata</emphasis> pollen grains. (credit “pollen micrograph”: modification of work by Robert R. Wise; scale-bar data from Matt Russell)</caption></figure><para id="fs-idm40436464">Each pollen grain has two coverings: the <term>exine</term> (thicker, outer layer) and the <term>intine</term> (<link target-id="fig-ch32_01_06" document=""/>). The exine contains sporopollenin, a complex waterproofing substance supplied by the tapetal cells. Sporopollenin allows the pollen to survive under unfavorable conditions and to be carried by wind, water, or biological agents without undergoing damage.</para>
+</section>
+<section id="fs-idm65599936"><title>Female Gametophyte (The Embryo Sac)</title><para id="fs-idm27657152">While the details may vary between species, the overall development of the female gametophyte has two distinct phases. First, in the process of <term>megasporogenesis</term>, a single cell in the diploid <term>megasporangium</term>—an area of tissue in the ovules—undergoes meiosis to produce four megaspores, only one of which survives. During the second phase, <term>megagametogenesis</term>, the surviving haploid megaspore undergoes mitosis to produce an eight-nucleate, seven-cell female gametophyte, also known as the megagametophyte or embryo sac. Two of the nuclei—the <term>polar nuclei</term>—move to the equator and fuse, forming a single, diploid central cell. This central cell later fuses with a sperm to form the triploid endosperm. Three nuclei position themselves on the end of the embryo sac opposite the micropyle and develop into the <term>antipodal</term> cells, which later degenerate. The nucleus closest to the micropyle becomes the female gamete, or egg cell, and the two adjacent nuclei develop into <term>synergid</term> cells (<link target-id="fig-ch32_01_07" document=""/>). The synergids help guide the pollen tube for successful fertilization, after which they disintegrate. Once fertilization is complete, the resulting diploid zygote develops into the embryo, and the fertilized ovule forms the other tissues of the seed.</para><para id="fs-idm108103264">A double-layered integument protects the megasporangium and, later, the embryo sac. The integument will develop into the seed coat after fertilization and protect the entire seed. The ovule wall will become part of the fruit. The integuments, while protecting the megasporangium, do not enclose it completely, but leave an opening called the <term>micropyle</term>. The micropyle allows the pollen tube to enter the female gametophyte for fertilization.</para>
+<note id="fs-idm104695056" class="art-connection"><label/><title>Art Connection</title>
+<figure id="fig-ch32_01_07"><media id="fs-idm57651296" alt=" Illustration depicts the embryo sac of an angiosperm, which is egg-shaped. The narrow end, called the micropylar end, has an opening that allows pollen to enter. The other end is called the chalazal end. Three cells called antipodals are at the chalazal end. The egg cell and two other cells called synergids are at the micropylar end. Two polar nuclei are inside the central cell in the middle of the embryo sac.">
+<image mime-type="image/png" src="Figure_32_01_07.png" width="275"/>
+</media>
+
+<caption>As shown in this diagram of the embryo sac in angiosperms, the ovule is covered by integuments and has an opening called a micropyle. Inside the embryo sac are three antipodal cells, two synergids, a central cell, and the egg cell.</caption></figure><para id="fs-idm62331920">An embryo sac is missing the synergids. What specific impact would you expect this to have on fertilization?</para>
+<list id="fs-idm85461216" list-type="enumerated" number-style="lower-alpha">
+<item>The pollen tube will be unable to form.</item>
+<item>The pollen tube will form but will not be guided toward the egg.</item>
+<item>Fertilization will not occur because the synergid is the egg.</item>
+<item>Fertilization will occur but the embryo will not be able to grow.</item></list>
+<!-- <para><link target-id="fig-ch32_01_07" document=""/>B</para>-->
+</note></section></section>
+<section id="fs-idp51058768">
+<title>Sexual Reproduction in Gymnosperms</title>
+<para id="fs-idp26149360">As with angiosperms, the lifecycle of a gymnosperm is also characterized by alternation of generations. In conifers such as pines, the green leafy part of the plant is the sporophyte, and the cones contain the male and female gametophytes (<link target-id="fig-ch32_01_08" document=""/>). The female cones are larger than the male cones and are positioned towards the top of the tree; the small, male cones are located in the lower region of the tree. Because the pollen is shed and blown by the wind, this arrangement makes it difficult for a gymnosperm to self-pollinate.</para>
+<figure id="fig-ch32_01_08"><media id="fs-idm168922784" alt=" The conifer life cycle begins with a mature tree, which is called a sporophyte and is diploid (2n). The tree produces male cones in the lower branches, and female cones in the upper branches. The male cones produce pollen grains that contain two generative (sperm) nuclei and a tube nucleus. When the pollen lands on a female scale, a pollen tube grows toward the female gametophyte, which consists of an ovule containing the megaspore. Upon fertilization, a diploid zygote forms. The resulting seeds are dispersed, and grow into a mature tree, ending the cycle. Both the male and female cone are made up of rows of scales, but the male the female cone is round and wide, and the male cone is long and thin with thinner scales.">
+<image mime-type="image/png" src="Figure_32_01_08.png" width="475"/>
+</media>
+
+<caption>This image shows the life cycle of a conifer. Pollen from male cones blows up into upper branches, where it fertilizes female cones. Examples are shown of female and male cones. (credit “female”: modification of work by “Geographer”/Wikimedia Commons; credit “male”: modification of work by Roger Griffith)</caption></figure><section id="fs-idp61735184">
+<title>Male Gametophyte</title>
+<para id="fs-idm41356000">A male cone has a central axis on which bracts, a type of modified leaf, are attached. The bracts are known as <term>microsporophylls</term> (<link target-id="fig-ch32_01_09" document=""/>) and are the sites where microspores will develop. The microspores develop inside the microsporangium. Within the microsporangium, cells known as microsporocytes divide by meiosis to produce four haploid microspores. Further mitosis of the microspore produces two nuclei: the generative nucleus, and the tube nucleus. Upon maturity, the male gametophyte (pollen) is released from the male cones and is carried by the wind to land on the female cone.</para>
+<note id="fs-idm131632224" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idm128712688" alt="QR Code representing a URL">
+<image mime-type="image/png" src="pollen_release.png" width="120"/>
+</media>
+<para id="fs-idm32864256">Watch this <link window="new" url="http://openstaxcollege.org/l/pollen_release">video</link> to see a cedar releasing its pollen in the wind.</para>
+</note></section>
+<section id="fs-idm108921984">
+<title>Female Gametophyte</title>
+<para id="fs-idm127955840">The female cone also has a central axis on which bracts known as <term>megasporophylls</term> (<link target-id="fig-ch32_01_09" document=""/>) are present. In the female cone, megaspore mother cells are present in the megasporangium. The megaspore mother cell divides by meiosis to produce four haploid megaspores. One of the megaspores divides to form the multicellular female gametophyte, while the others divide to form the rest of the structure. The female gametophyte is contained within a structure called the archegonium.</para>
+<figure id="fig-ch32_01_09" class=" "><media id="fs-idp77631056" alt=" Part a shows a cross section of a male cone, which is oval with a flattened bottom. A stem-like structure runs up the middle, and oblong microsporophylls radiate from either side. Migrograph b shows a blowup of a microsphorphyll, which is filled with round pollen grains. Micrograph C shows a blowup of a pollen grain, which is oval with two lobes and resembles Mickey Mouse. Part D shows a cross section of a female cone, which is similar in shape to the male cone but with a wider central structure. Megasporophylls radiate from either side of this structure. At the base the megasprophylls are narrow, and the widen out into a roughly diamond shape. Part E shows a blowup of the megasprophyll, which has an oval ovule at its base. Part F shows a blowup of the ovule. The megaspore mother cell is at the center. An opening called a micropyle allows entry of the pollen tube from the base.">
+<image mime-type="image/jpg" src="Figure_32_01_09.jpg" width="475"/>
+</media>
+
+<caption>These series of micrographs shows male and female gymnosperm gametophytes. (a) This male cone, shown in cross section, has approximately 20 microsporophylls, each of which produces hundreds of male gametophytes (pollen grains). (b) Pollen grains are visible in this single microsporophyll. (c) This micrograph shows an individual pollen grain. (d) This cross section of a female cone shows portions of about 15 megasporophylls. (e) The ovule can be seen in this single megasporophyll. (f) Within this single ovule are the megaspore mother cell (MMC), micropyle, and a pollen grain. (credit: modification of work by Robert R. Wise; scale-bar data from Matt Russell)</caption></figure></section>
+<section id="fs-idm28890784">
+<title>Reproductive Process</title>
+<para id="fs-idm134502480">Upon landing on the female cone, the tube cell of the pollen forms the pollen tube, through which the generative cell migrates towards the female gametophyte through the micropyle. It takes approximately one year for the pollen tube to grow and migrate towards the female gametophyte. The male gametophyte containing the generative cell splits into two sperm nuclei, one of which fuses with the egg, while the other degenerates. After fertilization of the egg, the diploid zygote is formed, which divides by mitosis to form the embryo. The scales of the cones are closed during development of the seed. The seed is covered by a seed coat, which is derived from the female sporophyte. Seed development takes another one to two years. Once the seed is ready to be dispersed, the bracts of the female cones open to allow the dispersal of seed; no fruit formation takes place because gymnosperm seeds have no covering.</para></section>
+</section>
+<section id="fs-idm276946752">
+<title>Angiosperms versus Gymnosperms</title>
+<para id="fs-idm59623456">Gymnosperm reproduction differs from that of angiosperms in several ways (<link target-id="fig-ch32_01_10" document=""/>). In angiosperms, the female gametophyte exists in an enclosed structure—the ovule—which is within the ovary; in gymnosperms, the female gametophyte is present on exposed bracts of the female cone. Double fertilization is a key event in the lifecycle of angiosperms, but is completely absent in gymnosperms. The male and female gametophyte structures are present on separate male and female cones in gymnosperms, whereas in angiosperms, they are a part of the flower. Lastly, wind plays an important role in pollination in gymnosperms because pollen is blown by the wind to land on the female cones. Although many angiosperms are also wind-pollinated, animal pollination is more common.</para><figure id="fig-ch32_01_10" class=" "><media id="fs-idm63741072" alt=" Photo A shows a deciduous tree that loses its leaves in winter. Photo B shows a conifer: a tree that has needles year round.">
+<image mime-type="image/jpg" src="Figure_32_01_10ab.jpg" width="425"/>
+</media>
+
+<caption>(a) Angiosperms are flowering plants, and include grasses, herbs, shrubs and most deciduous trees, while (b) gymnosperms are conifers. Both produce seeds but have different reproductive strategies. (credit a: modification of work by Wendy Cutler; credit b: modification of work by Lews Castle UHI)</caption></figure><note id="fs-idp2440448" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idm54777632" alt="QR Code representing">
+<image mime-type="image/png" src="angiosperms.png" width="120"/>
+</media>
+<para id="fs-idm53488800">Visit this <link window="new" url="http://openstaxcollege.org/l/angiosperms">website</link> to view an animation of the double fertilization process of angiosperms.</para></note></section>
+<section id="fs-idm132005392" class="summary">
+<title>Section Summary</title><para id="fs-idm50056544">The flower contains the reproductive structures of a plant. All complete flowers contain four whorls: the calyx, corolla, androecium, and gynoecium. The stamens are made up of anthers, in which pollen grains are produced, and a supportive strand called the filament. The pollen contains two cells— a generative cell and a tube cell—and is covered by two layers called the intine and the exine. The carpels, which are the female reproductive structures, consist of the stigma, style, and ovary. The female gametophyte is formed from mitotic divisions of the megaspore, forming an eight-nuclei ovule sac. This is covered by a layer known as the integument. The integument contains an opening called the micropyle, through which the pollen tube enters the embryo sac.</para>
+<para id="fs-idm172193008">The diploid sporophyte of angiosperms and gymnosperms is the conspicuous and long-lived stage of the life cycle.  The sporophytes differentiate specialized reproductive structures called sporangia, which are dedicated to the production of spores.  The microsporangium contains microspore mother cells, which divide by meiosis to produce haploid microspores.  The microspores develop into male gametophytes that are released as pollen.  The megasporangium contains megaspore mother cells, which divide by meiosis to produce haploid megaspores.  A megaspore develops into a female gametophyte containing a haploid egg.  A new diploid sporophyte is formed when a male gamete from a pollen grain enters the ovule sac and fertilizes this egg.</para></section>
+<section id="fs-idm134497472" class="art-exercise"><title>Art Connections</title><exercise id="fs-idm128009856">
+<problem id="fs-idp18600816">
+<para id="fs-idp39695456"><link target-id="fig-ch32_01_02" document=""/> If the anther is missing, what type of reproductive structure will the flower be unable to produce? What term is used to describe a flower that is normally lacking the androecium? What term describes a flower lacking a gynoecium?</para>
+</problem>
+<solution id="fs-idm70591680">
+<label/>
+<para id="fs-idp83259648"><link target-id="fig-ch32_01_02" document=""/> Pollen (or sperm); carpellate; staminate.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp46610176">
+<problem id="fs-idm31582320">
+<para id="fs-idm109270000"><link target-id="fig-ch32_01_07" document=""/> An embryo sac is missing the synergids. What specific impact would you expect this to have on fertilization?</para>
+<list id="fs-idm162792896" list-type="enumerated" number-style="lower-alpha">
+<item>The pollen tube will be unable to form.</item>
+<item>The pollen tube will form but will not be guided toward the egg.</item>
+<item>Fertilization will not occur because the synergid is the egg.</item>
+<item>Fertilization will occur but the embryo will not be able to grow.</item>
+</list>
+</problem>
+<solution id="fs-idm27659440">
+<label/>
+<para id="fs-idm85330272"><link target-id="fig-ch32_01_07" document=""/> B: The pollen tube will form but will not be guided toward the egg.</para>
+</solution>
+</exercise>
+</section><section id="fs-idm172857680" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm85330784">
+<problem id="fs-idm179560224">
+<para id="fs-idm29970784">In a plant’s male reproductive organs, development of pollen takes place in a structure known as the ________.</para>
+<list id="fs-idm70114896" list-type="enumerated" number-style="lower-alpha">
+<item>stamen</item>
+<item>microsporangium</item>
+<item>anther</item>
+<item>tapetum</item>
+</list>
+</problem>
+<solution id="fs-idm32437776">
+<label/>
+<para id="fs-idm125554784">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm51172912">
+<problem id="fs-idm7446336">
+<para id="fs-idm48863216">The stamen consists of a long stalk called the filament that supports the ________.</para>
+<list id="fs-idp15447280" list-type="enumerated" number-style="lower-alpha">
+<item>stigma</item>
+<item>sepal</item>
+<item>style</item>
+<item>anther</item>
+</list>
+</problem>
+<solution id="fs-idm84617584">
+<label/>
+<para id="fs-idp48473104">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm164560928">
+<problem id="fs-idm48622192">
+<para id="fs-idm128713648">The ________ are collectively called the calyx.</para>
+<list id="fs-idp60533296" list-type="enumerated" number-style="lower-alpha">
+<item>sepals</item>
+<item>petals</item>
+<item>tepals</item>
+<item>stamens</item>
+</list>
+</problem>
+<solution id="fs-idm56442544">
+<label/>
+<para id="fs-idm110659888">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm42465184">
+<problem id="fs-idm9903088">
+<para id="fs-idm63625424">The pollen lands on which part of the flower?</para>
+<list id="fs-idm121449072" list-type="enumerated" number-style="lower-alpha">
+<item>stigma</item>
+<item>style</item>
+<item>ovule</item>
+<item>integument</item>
+</list>
+</problem>
+<solution id="fs-idm144399904">
+<label/>
+<para id="fs-idm27617552">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm63339936" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm85137600">
+<problem id="fs-idm107359824">
+<para id="fs-idm31513888">Describe the reproductive organs inside a flower.</para>
+</problem>
+<solution id="fs-idm38313536">
+<label/>
+<para id="fs-idm168921184">Inside the flower are the reproductive organs of the plant. The stamen is the male reproductive organ. Pollen is produced in the stamen. The carpel is the female reproductive organ. The ovary is the swollen base of the carpel where ovules are found. Not all flowers have every one of the four parts.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm40852752"><problem id="fs-idm166884544">
+<para id="fs-idm179010384">Describe the two-stage lifecycle of plants: the gametophyte stage and the sporophyte stage.</para>
+</problem>
+<solution id="fs-idm40105088">
+<label/>
+<para id="fs-idm143300912">Plants have two distinct phases in their lifecycle: the gametophyte stage and the sporophyte stage. In the gametophyte stage, when reproductive cells undergo meiosis and produce haploid cells called spores, the gametophyte stage begins. Spores divide by cell division to form plant structures of an entirely new plant. The cells in these structures or plants are haploid. Some of these cells undergo cell division and form sex cells. Fertilization, the joining of haploid sex cells, begins the sporophyte stage. Cells formed in this stage have the diploid number of chromosomes. Meiosis in some of these cells forms spores, and the cycle begins again: a process known as alternation of generations.</para>
+</solution>
+</exercise><exercise id="fs-idm134256784"><problem id="fs-idm177042752">
+<para id="fs-idm174104992">Describe the four main parts, or whorls, of a flower.</para>
+</problem>
+<solution id="fs-idm122784448">
+<label/>
+<para id="fs-idm55132656">A typical flower has four main parts, or whorls: the calyx, corolla, androecium, and gynoecium. The outermost whorl of the flower has green, leafy structures known as sepals, which are collectively called the calyx. It helps to protect the unopened bud. The second whorl is made up of brightly colored petals that are known collectively as the corolla. The third whorl is the male reproductive structure known as the androecium. The androecium has stamens, which have anthers on a stalk or filament. Pollen grains are borne on the anthers. The gynoecium is the female reproductive structure. The carpel is the individual structure of the gynoecium and has a stigma, the stalk or style, and the ovary.</para>
+</solution>
+</exercise><exercise id="fs-idm105982320"><problem id="fs-idm112176096">
+<para id="fs-idp51821392">Discuss the differences between a complete flower and an incomplete flower.</para>
+</problem>
+<solution id="fs-idp82693568">
+<label/>
+<para id="fs-idm26321472">If all four whorls of a flower are present, it is a complete flower. If any of the four parts is missing, it is known as incomplete. Flowers that contain both an androecium and gynoecium are called androgynous or hermaphrodites. Those that contain only an androecium are known as staminate flowers, and those that have only carpels are known as carpellate. If both male and female flowers are borne on the same plant, it is called monoecious, while plants with male and female flowers on separate plants are termed dioecious.</para>
+</solution>
+</exercise></section>
+</content>
+<glossary>
+<definition id="fs-idm66902784">
+<term>androecium</term> <meaning id="fs-idm107444416">sum of all the stamens in a flower</meaning>
+</definition>
+<definition id="fs-idm142498912"><term>antipodals</term> <meaning id="fs-idm164356544">the three cells away from the micropyle</meaning>
+</definition>
+<definition id="fs-idm204415440">
+<term>exine</term> <meaning id="fs-idm112430912">outermost covering of pollen</meaning>
+</definition>
+<definition id="fs-idm193989904">
+<term>gametophyte</term> <meaning id="fs-idm270800992">multicellular stage of the plant that gives rise to haploid gametes or spores</meaning>
+</definition>
+<definition id="fs-idm41961392">
+<term>gynoecium</term> <meaning id="fs-idm102047552">the sum of all the carpels in a flower</meaning>
+</definition>
+<definition id="fs-idm84331840">
+<term>intine</term> <meaning id="fs-idm117372096">inner lining of the pollen</meaning>
+</definition>
+<definition id="fs-idm309223312">
+<term>megagametogenesis</term> <meaning id="fs-idp3374816">second phase of female gametophyte development, during which the surviving haploid megaspore undergoes mitosis to produce an eight-nucleate, seven-cell female gametophyte, also known as the megagametophyte or embryo sac.</meaning>
+</definition>
+<definition id="fs-idm31511152">
+<term>megasporangium</term> <meaning id="fs-idm143562304">tissue found in the ovary that gives rise to the female gamete or egg</meaning>
+</definition>
+<definition id="fs-idm192121440">
+<term>megasporogenesis</term> <meaning id="fs-idm77757216">first phase of female gametophyte development, during which a single cell in the diploid megasporangium undergoes meiosis to produce four megaspores, only one of which survives</meaning>
+</definition>
+<definition id="fs-idm141434368">
+<term>megasporophyll</term> <meaning id="fs-idm46328560">bract (a type of modified leaf) on the central axis of a female gametophyte</meaning>
+</definition>
+<definition id="fs-idm247068400">
+<term>micropyle</term> <meaning id="fs-idm128950704">opening on the ovule sac through which the pollen tube can gain entry</meaning>
+</definition>
+<definition id="fs-idm111138752">
+<term>microsporangium</term> <meaning id="fs-idp64912672">tissue that gives rise to the microspores or the pollen grain</meaning>
+</definition>
+<definition id="fs-idm111999344">
+<term>microsporophyll</term> <meaning id="fs-idm61549904">central axis of a male cone on which bracts (a type of modified leaf) are attached</meaning>
+</definition>
+<definition id="fs-idm148920320">
+<term>perianth</term> <meaning id="fs-idm88865744">(also, petal or sepal) part of the flower consisting of the calyx and/or corolla; forms the outer envelope of the flower</meaning>
+</definition>
+<definition id="fs-idm127066112">
+<term>polar nuclei</term> <meaning id="fs-idp4056176">found in the ovule sac; fusion with one sperm cell forms the endosperm</meaning>
+</definition>
+<definition id="fs-idm112138912">
+<term>sporophyte</term> <meaning id="fs-idp13368272">multicellular diploid stage in plants that is formed after the fusion of male and female gametes</meaning>
+</definition>
+<definition id="fs-idm125435584">
+<term>synergid</term> <meaning id="fs-idm194928320">type of cell found in the ovule sac that secretes chemicals to guide the pollen tube towards the egg</meaning>
+</definition>
+</glossary>
+</document>

@@ -1,0 +1,270 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Aquatic Biomes</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44859/latest/</md:content-url>
+  <md:content-id>m44859</md:content-id>
+  <md:title>Aquatic Biomes</md:title>
+  <md:version>1.4</md:version>
+  <md:created>2012/08/23 16:09:52 -0500</md:created>
+  <md:revised>2013/06/21 10:09:46.782 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>abyssal zone</md:keyword>
+    <md:keyword>algal bloom</md:keyword>
+    <md:keyword>aphotic zone</md:keyword>
+    <md:keyword>aquatic biome</md:keyword>
+    <md:keyword>aquatic environment</md:keyword>
+    <md:keyword>benthic realm</md:keyword>
+    <md:keyword>biosphere</md:keyword>
+    <md:keyword>channel</md:keyword>
+    <md:keyword>coral reef</md:keyword>
+    <md:keyword>cryptofauna</md:keyword>
+    <md:keyword>ecology</md:keyword>
+    <md:keyword>ecosystem service</md:keyword>
+    <md:keyword>emergent vegetation</md:keyword>
+    <md:keyword>estuaries</md:keyword>
+    <md:keyword>estuary</md:keyword>
+    <md:keyword>freshwater biome</md:keyword>
+    <md:keyword>intertidal zone</md:keyword>
+    <md:keyword>lake</md:keyword>
+    <md:keyword>marine biome</md:keyword>
+    <md:keyword>neritic zone</md:keyword>
+    <md:keyword>oceanic zone</md:keyword>
+    <md:keyword>pelagic realm</md:keyword>
+    <md:keyword>photic zone</md:keyword>
+    <md:keyword>planktivore</md:keyword>
+    <md:keyword>pond</md:keyword>
+    <md:keyword>predator</md:keyword>
+    <md:keyword>river</md:keyword>
+    <md:keyword>sargassum</md:keyword>
+    <md:keyword>source water</md:keyword>
+    <md:keyword>stream</md:keyword>
+    <md:keyword>wetland</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the effects of abiotic factors on the composition of plant and animal communities in aquatic biomes </item>
+<item>Compare and contrast the characteristics of the ocean zones</item>
+<item>Summarize the characteristics of standing water and flowing water freshwater biomes</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<section id="fs-idm48616784">
+<title>Abiotic Factors Influencing Aquatic Biomes</title>
+<para id="fs-idp55795360">Like terrestrial biomes, aquatic biomes are influenced by a series of abiotic factors. The aquatic medium&#8212;water&#8212; has different physical and chemical properties than air, however. Even if the water in a pond or other body of water is perfectly clear (there are no suspended particles), water, on its own, absorbs light. As one descends into a deep body of water, there will eventually be a depth which the sunlight cannot reach. While there are some abiotic and biotic factors in a terrestrial ecosystem that might obscure light (like fog, dust, or insect swarms), usually these are not permanent features of the environment. The importance of light in aquatic biomes is central to the communities of organisms found in both freshwater and marine ecosystems. In freshwater systems, stratification due to differences in density is perhaps the most critical abiotic factor and is related to the energy aspects of light. The thermal properties of water (rates of heating and cooling) are significant to the function of marine systems and have major impacts on global climate and weather patterns. Marine systems are also influenced by large-scale physical water movements, such as currents; these are less important in most freshwater lakes.</para>
+<para id="fs-idm4851440">The ocean is categorized by several areas or zones (<link target-id="fig-ch44_04_01" document=""/>). All of the ocean&#8217;s open water is referred to as the <term>pelagic realm</term> (or zone). The <term>benthic realm</term> (or zone) extends along the ocean bottom from the shoreline to the deepest parts of the ocean floor. Within the pelagic realm is the <term>photic zone</term>, which is the portion of the ocean that light can penetrate (approximately 200 m or 650 ft). At depths greater than 200 m, light cannot penetrate; thus, this is referred to as the <term>aphotic zone</term>. The majority of the ocean is aphotic and lacks sufficient light for photosynthesis. The deepest part of the ocean, the Challenger Deep (in the Mariana Trench, located in the western Pacific Ocean), is about 11,000 m (about 6.8 mi) deep. To give some perspective on the depth of this trench, the ocean is, on average, 4267 m or 14,000 ft deep. These realms and zones are relevant to freshwater lakes as well.</para>
+<note id="fs-idm246736336" class="art-connection"><label/><title>Art Connection</title>
+<figure id="fig-ch44_04_01" class=" "><media id="fs-idm1126384" alt=" The illustration divides the ocean into different zones based on depth. The top layer, called the photic zone, extends from the surface to 200 m. The aphotic zone extends from 200 to 4,000 m. They abyssal zone extends from 4,000 m to the ocean bottom. The ocean is also divided into zones based on distance from the shore. The intertidal zone extends from high to low tide. The neritic zone extends from the intertidal zone to the point at which ocean depth is about 200 m. At about this depth, the continental shelf ends in a steep slope to the ocean bottom. The oceanic zone is the area of open ocean. A thin section of the oceanic zone extending from top to bottom and adjacent to the continental shelf is labeled the benthic realm. All of the ocean&#8217;s open water is referred to as the pelagic realm, which is labeled on the left.">
+<image mime-type="image/png" src="Figure_44_04_01.png" width="400"/>
+</media>
+<caption>The ocean is divided into different zones based on water depth and distance from the shoreline.</caption></figure><para id="fs-idm158996784">In which of the following regions would you expect to find photosynthetic organisms?</para>
+<list id="fs-idm110800592" list-type="enumerated" number-style="lower-alpha">
+<item>the aphotic zone, the neritic zone, the oceanic zone, and the benthic realm</item>
+<item>the photic zone, the intertidal zone, the neritic zone, and the oceanic zone</item>
+<item>the photic zone, the abyssal zone, the neritic zone, and the oceanic zone</item>
+<item>the pelagic realm, the aphotic zone, the neritic zone, and the oceanic zone</item>
+</list>
+<!--<para><link target-id="fig-ch44_04_01" document=""/> C. Photosynthetic organisms would be found in the photic, abyssal, neritic, and oceanic zones.</para>-->
+</note></section>
+<section id="fs-idp70350688">
+<title>Marine Biomes</title>
+<para id="fs-idp51273792">The ocean is the largest marine biome. It is a continuous body of salt water that is relatively uniform in chemical composition; it is a weak solution of mineral salts and decayed biological matter. Within the ocean, coral reefs are a second kind of marine biome. Estuaries, coastal areas where salt water and fresh water mix, form a third unique marine biome.</para>
+<section id="fs-idm35273280">
+<title>Ocean</title>
+<para id="fs-idm19178448">The physical diversity of the ocean is a significant influence on plants, animals, and other organisms. The ocean is categorized into different zones based on how far light reaches into the water. Each zone has a distinct group of species adapted to the biotic and abiotic conditions particular to that zone.</para>
+<para id="fs-idm24572320">The <term>intertidal zone</term>, which is the zone between high and low tide, is the oceanic region that is closest to land (<link target-id="fig-ch44_04_01" document=""/>). Generally, most people think of this portion of the ocean as a sandy beach. In some cases, the intertidal zone is indeed a sandy beach, but it can also be rocky or muddy. The intertidal zone is an extremely variable environment because of tides. Organisms are exposed to air and sunlight at low tide and are underwater most of the time, especially during high tide. Therefore, living things that thrive in the intertidal zone are adapted to being dry for long periods of time. The shore of the intertidal zone is also repeatedly struck by waves, and the organisms found there are adapted to withstand damage from the pounding action of the waves (<link target-id="fig-ch44_04_02" document=""/>). The exoskeletons of shoreline crustaceans (such as the shore crab, <emphasis effect="italics">Carcinus maenas</emphasis>) are tough and protect them from desiccation (drying out) and wave damage. Another consequence of the pounding waves is that few algae and plants establish themselves in the constantly moving rocks, sand, or mud.</para>
+<figure id="fig-ch44_04_02" class=" "><media id="fs-idm29684672" alt=" Photo shows sea urchins, mussel shells, and starfish in a rocky intertidal zone.">
+<image mime-type="image/jpg" src="Figure_44_04_02.jpg" width="300"/>
+</media>
+<caption>Sea urchins, mussel shells, and starfish are often found in the intertidal zone, shown here in Kachemak Bay, Alaska. (credit: NOAA)</caption></figure><para id="fs-idm44633680">The <term>neritic zone</term> (<link target-id="fig-ch44_04_01" document=""/>) extends from the intertidal zone to depths of about 200 m (or 650 ft) at the edge of the continental shelf. Since light can penetrate this depth, photosynthesis can occur in the neritic zone. The water here contains silt and is well-oxygenated, low in pressure, and stable in temperature. Phytoplankton and floating <term><emphasis effect="italics">Sargassum</emphasis></term> (a type of free-floating marine seaweed) provide a habitat for some sea life found in the neritic zone. Zooplankton, protists, small fishes, and shrimp are found in the neritic zone and are the base of the food chain for most of the world&#8217;s fisheries.</para><para id="fs-idp153638960">Beyond the neritic zone is the open ocean area known as the <term>oceanic zone</term> (<link target-id="fig-ch44_04_01" document=""/>). Within the oceanic zone there is thermal stratification where warm and cold waters mix because of ocean currents. Abundant plankton serve as the base of the food chain for larger animals such as whales and dolphins. Nutrients are scarce and this is a relatively less productive part of the marine biome. When photosynthetic organisms and the protists and animals that feed on them die, their bodies fall to the bottom of the ocean where they remain; unlike freshwater lakes, the open ocean lacks a process for bringing the organic nutrients back up to the surface. The majority of organisms in the aphotic zone include sea cucumbers (phylum Echinodermata) and other organisms that survive on the nutrients contained in the dead bodies of organisms in the photic zone.</para>
+<para id="fs-idm151761472">Beneath the pelagic zone is the benthic realm, the deepwater region beyond the continental shelf (<link target-id="fig-ch44_04_01" document=""/>). The bottom of the benthic realm is comprised of sand, silt, and dead organisms. Temperature decreases, remaining above freezing, as water depth increases. This is a nutrient-rich portion of the ocean because of the dead organisms that fall from the upper layers of the ocean. Because of this high level of nutrients, a diversity of fungi, sponges, sea anemones, marine worms, sea stars, fishes, and bacteria exist.</para>
+<para id="fs-idm94965568">The deepest part of the ocean is the <term>abyssal zone</term>, which is at depths of 4000 m or greater. The abyssal zone (<link target-id="fig-ch44_04_01" document=""/>) is very cold and has very high pressure, high oxygen content, and low nutrient content. There are a variety of invertebrates and fishes found in this zone, but the abyssal zone does not have plants because of the lack of light. Hydrothermal vents are found primarily in the abyssal zone; chemosynthetic bacteria utilize the hydrogen sulfide and other minerals emitted from the vents. These chemosynthetic bacteria use the hydrogen sulfide as an energy source and serve as the base of the food chain found in the abyssal zone.</para>
+</section>
+<section id="fs-idm223172320">
+<title>Coral Reefs</title>
+<para id="fs-idm82653024"><term>Coral reefs</term> are ocean ridges formed by marine invertebrates living in warm shallow waters within the photic zone of the ocean. They are found within 30&#730; north and south of the equator. The Great Barrier Reef is a well-known reef system located several miles off the northeastern coast of Australia. Other coral reef systems are fringing islands, which are directly adjacent to land, or atolls, which are circular reef systems surrounding a former landmass that is now underwater. The coral organisms (members of phylum Cnidaria) are colonies of saltwater polyps that secrete a calcium carbonate skeleton. These calcium-rich skeletons slowly accumulate, forming the underwater reef (<link target-id="fig-ch44_04_03" document=""/>). Corals found in shallower waters (at a depth of approximately 60 m or about 200 ft) have a mutualistic relationship with photosynthetic unicellular algae. The relationship provides corals with the majority of the nutrition and the energy they require. The waters in which these corals live are nutritionally poor and, without this mutualism, it would not be possible for large corals to grow. Some corals living in deeper and colder water do not have a mutualistic relationship with algae; these corals attain energy and nutrients using stinging cells on their tentacles to capture prey.</para>
+<note id="fs-idm62103360" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idm64234384" alt="QR Code representing a URL">
+<image mime-type="image/png" src="marine_biology.png" width="120"/>
+</media>
+<para id="fs-idp90847088">Watch this <link window="new" url="http://openstaxcollege.org/l/marine_biology">National Oceanic and Atmospheric Administration (NOAA) video</link> to see marine ecologist Dr. Peter Etnoyer discusses his research on coral organisms.</para></note><para id="fs-idm37765552">It is estimated that more than 4,000 fish species inhabit coral reefs. These fishes can feed on coral, the <term>cryptofauna</term> (invertebrates found within the calcium carbonate substrate of the coral reefs), or the seaweed and algae that are associated with the coral. In addition, some fish species inhabit the boundaries of a coral reef; these species include <term>predators</term>, herbivores, or <term>planktivores</term>. Predators are animal species that hunt and are carnivores or &#8220;flesh eaters.&#8221; Herbivores eat plant material, and planktivores eat plankton.</para>
+<figure id="fig-ch44_04_03" class=" "><media id="fs-idm31778256" alt=" In this photo, several fish are swimming among coral. The coral at the front of the photo is blue with branched arms. Further back are anvil-shaped corals.">
+<image mime-type="image/jpg" src="Figure_44_04_03.jpg" width="250"/>
+</media>
+<caption>Coral reefs are formed by the calcium carbonate skeletons of coral organisms, which are marine invertebrates in the phylum Cnidaria. (credit: Terry Hughes)</caption></figure>
+<note id="fs-idm67122112" class="evolution">
+<label/>
+<title>Evolution Connection</title>
+<para id="fs-idp105987040">
+<title>Global Decline of Coral Reefs</title>
+It takes a long time to build a coral reef. The animals that create coral reefs have evolved over millions of years, continuing to slowly deposit the calcium carbonate that forms their characteristic ocean homes. Bathed in warm tropical waters, the coral animals and their symbiotic algal partners evolved to survive at the upper limit of ocean water temperature.</para>
+<para id="fs-idp87068096">Together, climate change and human activity pose dual threats to the long-term survival of the world&#8217;s coral reefs. As global warming due to fossil fuel emissions raises ocean temperatures, coral reefs are suffering. The excessive warmth causes the reefs to expel their symbiotic, food-producing algae, resulting in a phenomenon known as bleaching. When bleaching occurs, the reefs lose much of their characteristic color as the algae and the coral animals die if loss of the symbiotic zooxanthellae is prolonged.</para>
+<para id="fs-idm109532208">Rising levels of atmospheric carbon dioxide further threaten the corals in other ways; as CO<sub>2</sub> dissolves in ocean waters, it lowers the pH and increases ocean acidity. As acidity increases, it interferes with the calcification that normally occurs as coral animals build their calcium carbonate homes.</para>
+<para id="fs-idm77012272">When a coral reef begins to die, species diversity plummets as animals lose food and shelter. Coral reefs are also economically important tourist destinations, so the decline of coral reefs poses a serious threat to coastal economies.</para>
+<para id="fs-idm121610000">Human population growth has damaged corals in other ways, too. As human coastal populations increase, the runoff of sediment and agricultural chemicals has increased, too, causing some of the once-clear tropical waters to become cloudy. At the same time, overfishing of popular fish species has allowed the predator species that eat corals to go unchecked.</para>
+<para id="fs-idm32756400">Although a rise in global temperatures of 1&#8211;2&#730;C (a conservative scientific projection) in the coming decades may not seem large, it is very significant to this biome. When change occurs rapidly, species can become extinct before evolution leads to new adaptations. Many scientists believe that global warming, with its rapid (in terms of evolutionary time) and inexorable increases in temperature, is tipping the balance beyond the point at which many of the world&#8217;s coral reefs can recover.</para>
+</note>
+</section>
+</section>
+<section id="fs-idm108021168">
+<title>Estuaries: Where the Ocean Meets Fresh Water</title>
+<para id="fs-idm50269504"><term>Estuaries</term> are biomes that occur where a source of fresh water, such as a river, meets the ocean. Therefore, both fresh water and salt water are found in the same vicinity; mixing results in a diluted (brackish) saltwater. Estuaries form protected areas where many of the young offspring of crustaceans, mollusks, and fish begin their lives. Salinity is a very important factor that influences the organisms and the adaptations of the organisms found in estuaries. The salinity of estuaries varies and is based on the rate of flow of its freshwater sources. Once or twice a day, high tides bring salt water into the estuary. Low tides occurring at the same frequency reverse the current of salt water.</para>
+<para id="fs-idm163684608">The short-term and rapid variation in salinity due to the mixing of fresh water and salt water is a difficult physiological challenge for the plants and animals that inhabit estuaries. Many estuarine plant species are halophytes: plants that can tolerate salty conditions. Halophytic plants are adapted to deal with the salinity resulting from saltwater on their roots or from sea spray. In some halophytes, filters in the roots remove the salt from the water that the plant absorbs. Other plants are able to pump oxygen into their roots. Animals, such as mussels and clams (phylum Mollusca), have developed behavioral adaptations that expend a lot of energy to function in this rapidly changing environment. When these animals are exposed to low salinity, they stop feeding, close their shells, and switch from aerobic respiration (in which they use gills) to anaerobic respiration (a process that does not require oxygen). When high tide returns to the estuary, the salinity and oxygen content of the water increases, and these animals open their shells, begin feeding, and return to aerobic respiration.</para>
+</section>
+<section id="fs-idm150794960">
+<title>Freshwater Biomes</title>
+<para id="fs-idm12232576">Freshwater biomes include lakes and ponds (standing water) as well as rivers and streams (flowing water). They also include wetlands, which will be discussed later. Humans rely on freshwater biomes to provide aquatic resources for drinking water, crop irrigation, sanitation, and industry. These various roles and human benefits are referred to as <term>ecosystem services</term>. Lakes and ponds are found in terrestrial landscapes and are, therefore, connected with abiotic and biotic factors influencing these terrestrial biomes.</para>
+<section id="fs-idm150832368">
+<title>Lakes and Ponds</title>
+<para id="fs-idm148915936">Lakes and ponds can range in area from a few square meters to thousands of square kilometers. Temperature is an important abiotic factor affecting living things found in lakes and ponds. In the summer, thermal stratification of lakes and ponds occurs when the upper layer of water is warmed by the sun and does not mix with deeper, cooler water. Light can penetrate within the photic zone of the lake or pond. Phytoplankton (algae and cyanobacteria) are found here and carry out photosynthesis, providing the base of the food web of lakes and ponds. Zooplankton, such as rotifers and small crustaceans, consume these phytoplankton. At the bottom of lakes and ponds, bacteria in the aphotic zone break down dead organisms that sink to the bottom.</para>
+<para id="fs-idm36305104">Nitrogen and phosphorus are important limiting nutrients in lakes and ponds. Because of this, they are determining factors in the amount of phytoplankton growth in lakes and ponds. When there is a large input of nitrogen and phosphorus (from sewage and runoff from fertilized lawns and farms, for example), the growth of algae skyrockets, resulting in a large accumulation of algae called an <term>algal bloom</term>. Algal blooms (<link target-id="fig-ch44_04_04" document=""/>) can become so extensive that they reduce light penetration in water. As a result, the lake or pond becomes aphotic and photosynthetic plants cannot survive. When the algae die and decompose, severe oxygen depletion of the water occurs. Fishes and other organisms that require oxygen are then more likely to die, and resulting dead zones are found across the globe. Lake Erie and the Gulf of Mexico represent freshwater and marine habitats where phosphorus control and storm water runoff pose significant environmental challenges.</para>
+<figure id="fig-ch44_04_04" class=" "><media id="fs-idm148924192" alt=" This photo shows a body of water clogged with thick, green algae.">
+<image mime-type="image/jpg" src="Figure_44_04_04.jpg" width="300"/>
+</media>
+<caption>The uncontrolled growth of algae in this lake has resulted in an algal bloom. (credit: Jeremy Nettleton)</caption></figure></section>
+<section id="fs-idm163038832">
+<title>Rivers and Streams</title>
+<para id="fs-idm72007392">Rivers and streams are continuously moving bodies of water that carry large amounts of water from the source, or headwater, to a lake or ocean. The largest rivers include the Nile River in Africa, the Amazon River in South America, and the Mississippi River in North America.</para>
+<para id="fs-idm38575424">Abiotic features of rivers and streams vary along the length of the river or stream. Streams begin at a point of origin referred to as <term>source water</term>. The source water is usually cold, low in nutrients, and clear. The <term>channel</term> (the width of the river or stream) is narrower than at any other place along the length of the river or stream. Because of this, the current is often faster here than at any other point of the river or stream.</para>
+<para id="fs-idm129395632">The fast-moving water results in minimal silt accumulation at the bottom of the river or stream; therefore, the water is clear. Photosynthesis here is mostly attributed to algae that are growing on rocks; the swift current inhibits the growth of phytoplankton. An additional input of energy can come from leaves or other organic material that falls into the river or stream from trees and other plants that border the water. When the leaves decompose, the organic material and nutrients in the leaves are returned to the water. Plants and animals have adapted to this fast-moving water. For instance, leeches (phylum Annelida) have elongated bodies and suckers on both ends. These suckers attach to the substrate, keeping the leech anchored in place. Freshwater trout species (phylum Chordata) are an important predator in these fast-moving rivers and streams.</para>
+<para id="fs-idm74911776">As the river or stream flows away from the source, the width of the channel gradually widens and the current slows. This slow-moving water, caused by the gradient decrease and the volume increase as tributaries unite, has more sedimentation. Phytoplankton can also be suspended in slow-moving water. Therefore, the water will not be as clear as it is near the source. The water is also warmer. Worms (phylum Annelida) and insects (phylum Arthropoda) can be found burrowing into the mud. The higher order predator vertebrates (phylum Chordata) include waterfowl, frogs, and fishes. These predators must find food in these slow moving, sometimes murky, waters and, unlike the trout in the waters at the source, these vertebrates may not be able to use vision as their primary sense to find food. Instead, they are more likely to use taste or chemical cues to find prey.</para>
+</section>
+<section id="fs-idm44420816">
+<title>Wetlands</title>
+<para id="fs-idm161890608">Wetlands are environments in which the soil is either permanently or periodically saturated with water. Wetlands are different from lakes because wetlands are shallow bodies of water whereas lakes vary in depth. <term>Emergent vegetation</term> consists of wetland plants that are rooted in the soil but have portions of leaves, stems, and flowers extending above the water&#8217;s surface. There are several types of wetlands including marshes, swamps, bogs, mudflats, and salt marshes (<link target-id="fig-ch44_04_05" document=""/>). The three shared characteristics among these types&#8212;what makes them wetlands&#8212;are their hydrology, hydrophytic vegetation, and hydric soils.</para>
+<figure id="fig-ch44_04_05" class=" "><media id="fs-idm108208544" alt=" This photo shows mangrove trees growing in black water. The trunks of the mangroves widen and split toward the bottom. A white bird stands in the water among the trees.">
+<image mime-type="image/jpg" src="Figure_44_04_05.jpg" width="300"/>
+</media>
+<caption>Located in southern Florida, Everglades National Park is vast array of wetland environments, including sawgrass marshes, cypress swamps, and estuarine mangrove forests. Here, a great egret walks among cypress trees. (credit: NPS)</caption></figure><para id="fs-idm25514160">Freshwater marshes and swamps are characterized by slow and steady water flow. Bogs develop in depressions where water flow is low or nonexistent. Bogs usually occur in areas where there is a clay bottom with poor percolation. Percolation is the movement of water through the pores in the soil or rocks. The water found in a bog is stagnant and oxygen depleted because the oxygen that is used during the decomposition of organic matter is not replaced. As the oxygen in the water is depleted, decomposition slows. This leads to organic acids and other acids building up and lowering the pH of the water. At a lower pH, nitrogen becomes unavailable to plants. This creates a challenge for plants because nitrogen is an important limiting resource. Some types of bog plants (such as sundews, pitcher plants, and Venus flytraps) capture insects and extract the nitrogen from their bodies. Bogs have low net primary productivity because the water found in bogs has low levels of nitrogen and oxygen.</para>
+</section>
+</section>
+<section id="fs-idp116722224" class="summary">
+<title>Section Summary</title><para id="fs-idm12473632">Aquatic ecosystems include both saltwater and freshwater biomes. The abiotic factors important for the structuring of aquatic ecosystems can be different than those seen in terrestrial systems. Sunlight is a driving force behind the structure of forests and also is an important factor in bodies of water, especially those that are very deep, because of the role of photosynthesis in sustaining certain organisms. Density and temperature shape the structure of aquatic systems. Oceans may be thought of as consisting of different zones based on water depth and distance from the shoreline and light penetrance. Different kinds of organisms are adapted to the conditions found in each zone. Coral reefs are unique marine ecosystems that are home to a wide variety of species. Estuaries are found where rivers meet the ocean; their shallow waters provide nourishment and shelter for young crustaceans, mollusks, fishes, and many other species. Freshwater biomes include lakes, ponds, rivers, streams, and wetlands. Bogs are an interesting type of wetland characterized by standing water, lower pH, and a lack of nitrogen.</para>
+    </section>
+<section id="fs-idp98994720" class="art-exercise">
+<title>Art Connections</title>
+<exercise id="fs-idm35270928">
+    <problem id="fs-idp79082816">
+        <para id="fs-idm51125072"><link target-id="fig-ch44_04_01" document=""/> In which of the following regions would you expect to find photosynthetic organisms?</para>
+<list id="fs-idp156525616" list-type="enumerated" number-style="lower-alpha">
+    <item>the aphotic zone, the neritic zone, the oceanic zone, and the benthic realm</item>
+<item>the photic zone, the intertidal zone, the neritic zone, and the oceanic zone</item>
+<item>the photic zone, the abyssal zone, the neritic zone, and the oceanic zone</item>
+<item>the pelagic realm, the aphotic zone, the neritic zone, and the oceanic zone</item>
+</list>
+    </problem>
+<solution id="fs-idm24894080">
+    <label/>
+    <para id="fs-idm68426304"><link target-id="fig-ch44_04_01" document=""/> C. Photosynthetic organisms would be found in the photic, abyssal, neritic, and oceanic zones.</para>
+</solution>
+    </exercise>
+</section>
+<section id="fs-idp13323136" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp7022832">
+<problem id="fs-idp60724352"><para id="fs-idm49055856">Where would you expect to find the most photosynthesis in an ocean biome?</para>
+<list id="fs-idm82747920" list-type="enumerated" number-style="lower-alpha">
+<item>aphotic zone</item>
+<item>abyssal zone</item>
+<item>benthic realm</item>
+<item>intertidal zone</item>
+</list>
+</problem>
+<solution id="fs-idm79671216">
+<label/>
+<para id="fs-idm32352688">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm162787312">
+<problem id="fs-idm95982928"><para id="fs-idm109854480">A key feature of estuaries is:</para>
+<list id="fs-idm88944848" list-type="enumerated" number-style="lower-alpha">
+<item>low light conditions and high productivity</item>
+<item>salt water and fresh water</item>
+<item>frequent algal blooms</item>
+<item>little or no vegetation</item>
+</list>
+</problem>
+<solution id="fs-idp18187904">
+<label/>
+<para id="fs-idm594720">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm123787616" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm128160368">
+<problem id="fs-idm49141216"><para id="fs-idm41024656">Scientists have discovered the bodies of humans and other living things buried in bogs for hundreds of years, but not yet decomposed. Suggest a possible biological explanation for why such bodies are so well-preserved.</para></problem>
+<solution id="fs-idp70828848"><label/>
+<para id="fs-idm67414048">Bogs are low in oxygen and high in organic acids. The low oxygen content and the low pH both slow the rate of decomposition.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm146703328">
+<problem id="fs-idm69916624"><para id="fs-idm41007232">Describe the conditions and challenges facing organisms living in the intertidal zone.</para></problem>
+<solution id="fs-idm35917520"><label/>
+<para id="fs-idm139818752">Organisms living in the intertidal zone must tolerate periodic exposure to air and sunlight and must be able to be periodically dry. They also must be able to endure the pounding waves; for this reason, some shoreline organisms have hard exoskeletons that provide protection while also reducing the likelihood of drying out. </para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm123683824"><term>abyssal zone</term> <meaning id="fs-idp51906448">deepest part of the ocean at depths of 4000 m or greater</meaning></definition>
+<definition id="fs-idm149779568"><term>algal bloom</term> <meaning id="fs-idm79681088">rapid increase of algae in an aquatic system</meaning></definition>
+<definition id="fs-idm243319840"><term>aphotic zone</term> <meaning id="fs-idm35682384">part of the ocean where no light penetrates</meaning></definition>
+<definition id="fs-idm29879376"><term>benthic realm</term> <meaning id="fs-idm24529552">(also, benthic zone) part of the ocean that extends along the ocean bottom from the shoreline to the deepest parts of the ocean floor</meaning></definition>
+<definition id="fs-idm23327328"><term>channel</term> <meaning id="fs-idp56725760">width of a river or stream from one bank to the other bank</meaning></definition>
+<definition id="fs-idp53906752"><term>coral reef</term> <meaning id="fs-idm29836528">ocean ridges formed by marine invertebrates living in warm, shallow waters within the photic zone</meaning></definition>
+<definition id="fs-idm82137904"><term>cryptofauna</term> <meaning id="fs-idp7155024">invertebrates found within the calcium carbonate substrate of coral reefs</meaning></definition>
+<definition id="fs-idm157382496"><term>ecosystem services</term> <meaning id="fs-idm77475184">human benefits and services provided by natural ecosystems</meaning></definition>
+<definition id="fs-idp6812512"><term>emergent vegetation</term> <meaning id="fs-idm122572432">wetland plants that are rooted in the soil but have portions of leaves, stems, and flowers extending above the water&#8217;s surface</meaning></definition>
+<definition id="fs-idm75778000"><term>estuary</term> <meaning id="fs-idp80358880">biomes where a source of fresh water, such as a river, meets the ocean</meaning></definition>
+<definition id="fs-idm50240080"><term>intertidal zone</term> <meaning id="fs-idp79164208">part of the ocean that is closest to land; parts extend above the water at low tide</meaning></definition>
+<definition id="fs-idm245749408"><term>neritic zone</term> <meaning id="fs-idp657232">part of the ocean that extends from low tide to the edge of the continental shelf</meaning></definition>
+<definition id="fs-idp1141328"><term>oceanic zone</term> <meaning id="fs-idm114914800">part of the ocean that begins offshore where the water measures 200 m deep or deeper</meaning></definition>
+<definition id="fs-idm141432416"><term>pelagic realm</term> <meaning id="fs-idm105888416">(also, pelagic zone) open ocean waters that are not close to the bottom or near the shore</meaning></definition>
+<definition id="fs-idm224794784"><term>photic zone</term> <meaning id="fs-idm32722064">portion of the ocean that light can penetrate</meaning></definition>
+<definition id="fs-idm13310688"><term>planktivore</term> <meaning id="fs-idm66169216">animal species that eats plankton</meaning></definition>
+<definition id="fs-idm38997968"><term>predator</term> <meaning id="fs-idp9460272">animal species that hunt and are carnivores or &#8220;flesh eaters&#8221;</meaning></definition>
+<definition id="fs-idm5353136"><term><emphasis effect="italics">Sargassum</emphasis></term> <meaning id="fs-idm122926928">type of free-floating marine seaweed</meaning></definition>
+<definition id="fs-idm76784800"><term>source water</term> <meaning id="fs-idm144058096">point of origin of a river or stream</meaning></definition>
+</glossary>
+</document>

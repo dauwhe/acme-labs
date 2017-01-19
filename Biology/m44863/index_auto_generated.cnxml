@@ -1,0 +1,176 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44863/latest/</md:content-url>
+  <md:content-id>m44863</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.2</md:version>
+  <md:created>2012/08/23 16:11:52 -0500</md:created>
+  <md:revised>2013/03/13 11:13:16.624 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>age structure</md:keyword>
+    <md:keyword>aggressive display</md:keyword>
+    <md:keyword>Batesian mimicry</md:keyword>
+    <md:keyword>behavioral biology</md:keyword>
+    <md:keyword>biodiversity</md:keyword>
+    <md:keyword>biotic potential</md:keyword>
+    <md:keyword>birth rate</md:keyword>
+    <md:keyword>carrying capacity</md:keyword>
+    <md:keyword>classical conditioning</md:keyword>
+    <md:keyword>climax community</md:keyword>
+    <md:keyword>cognitive learning</md:keyword>
+    <md:keyword>commensalism</md:keyword>
+    <md:keyword>community ecology</md:keyword>
+    <md:keyword>community structure</md:keyword>
+    <md:keyword>community succession</md:keyword>
+    <md:keyword>competitive exclusion</md:keyword>
+    <md:keyword>competitive exclusion principle</md:keyword>
+    <md:keyword>conditioned behavior</md:keyword>
+    <md:keyword>courtship display</md:keyword>
+    <md:keyword>death rate</md:keyword>
+    <md:keyword>defense mechanism</md:keyword>
+    <md:keyword>demography</md:keyword>
+    <md:keyword>density-dependent growth</md:keyword>
+    <md:keyword>density-dependent regulation</md:keyword>
+    <md:keyword>density-independent growth</md:keyword>
+    <md:keyword>density-independent regulation</md:keyword>
+    <md:keyword>distraction display</md:keyword>
+    <md:keyword>early reproduction</md:keyword>
+    <md:keyword>Emsleyan/Mertensian mimicry</md:keyword>
+    <md:keyword>energy budget</md:keyword>
+    <md:keyword>environmental adaptation</md:keyword>
+    <md:keyword>environmental disturbance</md:keyword>
+    <md:keyword>ethology</md:keyword>
+    <md:keyword>exponential growth</md:keyword>
+    <md:keyword>fecundity</md:keyword>
+    <md:keyword>fixed action pattern</md:keyword>
+    <md:keyword>foraging</md:keyword>
+    <md:keyword>foundation species</md:keyword>
+    <md:keyword>habituation</md:keyword>
+    <md:keyword>herbivory</md:keyword>
+    <md:keyword>host</md:keyword>
+    <md:keyword>human carrying capacity</md:keyword>
+    <md:keyword>human population</md:keyword>
+    <md:keyword>human population growth</md:keyword>
+    <md:keyword>imprinting</md:keyword>
+    <md:keyword>innate behavior</md:keyword>
+    <md:keyword>intersexual selection</md:keyword>
+    <md:keyword>interspecific competition</md:keyword>
+    <md:keyword>intrasexual selection</md:keyword>
+    <md:keyword>intraspecific competition</md:keyword>
+    <md:keyword>island biogeography</md:keyword>
+    <md:keyword>iteroparity</md:keyword>
+    <md:keyword>j-shaped growth curve</md:keyword>
+    <md:keyword>k-selected species</md:keyword>
+    <md:keyword>keystone species</md:keyword>
+    <md:keyword>kin selection</md:keyword>
+    <md:keyword>kinesis</md:keyword>
+    <md:keyword>late reproduction</md:keyword>
+    <md:keyword>learned behavior</md:keyword>
+    <md:keyword>life history</md:keyword>
+    <md:keyword>life history pattern</md:keyword>
+    <md:keyword>life table</md:keyword>
+    <md:keyword>logistic growth</md:keyword>
+    <md:keyword>mark and recapture</md:keyword>
+    <md:keyword>migration</md:keyword>
+    <md:keyword>monogamy</md:keyword>
+    <md:keyword>mortality rate</md:keyword>
+    <md:keyword>Mullerian mimicry</md:keyword>
+    <md:keyword>mutualism</md:keyword>
+    <md:keyword>one-child policy</md:keyword>
+    <md:keyword>operant conditioning</md:keyword>
+    <md:keyword>overpopulation</md:keyword>
+    <md:keyword>parasite</md:keyword>
+    <md:keyword>parasitism</md:keyword>
+    <md:keyword>parental care</md:keyword>
+    <md:keyword>pioneer species</md:keyword>
+    <md:keyword>polyandry</md:keyword>
+    <md:keyword>polygyny</md:keyword>
+    <md:keyword>population demography</md:keyword>
+    <md:keyword>population density</md:keyword>
+    <md:keyword>population distribution</md:keyword>
+    <md:keyword>population dynamics</md:keyword>
+    <md:keyword>population ecology</md:keyword>
+    <md:keyword>population model</md:keyword>
+    <md:keyword>population regulation</md:keyword>
+    <md:keyword>population research</md:keyword>
+    <md:keyword>population size</md:keyword>
+    <md:keyword>predation</md:keyword>
+    <md:keyword>primary succession</md:keyword>
+    <md:keyword>quadrat</md:keyword>
+    <md:keyword>r-selected species</md:keyword>
+    <md:keyword>reflex action</md:keyword>
+    <md:keyword>relative species abundance</md:keyword>
+    <md:keyword>s-shaped growth curve</md:keyword>
+    <md:keyword>secondary succession</md:keyword>
+    <md:keyword>semelparity</md:keyword>
+    <md:keyword>signal</md:keyword>
+    <md:keyword>sociobiology</md:keyword>
+    <md:keyword>species distribution</md:keyword>
+    <md:keyword>species distribution pattern</md:keyword>
+    <md:keyword>species richness</md:keyword>
+    <md:keyword>survivorship curve</md:keyword>
+    <md:keyword>symbiosis</md:keyword>
+    <md:keyword>symbiotic relationship</md:keyword>
+    <md:keyword>taxis</md:keyword>
+    <md:keyword>zero population growth</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<?cnx.eoc class="summary" title="Sections Summary"?>
+<?cnx.eoc class="art-exercise" title="Art Connections"?>
+<?cnx.eoc class="multiple-choice" title="Multiple Choice"?>
+<?cnx.eoc class="free-response" title="Free Response"?>
+
+<figure id="fig-ch45_00_01" class="splash">
+<media id="fs-idm43059184" alt="Main photo shows fish jumping out of the water, and inset photo shows a pile of dead fish in a container.">
+<image mime-type="image/jpeg" src="Figure_45_00_01.jpg" width="600"/>
+</media>
+<caption>Asian carp jump out of the water in response to electrofishing. The Asian carp in the inset photograph were harvested from the Little Calumet River in Illinois in May, 2010, using rotenone, a toxin often used as an insecticide, in an effort to learn more about the population of the species. (credit main image: modification of work by USGS; credit inset: modification of work by Lt. David French, USCG)</caption></figure>
+<para id="fs-idm44169040">Imagine sailing down a river in a small motorboat on a weekend afternoon; the water is smooth and you are enjoying the warm sunshine and cool breeze when suddenly you are hit in the head by a 20-pound silver carp. This is a risk now on many rivers and canal systems in Illinois and Missouri because of the presence of Asian carp.</para>
+<para id="fs-idp21015584">This fish&#8212;actually a group of species including the silver, black, grass, and big head carp&#8212;has been farmed and eaten in China for over 1000 years. It is one of the most important aquaculture food resources worldwide. In the United States, however, Asian carp is considered a dangerous invasive species that disrupts community structure and composition to the point of threatening native species.</para>
+</content>
+</document>

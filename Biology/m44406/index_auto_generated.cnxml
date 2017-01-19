@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Prokaryotic Cells</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml"
+          mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44406/latest</md:content-url>
+  <md:content-id>m44406</md:content-id>
+  <md:title>Prokaryotic Cells</md:title>
+  <md:version>1.11</md:version>
+  <md:created>2012/08/22 16:25:58 -0500</md:created>
+  <md:revised>2014/10/29 15:55:30 -0500</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax</md:shortname>
+      <md:fullname>OpenStax</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>cell size</md:keyword>
+    <md:keyword>cell structure</md:keyword>
+    <md:keyword>microbiologist</md:keyword>
+    <md:keyword>nucleoid</md:keyword>
+    <md:keyword>prokaryote</md:keyword>
+    <md:keyword>prokaryotic cell</md:keyword>
+    <md:keyword>single-cell organism</md:keyword>
+    <md:keyword>unicellular</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Name examples of prokaryotic and eukaryotic organisms</item>
+<item>Compare and contrast prokaryotic cells and eukaryotic cells</item>
+<item>Describe the relative sizes of different kinds of cells</item>
+<item>Explain why cells must be small</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-id1961711">Cells fall into one of two broad categories: prokaryotic and eukaryotic. Only the predominantly single-celled organisms of the domains Bacteria and Archaea are classified as prokaryotes (pro- = “before”; -kary- = “nucleus”). Cells of animals, plants, fungi, and protists are all eukaryotes (ceu- = “true”) and are made up of eukaryotic cells.</para><section id="fs-id2215233">
+<title>Components of Prokaryotic Cells</title>
+<para id="fs-id1801596">All cells share four common components: 1) a plasma membrane, an outer covering that separates the cell’s interior from its surrounding environment; 2) cytoplasm, consisting of a jelly-like cytosol within the cell in which other cellular components are found; 3) DNA, the genetic material of the cell; and 4) ribosomes, which synthesize proteins. However, prokaryotes differ from eukaryotic cells in several ways.</para>
+<para id="fs-id1325738">A <term>prokaryote</term> is a simple, mostly single-celled (unicellular) organism that lacks a nucleus, or any other membrane-bound organelle. We will shortly come to see that this is significantly different in eukaryotes. Prokaryotic DNA is found in a central part of the cell: the <term>nucleoid</term> (<link target-id="fig-ch04-02-01" document=""/>).</para><figure id="fig-ch04-02-01"><media id="fs-id1407801" alt="In this illustration, the prokaryotic cell has an oval shape. The circular chromosome is concentrated in a region called the nucleoid. The fluid inside the cell is called the cytoplasm. Ribosomes, depicted as small circles, float in the cytoplasm. The cytoplasm is encased by a plasma membrane, which in turn is encased by a cell wall. A capsule surrounds the cell wall. The bacterium depicted has a flagellum protruding from one narrow end. Pili are small protrusions that project from the capsule in all directions.">
+<image mime-type="image/jpg" src="Figure_04_02_01.jpg" width="350"/>
+</media>
+
+<caption>This figure shows the generalized structure of a prokaryotic cell. All prokaryotes have chromosomal DNA localized in a nucleoid, ribosomes, a cell membrane, and a cell wall. The other structures shown are present in some, but not all, bacteria.</caption></figure><para id="fs-id1798051">Most prokaryotes have a peptidoglycan cell wall and many have a polysaccharide capsule (<link target-id="fig-ch04-02-01" document=""/>). The cell wall acts as an extra layer of protection, helps the cell maintain its shape, and prevents dehydration. The capsule enables the cell to attach to surfaces in its environment. Some prokaryotes have flagella, pili, or fimbriae. Flagella are used for locomotion. Pili are used to exchange genetic material during a type of reproduction called conjugation. Fimbriae are used by bacteria to attach to a host cell.</para><note id="fs-id1193831" class="career   "><label/><title>Career Connection</title>
+
+<para id="fs-id1056900"><title>Microbiologist</title>The most effective action anyone can take to prevent the spread of contagious illnesses is to wash his or her hands. Why? Because microbes (organisms so tiny that they can only be seen with microscopes) are ubiquitous. They live on doorknobs, money, your hands, and many other surfaces. If someone sneezes into his hand and touches a doorknob, and afterwards you touch that same doorknob, the microbes from the sneezer’s mucus are now on your hands. If you touch your hands to your mouth, nose, or eyes, those microbes can enter your body and could make you sick.</para>
+<para id="fs-id1627806">However, not all microbes (also called microorganisms) cause disease; most are actually beneficial. You have microbes in your gut that make vitamin K. Other microorganisms are used to ferment beer and wine.</para>
+<para id="fs-id1904890">Microbiologists are scientists who study microbes. Microbiologists can pursue a number of careers. Not only do they work in the food industry, they are also employed in the veterinary and medical fields. They can work in the pharmaceutical sector, serving key roles in research and development by identifying new sources of antibiotics that could be used to treat bacterial infections.</para>
+<para id="fs-id2028947">Environmental microbiologists may look for new ways to use specially selected or genetically engineered microbes for the removal of pollutants from soil or groundwater, as well as hazardous elements from contaminated sites. These uses of microbes are called bioremediation technologies. Microbiologists can also work in the field of bioinformatics, providing specialized knowledge and insight for the design, development, and specificity of computer models of, for example, bacterial epidemics.</para>
+</note><section id="fs-id1889993">
+<title>Cell Size</title>
+<para id="fs-id1775152">At 0.1 to 5.0 μm in diameter, prokaryotic cells are significantly smaller than eukaryotic cells, which have diameters ranging from 10 to 100 μm (<link target-id="fig-ch04-02-02" document=""/>). The small size of prokaryotes allows ions and organic molecules that enter them to quickly diffuse to other parts of the cell. Similarly, any wastes produced within a prokaryotic cell can quickly diffuse out. This is not the case in eukaryotic cells, which have developed different structural adaptations to enhance intracellular transport.</para><figure id="fig-ch04-02-02" class="  "><media id="fs-id607795" alt="Part a: Relative sizes on a logarithmic scale, from 0.1 nm to 1 m, are shown. Objects are shown from smallest to largest. The smallest object shown, an atom, is about 1 nm in size. The next largest objects shown are lipids and proteins; these molecules are between 1 and 10 nm. Bacteria are about 100 nm, and mitochondria are about 1 greek mu m. Plant and animal cells are both between 10 and 100 greek mu m. A human egg is between 100 greek mu m and 1 mm. A frog egg is about 1 mm, A chicken egg and an ostrich egg are both between 10 and 100 mm, but a chicken egg is larger. For comparison, a human is approximately 1 m tall.">
+<image mime-type="image/jpg" src="Figure_04_02_02.jpg" width="600"/>
+</media>
+
+<caption>This figure shows relative sizes of microbes on a logarithmic scale (recall that each unit of increase in a logarithmic scale represents a 10-fold increase in the quantity being measured).</caption></figure><para id="fs-id1443691">Small size, in general, is necessary for all cells, whether prokaryotic or eukaryotic. Let’s examine why that is so. First, we’ll consider the area and volume of a typical cell. Not all cells are spherical in shape, but most tend to approximate a sphere. You may remember from your high school geometry course that the formula for the surface area of a sphere is 4πr<sup>2</sup>, while the formula for its volume is 4πr<sup>3</sup>/3. Thus, as the radius of a cell increases, its surface area increases as the square of its radius, but its volume increases as the cube of its radius (much more rapidly). Therefore, as a cell increases in size, its surface area-to-volume ratio decreases. This same principle would apply if the cell had the shape of a cube (<link target-id="fig-ch04-02-03" document=""/>). If the cell grows too large, the plasma membrane will not have sufficient surface area to support the rate of diffusion required for the increased volume. In other words, as a cell grows, it becomes less efficient. One way to become more efficient is to divide; another way is to develop organelles that perform specific tasks. These adaptations lead to the development of more sophisticated cells called eukaryotic cells.</para>
+    
+<note id="fs-id1456208" type="art-connection"><label/><title>Art Connection</title>
+<para id="fs-id1418460">
+<figure id="fig-ch04-02-03"><media id="fs-id1322516" alt="On the left, a sphere 1 mm in diameter is encased in a box of the same width. On the right, the same sphere is encased in a box 2 mm in diameter.">
+<image mime-type="image/png" src="Figure_04_02_03.png" width="350"/>
+</media>
+<caption>Notice that as a cell increases in size, its surface area-to-volume ratio decreases. When there is insufficient surface area to support a cell’s increasing volume, a cell will either divide or die. The cell on the left has a volume of 1 mm<sup>3</sup> and a surface area of 6 mm<sup>2</sup>, with a surface area-to-volume ratio of 6 to 1, whereas the cell on the right has a volume of 8 mm<sup>3</sup> and a surface area of 24 mm<sup>2</sup>, with a surface area-to-volume ratio of 3 to 1.</caption></figure></para>
+<para id="fs-id1228431">Prokaryotic cells are much smaller than eukaryotic cells. What advantages might small cell size confer on a cell? What advantages might large cell size have?</para>
+</note></section>
+</section>
+<section id="fs-id1857265" class="summary">
+<title>Section Summary</title><para id="fs-id1320930">Prokaryotes are predominantly single-celled organisms of the domains Bacteria and Archaea. All prokaryotes have plasma membranes, cytoplasm, ribosomes, and DNA that is not membrane-bound. Most have peptidoglycan cell walls and many have polysaccharide capsules. Prokaryotic cells range in diameter from 0.1 to 5.0 μm.</para>
+<para id="fs-id1320804">As a cell increases in size, its surface area-to-volume ratio decreases. If the cell grows too large, the plasma membrane will not have sufficient surface area to support the rate of diffusion required for the increased volume.</para>
+</section>
+<section id="fs-id1428749" class="art-exercise">
+<title>Art Connections</title>
+<exercise id="fs-id2339526"><problem id="fs-id1772038">
+        <para id="fs-id1130356"> <link target-id="fig-ch04-02-03" document=""/> Prokaryotic cells are much smaller than eukaryotic cells. What advantages might small cell size confer on a cell? What advantages might large cell size have?</para>
+    </problem>
+    <solution id="fs-id1299772">
+    <label/>
+        <para id="fs-id806351"> <link target-id="fig-ch04-02-03" document=""/> Substances can diffuse more quickly through small cells. Small cells have no need for organelles and therefore do not need to expend energy getting substances across organelle membranes. Large cells have organelles that can separate cellular processes, enabling them to build molecules that are more complex.</para>
+    </solution>
+</exercise></section>    
+<section id="fs-id1981423" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-id1617238"><problem id="fs-id1361215">
+<para id="fs-id840966">Prokaryotes depend on ________ to obtain some materials and to get rid of wastes.</para>
+<list id="fs-id1521301" list-type="enumerated" number-style="lower-alpha">
+<item>ribosomes</item>
+<item>flagella</item>
+<item>cell division</item>
+<item>diffusion</item>
+</list>
+</problem>
+<solution id="fs-id1981644">
+<label/>
+<para id="fs-id1452099">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id866358"><problem id="fs-id1677125">
+<para id="fs-id1222779">Bacteria that lack fimbriae are less likely to ________.</para><list id="fs-id1684505" list-type="enumerated" number-style="lower-alpha">
+<item>adhere to cell surfaces</item>
+<item>swim through bodily fluids</item>
+<item>synthesize proteins</item>
+<item>retain the ability to divide</item>
+</list>
+</problem>
+<solution id="fs-id2017833">
+<label/>
+<para id="fs-id1322813">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1585726" class="free-response">
+<title>Free Response</title><exercise id="fs-id1434050">
+<problem id="fs-id1421134"><para id="fs-id1981261">Antibiotics are medicines that are used to fight bacterial infections. These medicines kill prokaryotic cells without harming human cells. What part or parts of the bacterial cell do you think antibiotics target? Why?</para></problem>
+<solution id="fs-id1194561"><label/>
+<para id="fs-id1194361">The cell wall would be targeted by antibiotics as well as the bacteria’s ability to replicate. This would inhibit the bacteria’s ability to reproduce, and it would compromise its defense mechanisms.</para>
+</solution>
+</exercise>
+<exercise id="fs-id1195128">
+<problem id="fs-id1286512"><para id="fs-id1310945">Explain why not all microbes are harmful.</para></problem>
+<solution id="fs-id1407738"><label/>
+<para id="fs-id1214893">Some microbes are beneficial. For instance, <emphasis effect="italics">E. coli </emphasis>bacteria populate the human gut and help break down fiber in the diet. Some foods such as yogurt are formed by bacteria.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-id1330398"><term>nucleoid</term> <meaning id="fs-id1227229">central part of a prokaryotic cell in which the chromosome is found</meaning></definition>
+<definition id="fs-id1703590"><term>prokaryote</term> <meaning id="fs-id1338820">unicellular organism that lacks a nucleus or any other membrane-bound organelle</meaning></definition>
+</glossary>
+
+</document>

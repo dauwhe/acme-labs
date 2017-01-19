@@ -1,0 +1,148 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44594/latest/</md:content-url>
+  <md:content-id>m44594</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.2</md:version>
+  <md:created>2012/08/23 14:16:39 -0500</md:created>
+  <md:revised>2013/03/05 14:12:59.195 US/Central</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>acellular</md:keyword>
+    <md:keyword>acute</md:keyword>
+    <md:keyword>antiviral drug</md:keyword>
+    <md:keyword>asymptomatic infection</md:keyword>
+    <md:keyword>attenuating</md:keyword>
+    <md:keyword>AZT</md:keyword>
+    <md:keyword>back mutation</md:keyword>
+    <md:keyword>bacteriophage</md:keyword>
+    <md:keyword>budding</md:keyword>
+    <md:keyword>capsid</md:keyword>
+    <md:keyword>capsomeres</md:keyword>
+    <md:keyword>cell necrosis</md:keyword>
+    <md:keyword>chronic</md:keyword>
+    <md:keyword>cytopathic</md:keyword>
+    <md:keyword>egress</md:keyword>
+    <md:keyword>envelope</md:keyword>
+    <md:keyword>enveloped virions</md:keyword>
+    <md:keyword>enveloped viruses</md:keyword>
+    <md:keyword>filamentous viruses</md:keyword>
+    <md:keyword>fusion</md:keyword>
+    <md:keyword>galls</md:keyword>
+    <md:keyword>gene therapy</md:keyword>
+    <md:keyword>group I</md:keyword>
+    <md:keyword>group II</md:keyword>
+    <md:keyword>group III</md:keyword>
+    <md:keyword>group IV</md:keyword>
+    <md:keyword>group V</md:keyword>
+    <md:keyword>group VI</md:keyword>
+    <md:keyword>group VII</md:keyword>
+    <md:keyword>head and tail viruses</md:keyword>
+    <md:keyword>HIV</md:keyword>
+    <md:keyword>horizontal transmission</md:keyword>
+    <md:keyword>host</md:keyword>
+    <md:keyword>hyperplasia</md:keyword>
+    <md:keyword>hypoplasia</md:keyword>
+    <md:keyword>intermittent</md:keyword>
+    <md:keyword>isometric viruses</md:keyword>
+    <md:keyword>killed vaccine</md:keyword>
+    <md:keyword>latency</md:keyword>
+    <md:keyword>live vaccine</md:keyword>
+    <md:keyword>lysis</md:keyword>
+    <md:keyword>lysogenic cycle</md:keyword>
+    <md:keyword>lytic cycle</md:keyword>
+    <md:keyword>matrix proteins</md:keyword>
+    <md:keyword>negative polarity</md:keyword>
+    <md:keyword>oncogenic virus</md:keyword>
+    <md:keyword>oncolytic virus</md:keyword>
+    <md:keyword>pathogens</md:keyword>
+    <md:keyword>permissive</md:keyword>
+    <md:keyword>phage therapy</md:keyword>
+    <md:keyword>positive polarity</md:keyword>
+    <md:keyword>prion protein</md:keyword>
+    <md:keyword>prions</md:keyword>
+    <md:keyword>productive</md:keyword>
+    <md:keyword>prophage</md:keyword>
+    <md:keyword>PrP</md:keyword>
+    <md:keyword>receptor</md:keyword>
+    <md:keyword>replicative intermediates</md:keyword>
+    <md:keyword>reverse transcriptase</md:keyword>
+    <md:keyword>vaccination</md:keyword>
+    <md:keyword>vaccine</md:keyword>
+    <md:keyword>vertical transmission</md:keyword>
+    <md:keyword>viral assembly</md:keyword>
+    <md:keyword>viral capsids</md:keyword>
+    <md:keyword>viral morphology</md:keyword>
+    <md:keyword>viral receptors</md:keyword>
+    <md:keyword>viral replication</md:keyword>
+    <md:keyword>virion</md:keyword>
+    <md:keyword>viroids</md:keyword>
+    <md:keyword>virologist</md:keyword>
+    <md:keyword>virology</md:keyword>
+    <md:keyword>virus</md:keyword>
+    <md:keyword>virus attachment</md:keyword>
+    <md:keyword>virus core</md:keyword>
+    <md:keyword>virus detection</md:keyword>
+    <md:keyword>virus discovery</md:keyword>
+    <md:keyword>virus entry</md:keyword>
+    <md:keyword>virus evolution</md:keyword>
+    <md:keyword>virus infection</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<?cnx.eoc class="summary" title="Sections Summary"?>
+<?cnx.eoc class="art-exercise" title="Art Connections"?>
+<?cnx.eoc class="multiple-choice" title="Multiple Choice"?>
+<?cnx.eoc class="free-response" title="Free Response"?>
+<figure id="fig-ch21_00_01" class="splash">
+<media id="fs-idp2055024" alt="The left electron micrograph shows the tobacco mosaic virus, which is shaped like a long, thin rectangle. The right photo shows an orchid leaf in varying states of decay. Initial symptoms are yellow and brown spots. Eventually, the entire leaf turns yellow with brown blotches, then completely brown.">
+<image mime-type="image/jpg" src="Figure_21_00_01.jpg" width="600"/>
+</media>
+<caption>The tobacco mosaic virus (left), seen here by transmission electron microscopy, was the first virus to be discovered. The virus causes disease in tobacco and other plants, such as the orchid (right). (credit a: USDA ARS; credit b: modification of work by USDA Forest Service, Department of Plant Pathology Archive North Carolina State University; scale-bar data from Matt Russell)</caption>
+</figure>
+<para id="fs-idp125795120">No one knows exactly when viruses emerged or from where they came, since viruses do not leave historical footprints such as fossils. Modern viruses are thought to be a mosaic of bits and pieces of nucleic acids picked up from various sources along their respective evolutionary paths. Viruses are acellular, parasitic entities that are not classified within any kingdom. Unlike most living organisms, viruses are not cells and cannot divide. Instead, they infect a host cell and use the host&#8217;s replication processes to produce identical progeny virus particles. Viruses infect organisms as diverse as bacteria, plants, and animals. They exist in a netherworld between a living organism and a nonliving entity. Living things grow, metabolize, and reproduce. Viruses replicate, but to do so, they are entirely dependent on their host cells. They do not metabolize or grow, but are assembled in their mature form.</para>
+</content>
+</document>

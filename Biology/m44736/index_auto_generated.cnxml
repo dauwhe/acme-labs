@@ -1,0 +1,379 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Digestive Systems</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44736/latest/</md:content-url>
+  <md:content-id>m44736</md:content-id>
+  <md:title>Digestive Systems</md:title>
+  <md:version>1.6</md:version>
+  <md:created>2012/08/23 15:24:16 -0500</md:created>
+  <md:revised>2013/06/21 09:32:48.121 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>alimentary canal</md:keyword>
+    <md:keyword>amylase</md:keyword>
+    <md:keyword>animal digestion</md:keyword>
+    <md:keyword>anus</md:keyword>
+    <md:keyword>avian digestion</md:keyword>
+    <md:keyword>bile</md:keyword>
+    <md:keyword>bolus</md:keyword>
+    <md:keyword>carnivore</md:keyword>
+    <md:keyword>chyme</md:keyword>
+    <md:keyword>digestive system</md:keyword>
+    <md:keyword>duodenum</md:keyword>
+    <md:keyword>esophagus</md:keyword>
+    <md:keyword>gallbladder</md:keyword>
+    <md:keyword>gastrovascular cavity</md:keyword>
+    <md:keyword>gizzard</md:keyword>
+    <md:keyword>herbivore</md:keyword>
+    <md:keyword>ileum</md:keyword>
+    <md:keyword>jejunum</md:keyword>
+    <md:keyword>large intestine</md:keyword>
+    <md:keyword>lipase</md:keyword>
+    <md:keyword>liver</md:keyword>
+    <md:keyword>monogastric</md:keyword>
+    <md:keyword>nutrition</md:keyword>
+    <md:keyword>omnivore</md:keyword>
+    <md:keyword>pancreas</md:keyword>
+    <md:keyword>pepsin</md:keyword>
+    <md:keyword>pepsinogen</md:keyword>
+    <md:keyword>peristalsis</md:keyword>
+    <md:keyword>proventriculus</md:keyword>
+    <md:keyword>pseudo-ruminant</md:keyword>
+    <md:keyword>rectum</md:keyword>
+    <md:keyword>roughage</md:keyword>
+    <md:keyword>ruminant</md:keyword>
+    <md:keyword>salivary amylase</md:keyword>
+    <md:keyword>small intestine</md:keyword>
+    <md:keyword>sphincters</md:keyword>
+    <md:keyword>stomach</md:keyword>
+    <md:keyword>villi</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain the processes of digestion and absorption</item>
+<item>Compare and contrast different types of digestive systems</item>
+<item>Explain the specialized functions of the organs involved in processing food in the body</item>
+<item>Describe the ways in which organs work together to digest food and absorb nutrients</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idp163896272">Animals obtain their nutrition from the consumption of other organisms. Depending on their diet, animals can be classified into the following categories: plant eaters (herbivores), meat eaters (carnivores), and those that eat both plants and animals (omnivores). The nutrients and macromolecules present in food are not immediately accessible to the cells. There are a number of processes that modify food within the animal body in order to make the nutrients and organic molecules accessible for cellular function. As animals evolved in complexity of form and function, their digestive systems have also evolved to accommodate their various dietary needs.</para>
+<section id="fs-idp196362976">
+<title>Herbivores, Omnivores, and Carnivores</title>
+<para id="fs-idp23296176"><term>Herbivores</term> are animals whose primary food source is plant-based. Examples of herbivores, as shown in <link target-id="fig-ch34_01_01" document=""/> include vertebrates like deer, koalas, and some bird species, as well as invertebrates such as crickets and caterpillars. These animals have evolved digestive systems capable of handling large amounts of plant material. Herbivores can be further classified into frugivores (fruit-eaters), granivores (seed eaters), nectivores (nectar feeders), and folivores (leaf eaters).</para>
+<figure id="fig-ch34_01_01" class=" "><media id="fs-idp149779776" alt="Left photo shows a buck with antlers. Right photo shows a black, yellow, and white striped caterpillar eating a leaf.">
+<image mime-type="image/jpg" src="Figure_34_01_01ab.jpg" width="420"/>
+</media>
+<caption>Herbivores, like this (a) mule deer and (b) monarch caterpillar, eat primarily plant material. (credit a: modification of work by Bill Ebbesen; credit b: modification of work by Doug Bowman)</caption></figure><para id="fs-idp216826624"><term>Carnivores</term> are animals that eat other animals. The word carnivore is derived from Latin and literally means &#8220;meat eater.&#8221; Wild cats such as lions, shown in <link target-id="fig-ch34_01_02" document=""/><emphasis effect="bold">a</emphasis> and tigers are examples of vertebrate carnivores, as are snakes and sharks, while invertebrate carnivores include sea stars, spiders, and ladybugs, shown in <link target-id="fig-ch34_01_02" document=""/><emphasis effect="bold">b</emphasis>. Obligate carnivores are those that rely entirely on animal flesh to obtain their nutrients; examples of obligate carnivores are members of the cat family, such as lions and cheetahs. Facultative carnivores are those that also eat non-animal food in addition to animal food. Note that there is no clear line that differentiates facultative carnivores from omnivores; dogs would be considered facultative carnivores.</para>
+<figure id="fig-ch34_01_02" class=" "><media id="fs-idp2348336" alt="Top photo shows a lion. Bottom photo shows a ladybug.">
+<image mime-type="image/jpg" src="Figure_34_01_02ab.jpg" width="475"/>
+</media>
+<caption>Carnivores like the (a) lion eat primarily meat. The (b) ladybug is also a carnivore that consumes small insects called aphids. (credit a: modification of work by Kevin Pluck; credit b: modification of work by Jon Sullivan)</caption></figure><para id="fs-idp151063568"><term>Omnivores</term> are animals that eat both plant- and animal-derived food. In Latin, omnivore means to eat everything. Humans, bears (shown in <link target-id="fig-ch34_01_03" document=""/><emphasis effect="bold">a</emphasis>), and chickens are example of vertebrate omnivores; invertebrate omnivores include cockroaches and crayfish (shown in <link target-id="fig-ch34_01_03" document=""/><emphasis effect="bold">b</emphasis>).</para>
+<figure id="fig-ch34_01_03" class=" "><media id="fs-idp85734560" alt="Top photo shows a bear. Bottom photo shows a crayfish.">
+<image mime-type="image/jpg" src="Figure_34_01_03ab.jpg" width="475"/>
+</media>
+<caption>Omnivores like the (a) bear and (b) crayfish eat both plant and animal based food. (credit a: modification of work by Dave Menke; credit b: modification of work by Jon Sullivan)</caption></figure></section>
+<section id="fs-idp106437872">
+<title>Invertebrate Digestive Systems</title>
+<para id="fs-idm12906864">Animals have evolved different types of digestive systems to aid in the digestion of the different foods they consume. The simplest example is that of a <term>gastrovascular cavity</term> and is found in organisms with only one opening for digestion. Platyhelminthes (flatworms), Ctenophora (comb jellies), and Cnidaria (coral, jelly fish, and sea anemones) use this type of digestion. Gastrovascular cavities, as shown in <link target-id="fig-ch34_01_04" document=""/><emphasis effect="bold">a</emphasis>, are typically a blind tube or cavity with only one opening, the &#8220;mouth&#8221;, which also serves as an &#8220;anus&#8221;. Ingested material enters the mouth and passes through a hollow, tubular cavity. Cells within the cavity secrete digestive enzymes that break down the food. The food particles are engulfed by the cells lining the gastrovascular cavity.</para>
+<para id="fs-idp41840320">The <term>alimentary canal</term>, shown in <link target-id="fig-ch34_01_04" document=""/><emphasis effect="bold">b</emphasis>, is a more advanced system: it consists of one tube with a mouth at one end and an anus at the other. Earthworms are an example of an animal with an alimentary canal. Once the food is ingested through the mouth, it passes through the esophagus and is stored in an organ called the crop; then it passes into the gizzard where it is churned and digested. From the gizzard, the food passes through the intestine, the nutrients are absorbed, and the waste is eliminated as feces, called castings, through the anus.</para>
+<figure id="fig-ch34_01_04" class=" "><media id="fs-idp73808048" alt="Part A shows a hydra, which has a vase-shaped body with tentacles around the rim. The hydra&#8217;s mouth is located between the tentacles, at the top of the vase. Next to the hydra is a jellyfish medusa, which is bell shaped with tentacles hanging down from the edge of the bell. The mouth, in the lower middle part of the body, opens into the gastrovascular cavity. Part B shows a nematode, which has a long, tube-like body that is wide at one end and tapers down to a tail at the other. The mouth is in the center of the wide end. It opens into an esophagus, then a pharynx. The pharynx empties into a long intestine, which ends at the anus a short distance before the tail.">
+<image mime-type="image/jpg" src="Figure_34_01_04ab.jpg" width="500"/>
+</media>
+<caption>(a) A gastrovascular cavity has a single opening through which food is ingested and waste is excreted, as shown in this hydra and in this jellyfish medusa. (b) An alimentary canal has two openings: a mouth for ingesting food, and an anus for eliminating waste, as shown in this nematode.</caption></figure></section>
+<section id="fs-idp306092432">
+<title>Vertebrate Digestive Systems</title>
+<para id="fs-idp209902992">Vertebrates have evolved more complex digestive systems to adapt to their dietary needs. Some animals have a single stomach, while others have multi-chambered stomachs. Birds have developed a digestive system adapted to eating unmasticated food.</para>
+<section id="fs-idp158657472">
+<title>Monogastric: Single-chambered Stomach</title>
+<para id="fs-idp69083328">As the word <term>monogastric</term> suggests, this type of digestive system consists of one (&#8220;mono&#8221;) stomach chamber (&#8220;gastric&#8221;). Humans and many animals have a monogastric digestive system as illustrated in <link target-id="fig-ch34_01_05" document=""/><emphasis effect="bold">ab</emphasis>. The process of digestion begins with the mouth and the intake of food. The teeth play an important role in masticating (chewing) or physically breaking down food into smaller particles. The enzymes present in saliva also begin to chemically break down food. The esophagus is a long tube that connects the mouth to the stomach. Using peristalsis, or wave-like smooth muscle contractions, the muscles of the esophagus push the food towards the stomach. In order to speed up the actions of enzymes in the stomach, the stomach is an extremely acidic environment, with a pH between 1.5 and 2.5. The gastric juices, which include enzymes in the stomach, act on the food particles and continue the process of digestion. Further breakdown of food takes place in the small intestine where enzymes produced by the liver, the small intestine, and the pancreas continue the process of digestion. The nutrients are absorbed into the blood stream across the epithelial cells lining the walls of the small intestines. The waste material travels on to the large intestine where water is absorbed and the drier waste material is compacted into feces; it is stored until it is excreted through the rectum.</para>
+<figure id="fig-ch34_01_05" class=" "><media id="fs-idp48847664" alt="The basic components of the human and rabbit digestive system are the same: each begins at the mouth. Food is swallowed through the esophagus and into the kidney-shaped stomach. The liver is located on top of the stomach, and the pancreas is underneath. Food passes from the stomach to the long, winding small intestine. From there it enters the wide large intestine before passing out the anus. At the junction of the small and large intestine is a pouch called the cecum. The small and large intestines are much longer in rabbits than in humans, and the cecum is much longer as well.">
+<image mime-type="image/jpg" src="Figure_34_01_05ab.jpg" width="500"/>
+</media>
+<caption>(a) Humans and herbivores, such as the (b) rabbit, have a monogastric digestive system. However, in the rabbit the small intestine and cecum are enlarged to allow more time to digest plant material. The enlarged organ provides more surface area for absorption of nutrients. Rabbits digest their food twice: the first time food passes through the digestive system, it collects in the cecum, and then it passes as soft feces called cecotrophes. The rabbit re-ingests these cecotrophes to further digest them.</caption></figure></section>
+<section id="fs-idp56612176"><title>Avian</title><para id="fs-idp113943792">Birds face special challenges when it comes to obtaining nutrition from food. They do not have teeth and so their digestive system, shown in <link target-id="fig-ch34_01_06" document=""/>, must be able to process un-masticated food. Birds have evolved a variety of beak types that reflect the vast variety in their diet, ranging from seeds and insects to fruits and nuts. Because most birds fly, their metabolic rates are high in order to efficiently process food and keep their body weight low. The stomach of birds has two chambers: the <term>proventriculus</term>, where gastric juices are produced to digest the food before it enters the stomach, and the <term>gizzard</term>, where the food is stored, soaked, and mechanically ground. The undigested material forms food pellets that are sometimes regurgitated. Most of the chemical digestion and absorption happens in the intestine and the waste is excreted through the cloaca.</para>
+<figure id="fig-ch34_01_06" class=" "><media id="fs-idp234856704" alt="Illustration shows an avian digestive system. Food is swallowed through the esophagus into the crop, which is shaped like an upside-down heart. From the bottom of the crop food enters a tubular proventriculus, which empties into a spherical gizzard. From the gizzard, food enters the small intestine, then the large intestine. Waste exits the body through the cloaca. The liver and pancreas are located between the crop and gizzard. Rather than a single cecum, birds have two caeca at the junction of the small and large intestine.">
+<image mime-type="image/jpg" src="Figure_34_01_06.jpg" width="280"/>
+</media>
+<caption>The avian esophagus has a pouch, called a crop, which stores food. Food passes from the crop to the first of two stomachs, called the proventriculus, which contains digestive juices that break down food. From the proventriculus, the food enters the second stomach, called the gizzard, which grinds food. Some birds swallow stones or grit, which are stored in the gizzard, to aid the grinding process. Birds do not have separate openings to excrete urine and feces. Instead, uric acid from the kidneys is secreted into the large intestine and combined with waste from the digestive process. This waste is excreted through an opening called the cloaca.</caption></figure><note id="fs-idp241176848" class="evolution"><label/><title>Evolution Connection</title>
+
+<para id="fs-idp171171200"><title>Avian Adaptations</title>Birds have a highly efficient, simplified digestive system. Recent fossil evidence has shown that the evolutionary divergence of birds from other land animals was characterized by streamlining and simplifying the digestive system. Unlike many other animals, birds do not have teeth to chew their food. In place of lips, they have sharp pointy beaks. The horny beak, lack of jaws, and the smaller tongue of the birds can be traced back to their dinosaur ancestors. The emergence of these changes seems to coincide with the inclusion of seeds in the bird diet. Seed-eating birds have beaks that are shaped for grabbing seeds and the two-compartment stomach allows for delegation of tasks. Since birds need to remain light in order to fly, their metabolic rates are very high, which means they digest their food very quickly and need to eat often. Contrast this with the ruminants, where the digestion of plant matter takes a very long time.</para>
+</note></section><section id="fs-idp85651216">
+<title>Ruminants</title>
+<para id="fs-idp2702592"><term>Ruminants</term> are mainly herbivores like cows, sheep, and goats, whose entire diet consists of eating large amounts of <term>roughage</term> or fiber. They have evolved digestive systems that help them digest vast amounts of cellulose. An interesting feature of the ruminants&#8217; mouth is that they do not have upper incisor teeth. They use their lower teeth, tongue and lips to tear and chew their food. From the mouth, the food travels to the esophagus and on to the stomach.</para>
+<para id="fs-idp23426208">To help digest the large amount of plant material, the stomach of the ruminants is a multi-chambered organ, as illustrated in <link target-id="fig-ch34_01_07" document=""/>. The four compartments of the stomach are called the rumen, reticulum, omasum, and abomasum. These chambers contain many microbes that break down cellulose and ferment ingested food. The abomasum is the &#8220;true&#8221; stomach and is the equivalent of the monogastric stomach chamber where gastric juices are secreted. The four-compartment gastric chamber provides larger space and the microbial support necessary to digest plant material in ruminants. The fermentation process produces large amounts of gas in the stomach chamber, which must be eliminated. As in other animals, the small intestine plays an important role in nutrient absorption, and the large intestine helps in the elimination of waste.</para>
+<figure id="fig-ch34_01_07" class=" "><media id="fs-idp164265472" alt="Illustration shows the digestive system of a goat. Food passes from the mouth, through the esophagus and into the rumen. It circulates clockwise through the rumen, then moves forward, and down into the small, pouch-shaped reticulum. From the reticulum the food, which is now cud, is regurgitated. The animal chews the cud, and then swallows it into the coiled omasum, which sits between the reticulum and the rumen. After circulating through the omasum the food enters the small intestine, then the large intestine. Waste is excreted through the anus.">
+<image mime-type="image/jpg" src="Figure_34_01_07.jpg" width="520"/>
+</media>
+<caption>Ruminant animals, such as goats and cows, have four stomachs. The first two stomachs, the rumen and the reticulum, contain prokaryotes and protists that are able to digest cellulose fiber. The ruminant regurgitates cud from the reticulum, chews it, and swallows it into a third stomach, the omasum, which removes water. The cud then passes onto the fourth stomach, the abomasum, where it is digested by enzymes produced by the ruminant.</caption></figure></section>
+<section id="fs-idp155690544">
+<title>Pseudo-ruminants</title>
+<para id="fs-idp126755792">Some animals, such as camels and alpacas, are pseudo-ruminants. They eat a lot of plant material and roughage. Digesting plant material is not easy because plant cell walls contain the polymeric sugar molecule cellulose. The digestive enzymes of these animals cannot break down cellulose, but microorganisms present in the digestive system can. Therefore, the digestive system must be able to handle large amounts of roughage and break down the cellulose. Pseudo-ruminants have a three-chamber stomach in the digestive system. However, their cecum&#8212;a pouched organ at the beginning of the large intestine containing many microorganisms that are necessary for the digestion of plant materials&#8212;is large and is the site where the roughage is fermented and digested. These animals do not have a rumen but have an omasum, abomasum, and reticulum.</para></section>
+</section>
+<section id="fs-idp89008416">
+<title>Parts of the Digestive System</title>
+<para id="fs-idp39502432">The vertebrate digestive system is designed to facilitate the transformation of food matter into the nutrient components that sustain organisms.</para>
+<section id="fs-idp44013200">
+<title>Oral Cavity</title>
+<para id="fs-idp135586480">The oral cavity, or mouth, is the point of entry of food into the digestive system, illustrated in <link target-id="fig-ch34_01_08" document=""/>. The food consumed is broken into smaller particles by mastication, the chewing action of the teeth. All mammals have teeth and can chew their food.</para>
+<para id="fs-idp41971632">The extensive chemical process of digestion begins in the mouth. As food is being chewed, saliva, produced by the salivary glands, mixes with the food. Saliva is a watery substance produced in the mouths of many animals. There are three major glands that secrete saliva&#8212;the parotid, the submandibular, and the sublingual. Saliva contains mucus that moistens food and buffers the pH of the food. Saliva also contains immunoglobulins and lysozymes, which have antibacterial action to reduce tooth decay by inhibiting growth of some bacteria. Saliva also contains an enzyme called <term>salivary amylase</term> that begins the process of converting starches in the food into a disaccharide called maltose. Another enzyme called <term>lipase</term> is produced by the cells in the tongue. Lipases are a class of enzymes that can break down triglycerides. The lingual lipase begins the breakdown of fat components in the food. The chewing and wetting action provided by the teeth and saliva prepare the food into a mass called the <term>bolus</term> for swallowing. The tongue helps in swallowing&#8212;moving the bolus from the mouth into the pharynx. The pharynx opens to two passageways: the trachea, which leads to the lungs, and the esophagus, which leads to the stomach. The trachea has an opening called the glottis, which is covered by a cartilaginous flap called the epiglottis. When swallowing, the epiglottis closes the glottis and food passes into the esophagus and not the trachea. This arrangement allows food to be kept out of the trachea.</para><figure id="fig-ch34_01_08" class=" "><media id="fs-idp75588240" alt="Illustration A shows the parts of the human oral cavity. The tongue rests in the lower part of the mouth. The flap that hangs from the back of the mouth is the uvula. The airway behind the uvula, called the pharynx, extends up to the nostrils and down to the esophagus, which begins in the neck. Illustration B shows the two salivary glands, which are located beneath the tongue, the sublingual and the submandibular. A third salivary gland, the parotid, is located behind the pharynx.">
+<image mime-type="image/jpg" src="Figure_34_01_08ab.jpg" width="520"/>
+</media>
+<caption>Digestion of food begins in the (a) oral cavity. Food is masticated by teeth and moistened by saliva secreted from the (b) salivary glands. Enzymes in the saliva begin to digest starches and fats. With the help of the tongue, the resulting bolus is moved into the esophagus by swallowing. (credit: modification of work by the National Cancer Institute)</caption></figure></section>
+<section id="fs-idp297882144">
+<title>Esophagus</title>
+<para id="fs-idm19431296">The <term>esophagus</term> is a tubular organ that connects the mouth to the stomach. The chewed and softened food passes through the esophagus after being swallowed. The smooth muscles of the esophagus undergo a series of wave like movements called <term>peristalsis</term> that push the food toward the stomach, as illustrated in <link target-id="fig-ch34_01_09" document=""/>. The peristalsis wave is unidirectional&#8212;it moves food from the mouth to the stomach, and reverse movement is not possible. The peristaltic movement of the esophagus is an involuntary reflex; it takes place in response to the act of swallowing.</para>
+<figure id="fig-ch34_01_09" class=" "><media id="fs-idp218425056" alt="Photo shows food moving down the esophagus, which is a muscular tube. Muscles constrict behind the food. The constriction moves down, pushing the food ahead of it, from the mouth to the stomach.">
+<image mime-type="image/jpg" src="Figure_34_01_09.jpg" width="320"/>
+</media>
+<caption>The esophagus transfers food from the mouth to the stomach through peristaltic movements.</caption></figure><para id="fs-idp234929280">A ring-like muscle called a <term>sphincter</term> forms valves in the digestive system. The gastro-esophageal sphincter is located at the stomach end of the esophagus. In response to swallowing and the pressure exerted by the bolus of food, this sphincter opens, and the bolus enters the stomach. When there is no swallowing action, this sphincter is shut and prevents the contents of the stomach from traveling up the esophagus. Many animals have a true sphincter; however, in humans, there is no true sphincter, but the esophagus remains closed when there is no swallowing action. Acid reflux or &#8220;heartburn&#8221; occurs when the acidic digestive juices escape into the esophagus.</para>
+</section>
+<section id="fs-idp42073760">
+<title>Stomach</title>
+<para id="fs-idp159285808">A large part of digestion occurs in the stomach, shown in <link target-id="fig-ch34_01_10" document=""/>. The <term>stomach</term> is a saclike organ that secretes gastric digestive juices. The pH in the stomach is between 1.5 and 2.5. This highly acidic environment is required for the chemical breakdown of food and the extraction of nutrients. When empty, the stomach is a rather small organ; however, it can expand to up to 20 times its resting size when filled with food. This characteristic is particularly useful for animals that need to eat when food is available.</para>
+<note id="fs-idp1831296" class="art-connection"><label/><title>Art Connection</title>
+<para id="fs-idp127130896"><figure id="fig-ch34_01_10" class=" "><media id="fs-idm7467072" alt="Illustration shows the human lower digestive system, which begins with the stomach, a sac that lies above the large intestine. The stomach empties into the small intestine, which is a long, highly folded tube. The beginning of the small intestine is called the duodenum, the long middle part is called the jejunum, and the end is called the ileum. The ileum empties into the large intestine on the right side of the body. Beneath the junction of the small and large intestine is a small pouch called the cecum. The appendix is at the bottom end of the cecum. The large intestine travels up the left side of the body, across the top of the small intestine, then down the right side of the body. These parts of the large intestine are called the ascending colon, the transverse colon and the descending colon, respectively. The large intestine empties into the rectum, which is connected to the anus. The pancreas is sandwiched between the stomach and large intestine. The liver is a triangular organ that sits above and slightly to the right of the stomach. The gallbladder is a small bulb between the liver and stomach.">
+<image mime-type="image/png" src="Figure_34_01_10f.png" width="380"/>
+</media>
+<caption>The human stomach has an extremely acidic environment where most of the protein gets digested. (credit: modification of work by Mariana Ruiz Villareal)</caption></figure></para>
+<para id="fs-idp81441952">Which of the following statements about the digestive system is false?</para>
+<list id="fs-idp68495840" list-type="enumerated" number-style="lower-alpha">    
+    <item>Chyme is a mixture of food and digestive juices that is produced in the stomach.</item>
+<item>Food enters the large intestine before the small intestine.</item>
+<item>In the small intestine, chyme mixes with bile, which emulsifies fats.</item>
+<item>The stomach is separated from the small intestine by the pyloric sphincter.</item>
+</list>
+<!--<para><link target-id="fig-ch34_01_10" document=""/>B</para>-->
+</note><para id="fs-idp130425184">The stomach is also the major site for protein digestion in animals other than ruminants. Protein digestion is mediated by an enzyme called pepsin in the stomach chamber. <term>Pepsin</term> is secreted by the chief cells in the stomach in an inactive form called <term>pepsinogen</term>. Pepsin breaks peptide bonds and cleaves proteins into smaller polypeptides; it also helps activate more pepsinogen, starting a positive feedback mechanism that generates more pepsin. Another cell type&#8212;parietal cells&#8212;secrete hydrogen and chloride ions, which combine in the lumen to form hydrochloric acid, the primary acidic component of the stomach juices. Hydrochloric acid helps to convert the inactive pepsinogen to pepsin. The highly acidic environment also kills many microorganisms in the food and, combined with the action of the enzyme pepsin, results in the hydrolysis of protein in the food. Chemical digestion is facilitated by the churning action of the stomach. Contraction and relaxation of smooth muscles mixes the stomach contents about every 20 minutes. The partially digested food and gastric juice mixture is called <term>chyme</term>. Chyme passes from the stomach to the small intestine. Further protein digestion takes place in the small intestine. Gastric emptying occurs within two to six hours after a meal. Only a small amount of chyme is released into the small intestine at a time. The movement of chyme from the stomach into the small intestine is regulated by the pyloric sphincter.</para><para id="fs-idp125384464">When digesting protein and some fats, the stomach lining must be protected from getting digested by pepsin. There are two points to consider when describing how the stomach lining is protected. First, as previously mentioned, the enzyme pepsin is synthesized in the inactive form. This protects the chief cells, because pepsinogen does not have the same enzyme functionality of pepsin. Second, the stomach has a thick mucus lining that protects the underlying tissue from the action of the digestive juices. When this mucus lining is ruptured, ulcers can form in the stomach. Ulcers are open wounds in or on an organ caused by bacteria (<emphasis effect="italics">Helicobacter pylori</emphasis>) when the mucus lining is ruptured and fails to reform.</para>
+</section>
+<section id="fs-idp121333024">
+<title>Small Intestine</title>
+<para id="fs-idp216789728">Chyme moves from the stomach to the small intestine. The <term>small intestine</term> is the organ where the digestion of protein, fats, and carbohydrates is completed. The small intestine is a long tube-like organ with a highly folded surface containing finger-like projections called the <term>villi</term>. The apical surface of each villus has many microscopic projections called microvilli. These structures, illustrated in <link target-id="fig-ch34_01_11" document=""/>, are lined with epithelial cells on the luminal side and allow for the nutrients to be absorbed from the digested food and absorbed into the blood stream on the other side. The villi and microvilli, with their many folds, increase the surface area of the intestine and increase absorption efficiency of the nutrients. Absorbed nutrients in the blood are carried into the hepatic portal vein, which leads to the liver. There, the liver regulates the distribution of nutrients to the rest of the body and removes toxic substances, including drugs, alcohol, and some pathogens.</para>
+<note id="fs-idp164007664" class="art-connection"><label/><title>Art Connection</title>
+<para id="fs-idp34570352"><figure id="fig-ch34_01_11" class=" "><media id="fs-idp170388752" alt="Illustration shows a cross section of the small intestine, the lumen, or inside of which has many fingerlike projections called villi. Muscle layers wrap around the outside of the intestine, and blood vessels interact with the muscle layer. A blowup shows that capillaries and lymphatic vessels travel up inside the villi. The surface of each villus is covered with hairline microvilli.">
+<image mime-type="image/png" src="Figure_34_01_11f.png" width="500"/>
+</media>
+<caption>Villi are folds on the small intestine lining that increase the surface area to facilitate the absorption of nutrients.</caption></figure></para>
+<para id="fs-idp112886320">Which of the following statements about the small intestine is false?</para>
+<list id="fs-idp163935952" list-type="enumerated" number-style="lower-alpha">
+    <item>Absorptive cells that line the small intestine have microvilli, small projections that increase surface area and aid in the absorption of food.</item>
+<item>The inside of the small intestine has many folds, called villi.</item>
+<item>Microvilli are lined with blood vessels as well as lymphatic vessels.</item>
+<item>The inside of the small intestine is called the lumen.</item>
+</list>
+<!--<para><link target-id="fig-ch34_01_11" document=""/>C</para>-->
+</note><para id="fs-idp109217840">The human small intestine is over 6m long and is divided into three parts: the duodenum, the jejunum, and the ileum. The &#8220;C-shaped,&#8221; fixed part of the small intestine is called the <term>duodenum</term> and is shown in <link target-id="fig-ch34_01_10" document=""/>. The duodenum is separated from the stomach by the pyloric sphincter which opens to allow chyme to move from the stomach to the duodenum. In the duodenum, chyme is mixed with pancreatic juices in an alkaline solution rich in bicarbonate that neutralizes the acidity of chyme and acts as a buffer. Pancreatic juices also contain several digestive enzymes. Digestive juices from the pancreas, liver, and gallbladder, as well as from gland cells of the intestinal wall itself, enter the duodenum. <term>Bile</term> is produced in the liver and stored and concentrated in the gallbladder. Bile contains bile salts which emulsify lipids while the pancreas produces enzymes that catabolize starches, disaccharides, proteins, and fats. These digestive juices break down the food particles in the chyme into glucose, triglycerides, and amino acids. Some chemical digestion of food takes place in the duodenum. Absorption of fatty acids also takes place in the duodenum.</para>
+<para id="fs-idp250965392">The second part of the small intestine is called the <term>jejunum</term>, shown in <link target-id="fig-ch34_01_10" document=""/>. Here, hydrolysis of nutrients is continued while most of the carbohydrates and amino acids are absorbed through the intestinal lining. The bulk of chemical digestion and nutrient absorption occurs in the jejunum.</para><para id="fs-idp35143728">The <term>ileum</term>, also illustrated in <link target-id="fig-ch34_01_10" document=""/> is the last part of the small intestine and here the bile salts and vitamins are absorbed into blood stream. The undigested food is sent to the colon from the ileum via peristaltic movements of the muscle. The ileum ends and the large intestine begins at the ileocecal valve. The vermiform, &#8220;worm-like,&#8221; appendix is located at the ileocecal valve. The appendix of humans secretes no enzymes and has an insignificant role in immunity.</para>
+</section>
+<section id="fs-idp257850256">
+<title>Large Intestine</title>
+<para id="fs-idp69281472">The <term>large intestine</term>, illustrated in <link target-id="fig-ch34_01_12" document=""/>, reabsorbs the water from the undigested food material and processes the waste material. The human large intestine is much smaller in length compared to the small intestine but larger in diameter. It has three parts: the cecum, the colon, and the rectum. The cecum joins the ileum to the colon and is the receiving pouch for the waste matter. The colon is home to many bacteria or &#8220;intestinal flora&#8221; that aid in the digestive processes. The colon can be divided into four regions, the ascending colon, the transverse colon, the descending colon and the sigmoid colon. The main functions of the colon are to extract the water and mineral salts from undigested food, and to store waste material. Carnivorous mammals have a shorter large intestine compared to herbivorous mammals due to their diet.</para>
+<figure id="fig-ch34_01_12" class=" "><media id="fs-idp121318912" alt="Illustration shows the structure of the large intestine, which begins with the ascending colon. Below the ascending colon is the cecum. The vermiform appendix is a small projection at the bottom of the cecum. The ascending colon travels up the right side of the body, then turns into the transverse colon. On the left side of the body the large intestine turns again, into the descending colon. At the bottom, the descending colon curves up; this part of the intestine is called the sigmoid colon. The sigmoid colon empties into the rectum. The rectum travels straight down, to the anus.">
+<image mime-type="image/jpg" src="Figure_34_01_12.jpg" width="320"/>
+</media>
+<caption>The large intestine reabsorbs water from undigested food and stores waste material until it is eliminated.</caption></figure></section>
+<section id="fs-idm9026240">
+<title>Rectum and Anus</title>
+<para id="fs-idp69076576">The <term>rectum</term> is the terminal end of the large intestine, as shown in <link target-id="fig-ch34_01_12" document=""/>. The primary role of the rectum is to store the feces until defecation. The feces are propelled using peristaltic movements during elimination. The <term>anus</term> is an opening at the far-end of the digestive tract and is the exit point for the waste material. Two sphincters between the rectum and anus control elimination: the inner sphincter is involuntary and the outer sphincter is voluntary.</para></section>
+<section id="fs-idp65104752">
+<title>Accessory Organs</title>
+<para id="fs-idp42463664">The organs discussed above are the organs of the digestive tract through which food passes. Accessory organs are organs that add secretions (enzymes) that catabolize food into nutrients. Accessory organs include salivary glands, the liver, the pancreas, and the gallbladder. The liver, pancreas, and gallbladder are regulated by hormones in response to the food consumed.</para>
+<para id="fs-idp230093488">The <term>liver</term> is the largest internal organ in humans and it plays a very important role in digestion of fats and detoxifying blood. The liver produces bile, a digestive juice that is required for the breakdown of fatty components of the food in the duodenum. The liver also processes the vitamins and fats and synthesizes many plasma proteins.</para>
+<para id="fs-idp230442896">The <term>pancreas</term> is another important gland that secretes digestive juices. The chyme produced from the stomach is highly acidic in nature; the pancreatic juices contain high levels of bicarbonate, an alkali that neutralizes the acidic chyme. Additionally, the pancreatic juices contain a large variety of enzymes that are required for the digestion of protein and carbohydrates.</para>
+<para id="fs-idp7246416">The <term>gallbladder</term> is a small organ that aids the liver by storing bile and concentrating bile salts. When chyme containing fatty acids enters the duodenum, the bile is secreted from the gallbladder into the duodenum.</para></section>
+</section>
+<section id="fs-idp225850256" class="summary">
+<title>Section Summary</title><para id="fs-idp43421888">Different animals have evolved different types of digestive systems specialized to meet their dietary needs. Humans and many other animals have monogastric digestive systems with a single-chambered stomach. Birds have evolved a digestive system that includes a gizzard where the food is crushed into smaller pieces. This compensates for their inability to masticate. Ruminants that consume large amounts of plant material have a multi-chambered stomach that digests roughage. Pseudo-ruminants have similar digestive processes as ruminants but do not have the four-compartment stomach. Processing food involves ingestion (eating), digestion (mechanical and enzymatic breakdown of large molecules), absorption (cellular uptake of nutrients), and elimination (removal of undigested waste as feces).</para>
+<para id="fs-idp22214512">Many organs work together to digest food and absorb nutrients. The mouth is the point of ingestion and the location where both mechanical and chemical breakdown of food begins. Saliva contains an enzyme called amylase that breaks down carbohydrates. The food bolus travels through the esophagus by peristaltic movements to the stomach. The stomach has an extremely acidic environment. An enzyme called pepsin digests protein in the stomach. Further digestion and absorption take place in the small intestine. The large intestine reabsorbs water from the undigested food and stores waste until elimination.</para>
+    </section>
+<section id="fs-idp106557552" class="art-exercise"><title>Art Connections</title><exercise id="fs-idp100804720">
+    <problem id="fs-idp141633968">
+        <para id="fs-idm24040880"><link target-id="fig-ch34_01_10" document=""/> Which of the following statements about the digestive system is false?</para>
+<list id="fs-idp663040" list-type="enumerated" number-style="lower-alpha">
+    <item>Chyme is a mixture of food and digestive juices that is produced in the stomach.</item>
+<item>Food enters the large intestine before the small intestine.</item>
+<item>In the small intestine, chyme mixes with bile, which emulsifies fats.</item>
+<item>The stomach is separated from the small intestine by the pyloric sphincter.</item>
+    </list>
+        </problem>
+    <solution id="fs-idp75586832"><label/>
+        <para id="fs-idm24561424"><link target-id="fig-ch34_01_10" document=""/> B</para>
+    </solution>
+</exercise>
+<exercise id="fs-idp125567200">
+    <problem id="fs-idp27779728">
+        <para id="fs-idp69717056"><link target-id="fig-ch34_01_11" document=""/> Which of the following statements about the small intestine is false?</para>
+<list id="fs-idp67213072" list-type="enumerated" number-style="lower-alpha">
+    <item>Absorptive cells that line the small intestine have microvilli, small projections that increase surface area and aid in the absorption of food.</item>
+<item>The inside of the small intestine has many folds, called villi.</item>
+<item>Microvilli are lined with blood vessels as well as lymphatic vessels.</item>
+<item>The inside of the small intestine is called the lumen.</item>
+    </list>
+    </problem>
+    <solution id="fs-idm68754688"><label/>
+        <para id="fs-idp264027840"><link target-id="fig-ch34_01_11" document=""/> C</para>
+    </solution>
+</exercise>
+</section><section id="fs-idp223857232" class="multiple-choice"><title>Review Questions</title><exercise id="fs-idp230293872">
+        <problem id="fs-idp91683568">
+        <para id="fs-idp41527168">Which of the following is a pseudo-ruminant?</para>
+    <list id="fs-idp137758800" list-type="enumerated" number-style="lower-alpha">
+        <item>cow</item>
+    <item>pig</item>
+    <item>crow</item>
+    <item>horse</item>
+    </list>
+    </problem>
+    <solution id="fs-idp59154320"><label/>
+    <para id="fs-idp56140656">D</para>
+    </solution>
+    </exercise>
+<exercise id="fs-idp82804064">
+    <problem id="fs-idp130556320">
+        <para id="fs-idp7093616">Which of the following statements is untrue?</para>
+<list id="fs-idp168919664" list-type="enumerated" number-style="lower-alpha">
+    <item>Roughage takes a long time to digest.</item>
+<item>Birds eat large quantities at one time so that they can fly long distances.</item>
+<item>Cows do not have upper teeth.</item>
+<item>In pseudo-ruminants, roughage is digested in the cecum.</item>
+</list>
+    </problem>
+    <solution id="fs-idp195574656">
+        <label/>
+    <para id="fs-idp112161616">B</para>
+    </solution>
+</exercise>
+<exercise id="fs-idp29187296">
+    <problem id="fs-idp121000928">
+        <para id="fs-idp81040064">The acidic nature of chyme is neutralized by ________.</para>
+    <list id="fs-idp51127280" list-type="enumerated" number-style="lower-alpha">
+        <item>potassium hydroxide</item>
+        <item>sodium hydroxide</item>
+        <item>bicarbonates</item>
+        <item>vinegar</item>
+    </list>
+    </problem>
+    <solution id="fs-idp86000">
+        <label/>
+    <para id="fs-idp69012336">C</para>
+    </solution>
+</exercise>
+<exercise id="fs-idp270948128">
+    <problem id="fs-idp79301120">
+        <para id="fs-idp63250928">The digestive juices from the liver are delivered to the ________.</para>
+    <list id="fs-idp236998352" list-type="enumerated" number-style="lower-alpha">
+        <item>stomach</item>
+    <item>liver</item>
+    <item>duodenum</item>
+    <item>colon</item>
+    </list>
+    </problem>
+    <solution id="fs-idp105284288">
+        <label/>
+    <para id="fs-idp155460304">C</para>
+    </solution>
+</exercise>
+</section><section id="fs-idm1105296" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idp149773760">
+<problem id="fs-idp206879312"><para id="fs-idp28418704">How does the polygastric digestive system aid in digesting roughage?</para></problem>
+<solution id="fs-idm17450352"><label/>
+<para id="fs-idp69575216">Animals with a polygastric digestive system have a multi-chambered stomach. The four compartments of the stomach are called the rumen, reticulum, omasum, and abomasum. These chambers contain many microbes that break down the cellulose and ferment the ingested food. The abomasum is the &#8220;true&#8221; stomach and is the equivalent of a monogastric stomach chamber where gastric juices are secreted. The four-compartment gastric chamber provides larger space and the microbial support necessary for ruminants to digest plant material.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp46140048">
+<problem id="fs-idp161278112"><para id="fs-idp43162624">How do birds digest their food in the absence of teeth?</para></problem>
+<solution id="fs-idm5247344"><label/>
+<para id="fs-idp89015952">Birds have a stomach chamber called a gizzard. Here, the food is stored, soaked, and ground into finer particles, often using pebbles. Once this process is complete, the digestive juices take over in the proventriculus and continue the digestive process.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp197210288">
+<problem id="fs-idp36782976"><para id="fs-idp61052128">What is the role of the accessory organs in digestion?</para></problem>
+<solution id="fs-idp137778048"><label/>
+<para id="fs-idm7992624">Accessory organs play an important role in producing and delivering digestive juices to the intestine during digestion and absorption. Specifically, the salivary glands, liver, pancreas, and gallbladder play important roles. Malfunction of any of these organs can lead to disease states.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp106489616">
+<problem id="fs-idp195513344"><para id="fs-idp35411264">Explain how the villi and microvilli aid in absorption.</para></problem>
+<solution id="fs-idm1671760"><label/>
+<para id="fs-idp135988192">The villi and microvilli are folds on the surface of the small intestine. These folds increase the surface area of the intestine and provide more area for the absorption of nutrients.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idp138883888"><term>alimentary canal</term> <meaning id="fs-idp133326416">tubular digestive system with a mouth and anus</meaning></definition>
+<definition id="fs-idp252651552"><term>anus</term> <meaning id="fs-idp107454176">exit point for waste material</meaning></definition>
+<definition id="fs-idp228680832"><term>bile</term> <meaning id="fs-idp29248176">digestive juice produced by the liver; important for digestion of lipids</meaning></definition>
+<definition id="fs-idp234369312"><term>bolus</term> <meaning id="fs-idp56701360">mass of food resulting from chewing action and wetting by saliva</meaning></definition>
+<definition id="fs-idp42566576"><term>carnivore</term> <meaning id="fs-idp139945888">animal that consumes animal flesh</meaning></definition>
+<definition id="fs-idp27857632"><term>chyme</term> <meaning id="fs-idm8203856">mixture of partially digested food and stomach juices</meaning></definition>
+<definition id="fs-idm96981600"><term>duodenum</term> <meaning id="fs-idp72067920">first part of the small intestine where a large part of digestion of carbohydrates and fats occurs</meaning></definition>
+<definition id="fs-idp128817984"><term>esophagus</term> <meaning id="fs-idm61378960">tubular organ that connects the mouth to the stomach</meaning></definition>
+<definition id="fs-idp100861744"><term>gallbladder</term> <meaning id="fs-idp136020800">organ that stores and concentrates bile</meaning></definition>
+<definition id="fs-idp76809872"><term>gastrovascular cavity</term> <meaning id="fs-idp127048320">digestive system consisting of a single opening</meaning></definition>
+<definition id="fs-idp117040224"><term>gizzard</term> <meaning id="fs-idp80648624">muscular organ that grinds food</meaning></definition>
+<definition id="fs-idm10231824"><term>herbivore</term> <meaning id="fs-idp29187952">animal that consumes strictly plant diet</meaning></definition>
+<definition id="fs-idp105517088"><term>ileum</term> <meaning id="fs-idm10698448">last part of the small intestine; connects the small intestine to the large intestine; important for absorption of B-12</meaning></definition>
+<definition id="fs-idp145923232"><term>jejunum</term> <meaning id="fs-idp152076448">second part of the small intestine</meaning></definition>
+<definition id="fs-idp2497872"><term>large intestine</term> <meaning id="fs-idp149321776">digestive system organ that reabsorbs water from undigested material and processes waste matter</meaning></definition>
+<definition id="fs-idp88791120"><term>lipase</term> <meaning id="fs-idp70492432">enzyme that chemically breaks down lipids</meaning></definition>
+<definition id="fs-idp118675872"><term>liver</term> <meaning id="fs-idp88909056">organ that produces bile for digestion and processes vitamins and lipids</meaning></definition>
+<definition id="fs-idp270394688"><term>monogastric</term> <meaning id="fs-idp82438304">digestive system that consists of a single-chambered stomach</meaning></definition>
+<definition id="fs-idp195511872"><term>omnivore</term> <meaning id="fs-idp152426208">animal that consumes both plants and animals</meaning></definition>
+<definition id="fs-idp101814176"><term>pancreas</term> <meaning id="fs-idm1071280">gland that secretes digestive juices</meaning></definition>
+<definition id="fs-idp104946992"><term>pepsin</term> <meaning id="fs-idm2583264">enzyme found in the stomach whose main role is protein digestion</meaning></definition>
+<definition id="fs-idp73129040"><term>pepsinogen</term> <meaning id="fs-idp210744240">inactive form of pepsin</meaning></definition>
+<definition id="fs-idm25296480"><term>peristalsis</term> <meaning id="fs-idp158581184">wave-like movements of muscle tissue</meaning></definition>
+<definition id="fs-idp110416432"><term>proventriculus</term> <meaning id="fs-idp22480496">glandular part of a bird&#8217;s stomach</meaning></definition>
+<definition id="fs-idp41627808"><term>rectum</term> <meaning id="fs-idp128919328">area of the body where feces is stored until elimination</meaning></definition>
+<definition id="fs-idp69690864"><term>roughage</term> <meaning id="fs-idp23812608">component of food that is low in energy and high in fiber</meaning></definition>
+<definition id="fs-idp133305184"><term>ruminant</term> <meaning id="fs-idm36065872">animal with a stomach divided into four compartments</meaning></definition>
+<definition id="fs-idp52983056"><term>salivary amylase</term> <meaning id="fs-idp7617920">enzyme found in saliva, which converts carbohydrates to maltose</meaning></definition>
+<definition id="fs-idp80719376"><term>small intestine</term> <meaning id="fs-idp151054064">organ where digestion of protein, fats, and carbohydrates is completed</meaning></definition>
+<definition id="fs-idp156797920"><term>sphincter</term> <meaning id="fs-idp203566624">band of muscle that controls movement of materials throughout the digestive tract</meaning></definition>
+<definition id="fs-idp49671280"><term>stomach</term> <meaning id="fs-idp114024912">saclike organ containing acidic digestive juices</meaning></definition>
+<definition id="fs-idp113518928"><term>villi</term> <meaning id="fs-idp92650592">folds on the inner surface of the small intestine whose role is to increase absorption area</meaning></definition>
+</glossary>
+</document>

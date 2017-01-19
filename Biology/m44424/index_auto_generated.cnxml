@@ -1,0 +1,156 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>The Laws of Thermodynamics</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44424/latest/</md:content-url>
+  <md:content-id>m44424</md:content-id>
+  <md:title>The Laws of Thermodynamics</md:title>
+  <md:version>1.7</md:version>
+  <md:created>2012/08/23 10:40:20 -0500</md:created>
+  <md:revised>2013/04/05 15:52:22.028 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>anaerobic metabolism</md:keyword>
+    <md:keyword>cellular respiration</md:keyword>
+    <md:keyword>closed system</md:keyword>
+    <md:keyword>disorder</md:keyword>
+    <md:keyword>energy system</md:keyword>
+    <md:keyword>entropy</md:keyword>
+    <md:keyword>first law of thermodynamics</md:keyword>
+    <md:keyword>heat</md:keyword>
+    <md:keyword>law of thermodynamics</md:keyword>
+    <md:keyword>metabolism</md:keyword>
+    <md:keyword>open system</md:keyword>
+    <md:keyword>order</md:keyword>
+    <md:keyword>randomness</md:keyword>
+    <md:keyword>second law of thermodynamics</md:keyword>
+    <md:keyword>sugar metabolism</md:keyword>
+    <md:keyword>thermodynamics</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Discuss the concept of entropy</item>
+<item>Explain the first and second laws of thermodynamics</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-id1772751"><term>Thermodynamics</term> refers to the study of energy and energy transfer involving physical matter. The matter and its environment relevant to a particular case of energy transfer are classified as a system, and everything outside of that system is called the surroundings. For instance, when heating a pot of water on the stove, the system includes the stove, the pot, and the water. Energy is transferred within the system (between the stove, pot, and water). There are two types of systems: open and closed. An open system is one in which energy can be transferred between the system and its surroundings. The stovetop system is open because heat can be lost into the air. A closed system is one that cannot transfer energy to its surroundings.</para>
+<para id="fs-id1870581">Biological organisms are open systems. Energy is exchanged between them and their surroundings, as they consume energy-storing molecules and release energy to the environment by doing work. Like all things in the physical world, energy is subject to the laws of physics. The laws of thermodynamics govern the transfer of energy in and among all systems in the universe.</para>
+<section id="fs-id2571663">
+<title>The First Law of Thermodynamics</title>
+<para id="fs-id1445322">The first law of thermodynamics deals with the total amount of energy in the universe. It states that this total amount of energy is constant. In other words, there has always been, and always will be, exactly the same amount of energy in the universe. Energy exists in many different forms. According to the first law of thermodynamics, energy may be transferred from place to place or transformed into different forms, but it cannot be created or destroyed. The transfers and transformations of energy take place around us all the time. Light bulbs transform electrical energy into light energy. Gas stoves transform chemical energy from natural gas into heat energy. Plants perform one of the most biologically useful energy transformations on earth: that of converting the energy of sunlight into the chemical energy stored within organic molecules (<link target-id="fig-ch06_01_01" document="m44422"/>). Some examples of energy transformations are shown in  <link target-id="fig-ch06_03_01" document=""/>.</para><para id="fs-id1808182">The challenge for all living organisms is to obtain energy from their surroundings in forms that they can transfer or transform into usable energy to do work. Living cells have evolved to meet this challenge very well. Chemical energy stored within organic molecules such as sugars and fats is transformed through a series of cellular chemical reactions into energy within molecules of ATP. Energy in ATP molecules is easily accessible to do work. Examples of the types of work that cells need to do include building complex molecules, transporting materials, powering the beating motion of cilia or flagella, contracting muscle fibers to create movement, and reproduction.</para>
+<figure id="fig-ch06_03_01"><media id="fs-id2199498" alt="The left side of this diagram depicts energy being transferred from an ice cream cone to two boys riding a bike. The right side depicts a plant converting light energy into chemical energy.">
+<image mime-type="image/jpg" src="Figure_06_02_01.jpg" width="300"/>
+</media>
+<caption>Shown are two examples of energy being transferred from one system to another and transformed from one form to another. Humans can convert the chemical energy in food, like this ice cream cone, into kinetic energy (the energy of movement to ride a bicycle). Plants can convert electromagnetic radiation (light energy) from the sun into chemical energy. (credit &#8220;ice cream&#8221;: modification of work by D. Sharon Pruitt; credit &#8220;kids on bikes&#8221;: modification of work by Michelle Riggen-Ransom; credit &#8220;leaf&#8221;: modification of work by Cory Zanker)</caption></figure></section>
+<section id="fs-id1467282">
+<title>The Second Law of Thermodynamics</title>
+<para id="fs-id2336465">A living cell&#8217;s primary tasks of obtaining, transforming, and using energy to do work may seem simple. However, the second law of thermodynamics explains why these tasks are harder than they appear. None of the energy transfers we&#8217;ve discussed, along with all energy transfers and transformations in the universe, is completely efficient. In every energy transfer, some amount of energy is lost in a form that is unusable. In most cases, this form is heat energy. Thermodynamically, <term>heat energy</term> is defined as the energy transferred from one system to another that is not doing work. For example, when an airplane flies through the air, some of the energy of the flying plane is lost as heat energy due to friction with the surrounding air. This friction actually heats the air by temporarily increasing the speed of air molecules. Likewise, some energy is lost as heat energy during cellular metabolic reactions. This is good for warm-blooded creatures like us, because heat energy helps to maintain our body temperature. Strictly speaking, no energy transfer is completely efficient, because some energy is lost in an unusable form.</para>
+<para id="fs-id1631701">An important concept in physical systems is that of order and disorder (also known as randomness). The more energy that is lost by a system to its surroundings, the less ordered and more random the system is. Scientists refer to the measure of randomness or disorder within a system as <term>entropy</term>. High entropy means high disorder and low energy (<link target-id="fig-ch06_03_02" document=""/>). To better understand entropy, think of a student&#8217;s bedroom. If no energy or work were put into it, the room would quickly become messy. It would exist in a very disordered state, one of high entropy. Energy must be put into the system, in the form of the student doing work and putting everything away, in order to bring the room back to a state of cleanliness and order. This state is one of low entropy. Similarly, a car or house must be constantly maintained with work in order to keep it in an ordered state. Left alone, the entropy of the house or car gradually increases through rust and degradation. Molecules and chemical reactions have varying amounts of entropy as well. For example, as chemical reactions reach a state of equilibrium, entropy increases, and as molecules at a high concentration in one place diffuse and spread out, entropy also increases.</para>
+<note id="fs-id1626927" class="scientific"><label/><title>Scientific Connection</title>
+
+<para id="fs-id2326289"><title>Transfer of Energy and the Resulting Entropy</title>Set up a simple experiment to understand how energy is transferred and how a change in entropy results.</para>
+<list id="fs-id1255097" list-type="enumerated">
+<item>Take a block of ice. This is water in solid form, so it has a high structural order. This means that the molecules cannot move very much and are in a fixed position. The temperature of the ice is 0&#176;C. As a result, the entropy of the system is low.</item>
+<item>Allow the ice to melt at room temperature. What is the state of molecules in the liquid water now? How did the energy transfer take place? Is the entropy of the system higher or lower? Why?</item>
+<item>Heat the water to its boiling point. What happens to the entropy of the system when the water is heated?</item>
+</list>
+</note><para id="fs-id873679">All physical systems can be thought of in this way: Living things are highly ordered, requiring constant energy input to be maintained in a state of low entropy. As living systems take in energy-storing molecules and transform them through chemical reactions, they lose some amount of usable energy in the process, because no reaction is completely efficient. They also produce waste and by-products that aren&#8217;t useful energy sources. This process increases the entropy of the system&#8217;s surroundings. Since all energy transfers result in the loss of some usable energy, the second law of thermodynamics states that every energy transfer or transformation increases the entropy of the universe. Even though living things are highly ordered and maintain a state of low entropy, the entropy of the universe in total is constantly increasing due to the loss of usable energy with each energy transfer that occurs. Essentially, living things are in a continuous uphill battle against this constant increase in universal entropy.</para>
+<figure id="fig-ch06_03_02"><media id="fs-id1770096" alt="This diagram shows that solids have a regular packing arrangement and low entropy, whereas liquids have irregular packing and higher entropy.">
+<image mime-type="image/jpg" src="Figure_06_02_02.jpg" width="300"/>
+</media>
+<caption>Entropy is a measure of randomness or disorder in a system. Gases have higher entropy than liquids, and liquids have higher entropy than solids.</caption></figure></section>
+<section id="fs-id1613002" class="summary">
+<title>Section Summary</title><para id="fs-id1281011">In studying energy, scientists use the term &#8220;system&#8221; to refer to the matter and its environment involved in energy transfers. Everything outside of the system is called the surroundings. Single cells are biological systems. Systems can be thought of as having a certain amount of order. It takes energy to make a system more ordered. The more ordered a system is, the lower its entropy. Entropy is a measure of the disorder of a system. As a system becomes more disordered, the lower its energy and the higher its entropy become.</para>
+<para id="fs-id2491691">A series of laws, called the laws of thermodynamics, describe the properties and processes of energy transfer. The first law states that the total amount of energy in the universe is constant. This means that energy can&#8217;t be created or destroyed, only transferred or transformed. The second law of thermodynamics states that every energy transfer involves some loss of energy in an unusable form, such as heat energy, resulting in a more disordered system. In other words, no energy transfer is completely efficient and tends toward disorder.</para>
+</section>
+<section id="fs-id2026434" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-id1242488">
+<problem id="fs-id2192724"><para id="fs-id2078590">Which of the following is not an example of an energy transformation?</para>
+<list id="fs-id1454570" list-type="enumerated" number-style="lower-alpha">
+<item>Turning on a light switch</item>
+<item>Solar panels at work</item>
+<item>Formation of static electricity</item>
+<item>None of the above</item>
+</list>
+</problem>
+<solution id="fs-id1769754">
+<label/>
+<para id="fs-id2228037">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id2229379">
+<problem id="fs-id1595664"><para id="fs-id1485321">Label each of the following systems as high or low entropy: i. the instant that a perfume bottle is sprayed compared with 30 seconds later, ii. an old 1950s car compared with a brand new car, and iii. a living cell compared with a dead cell.</para>
+<list id="fs-id1787601" list-type="enumerated" number-style="lower-alpha">
+<item>i. low, ii. high, iii. low</item>
+<item>i. low, ii. high, iii. high</item>
+<item>i. high, ii. low, iii. high</item>
+<item>i. high, ii. low, iii. Low</item>
+</list>
+</problem>
+<solution id="fs-id1369088">
+<label/>
+<para id="fs-id1772028">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id2491166" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-id2024135">
+<problem id="fs-id846110"><para id="fs-id1396419">Imagine an elaborate ant farm with tunnels and passageways through the sand where ants live in a large community. Now imagine that an earthquake shook the ground and demolished the ant farm. In which of these two scenarios, before or after the earthquake, was the ant farm system in a state of higher or lower entropy?</para></problem>
+<solution id="fs-id2000265"><label/>
+<para id="fs-id1708061">The ant farm had lower entropy before the earthquake because it was a highly ordered system. After the earthquake, the system became much more disordered and had higher entropy.</para></solution>
+</exercise>
+<exercise id="fs-id1876170">
+<problem id="fs-id2059689"><para id="fs-id1248468">Energy transfers take place constantly in everyday activities. Think of two scenarios: cooking on a stove and driving. Explain how the second law of thermodynamics applies to these two scenarios.</para></problem>
+<solution id="fs-id2197107"><label/>
+<para id="fs-id2011760">While cooking, food is heating up on the stove, but not all of the heat goes to cooking the food, some of it is lost as heat energy to the surrounding air, increasing entropy. While driving, cars burn gasoline to run the engine and move the car. This reaction is not completely efficient, as some energy during this process is lost as heat energy, which is why the hood and the components underneath it heat up while the engine is turned on. The tires also heat up because of friction with the pavement, which is additional energy loss. This energy transfer, like all others, also increases entropy.</para></solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-id1428702"><term>entropy (S)</term> <meaning id="fs-id1870614">measure of randomness or disorder within a system</meaning></definition>
+<definition id="fs-id2316354"><term>heat</term> <meaning id="fs-id1728320">energy energy transferred from one system to another that is not work (energy of the motion of molecules or particles)</meaning></definition>
+<definition id="fs-id1479018"><term>thermodynamics</term> <meaning id="fs-id1524656">study of energy and energy transfer involving physical matter</meaning></definition>
+</glossary>
+</document>

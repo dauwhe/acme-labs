@@ -1,0 +1,120 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44890/latest/</md:content-url>
+  <md:content-id>m44890</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.2</md:version>
+  <md:created>2012/08/23 16:38:19 -0500</md:created>
+  <md:revised>2013/02/20 11:02:39.368 US/Central</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>adaptive radiation</md:keyword>
+    <md:keyword>agricultural diversity</md:keyword>
+    <md:keyword>biodiversity</md:keyword>
+    <md:keyword>biodiversity crisis</md:keyword>
+    <md:keyword>biodiversity hotspot</md:keyword>
+    <md:keyword>biodiversity preservation</md:keyword>
+    <md:keyword>bioethics</md:keyword>
+    <md:keyword>biogeographer</md:keyword>
+    <md:keyword>bush meat</md:keyword>
+    <md:keyword>chemical diversity</md:keyword>
+    <md:keyword>chytridiomycosis</md:keyword>
+    <md:keyword>CITES</md:keyword>
+    <md:keyword>climate change</md:keyword>
+    <md:keyword>conservation</md:keyword>
+    <md:keyword>DNA barcoding</md:keyword>
+    <md:keyword>E. O. Wilson</md:keyword>
+    <md:keyword>ecosystem diversity</md:keyword>
+    <md:keyword>Endangered Species Act</md:keyword>
+    <md:keyword>endemic species</md:keyword>
+    <md:keyword>exotic species</md:keyword>
+    <md:keyword>extinction</md:keyword>
+    <md:keyword>extinction rate</md:keyword>
+    <md:keyword>genetic diversity</md:keyword>
+    <md:keyword>habitat loss</md:keyword>
+    <md:keyword>habitat restoration</md:keyword>
+    <md:keyword>heterogeneity</md:keyword>
+    <md:keyword>importance of biodiversity</md:keyword>
+    <md:keyword>Kyoto protocol</md:keyword>
+    <md:keyword>mass extinction</md:keyword>
+    <md:keyword>measuring biodiversity</md:keyword>
+    <md:keyword>megafauna</md:keyword>
+    <md:keyword>Migratory Bird Act</md:keyword>
+    <md:keyword>nature preserve</md:keyword>
+    <md:keyword>organism diversity</md:keyword>
+    <md:keyword>over-harvesting</md:keyword>
+    <md:keyword>patterns of biodiversity</md:keyword>
+    <md:keyword>Pleistocene extinction</md:keyword>
+    <md:keyword>preservation</md:keyword>
+    <md:keyword>preserve</md:keyword>
+    <md:keyword>preserve design</md:keyword>
+    <md:keyword>secondary plant compounds</md:keyword>
+    <md:keyword>species diversity</md:keyword>
+    <md:keyword>species-area relationship</md:keyword>
+    <md:keyword>threats to biodiversity</md:keyword>
+    <md:keyword>tragedy of the commons</md:keyword>
+    <md:keyword>white-nose syndrome</md:keyword>
+    <md:keyword>wild food sources</md:keyword>
+    <md:keyword>wildlife preserve</md:keyword>
+    <md:keyword>WNS</md:keyword>
+    <md:keyword>wood products</md:keyword>
+    <md:keyword>zoo</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+
+<?cnx.eoc class="summary" title="Sections Summary"?>
+<?cnx.eoc class="art-exercise" title="Art Connections"?>
+<?cnx.eoc class="multiple-choice" title="Multiple Choice"?>
+<?cnx.eoc class="free-response" title="Free Response"?>
+
+<figure id="fig-ch47_00_01" class="splash"><media id="fs-idm230317056" alt=" Satellite image shows a large blue lake surrounded by green land.">
+<image mime-type="image/jpg" src="Figure_47_00_01.jpg" width="520"/>
+</media>
+<caption>Lake Victoria in Africa, shown in this satellite image, was the site of one of the most extraordinary evolutionary findings on the planet, as well as a casualty of devastating biodiversity loss. (credit: modification of work by Rishabh Tatiraju, using NASA World Wind software)</caption>
+</figure>
+<para id="fs-idm141430128">In the 1980s, biologists working in Lake Victoria in Africa discovered one of the most extraordinary products of evolution on the planet. Located in the Great Rift Valley, Lake Victoria is a large lake about 68,900 km<sup>2</sup> in area (larger than Lake Huron, the second largest of North America&#8217;s Great Lakes). Biologists were studying species of a family of fish called cichlids. They found that as they sampled for fish in different locations of the lake, they never stopped finding new species, and they identified nearly 500 evolved types of cichlids. But while studying these variations, they quickly discovered that the invasive Nile Perch was destroying the lake&#8217;s cichlid population, bringing hundreds of cichlid species to extinction with devastating rapidity.</para></content>
+</document>

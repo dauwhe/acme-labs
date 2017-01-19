@@ -1,0 +1,197 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Propagation of the Signal</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44452/latest/</md:content-url>
+  <md:content-id>m44452</md:content-id>
+  <md:title>Propagation of the Signal</md:title>
+  <md:version>1.5</md:version>
+  <md:created>2012/08/23 11:00:44 -0500</md:created>
+  <md:revised>2013/04/08 11:32:08.245 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>cAMP</md:keyword>
+    <md:keyword>cAMP-dependent kinase</md:keyword>
+    <md:keyword>cell communication</md:keyword>
+    <md:keyword>cyclic AMP</md:keyword>
+    <md:keyword>DAG</md:keyword>
+    <md:keyword>diacylglycerol</md:keyword>
+    <md:keyword>dimer</md:keyword>
+    <md:keyword>dimerization</md:keyword>
+    <md:keyword>enzymatic cascade</md:keyword>
+    <md:keyword>inositol phospholipid</md:keyword>
+    <md:keyword>inositol triphosphate</md:keyword>
+    <md:keyword>intracellular signal</md:keyword>
+    <md:keyword>IP3</md:keyword>
+    <md:keyword>kinase</md:keyword>
+    <md:keyword>ligand binding</md:keyword>
+    <md:keyword>phosphorylation</md:keyword>
+    <md:keyword>second messenger</md:keyword>
+    <md:keyword>signaling pathway</md:keyword>
+    <md:keyword>signal integration</md:keyword>
+    <md:keyword>signal propagation</md:keyword>
+    <md:keyword>signal transduction</md:keyword>
+    <md:keyword>signal transmission</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain how the binding of a ligand initiates signal transduction throughout a cell</item>
+<item>Recognize the role of phosphorylation in the transmission of intracellular signals</item>
+<item>Evaluate the role of second messengers in signal transmission</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-id2344871">Once a ligand binds to a receptor, the signal is transmitted through the membrane and into the cytoplasm. Continuation of a signal in this manner is called <term>signal transduction</term>. Signal transduction only occurs with cell-surface receptors because internal receptors are able to interact directly with DNA in the nucleus to initiate protein synthesis.</para>
+<para id="fs-id1511912">When a ligand binds to its receptor, conformational changes occur that affect the receptor&#8217;s intracellular domain. Conformational changes of the extracellular domain upon ligand binding can propagate through the membrane region of the receptor and lead to activation of the intracellular domain or its associated proteins. In some cases, binding of the ligand causes <term>dimerization</term> of the receptor, which means that two receptors bind to each other to form a stable complex called a dimer. A <term>dimer</term> is a chemical compound formed when two molecules (often identical) join together. The binding of the receptors in this manner enables their intracellular domains to come into close contact and activate each other.</para>
+<section id="fs-id2348611">
+<title>Binding Initiates a Signaling Pathway</title>
+<para id="fs-id2572263">After the ligand binds to the cell-surface receptor, the activation of the receptor&#8217;s intracellular components sets off a chain of events that is called a <term>signaling pathway</term> or a signaling cascade. In a signaling pathway, second messengers, enzymes, and activated proteins interact with specific proteins, which are in turn activated in a chain reaction that eventually leads to a change in the cell&#8217;s environment (<link target-id="fig-ch09_02_01" document=""/>). The events in the cascade occur in a series, much like a current flows in a river. Interactions that occur before a certain point are defined as upstream events, and events after that point are called downstream events.</para>
+<note id="fs-idp100312512" class="art-connection"><label/><title>Art Connection</title><para id="fs-id2890297"><figure id="fig-ch09_02_01"><media id="fs-id2694648" alt="This illustration shows the epidermal growth factor receptor, which is embedded in the plasma membrane. Upon binding of a signaling molecule to the receptor&#8217;s extracellular domain, the receptor dimerizes, and intracellular residues are phosphorylated. Phosphorylation of the receptor triggers the phosphorylation of a protein called MEK by RAF. MEK, in turn, phosphorylates ERK. ERK stimulates protein translation in the cytoplasm, and transcription in the nucleus. Activation of ERK stimulates cell proliferation, cell migration and adhesion, and angiogenesis (growth of new blood vessels). ERK inhibits apoptosis.">
+        <image mime-type="image/png" src="Figure_09_02_01.png" width="280"/>
+    </media>
+    <caption>The epidermal growth factor (EGF) receptor (EGFR) is a receptor tyrosine kinase involved in the regulation of cell growth, wound healing, and tissue repair. When EGF binds to the EGFR, a cascade of downstream events causes the cell to grow and divide. If EGFR is activated at inappropriate times, uncontrolled cell growth (cancer) may occur.</caption></figure></para>
+<para id="fs-id2585915">In certain cancers, the GTPase activity of the RAS G-protein is inhibited. This means that the RAS protein can no longer hydrolyze GTP into GDP. What effect would this have on downstream cellular events?</para>
+</note><para id="fs-id2890952">Signaling pathways can get very complicated very quickly because most cellular proteins can affect different downstream events, depending on the conditions within the cell. A single pathway can branch off toward different endpoints based on the interplay between two or more signaling pathways, and the same ligands are often used to initiate different signals in different cell types. This variation in response is due to differences in protein expression in different cell types. Another complicating element is <term>signal integration</term> of the pathways, in which signals from two or more different cell-surface receptors merge to activate the same response in the cell. This process can ensure that multiple external requirements are met before a cell commits to a specific response.</para>
+<para id="fs-id1368373">The effects of extracellular signals can also be amplified by enzymatic cascades. At the initiation of the signal, a single ligand binds to a single receptor. However, activation of a receptor-linked enzyme can activate many copies of a component of the signaling cascade, which amplifies the signal.</para>
+</section>
+<section id="fs-id1970730">
+<title>Methods of Intracellular Signaling</title>
+<para id="fs-id1465820">The induction of a signaling pathway depends on the modification of a cellular component by an enzyme. There are numerous enzymatic modifications that can occur, and they are recognized in turn by the next component downstream. The following are some of the more common events in intracellular signaling.</para>
+<note id="fs-id1912260" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-id2148354" alt="QR Code representing a URL">
+<image mime-type="image/png" src="cell_signals.png" width="120"/>
+</media>
+<para id="fs-id2318195">Observe an animation of cell signaling at this <link window="new" url="http://openstaxcollege.org/l/cell_signals">site</link>.</para>
+</note><section id="fs-id2642734">
+<title>Phosphorylation</title>
+<para id="fs-id2198400">One of the most common chemical modifications that occurs in signaling pathways is the addition of a phosphate group (PO<sub>4</sub><sup>&#8211;3</sup>) to a molecule such as a protein in a process called phosphorylation. The phosphate can be added to a nucleotide such as GMP to form GDP or GTP. Phosphates are also often added to serine, threonine, and tyrosine residues of proteins, where they replace the hydroxyl group of the amino acid (<link target-id="fig-ch09_02_02" document=""/>). The transfer of the phosphate is catalyzed by an enzyme called a <term>kinase</term>. Various kinases are named for the substrate they phosphorylate. Phosphorylation of serine and threonine residues often activates enzymes. Phosphorylation of tyrosine residues can either affect the activity of an enzyme or create a binding site that interacts with downstream components in the signaling cascade. Phosphorylation may activate or inactivate enzymes, and the reversal of phosphorylation, dephosphorylation by a phosphatase, will reverse the effect.</para><figure id="fig-ch09_02_02"><media id="fs-id1796409" alt="Molecular structures of phosphoserine, phosphothreonine and phosphotyrosine are shown. In each molecule, a phosphate is attached to an oxygen on the amino acid.">
+    <image mime-type="image/jpg" src="Figure_09_02_02.jpg" width="280"/>
+</media>
+<caption>In protein phosphorylation, a phosphate group (PO<sub>4</sub><sup>-3 </sup>) is added to residues of the amino acids serine, threonine, and tyrosine.</caption></figure></section>
+<section id="fs-id2726979">    
+<title>Second Messengers</title>
+<para id="fs-id1465975"><term>Second messengers</term> are small molecules that propagate a signal after it has been initiated by the binding of the signaling molecule to the receptor. These molecules help to spread a signal through the cytoplasm by altering the behavior of certain cellular proteins.</para>
+<para id="fs-id2571182">Calcium ion is a widely used second messenger. The free concentration of calcium ions (Ca<sup>2+</sup>) within a cell is very low because ion pumps in the plasma membrane continuously use adenosine-5'-triphosphate (ATP) to remove it. For signaling purposes, Ca<sup>2+</sup> is stored in cytoplasmic vesicles, such as the endoplasmic reticulum, or accessed from outside the cell. When signaling occurs, ligand-gated calcium ion channels allow the higher levels of Ca<sup>2+</sup> that are present outside the cell (or in intracellular storage compartments) to flow into the cytoplasm, which raises the concentration of cytoplasmic Ca<sup>2+</sup>. The response to the increase in Ca<sup>2+</sup> varies, depending on the cell type involved. For example, in the &#946;-cells of the pancreas, Ca<sup>2+</sup> signaling leads to the release of insulin, and in muscle cells, an increase in Ca<sup>2+</sup> leads to muscle contractions.</para><para id="fs-id1511305">Another second messenger utilized in many different cell types is <term>cyclic AMP (cAMP)</term>. Cyclic AMP is synthesized by the enzyme adenylyl cyclase from ATP (<link target-id="fig-ch09_02_03" document=""/>). The main role of cAMP in cells is to bind to and activate an enzyme called <term>cAMP-dependent kinase (A-kinase)</term>. A-kinase regulates many vital metabolic pathways: It phosphorylates serine and threonine residues of its target proteins, activating them in the process. A-kinase is found in many different types of cells, and the target proteins in each kind of cell are different. Differences give rise to the variation of the responses to cAMP in different cells.</para><figure id="fig-ch09_02_03"><media id="fs-id2909498" alt="Cyclic AMP is made from ATP by the enzyme adenylyl cyclase. In the process, a pyrophosphate molecule composed of two phosphate residues is released. Cyclic AMP gets its name because the phosphate group is attached to the ribose ring in two places, forming a circle.">
+    <image mime-type="image/jpg" src="Figure_09_02_03.jpg" width="450"/>
+</media>
+<caption>This diagram shows the mechanism for the formation of cyclic AMP (cAMP). cAMP serves as a second messenger to activate or inactivate proteins within the cell. Termination of the signal occurs when an enzyme called phosphodiesterase converts cAMP into AMP.</caption></figure><para id="fs-id2163343">Present in small concentrations in the plasma membrane, <term>inositol phospholipids</term> are lipids that can also be converted into second messengers. Because these molecules are membrane components, they are located near membrane-bound receptors and can easily interact with them. Phosphatidylinositol (PI) is the main phospholipid that plays a role in cellular signaling. Enzymes known as kinases phosphorylate PI to form PI-phosphate (PIP) and PI-bisphosphate (PIP<sub>2</sub>).</para>
+<para id="fs-id1281011">The enzyme phospholipase C cleaves PIP<sub>2</sub> to form <term>diacylglycerol (DAG)</term> and <term>inositol triphosphate (IP<sub>3</sub>)</term> (<link target-id="fig-ch09_02_04" document=""/>).  These products of the cleavage of PIP<sub>2</sub> serve as second messengers. Diacylglycerol (DAG) remains in the plasma membrane and activates protein kinase C (PKC), which then phosphorylates serine and threonine residues in its target proteins. IP<sub>3</sub> diffuses into the cytoplasm and binds to ligand-gated calcium channels in the endoplasmic reticulum to release Ca<sup>2+</sup> that continues the signal cascade.</para><figure id="fig-ch09_02_04"><media id="fs-id2196372" alt="The molecular structures of PIP_2, DAG, and IP_3 are shown. PIP_2 is a phospholipid that is cleaved by phospholipase C to form DAG, which has a long hydrophobic tail, and IP_3, a ring structure with three phosphates attached.">
+    <image mime-type="image/jpg" src="Figure_09_02_04.jpg" width="400"/>
+</media>
+<caption>The enzyme phospholipase C breaks down PIP<sub>2</sub> into IP<sub>3</sub> and DAG, both of which serve as second messengers.</caption></figure></section>
+</section>
+<section id="fs-id2682614" class="summary">    
+<title>Section Summary</title><para id="fs-id2763338">Ligand binding to the receptor allows for signal transduction through the cell. The chain of events that conveys the signal through the cell is called a signaling pathway or cascade. Signaling pathways are often very complex because of the interplay between different proteins. A major component of cell signaling cascades is the phosphorylation of molecules by enzymes known as kinases. Phosphorylation adds a phosphate group to serine, threonine, and tyrosine residues in a protein, changing their shapes, and activating or inactivating the protein. Small molecules like nucleotides can also be phosphorylated. Second messengers are small, non-protein molecules that are used to transmit a signal within a cell. Some examples of second messengers are calcium ions (Ca<sup>2+</sup>), cyclic AMP (cAMP), diacylglycerol (DAG), and inositol triphosphate (IP<sub>3</sub>).</para>
+</section>
+<section id="fs-idm8469568" class="art-exercise">
+<title>Art Connections</title>
+    <exercise id="fs-idm11030336">
+        <problem id="fs-id1510077">
+            <para id="fs-idm55911424"><link target-id="fig-ch09_02_01" document=""/> In certain cancers, the GTPase activity of the RAS G-protein is inhibited. This means that the RAS protein can no longer hydrolyze GTP into GDP. What effect would this have on downstream cellular events?</para>
+        </problem>
+        <solution id="fs-id2138542">
+            <para id="fs-id2568950"><link target-id="fig-ch09_02_01" document=""/> ERK would become permanently activated, resulting in cell proliferation, migration, adhesion, and the growth of new blood vessels. Apoptosis would be inhibited.</para></solution>
+    </exercise>
+</section>
+<section id="fs-id2255017" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-id2896121">
+<problem id="fs-id1815057"><para id="fs-id1778316">Where do DAG and IP<sub>3</sub> originate?</para>
+<list id="fs-id2072799" list-type="enumerated" number-style="lower-alpha">
+    <item>They are formed by phosphorylation of cAMP.</item>
+    <item>They are ligands expressed by signaling cells.</item>
+    <item>They are hormones that diffuse through the plasma membrane to stimulate protein production.</item>
+    <item>They are the cleavage products of the inositol phospholipid, PIP<sub>2</sub>.</item>
+</list>
+</problem>
+<solution id="fs-id1785802">
+<label/>
+<para id="fs-id2626161">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1404092">
+<problem id="fs-id2307306"><para id="fs-id2196750">What property enables the residues of the amino acids serine, threonine, and tyrosine to be phosphorylated?</para>
+<list id="fs-id2114485" list-type="enumerated" number-style="lower-alpha">
+    <item>They are polar.</item>
+    <item>They are non-polar.</item>
+    <item>They contain a hydroxyl group.</item>
+    <item>They occur more frequently in the amino acid sequence of signaling proteins.</item>
+</list>
+</problem>
+<solution id="fs-id1341960">
+<label/>
+<para id="fs-id2154549">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id2199555" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-id1951296">
+<problem id="fs-id1957163"><para id="fs-id2491136">The same second messengers are used in many different cells, but the response to second messengers is different in each cell. How is this possible?</para></problem>
+<solution id="fs-id1772751"><label/>
+<para id="fs-id2569456">Different cells produce different proteins, including cell-surface receptors and signaling pathway components. Therefore, they respond to different ligands, and the second messengers activate different pathways. Signal integration can also change the end result of signaling.</para>
+</solution>
+</exercise>
+<exercise id="fs-id1908444">
+<problem id="fs-id2116206"><para id="fs-id1424163">What would happen if the intracellular domain of a cell-surface receptor was switched with the domain from another receptor?</para></problem>
+<solution id="fs-id2054513"><label/>
+<para id="fs-id1702829">The binding of the ligand to the extracellular domain would activate the pathway normally activated by the receptor donating the intracellular domain.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-id1407411"><term>cyclic AMP (cAMP)</term> <meaning id="fs-id2019082"> second messenger that is derived from ATP</meaning></definition>
+<definition id="fs-id1469671"><term>cyclic AMP-dependent kinase</term> <meaning id="fs-id1812585">(also, protein kinase A, or PKA) kinase that is activated by binding to cAMP</meaning></definition>
+<definition id="fs-id1695753"><term>diacylglycerol (DAG)</term> <meaning id="fs-id2144992"> cleavage product of PIP<sub>2</sub> that is used for signaling within the plasma membrane</meaning></definition>
+<definition id="fs-id2155001"><term>dimer</term> <meaning id="fs-id1478280">chemical compound formed when two molecules join together</meaning></definition>
+<definition id="fs-id1988350"><term>dimerization</term> <meaning id="fs-id2862911">(of receptor proteins) interaction of two receptor proteins to form a functional complex called a dimer</meaning></definition>
+<definition id="fs-id2188717"><term>inositol phospholipid</term> <meaning id="fs-id1403064">lipid present at small concentrations in the plasma membrane that is converted into a second messenger; it has inositol (a carbohydrate) as its hydrophilic head group</meaning></definition>
+<definition id="fs-id2385414"><term>inositol triphosphate (IP<sub>3</sub>)</term> <meaning id="fs-id2273249"> cleavage product of PIP<sub>2</sub> that is used for signaling within the cell</meaning></definition>
+<definition id="fs-id1419914"><term>kinase</term> <meaning id="fs-id1998815">enzyme that catalyzes the transfer of a phosphate group from ATP to another molecule</meaning></definition>
+<definition id="fs-id1437205"><term>second messenger</term> <meaning id="fs-id1799349">small, non-protein molecule that propagates a signal within the cell after activation of a receptor causes its release</meaning></definition>
+<definition id="fs-id2073852"><term>signal integration</term> <meaning id="fs-id2248616">interaction of signals from two or more different cell-surface receptors that merge to activate the same response in the cell</meaning></definition>
+<definition id="fs-id1626422"><term>signal transduction</term> <meaning id="fs-id2335640">propagation of the signal through the cytoplasm (and sometimes also the nucleus) of the cell</meaning></definition>
+<definition id="fs-id2072549"><term>signaling pathway</term> <meaning id="fs-id2073644">(also signaling cascade) chain of events that occurs in the cytoplasm of the cell to propagate the signal from the plasma membrane to produce a response</meaning></definition>
+</glossary>
+
+</document>

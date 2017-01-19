@@ -1,0 +1,135 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44575/latest/</md:content-url>
+  <md:content-id>m44575</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.2</md:version>
+  <md:created>2012/08/23 14:10:51 -0500</md:created>
+  <md:revised>2013/02/21 15:15:02.647 US/Central</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>ABO blood type</md:keyword>
+    <md:keyword>acquired trait</md:keyword>
+    <md:keyword>adaptive evolution</md:keyword>
+    <md:keyword>Afrikaner</md:keyword>
+    <md:keyword>Alfred Wallace</md:keyword>
+    <md:keyword>allele</md:keyword>
+    <md:keyword>allele frequency</md:keyword>
+    <md:keyword>altitudinal cline</md:keyword>
+    <md:keyword>assortative mating</md:keyword>
+    <md:keyword>beneficial allele</md:keyword>
+    <md:keyword>bottleneck effect</md:keyword>
+    <md:keyword>Charles Darwin</md:keyword>
+    <md:keyword>cline</md:keyword>
+    <md:keyword>common side-blotched lizards</md:keyword>
+    <md:keyword>directional selection</md:keyword>
+    <md:keyword>diversifying selection</md:keyword>
+    <md:keyword>environmental variance</md:keyword>
+    <md:keyword>evolutionary fitness (also, Darwinian fitness)</md:keyword>
+    <md:keyword>Fanconi anemia (FA)</md:keyword>
+    <md:keyword>fecundity</md:keyword>
+    <md:keyword>Fisherian runaway model</md:keyword>
+    <md:keyword>Fisher&#8217;s runaway model</md:keyword>
+    <md:keyword>fitness</md:keyword>
+    <md:keyword>flu shot</md:keyword>
+    <md:keyword>flu strain</md:keyword>
+    <md:keyword>founder effect</md:keyword>
+    <md:keyword>frequency-dependent selection</md:keyword>
+    <md:keyword>gene flow</md:keyword>
+    <md:keyword>gene pool</md:keyword>
+    <md:keyword>genetic drift</md:keyword>
+    <md:keyword>genetic structure</md:keyword>
+    <md:keyword>genetic variance</md:keyword>
+    <md:keyword>geographical variation</md:keyword>
+    <md:keyword>good genes hypothesis</md:keyword>
+    <md:keyword>Gregor Mendel</md:keyword>
+    <md:keyword>handicap principle</md:keyword>
+    <md:keyword>Hardy-Weinberg equilibrium</md:keyword>
+    <md:keyword>heritability</md:keyword>
+    <md:keyword>honest signal</md:keyword>
+    <md:keyword>Huntington's disease</md:keyword>
+    <md:keyword>inbreeding</md:keyword>
+    <md:keyword>inbreeding depression</md:keyword>
+    <md:keyword>Jean-Baptiste Lamarck</md:keyword>
+    <md:keyword>latitudinal cline</md:keyword>
+    <md:keyword>macroevolution</md:keyword>
+    <md:keyword>microevolution</md:keyword>
+    <md:keyword>modern synthesis</md:keyword>
+    <md:keyword>mutation</md:keyword>
+    <md:keyword>natural selection</md:keyword>
+    <md:keyword>negative frequency-dependent selection</md:keyword>
+    <md:keyword>nonrandom mating</md:keyword>
+    <md:keyword>peppered moth</md:keyword>
+    <md:keyword>physical location</md:keyword>
+    <md:keyword>polymorphism</md:keyword>
+    <md:keyword>population genetics</md:keyword>
+    <md:keyword>population variation</md:keyword>
+    <md:keyword>positive frequency-dependent selection</md:keyword>
+    <md:keyword>R.A. Fisher</md:keyword>
+    <md:keyword>relative fitness</md:keyword>
+    <md:keyword>secondary sexual characteristic</md:keyword>
+    <md:keyword>selective pressure</md:keyword>
+    <md:keyword>sex-role reversed</md:keyword>
+    <md:keyword>sexual dimorphisms</md:keyword>
+    <md:keyword>sexual selection</md:keyword>
+    <md:keyword>stabilizing selection</md:keyword>
+    <md:keyword>temperature-dependent sex determination (TSD)</md:keyword>
+    <md:keyword>unfavorable allele</md:keyword>
+    <md:keyword>vaccine</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<?cnx.eoc class="summary" title="Sections Summary"?>
+<?cnx.eoc class="art-exercise" title="Art Connections"?>
+<?cnx.eoc class="multiple-choice" title="Multiple Choice"?>
+<?cnx.eoc class="free-response" title="Free Response"?>
+
+<figure id="fig-ch19_00_01" class="splash"><media id="fs-idm102739296" alt=" This photo collage shows a wolf, a cucumber-shaped protozoan, a sea sponge, a slime mold, lichen, the shore of a lake with algae and trees, a spiny lion fish, a mushroom, a sequoia, and a bumblebee drinking nectar from a flower.">
+<image mime-type="image/jpg" src="Figure_19_00_01.jpg" width="600"/>
+</media>
+<caption>Living things may be single-celled or complex, multicellular organisms. They may be plants, animals, fungi, bacteria, or archaea. This diversity results from evolution. (credit "wolf": modification of work by Gary Kramer; credit "coral": modification of work by William Harrigan, NOAA; credit "river": modification of work by Vojt&#283;ch Dost&#225;l; credit "fish" modification of work by Christian Mehlf&#252;hrer; credit "mushroom": modification of work by Cory Zanker; credit "tree": modification of work by Joseph Kranak; credit "bee": modification of work by Cory Zanker)</caption></figure><para id="fs-idm65810704">All life on Earth is related. Evolutionary theory states that humans, beetles, plants, and bacteria all share a common ancestor, but that millions of years of evolution have shaped each of these organisms into the forms seen today. Scientists consider evolution a key concept to understanding life. Natural selection is one of the most dominant evolutionary forces. Natural selection acts to promote traits and behaviors that increase an organism&#8217;s chances of survival and reproduction, while eliminating those traits and behaviors that are to the organism&#8217;s detriment. But natural selection can only, as its name implies, select&#8212;it cannot create. The introduction of novel traits and behaviors falls on the shoulders of another evolutionary force&#8212;mutation. Mutation and other sources of variation among individuals, as well as the evolutionary forces that act upon them, alter populations and species. This combination of processes has led to the world of life we see today.</para>
+</content>
+</document>

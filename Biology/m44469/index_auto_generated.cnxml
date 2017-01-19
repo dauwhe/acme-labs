@@ -1,0 +1,372 @@
+<?xml version="1.0"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>The Process of Meiosis</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml"
+          mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44469/latest</md:content-url>
+  <md:content-id>m44469</md:content-id>
+  <md:title>The Process of Meiosis</md:title>
+  <md:version>1.8</md:version>
+  <md:created>2012/08/23 11:10:03 -0500</md:created>
+  <md:revised>2014/02/24 16:07:24 -0600</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax</md:shortname>
+      <md:fullname>OpenStax</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>anaphase I</md:keyword>
+    <md:keyword>anaphase II</md:keyword>
+    <md:keyword>cell plate</md:keyword>
+    <md:keyword>centromere</md:keyword>
+    <md:keyword>centrosome</md:keyword>
+    <md:keyword>chiasma</md:keyword>
+    <md:keyword>chiasmata</md:keyword>
+    <md:keyword>chromatid</md:keyword>
+    <md:keyword>chromosome</md:keyword>
+    <md:keyword>cleavage furrow</md:keyword>
+    <md:keyword>cohesin</md:keyword>
+    <md:keyword>crossover</md:keyword>
+    <md:keyword>cytokinesis</md:keyword>
+    <md:keyword>daughter nuclei</md:keyword>
+    <md:keyword>diploid</md:keyword>
+    <md:keyword>fertilization</md:keyword>
+    <md:keyword>first gap</md:keyword>
+    <md:keyword>G1 phase</md:keyword>
+    <md:keyword>G2 phase</md:keyword>
+    <md:keyword>gamete</md:keyword>
+    <md:keyword>genetic recombination</md:keyword>
+    <md:keyword>genetic variation</md:keyword>
+    <md:keyword>haploid</md:keyword>
+    <md:keyword>homologous chromosome</md:keyword>
+    <md:keyword>interkinesis</md:keyword>
+    <md:keyword>kinetochore</md:keyword>
+    <md:keyword>Marilee Ramesh</md:keyword>
+    <md:keyword>meiosis</md:keyword>
+    <md:keyword>meiosis I</md:keyword>
+    <md:keyword>meiosis II</md:keyword>
+    <md:keyword>metaphase I</md:keyword>
+    <md:keyword>metaphase II</md:keyword>
+    <md:keyword>mitosis</md:keyword>
+    <md:keyword>non-sister chromatid</md:keyword>
+    <md:keyword>nuclear division</md:keyword>
+    <md:keyword>ploidy level</md:keyword>
+    <md:keyword>prometaphase I</md:keyword>
+    <md:keyword>prometaphase II</md:keyword>
+    <md:keyword>prophase I</md:keyword>
+    <md:keyword>prophase II</md:keyword>
+    <md:keyword>recombination nodule</md:keyword>
+    <md:keyword>reduction division</md:keyword>
+    <md:keyword>second gap</md:keyword>
+    <md:keyword>sexual reproduction</md:keyword>
+    <md:keyword>single nuclear division</md:keyword>
+    <md:keyword>somatic cell</md:keyword>
+    <md:keyword>S phase</md:keyword>
+    <md:keyword>spore</md:keyword>
+    <md:keyword>synapsis</md:keyword>
+    <md:keyword>synaptonemal complex</md:keyword>
+    <md:keyword>telophase I</md:keyword>
+    <md:keyword>Wilkins and Holliday</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the behavior of chromosomes during meiosis</item>
+<item>Describe cellular events during meiosis</item>
+<item>Explain the differences between meiosis and mitosis</item>
+<item>Explain the mechanisms within meiosis that generate genetic variation among the products of meiosis</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-id1457129">Sexual reproduction requires <term>fertilization</term>, the union of two cells from two individual organisms. If those two cells each contain one set of chromosomes, then the resulting cell contains two sets of chromosomes. Haploid cells contain one set of chromosomes. Cells containing two sets of chromosomes are called diploid. The number of sets of chromosomes in a cell is called its ploidy level. If the reproductive cycle is to continue, then the diploid cell must somehow reduce its number of chromosome sets before fertilization can occur again, or there will be a continual doubling in the number of chromosome sets in every generation. So, in addition to fertilization, sexual reproduction includes a nuclear division that reduces the number of chromosome sets.</para>
+<para id="fs-id1433868">Most animals and plants are diploid, containing two sets of chromosomes. In each <term>somatic cell</term> of the organism (all cells of a multicellular organism except the gametes or reproductive cells), the nucleus contains two copies of each chromosome, called homologous chromosomes. Somatic cells are sometimes referred to as “body” cells. Homologous chromosomes are matched pairs containing the same genes in identical locations along their length. Diploid organisms inherit one copy of each homologous chromosome from each parent; all together, they are considered a full set of chromosomes. Haploid cells, containing a single copy of each homologous chromosome, are found only within structures that give rise to either gametes or spores. <term>Spores</term> are haploid cells that can produce a haploid organism or can fuse with another spore to form a diploid cell. All animals and most plants produce eggs and sperm, or gametes. Some plants and all fungi produce spores.</para>
+<para id="fs-id1801644">The nuclear division that forms haploid cells, which is called <term>meiosis</term>, is related to mitosis. As you have learned, mitosis is the part of a cell reproduction cycle that results in identical daughter nuclei that are also genetically identical to the original parent nucleus. In mitosis, both the parent and the daughter nuclei are at the same ploidy level—diploid for most plants and animals. Meiosis employs many of the same mechanisms as mitosis. However, the starting nucleus is always diploid and the nuclei that result at the end of a meiotic cell division are haploid. To achieve this reduction in chromosome number, meiosis consists of one round of chromosome duplication and two rounds of nuclear division. Because the events that occur during each of the division stages are analogous to the events of mitosis, the same stage names are assigned. However, because there are two rounds of division, the major process and the stages are designated with a “I” or a “II.” Thus, <term>meiosis I</term> is the first round of meiotic division and consists of prophase I, prometaphase I, and so on. <term>Meiosis II</term>, in which the second round of meiotic division takes place, includes prophase II, prometaphase II, and so on.</para>
+<section id="fs-id903510">
+<title>Meiosis I</title>
+<para id="fs-id1419274">Meiosis is preceded by an interphase consisting of the G<sub>1</sub>, S, and G<sub>2</sub> phases, which are nearly identical to the phases preceding mitosis. The G<sub>1</sub> phase, which is also called the first gap phase, is the first phase of the interphase and is focused on cell growth. The S phase is the second phase of interphase, during which the DNA of the chromosomes is replicated. Finally, the G<sub>2</sub> phase, also called the second gap phase, is the third and final phase of interphase; in this phase, the cell undergoes the final preparations for meiosis.</para>
+<para id="fs-id1267021">During DNA duplication in the S phase, each chromosome is replicated to produce two identical copies, called sister chromatids, that are held together at the centromere by <term>cohesin</term> proteins. Cohesin holds the chromatids together until anaphase II. The centrosomes, which are the structures that organize the microtubules of the meiotic spindle, also replicate. This prepares the cell to enter prophase I, the first meiotic phase.</para>
+<section id="fs-id1755317">
+<title>Prophase I</title>
+<para id="fs-id1340707">Early in prophase I, before the chromosomes can be seen clearly microscopically, the homologous chromosomes are attached at their tips to the nuclear envelope by proteins. As the nuclear envelope begins to break down, the proteins associated with homologous chromosomes bring the pair close to each other.  Recall that, in mitosis, homologous chromosomes do not pair together. In mitosis, homologous chromosomes line up end-to-end so that when they divide, each daughter cell receives a sister chromatid from both members of the homologous pair. The <term>synaptonemal complex</term>, a lattice of proteins between the homologous chromosomes, first forms at specific locations and then spreads to cover the entire length of the chromosomes. The tight pairing of the homologous chromosomes is called <term>synapsis</term>. In synapsis, the genes on the chromatids of the homologous chromosomes are aligned precisely with each other. The synaptonemal complex supports the exchange of chromosomal segments between non-sister homologous chromatids, a process called crossing over. Crossing over can be observed visually after the exchange as <term>chiasmata</term> (singular = chiasma) (<link target-id="fig-ch11-01-01" document=""/>).</para><para id="fs-id1668056">In species such as humans, even though the X and Y sex chromosomes are not homologous (most of their genes differ), they have a small region of homology that allows the X and Y chromosomes to pair up during prophase I. A partial synaptonemal complex develops only between the regions of homology.</para>
+<figure id="fig-ch11-01-01"><media id="fs-id1645403" alt="This illustration depicts two pairs of sister chromatids joined together to form homologous chromosomes. The chromatids are pinched together at the centromere and held together by the kinetochore. A protein lattice called a synaptonemal complex fuses the homologous chromosomes together along their entire length.">
+<image mime-type="image/jpg" src="Figure_11_01_01.jpg" width="320"/>
+</media>
+
+<caption>Early in prophase I, homologous chromosomes come together to form a synapse. The chromosomes are bound tightly together and in perfect alignment by a protein lattice called a synaptonemal complex and by cohesin proteins at the centromere.</caption></figure><para id="fs-id1220575">Located at intervals along the synaptonemal complex are large protein assemblies called <term>recombination nodules</term>. These assemblies mark the points of later chiasmata and mediate the multistep process of <term>crossover</term>—or genetic recombination—between the non-sister chromatids. Near the recombination nodule on each chromatid, the double-stranded DNA is cleaved, the cut ends are modified, and a new connection is made between the non-sister chromatids. As prophase I progresses, the synaptonemal complex begins to break down and the chromosomes begin to condense. When the synaptonemal complex is gone, the homologous chromosomes remain attached to each other at the centromere and at chiasmata. The chiasmata remain until anaphase I. The number of chiasmata varies according to the species and the length of the chromosome. There must be at least one chiasma per chromosome for proper separation of homologous chromosomes during meiosis I, but there may be as many as 25. Following crossover, the synaptonemal complex breaks down and the cohesin connection between homologous pairs is also removed. At the end of prophase I, the pairs are held together only at the chiasmata (<link target-id="fig-ch11-01-02" document=""/>) and are called <term>tetrads</term> because the four sister chromatids of each pair of homologous chromosomes are now visible.</para>
+<para id="fs-id1687019">The crossover events are the first source of genetic variation in the nuclei produced by meiosis. A single crossover event between homologous non-sister chromatids leads to a reciprocal exchange of equivalent DNA between a maternal chromosome and a paternal chromosome. Now, when that sister chromatid is moved into a gamete cell it will carry some DNA from one parent of the individual and some DNA from the other parent. The sister recombinant chromatid has a combination of maternal and paternal genes that did not exist before the crossover. Multiple crossovers in an arm of the chromosome have the same effect, exchanging segments of DNA to create recombinant chromosomes.</para>
+<figure id="fig-ch11-01-02"><media id="fs-id1265035" alt="This illustration shows a pair of homologous chromosomes that are aligned. The ends of two non-sister chromatids of the homologous chromosomes cross over, and genetic material is exchanged. The non-sister chromatids between which genetic material was exchanged are called recombinant chromosomes. The other pair of non-sister chromatids that did not exchange genetic material are called non-recombinant chromosomes.">
+<image mime-type="image/jpg" src="Figure_11_01_02.jpg" width="350"/>
+</media>
+
+<caption>Crossover occurs between non-sister chromatids of homologous chromosomes. The result is an exchange of genetic material between homologous chromosomes.</caption></figure></section>
+<section id="fs-id1662346">
+<title>Prometaphase I</title>
+<para id="fs-id1461481">The key event in prometaphase I is the attachment of the spindle fiber microtubules to the kinetochore proteins at the centromeres. Kinetochore proteins are multiprotein complexes that bind the centromeres of a chromosome to the microtubules of the mitotic spindle. Microtubules grow from centrosomes placed at opposite poles of the cell. The microtubules move toward the middle of the cell and attach to one of the two fused homologous chromosomes. The microtubules attach at each chromosomes' kinetochores. With each member of the homologous pair attached to opposite poles of the cell, in the next phase, the microtubules can pull the homologous pair apart. A spindle fiber that has attached to a kinetochore is called a kinetochore microtubule. At the end of prometaphase I, each tetrad is attached to microtubules from both poles, with one homologous chromosome facing each pole. The homologous chromosomes are still held together at chiasmata. In addition, the nuclear membrane has broken down entirely.</para></section>
+<section id="fs-id1195147">
+<title>Metaphase I</title>
+<para id="fs-id1417670">During metaphase I, the homologous chromosomes are arranged in the center of the cell with the kinetochores facing opposite poles.  The homologous pairs orient themselves randomly at the equator. For example, if the two homologous members of chromosome 1 are labeled a and b, then the chromosomes could line up a-b, or b-a. This is important in determining the genes carried by a gamete, as each will only receive one of the two homologous chromosomes. Recall that homologous chromosomes are not identical. They contain slight differences in their genetic information, causing each gamete to have a unique genetic makeup.</para><para id="fs-id1953443">This randomness is the physical basis for the creation of the second form of genetic variation in offspring. Consider that the homologous chromosomes of a sexually reproducing organism are originally inherited as two separate sets, one from each parent. Using humans as an example, one set of 23 chromosomes is present in the egg donated by the mother. The father provides the other set of 23 chromosomes in the sperm that fertilizes the egg. Every cell of the multicellular offspring has copies of the original two sets of homologous chromosomes. In prophase I of meiosis, the homologous chromosomes form the tetrads. In metaphase I, these pairs line up at the midway point between the two poles of the cell to form the metaphase plate. Because there is an equal chance that a microtubule fiber will encounter a maternally or paternally inherited chromosome, the arrangement of the tetrads at the metaphase plate is random. Any maternally inherited chromosome may face either pole. Any paternally inherited chromosome may also face either pole. The orientation of each tetrad is independent of the orientation of the other 22 tetrads.</para>
+<para id="fs-id1311003">This event—the random (or independent) assortment of homologous chromosomes at the metaphase plate—is the second mechanism that introduces variation into the gametes or spores. In each cell that undergoes meiosis, the arrangement of the tetrads is different. The number of variations is dependent on the number of chromosomes making up a set. There are two possibilities for orientation at the metaphase plate; the possible number of alignments therefore equals 2<emphasis effect="italics">n</emphasis>, where <emphasis effect="italics">n</emphasis> is the number of chromosomes per set. Humans have 23 chromosome pairs, which results in over eight million (2<sup><emphasis effect="italics">23</emphasis></sup>) possible genetically-distinct gametes. This number does not include the variability that was previously created in the sister chromatids by crossover. Given these two mechanisms, it is highly unlikely that any two haploid cells resulting from meiosis will have the same genetic composition (<link target-id="fig-ch11-01-03" document=""/>).</para><para id="fs-id1021412">To summarize the genetic consequences of meiosis I, the maternal and paternal genes are recombined by crossover events that occur between each homologous pair during prophase I. In addition, the random assortment of tetrads on the metaphase plate produces a unique combination of maternal and paternal chromosomes that will make their way into the gametes.</para>
+<figure id="fig-ch11-01-03" class=" "><media id="fs-id1284037" alt="This illustration shows that, in a cell with a set of two chromosomes, four possible arrangements of chromosomes can give rise to eight different kinds of gamete. These are the eight possible arrangements of chromosomes that can occur during meiosis of two chromosomes.">
+<image mime-type="image/jpg" src="Figure_11_01_03.jpg" width="550"/>
+</media>
+
+<caption>Random, independent assortment during metaphase I can be demonstrated by considering a cell with a set of two chromosomes (<emphasis effect="italics">n</emphasis> = 2). In this case, there are two possible arrangements at the equatorial plane in metaphase I. The total possible number of different gametes is 2<emphasis effect="italics">n</emphasis>, where <emphasis effect="italics">n</emphasis> equals the number of chromosomes in a set. In this example, there are four possible genetic combinations for the gametes. With <emphasis effect="italics">n</emphasis> = 23 in human cells, there are over 8 million possible combinations of paternal and maternal chromosomes.</caption></figure></section>
+<section id="fs-id1463196">
+<title>Anaphase I</title>
+<para id="fs-id1969953">In anaphase I, the microtubules pull the linked chromosomes apart. The sister chromatids remain tightly bound together at the centromere. The chiasmata are broken in anaphase I as the microtubules attached to the fused kinetochores pull the homologous chromosomes apart (<link target-id="fig-ch11-01-04" document=""/>).</para>
+</section>
+<section id="fs-id1458977">
+<title>Telophase I and Cytokinesis</title>
+<para id="fs-id1664445">In telophase, the separated chromosomes arrive at opposite poles. The remainder of the typical telophase events may or may not occur, depending on the species. In some organisms, the chromosomes decondense and nuclear envelopes form around the chromatids in telophase I. In other organisms, cytokinesis—the physical separation of the cytoplasmic components into two daughter cells—occurs without reformation of the nuclei. In nearly all species of animals and some fungi, cytokinesis separates the cell contents via a cleavage furrow (constriction of the actin ring that leads to cytoplasmic division). In plants, a cell plate is formed during cell cytokinesis by Golgi vesicles fusing at the metaphase plate. This cell plate will ultimately lead to the formation of cell walls that separate the two daughter cells.</para>
+<para id="fs-id1321580">Two haploid cells are the end result of the first meiotic division. The cells are haploid because at each pole, there is just one of each pair of the homologous chromosomes. Therefore, only one full set of the chromosomes is present. This is why the cells are considered haploid—there is only one chromosome set, even though each homolog still consists of two sister chromatids.  Recall that sister chromatids are merely duplicates of one of the two homologous chromosomes (except for changes that occurred during crossing over). In meiosis II, these two sister chromatids will separate, creating four haploid daughter cells. </para><note id="fs-id1340075" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-id1406874" alt="QR Code representing a URL">
+<image mime-type="image/png" src="animal_meiosis.png" width="120"/>
+</media>
+<para id="fs-id1955005">Review the process of meiosis, observing how chromosomes align and migrate, at <link window="new" url="http://openstaxcollege.org/l/animal_meiosis">Meiosis: An Interactive Animation</link>.</para>
+</note></section>
+</section>
+<section id="fs-id1459778">
+<title>Meiosis II</title>
+<para id="fs-id1447227">In some species, cells enter a brief interphase, or <term>interkinesis</term>, before entering meiosis II. Interkinesis lacks an S phase, so chromosomes are not duplicated. The two cells produced in meiosis I go through the events of meiosis II in synchrony. During meiosis II, the sister chromatids within the two daughter cells separate, forming four new haploid gametes. The mechanics of meiosis II is similar to mitosis, except that each dividing cell has only one set of homologous chromosomes. Therefore, each cell has half the number of sister chromatids to separate out as a diploid cell undergoing mitosis.</para><section id="fs-id1357838">
+<title>Prophase II</title>
+<para id="fs-id1371327">If the chromosomes decondensed in telophase I, they condense again. If nuclear envelopes were formed, they fragment into vesicles. The centrosomes that were duplicated during interkinesis move away from each other toward opposite poles, and new spindles are formed.</para>
+</section>
+<section id="fs-id1300636">
+<title>Prometaphase II</title>
+<para id="fs-id1461181">The nuclear envelopes are completely broken down, and the spindle is fully formed. Each sister chromatid forms an individual kinetochore that attaches to microtubules from opposite poles.</para>
+</section>
+<section id="fs-id806351">
+<title>Metaphase II</title>
+<para id="fs-id1416911">The sister chromatids are maximally condensed and aligned at the equator of the cell.</para>
+</section>
+<section id="fs-id1220173">
+<title>Anaphase II</title>
+<para id="fs-id1488854">The sister chromatids are pulled apart by the kinetochore microtubules and move toward opposite poles. Non-kinetochore microtubules elongate the cell.</para>
+<figure id="fig-ch11-01-04" class=" "><media id="fs-id1249298" alt="This illustration compares chromosome alignment in meiosis I and meiosis II. In prometaphase I, homologous pairs of chromosomes are held together by chiasmata. In anaphase I, the homologous pair separates and the connections at the chiasmata are broken, but the sister chromatids remain attached at the centromere. In prometaphase II, the sister chromatids are held together at the centromere. In anaphase II, the centromere connections are broken and the sister chromatids separate.">
+<image mime-type="image/jpg" src="Figure_11_01_04.jpg" width="550"/>
+</media>
+
+<caption>The process of chromosome alignment differs between meiosis I and meiosis II. In prometaphase I, microtubules attach to the fused kinetochores of homologous chromosomes, and the homologous chromosomes are arranged at the midpoint of the cell in metaphase I. In anaphase I, the homologous chromosomes are separated. In prometaphase II, microtubules attach to the kinetochores of sister chromatids, and the sister chromatids are arranged at the midpoint of the cells in metaphase II. In anaphase II, the sister chromatids are separated.</caption></figure></section>
+<section id="fs-id1470624">
+<title>Telophase II and Cytokinesis</title>
+<para id="fs-id1282360">The chromosomes arrive at opposite poles and begin to decondense. Nuclear envelopes form around the chromosomes. Cytokinesis separates the two cells into four unique haploid cells. At this point, the newly formed nuclei are both haploid. The cells produced are genetically unique because of the random assortment of paternal and maternal homologs and because of the recombining of maternal and paternal segments of chromosomes (with their sets of genes) that occurs during crossover. The entire process of meiosis is outlined in <link target-id="fig-ch11-01-05" document=""/>.</para>
+<figure id="fig-ch11-01-05" class=" "><media id="fs-id1848286" alt="This illustration outlines the stages of meiosis. In interphase, before meiosis begins, the chromosomes are duplicated. Meiosis I then proceeds through several stages. In prophase I, the chromosomes begin to condense and the nuclear envelope fragments. Homologous pairs of chromosomes line up, and chiasmata form between them. Crossing over occurs at the chiasmata. Spindle fibers emerge from the centrosomes. In prometaphase I, homologous chromosomes attach to the spindle microtubules. In metaphase I, homologous chromosomes line up at the metaphase plate. In anaphase I, the spindle microtubules pull the homologous pairs of chromosomes apart. In telophase I and cytokinesis, the sister chromatids arrive at the poles of the cell and begin to decondense. The nuclear envelope begins to form again, and cell division occurs. Meiosis II then proceeds through several stages. In prophase II, the sister chromatids condense and the nuclear envelope fragments. A new spindle begins to form. In prometaphase II, the sister chromatids become attached to the kinetochore. In metaphase II, the sister chromatids line up at the metaphase plate. In anaphase II, the sister chromatids are pulled apart by the shortening spindles. In telophase II and cytokinesis, the nuclear envelope forms again and cell division occurs, resulting in four haploid daughter cells.">
+<image mime-type="image/jpg" src="Figure_11_01_05.jpg" width="500"/>
+</media>
+
+<caption>An animal cell with a diploid number of four (2<emphasis effect="italics">n </emphasis>= 4) proceeds through the stages of meiosis to form four haploid daughter cells.</caption></figure></section>
+</section>
+<section id="fs-id1267128">
+<title>Comparing Meiosis and Mitosis</title>
+<para id="fs-id850564">Mitosis and meiosis are both forms of division of the nucleus in eukaryotic cells. They share some similarities, but also exhibit distinct differences that lead to very different outcomes (<link target-id="fig-ch11-01-06" document=""/>). Mitosis is a single nuclear division that results in two nuclei that are usually partitioned into two new cells. The nuclei resulting from a mitotic division are genetically identical to the original nucleus. They have the same number of sets of chromosomes, one set in the case of haploid cells and two sets in the case of diploid cells. In most plants and all animal species, it is typically diploid cells that undergo mitosis to form new diploid cells. In contrast, meiosis consists of two nuclear divisions resulting in four nuclei that are usually partitioned into four new cells. The nuclei resulting from meiosis are not genetically identical and they contain one chromosome set only. This is half the number of chromosome sets in the original cell, which is diploid.</para>
+<para id="fs-id1322104">The main differences between mitosis and meiosis occur in meiosis I, which is a very different nuclear division than mitosis. In meiosis I, the homologous chromosome pairs become associated with each other, are bound together with the synaptonemal complex, develop chiasmata and undergo crossover between sister chromatids, and line up along the metaphase plate in tetrads with kinetochore fibers from opposite spindle poles attached to each kinetochore of a homolog in a tetrad. All of these events occur only in meiosis I.</para>
+<para id="fs-id1165795">When the chiasmata resolve and the tetrad is broken up with the homologs moving to one pole or another, the ploidy level—the number of sets of chromosomes in each future nucleus—has been reduced from two to one. For this reason, meiosis I is referred to as a <term>reduction division</term>. There is no such reduction in ploidy level during mitosis.</para>
+<para id="fs-id1418144">Meiosis II is much more analogous to a mitotic division. In this case, the duplicated chromosomes (only one set of them) line up on the metaphase plate with divided kinetochores attached to kinetochore fibers from opposite poles. During anaphase II, as in mitotic anaphase, the kinetochores divide and one sister chromatid—now referred to as a chromosome—is pulled to one pole while the other sister chromatid is pulled to the other pole. If it were not for the fact that there had been crossover, the two products of each individual meiosis II division would be identical (like in mitosis). Instead, they are different because there has always been at least one crossover per chromosome. Meiosis II is not a reduction division because although there are fewer copies of the genome in the resulting cells, there is still one set of chromosomes, as there was at the end of meiosis I.</para>
+<figure id="fig-ch11-01-06" class=" "><media id="fs-id1465488" alt="This illustration compares meiosis and mitosis. In meiosis, there are two rounds of cell division, whereas there is only one round of cell division in mitosis. In both mitosis and meiosis, DNA synthesis occurs during S phase. Synapsis of homologous chromosomes occurs in prophase I of meiosis, but does not occur in mitosis. Crossover of chromosomes occurs in prophase I of meiosis, but does not occur in mitosis. Homologous pairs of chromosomes line up at the metaphase plate during metaphase I of meiosis, but not during mitosis. Sister chromatids line up at the metaphase plate during metaphase II of meiosis and metaphase of mitosis. The result of meiosis is four haploid daughter cells, and the result of mitosis is two diploid daughter cells.">
+<image mime-type="image/jpg" src="Figure_11_01_06.jpg" width="500"/>
+</media>
+
+<caption>Meiosis and mitosis are both preceded by one round of DNA replication; however, meiosis includes two nuclear divisions. The four daughter cells resulting from meiosis are haploid and genetically distinct. The daughter cells resulting from mitosis are diploid and identical to the parent cell.</caption></figure><note id="fs-id1444957" class="evolution"><label/><title>Evolution Connection</title>
+
+<para id="fs-id1353055"><title>The Mystery of the Evolution of Meiosis</title>Some characteristics of organisms are so widespread and fundamental that it is sometimes difficult to remember that they evolved like other simpler traits. Meiosis is such an extraordinarily complex series of cellular events that biologists have had trouble hypothesizing and testing how it may have evolved. Although meiosis is inextricably entwined with sexual reproduction and its advantages and disadvantages, it is important to separate the questions of the evolution of meiosis and the evolution of sex, because early meiosis may have been advantageous for different reasons than it is now. Thinking outside the box and imagining what the early benefits from meiosis might have been is one approach to uncovering how it may have evolved.</para>
+<para id="fs-id1135491">Meiosis and mitosis share obvious cellular processes and it makes sense that meiosis evolved from mitosis. The difficulty lies in the clear differences between meiosis I and mitosis. Adam Wilkins and Robin Holliday<sup><footnote id="fs-id2682614"><para id="fn-ch11mod01-01">Adam S. Wilkins and Robin Holliday, “The Evolution of Meiosis from Mitosis,” <emphasis effect="italics">Genetics</emphasis> 181 (2009): 3–12.</para></footnote></sup> summarized the unique events that needed to occur for the evolution of meiosis from mitosis. These steps are homologous chromosome pairing, crossover exchanges, sister chromatids remaining attached during anaphase, and suppression of DNA replication in interphase. They argue that the first step is the hardest and most important, and that understanding how it evolved would make the evolutionary process clearer. They suggest genetic experiments that might shed light on the evolution of synapsis.</para>
+<para id="fs-id1669726">There are other approaches to understanding the evolution of meiosis in progress. Different forms of meiosis exist in single-celled protists. Some appear to be simpler or more “primitive” forms of meiosis. Comparing the meiotic divisions of different protists may shed light on the evolution of meiosis. Marilee Ramesh and colleagues<sup><footnote id="fs-id2054667"><para id="fn-ch11mod01-02">Marilee A. Ramesh, Shehre-Banoo Malik and John M. Logsdon, Jr, “A Phylogenetic Inventory of Meiotic Genes: Evidence for Sex in <emphasis effect="italics">Giardia</emphasis> and an Early Eukaryotic Origin of Meiosis,” <emphasis effect="italics">Current Biology</emphasis> 15 (2005):185–91.</para></footnote></sup> compared the genes involved in meiosis in protists to understand when and where meiosis might have evolved. Although research is still ongoing, recent scholarship into meiosis in protists suggests that some aspects of meiosis may have evolved later than others. This kind of genetic comparison can tell us what aspects of meiosis are the oldest and what cellular processes they may have borrowed from in earlier cells.</para>
+</note><note id="fs-id1244433" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-id1227799" alt="QR Code representing a URL">
+<image mime-type="image/png" src="how_cells_dvide.png" width="120"/>
+</media>
+<para id="fs-id1198982">Click through the steps of this interactive animation to compare the meiotic process of cell division to that of mitosis: <link window="new" url="http://openstaxcollege.org/l/how_cells_dvide">How Cells Divide</link>.</para>
+</note></section>
+<section id="fs-id1361505" class="summary">
+<title>Section Summary</title><para id="fs-id1135317">Sexual reproduction requires that diploid organisms produce haploid cells that can fuse during fertilization to form diploid offspring. As with mitosis, DNA replication occurs prior to meiosis during the S-phase of the cell cycle. Meiosis is a series of events that arrange and separate chromosomes and chromatids into daughter cells. During the interphases of meiosis, each chromosome is duplicated. In meiosis, there are two rounds of nuclear division resulting in four nuclei and usually four daughter cells, each with half the number of chromosomes as the parent cell. The first separates homologs, and the second—like mitosis—separates chromatids into individual chromosomes. During meiosis, variation in the daughter nuclei is introduced because of crossover in prophase I and random alignment of tetrads at metaphase I. The cells that are produced by meiosis are genetically unique.</para><para id="fs-id1664568">Meiosis and mitosis share similarities, but have distinct outcomes. Mitotic divisions are single nuclear divisions that produce daughter nuclei that are genetically identical and have the same number of chromosome sets as the original cell. Meiotic divisions include two nuclear divisions that produce four daughter nuclei that are genetically different and have one chromosome set instead of the two sets of chromosomes in the parent cell. The main differences between the processes occur in the first division of meiosis, in which homologous chromosomes are paired and exchange non-sister chromatid segments. The homologous chromosomes separate into different nuclei during meiosis I, causing a reduction of ploidy level in the first division. The second division of meiosis is more similar to a mitotic division, except that the daughter cells do not contain identical genomes because of crossover.</para>
+</section>
+<section id="fs-id1207123" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-id1181228"><problem id="fs-id872298">
+<para id="fs-id1606170">Meiosis produces ________ daughter cells.</para>
+<list id="fs-id1663404" list-type="enumerated" number-style="lower-alpha">
+<item>two haploid</item>
+<item>two diploid</item>
+<item>four haploid</item>
+<item>four diploid</item>
+</list>
+</problem>
+<solution id="fs-id969276">
+<label/>
+<para id="fs-id1300043">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1744220"><problem id="fs-id1330109">
+<para id="fs-id1228507">What structure is most important in forming the tetrads?</para>
+<list id="fs-id1618891" list-type="enumerated" number-style="lower-alpha">
+<item>centromere</item>
+<item>synaptonemal complex</item>
+<item>chiasma</item>
+<item>kinetochore</item>
+</list>
+</problem>
+<solution id="fs-id1489030">
+<label/>
+<para id="fs-id1444111">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id933450"><problem id="fs-id1743391">
+<para id="fs-id872280">At which stage of meiosis are sister chromatids separated from each other?</para>
+<list id="fs-id1627906" list-type="enumerated" number-style="lower-alpha">
+<item>prophase I</item>
+<item>prophase II</item>
+<item>anaphase I</item>
+<item>anaphase II</item>
+</list>
+</problem>
+<solution id="fs-id1407522">
+<label/>
+<para id="fs-id1475122">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1466651"><problem id="fs-id1727236">
+<para id="fs-id1440813">At metaphase I, homologous chromosomes are connected only at what structures?</para>
+<list id="fs-id1432603" list-type="enumerated" number-style="lower-alpha">
+<item>chiasmata</item>
+<item>recombination nodules</item>
+<item>microtubules</item>
+<item>kinetochores</item>
+</list>
+</problem>
+<solution id="fs-id1397487">
+<label/>
+<para id="fs-id1419704">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1628288"><problem id="fs-id1723142">
+<para id="fs-id1221906">Which of the following is <emphasis effect="italics">not </emphasis>true in regard to crossover?</para>
+<list id="fs-id1792006" list-type="enumerated" number-style="lower-alpha">
+<item>Spindle microtubules guide the transfer of DNA across the synaptonemal complex.</item>
+<item>Non-sister chromatids exchange genetic material.</item>
+<item>Chiasmata are formed.</item>
+<item>Recombination nodules mark the crossover point.</item>
+</list>
+</problem>
+<solution id="fs-id1669039">
+<label/>
+<para id="fs-id1434237">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id941668"><problem id="fs-id1282264">
+<para id="fs-id850974">What phase of mitotic interphase is missing from meiotic interkinesis?</para>
+<list id="fs-id1669321" list-type="enumerated" number-style="lower-alpha">
+<item>G<sub>0</sub> phase</item>
+<item>G<sub>1</sub> phase</item>
+<item>S phase</item>
+<item>G<sub>2</sub> phase</item>
+</list>
+</problem>
+<solution id="fs-id1490229">
+<label/>
+<para id="fs-id1322360">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1440220"><problem id="fs-id1267632">
+<para id="fs-id1413873">The part of meiosis that is similar to mitosis is ________.</para>
+<list id="fs-id1233556" list-type="enumerated" number-style="lower-alpha">
+<item>meiosis I</item>
+<item>anaphase I</item>
+<item>meiosis II</item>
+<item>interkinesis</item>
+</list>
+</problem>
+<solution id="fs-id1196365">
+<label/>
+<para id="fs-id1904579">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1321696"><problem id="fs-id1892091">
+<para id="fs-id1411405">If a muscle cell of a typical organism has 32 chromosomes, how many chromosomes will be in a gamete of that same organism?</para>
+<list id="fs-id983570" list-type="enumerated" number-style="lower-alpha">
+<item>8</item>
+<item>16</item>
+<item>32</item>
+<item>64</item>
+</list>
+</problem>
+<solution id="fs-id1338455">
+<label/>
+<para id="fs-id1195803">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1365971" class="free-response">
+<title>Free Response</title><exercise id="fs-id1325976">
+<problem id="fs-id1464963"><para id="fs-id1755165">Describe the process that results in the formation of a tetrad.</para></problem>
+<solution id="fs-id1320890"><label/>
+<para id="fs-id1391697">During the meiotic interphase, each chromosome is duplicated. The sister chromatids that are formed during synthesis are held together at the centromere region by cohesin proteins. All chromosomes are attached to the nuclear envelope by their tips. As the cell enters prophase I, the nuclear envelope begins to fragment, and the proteins holding homologous chromosomes locate each other. The four sister chromatids align lengthwise, and a protein lattice called the synaptonemal complex is formed between them to bind them together. The synaptonemal complex facilitates crossover between non-sister chromatids, which is observed as chiasmata along the length of the chromosome. As prophase I progresses, the synaptonemal complex breaks down and the sister chromatids become free, except where they are attached by chiasmata. At this stage, the four chromatids are visible in each homologous pairing and are called a tetrad.</para></solution>
+</exercise>
+<exercise id="fs-id1261539">
+<problem id="fs-id1322177"><para id="fs-id1283809">Explain how the random alignment of homologous chromosomes during metaphase I contributes to the variation in gametes produced by meiosis.</para></problem>
+<solution id="fs-id1275260"><label/>
+<para id="fs-id1465101">Random alignment leads to new combinations of traits. The chromosomes that were originally inherited by the gamete-producing individual came equally from the egg and the sperm. In metaphase I, the duplicated copies of these maternal and paternal homologous chromosomes line up across the center of the cell. The orientation of each tetrad is random. There is an equal chance that the maternally derived chromosomes will be facing either pole. The same is true of the paternally derived chromosomes. The alignment should occur differently in almost every meiosis. As the homologous chromosomes are pulled apart in anaphase I, any combination of maternal and paternal chromosomes will move toward each pole. The gametes formed from these two groups of chromosomes will have a mixture of traits from the individual’s parents. Each gamete is unique.</para></solution>
+</exercise>
+<exercise id="fs-id1349331"><problem id="fs-id1209961"><para id="fs-id1475291">What is the function of the fused kinetochore found on sister chromatids in prometaphase I?</para></problem>
+<solution id="fs-id1561447"><label/>
+<para id="fs-id1704415">In metaphase I, the homologous chromosomes line up at the metaphase plate. In anaphase I, the homologous chromosomes are pulled apart and move to opposite poles. Sister chromatids are not separated until meiosis II. The fused kinetochore formed during meiosis I ensures that each spindle microtubule that binds to the tetrad will attach to both sister chromatids.</para>
+</solution>
+</exercise><exercise id="fs-id1440207">
+<problem id="fs-id1417451"><para id="fs-id1667580">In a comparison of the stages of meiosis to the stages of mitosis, which stages are unique to meiosis and which stages have the same events in both meiosis and mitosis?</para></problem>
+<solution id="fs-id1729295"><label/>
+<para id="fs-id1453957">All of the stages of meiosis I, except possibly telophase I, are unique because homologous chromosomes are separated, not sister chromatids. In some species, the chromosomes do not decondense and the nuclear envelopes do not form in telophase I. All of the stages of meiosis II have the same events as the stages of mitosis, with the possible exception of prophase II. In some species, the chromosomes are still condensed and there is no nuclear envelope. Other than this, all processes are the same.</para></solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-id1325889"><label/><term>chiasmata</term> <meaning id="fs-id1339614">(singular, <emphasis effect="italics">chiasma</emphasis>) the structure that forms at the crossover points after genetic material is exchanged</meaning></definition>
+<definition id="fs-id1228250"><label/><term>cohesin</term> <meaning id="fs-id1677521">proteins that form a complex that seals sister chromatids together at their centromeres until anaphase II of meiosis</meaning></definition>
+<definition id="fs-id1608477"><label/><term>crossover</term> <meaning id="fs-id1267216">exchange of genetic material between non-sister chromatids resulting in chromosomes that incorporate genes from both parents of the organism</meaning></definition>
+<definition id="fs-id1373138"><label/><term>fertilization</term> <meaning id="fs-id1231784">union of two haploid cells from two individual organisms</meaning></definition>
+<definition id="fs-id866277"><label/><term>interkinesis</term> <meaning id="fs-id1340157">(also, <emphasis effect="italics">interphase II</emphasis>) brief period of rest between meiosis I and meiosis II</meaning></definition>
+<definition id="fs-id1214429"><label/><term>meiosis</term> <meaning id="fs-id1283479">a nuclear division process that results in four haploid cells</meaning></definition>
+<definition id="fs-id1464308"><label/><term>meiosis I</term> <meaning id="fs-id1222256">first round of meiotic cell division; referred to as reduction division because the ploidy level is reduced from diploid to haploid</meaning></definition>
+<definition id="fs-id1292733"><label/><term>meiosis II</term> <meaning id="fs-id1371869">second round of meiotic cell division following meiosis I; sister chromatids are separated into individual chromosomes, and the result is four unique haploid cells</meaning></definition>
+<definition id="fs-id1870120"><label/><term>recombination nodules</term> <meaning id="fs-id1687510">protein assemblies formed on the synaptonemal complex that mark the points of crossover events and mediate the multistep process of genetic recombination between non-sister chromatids</meaning></definition>
+<definition id="fs-id1330398"><label/><term>reduction division</term> <meaning id="fs-id848831">nuclear division that produces daughter nuclei each having one-half as many chromosome sets as the parental nucleus; meiosis I is a reduction division</meaning></definition>
+<definition id="fs-id801372"><label/><term>somatic cell</term> <meaning id="fs-id1383821">all the cells of a multicellular organism except the gametes or reproductive cells</meaning></definition>
+<definition id="fs-id833413"><label/><term>spore</term> <meaning id="fs-id1326364">haploid cell that can produce a haploid multicellular organism or can fuse with another spore to form a diploid cell</meaning></definition>
+<definition id="fs-id1450022"><label/><term>synapsis</term> <meaning id="fs-id1723194">formation of a close association between homologous chromosomes during prophase I</meaning></definition>
+<definition id="fs-id1327463"><label/><term>synaptonemal complex</term> <meaning id="fs-id1398513">protein lattice that forms between homologous chromosomes during prophase I, supporting crossover</meaning></definition>
+<definition id="fs-id1672549"><label/><term>tetrad</term> <meaning id="fs-id1407670">two duplicated homologous chromosomes (four chromatids) bound together by chiasmata during prophase I</meaning></definition>
+</glossary>
+</document>

@@ -1,0 +1,288 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Transport of Water and Solutes in Plants</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44708/latest/</md:content-url>
+  <md:content-id>m44708</md:content-id>
+  <md:title>Transport of Water and Solutes in Plants</md:title>
+  <md:version>1.5</md:version>
+  <md:created>2012/08/23 14:56:50 -0500</md:created>
+  <md:revised>2013/05/10 11:55:18.291 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>cuticle</md:keyword>
+    <md:keyword>evapotranspiration</md:keyword>
+    <md:keyword>guttation</md:keyword>
+    <md:keyword>megapascal</md:keyword>
+    <md:keyword>photosynthate transport</md:keyword>
+    <md:keyword>plant form</md:keyword>
+    <md:keyword>plant physiology</md:keyword>
+    <md:keyword>plants</md:keyword>
+    <md:keyword>plant transport</md:keyword>
+    <md:keyword>root pressure</md:keyword>
+    <md:keyword>sink</md:keyword>
+    <md:keyword>solute transport</md:keyword>
+    <md:keyword>source</md:keyword>
+    <md:keyword>stomatal regulation</md:keyword>
+    <md:keyword>transfer cell</md:keyword>
+    <md:keyword>translocation</md:keyword>
+    <md:keyword>transpiration</md:keyword>
+    <md:keyword>transpiration regulation</md:keyword>
+    <md:keyword>water potential</md:keyword>
+    <md:keyword>water transport</md:keyword>
+    <md:keyword>xylem</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Define water potential and explain how it is influenced by solutes, pressure, gravity, and the matric potential</item>
+<item>Describe how water potential, evapotranspiration, and stomatal regulation influence how water is transported in plants</item>
+<item>Explain how photosynthates are transported in plants</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idm41521616">The structure of plant roots, stems, and leaves facilitates the transport of water, nutrients, and photosynthates throughout the plant. The phloem and xylem are the main tissues responsible for this movement. Water potential, evapotranspiration, and stomatal regulation influence how water and nutrients are transported in plants. To understand how these processes work, we must first understand the energetics of water potential.</para>
+<section id="fs-idm147024512">
+<title>Water Potential</title>
+<para id="fs-idm99656496">Plants are phenomenal hydraulic engineers. Using only the basic laws of physics and the simple manipulation of potential energy, plants can move water to the top of a 116-meter-tall tree (<link target-id="fig-ch30_05_01" document=""/><emphasis effect="bold">a</emphasis>). Plants can also use hydraulics to generate enough force to split rocks and buckle sidewalks (<link target-id="fig-ch30_05_01" document=""/><emphasis effect="bold">b</emphasis>). Plants achieve this because of water potential.</para><figure id="fig-ch30_05_01"><media id="fs-idm17151216" alt=" Photo (a) shows the brown trunk of a tall sequoia tree in a forest. Photo (b) shows a grey tree trunk growing between a road and a sidewalk. The roots have started to lift up and crack the concrete slabs of the sidewalk.">
+<image mime-type="image/jpg" src="Figure_30_05_01.jpg" width="450"/>
+</media>
+
+<caption>With heights nearing 116 meters, (a) coastal redwoods (<emphasis effect="italics">Sequoia sempervirens</emphasis>) are the tallest trees in the world. Plant roots can easily generate enough force to (b) buckle and break concrete sidewalks, much to the dismay of homeowners and city maintenance departments. (credit a: modification of work by Bernt Rostad; credit b: modification of work by Pedestrians Educating Drivers on Safety, Inc.)</caption></figure><para id="fs-idm67889584"><term>Water potential</term> is a measure of the potential energy in water. Plant physiologists are not interested in the energy in any one particular aqueous system, but are very interested in water movement between two systems. In practical terms, therefore, water potential is the difference in potential energy between a given water sample and pure water (at atmospheric pressure and ambient temperature). Water potential is denoted by the Greek letter &#968; (<emphasis effect="italics">psi</emphasis>) and is expressed in units of pressure (pressure is a form of energy) called <term>megapascals</term> (MPa). The potential of pure water (&#936;<sub>w</sub><sup>pure H2O</sup>) is, by convenience of definition, designated a value of zero (even though pure water contains plenty of potential energy, that energy is ignored). Water potential values for the water in a plant root, stem, or leaf are therefore expressed relative to &#936;<sub>w</sub><sup>pure H2O</sup>.</para>
+<para id="fs-idp22356384">The water potential in plant solutions is influenced by solute concentration, pressure, gravity, and factors called matrix effects. Water potential can be broken down into its individual components using the following equation:</para>
+<equation id="eip-837"><m:math display="block">
+ <m:mrow>
+  <m:msub>
+   <m:mo>&#936;</m:mo>
+   <m:mrow>
+    <m:mtext>system</m:mtext>
+   </m:mrow>
+  </m:msub>
+  <m:mo>=</m:mo><m:msub>
+   <m:mo>&#936;</m:mo>
+   <m:mrow>
+    <m:mtext>total</m:mtext>
+   </m:mrow>
+  </m:msub>
+  <m:mo>=</m:mo><m:msub>
+   <m:mo>&#936;</m:mo>
+   <m:mtext>s</m:mtext>
+  </m:msub>
+  <m:mo>+</m:mo><m:msub>
+   <m:mo>&#936;</m:mo>
+   <m:mtext>p</m:mtext>
+  </m:msub>
+  <m:mo>+</m:mo><m:msub>
+   <m:mo>&#936;</m:mo>
+   <m:mtext>g</m:mtext>
+  </m:msub>
+  <m:mo>+</m:mo><m:msub>
+   <m:mo>&#936;</m:mo>
+   <m:mtext>m</m:mtext>
+  </m:msub>
+  
+ </m:mrow>
+</m:math></equation><para id="fs-idp104228640">where &#936;<sub>s</sub>, &#936;<sub>p</sub>, &#936;<sub>g</sub>, and &#936;<sub>m</sub> refer to the solute, pressure, gravity, and matric potentials, respectively. &#8220;System&#8221; can refer to the water potential of the soil water (&#936;<sup>soil</sup>), root water (&#936;<sup>root</sup>), stem water (&#936;<sup>stem</sup>), leaf water (&#936;<sup>leaf</sup>) or the water in the atmosphere (&#936;<sup>atmosphere</sup>): whichever aqueous system is under consideration. As the individual components change, they raise or lower the total water potential of a system. When this happens, water moves to equilibrate, moving from the system or compartment with a higher water potential to the system or compartment with a lower water potential. This brings the difference in water potential between the two systems (&#916;&#936;) back to zero (&#916;&#936; = 0). Therefore, for water to move through the plant from the soil to the air (a process called transpiration), &#936;<sup>soil</sup> must be &gt; &#936;<sup>root</sup> &gt; &#936;<sup>stem</sup> &gt; &#936;<sup>leaf</sup> &gt; &#936;<sup>atmosphere</sup>.</para>
+<para id="fs-idm8277728">Water only moves in response to &#916;&#936;, not in response to the individual components. However, because the individual components influence the total &#936;<sub>system</sub>, by manipulating the individual components (especially &#936;<sub>s</sub>), a plant can control water movement.</para>
+<section id="fs-idm72209952">
+<title>Solute Potential</title>
+<para id="fs-idm141122384">Solute potential (&#936;<sub>s</sub>), also called osmotic potential, is negative in a plant cell and zero in distilled water. Typical values for cell cytoplasm are &#8211;0.5 to &#8211;1.0 MPa. Solutes reduce water potential (resulting in a negative &#936;<sub>w</sub>) by consuming some of the potential energy available in the water. Solute molecules can dissolve in water because water molecules can bind to them via hydrogen bonds; a hydrophobic molecule like oil, which cannot bind to water, cannot go into solution. The energy in the hydrogen bonds between solute molecules and water is no longer available to do work in the system because it is tied up in the bond. In other words, the amount of available potential energy is reduced when solutes are added to an aqueous system. Thus, &#936;<sub>s</sub> decreases with increasing solute concentration. Because &#936;<sub>s</sub> is one of the four components of &#936;<sub>system</sub> or &#936;<sub>total</sub>, a decrease in &#936;<sub>s</sub> will cause a decrease in &#936;<sub>total</sub>. The internal water potential of a plant cell is more negative than pure water because of the cytoplasm&#8217;s high solute content (<link target-id="fig-ch30_05_02" document=""/>). Because of this difference in water potential water will move from the soil into a plant&#8217;s root cells via the process of osmosis. This is why solute potential is sometimes called osmotic potential.</para><para id="fs-idm125860048">Plant cells can metabolically manipulate &#936;<sub>s</sub> (and by extension, &#936;<sub>total</sub>) by adding or removing solute molecules. Therefore, plants have control over &#936;<sub>total</sub> via their ability to exert metabolic control over &#936;<sub>s</sub>.</para>
+<note id="fs-idp39200944" class="art-connection">
+<label/>
+<para id="fs-idm38131952">
+<figure id="fig-ch30_05_02"><media id="fs-idm19720576" alt=" Illustration shows a U-shaped tube holding pure water. A semipermeable membrane, which allows water but not solutes to pass, separates the two sides of the tube. The water level on each side of the tube is the same. Beneath this tube are three more tubes, also divided by semipermeable membranes. In the first tube, solute has been added to the right side. Adding solute to the right side lowers psi-s, causing water to move to the right side of the tube. As a result, the water level is higher on the right side. The second tube has pure water on both sides of the membrane. Positive pressure is applied to the left side. Applying positive pressure to the left side causes psi-p to increase. As a results, water moves to the right so that the water level is higher on the right than on the left. The third tube also has pure water, but this time negative pressure is applied to the left side. Applying negative pressure lowers psi-p, causing water to move to the left side of the tube. As a result, the water level is higher on the left.">
+<image mime-type="image/jpg" src="Figure_30_05_02.png" width="400"/>
+</media>
+
+<caption>In this example with a semipermeable membrane between two aqueous systems, water will move from a region of higher to lower water potential until equilibrium is reached. Solutes (&#936;<sub>s</sub>), pressure (&#936;<sub>p</sub>), and gravity (&#936;<sub>g</sub>) influence total water potential for each side of the tube (&#936;<sub>total</sub> <sup>right or left</sup>), and therefore, the difference between &#936;<sub>total</sub> on each side (&#916;&#936;). (&#936;<sub>m</sub> , the potential due to interaction of water with solid substrates, is ignored in this example because glass is not especially hydrophilic). Water moves in response to the difference in water potential between two systems (the left and right sides of the tube).</caption></figure></para>
+<para id="fs-idm97341424">Positive water potential is placed on the left side of the tube by increasing &#936;<sub>p</sub> such that the water level rises on the right side. Could you equalize the water level on each side of the tube by adding solute, and if so, how?</para>
+<!--<para><link target-id="fig-ch30_05_02" document=""/> Yes, you can equalize the water level by adding the solute to the left side of the tube such that water moves toward the left until the water levels are equal.</para>-->
+</note>
+</section>
+<section id="fs-idm81808400">
+<title>Pressure Potential</title>
+<para id="fs-idm113764608">Pressure potential (&#936;<sub>p</sub>), also called turgor potential, may be positive or negative (<link target-id="fig-ch30_05_02" document=""/>). Because pressure is an expression of energy, the higher the pressure, the more potential energy in a system, and vice versa. Therefore, a positive &#936;p (compression) increases &#936;<sub>total</sub>, and a negative &#936;<sub>p</sub> (tension) decreases &#936;<sub>total</sub>. Positive pressure inside cells is contained by the cell wall, producing turgor pressure. Pressure potentials are typically around 0.6&#8211;0.8 MPa, but can reach as high as 1.5 MPa in a well-watered plant. A &#936;<sub>p</sub> of 1.5 MPa equates to 210 pounds per square inch (1.5 MPa x 140 lb in<sup>-2</sup> MPa<sup>-1</sup> = 210 lb/in<sup>-2</sup>). As a comparison, most automobile tires are kept at a pressure of 30&#8211;34 psi. An example of the effect of turgor pressure is the wilting of leaves and their restoration after the plant has been watered (<link target-id="fig-ch30_05_03" document=""/>). Water is lost from the leaves via transpiration (approaching &#936;<sub>p</sub> = 0 MPa at the wilting point) and restored by uptake via the roots.</para><para id="fs-idm130915168">A plant can manipulate &#936;<sub>p</sub> via its ability to manipulate &#936;<sub>s</sub> and by the process of osmosis. If a plant cell increases the cytoplasmic solute concentration, &#936;<sub>s</sub> will decline, &#936;<sub>total</sub> will decline, the &#916;&#936; between the cell and the surrounding tissue will decline, water will move into the cell by osmosis, and &#936;<sub>p</sub> will increase. &#936;<sub>p</sub> is also under indirect plant control via the opening and closing of stomata. Stomatal openings allow water to evaporate from the leaf, reducing &#936;<sub>p</sub> and &#936;<sub>total</sub> of the leaf and increasing ii between the water in the leaf and the petiole, thereby allowing water to flow from the petiole into the leaf.</para><figure id="fig-ch30_05_03"><media id="fs-idm26553776" alt=" Left photo shows a wilted plant with wilted leaves. Right photo shows a healthy plant.">
+<image mime-type="image/jpg" src="Figure_30_05_03.jpg" width="400"/>
+</media>
+<caption>When (a) total water potential (&#936;<sub>total</sub>) is lower outside the cells than inside, water moves out of the cells and the plant wilts. When (b) the total water potential is higher outside the plant cells than inside, water moves into the cells, resulting in turgor pressure (&#936;<sub>p</sub>) and keeping the plant erect. (credit: modification of work by Victor M. Vicente Selvas)</caption></figure></section>
+<section id="fs-idm71223120">
+<title>Gravity Potential</title>
+<para id="fs-idm89093776">Gravity potential (&#936;<sub>g</sub>) is always negative to zero in a plant with no height. It always removes or consumes potential energy from the system. The force of gravity pulls water downwards to the soil, reducing the total amount of potential energy in the water in the plant (&#936;<sub>total</sub>). The taller the plant, the taller the water column, and the more influential &#936;<sub>g</sub> becomes. On a cellular scale and in short plants, this effect is negligible and easily ignored. However, over the height of a tall tree like a giant coastal redwood, the gravitational pull of &#8211;0.1 MPa m<sup>-1</sup> is equivalent to an extra 1 MPa of resistance that must be overcome for water to reach the leaves of the tallest trees. Plants are unable to manipulate &#936;<sub>g</sub>.</para>
+</section>
+<section id="fs-idm94966144"><title>Matric Potential</title><para id="fs-idm12735808">Matric potential (&#936;<sub>m</sub>) is always negative to zero. In a dry system, it can be as low as &#8211;2 MPa in a dry seed, and it is zero in a water-saturated system. The binding of water to a matrix always removes or consumes potential energy from the system. &#936;<sub>m</sub> is similar to solute potential because it involves tying up the energy in an aqueous system by forming hydrogen bonds between the water and some other component. However, in solute potential, the other components are soluble, hydrophilic solute molecules, whereas in &#936;<sub>m</sub>, the other components are insoluble, hydrophilic molecules of the plant cell wall. Every plant cell has a cellulosic cell wall and the cellulose in the cell walls is hydrophilic, producing a matrix for adhesion of water: hence the name matric potential. &#936;<sub>m</sub> is very large (negative) in dry tissues such as seeds or drought-affected soils. However, it quickly goes to zero as the seed takes up water or the soil hydrates. &#936;<sub>m</sub> cannot be manipulated by the plant and is typically ignored in well-watered roots, stems, and leaves.</para></section></section>
+<section id="fs-idm105624176">
+<title>Movement of Water and Minerals in the Xylem</title>
+<para id="fs-idm125847472">Solutes, pressure, gravity, and matric potential are all important for the transport of water in plants. Water moves from an area of higher total water potential (higher Gibbs free energy) to an area of lower total water potential. Gibbs free energy is the energy associated with a chemical reaction that can be used to do work. This is expressed as &#916;&#936;.</para>
+<para id="fs-idm84424128"><term>Transpiration</term> is the loss of water from the plant through evaporation at the leaf surface. It is the main driver of water movement in the xylem. Transpiration is caused by the evaporation of water at the leaf&#8211;atmosphere interface; it creates negative pressure (tension) equivalent to &#8211;2 MPa at the leaf surface. This value varies greatly depending on the vapor pressure deficit, which can be negligible at high relative humidity (RH) and substantial at low RH. Water from the roots is pulled up by this tension. At night, when stomata shut and transpiration stops, the water is held in the stem and leaf by the adhesion of water to the cell walls of the xylem vessels and tracheids, and the cohesion of water molecules to each other. This is called the cohesion&#8211;tension theory of sap ascent.</para>
+<para id="fs-idp41419776">Inside the leaf at the cellular level, water on the surface of mesophyll cells saturates the cellulose microfibrils of the primary cell wall. The leaf contains many large intercellular air spaces for the exchange of oxygen for carbon dioxide, which is required for photosynthesis. The wet cell wall is exposed to this leaf internal air space, and the water on the surface of the cells evaporates into the air spaces, decreasing the thin film on the surface of the mesophyll cells. This decrease creates a greater tension on the water in the mesophyll cells (<link target-id="fig-ch30_05_04" document=""/>), thereby increasing the pull on the water in the xylem vessels. The xylem vessels and tracheids are structurally adapted to cope with large changes in pressure. Rings in the vessels maintain their tubular shape, much like the rings on a vacuum cleaner hose keep the hose open while it is under pressure. Small perforations between vessel elements reduce the number and size of gas bubbles that can form via a process called cavitation. The formation of gas bubbles in xylem interrupts the continuous stream of water from the base to the top of the plant, causing a break termed an embolism in the flow of xylem sap. The taller the tree, the greater the tension forces needed to pull water, and the more cavitation events. In larger trees, the resulting embolisms can plug xylem vessels, making them non-functional.</para>
+<note id="fs-idp58394128" class="art-connection"><label/><title>Art Connection</title>
+<figure id="fig-ch30_05_04"><media id="fs-idm30386896" alt=" Illustration shows a pine tree. A blowup of the root indicates that negative water potential draws water from the soil into the root hairs, then into the root xylem. A blowup of the trunk indicates that cohesion and adhesion draws water up the xylem. A blowup of a leaf shows that transpiration draws water from the leaf through the stoma. Next to the tree is an arrow showing water potential, which is low at the roots and high in the leaves. The water potential varies from ~&#8211;0.2 MPA in the root cells to ~&#8211;0.6 MPa in the stem and from ~&#8211;1.5 MPa in the highest leaves, to ~&#8211;100 MPa in the atmosphere.">
+<image mime-type="image/jpg" src="Figure_30_05_04.png" width="370"/>
+</media>
+
+<caption>The cohesion&#8211;tension theory of sap ascent is shown. Evaporation from the mesophyll cells produces a negative water potential gradient that causes water to move upwards from the roots through the xylem.</caption></figure><para id="fs-idp26749184">Which of the following statements is false?</para>
+<list id="fs-idm68312160" list-type="enumerated" number-style="lower-alpha"><item>Negative water potential draws water into the root hairs. Cohesion and adhesion draw water up the xylem. Transpiration draws water from the leaf.</item>
+<item>Negative water potential draws water into the root hairs. Cohesion and adhesion draw water up the phloem. Transpiration draws water from the leaf.</item>
+<item>Water potential decreases from the roots to the top of the plant.</item>
+<item>Water enters the plants through root hairs and exits through stoma.</item>
+</list><!--<para><link target-id="fig-ch30_05_04" document=""/>B.</para>-->
+</note><para id="fs-idm75436800"><term>Transpiration</term>&#8212;the loss of water vapor to the atmosphere through stomata&#8212;is a passive process, meaning that metabolic energy in the form of ATP is not required for water movement. The energy driving transpiration is the difference in energy between the water in the soil and the water in the atmosphere. However, transpiration is tightly controlled.</para>
+<section id="fs-idm75555856">
+<title>Control of Transpiration</title>
+<para id="fs-idm76245280">The atmosphere to which the leaf is exposed drives transpiration, but also causes massive water loss from the plant. Up to 90 percent of the water taken up by roots may be lost through transpiration.</para>
+<para id="fs-idm218304560">Leaves are covered by a waxy <term>cuticle</term> on the outer surface that prevents the loss of water. Regulation of transpiration, therefore, is achieved primarily through the opening and closing of stomata on the leaf surface. Stomata are surrounded by two specialized cells called guard cells, which open and close in response to environmental cues such as light intensity and quality, leaf water status, and carbon dioxide concentrations. Stomata must open to allow air containing carbon dioxide and oxygen to diffuse into the leaf for photosynthesis and respiration. When stomata are open, however, water vapor is lost to the external environment, increasing the rate of transpiration. Therefore, plants must maintain a balance between efficient photosynthesis and water loss.</para>
+<para id="fs-idm163208688">Plants have evolved over time to adapt to their local environment and reduce transpiration(<link target-id="fig-ch30_05_05" document=""/>). Desert plant (xerophytes) and plants that grow on other plants (epiphytes) have limited access to water. Such plants usually have a much thicker waxy cuticle than those growing in more moderate, well-watered environments (mesophytes). Aquatic plants (hydrophytes) also have their own set of anatomical and morphological leaf adaptations.</para>
+<figure id="fig-ch30_05_05" class=" "><media id="fs-idp35383280" alt="Photo (a) shows a cactus with flat, oval, prickly leaves and a red cylindrical fruit on top; (b) is an orchid with a purple and white flower and glossy leaves; (c) shows a field of plants with long stems, many leaves and a bushy head of small golden flowers; (d) is a water lily in a pond. The water lily has round, flat leaves and a pink and white flower.">
+<image mime-type="image/jpg" src="Figure_30_05_05.jpg" width="400"/>
+</media>
+
+<caption>Plants are suited to their local environment. (a) Xerophytes, like this prickly pear cactus (<emphasis effect="italics">Opuntia sp.</emphasis>) and (b) epiphytes such as this tropical <emphasis effect="italics">Aeschynanthus perrottetii</emphasis> have adapted to very limited water resources. The leaves of a prickly pear are modified into spines, which lowers the surface-to-volume ratio and reduces water loss. Photosynthesis takes place in the stem, which also stores water. (b) <emphasis effect="italics">A. perottetii</emphasis> leaves have a waxy cuticle that prevents water loss. (c) Goldenrod (<emphasis effect="italics">Solidago sp.</emphasis>) is a mesophyte, well suited for moderate environments. (d) Hydrophytes, like this fragrant water lily (<emphasis effect="italics">Nymphaea odorata</emphasis>), are adapted to thrive in aquatic environments. (credit a: modification of work by Jon Sullivan; credit b: modification of work by L. Shyamal/Wikimedia Commons; credit c: modification of work by Huw Williams; credit d: modification of work by Jason Hollinger)</caption></figure><para id="fs-idm19329296">Xerophytes and epiphytes often have a thick covering of trichomes or of stomata that are sunken below the leaf&#8217;s surface. Trichomes are specialized hair-like epidermal cells that secrete oils and substances. These adaptations impede air flow across the stomatal pore and reduce transpiration. Multiple epidermal layers are also commonly found in these types of plants.</para>
+</section>
+</section>
+<section id="fs-idm19354272">
+<title>Transportation of Photosynthates in the Phloem</title>
+<para id="fs-idm1157104">Plants need an energy source to grow. In seeds and bulbs, food is stored in polymers (such as starch) that are converted by metabolic processes into sucrose for newly developing plants. Once green shoots and leaves are growing, plants are able to produce their own food by photosynthesizing. The products of photosynthesis are called photosynthates, which are usually in the form of simple sugars such as sucrose.</para>
+<para id="fs-idp31697792">Structures that produce photosynthates for the growing plant are referred to as <term>sources</term>. Sugars produced in sources, such as leaves, need to be delivered to growing parts of the plant via the phloem in a process called <term>translocation</term>. The points of sugar delivery, such as roots, young shoots, and developing seeds, are called <term>sinks</term>. Seeds, tubers, and bulbs can be either a source or a sink, depending on the plant&#8217;s stage of development and the season.</para>
+<para id="fs-idp2880992">The products from the source are usually translocated to the nearest sink through the phloem. For example, the highest leaves will send photosynthates upward to the growing shoot tip, whereas lower leaves will direct photosynthates downward to the roots. Intermediate leaves will send products in both directions, unlike the flow in the xylem, which is always unidirectional (soil to leaf to atmosphere). The pattern of photosynthate flow changes as the plant grows and develops. Photosynthates are directed primarily to the roots early on, to shoots and leaves during vegetative growth, and to seeds and fruits during reproductive development. They are also directed to tubers for storage.</para>
+<section id="fs-idp117936912">
+<title>Translocation: Transport from Source to Sink</title>
+<para id="fs-idm95744672">Photosynthates, such as sucrose, are produced in the mesophyll cells of photosynthesizing leaves. From there they are translocated through the phloem to where they are used or stored. Mesophyll cells are connected by cytoplasmic channels called plasmodesmata. Photosynthates move through these channels to reach phloem sieve-tube elements (STEs) in the vascular bundles. From the mesophyll cells, the photosynthates are loaded into the phloem STEs. The sucrose is actively transported against its concentration gradient (a process requiring ATP) into the phloem cells using the electrochemical potential of the proton gradient. This is coupled to the uptake of sucrose with a carrier protein called the sucrose-H<sup>+</sup> symporter.</para><para id="fs-idm79174800">Phloem STEs have reduced cytoplasmic contents, and are connected by a sieve plate with pores that allow for pressure-driven bulk flow, or translocation, of phloem sap. Companion cells are associated with STEs. They assist with metabolic activities and produce energy for the STEs (<link target-id="fig-ch30_05_06" document=""/>).</para>
+<figure id="fig-ch30_05_06"><media id="fs-idm11981168" alt="Illustration shows phloem, a column-like structure that is composed of stacks of cylindrical cells called sieve-tube elements. Each cell is separated by a sieve-tube plate. The sieve-tube plate has holes in it, like a slice of Swiss cheese. Lateral sieve areas on the side of the column allow different phloem tubes to interact.">
+<image mime-type="image/jpg" src="Figure_30_05_06.jpg" width="225"/>
+</media>
+<caption>Phloem is comprised of cells called sieve-tube elements. Phloem sap travels through perforations called sieve tube plates. Neighboring companion cells carry out metabolic functions for the sieve-tube elements and provide them with energy. Lateral sieve areas connect the sieve-tube elements to the companion cells.</caption></figure><para id="fs-idm79203024">Once in the phloem, the photosynthates are translocated to the closest sink. Phloem sap is an aqueous solution that contains up to 30 percent sugar, minerals, amino acids, and plant growth regulators. The high percentage of sugar decreases &#936;<sub>s,</sub> which decreases the total water potential and causes water to move by osmosis from the adjacent xylem into the phloem tubes, thereby increasing pressure. This increase in total water potential causes the bulk flow of phloem from source to sink (<link target-id="fig-ch30_05_07" document=""/>). Sucrose concentration in the sink cells is lower than in the phloem STEs because the sink sucrose has been metabolized for growth, or converted to starch for storage or other polymers, such as cellulose, for structural integrity. Unloading at the sink end of the phloem tube occurs by either diffusion or active transport of sucrose molecules from an area of high concentration to one of low concentration. Water diffuses from the phloem by osmosis and is then transpired or recycled via the xylem back into the phloem sap.</para><figure id="fig-ch30_05_07"><media id="fs-idm2302400" alt=" Illustration shows the transpiration of water up the tubes of the xylem from a root sink cell. At the same time, sucrose is translocated down the phloem to the root sink cell from a leaf source cell. The sucrose concentration is high in the  source cell, and gradually decreases from the source to the root.">
+<image mime-type="image/jpg" src="Figure_30_05_07.jpg" width="240"/>
+</media>
+
+<caption>Sucrose is actively transported from source cells into companion cells and then into the sieve-tube elements. This reduces the water potential, which causes water to enter the phloem from the xylem. The resulting positive pressure forces the sucrose-water mixture down toward the roots, where sucrose is unloaded. Transpiration causes water to return to the leaves through the xylem vessels.</caption></figure></section>
+</section>
+<section id="fs-idm89326464" class="summary">
+<title>Section Summary</title><para id="fs-idm94981856">Water potential (&#936;) is a measure of the difference in potential energy between a water sample and pure water. The water potential in plant solutions is influenced by solute concentration, pressure, gravity, and matric potential. Water potential and transpiration influence how water is transported through the xylem in plants. These processes are regulated by stomatal opening and closing. Photosynthates (mainly sucrose) move from sources to sinks through the plant&#8217;s phloem. Sucrose is actively loaded into the sieve-tube elements of the phloem. The increased solute concentration causes water to move by osmosis from the xylem into the phloem. The positive pressure that is produced pushes water and solutes down the pressure gradient. The sucrose is unloaded into the sink, and the water returns to the xylem vessels.</para></section>
+<section id="fs-idp55101104" class="art-exercise"><title>Art Connections</title><exercise id="fs-idm99218128">
+<problem id="fs-idm126748048">
+<para id="fs-idm39061680"><link target-id="fig-ch30_05_02" document=""/> Positive water potential is placed on the left side of the tube by increasing &#936;<sub>p</sub> such that the water level rises on the right side. Could you equalize the water level on each side of the tube by adding solute, and if so, how?</para>
+</problem>
+<solution id="fs-idp2844080">
+<label/>
+<para id="fs-idm146401200"><link target-id="fig-ch30_05_02" document=""/> Yes, you can equalize the water level by adding the solute to the left side of the tube such that water moves toward the left until the water levels are equal.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm89229488"><problem id="fs-idm35856448">
+<para id="fs-idm104783456"><link target-id="fig-ch30_05_04" document=""/> Which of the following statements is false?</para>
+<list id="fs-idm95057520" list-type="enumerated" number-style="lower-alpha">
+<item>Negative water potential draws water into the root hairs. Cohesion and adhesion draw water up the xylem. Transpiration draws water from the leaf.</item>
+<item>Negative water potential draws water into the root hairs. Cohesion and adhesion draw water up the phloem. Transpiration draws water from the leaf.</item>
+<item>Water potential decreases from the roots to the top of the plant.</item>
+<item>Water enters the plants through root hairs and exits through stoma.</item>
+</list>
+</problem>
+<solution id="fs-idm94537360">
+<label/>
+<para id="fs-idm91700496"><link target-id="fig-ch30_05_04" document=""/> B.</para>
+</solution>
+</exercise></section><section id="fs-idm31350000" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm129887328">
+<problem id="fs-idm126238080">
+<para id="fs-idm3585600">When stomata open, what occurs?</para>
+<list id="fs-idm161014080" list-type="enumerated" number-style="lower-alpha">
+<item>Water vapor is lost to the external environment, increasing the rate of transpiration.</item>
+<item>Water vapor is lost to the external environment, decreasing the rate of transpiration.</item>
+<item>Water vapor enters the spaces in the mesophyll, increasing the rate of transpiration.</item>
+<item>Water vapor enters the spaces in the mesophyll, increasing the rate of transpiration.</item>
+</list>
+</problem>
+<solution id="fs-idm2286384">
+<label/>
+<para id="fs-idm84069728">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm12618624">
+<problem id="fs-idm45432352">
+<para id="fs-idp35413584">Which cells are responsible for the movement of photosynthates through a plant?</para>
+<list id="fs-idm62442528" list-type="enumerated" number-style="lower-alpha">
+<item>tracheids, vessel elements</item>
+<item>tracheids, companion cells</item>
+<item>vessel elements, companion cells</item>
+<item>sieve-tube elements, companion cells</item>
+</list>
+</problem>
+<solution id="fs-idm32450480">
+<label/>
+<para id="fs-idp613520">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm29105776" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm105897568">
+<problem id="fs-idm64847216">
+<para id="fs-idm75620208">The process of bulk flow transports fluids in a plant. Describe the two main bulk flow processes.</para></problem>
+<solution id="fs-idm181579472"><label/>
+<para id="fs-idp117950976">The process of bulk flow moves water up the xylem and moves photosynthates (solutes) up and down the phloem.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm82022576">
+<term>cuticle</term> <meaning id="fs-idm2481264">waxy covering on the outside of the leaf and stem that prevents the loss of water</meaning>
+</definition>
+<definition id="fs-idm92452256">
+<term>megapascal (MPa)</term> <meaning id="fs-idm139625216">pressure units that measure water potential</meaning>
+</definition>
+<definition id="fs-idp182536976">
+<term>sink</term> <meaning id="fs-idm135489168">growing parts of a plant, such as roots and young leaves, which require photosynthate</meaning>
+</definition>
+<definition id="fs-idm43841264">
+<term>source</term> <meaning id="fs-idm28928816">organ that produces photosynthate for a plant</meaning>
+</definition>
+<definition id="fs-idm62287216">
+<term>translocation</term> <meaning id="fs-idp60498080">mass transport of photosynthates from source to sink in vascular plants</meaning>
+</definition>
+<definition id="fs-idm44435120">
+<term>transpiration</term> <meaning id="fs-idm93831792">loss of water vapor to the atmosphere through stomata</meaning>
+</definition>
+<definition id="fs-idm105751408">
+<term>water potential (&#936;<sub>w</sub>)</term> <meaning id="fs-idm140418144">the potential energy of a water solution per unit volume in relation to pure water at atmospheric pressure and ambient temperature</meaning>
+</definition>
+</glossary>
+</document>

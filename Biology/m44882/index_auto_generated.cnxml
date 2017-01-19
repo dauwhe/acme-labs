@@ -1,0 +1,231 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Population Dynamics and Regulation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44882/latest/</md:content-url>
+  <md:content-id>m44882</md:content-id>
+  <md:title>Population Dynamics and Regulation</md:title>
+  <md:version>1.3</md:version>
+  <md:created>2012/08/23 16:32:28 -0500</md:created>
+  <md:revised>2013/04/10 15:28:40.374 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>density-dependent growth</md:keyword>
+    <md:keyword>density-dependent regulation</md:keyword>
+    <md:keyword>density-independent growth</md:keyword>
+    <md:keyword>density-independent regulation</md:keyword>
+    <md:keyword>k-selected species</md:keyword>
+    <md:keyword>life history</md:keyword>
+    <md:keyword>population dynamics</md:keyword>
+    <md:keyword>population ecology</md:keyword>
+    <md:keyword>population model</md:keyword>
+    <md:keyword>population regulation</md:keyword>
+    <md:keyword>r-selected species</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Give examples of how the carrying capacity of a habitat may change</item>
+<item>Compare and contrast density-dependent growth regulation and density-independent growth regulation, giving examples</item>
+<item>Give examples of exponential and logistic growth in wild animal populations</item>
+<item>Describe how natural selection and environmental adaptation leads to the evolution of particular life-history patterns</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idm41957168">The logistic model of population growth, while valid in many natural populations and a useful model, is a simplification of real-world population dynamics. Implicit in the model is that the carrying capacity of the environment does not change, which is not the case. The carrying capacity varies annually: for example, some summers are hot and dry whereas others are cold and wet. In many areas, the carrying capacity during the winter is much lower than it is during the summer. Also, natural events such as earthquakes, volcanoes, and fires can alter an environment and hence its carrying capacity. Additionally, populations do not usually exist in isolation. They engage in <term>interspecific competition</term>: that is, they share the environment with other species, competing with them for the same resources. These factors are also important to understanding how a specific population will grow.</para>
+<para id="fs-idm114798496">Nature regulates population growth in a variety of ways. These are grouped into <term>density-dependent</term> factors, in which the density of the population at a given time affects growth rate and mortality, and <term>density-independent</term> factors, which influence mortality in a population regardless of population density. Note that in the former, the effect of the factor on the population depends on the density of the population at onset. Conservation biologists want to understand both types because this helps them manage populations and prevent extinction or overpopulation.</para>
+<section id="fs-idp139426256">
+<title>Density-dependent Regulation</title>
+<para id="fs-idm87430832">Most density-dependent factors are biological in nature (biotic), and include predation, inter- and intraspecific competition, accumulation of waste, and diseases such as those caused by parasites. Usually, the denser a population is, the greater its mortality rate. For example, during intra- and interspecific competition, the reproductive rates of the individuals will usually be lower, reducing their population&#8217;s rate of growth. In addition, low prey density increases the mortality of its predator because it has more difficulty locating its food source.</para>
+<para id="fs-idm21187472">An example of density-dependent regulation is shown in <link target-id="fig-ch45_04_01" document=""/> with results from a study focusing on the giant intestinal roundworm (<emphasis effect="italics">Ascaris lumbricoides</emphasis>), a parasite of humans and other mammals.<sup><footnote id="fs-idm16051536">N.A. Croll et al., &#8220;The Population Biology and Control of <emphasis effect="italics">Ascaris lumbricoides</emphasis> in a Rural Community in Iran.&#8221; <emphasis effect="italics">Transactions of the Royal Society of Tropical Medicine and Hygiene</emphasis> 76, no. 2 (1982): 187-197, doi:10.1016/0035-9203(82)90272-3.</footnote></sup> Denser populations of the parasite exhibited lower fecundity: they contained fewer eggs. One possible explanation for this is that females would be smaller in more dense populations (due to limited resources) and that smaller females would have fewer eggs. This hypothesis was tested and disproved in a 2009 study which showed that female weight had no influence.<sup><footnote id="fs-idm92850624">Martin Walker et al., &#8220;Density-Dependent Effects on the Weight of Female <emphasis effect="italics">Ascaris lumbricoides</emphasis> Infections of Humans and its Impact on Patterns of Egg Production.&#8221; <emphasis effect="italics">Parasites &amp; Vectors</emphasis> 2, no. 11 (February 2009), doi:10.1186/1756-3305-2-11.</footnote></sup> The actual cause of the density-dependence of fecundity in this organism is still unclear and awaiting further investigation.</para><figure id="fig-ch45_04_01"><media id="fs-idm14808384" alt="Graph of fecundity as a function of population plots number of eggs per female versus number of worms. The number of eggs decreases rapidly at first, then levels off between 30 to 50 worms.">
+        <image mime-type="image/jpeg" src="Figure_45_04_01.jpg" width="320"/>
+    </media>
+    <caption>In this population of roundworms, fecundity (number of eggs) decreases with population density.<sup><footnote id="fs-idm216780800">N.A. Croll et al., &#8220;The Population Biology and Control of <emphasis effect="italics">Ascaris lumbricoides</emphasis> in a Rural Community in Iran.&#8221; <emphasis effect="italics">Transactions of the Royal Society of Tropical Medicine and Hygiene</emphasis> 76, no. 2 (1982): 187-197, doi:10.1016/0035-9203(82)90272-3.</footnote></sup></caption></figure></section>   
+ <section id="fs-idm149989872"><title>Density-independent Regulation and Interaction with Density-dependent Factors</title><para id="fs-idm212800768">Many factors, typically physical or chemical in nature (abiotic), influence the mortality of a population regardless of its density, including weather, natural disasters, and pollution. An individual deer may be killed in a forest fire regardless of how many deer happen to be in that area. Its chances of survival are the same whether the population density is high or low. The same holds true for cold winter weather.</para>
+        <para id="fs-idm180301888">In real-life situations, population regulation is very complicated and density-dependent and independent factors can interact. A dense population that is reduced in a density-independent manner by some environmental factor(s) will be able to recover differently than a sparse population. For example, a population of deer affected by a harsh winter will recover faster if there are more deer remaining to reproduce.</para>
+        <note id="fs-idm197701584" class="evolution"><label/><title>Evolution Connection</title>
+
+<para id="eip-idp131740656">            <title>Why Did the Woolly Mammoth Go Extinct?</title>
+            <figure id="fig-ch45_04_02" orient="horizontal"><subfigure id="fig-ch45_04_02a">
+ <media id="eip-idp53381200" alt="Photo (a) shows a painting of mammoths walking in the snow.">
+                    <image mime-type="image/jpeg" src="Figure_45_04_02a.jpg" width="255"/>
+</media>
+</subfigure>
+<subfigure id="fig-ch45_04_02b">
+ <media id="eip-idp68210752" alt="Photo (b) shows a stuffed mammoth sitting in a museum display case.">
+                    <image mime-type="image/jpeg" src="Figure_45_04_02b.jpg" width="137"/>
+</media>
+</subfigure>
+<subfigure id="fig-ch45_04_02c">
+ <media id="eip-idp69145984" alt="Photo (c) shows a mummified baby mammoth, also in a display case.">
+                    <image mime-type="image/jpeg" src="Figure_45_04_02c.jpg" width="108"/>
+</media>
+</subfigure> 
+                
+            <caption>The three photos include: (a) 1916 mural of a mammoth herd from the American Museum of Natural History, (b) the only stuffed mammoth in the world, from the Museum of Zoology located in St. Petersburg, Russia, and (c) a one-month-old baby mammoth, named Lyuba, discovered in Siberia in 2007. (credit a: modification of work by Charles R. Knight; credit b: modification of work by &#8220;Tanapon&#8221;/Flickr; credit c: modification of work by Matt Howry)</caption></figure></para>
+        <para id="eip-322">It's easy to get lost in the discussion of dinosaurs and theories about why they went extinct 65 million years ago. Was it due to a meteor slamming into Earth near the coast of modern-day Mexico, or was it from some long-term weather cycle that is not yet understood? One hypothesis that will never be proposed is that humans had something to do with it. Mammals were small, insignificant creatures of the forest 65 million years ago, and no humans existed.</para><para id="fs-idm258113408">Woolly mammoths, however, began to go extinct about 10,000 years ago, when they shared the Earth with humans who were no different anatomically than humans today (<link target-id="fig-ch45_04_02" document=""/>). Mammoths survived in isolated island populations as recently as 1700 BC. We know a lot about these animals from carcasses found frozen in the ice of Siberia and other regions of the north. Scientists have sequenced at least 50 percent of its genome and believe mammoths are between 98 and 99 percent identical to modern elephants.</para><para id="fs-idm224130976">It is commonly thought that climate change and human hunting led to their extinction. A 2008 study estimated that climate change reduced the mammoth&#8217;s range from 3,000,000 square miles 42,000 years ago to 310,000 square miles 6,000 years ago.<sup><footnote id="fs-idm14756560">David Nogu&#233;s-Bravo et al., &#8220;Climate Change, Humans, and the Extinction of the Woolly Mammoth.&#8221; <emphasis effect="italics">PLoS Biol</emphasis> 6 (April 2008): e79, doi:10.1371/journal.pbio.0060079.</footnote></sup>  It is also well documented that humans hunted these animals. A 2012 study showed that no single factor was exclusively responsible for the extinction of these magnificent creatures.<sup><footnote id="fs-idm118270592">G.M. MacDonald et al., &#8220;Pattern of Extinction of the Woolly Mammoth in Beringia.&#8221; <emphasis effect="italics">Nature Communications</emphasis> 3, no. 893 (June 2012), doi:10.1038/ncomms1881.</footnote></sup>  In addition to human hunting, climate change, and reduction of habitat, these scientists demonstrated another important factor in the mammoth&#8217;s extinction was the migration of humans across the Bering Strait to North America during the last ice age 20,000 years ago.</para>
+        <para id="fs-idm151815536">The maintenance of stable populations was and is very complex, with many interacting factors determining the outcome. It is important to remember that humans are also part of nature. Once we contributed to a species&#8217; decline using primitive hunting technology only.</para>
+            </note></section><section id="fs-idm27509536">
+        <title>Life Histories of <emphasis effect="italics">K</emphasis>-selected and <emphasis effect="italics">r</emphasis>-selected Species</title><para id="fs-idm133176480">While reproductive strategies play a key role in life histories, they do not account for important factors like limited resources and competition. The regulation of population growth by these factors can be used to introduce a classical concept in population biology, that of <emphasis effect="italics">K</emphasis>-selected versus <emphasis effect="italics">r</emphasis>-selected species.</para>
+        <section id="fs-idm80927872">
+            <title>Early Theories about Life History: <emphasis effect="italics">K</emphasis>-selected and <emphasis effect="italics">r</emphasis>-selected Species</title>
+            <para id="fs-idm74640608">By the second half of the twentieth century, the concept of K- and r-selected species was used extensively and successfully to study populations. The concept relates not only reproductive strategies, but also to a species&#8217; habitat and behavior, especially in the way that they obtain resources and care for their young. It includes length of life and survivorship factors as well. For this analysis, population biologists have grouped species into the two large categories&#8212;<emphasis effect="italics">K</emphasis>-selected and <emphasis effect="italics">r</emphasis>-selected&#8212;although they are really two ends of a continuum.</para>
+            <para id="fs-idm76032816"><term><emphasis effect="italics">K</emphasis>-selected species</term> are species selected by stable, predictable environments. Populations of <emphasis effect="italics">K</emphasis>-selected species tend to exist close to their carrying capacity (hence the term <emphasis effect="italics">K</emphasis>-selected) where intraspecific competition is high. These species have few, large offspring, a long gestation period, and often give long-term care to their offspring (Table B45_04_01). While larger in size when born, the offspring are relatively helpless and immature at birth. By the time they reach adulthood, they must develop skills to compete for natural resources. In plants, scientists think of parental care more broadly: how long fruit takes to develop or how long it remains on the plant are determining factors in the time to the next reproductive event. Examples of <emphasis effect="italics">K</emphasis>-selected species are primates including humans), elephants, and plants such as oak trees (<link target-id="fig-ch45_04_03" document=""/><emphasis effect="bold">a</emphasis>).</para>
+            <para id="fs-idm169833952">Oak trees grow very slowly and take, on average, 20 years to produce their first seeds, known as acorns. As many as 50,000 acorns can be produced by an individual tree, but the germination rate is low as many of these rot or are eaten by animals such as squirrels. In some years, oaks may produce an exceptionally large number of acorns, and these years may be on a two- or three-year cycle depending on the species of oak (<emphasis effect="italics">r</emphasis>-selection).</para>
+            <para id="fs-idm30441648">As oak trees grow to a large size and for many years before they begin to produce acorns, they devote a large percentage of their energy budget to growth and maintenance. The tree&#8217;s height and size allow it to dominate other plants in the competition for sunlight, the oak&#8217;s primary energy resource. Furthermore, when it does reproduce, the oak produces large, energy-rich seeds that use their energy reserve to become quickly established (<emphasis effect="italics">K</emphasis>-selection).</para>
+            <para id="fs-idm115714080">In contrast, <term><emphasis effect="italics">r</emphasis>-selected species</term>  have a large number of small offspring (hence their <emphasis effect="italics">r</emphasis> designation (<link target-id="tab-ch45_04_01" document=""/>). This strategy is often employed in unpredictable or changing environments. Animals that are <emphasis effect="italics">r</emphasis>-selected do not give long-term parental care and the offspring are relatively mature and self-sufficient at birth. Examples of <emphasis effect="italics">r</emphasis>-selected species are marine invertebrates, such as jellyfish, and plants, such as the dandelion (<link target-id="fig-ch45_04_03" document=""/><emphasis effect="bold">b</emphasis>). Dandelions have small seeds that are wind dispersed long distances. Many seeds are produced simultaneously to ensure that at least some of them reach a hospitable environment. Seeds that land in inhospitable environments have little chance for survival since their seeds are low in energy content. Note that survival is not necessarily a function of energy stored in the seed itself.</para><table id="tab-ch45_04_01" summary="">
+            <tgroup cols="2" align="center">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <thead>
+                    <row>
+                        <entry namest="c1" nameend="c2">Characteristics of <emphasis effect="italics">K</emphasis>-selected and <emphasis effect="italics">r</emphasis>-selected species</entry>
+                    </row>
+                    <row>
+                        <entry>Characteristics of <emphasis effect="italics">K</emphasis>-selected species</entry>
+                        <entry>Characteristics of <emphasis effect="italics">r</emphasis>-selected species </entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Mature late</entry>
+                        <entry>Mature early</entry>
+                    </row>
+                    <row>
+                        <entry>Greater longevity</entry>
+                        <entry>Lower longevity</entry>
+                    </row>
+                    <row>
+                        <entry>Increased parental care</entry>
+                        <entry>Decreased parental care</entry>
+                    </row>
+                    <row>
+                        <entry>Increased competition</entry>
+                        <entry>Decreased competition</entry>
+                    </row>
+                    <row>
+                        <entry>Fewer offspring</entry>
+                        <entry>More offspring</entry>
+                    </row>
+                    <row>
+                        <entry>Larger offspring</entry>
+                        <entry>Smaller offspring</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <figure id="fig-ch45_04_03" class=" "><media id="fs-idm33527216" alt=" Part A, K-selected species, shows photos of an oak tree and an elephant. Part B, r-selected species, shows photos of a dandelion and a jellyfish.">
+<image mime-type="image/jpg" src="Figure_45_04_03ab.jpg" width="520"/>
+    </media>
+    <caption>(a) Elephants are considered K-selected species as they live long, mature late, and provide long-term parental care to few offspring. Oak trees produce many offspring that do not receive parental care, but are considered K-selected species based on longevity and late maturation. (b) Dandelions and jellyfish are both considered r-selected species as they mature early, have short lifespans, and produce many offspring that receive no parental care.</caption></figure></section>
+    </section>
+    <section id="fs-idm32286864">
+<title>Modern Theories of Life History</title>
+<para id="fs-idm238160992">The <emphasis effect="italics">r</emphasis>- and <emphasis effect="italics">K</emphasis>-selection theory, although accepted for decades and used for much groundbreaking research, has now been reconsidered, and many population biologists have abandoned or modified it. Over the years, several studies attempted to confirm the theory, but these attempts have largely failed. Many species were identified that did not follow the theory&#8217;s predictions. Furthermore, the theory ignored the age-specific mortality of the populations which scientists now know is very important. New <term>demographic-based models</term> of life history evolution have been developed which incorporate many ecological concepts included in <emphasis effect="italics">r</emphasis>- and <emphasis effect="italics">K</emphasis>-selection theory as well as population age structure and mortality factors.</para>
+</section>
+<section id="fs-idp85032560" class="summary">
+<title>Section Summary</title><para id="fs-idp26879408">Populations are regulated by a variety of density-dependent and density-independent factors. Species are divided into two categories based on a variety of features of their life history patterns: <emphasis effect="italics">r</emphasis>-selected species, which have large numbers of offspring, and <emphasis effect="italics">K</emphasis>-selected species, which have few offspring. The <emphasis effect="italics">r</emphasis>- and <emphasis effect="italics">K</emphasis>-selection theory has fallen out of use; however, many of its key features are still used in newer, demographically-based models of population dynamics.</para>
+    </section>
+<section id="fs-idm88008144" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm74770800">
+<problem id="fs-idm42689536"><para id="fs-idm197070288">Species that have many offspring at one time are usually:</para>
+<list id="fs-idm114681712" list-type="enumerated" number-style="lower-alpha">
+<item><emphasis effect="italics">r</emphasis>-selected</item>
+<item><emphasis effect="italics">K</emphasis>-selected</item>
+<item>both <emphasis effect="italics">r</emphasis>- and <emphasis effect="italics">K</emphasis>-selected</item>
+<item>not selected</item>
+</list>
+</problem>
+<solution id="fs-idm202672080">
+<label/>
+<para id="fs-idm107250272">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm96228320">
+<problem id="fs-idm108625216"><para id="fs-idm231518096">A forest fire is an example of ________ regulation.</para>
+<list id="fs-idm196962768" list-type="enumerated" number-style="lower-alpha">
+<item>density-dependent</item>
+<item>density-independent</item>
+<item><emphasis effect="italics">r</emphasis>-selected</item>
+<item><emphasis effect="italics">K</emphasis>-selected</item>
+</list>
+</problem>
+<solution id="fs-idm110541280">
+<label/>
+<para id="fs-idm125088768">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm88520640">
+<problem id="fs-idm152370736"><para id="fs-idm201172160">Primates are examples of:</para>
+<list id="fs-idm129462560" list-type="enumerated" number-style="lower-alpha">
+<item>density-dependent species</item>
+<item>density-independent species</item>
+<item><emphasis effect="italics">r</emphasis>-selected species</item>
+<item><emphasis effect="italics">K</emphasis>-selected species</item>
+</list>
+</problem>
+<solution id="fs-idm125430736">
+<label/>
+<para id="fs-idm247362192">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm73145696" class="free-response">
+    <title>Free Response</title>
+<exercise id="fs-idm59103088"><problem id="fs-idp77240400">
+    <para id="fs-idm93968400">Give an example of how density-dependent and density-independent factors might interact.</para>
+</problem>
+<solution id="fs-idm85193248">
+    <label/>
+    <para id="fs-idp17862032">If a natural disaster such as a fire happened in the winter, when populations are low, it would have a greater effect on the overall population and its recovery than if the same disaster occurred during the summer, when population levels are high.</para>
+</solution></exercise>
+</section>
+    </content>
+<glossary>
+<definition id="fs-idm223662560"><term>demographic-based population model</term> <meaning id="fs-idm179949104">modern model of population dynamics incorporating many features of the <emphasis effect="italics">r</emphasis>- and <emphasis effect="italics">K</emphasis>-selection theory</meaning></definition>
+<definition id="fs-idm28319072"><term>density-dependent regulation</term> <meaning id="fs-idp133213104">regulation of population that is influenced by population density, such as crowding effects; usually involves biotic factors</meaning></definition>
+<definition id="fs-idm158550112"><term>density-independent regulation</term> <meaning id="fs-idm216265424">regulation of populations by factors that operate independent of population density, such as forest fires and volcanic eruptions; usually involves abiotic factors</meaning></definition>
+<definition id="fs-idm135679952"><term>interspecific competition</term> <meaning id="fs-idm240887360">competition between species for resources in a shared habitat or environment</meaning></definition>
+<definition id="fs-idm71768736"><term><emphasis effect="italics">K</emphasis>-selected species</term> <meaning id="fs-idm181847248">species suited to stable environments that produce a few, relatively large offspring and provide parental care</meaning></definition>
+<definition id="fs-idm131615216"><term><emphasis effect="italics">r</emphasis>-selected species</term> <meaning id="fs-idm198223088">species suited to changing environments that produce many offspring and provide little or no parental care</meaning></definition>
+</glossary>
+</document>

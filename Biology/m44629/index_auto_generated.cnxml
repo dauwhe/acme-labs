@@ -1,0 +1,127 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Importance of Fungi in Human Life</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44629/latest/</md:content-url>
+  <md:content-id>m44629</md:content-id>
+  <md:title>Importance of Fungi in Human Life</md:title>
+  <md:version>1.5</md:version>
+  <md:created>2012/08/23 14:29:38 -0500</md:created>
+  <md:revised>2013/04/12 10:19:50.857 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>food fungi</md:keyword>
+    <md:keyword>fungi</md:keyword>
+    <md:keyword>fungi beverage</md:keyword>
+    <md:keyword>fungus</md:keyword>
+    <md:keyword>industrial fungi</md:keyword>
+    <md:keyword>model organism</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the importance of fungi to the balance of the environment</item>
+<item>Summarize the role of fungi in food and beverage preparation</item>
+<item>Describe the importance of fungi in the chemical and pharmaceutical industries</item>
+<item>Discuss the role of fungi as model organisms</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idm8171024">Although we often think of fungi as organisms that cause disease and rot food, fungi are important to human life on many levels. As we have seen, they influence the well-being of human populations on a large scale because they are part of the nutrient cycle in ecosystems. They have other ecosystem roles as well. As animal pathogens, fungi help to control the population of damaging pests. These fungi are very specific to the insects they attack, and do not infect animals or plants. Fungi are currently under investigation as potential microbial insecticides, with several already on the market. For example, the fungus <emphasis effect="italics">Beauveria bassiana</emphasis> is a pesticide being tested as a possible biological control agent for the recent spread of emerald ash borer. It has been released in Michigan, Illinois, Indiana, Ohio, West Virginia and Maryland (<link target-id="fig-ch24_05_01" document=""/>).</para><figure id="fig-ch24_05_01">
+<media id="fs-idm16417088" alt=" Photo shows a green, stump-shaped ash borer jutting from the bark of a tree.">
+<image mime-type="image/jpg" src="Figure_24_05_01.jpg" width="350"/>
+</media>
+<caption>The emerald ash borer is an insect that attacks ash trees. It is in turn parasitized by a pathogenic fungus that holds promise as a biological insecticide. The parasitic fungus appears as white fuzz on the body of the insect. (credit: Houping Liu, USDA Agricultural Research Service)</caption>
+</figure>
+<para id="fs-idp123386496">The mycorrhizal relationship between fungi and plant roots is essential for the productivity of farm land. Without the fungal partner in root systems, 80&#8211;90 percent of trees and grasses would not survive. Mycorrhizal fungal inoculants are available as soil amendments from gardening supply stores and are promoted by supporters of organic agriculture.</para>
+<para id="fs-idp84960768">We also eat some types of fungi. Mushrooms figure prominently in the human diet. Morels, shiitake mushrooms, chanterelles, and truffles are considered delicacies (<link target-id="fig-ch24_05_02" document=""/>). The humble meadow mushroom, <emphasis effect="italics">Agaricus campestris</emphasis>, appears in many dishes. Molds of the genus <emphasis effect="italics">Penicillium</emphasis> ripen many cheeses. They originate in the natural environment such as the caves of Roquefort, France, where wheels of sheep milk cheese are stacked in order to capture the molds responsible for the blue veins and pungent taste of the cheese.</para>
+<figure id="fig-ch24_05_02"><media id="fs-idp29515712" alt=" Photo shows a mushroom with a convoluted black cap.">
+<image mime-type="image/jpg" src="Figure_24_05_02.jpg" width="250"/>
+</media>
+<caption>The morel mushroom is an ascomycete much appreciated for its delicate taste. (credit: Jason Hollinger)</caption></figure><para id="fs-idp127215088">Fermentation&#8212;of grains to produce beer, and of fruits to produce wine&#8212;is an ancient art that humans in most cultures have practiced for millennia. Wild yeasts are acquired from the environment and used to ferment sugars into CO<sub>2</sub> and ethyl alcohol under anaerobic conditions. It is now possible to purchase isolated strains of wild yeasts from different wine-making regions. Louis Pasteur was instrumental in developing a reliable strain of brewer&#8217;s yeast, <emphasis effect="italics">Saccharomyces cerevisiae</emphasis>, for the French brewing industry in the late 1850s. This was one of the first examples of biotechnology patenting.</para>
+<para id="fs-idm7879216">Many secondary metabolites of fungi are of great commercial importance. Antibiotics are naturally produced by fungi to kill or inhibit the growth of bacteria, limiting their competition in the natural environment. Important antibiotics, such as penicillin and the cephalosporins, are isolated from fungi. Valuable drugs isolated from fungi include the immunosuppressant drug cyclosporine (which reduces the risk of rejection after organ transplant), the precursors of steroid hormones, and ergot alkaloids used to stop bleeding. Psilocybin is a compound found in fungi such as <emphasis effect="italics">Psilocybe semilanceata </emphasis>and <emphasis effect="italics">Gymnopilus junonius, </emphasis>which have been used for their hallucinogenic properties by various cultures for thousands of years.</para>
+<para id="fs-idp56929792">As simple eukaryotic organisms, fungi are important model research organisms. Many advances in modern genetics were achieved by the use of the red bread mold <emphasis effect="italics">Neurospora crassa</emphasis>. Additionally, many important genes originally discovered in <emphasis effect="italics">S. cerevisiae</emphasis> served as a starting point in discovering analogous human genes. As a eukaryotic organism, the yeast cell produces and modifies proteins in a manner similar to human cells, as opposed to the bacterium <emphasis effect="italics">Escherichia coli,</emphasis> which lacks the internal membrane structures and enzymes to tag proteins for export. This makes yeast a much better organism for use in recombinant DNA technology experiments. Like bacteria, yeasts grow easily in culture, have a short generation time, and are amenable to genetic modification.</para>
+<section id="fs-idp11376896" class="summary">
+<title>Section Summary</title><para id="fs-idp35805392">Fungi are important to everyday human life. Fungi are important decomposers in most ecosystems. Mycorrhizal fungi are essential for the growth of most plants. Fungi, as food, play a role in human nutrition in the form of mushrooms, and also as agents of fermentation in the production of bread, cheeses, alcoholic beverages, and numerous other food preparations. Secondary metabolites of fungi are used as medicines, such as antibiotics and anticoagulants. Fungi are model organisms for the study of eukaryotic genetics and metabolism.</para>
+</section>
+<section id="fs-idp103680208" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp82473248">
+<problem id="fs-idp56905792"><para id="fs-idp35828768">Yeast is a facultative anaerobe. This means that alcohol fermentation takes place only if:</para>
+<list id="fs-idp92862048" list-type="enumerated" number-style="lower-alpha">
+<item>the temperature is close to 37&#176;C</item>
+<item>the atmosphere does not contain oxygen</item>
+<item>sugar is provided to the cells</item>
+<item>light is provided to the cells</item>
+</list>
+</problem>
+<solution id="fs-idm4463024">
+<label/>
+<para id="fs-idp34842336">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm24109536">
+<problem id="fs-idp15287536"><para id="fs-idm18115904">The advantage of yeast cells over bacterial cells to express human proteins is that:</para>
+<list id="fs-idp46757840" list-type="enumerated" number-style="lower-alpha">
+<item>yeast cells grow faster</item>
+<item>yeast cells are easier to manipulate genetically</item>
+<item>yeast cells are eukaryotic and modify proteins similarly to human cells</item>
+<item>yeast cells are easily lysed to purify the proteins</item>
+</list>
+</problem>
+<solution id="fs-idm4065104">
+<label/>
+<para id="fs-idp83206064">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp37172784" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idp18938784">
+<problem id="fs-idp19466400"><para id="fs-idp130849488">Historically, artisanal breads were produced by capturing wild yeasts from the air. Prior to the development of modern yeast strains, the production of artisanal breads was long and laborious because many batches of dough ended up being discarded. Can you explain this fact?</para></problem>
+<solution id="fs-idm6442528">
+<label/>
+<para id="fs-idp30145664">The dough is often contaminated by toxic spores that float in the air. It was one of Louis Pasteur&#8217;s achievements to purify reliable strains of baker&#8217;s yeast to produce bread consistently.</para>
+</solution>
+</exercise>
+</section>
+</content>
+</document>

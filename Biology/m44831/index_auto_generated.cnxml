@@ -1,0 +1,165 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Disruptions in the Immune System</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44831/latest/</md:content-url>
+  <md:content-id>m44831</md:content-id>
+  <md:title>Disruptions in the Immune System</md:title>
+  <md:version>1.4</md:version>
+  <md:created>2012/08/23 15:59:41 -0500</md:created>
+  <md:revised>2013/04/10 15:14:51.551 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>allergies</md:keyword>
+    <md:keyword>allergy</md:keyword>
+    <md:keyword>autoantibody</md:keyword>
+    <md:keyword>autoimmunity</md:keyword>
+    <md:keyword>hypersensitivities</md:keyword>
+    <md:keyword>hypersensitivity</md:keyword>
+    <md:keyword>immune response</md:keyword>
+    <md:keyword>immune system</md:keyword>
+    <md:keyword>immunity</md:keyword>
+    <md:keyword>immunodeficiency</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe hypersensitivity</item>
+<item>Define autoimmunity</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idp113530720">A functioning immune system is essential for survival, but even the sophisticated cellular and molecular defenses of the mammalian immune response can be defeated by pathogens at virtually every step. In the competition between immune protection and pathogen evasion, pathogens have the advantage of more rapid evolution because of their shorter generation time and other characteristics. For instance, <emphasis effect="italics">Streptococcus pneumoniae </emphasis>(bacterium that cause pneumonia and meningitis) surrounds itself with a capsule that inhibits phagocytes from engulfing it and displaying antigens to the adaptive immune system. <emphasis effect="italics">Staphylococcus aureus</emphasis> (bacterium that can cause skin infections, abscesses, and meningitis) synthesizes a toxin called leukocidin that kills phagocytes after they engulf the bacterium. Other pathogens can also hinder the adaptive immune system. HIV infects T<sub>H</sub> cells via their CD4 surface molecules, gradually depleting the number of T<sub>H</sub> cells in the body; this inhibits the adaptive immune system&#8217;s capacity to generate sufficient responses to infection or tumors. As a result, HIV-infected individuals often suffer from infections that would not cause illness in people with healthy immune systems but which can cause devastating illness to immune-compromised individuals. Maladaptive responses of immune cells and molecules themselves can also disrupt the proper functioning of the entire system, leading to host cell damage that could become fatal.</para>
+<section id="fs-idp102177584">
+<title>Immunodeficiency</title>
+<para id="fs-idp96686640">Failures, insufficiencies, or delays at any level of the immune response can allow pathogens or tumor cells to gain a foothold and replicate or proliferate to high enough levels that the immune system becomes overwhelmed. <term>Immunodeficiency</term> is the failure, insufficiency, or delay in the response of the immune system, which may be acquired or inherited. Immunodeficiency can be acquired as a result of infection with certain pathogens (such as HIV), chemical exposure (including certain medical treatments), malnutrition, or possibly by extreme stress. For instance, radiation exposure can destroy populations of lymphocytes and elevate an individual&#8217;s susceptibility to infections and cancer. Dozens of genetic disorders result in immunodeficiencies, including Severe Combined Immunodeficiency (SCID), Bare lymphocyte syndrome, and MHC II deficiencies. Rarely, primary immunodeficiencies that are present from birth may occur. Neutropenia is one form in which the immune system produces a below-average number of neutrophils, the body&#8217;s most abundant phagocytes. As a result, bacterial infections may go unrestricted in the blood, causing serious complications.</para>
+</section>
+<section id="fs-idp9634496">
+<title>Hypersensitivities</title>
+<para id="fs-idp114134032">Maladaptive immune responses toward harmless foreign substances or self antigens that occur after tissue sensitization are termed <term>hypersensitivities</term>. The types of hypersensitivities include immediate, delayed, and autoimmunity. A large proportion of the population is affected by one or more types of hypersensitivity.</para>
+<section id="fs-idp223765568">
+<title>Allergies</title>
+<para id="fs-idp209444384">The immune reaction that results from immediate hypersensitivities in which an antibody-mediated immune response occurs within minutes of exposure to a harmless antigen is called an <term>allergy</term>. In the United States, 20 percent of the population exhibits symptoms of allergy or asthma, whereas 55 percent test positive against one or more allergens. Upon initial exposure to a potential allergen, an allergic individual synthesizes antibodies of the IgE class via the typical process of APCs presenting processed antigen to T<sub>H</sub> cells that stimulate B cells to produce IgE. This class of antibodies also mediates the immune response to parasitic worms. The constant domain of the IgE molecules interact with mast cells embedded in connective tissues. This process primes, or sensitizes, the tissue. Upon subsequent exposure to the same allergen, IgE molecules on mast cells bind the antigen via their variable domains and stimulate the mast cell to release the modified amino acids histamine and serotonin; these chemical mediators then recruit eosinophils which mediate allergic responses. <link target-id="fig-ch42_04_01" document=""/> shows an example of an allergic response to ragweed pollen. The effects of an allergic reaction range from mild symptoms like sneezing and itchy, watery eyes to more severe or even life-threatening reactions involving intensely itchy welts or hives, airway contraction with severe respiratory distress, and plummeting blood pressure. This extreme reaction is known as anaphylactic shock. If not treated with epinephrine to counter the blood pressure and breathing effects, this condition can be fatal.</para>
+<figure id="fig-ch42_04_01" class=" "><media id="fs-idp96341408" alt="Illustration shows ragweed pollen attached to the surface of a B cell. The B cell is activated, producing plasma cells that release IgE. The IgE is presented on the surface of a mast cell. Upon a second exposure, binding of the antigen to the IgE-primed mast cells causes the release of chemical mediators that elicit an allergic reaction.">
+<image mime-type="image/jpg" src="Figure_42_04_01.jpg" width="320"/>
+</media>
+<caption>On first exposure to an allergen, an IgE antibody is synthesized by plasma cells in response to a harmless antigen. The IgE molecules bind to mast cells, and on secondary exposure, the mast cells release histamines and other modulators that affect the symptoms of allergy. (credit: modification of work by NIH)</caption></figure><para id="fs-idp113443888">Delayed hypersensitivity is a cell-mediated immune response that takes approximately one to two days after secondary exposure for a maximal reaction to be observed. This type of hypersensitivity involves the T<sub>H</sub>1 cytokine-mediated inflammatory response and may manifest as local tissue lesions or contact dermatitis (rash or skin irritation). Delayed hypersensitivity occurs in some individuals in response to contact with certain types of jewelry or cosmetics. Delayed hypersensitivity facilitates the immune response to poison ivy and is also the reason why the skin test for tuberculosis results in a small region of inflammation on individuals who were previously exposed to <emphasis effect="italics">Mycobacterium tuberculosis</emphasis>. That is also why cortisone is used to treat such responses: it will inhibit cytokine production.</para>
+</section>
+<section id="fs-idp170396736">
+<title>Autoimmunity</title>
+<para id="fs-idp204853072"><term>Autoimmunity</term> is a type of hypersensitivity to self antigens that affects approximately five percent of the population. Most types of autoimmunity involve the humoral immune response. Antibodies that inappropriately mark self components as foreign are termed <term>autoantibodies</term>. In patients with the autoimmune disease myasthenia gravis, muscle cell receptors that induce contraction in response to acetylcholine are targeted by antibodies. The result is muscle weakness that may include marked difficultly with fine and/or gross motor functions. In systemic lupus erythematosus, a diffuse autoantibody response to the individual&#8217;s own DNA and proteins results in various systemic diseases. As illustrated in <link target-id="fig-ch42_04_02" document=""/>, systemic lupus erythematosus may affect the heart, joints, lungs, skin, kidneys, central nervous system, or other tissues, causing tissue damage via antibody binding, complement recruitment, lysis, and inflammation.</para>
+<figure id="fig-ch42_04_02" class=" "><media id="fs-idm25268176" alt="Illustration shows the symptoms of lupus, which include a face rash, ulcers in the mouth and nose, inflammation of the pericardium and poor circulation in the fingers and toes.">
+<image mime-type="image/jpg" src="Figure_42_04_02.jpg" width="320"/>
+</media>
+<caption>Systemic lupus erythematosus is characterized by autoimmunity to the individual&#8217;s own DNA and/or proteins, which leads to varied dysfunction of the organs. (credit: modification of work by Mikael H&#228;ggstr&#246;m)</caption></figure><para id="fs-idp223133136">Autoimmunity can develop with time, and its causes may be rooted in molecular mimicry. Antibodies and TCRs may bind self antigens that are structurally similar to pathogen antigens, which the immune receptors first raised. As an example, infection with <emphasis effect="italics">Streptococcus pyogenes </emphasis>(bacterium that causes strep throat) may generate antibodies or T cells that react with heart muscle, which has a similar structure to the surface of <emphasis effect="italics">S. pyogenes</emphasis>. These antibodies can damage heart muscle with autoimmune attacks, leading to rheumatic fever. Insulin-dependent (Type 1) diabetes mellitus arises from a destructive inflammatory T<sub>H</sub>1 response against insulin-producing cells of the pancreas. Patients with this autoimmunity must be injected with insulin that originates from other sources.</para>
+</section>
+</section>
+<section id="fs-idp9654480" class="summary">
+<title>Section Summary</title><para id="fs-idp63413328">Immune disruptions may involve insufficient immune responses or inappropriate immune targets. Immunodeficiency increases an individual's susceptibility to infections and cancers. Hypersensitivities are misdirected responses either to harmless foreign particles, as in the case of allergies, or to host factors, as in the case of autoimmunity. Reactions to self components may be the result of molecular mimicry.</para>
+    </section>
+<section id="fs-idp137798352" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp17268592">
+<problem id="fs-idp44487104"><para id="fs-idp155740128">Allergy to pollen is classified as:</para>
+<list id="fs-idp134173632" list-type="enumerated" number-style="lower-alpha">
+<item>an autoimmune reaction</item>
+<item>immunodeficiency</item>
+<item>delayed hypersensitivity</item>
+<item>immediate hypersensitivity</item>
+</list>
+</problem>
+<solution id="fs-idp410368">
+<label/>
+<para id="fs-idp6118384">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm27916016">
+<problem id="fs-idp102078144"><para id="fs-idp196907632">A potential cause of acquired autoimmunity is ________.</para>
+<list id="fs-idp17842880" list-type="enumerated" number-style="lower-alpha">
+<item>tissue hypersensitivity</item>
+<item>molecular mimicry</item>
+<item>histamine release</item>
+<item>radiation exposure</item>
+</list>
+</problem>
+<solution id="fs-idp95241696">
+<label/>
+<para id="fs-idp132404432">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idp170922736">
+<problem id="fs-idp216321584"><para id="fs-idp81152768">Autoantibodies are probably involved in:</para>
+<list id="fs-idp102163920" list-type="enumerated" number-style="lower-alpha">
+<item>reactions to poison ivy</item>
+<item>pollen allergies</item>
+<item>systemic lupus erythematosus</item>
+<item>HIV/AIDS</item>
+</list>
+</problem>
+<solution id="fs-idp223768976">
+<label/>
+<para id="fs-idp3090608">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idp236033616">
+<problem id="fs-idp86020560"><para id="fs-idp41661888">Which of the following diseases is not due to autoimmunity?</para>
+<list id="fs-idp187931824" list-type="enumerated" number-style="lower-alpha">
+<item>rheumatic fever</item>
+<item>systemic lupus erythematosus</item>
+<item>diabetes mellitus</item>
+<item>HIV/AIDS</item>
+</list>
+</problem>
+<solution id="fs-idp50507920">
+<label/>
+<para id="fs-idp205892048">D</para>
+</solution>
+</exercise>
+</section>
+    </content>
+<glossary>
+<definition id="fs-idp44876384"><term>allergy</term> <meaning id="fs-idp262644928">immune reaction that results from immediate hypersensitivities in which an antibody-mediated immune response occurs within minutes of exposure to a harmless antigen</meaning></definition>
+<definition id="fs-idp47053648"><term>autoantibody</term> <meaning id="fs-idm10441792">antibody that incorrectly marks &#8220;self&#8221; components as foreign and stimulates the immune response</meaning></definition>
+<definition id="fs-idp15107232"><term>autoimmunity</term> <meaning id="fs-idp94357200">type of hypersensitivity to self antigens</meaning></definition>
+<definition id="fs-idp26357376"><term>hypersensitivities</term> <meaning id="fs-idp28727424">spectrum of maladaptive immune responses toward harmless foreign particles or self antigens; occurs after tissue sensitization and includes immediate-type (allergy), delayed-type, and autoimmunity</meaning></definition>
+<definition id="fs-idp102077696"><term>immunodeficiency</term> <meaning id="fs-idp114344944">failure, insufficiency, or delay at any level of the immune system, which may be acquired or inherited</meaning></definition>
+</glossary>
+</document>

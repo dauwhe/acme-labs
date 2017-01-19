@@ -1,0 +1,218 @@
+<?xml version="1.0"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Chordates</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml"
+          mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44685/latest/</md:content-url>
+  <md:content-id>m44685</md:content-id>
+  <md:title>Chordates</md:title>
+  <md:version>1.7</md:version>
+  <md:created>2012/08/23 14:49:51 -0500</md:created>
+  <md:revised>2013/04/29 16:27:11.653 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/" />
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>amniote</md:keyword>
+    <md:keyword>Cephalochordata</md:keyword>
+    <md:keyword>Chordata</md:keyword>
+    <md:keyword>chordate</md:keyword>
+    <md:keyword>Craniata</md:keyword>
+    <md:keyword>craniate</md:keyword>
+    <md:keyword>cranium</md:keyword>
+    <md:keyword>dorsal hollow nerve cord</md:keyword>
+    <md:keyword>lancelet</md:keyword>
+    <md:keyword>notochord</md:keyword>
+    <md:keyword>pharyngeal slits</md:keyword>
+    <md:keyword>post-anal tail</md:keyword>
+    <md:keyword>tetrapod</md:keyword>
+    <md:keyword>tunicate</md:keyword>
+    <md:keyword>Urochordata</md:keyword>
+    <md:keyword>vertebral column</md:keyword>
+    <md:keyword>Vertebrata</md:keyword>
+    <md:keyword>vertebrate</md:keyword>
+    <md:keyword>vertebrates</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the distinguishing characteristics of chordates</item>
+<item>Identify the derived character of craniates that sets them apart from other chordates</item>
+<item>Describe the developmental fate of the notochord in vertebrates</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idm50570688">Vertebrates are members of the kingdom Animalia and the phylum Chordata (<link target-id="fig-ch29_01_01" document=""/>). Recall that animals that possess bilateral symmetry can be divided into two groups—protostomes and deuterostomes—based on their patterns of embryonic development. The deuterostomes, whose name translates as “second mouth,” consist of two phyla: Chordata and Echinodermata. Echinoderms are invertebrate marine animals that have pentaradial symmetry and a spiny body covering, a group that includes sea stars, sea urchins, and sea cucumbers. The most conspicuous and familiar members of Chordata are vertebrates, but this phylum also includes two groups of invertebrate chordates.</para>
+<figure id="fig-ch29_01_01" class=" "><media id="fs-idm11795312" alt="The deuterostome phylogenetic tree includes Echinodermata and chordata. Chordates possess an notochord and include chephalochordates (lancelets), urochordata (tunicates) craniata, which have a cranium. Craniata includes the Myxini (hagfish) and vertebrata, which possess a vertebral column. Vertebrata includes the Petromyzontida (lampreys) and Gnathostomes, which possess a jaw. Gnathostomes include Actinopterygii (ray finned fishes) and animals with four limbs. Animals with four limbs include Actinistia (coelacanths) , dipnoi (lungfishes) and tetrapods, or animals with four legs. Tetrapods include amphibian (frogs and salamanders) and Amniotic, which possess an amniotic egg. Amniota includes reptilian (turtles, snakes, crocodiles and birds) and mammalia, or animals that produce milk.">
+        <image mime-type="image/jpg" src="Figure_29_01_01.jpg" width="575"/>
+    </media>
+    <caption>All chordates are deuterostomes possessing a notochord.</caption></figure><section id="fs-idp36712064">
+<title>Characteristics of Chordata</title>
+<para id="fs-idp153011984">Animals in the phylum <term>Chordata</term> share four key features that appear at some stage during their development: a notochord, a dorsal hollow nerve cord, pharyngeal slits, and a post-anal tail (<link target-id="fig-ch29_01_02" document=""/>). In some groups, some of these are present only during embryonic development.</para>
+<para id="fs-idm12939776">The chordates are named for the <term>notochord</term>, which is a flexible, rod-shaped structure that is found in the embryonic stage of all chordates and in the adult stage of some chordate species. It is located between the digestive tube and the nerve cord, and provides skeletal support through the length of the body. In some chordates, the notochord acts as the primary axial support of the body throughout the animal’s lifetime. In vertebrates, the notochord is present during embryonic development, at which time it induces the development of the neural tube and serves as a support for the developing embryonic body. The notochord, however, is not found in the postnatal stage of vertebrates; at this point, it has been replaced by the vertebral column (that is, the spine).</para>
+<note id="fs-idp92125456" class="art-connection"><label/><title>Art Connection</title>
+<figure id="fig-ch29_01_02" class=" "><media id="fs-idm7249664" alt="The illustration shows a fish-shaped chordate. A long, thin dorsal hollow nerve cord runs the length of the chordate, along the top. Immediately beneath the nerve cord is a notochord that also runs the length of the organism. Beneath the notochord, pharyngeal slits cut diagonally into tissue toward the front of the organism. A post-anal tail occurs at the rear.">
+<image mime-type="image/jpg" src="Figure_29_01_02.png" width="280"/>
+</media>
+<caption>In chordates, four common features appear at some point during development: a notochord, a dorsal hollow nerve cord, pharyngeal slits, and a post-anal tail.</caption>
+</figure>
+<para id="fs-idp149238976">Which of the following statements about common features of chordates is true?</para>
+      <list id="fs-idm24830080" list-type="enumerated" number-style="lower-alpha"><item>The dorsal hollow nerve cord is part of the chordate central nervous system.</item>
+      <item>In vertebrate fishes, the pharyngeal slits become the gills.</item>
+      <item>Humans are not chordates because humans do not have a tail.</item>
+      <item>Vertebrates do not have a notochord at any point in their development; instead, they have a vertebral column.</item>
+      </list><!--<para><link target-id="fig-ch29_01_02" document=""/>A</para>-->
+</note><para id="fs-idm84017696">The <term>dorsal hollow nerve cord</term> derives from ectoderm that rolls into a hollow tube during development. In chordates, it is located dorsal to the notochord. In contrast, other animal phyla are characterized by solid nerve cords that are located either ventrally or laterally. The nerve cord found in most chordate embryos develops into the brain and spinal cord, which compose the central nervous system.</para>
+<para id="fs-idm45223584"><term>Pharyngeal slits</term> are openings in the pharynx (the region just posterior to the mouth) that extend to the outside environment. In organisms that live in aquatic environments, pharyngeal slits allow for the exit of water that enters the mouth during feeding. Some invertebrate chordates use the pharyngeal slits to filter food out of the water that enters the mouth. In vertebrate fishes, the pharyngeal slits are modified into gill supports, and in jawed fishes, into jaw supports. In tetrapods, the slits are modified into components of the ear and tonsils. <term>Tetrapod</term> literally means “four-footed,” which refers to the phylogenetic history of various groups that evolved accordingly, even though some now possess fewer than two pairs of walking appendages. Tetrapods include amphibians, reptiles, birds, and mammals.</para>
+<para id="fs-idp60898320">The <term>post-anal tail</term> is a posterior elongation of the body, extending beyond the anus. The tail contains skeletal elements and muscles, which provide a source of locomotion in aquatic species, such as fishes. In some terrestrial vertebrates, the tail also helps with balance, courting, and signaling when danger is near. In humans, the post-anal tail is vestigial, that is, reduced in size and nonfunctional.</para>
+<note id="fs-idp150933376" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idp71644720" alt="QR Code representing a URL">
+<image mime-type="image/png" src="chordate_evol.png" width="120"/>
+</media>
+<para id="fs-idm110757328">Click for a <link window="new" url="http://openstaxcollege.org/l/chordate_evol">video</link> discussing the evolution of chordates and five characteristics that they share.</para>
+</note></section>
+<section id="fs-idm34199984">
+<title>Chordates and the Evolution of Vertebrates</title>
+<para id="fs-idm78785312">Chordata also contains two clades of invertebrates: Urochordata and Cephalochordata. Members of these groups also possess the four distinctive features of chordates at some point during their development.</para>
+<section id="fs-idm17583392">
+<title>Urochordata</title>
+<para id="fs-idp51714128">Members of <term>Urochordata</term> are also known as <term>tunicates</term> (<link target-id="fig-ch29_01_03" document=""/>). The name tunicate derives from the cellulose-like carbohydrate material, called the tunic, which covers the outer body of tunicates. Although adult tunicates are classified as chordates, they do not have a notochord, a dorsal hollow nerve cord, or a post-anal tail, although they do have pharyngeal slits. The larval form, however, possesses all four structures. Most tunicates are hermaphrodites. Tunicate larvae hatch from eggs inside the adult tunicate’s body. After hatching, a tunicate larva swims for a few days until it finds a suitable surface on which it can attach, usually in a dark or shaded location. It then attaches via the head to the surface and undergoes metamorphosis into the adult form, at which point the notochord, nerve cord, and tail disappear.</para>
+<figure id="fig-ch29_01_03" class=" "><media id="fs-idm19429904" alt="Photo A shows tunicates, which are sponge-like in appearance and have holes along the surface. Illustration B shows the tunicate larval stage, which resembles a tadpole, with a post anal tail at the narrow end. A dorsal hollow nerve cord run along the upper back, and a notochord runs beneath the nerve cord. The digestive tract starts with a mouth at the front of the animal connected to a stomach. Above the stomach is the anus. The pharyngeal slits, which are located in between the stomach and mouth, are connected to an atrial opening at the top of the body. Illustration C shows an adult tunicate, which resembles a tree stump anchored to the bottom. Water enters through a mouth at the top of the body and passes through the pharyngeal slits, where it is filtered. Water then exits through another opening at the side of the body. A heart, stomach and gonad are tucked beneath the pharyngeal slit.">
+<image mime-type="image/jpg" src="Figure_29_01_03abc.jpg" width="550"/>
+</media>
+<caption>(a) This photograph shows a colony of the tunicate <emphasis effect="italics">Botrylloides violaceus</emphasis>. (b) The larval stage of the tunicate possesses all of the features characteristic of chordates: a notochord, a dorsal hollow nerve cord, pharyngeal slits, and a post-anal tail. (c) In the adult stage, the notochord, nerve cord, and tail disappear. (credit: modification of work by Dann Blackwood, USGS)</caption></figure><para id="fs-idm90576448">Most tunicates live a sessile existence on the ocean floor and are suspension feeders. The primary foods of tunicates are plankton and detritus. Seawater enters the tunicate’s body through its incurrent siphon. Suspended material is filtered out of this water by a mucous net (pharyngeal slits) and is passed into the intestine via the action of cilia. The anus empties into the excurrent siphon, which expels wastes and water. Tunicates are found in shallow ocean waters around the world.</para>
+</section>
+<section id="fs-idp25178992">
+<title>Cephalochordata</title>
+<para id="fs-idm28476208">Members of <term>Cephalochordata</term> possess a notochord, dorsal hollow nerve cord, pharyngeal slits, and a post-anal tail in the adult stage (<link target-id="fig-ch29_01_04" document=""/>). The notochord extends into the head, which gives the subphylum its name. Extinct members of this subphylum include <emphasis effect="italics">Pikaia</emphasis>, which is the oldest known cephalochordate. <emphasis effect="italics">Pikaia</emphasis> fossils were recovered from the Burgess shales of Canada and dated to the middle of the Cambrian age, making them more than 500 million years old.</para>
+<para id="fs-idp73488752">Extant members of Cephalochordata are the <term>lancelets</term>, named for their blade-like shape. Lancelets are only a few centimeters long and are usually found buried in sand at the bottom of warm temperate and tropical seas. Like tunicates, they are suspension feeders.</para>
+<figure id="fig-ch29_01_04" class=" "><media id="fs-idm11912752" alt="The illustration shows a lancelet with a head protruding form the sand, and the rest of the body buried. On the head, tentacles surround the mouth. The mouth leads to a digestive tract. The anus is just before the post anal tail. The pharyngeal slits are next to the atrium, which empties into the atriopore. The body has segmented muscles running along it from top to bottom.">
+    <image mime-type="image/jpg" src="Figure_29_01_04.jpg" width="300"/>
+</media>
+<caption>The lancelet, like all cephalochordates, has a head. Adult lancelets retain the four key features of chordates: a notochord, a dorsal hollow nerve cord, pharyngeal slits, and a post-anal tail.  Water from the mouth enters the pharyngeal slits, which filter out food particles. The filtered water then collects in the atrium and exits through the atriopore.</caption></figure></section>
+</section>
+<section id="fs-idm20539184">
+<title>Craniata and Vertebrata</title>
+<para id="fs-idp38115744">A <term>cranium</term> is a bony, cartilaginous, or fibrous structure surrounding the brain, jaw, and facial bones (<link target-id="fig-ch29_01_05" document=""/>). Most bilaterally symmetrical animals have a head; of these, those that have a cranium compose the clade <term>Craniata</term>. Craniata includes the hagfishes (Myxini), which have a cranium but lack a backbone, and all of the organisms called “vertebrates.”</para><figure id="fig-ch29_01_05" class=" "><media id="fs-idp108676160" alt="The skull wraps around the upper part of the head. The mandible is the lower jaw. Other bones complete the skull.">
+        <image mime-type="image/jpg" src="Figure_29_01_05.jpg" width="320"/>
+    </media>
+<caption>Craniata, including this fish (<emphasis effect="italics">Dunkleosteus </emphasis>sp.), are characterized by the presence of a cranium, mandible, and other facial bones. (credit: “Steveoc 86”/Wikimedia Commons)</caption></figure><para id="fs-idp55085168">Vertebrates are members of the clade <term>Vertebrata</term>. Vertebrates display the four characteristic features of the chordates; however, members of this group also share derived characteristics that distinguish them from invertebrate chordates. Vertebrata is named for the <term>vertebral column</term>, composed of vertebrae, a series of separate bones joined together as a backbone (<link target-id="fig-ch29_01_06" document=""/>). In adult vertebrates, the vertebral column replaces the notochord, which is only seen in the embryonic stage.</para>
+    <figure id="fig-ch29_01_06" class=" "><media id="fs-idp33740160" alt="Photo shows a fish skeleton with a vertebral column extending back from the skull.">
+        <image mime-type="image/jpg" src="Figure_29_01_06.jpg" width="380"/>
+    </media>
+<caption>Vertebrata are characterized by the presence of a backbone, such as the one that runs through the middle of this fish. All vertebrates are in the Craniata clade and have a cranium. (credit: Ernest V. More; taken at Smithsonian Museum of Natural History, Washington, D.C.)</caption></figure><para id="fs-idm48157392">Based on molecular analysis, vertebrates appear to be more closely related to lancelets (cephalochordates) than to tunicates (urochordates) among the invertebrate chordates. This evidence suggests that the cephalochordates diverged from Urochordata and the vertebrates subsequently diverged from the cephalochordates. This hypothesis is further supported by the discovery of a fossil in China from the genus <emphasis effect="italics">Haikouella</emphasis>. This organism seems to be an intermediate form between cephalochordates and vertebrates. The <emphasis effect="italics">Haikouella</emphasis> fossils are about 530 million years old and appear similar to modern lancelets. These organisms had a brain and eyes, as do vertebrates, but lack the skull found in craniates.<sup><footnote id="fs-idp94221184">Chen, J. Y., Huang, D. Y., and Li, C. W., “An early Cambrian craniate-like chordate,” <emphasis effect="italics">Nature</emphasis> 402 (1999): 518–522, doi:10.1038/990080.</footnote></sup> This evidence suggests that vertebrates arose during the Cambrian explosion. Recall that the “Cambrian explosion” is the name given to a relatively brief span of time during the Cambrian period during which many animal groups appeared and rapidly diversified. Most modern animal phyla originated during the Cambrian explosion.</para><para id="fs-idp157056864">Vertebrates are the largest group of chordates, with more than 62,000 living species. Vertebrates are grouped based on anatomical and physiological traits. More than one classification and naming scheme is used for these animals. Here we will consider the traditional groups Agnatha, Chondrichthyes, Osteichthyes, Amphibia, Reptilia, Aves, and Mammalia, which constitute classes in the subphylum Vertebrata. Many modern authors classify birds within Reptilia, which correctly reflects their evolutionary heritage. We consider them separately only for convenience. Further, we will consider hagfishes and lampreys together as jawless fishes, the agnathans, although emerging classification schemes separate them into chordate jawless fishes (the hagfishes) and vertebrate jawless fishes (the lampreys).</para>
+<para id="fs-idm87714480">Animals that possess jaws are known as gnathostomes, which means “jawed mouth.” Gnathostomes include fishes and tetrapods—amphibians, reptiles, birds, and mammals. Tetrapods can be further divided into two groups: amphibians and amniotes. Amniotes are animals whose eggs are adapted for terrestrial living, and this group includes mammals, reptiles, and birds. Amniotic embryos, developing in either an externally shed egg or an egg carried by the female, are provided with a water-retaining environment and are protected by amniotic membranes.</para></section>
+<section id="fs-idp78122064" class="summary">
+<title>Section Summary</title><para id="fs-idp143434896">The characteristic features of Chordata are a notochord, a dorsal hollow nerve cord, pharyngeal slits, and a post-anal tail. Chordata contains two clades of invertebrates: Urochordata (tunicates) and Cephalochordata (lancelets), together with the vertebrates in Vertebrata. Most tunicates live on the ocean floor and are suspension feeders. Lancelets are suspension feeders that feed on phytoplankton and other microorganisms. Vertebrata is named for the vertebral column, which is a feature of almost all members of this clade.</para>
+    </section>
+<section id="fs-idp33340384" class="art-exercise">
+    <title>Art Connections</title>
+<exercise id="fs-idm91520496">
+    <problem id="fs-idm44370576">
+    <para id="fs-idm20576896"><link target-id="fig-ch29_01_02" document=""/> Which of the following statements about common features of chordates is true?</para>
+<list id="fs-idm90618384" list-type="enumerated" number-style="lower-alpha">
+    <item>The dorsal hollow nerve cord is part of the chordate central nervous system.</item>
+<item>In vertebrate fishes, the pharyngeal slits become the gills.</item>
+<item>Humans are not chordates because humans do not have a tail.</item>
+<item>Vertebrates do not have a notochord at any point in their development; instead, they have a vertebral column.</item>
+</list>
+</problem>
+<solution id="fs-idp17679936"><label/>
+    <para id="fs-idp38084480"><link target-id="fig-ch29_01_02" document=""/> A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp159827536" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp169399296">
+<problem id="fs-idp69183168"><para id="fs-idm85575520">Which of the following is <emphasis effect="italics">not</emphasis> contained in phylum Chordata?</para>
+<list id="fs-idp53904" list-type="enumerated" number-style="lower-alpha">
+<item>Cephalochordata</item>
+<item>Echinodermata</item>
+<item>Urochordata</item>
+<item>Vertebrata</item>
+</list>
+</problem>
+<solution id="fs-idp41068288">
+<label/>
+<para id="fs-idp36883648">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm154235264">
+<problem id="fs-idm111904"><para id="fs-idm34807360">Which group of invertebrates is most closely related to vertebrates?</para>
+<list id="fs-idm15339312" list-type="enumerated" number-style="lower-alpha"><item>cephalochordates</item>
+<item>echinoderms</item>
+<item>arthropods</item>
+<item>urochordates</item>
+</list></problem>
+<solution id="fs-idm93036480">
+<label/>
+<para id="fs-idm15290912">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm19322240" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idp48187184">
+<problem id="fs-idm12651872"><para id="fs-idm113872">What are the characteristic features of the chordates?</para></problem>
+<solution id="fs-idm59862624"><label/>
+<para id="fs-idp131920464">The characteristic features of the phylum Chordata are a notochord, a dorsal hollow nerve cord, pharyngeal slits, and a post-anal tail.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+
+<definition id="fs-idp142241824"><term>Cephalochordata</term> <meaning id="fs-idp20218800">chordate clade whose members possess a notochord, dorsal hollow nerve cord, pharyngeal slits, and a post-anal tail in the adult stage</meaning></definition>
+<definition id="fs-idp183146960"><term>Chordata</term> <meaning id="fs-idm990896">phylum of animals distinguished by their possession of a notochord, a dorsal hollow nerve cord, pharyngeal slits, and a post-anal tail at some point during their development</meaning></definition>
+<definition id="fs-idp31742176"><term>Craniata</term> <meaning id="fs-idm50838240">clade composed of chordates that possess a cranium; includes Vertebrata together with hagfishes</meaning></definition>
+<definition id="fs-idm90715840"><term>cranium</term> <meaning id="fs-idm14786640">bony, cartilaginous, or fibrous structure surrounding the brain, jaw, and facial bones</meaning></definition>
+<definition id="fs-idp82550496"><term>dorsal hollow nerve cord</term> <meaning id="fs-idm44917392">hollow, tubular structure derived from ectoderm, which is located dorsal to the notochord in chordates</meaning></definition>
+<definition id="fs-idm93024560"><term>lancelet</term> <meaning id="fs-idm85925280">member of Cephalochordata; named for its blade-like shape</meaning></definition>
+<definition id="fs-idp80669520"><term>notochord</term> <meaning id="fs-idp167582000">flexible, rod-shaped support structure that is found in the embryonic stage of all chordates and in the adult stage of some chordates</meaning></definition>
+<definition id="fs-idm87568688"><term>pharyngeal slit</term> <meaning id="fs-idm7565280">opening in the pharynx</meaning></definition>
+<definition id="fs-idm150179376"><term>post-anal tail</term> <meaning id="fs-idp108785056">muscular, posterior elongation of the body extending beyond the anus in chordates</meaning></definition>
+<definition id="fs-idm106193824"><term>tetrapod</term> <meaning id="fs-idp125951328">phylogenetic reference to an organism with a four-footed evolutionary history; includes amphibians, reptiles, birds, and mammals</meaning></definition>
+<definition id="fs-idm7674464"><term>tunicate</term> <meaning id="fs-idp33008464">sessile chordate that is a member of Urochordata</meaning></definition>
+<definition id="fs-idm64654320"><term>Urochordata</term> <meaning id="fs-idm51341696">clade composed of tunicates</meaning></definition>
+<definition id="fs-idp153882704"><term>vertebral column</term> <meaning id="fs-idm51006160">series of separate bones joined together as a backbone</meaning></definition>
+<definition id="fs-idp167612496"><term>Vertebrata</term> <meaning id="fs-idm51111296">members of the phylum Chordata that possess a backbone</meaning></definition>
+</glossary>
+</document>

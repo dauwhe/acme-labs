@@ -1,0 +1,999 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Gas Exchange across Respiratory Surfaces</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44795/latest/</md:content-url>
+  <md:content-id>m44795</md:content-id>
+  <md:title>Gas Exchange across Respiratory Surfaces</md:title>
+  <md:version>1.4</md:version>
+  <md:created>2012/08/23 15:47:49 -0500</md:created>
+  <md:revised>2013/06/21 09:51:25.622 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>carbon dioxide</md:keyword>
+    <md:keyword>concentration gradient</md:keyword>
+    <md:keyword>diffusion</md:keyword>
+    <md:keyword>expiratory reserve volume</md:keyword>
+    <md:keyword>FEV1/FVC ratio</md:keyword>
+    <md:keyword>forced expiratory volume</md:keyword>
+    <md:keyword>forced vital capacity</md:keyword>
+    <md:keyword>functional residual capacity</md:keyword>
+    <md:keyword>gas equation</md:keyword>
+    <md:keyword>gas exchange</md:keyword>
+    <md:keyword>gas pressure</md:keyword>
+    <md:keyword>hemoglobin</md:keyword>
+    <md:keyword>inspiratory capacity</md:keyword>
+    <md:keyword>inspiratory reserve volume</md:keyword>
+    <md:keyword>lung capacity</md:keyword>
+    <md:keyword>lung volume</md:keyword>
+    <md:keyword>maximal exhalation</md:keyword>
+    <md:keyword>oxygen</md:keyword>
+    <md:keyword>partial pressure</md:keyword>
+    <md:keyword>residual volume</md:keyword>
+    <md:keyword>respiratory quotient</md:keyword>
+    <md:keyword>respiratory therapist</md:keyword>
+    <md:keyword>spirometry</md:keyword>
+    <md:keyword>tidal volume</md:keyword>
+    <md:keyword>total lung capacity</md:keyword>
+    <md:keyword>vital capacity</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Name and describe lung volumes and capacities</item>
+<item>Understand how gas pressure influences how gases move into and out of the body</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idm66863584">The structure of the lung maximizes its surface area to increase gas diffusion. Because of the enormous number of alveoli (approximately 300 million in each human lung), the surface area of the lung is very large (75 m<sup>2</sup>). Having such a large surface area increases the amount of gas that can diffuse into and out of the lungs.</para>
+<section id="fs-idp52774976">
+<title>Basic Principles of Gas Exchange</title>
+<para id="fs-idp168024240">Gas exchange during respiration occurs primarily through diffusion. Diffusion is a process in which transport is driven by a concentration gradient. Gas molecules move from a region of high concentration to a region of low concentration. Blood that is low in oxygen concentration and high in carbon dioxide concentration undergoes gas exchange with air in the lungs. The air in the lungs has a higher concentration of oxygen than that of oxygen-depleted blood and a lower concentration of carbon dioxide. This concentration gradient allows for gas exchange during respiration.</para>
+<para id="fs-idp83033872"> <term>Partial pressure</term> is a measure of the concentration of the individual components in a mixture of gases. The total pressure exerted by the mixture is the sum of the partial pressures of the components in the mixture. The rate of diffusion of a gas is proportional to its partial pressure within the total gas mixture. This concept is discussed further in detail below.</para>
+</section>
+<section id="fs-idp15660768"><title>Lung Volumes and Capacities</title><para id="fs-idm79231488">Different animals have different lung capacities based on their activities. Cheetahs have evolved a much higher lung capacity than humans; it helps provide oxygen to all the muscles in the body and allows them to run very fast. Elephants also have a high lung capacity. In this case, it is not because they run fast but because they have a large body and must be able to take up oxygen in accordance with their body size.</para>
+<para id="fs-idm139039136">Human lung size is determined by genetics, gender, and height. At maximal capacity, an average lung can hold almost six liters of air, but lungs do not usually operate at maximal capacity. Air in the lungs is measured in terms of <term>lung volumes</term> and <term>lung capacities</term> (<link target-id="fig-ch39_02_01" document=""/> and <link target-id="tab-ch39_02_01" document=""/>). Volume measures the amount of air for one function (such as inhalation or exhalation). Capacity is any two or more volumes (for example, how much can be inhaled from the end of a maximal exhalation).</para>
+<figure id="fig-ch39_02_01" class=" "><media id="fs-idp114938608" alt="The chart shows the exchange of air during inhalation and exhalation, which resembles a wave pattern. During normal breathing, only about eight percent of air in the lungs is exchanged, and the amount of air in the lungs is one-half the total lung capacity. When a person breathes in deeply, total lung capacity is attained. The amount of air taken in is called the inspiratory capacity. Forceful exhalation results in expulsion of the expiratory reserve volume. A residual volume of air of about eight percent is left in the lungs. The vital capacity is the difference between the total lung capacity and the residual volume. The inspiratory reserve volume is the difference between the total lung capacity and the amount of air in the lungs after taking a normal breath. The functional residual capacity is the amount of air in the lungs after normal exhalation.">
+<image mime-type="image/jpg" src="Figure_39_02_01.jpg" width="550"/>
+</media>
+<caption>Human lung volumes and capacities are shown. The total lung capacity of the adult male is six liters. Tidal volume is the volume of air inhaled in a single, normal breath. Inspiratory capacity is the amount of air taken in during a deep breath, and residual volume is the amount of air left in the lungs after forceful respiration.</caption></figure><table id="tab-ch39_02_01" summary="This table displays lung volumes and capacities for average adult males.">
+<tgroup cols="4" align="left"><colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
+    <colspec colnum="4" colname="c4"/>
+        <thead>
+<row>
+<entry namest="c1" nameend="c4">Lung Volumes and Capacities (Avg Adult Male)</entry>
+</row>
+<row>
+<entry align="center">Volume/Capacity</entry>
+<entry align="center">Definition</entry>
+<entry align="center">Volume (liters)</entry>
+<entry align="center">Equations</entry>
+</row>
+        </thead>
+<tbody>
+    <row>
+<entry>Tidal volume (TV)</entry>
+<entry>Amount of air inhaled during a normal breath</entry>
+<entry>0.5</entry>
+<entry>-</entry>
+    </row>
+<row>
+<entry>Expiratory reserve volume (ERV)</entry>
+<entry>Amount of air that can be exhaled after a normal exhalation</entry>
+<entry>1.2</entry>
+<entry>-</entry>
+</row>
+<row>
+<entry>Inspiratory reserve volume (IRV)</entry>
+<entry>Amount of air that can be further inhaled after a normal inhalation</entry>
+<entry>3.1</entry>
+<entry>-</entry>
+</row>
+<row>
+<entry>Residual volume (RV)</entry>
+<entry>Air left in the lungs after a forced exhalation</entry>
+<entry>1.2</entry>
+<entry>-</entry>
+</row>
+<row>
+<entry>Vital capacity (VC)</entry>
+<entry>Maximum amount of air that can be moved in or out of the lungs in a single respiratory cycle</entry>
+<entry>4.8</entry>
+<entry>ERV+TV+IRV</entry>
+</row>
+<row>
+<entry>Inspiratory capacity (IC)</entry>
+<entry>Volume of air that can be inhaled in addition to a normal exhalation</entry>
+<entry>3.6</entry>
+<entry>TV+IRV</entry>
+</row>
+<row>
+<entry>Functional residual capacity (FRC)</entry>
+<entry>Volume of air remaining after a normal exhalation</entry>
+<entry>2.4</entry>
+<entry>ERV+RV</entry>
+</row>
+<row>
+    <entry>Total lung capacity (TLC)</entry>
+<entry>Total volume of air in the lungs after a maximal inspiration</entry>
+<entry>6.0</entry>
+<entry>RV+ERV+TV+IRV</entry>
+</row>
+<row>
+    <entry>Forced expiratory volume (FEV1)</entry>
+<entry>How much air can be forced out of the lungs over a specific time period, usually one second</entry>
+<entry>~4.1 to 5.5</entry>
+<entry>-</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table><para id="fs-idm85935760">The volume in the lung can be divided into four units: tidal volume, expiratory reserve volume, inspiratory reserve volume, and residual volume. <term>Tidal volume (TV)</term> measures the amount of air that is inspired and expired during a normal breath. On average, this volume is around one-half liter, which is a little less than the capacity of a 20-ounce drink bottle. The <term>expiratory reserve volume (ERV)</term> is the additional amount of air that can be exhaled after a normal exhalation. It is the reserve amount that can be exhaled beyond what is normal. Conversely, the <term>inspiratory reserve volume (IRV)</term> is the additional amount of air that can be inhaled after a normal inhalation. The <term>residual volume (RV)</term> is the amount of air that is left after expiratory reserve volume is exhaled. The lungs are never completely empty: There is always some air left in the lungs after a maximal exhalation. If this residual volume did not exist and the lungs emptied completely, the lung tissues would stick together and the energy necessary to re-inflate the lung could be too great to overcome. Therefore, there is always some air remaining in the lungs. Residual volume is also important for preventing large fluctuations in respiratory gases (O<sub>2</sub> and CO<sub>2</sub>). The residual volume is the only lung volume that cannot be measured directly because it is impossible to completely empty the lung of air. This volume can only be calculated rather than measured.</para>
+<para id="fs-idm55585824">Capacities are measurements of two or more volumes. The <term>vital capacity (VC)</term> measures the maximum amount of air that can be inhaled or exhaled during a respiratory cycle. It is the sum of the expiratory reserve volume, tidal volume, and inspiratory reserve volume. The <term>inspiratory capacity (IC)</term> is the amount of air that can be inhaled after the end of a normal expiration. It is, therefore, the sum of the tidal volume and inspiratory reserve volume. The <term>functional residual capacity (FRC)</term> includes the expiratory reserve volume and the residual volume. The FRC measures the amount of additional air that can be exhaled after a normal exhalation. Lastly, the <term>total lung capacity (TLC)</term> is a measurement of the total amount of air that the lung can hold. It is the sum of the residual volume, expiratory reserve volume, tidal volume, and inspiratory reserve volume.</para>
+<para id="fs-idm4780688">Lung volumes are measured by a technique called <term>spirometry</term>. An important measurement taken during spirometry is the <term>forced expiratory volume (FEV)</term>, which measures how much air can be forced out of the lung over a specific period, usually one second (FEV1). In addition, the forced vital capacity (FVC), which is the total amount of air that can be forcibly exhaled, is measured. The ratio of these values (<term>FEV1/FVC ratio</term>) is used to diagnose lung diseases including asthma, emphysema, and fibrosis. If the FEV1/FVC ratio is high, the lungs are not compliant (meaning they are stiff and unable to bend properly), and the patient most likely has lung fibrosis. Patients exhale most of the lung volume very quickly. Conversely, when the FEV1/FVC ratio is low, there is resistance in the lung that is characteristic of asthma. In this instance, it is hard for the patient to get the air out of his or her lungs, and it takes a long time to reach the maximal exhalation volume. In either case, breathing is difficult and complications arise.</para>
+<note id="fs-idp122751440" class="career">
+<label/>
+<title>Career Connection</title>
+<para id="fs-idp81313376">
+<title>Respiratory Therapist</title>
+Respiratory therapists or respiratory practitioners evaluate and treat patients with lung and cardiovascular diseases. They work as part of a medical team to develop treatment plans for patients. Respiratory therapists may treat premature babies with underdeveloped lungs, patients with chronic conditions such as asthma, or older patients suffering from lung disease such as emphysema and chronic obstructive pulmonary disease (COPD). They may operate advanced equipment such as compressed gas delivery systems, ventilators, blood gas analyzers, and resuscitators. Specialized programs to become a respiratory therapist generally lead to a bachelor&#8217;s degree with a respiratory therapist specialty. Because of a growing aging population, career opportunities as a respiratory therapist are expected to remain strong.</para>
+</note></section><section id="fs-idm84147776">
+<title>Gas Pressure and Respiration</title>
+<para id="fs-idm106442976">The respiratory process can be better understood by examining the properties of gases. Gases move freely, but gas particles are constantly hitting the walls of their vessel, thereby producing gas pressure.</para>
+<para id="fs-idp8446256">Air is a mixture of gases, primarily nitrogen (N<sub>2</sub>; 78.6 percent), oxygen (O<sub>2</sub>; 20.9 percent), water vapor (H<sub>2</sub>O; 0.5 percent), and carbon dioxide (CO<sub>2</sub>; 0.04 percent). Each gas component of that mixture exerts a pressure. The pressure for an individual gas in the mixture is the partial pressure of that gas. Approximately 21 percent of atmospheric gas is oxygen. Carbon dioxide, however, is found in relatively small amounts, 0.04 percent. The partial pressure for oxygen is much greater than that of carbon dioxide. The partial pressure of any gas can be calculated by:</para>
+<equation id="eip-484"><m:math display="block">
+ <m:mrow>
+  <m:msub>
+   <m:mrow>
+    <m:mtext>P&#160;=&#160;(P</m:mtext>
+   </m:mrow>
+   <m:mrow>
+    <m:mtext>atm</m:mtext>
+   </m:mrow>
+  </m:msub>
+  <m:mtext>)&#160;</m:mtext><m:mo>&#215;</m:mo><m:mtext>&#160;(percent&#160;content&#160;in&#160;mixture)</m:mtext><m:mtext>.</m:mtext>
+ </m:mrow>
+</m:math></equation><para id="fs-idm88112688">P<sub>atm</sub>, the atmospheric pressure, is the sum of all of the partial pressures of the atmospheric gases added together,</para><equation id="eip-592"><m:math display="left">
+ <m:mrow>
+  <m:msub>
+   <m:mtext>P</m:mtext>
+   <m:mrow>
+    <m:mtext>atm</m:mtext>
+   </m:mrow>
+  </m:msub>
+  <m:msub>
+   <m:mrow>
+    <m:mtext>&#160;=&#160;P</m:mtext>
+   </m:mrow>
+   <m:mrow>
+    <m:msub>
+     <m:mtext>N</m:mtext>
+     <m:mtext>2</m:mtext>
+    </m:msub>
+    
+   </m:mrow>
+  </m:msub>
+  <m:msub>
+   <m:mrow>
+    <m:mtext>&#160;+&#160;P</m:mtext>
+   </m:mrow>
+   <m:mrow>
+    <m:msub>
+     <m:mtext>O</m:mtext>
+     <m:mtext>2</m:mtext>
+    </m:msub>
+    
+   </m:mrow>
+  </m:msub>
+  <m:msub>
+   <m:mrow>
+    <m:mtext>&#160;+&#160;P</m:mtext>
+   </m:mrow>
+   <m:mrow>
+    <m:msub>
+     <m:mtext>H</m:mtext>
+     <m:mtext>2</m:mtext>
+    </m:msub>
+    <m:mtext>O</m:mtext>
+   </m:mrow>
+  </m:msub>
+  <m:msub>
+   <m:mrow>
+    <m:mtext>&#160;+&#160;P</m:mtext>
+   </m:mrow>
+   <m:mrow>
+    <m:msub>
+     <m:mrow>
+      <m:mtext>CO</m:mtext>
+     </m:mrow>
+     <m:mtext>2</m:mtext>
+    </m:msub>
+    
+   </m:mrow>
+  </m:msub>
+  <m:mtext>=&#160;760&#160;mm&#160;Hg</m:mtext>
+ </m:mrow>
+</m:math></equation><para id="fs-idm60158096">&#215; (percent content in mixture).</para><para id="fs-idp60460976">The pressure of the atmosphere at sea level is 760 mm Hg. Therefore, the partial pressure of oxygen is:</para>
+
+<equation id="eip-791"><m:math display="left">
+ <m:mrow>
+  <m:msub>
+   <m:mtext>P</m:mtext>
+   <m:mrow>
+    <m:msub>
+     <m:mtext>O</m:mtext>
+     <m:mtext>2</m:mtext>
+    </m:msub>
+    
+   </m:mrow>
+  </m:msub>
+  <m:mtext>=&#160;(760&#160;mm&#160;Hg)&#160;(0</m:mtext><m:mtext>.21)&#160;=&#160;160&#160;mm&#160;Hg</m:mtext>
+ </m:mrow>
+</m:math></equation><para id="fs-idp97958096">and for carbon dioxide:</para>
+
+<equation id="eip-755"><m:math display="left">
+ <m:mrow>
+  <m:msub>
+   <m:mtext>P</m:mtext>
+   <m:mrow>
+    <m:msub>
+     <m:mrow>
+      <m:mtext>CO</m:mtext>
+     </m:mrow>
+     <m:mtext>2</m:mtext>
+    </m:msub>
+    
+   </m:mrow>
+  </m:msub>
+  <m:mtext>=&#160;(760&#160;mm&#160;Hg)&#160;(0</m:mtext><m:mtext>.0004)&#160;=&#160;0</m:mtext><m:mtext>.3&#160;mm&#160;Hg</m:mtext><m:mtext>.</m:mtext>
+ </m:mrow>
+</m:math></equation><para id="fs-idp16386288">At high altitudes, P<sub>atm</sub> decreases but concentration does not change; the partial pressure decrease is due to the reduction in P<sub>atm</sub>.</para>
+<para id="fs-idp32276400">When the air mixture reaches the lung, it has been humidified. The pressure of the water vapor in the lung does not change the pressure of the air, but it must be included in the partial pressure equation. For this calculation, the water pressure (47 mm Hg) is subtracted from the atmospheric pressure:</para>
+<equation id="eip-3"><m:math display="block">
+ <m:mrow>
+  <m:mtext>760&#160;mm&#160;Hg&#160;</m:mtext><m:mo>&#8722;</m:mo><m:mtext>&#160;47&#160;mm&#160;Hg&#160;</m:mtext><m:mo>=</m:mo><m:mtext>&#160;&#160;713&#160;mm&#160;Hg</m:mtext>
+ </m:mrow>
+</m:math></equation><para id="fs-idp103442576">and the partial pressure of oxygen is:</para>
+<equation id="eip-339"><m:math display="block">
+ <m:mrow>
+  <m:mtext>(760&#160;mm&#160;Hg&#160;</m:mtext><m:mo>&#8722;</m:mo><m:mtext>&#160;47&#160;mm&#160;Hg)&#160;</m:mtext><m:mo>&#215;</m:mo><m:mtext>&#160;0</m:mtext><m:mtext>.21&#160;</m:mtext><m:mo>=</m:mo><m:mtext>&#160;150&#160;mm&#160;Hg</m:mtext><m:mtext>.</m:mtext>
+ </m:mrow>
+</m:math></equation><para id="fs-idm158964400">These pressures determine the gas exchange, or the flow of gas, in the system. Oxygen and carbon dioxide will flow according to their pressure gradient from high to low. Therefore, understanding the partial pressure of each gas will aid in understanding how gases move in the respiratory system.</para>
+</section>
+<section id="fs-idp3947216">
+<title>Gas Exchange across the Alveoli</title>
+<para id="fs-idm166832800">In the body, oxygen is used by cells of the body&#8217;s tissues and carbon dioxide is produced as a waste product. The ratio of carbon dioxide production to oxygen consumption is the <term>respiratory quotient (RQ)</term>. RQ varies between 0.7 and 1.0. If just glucose were used to fuel the body, the RQ would equal one. One mole of carbon dioxide would be produced for every mole of oxygen consumed. Glucose, however, is not the only fuel for the body. Protein and fat are also used as fuels for the body. Because of this, less carbon dioxide is produced than oxygen is consumed and the RQ is, on average, about 0.7 for fat and about 0.8 for protein.</para>
+<para id="fs-idp87370304">The RQ is used to calculate the partial pressure of oxygen in the alveolar spaces within the lung, the <term>alveolar <m:math display="left">
+ <m:mrow>
+  <m:msub>
+   <m:mtext>P</m:mtext>
+   <m:mrow>
+    <m:msub>
+     <m:mtext>O</m:mtext>
+     <m:mtext>2</m:mtext>
+    </m:msub>
+    
+   </m:mrow>
+  </m:msub>
+  
+ </m:mrow>
+</m:math>
+</term> Above, the partial pressure of oxygen in the lungs was calculated to be 150 mm Hg. However, lungs never fully deflate with an exhalation; therefore, the inspired air mixes with this residual air and lowers the partial pressure of oxygen within the alveoli. This means that there is a lower concentration of oxygen in the lungs than is found in the air outside the body. Knowing the RQ, the partial pressure of oxygen in the alveoli can be calculated:</para><equation id="eip-210"><m:math display="left">
+ <m:mrow>
+  <m:msub>
+   <m:mrow>
+    <m:mtext>alveolar&#160;P</m:mtext>
+   </m:mrow>
+   <m:mrow>
+    <m:msub>
+     <m:mtext>O</m:mtext>
+     <m:mtext>2</m:mtext>
+    </m:msub>
+    
+   </m:mrow>
+  </m:msub>
+  <m:msub>
+   <m:mrow>
+    <m:mtext>=&#160;inspired&#160;P</m:mtext>
+   </m:mrow>
+   <m:mrow>
+    <m:msub>
+     <m:mtext>O</m:mtext>
+     <m:mtext>2</m:mtext>
+    </m:msub>
+    
+   </m:mrow>
+  </m:msub>
+  <m:mtext>&#8722;&#160;(</m:mtext><m:mfrac>
+   <m:mrow>
+    <m:msub>
+     <m:mrow>
+      <m:mtext>alveolar&#160;&#160;P</m:mtext>
+     </m:mrow>
+     <m:mrow>
+      <m:msub>
+       <m:mtext>O</m:mtext>
+       <m:mtext>2</m:mtext>
+      </m:msub>
+      
+     </m:mrow>
+    </m:msub>
+    
+   </m:mrow>
+   <m:mrow>
+    <m:mtext>RQ</m:mtext>
+   </m:mrow>
+  </m:mfrac>
+  <m:mtext>)</m:mtext>
+ </m:mrow>
+</m:math>
+</equation><para id="fs-idm216979744">With an RQ of 0.8 and a <m:math display="left">
+ <m:mrow>
+  <m:msub>
+   <m:mtext>P</m:mtext>
+   <m:mrow>
+    <m:msub>
+     <m:mtext>CO</m:mtext>
+     <m:mtext>2</m:mtext>
+    </m:msub>
+    
+   </m:mrow>
+  </m:msub>
+  
+ </m:mrow>
+</m:math>
+ in the alveoli of 40 mm Hg, the alveolar <m:math display="left">
+ <m:mrow>
+  <m:msub>
+   <m:mtext>P</m:mtext>
+   <m:mrow>
+    <m:msub>
+     <m:mtext>O</m:mtext>
+     <m:mtext>2</m:mtext>
+    </m:msub>
+    
+   </m:mrow>
+  </m:msub>
+  
+ </m:mrow>
+</m:math>
+ is equal to:</para><equation id="eip-632"><m:math display="left">
+ <m:mrow>
+  <m:msub>
+   <m:mrow>
+    <m:mtext>alveolar&#160;P</m:mtext>
+   </m:mrow>
+   <m:mrow>
+    <m:msub>
+     <m:mtext>O</m:mtext>
+     <m:mtext>2</m:mtext>
+    </m:msub>
+    
+   </m:mrow>
+  </m:msub>
+  <m:mtext>&#160;=&#160;150&#160;mm&#160;Hg&#160;&#8722;&#160;(</m:mtext><m:mfrac>
+   <m:mrow>
+    <m:mtext>40&#160;mm&#160;Hg</m:mtext>
+   </m:mrow>
+   <m:mrow>
+    <m:mtext>0</m:mtext><m:mtext>.8</m:mtext>
+   </m:mrow>
+  </m:mfrac>
+  <m:mtext>)&#160;=&#160;mm&#160;Hg</m:mtext><m:mtext>.</m:mtext>
+ </m:mrow>
+</m:math>
+</equation><para id="fs-idp14145440">Notice that this pressure is less than the external air. Therefore, the oxygen will flow from the inspired air in the lung (<m:math display="left">
+ <m:mrow>
+  <m:msub>
+   <m:mtext>P</m:mtext>
+   <m:mrow>
+    <m:msub>
+     <m:mtext>O</m:mtext>
+     <m:mtext>2</m:mtext>
+    </m:msub>
+    
+   </m:mrow>
+  </m:msub>
+  
+ </m:mrow>
+</m:math> = 150 mm Hg) into the bloodstream (<m:math display="left">
+ <m:mrow>
+  <m:msub>
+   <m:mtext>P</m:mtext>
+   <m:mrow>
+    <m:msub>
+     <m:mtext>O</m:mtext>
+     <m:mtext>2</m:mtext>
+    </m:msub>
+    
+   </m:mrow>
+  </m:msub>
+  
+ </m:mrow>
+</m:math> = 100 mm Hg)
+ (<link target-id="fig-ch39_02_02" document=""/>).</para><para id="fs-idp57952320">In the lungs, oxygen diffuses out of the alveoli and into the capillaries surrounding the alveoli. Oxygen (about 98 percent) binds reversibly to the respiratory pigment hemoglobin found in red blood cells (RBCs). RBCs carry oxygen to the tissues where oxygen dissociates from the hemoglobin and diffuses into the cells of the tissues. More specifically, alveolar <m:math display="left">
+ <m:mrow>
+  <m:msub>
+   <m:mtext>P</m:mtext>
+   <m:mrow>
+    <m:msub>
+     <m:mtext>O</m:mtext>
+     <m:mtext>2</m:mtext>
+    </m:msub>
+    
+   </m:mrow>
+  </m:msub>
+  
+ </m:mrow>
+</m:math>
+ is higher in the alveoli (<m:math display="left">
+ <m:mrow>
+  <m:msub>
+   <m:mtext>P</m:mtext>
+   <m:mrow>
+    <m:msub>
+     <m:mrow>
+      <m:mtext>ALVO</m:mtext>
+     </m:mrow>
+     <m:mtext>2</m:mtext>
+    </m:msub>
+    
+   </m:mrow>
+  </m:msub>
+  
+ </m:mrow>
+</m:math> = 100 mm Hg)
+ than blood <m:math display="left">
+ <m:mrow>
+  <m:msub>
+   <m:mtext>P</m:mtext>
+   <m:mrow>
+    <m:msub>
+     <m:mtext>O</m:mtext>
+     <m:mtext>2</m:mtext>
+    </m:msub>
+    
+   </m:mrow>
+  </m:msub>
+  
+ </m:mrow>
+</m:math> (40 mm Hg) in the capillaries. Because this pressure gradient exists, oxygen diffuses down its pressure gradient, moving out of the alveoli and entering the blood of the capillaries where O<sub>2</sub> binds to hemoglobin. At the same time, alveolar <m:math display="left">
+ <m:mrow>
+  <m:msub>
+   <m:mtext>P</m:mtext>
+   <m:mrow>
+    <m:msub>
+     <m:mrow>
+      <m:mtext>CO</m:mtext>
+     </m:mrow>
+     <m:mtext>2</m:mtext>
+    </m:msub>
+    
+   </m:mrow>
+  </m:msub>
+  
+ </m:mrow>
+</m:math>
+is lower <m:math display="left">
+ <m:mrow>
+  <m:msub>
+   <m:mtext>P</m:mtext>
+   <m:mrow>
+    <m:msub>
+     <m:mrow>
+      <m:mtext>ALVO</m:mtext>
+     </m:mrow>
+     <m:mtext>2</m:mtext>
+    </m:msub>
+    
+   </m:mrow>
+  </m:msub>
+  
+ </m:mrow>
+</m:math> = 40 mm Hg
+ than blood <m:math display="left">
+ <m:mrow>
+  <m:msub>
+   <m:mtext>P</m:mtext>
+   <m:mrow>
+    <m:msub>
+     <m:mrow>
+      <m:mtext>CO</m:mtext>
+     </m:mrow>
+     <m:mtext>2</m:mtext>
+    </m:msub>
+    
+   </m:mrow>
+  </m:msub>
+  
+ </m:mrow>
+</m:math> = (45 mm Hg). CO<sub>2</sub> diffuses down its pressure gradient, moving out of the capillaries and entering the alveoli.</para><para id="fs-idm25737328">Oxygen and carbon dioxide move independently of each other; they diffuse down their own pressure gradients. As blood leaves the lungs through the pulmonary veins, the <term>venous <m:math display="left">
+ <m:mrow>
+  <m:msub>
+   <m:mtext>P</m:mtext>
+   <m:mrow>
+    <m:msub>
+     <m:mtext>O</m:mtext>
+     <m:mtext>2</m:mtext>
+    </m:msub>
+    
+   </m:mrow>
+  </m:msub>
+  
+ </m:mrow>
+</m:math></term>= 100 mm Hg, whereas the <term>venous <m:math display="left">
+ <m:mrow>
+  <m:msub>
+   <m:mtext>P</m:mtext>
+   <m:mrow>
+    <m:msub>
+     <m:mrow>
+      <m:mtext>CO</m:mtext>
+     </m:mrow>
+     <m:mtext>2</m:mtext>
+    </m:msub>
+    
+   </m:mrow>
+  </m:msub>
+  
+ </m:mrow>
+</m:math> </term>= 40 mm Hg. As blood enters the systemic capillaries, the blood will lose oxygen and gain carbon dioxide because of the pressure difference of the tissues and blood. In systemic capillaries, <m:math display="left">
+ <m:mrow>
+  <m:msub>
+   <m:mtext>P</m:mtext>
+   <m:mrow>
+    <m:msub>
+     <m:mtext>O</m:mtext>
+     <m:mtext>2</m:mtext>
+    </m:msub>
+    
+   </m:mrow>
+  </m:msub>
+  
+ </m:mrow>
+</m:math>= 100 mm Hg, but in the tissue cells, <m:math display="left">
+ <m:mrow>
+  <m:msub>
+   <m:mtext>P</m:mtext>
+   <m:mrow>
+    <m:msub>
+     <m:mtext>O</m:mtext>
+     <m:mtext>2</m:mtext>
+    </m:msub>
+    
+   </m:mrow>
+  </m:msub>
+  
+ </m:mrow>
+</m:math>= 40 mm Hg. This pressure gradient drives the diffusion of oxygen out of the capillaries and into the tissue cells. At the same time, blood <m:math display="left">
+ <m:mrow>
+  <m:msub>
+   <m:mtext>P</m:mtext>
+   <m:mrow>
+    <m:msub>
+     <m:mrow>
+      <m:mtext>CO</m:mtext>
+     </m:mrow>
+     <m:mtext>2</m:mtext>
+    </m:msub>
+    
+   </m:mrow>
+  </m:msub>
+  
+ </m:mrow>
+</m:math>= 40 mm Hg and systemic tissue <m:math display="left">
+ <m:mrow>
+  <m:msub>
+   <m:mtext>P</m:mtext>
+   <m:mrow>
+    <m:msub>
+     <m:mrow>
+      <m:mtext>CO</m:mtext>
+     </m:mrow>
+     <m:mtext>2</m:mtext>
+    </m:msub>
+    
+   </m:mrow>
+  </m:msub>
+  
+ </m:mrow>
+</m:math>= 45 mm Hg. The pressure gradient drives CO<sub>2</sub> out of tissue cells and into the capillaries. The blood returning to the lungs through the pulmonary arteries has a venous <m:math display="left">
+ <m:mrow>
+  <m:msub>
+   <m:mtext>P</m:mtext>
+   <m:mrow>
+    <m:msub>
+     <m:mtext>O</m:mtext>
+     <m:mtext>2</m:mtext>
+    </m:msub>
+    
+   </m:mrow>
+  </m:msub>
+  
+ </m:mrow>
+</m:math>= 40 mm Hg and a <m:math display="left">
+ <m:mrow>
+  <m:msub>
+   <m:mtext>P</m:mtext>
+   <m:mrow>
+    <m:msub>
+     <m:mrow>
+      <m:mtext>CO</m:mtext>
+     </m:mrow>
+     <m:mtext>2</m:mtext>
+    </m:msub>
+    
+   </m:mrow>
+  </m:msub>
+  
+ </m:mrow>
+</m:math>= 45 mm Hg. The blood enters the lung capillaries where the process of exchanging gases between the capillaries and alveoli begins again (<link target-id="fig-ch39_02_02" document=""/>).</para><note id="fs-idm99321840" class="art-connection"><label/><title>Art Connection</title>
+<figure id="fig-ch39_02_02" class=" "><media id="fs-idm68037248" alt="The illustration shows the movement of deoxygenated air into the lungs, and oxygenated air out of the lungs. Also shown is the circulation of blood through the body. Circulation begins when deoxygenated blood in arteries leaves the right side of the heart and enters the lungs. Oxygenated blood exits the lungs, and enters the left side of the heart, which pumps it to the rest of the body via arteries. The partial pressure of oxygen in the atmosphere is 160 millimeters of mercury, and the partial pressure of carbon dioxide is 0.2 millimeters of mercury. The partial pressure of oxygen in the arteries is 100 millimeters of mercury, and the partial pressure of carbon dioxide is 40 millimeters of mercury. The partial pressure of oxygen in the veins is 40 millimeters of mercury, and the partial pressure of carbon dioxide is 46 millimeters of mercury.">
+<image mime-type="image/jpg" src="Figure_39_02_02.png" width="500"/>
+</media>
+<caption>The partial pressures of oxygen and carbon dioxide change as blood moves through the body.</caption></figure><para id="fs-idp107064496">Which of the following statements is false?</para>
+<list id="fs-idm154747424" list-type="enumerated" number-style="lower-alpha"><item>In the tissues, <m:math display="left">
+ <m:mrow>
+  <m:msub>
+   <m:mtext>P</m:mtext>
+   <m:mrow>
+    <m:msub>
+     <m:mtext>O</m:mtext>
+     <m:mtext>2</m:mtext>
+    </m:msub>
+    
+   </m:mrow>
+  </m:msub>
+  
+ </m:mrow>
+</m:math> drops as blood passes from the arteries to the veins, while <m:math display="left">
+ <m:mrow>
+  <m:msub>
+   <m:mtext>P</m:mtext>
+   <m:mrow>
+    <m:msub>
+     <m:mrow>
+      <m:mtext>CO</m:mtext>
+     </m:mrow>
+     <m:mtext>2</m:mtext>
+    </m:msub>
+    
+   </m:mrow>
+  </m:msub>
+  
+ </m:mrow>
+</m:math> increases.</item>
+<item>Blood travels from the lungs to the heart to body tissues, then back to the heart, then the lungs.</item>
+<item>Blood travels from the lungs to the heart to body tissues, then back to the lungs, then the heart.</item>
+<item><m:math display="left">
+ <m:mrow>
+  <m:msub>
+   <m:mtext>P</m:mtext>
+   <m:mrow>
+    <m:msub>
+     <m:mtext>O</m:mtext>
+     <m:mtext>2</m:mtext>
+    </m:msub>
+    
+   </m:mrow>
+  </m:msub>
+  
+ </m:mrow>
+</m:math> is higher in air than in the lungs.</item>
+</list><!--<para><link target-id="fig-ch39_02_02" document=""/> C</para>-->
+</note><para id="fs-idm60425536">In short, the change in partial pressure from the alveoli to the capillaries drives the oxygen into the tissues and the carbon dioxide into the blood from the tissues. The blood is then transported to the lungs where differences in pressure in the alveoli result in the movement of carbon dioxide out of the blood into the lungs, and oxygen into the blood.</para>
+<note id="fs-idm22056048" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idm119551824" alt="QR Code representing a URL">
+<image mime-type="image/png" src="spirometry.png" width="120"/>
+</media>
+<para id="fs-idm78794416">Watch this <link window="new" url="http://openstaxcollege.org/l/spirometry">video</link> to learn how to carry out spirometry.</para>
+</note></section>
+<section id="fs-idp53463968" class="summary">
+<title>Section Summary</title><para id="fs-idp28521840">The lungs can hold a large volume of air, but they are not usually filled to maximal capacity. Lung volume measurements include tidal volume, expiratory reserve volume, inspiratory reserve volume, and residual volume. The sum of these equals the total lung capacity. Gas movement into or out of the lungs is dependent on the pressure of the gas. Air is a mixture of gases; therefore, the partial pressure of each gas can be calculated to determine how the gas will flow in the lung. The difference between the partial pressure of the gas in the air drives oxygen into the tissues and carbon dioxide out of the body.</para>
+</section>
+<section id="fs-idm67849744" class="art-exercise">
+<title>Art Connections</title>
+<exercise id="fs-idm107996752">
+<problem id="fs-idp7628832">
+<para id="fs-idm59413536"><link target-id="fig-ch39_02_02" document=""/> Which of the following statements is false?</para>
+<list id="fs-idm139163568" list-type="enumerated" number-style="lower-alpha"><item>In the tissues, <m:math display="left">
+ <m:mrow>
+  <m:msub>
+   <m:mtext>P</m:mtext>
+   <m:mrow>
+    <m:msub>
+     <m:mrow>
+      <m:mtext>O</m:mtext>
+     </m:mrow>
+     <m:mtext>2</m:mtext>
+    </m:msub>
+    
+   </m:mrow>
+  </m:msub>
+  
+ </m:mrow>
+</m:math> drops as blood passes from the arteries to the veins, while <m:math display="left">
+ <m:mrow>
+  <m:msub>
+   <m:mtext>P</m:mtext>
+   <m:mrow>
+    <m:msub>
+     <m:mrow>
+      <m:mtext>CO</m:mtext>
+     </m:mrow>
+     <m:mtext>2</m:mtext>
+    </m:msub>
+    
+   </m:mrow>
+  </m:msub>
+  
+ </m:mrow>
+</m:math> increases.</item>
+<item>Blood travels from the lungs to the heart to body tissues, then back to the heart, then the lungs.</item>
+<item>Blood travels from the lungs to the heart to body tissues, then back to the lungs, then the heart.</item>
+<item><m:math display="left">
+ <m:mrow>
+  <m:msub>
+   <m:mtext>P</m:mtext>
+   <m:mrow>
+    <m:msub>
+     <m:mrow>
+      <m:mtext>O</m:mtext>
+     </m:mrow>
+     <m:mtext>2</m:mtext>
+    </m:msub>
+    
+   </m:mrow>
+  </m:msub>
+  
+ </m:mrow>
+</m:math> is higher in air than in the lungs.</item>
+</list></problem>
+<solution id="fs-idm97358432">
+<label/>
+<para id="fs-idm180822624"><link target-id="fig-ch39_02_02" document=""/> C</para></solution>
+</exercise>
+</section>
+<section id="fs-idm12576960" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm17333744">
+<problem id="fs-idm69792768"><para id="fs-idm135949216">The inspiratory reserve volume measures the ________.</para>
+<list id="fs-idp13787120" list-type="enumerated" number-style="lower-alpha">
+<item>amount of air remaining in the lung after a maximal exhalation</item>
+<item>amount of air that the lung holds</item>
+<item>amount of air the can be further exhaled after a normal breath</item>
+<item>amount of air that can be further inhaled after a normal breath</item>
+</list>
+</problem>
+<solution id="fs-idp14088704">
+<label/>
+<para id="fs-idm165935552">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idp94151328">
+<problem id="fs-idm98636592"><para id="fs-idp155001696">Of the following, which does not explain why the partial pressure of oxygen is lower in the lung than in the external air?</para>
+<list id="fs-idm102149952" list-type="enumerated" number-style="lower-alpha">
+<item>Air in the lung is humidified; therefore, water vapor pressure alters the pressure.</item>
+<item>Carbon dioxide mixes with oxygen.</item>
+<item>Oxygen is moved into the blood and is headed to the tissues.</item>
+<item>Lungs exert a pressure on the air to reduce the oxygen pressure.</item>
+</list>
+</problem>
+<solution id="fs-idm154683984">
+<label/>
+<para id="fs-idm63990672">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idp155016848">
+<problem id="fs-idm63176976"><para id="fs-idm70412240">The total lung capacity is calculated using which of the following formulas?</para>
+<list id="fs-idp128042624" list-type="enumerated" number-style="lower-alpha">
+<item>residual volume + tidal volume + inspiratory reserve volume</item>
+<item>residual volume + expiratory reserve volume + inspiratory reserve volume</item>
+<item>expiratory reserve volume + tidal volume + inspiratory reserve volume</item>
+<item>residual volume + expiratory reserve volume + tidal volume + inspiratory reserve volume</item>
+</list>
+</problem>
+<solution id="fs-idp658560">
+<label/>
+<para id="fs-idp127549776">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm216907200" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm18432848">
+<problem id="fs-idm16974352"><para id="fs-idm100409488">What does FEV1/FVC measure? What factors may affect FEV1/FVC?</para></problem>
+<solution id="fs-idp74359488"><label/>
+<para id="fs-idm101762640">FEV1/FVC measures the forced expiratory volume in one second in relation to the total forced vital capacity (the total amount of air that is exhaled from the lung from a maximal inhalation). This ratio changes with alterations in lung function that arise from diseases such as fibrosis, asthma, and COPD.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp117922032">
+<problem id="fs-idm144051616"><para id="fs-idm73032112">What is the reason for having residual volume in the lung?</para></problem>
+<solution id="fs-idm146631392"><label/>
+<para id="fs-idp86471616">If all the air in the lung were exhaled, then opening the alveoli for the next inspiration would be very difficult. This is because the tissues would stick together.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm63567952">
+<problem id="fs-idm21227968"><para id="fs-idm82712336">How can a decrease in the percent of oxygen in the air affect the movement of oxygen in the body?</para></problem>
+<solution id="fs-idm151069152"><label/>
+<para id="fs-idm143308832">Oxygen moves from the lung to the bloodstream to the tissues according to the pressure gradient. This is measured as the partial pressure of oxygen. If the amount of oxygen drops in the inspired air, there would be reduced partial pressure. This would decrease the driving force that moves the oxygen into the blood and into the tissues. <m:math display="left">
+ <m:mrow>
+  <m:msub>
+   <m:mtext>P</m:mtext>
+   <m:mrow>
+    <m:msub>
+     <m:mrow>
+      <m:mtext>O</m:mtext>
+     </m:mrow>
+     <m:mtext>2</m:mtext>
+    </m:msub>
+    
+   </m:mrow>
+  </m:msub>
+  
+ </m:mrow>
+</m:math> is also reduced at high elevations: <m:math display="left">
+ <m:mrow>
+  <m:msub>
+   <m:mtext>P</m:mtext>
+   <m:mrow>
+    <m:msub>
+     <m:mrow>
+      <m:mtext>O</m:mtext>
+     </m:mrow>
+     <m:mtext>2</m:mtext>
+    </m:msub>
+    
+   </m:mrow>
+  </m:msub>
+  
+ </m:mrow>
+</m:math> at high elevations is lower than at sea level because the total atmospheric pressure is less than atmospheric pressure at sea level.</para></solution>
+</exercise>
+<exercise id="fs-idp77276032">
+<problem id="fs-idm26106832"><para id="fs-idp89275952">If a patient has increased resistance in his or her lungs, how can this detected by a doctor? What does this mean?</para></problem>
+<solution id="fs-idm105928096"><label/>
+<para id="fs-idp36613856">A doctor can detect a restrictive disease using spirometry. By detecting the rate at which air can be expelled from the lung, a diagnosis of fibrosis or another restrictive disease can be made.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm144195344">
+<term>alveolar <m:math display="left">
+ <m:mrow>
+  <m:msub>
+   <m:mtext>P</m:mtext>
+   <m:mrow>
+    <m:msub>
+     <m:mrow>
+      <m:mtext>O</m:mtext>
+     </m:mrow>
+     <m:mtext>2</m:mtext>
+    </m:msub>
+    
+   </m:mrow>
+  </m:msub>
+ </m:mrow>
+</m:math></term>
+<meaning id="fs-idp87274496">partial pressure of oxygen in the alveoli (usually around 100 mmHg)</meaning>
+</definition>
+<definition id="fs-idm164100544">
+<term>expiratory reserve volume (ERV)</term> <meaning id="fs-idm36383728">amount of additional air that can be exhaled after a normal exhalation</meaning></definition>
+<definition id="fs-idm155885808">
+<term>FEV1/FVC ratio</term> <meaning id="fs-idp28290000">ratio of how much air can be forced out of the lung in one second to the total amount that is forced out of the lung; a measurement of lung function that can be used to detect disease states</meaning>
+</definition>
+<definition id="fs-idm65624032">
+<term>forced expiratory volume (FEV)</term> <meaning id="fs-idp77274320">(also, forced vital capacity) measure of how much air can be forced out of the lung from maximal inspiration over a specific amount of time</meaning>
+</definition>
+<definition id="fs-idp1989952">
+<term>functional residual capacity (FRC)</term> <meaning id="fs-idm115265760">expiratory reserve volume plus residual volume</meaning></definition>
+<definition id="fs-idm151124960">
+<term>inspiratory capacity (IC)</term> <meaning id="fs-idp86452624">tidal volume plus inspiratory reserve volume</meaning>
+</definition>
+<definition id="fs-idm12333376">
+<term>inspiratory reserve volume (IRV)</term> <meaning id="fs-idm113681296">amount of additional air that can be inspired after a normal inhalation</meaning>
+</definition>
+<definition id="fs-idp73845376">
+<term>lung capacity</term> <meaning id="fs-idp52891712">measurement of two or more lung volumes (how much air can be inhaled from the end of an expiration to maximal capacity)</meaning>
+</definition>
+<definition id="fs-idm67670592">
+<term>lung volume</term> <meaning id="fs-idm60433040">measurement of air for one lung function (normal inhalation or exhalation)</meaning>
+</definition>
+<definition id="fs-idm34150992">
+<term>partial pressure</term> <meaning id="fs-idm274647328">amount of pressure exerted by one gas within a mixture of gases</meaning>
+</definition>
+<definition id="fs-idm216541008">
+<term>residual volume (RV)</term> <meaning id="fs-idm102404784">amount of air remaining in the lung after a maximal expiration</meaning>
+</definition>
+<definition id="fs-idp39487024">
+<term>respiratory quotient (RQ)</term> <meaning id="fs-idm98366224">ratio of carbon dioxide production to each oxygen molecule consumed</meaning></definition>
+<definition id="fs-idm114998160">
+<term>spirometry</term> <meaning id="fs-idm67918576">method to measure lung volumes and to diagnose lung diseases</meaning>
+</definition>
+<definition id="fs-idp119019472">
+<term>tidal volume (TV)</term> <meaning id="fs-idm104973424">amount of air that is inspired and expired during normal breathing</meaning>
+</definition>
+<definition id="fs-idp98371936">
+<term>total lung capacity (TLC)</term> <meaning id="fs-idp121132688">sum of the residual volume, expiratory reserve volume, tidal volume, and inspiratory reserve volume</meaning>
+</definition>
+<definition id="fs-idm100241808">
+<term>venous <m:math display="left">
+ <m:mrow>
+  <m:msub>
+   <m:mtext>P</m:mtext>
+   <m:mrow>
+    <m:msub>
+     <m:mrow>
+      <m:mtext>CO</m:mtext>
+     </m:mrow>
+     <m:mtext>2</m:mtext>
+    </m:msub>
+   </m:mrow>
+  </m:msub>
+ </m:mrow>
+</m:math></term>
+<meaning id="fs-idm66022272">partial pressure of carbon dioxide in the veins (40 mm Hg in the pulmonary veins)</meaning>
+</definition>
+<definition id="fs-idm101810240"><term>venous <m:math display="left">
+ <m:mrow>
+  <m:msub>
+   <m:mtext>P</m:mtext>
+   <m:mrow>
+    <m:msub>
+     <m:mrow>
+      <m:mtext>O</m:mtext>
+     </m:mrow>
+     <m:mtext>2</m:mtext>
+    </m:msub>
+   </m:mrow>
+  </m:msub>
+ </m:mrow>
+</m:math></term>
+<meaning id="fs-idp128066928">partial pressure of oxygen in the veins (100 mm Hg in the pulmonary veins)</meaning>
+</definition>
+<definition id="fs-idm84186272">
+<term><emphasis effect="bold">vital capacity (VC)</emphasis></term> <meaning id="fs-idm160775520">sum of the expiratory reserve volume, tidal volume, and inspiratory reserve volume</meaning>
+</definition>
+</glossary>
+</document>

@@ -1,0 +1,388 @@
+<?xml version="1.0"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Structure of Prokaryotes</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml"
+          mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44605/latest</md:content-url>
+  <md:content-id>m44605</md:content-id>
+  <md:title>Structure of Prokaryotes</md:title>
+  <md:version>1.11</md:version>
+  <md:created>2012/08/23 09:21:23 -0500</md:created>
+  <md:revised>2014/03/28 14:09:42 -0500</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax</md:shortname>
+      <md:fullname>OpenStax</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>archaea</md:keyword>
+    <md:keyword>bacteria</md:keyword>
+    <md:keyword>capsule</md:keyword>
+    <md:keyword>cell wall</md:keyword>
+    <md:keyword>conjugation</md:keyword>
+    <md:keyword>Gram negative</md:keyword>
+    <md:keyword>Gram positive</md:keyword>
+    <md:keyword>peptidoglycan</md:keyword>
+    <md:keyword>plasma membrane</md:keyword>
+    <md:keyword>prokaryote</md:keyword>
+    <md:keyword>prokaryote evolution</md:keyword>
+    <md:keyword>prokaryote reproduction</md:keyword>
+    <md:keyword>prokaryotic cell</md:keyword>
+    <md:keyword>S-layer</md:keyword>
+    <md:keyword>teichoic acid</md:keyword>
+    <md:keyword>transduction</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the basic structure of a typical prokaryote</item>
+<item>Describe important differences in structure between Archaea and Bacteria</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idm85226496">There are many differences between prokaryotic and eukaryotic cells. However, all cells have four common structures: the plasma membrane, which functions as a barrier for the cell and separates the cell from its environment; the cytoplasm, a jelly-like substance inside the cell; nucleic acids, the genetic material of the cell; and ribosomes, where protein synthesis takes place. Prokaryotes come in various shapes, but many fall into three categories: cocci (spherical), bacilli (rod-shaped), and spirilli (spiral-shaped) (<link target-id="fig-ch22_02_01" document=""/>).</para>
+<figure id="fig-ch22_02_01">
+<media id="fs-idm76716288" alt="Part a: The micrograph shows ball-shaped cocci about 0.9 microns long. Part b: The micrograph shows hotdog-shaped bacilli about 2 microns long. Part c: The micrograph shows corkscrew-shaped spirilli that are quite long and 2 microns in diameter.">
+<image mime-type="image/jpg" src="Figure_22_02_01abc.jpg" width="550"/>
+</media>
+<caption>Prokaryotes fall into three basic categories based on their shape, visualized here using scanning electron microscopy: (a) cocci, or spherical (a pair is shown); (b) bacilli, or rod-shaped; and (c) spirilli, or spiral-shaped. (credit a: modification of work by Janice Haney Carr, Dr. Richard Facklam, CDC; credit c: modification of work by Dr. David Cox; scale-bar data from Matt Russell)</caption>
+</figure>
+
+<section id="fs-idm38782768">
+<title>The Prokaryotic Cell</title>
+<para id="fs-idm124895072">Recall that prokaryotes (<link target-id="fig-ch22_02_02" document=""/>) are unicellular organisms that lack organelles or other internal membrane-bound structures. Therefore, they do not have a nucleus but instead generally have a single chromosome—a piece of circular, double-stranded DNA located in an area of the cell called the nucleoid. Most prokaryotes have a cell wall outside the plasma membrane.</para>
+<figure id="fig-ch22_02_02">
+<media id="fs-idm1355024" alt="In this illustration, the prokaryotic cell is rod shaped. The circular chromosome is concentrated in a region called the nucleoid. The fluid inside the cell is called the cytoplasm. Ribosomes, depicted as small circles, float in the cytoplasm. The cytoplasm is encased by a plasma membrane, which in turn is encased by a cell wall. A capsule surrounds the cell wall. The bacterium depicted has a flagellum protruding from one narrow end. Pili are small protrusions that project from the capsule all over the bacterium, like hair.">
+<image mime-type="image/jpg" src="Figure_22_02_02.jpg" width="320"/>
+</media>
+<caption>The features of a typical prokaryotic cell are shown.</caption>
+</figure>
+
+<para id="fs-idm79891600">Recall that prokaryotes are divided into two different domains, Bacteria and Archaea, which together with Eukarya, comprise the three domains of life (<link target-id="fig-ch22_02_03" document=""/>).</para>
+<figure id="fig-ch22_02_03">
+<media id="fs-idm37094384" alt=" The trunk of the phylogenetic tree is a universal ancestor. The tree forms two branches. One branch leads to the domain bacteria, which includes the phyla proteobacteria, chlamydias, spirochetes, cyanobacteria, and Gram-positive bacteria. The other branch branches again, into the eukarya and archaea domains. Domain archaea includes the phyla euryarchaeotes, crenarchaeotes, nanoarchaeotes, and korarchaeotea.">
+<image mime-type="image/jpg" src="Figure_22_02_03.jpg" width="320"/>
+</media>
+<caption>Bacteria and Archaea are both prokaryotes but differ enough to be placed in separate domains. An ancestor of modern Archaea is believed to have given rise to Eukarya, the third domain of life. Archaeal and bacterial phyla are shown; the evolutionary relationship between these phyla is still open to debate.</caption>
+</figure>
+
+<para id="fs-idm152038192">The composition of the cell wall differs significantly between the domains Bacteria and Archaea. The composition of their cell walls also differs from the eukaryotic cell walls found in plants (cellulose) or fungi and insects (chitin). The cell wall functions as a protective layer, and it is responsible for the organism’s shape. Some bacteria have an outer <term>capsule</term> outside the cell wall. Other structures are present in some prokaryotic species, but not in others (<link target-id="tab-ch22-02-01" document=""/>). For example, the capsule found in some species enables the organism to attach to surfaces, protects it from dehydration and attack by phagocytic cells, and makes pathogens more resistant to our immune responses. Some species also have flagella (singular, flagellum) used for locomotion, and <term>pili</term> (singular, pilus) used for attachment to surfaces. Plasmids, which consist of extra-chromosomal DNA, are also present in many species of bacteria and archaea.</para>
+
+<para id="fs-idp91177152">Characteristics of phyla of Bacteria are described in <link target-id="fig-ch22_02_04" document=""/> and <link target-id="fig-ch22_02_05" document=""/>; Archaea are described in <link target-id="fig-ch22_02_06" document=""/>.</para><figure id="fig-ch22_02_04" class=" "><media id="fs-idm95259568" alt="Characteristics of the five phyla of bacteria are described. The first phylum described is proteobacteria, which includes five classes, alpha, beta, gamma, delta and epsilon. Most species of Alpha Proteobacteria are photoautotrophic but some are symbionts of plants and animals, and others are pathogens. Eukaryotic mitochondria are thought be derived from bacteria in this group. Representative species include Rhizobium, a nitrogen-fixing endosymbiont associated with the roots of legumes, and Rickettsia, obligate intracellular parasite that causes typhus and Rocky Mountain Spotted Fever (but not rickets, which is caused by Vitamin C deficiency). A micrograph shows rod-shaped Rickettsia rickettsii inside a much larger eukaryotic cell. Beta Proteobacteria is a diverse group of bacteria. Some species play an important role in the nitrogen cycle. Representative species include Nitrosomas, which oxidize ammonia into nitrate, and Spirillum minus, which causes rat bite fever. A micrograph of spiral-shaped Spirillum minus is shown. Gamma Proteobacteria include many are beneficial symbionts that populate the human gut, as well as familiar human pathogens. Some species from this subgroup oxidize sulfur compounds. Representative species include Escherichia coli, normally beneficial microbe of the human gut, but some strains cause disease; Salmonella, certain strains of which cause food poisoning, and typhoid fever; Yersinia pestis&#x2013;the causative agent of  Bubonic plague; Psuedomonas aeruganosa&#x2013; causes lung infections; Vibrio cholera, the causative agent of cholera, and Chromatium&#x2013;sulfur producing bacteria bacteria that oxidize sulfur, producing H2S. Micrograph shows rod-shaped Vibrio cholera, which are about 1 micron long. Some species of delta Proteobacteria generate a spore-forming fruiting body in adverse conditions. Others reduce sulfate and sulfur. Representative species include Myxobacteria, which generate spore-forming fruiting bodies in adverse conditions and Desulfovibrio vulgaris, an aneorobic, sulfur-reducing bacterium. Micrograph shows a bent rod-shaped Desulfovibrio vulgaris bacterium with a long flagellum. Epsilon Proteobacteria includes many species that inhabit the digestive tract of animals as symbionts or pathogens. Bacteria from this group have been found in deep-sea hydrothermal vents and cold seep habitats. The next phylum described is chlamydias. All members of this group are obligate intracellular parasites of animal cells. Cells walls lack peptidoglycan. Micrograph shows a pap smear of cells infected with Chlamydia trachomatis. Chlamydia infection is the most common sexually transmitted disease and can lead to blindness. All members of the phylum Spirochetes have spiral-shaped cells. Most are free-living anaerobes, but some are pathogenic. Flagella run lengthwise in the periplasmic space between the inner and outer membrane. Representative species include Treponema pallidum, the causative agent of syphilis and Borrelia burgdorferi, the causative agent of Lyme disease Micrograph shows corkscrew-shaped Trepanema pallidum, about 1 micron across. Bacteria in the phylum Cyanobacteria, also known as blue-green algae, obtain their energy through photosynthesis. They are ubiquitous, found in terrestrial, marine, and freshwater environments. Eukaryotic chloroplasts are thought be derived from bacteria in this group.  The cyanobacterium Prochlorococcus is believed to be the most abundant photosynthetic organism on earth, responsible for generating half the world&#x2019;s oxygen. Micrograph shows a long, thin rod-shaped species called Phormidium. Gram-positive Bacteria have a thick cell wall and lack an outer membrane. Soil-dwelling members of this subgroup decompose organic matter. Some species cause disease. Representative species include Bacillus anthracis, which causes anthrax; Clostridium botulinum, which causes botulism; Clostridium difficile, which causes diarrhea during antibiotic therapy; Streptomyces, from which many antibiotics, including streptomyocin, are derived; and Mycoplasmas, the smallest known bacteria, which lack a cell wall. Some are free-living, and some are pathogenic. Micrograph shows Clostridium difficile, which are rod-shaped and about 3 microns long.">
+<image mime-type="image/jpg" src="Figure_22_02_04f.jpg" width="550"/>
+</media>
+
+<caption>Phylum Proteobacteria is one of up to 52 bacteria phyla. Proteobacteria is further subdivided into five classes, Alpha through Epsilon. (credit “Rickettsia rickettsia”: modification of work by CDC; credit “Spirillum minus”: modification of work by Wolframm Adlassnig; credit “Vibrio cholera”: modification of work by Janice Haney Carr, CDC; credit “Desulfovibrio vulgaris”: modification of work by Graham Bradley; credit “Campylobacter”: modification of work by De Wood, Pooley, USDA, ARS, EMU; scale-bar data from Matt Russell)</caption></figure><figure id="fig-ch22_02_05" class=" "><media id="fs-idp3207504" alt="">
+<image mime-type="image/jpg" src="Figure_22_02_05f.jpg" width="550"/>
+</media>
+
+<caption>Chlamydia, Spirochetes, Cyanobacteria, and Gram-positive bacteria are described in this table. Note that bacterial shape is not phylum-dependent; bacteria within a phylum may be cocci, rod-shaped, or spiral. (credit “Chlamydia trachomatis”: modification of work by Dr. Lance Liotta Laboratory, NCI; credit “Treponema pallidum”: modification of work by Dr. David Cox, CDC; credit “Phormidium”: modification of work by USGS; credit “Clostridium difficile”: modification of work by Lois S. Wiggs, CDC; scale-bar data from Matt Russell)</caption></figure><figure id="fig-ch22_02_06" class=" "><media id="fs-idm89358080" alt="Characteristics of the four phyla of archaea are described. Euryarchaeotes includes methanogens, which produce methane as a metabolic waste product, and halobacteria, which live in an extreme saline environment. Methanogens cause flatulence in humans and other animals. Halobacteria can grow in large blooms that appear reddish, due to the presence of bacterirhodopsin in the membrane. Bacteriorhodopsin is related to the retinal pigment rhodopsin. Micrograph shows rod-shaped Halobacterium. Members of the ubiquitous Crenarchaeotes phylum play an important role in the fixation of carbon. Many members of this group are sulfur-dependent extremophiles. Some are thermophilic or hyperthermophilic. Micrograph shows cocci-shaped Sulfolobus, a genus which grows in volcanic springs at temperatures between 75&#xB0; and 80&#xB0;C and at a pH between 2 and 3. The phylum Nanoarchaeotes currently contains only one species, Nanoarchaeum equitans, which has been isolated from the bottom of the Atlantic Ocean, and from the a hydrothermal vent at Yellowstone National Park. It is an obligate symbiont with Ignococcus, another species of archaebacteria. Micrograph shows two small, round N. equitans cells attached to a larger Ignococcus cell. Korarchaeotes are considered to be one of the most primitive forms of life and so far have only been found in the Obsidian Pool, a hot spring at Yellowstone National Park. Micrograph shows a variety of specimens from this group which vary in shape.">
+<image mime-type="image/jpg" src="Figure_22_02_06f.jpg" width="550"/>
+</media>
+
+<caption>Archaea are separated into four phyla: the Korarchaeota, Euryarchaeota, Crenarchaeota, and Nanoarchaeota. (credit “Halobacterium”: modification of work by NASA; credit “Nanoarchaeotum equitans”: modification of work by Karl O. Stetter; credit “korarchaeota”: modification of work by Office of Science of the U.S. Dept. of Energy; scale-bar data from Matt Russell)</caption></figure><section id="fs-idm139848016">
+<title>The Plasma Membrane</title>
+<para id="fs-idm15011632">The plasma membrane is a thin lipid bilayer (6 to 8 nanometers) that completely surrounds the cell and separates the inside from the outside. Its selectively permeable nature keeps ions, proteins, and other molecules within the cell and prevents them from diffusing into the extracellular environment, while other molecules may move through the membrane. Recall that the general structure of a cell membrane is a phospholipid bilayer composed of two layers of lipid molecules. In archaeal cell membranes, isoprene (phytanyl) chains linked to glycerol replace the fatty acids linked to glycerol in bacterial membranes. Some archaeal membranes are lipid monolayers instead of bilayers (<link target-id="fig-ch22_02_06" document=""/>).</para>
+<figure id="fig-ch22_02_07">
+<media id="fs-idm82614224" alt="This illustration compares phospholipids from Bacteria and Eukarya to those from Archaea. In Bacteria and Eukarya, fatty acids are attached to glycerol by an ester linkage, while in Archaea, isoprene chains are linked to glycerol by an ether linkage. In the ester linkage, the first carbon in the fatty acid chain has an oxygen double-bonded to it, whereas in the ether linkage, it does not. In Archaea, the isoprene chains have methyl groups branching off from them, whereas such branches are absent in Bacteria and Eukarya.  Both types of phospholipids result in similar lipid bilayers.">
+<image mime-type="image/jpg" src="Figure_22_02_07f.jpg" width="320"/>
+</media>
+<caption>Archaeal phospholipids differ from those found in Bacteria and Eukarya in two ways. First, they have branched phytanyl sidechains instead of linear ones. Second, an ether bond instead of an ester bond connects the lipid to the glycerol.</caption>
+</figure>
+</section>
+<section id="fs-idm119234768">
+<title>The Cell Wall</title>
+<para id="fs-idp32284912">The cytoplasm of prokaryotic cells has a high concentration of dissolved solutes. Therefore, the osmotic pressure within the cell is relatively high. The cell wall is a protective layer that surrounds some cells and gives them shape and rigidity. It is located outside the cell membrane and prevents osmotic lysis (bursting due to increasing volume). The chemical composition of the cell walls varies between archaea and bacteria, and also varies between bacterial species.</para>
+<para id="fs-idm127608656">Bacterial cell walls contain <term>peptidoglycan</term>, composed of polysaccharide chains that are cross-linked by unusual peptides containing both L- and D-amino acids including D-glutamic acid and D-alanine. Proteins normally have only L-amino acids; as a consequence, many of our antibiotics work by mimicking D-amino acids and therefore have specific effects on bacterial cell wall development. There are more than 100 different forms of peptidoglycan. <term>S-layer</term> (surface layer) proteins are also present on the outside of cell walls of both archaea and bacteria.</para>
+<para id="fs-idm127068896">Bacteria are divided into two major groups: <term>Gram positive</term> and <term>Gram negative</term>, based on their reaction to Gram staining. Note that all Gram-positive bacteria belong to one phylum; bacteria in the other phyla (Proteobacteria, Chlamydias, Spirochetes, Cyanobacteria, and others) are Gram-negative. The Gram staining method is named after its inventor, Danish scientist Hans Christian Gram (1853–1938). The different bacterial responses to the staining procedure are ultimately due to cell wall structure. Gram-positive organisms typically lack the outer membrane found in Gram-negative organisms (<link target-id="fig-ch22_02_07" document=""/>). Up to 90 percent of the cell wall in Gram-positive bacteria is composed of peptidoglycan, and most of the rest is composed of acidic substances called <term>teichoic acids</term>. Teichoic acids may be covalently linked to lipids in the plasma membrane to form lipoteichoic acids. Lipoteichoic acids anchor the cell wall to the cell membrane. Gram-negative bacteria have a relatively thin cell wall composed of a few layers of peptidoglycan (only 10 percent of the total cell wall), surrounded by an outer envelope containing lipopolysaccharides (LPS) and lipoproteins. This outer envelope is sometimes referred to as a second lipid bilayer. The chemistry of this outer envelope is very different, however, from that of the typical lipid bilayer that forms plasma membranes.</para><note id="fs-idm127242096" class="art-connection"><label/><title>Art Connection</title>
+<figure id="fig-ch22_02_08"><media id="fs-idm85178400" alt="The left illustration shows the cell wall of Gram-positive bacteria. The cell wall is a thick layer of peptidoglycan that exists outside the plasma membrane. A long, thin molecule called lipoteichoic acid anchors the cell wall to the cell membrane. The right illustration shows Gram-negative bacteria. In Gram-negative bacteria, a thin peptidoglycan cell wall is sandwiched between an outer and an inner plasma membrane. The space between the two membranes is called the periplasmic space. Lipoproteins anchor the cell wall to the outer membrane. Lipopolysaccharides protrude from the outer membrane. Porins are proteins in the outer membrane that allow entry of substances.">
+<image mime-type="image/jpg" src="Figure_22_02_08f.png" width="420"/>
+</media>
+
+<caption>Bacteria are divided into two major groups: Gram positive and Gram negative. Both groups have a cell wall composed of peptidoglycan: in Gram-positive bacteria, the wall is thick, whereas in Gram-negative bacteria, the wall is thin. In Gram-negative bacteria, the cell wall is surrounded by an outer membrane that contains lipopolysaccharides and lipoproteins. Porins are proteins in this cell membrane that allow substances to pass through the outer membrane of Gram-negative bacteria. In Gram-positive bacteria, lipoteichoic acid anchors the cell wall to the cell membrane. (credit: modification of work by "Franciscosp2"/Wikimedia Commons)</caption></figure><para id="fs-idm139009008">Which of the following statements is true?</para>
+<list id="fs-idm96911856" list-type="enumerated" number-style="lower-alpha"><item>Gram-positive bacteria have a single cell wall anchored to the cell membrane by lipoteichoic acid.</item>
+<item>Porins allow entry of substances into both Gram-positive and Gram-negative bacteria.</item>
+<item>The cell wall of Gram-negative bacteria is thick, and the cell wall of Gram-positive bacteria is thin.</item>
+<item>Gram-negative bacteria have a cell wall made of peptidoglycan, whereas Gram-positive bacteria have a cell wall made of lipoteichoic acid.</item>
+</list><!--<para><link target-id="fig-ch22_02_07" document=""/> A</para>-->
+</note><para id="fs-idm66602256">Archaean cell walls do not have peptidoglycan. There are four different types of Archaean cell walls. One type is composed of <term>pseudopeptidoglycan</term>, which is similar to peptidoglycan in morphology but contains different sugars in the polysaccharide chain. The other three types of cell walls are composed of polysaccharides, glycoproteins, or pure protein.</para>
+<table id="tab-ch22-02-01" class=" " summary="">
+<tgroup cols="1">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col3" align="left">Structural Differences and Similarities between Bacteria and Archaea</entry>
+</row>
+<row>
+<entry>Structural Characteristic</entry>
+<entry>Bacteria</entry>
+<entry>Archaea</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Cell type</entry>
+<entry>Prokaryotic</entry>
+<entry>Prokaryotic</entry>
+</row>
+<row>
+<entry>Cell morphology</entry>
+<entry>Variable</entry>
+<entry>Variable</entry>
+</row>
+<row>
+<entry>Cell wall</entry>
+<entry>Contains peptidoglycan</entry>
+<entry>Does not contain peptidoglycan</entry>
+</row>
+<row>
+<entry>Cell membrane type</entry>
+<entry>Lipid bilayer</entry>
+<entry>Lipid bilayer or lipid monolayer</entry>
+</row>
+<row>
+<entry>Plasma membrane lipids</entry>
+<entry>Fatty acids</entry>
+<entry>Phytanyl groups</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</section>
+</section>
+<section id="fs-idm82895440">
+<title>Reproduction</title>
+<para id="fs-idp45274352">Reproduction in prokaryotes is asexual and usually takes place by binary fission. Recall that the DNA of a prokaryote exists as a single, circular chromosome. Prokaryotes do not undergo mitosis. Rather the chromosome is replicated and the two resulting copies separate from one another, due to the growth of the cell. The prokaryote, now enlarged, is pinched inward at its equator and the two resulting cells, which are clones, separate. Binary fission does not provide an opportunity for genetic recombination or genetic diversity, but prokaryotes can share genes by three other mechanisms.</para>
+<para id="fs-idm89113728">In <term>transformation</term>, the prokaryote takes in DNA found in its environment that is shed by other prokaryotes. If a nonpathogenic bacterium takes up DNA for a toxin gene from a pathogen and incorporates the new DNA into its own chromosome, it too may become pathogenic. In <term>transduction</term>, bacteriophages, the viruses that infect bacteria, sometimes also move short pieces of chromosomal DNA from one bacterium to another. Transduction results in a recombinant organism. Archaea are not affected by bacteriophages but instead have their own viruses that translocate genetic material from one individual to another. In <term>conjugation</term>, DNA is transferred from one prokaryote to another by means of a pilus, which brings the organisms into contact with one another. The DNA transferred can be in the form of a plasmid or as a hybrid, containing both plasmid and chromosomal DNA. These three processes of DNA exchange are shown in <link target-id="fig-ch22_02_09" document=""/>.</para><para id="fs-idm125417776">Reproduction can be very rapid: a few minutes for some species. This short generation time coupled with mechanisms of genetic recombination and high rates of mutation result in the rapid evolution of prokaryotes, allowing them to respond to environmental changes (such as the introduction of an antibiotic) very quickly.</para>
+<figure id="fig-ch22_02_09"><media id="fs-idm126418288" alt=" Illustration A shows a small, circular piece of DNA being absorbed by a cell. Illustration C shows a bacteriophage injecting DNA into a prokaryotic cell. The DNA then gets incorporated in the genome. Illustration C shows two bacteria connected by a pilus. A small loop of DNA is transferred from one cell to another via the pilus.">
+<image mime-type="image/jpg" src="Figure_22_02_09f.jpg" width="445"/>
+</media>
+
+<caption>Besides binary fission, there are three other mechanisms by which prokaryotes can exchange DNA. In (a) transformation, the cell takes up prokaryotic DNA directly from the environment. The DNA may remain separate as plasmid DNA or be incorporated into the host genome. In (b) transduction, a bacteriophage injects DNA into the cell that contains a small fragment of DNA from a different prokaryote. In (c) conjugation, DNA is transferred from one cell to another via a mating bridge that connects the two cells after the sex pilus draws the two bacteria close enough to form the bridge.</caption></figure><note id="fs-idm42143488" class="evolution"><label/><title>Evolution Connection</title>
+
+<para id="fs-idm137116752"><title>The Evolution of Prokaryotes</title>How do scientists answer questions about the evolution of prokaryotes? Unlike with animals, artifacts in the fossil record of prokaryotes offer very little information. Fossils of ancient prokaryotes look like tiny bubbles in rock. Some scientists turn to genetics and to the principle of the molecular clock, which holds that the more recently two species have diverged, the more similar their genes (and thus proteins) will be. Conversely, species that diverged long ago will have more genes that are dissimilar.</para>
+<para id="fs-idm123553264">Scientists at the NASA Astrobiology Institute and at the European Molecular Biology Laboratory collaborated to analyze the molecular evolution of 32 specific proteins common to 72 species of prokaryotes.<sup><footnote id="fs-idm97978880">Battistuzzi, FU, Feijao, A, and Hedges, SB. A genomic timescale of prokaryote evolution: Insights into the origin of methanogenesis, phototrophy, and the colonization of land. <emphasis effect="italics">BioMed Central: Evolutionary Biology</emphasis> 4 (2004): 44, doi:10.1186/1471-2148-4-44.</footnote></sup> The model they derived from their data indicates that three important groups of bacteria—Actinobacteria, <emphasis effect="italics">Deinococcus</emphasis>, and Cyanobacteria (which the authors call <emphasis effect="italics">Terrabacteria</emphasis>)—were the first to colonize land. (Recall that <emphasis effect="italics">Deinococcus </emphasis>is a genus of prokaryote—a bacterium—that is highly resistant to ionizing radiation.) Cyanobacteria are photosynthesizers, while Actinobacteria are a group of very common bacteria that include species important in decomposition of organic wastes.</para><para id="fs-idm19435648">The timelines of divergence suggest that bacteria (members of the domain Bacteria) diverged from common ancestral species between 2.5 and 3.2 billion years ago, whereas archaea diverged earlier: between 3.1 and 4.1 billion years ago. Eukarya later diverged off the Archaean line. The work further suggests that stromatolites that formed prior to the advent of cyanobacteria (about 2.6 billion years ago) photosynthesized in an anoxic environment and that because of the modifications of the Terrabacteria for land (resistance to drying and the possession of compounds that protect the organism from excess light), photosynthesis using oxygen may be closely linked to adaptations to survive on land.</para>
+</note></section>
+<section id="fs-idp31081552" class="summary">
+<title>Section Summary</title><para id="fs-idm102307872">Prokaryotes (domains Archaea and Bacteria) are single-celled organisms lacking a nucleus. They have a single piece of circular DNA in the nucleoid area of the cell. Most prokaryotes have a cell wall that lies outside the boundary of the plasma membrane. Some prokaryotes may have additional structures such as a capsule, flagella, and pili. Bacteria and Archaea differ in the lipid composition of their cell membranes and the characteristics of the cell wall. In archaeal membranes, phytanyl units, rather than fatty acids, are linked to glycerol. Some archaeal membranes are lipid monolayers instead of bilayers.</para>
+<para id="fs-idm128807552">The cell wall is located outside the cell membrane and prevents osmotic lysis. The chemical composition of cell walls varies between species. Bacterial cell walls contain peptidoglycan. Archaean cell walls do not have peptidoglycan, but they may have pseudopeptidoglycan, polysaccharides, glycoproteins, or protein-based cell walls. Bacteria can be divided into two major groups: Gram positive and Gram negative, based on the Gram stain reaction. Gram-positive organisms have a thick cell wall, together with teichoic acids. Gram-negative organisms have a thin cell wall and an outer envelope containing lipopolysaccharides and lipoproteins.</para>
+</section>
+<section id="fs-idp1514448" class="art-exercise">
+<title>Art Connections</title>
+<exercise id="fs-idm151483248">
+<problem id="fs-idm85621936">
+<para id="fs-idp18829584"><link target-id="fig-ch22_02_07" document=""/> Which of the following statements is true?</para>
+<list id="fs-idm33284688" list-type="enumerated" number-style="lower-alpha"><item>Gram-positive bacteria have a single cell wall anchored to the cell membrane by lipoteichoic acid.</item>
+<item>Porins allow entry of substances into both Gram-positive and Gram-negative bacteria.</item>
+<item>The cell wall of Gram-negative bacteria is thick, and the cell wall of Gram-positive bacteria is thin.</item>
+<item>Gram-negative bacteria have a cell wall made of peptidoglycan, whereas Gram-positive bacteria have a cell wall made of lipoteichoic acid.</item>
+</list></problem>
+<solution id="fs-idm140419776">
+<label/>
+<para id="fs-idm123993984"><link target-id="fig-ch22_02_07" document=""/> A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm86270176" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp317200">
+<problem id="fs-idm86415728">
+<para id="fs-idm127670672">The presence of a membrane-enclosed nucleus is a characteristic of ________.</para>
+<list id="fs-idp37958752" list-type="enumerated" number-style="lower-alpha">
+<item>prokaryotic cells</item>
+<item>eukaryotic cells</item>
+<item>all cells</item>
+<item>viruses</item>
+</list>
+</problem>
+<solution id="fs-idm1501120">
+<label/>
+<para id="fs-idm118841872">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idp45217456">
+<problem id="fs-idm145428368">
+<para id="fs-idp31261392">Which of the following consist of prokaryotic cells?</para>
+<list id="fs-idm135069792" list-type="enumerated" number-style="lower-alpha">
+<item>bacteria and fungi</item>
+<item>archaea and fungi</item>
+<item>protists and animals</item>
+<item>bacteria and archaea</item>
+</list>
+</problem>
+<solution id="fs-idm133312144">
+<label/>
+<para id="fs-idm33271056">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm38396544">
+<problem id="fs-idp78478320">
+<para id="fs-idp40094080">The cell wall is ________.</para>
+<list id="fs-idp31746480" list-type="enumerated" number-style="lower-alpha">
+<item>interior to the cell membrane</item>
+<item>exterior to the cell membrane</item>
+<item>a part of the cell membrane</item>
+<item>interior or exterior, depending on the particular cell</item>
+</list>
+</problem>
+<solution id="fs-idm90835792">
+<label/>
+<para id="fs-idm199771888">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm178498368">
+<problem id="fs-idm83355104">
+<para id="fs-idm86321616">Organisms most likely to be found in extreme environments are ________.</para>
+<list id="fs-idm42252976" list-type="enumerated" number-style="lower-alpha">
+<item>fungi</item>
+<item>bacteria</item>
+<item>viruses</item>
+<item>archaea</item>
+</list>
+</problem>
+<solution id="fs-idm119275136">
+<label/>
+<para id="fs-idm83201744">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm223022752">
+<problem id="fs-idm66602464">
+<para id="fs-idm65934000">Prokaryotes stain as Gram-positive or Gram-negative because of differences in the cell _______.</para>
+<list id="fs-idp15991088" list-type="enumerated" number-style="lower-alpha">
+<item>wall</item>
+<item>cytoplasm</item>
+<item>nucleus</item>
+<item>chromosome</item>
+</list>
+</problem>
+<solution id="fs-idp2526304">
+<label/>
+<para id="fs-idp138602528">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm99890064">
+<problem id="fs-idm99686752">
+<para id="fs-idm88839184">Pseudopeptidoglycan is a characteristic of the walls of ________.</para>
+<list id="fs-idm56414768" list-type="enumerated" number-style="lower-alpha">
+<item>eukaryotic cells</item>
+<item>bacterial prokaryotic cells</item>
+<item>archaean prokaryotic cells</item>
+<item>bacterial and archaean prokaryotic cells</item>
+</list>
+</problem>
+<solution id="fs-idm68737344">
+<label/>
+<para id="fs-idm50169120">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm220121616">
+<problem id="fs-idm125872320">
+<para id="fs-idm122102160">The lipopolysaccharide layer (LPS) is a characteristic of the wall of ________.</para>
+<list id="fs-idm98353568" list-type="enumerated" number-style="lower-alpha">
+<item>archaean cells</item>
+<item>Gram-negative bacteria</item>
+<item>bacterial prokaryotic cells</item>
+<item>eukaryotic cells</item>
+</list>
+</problem>
+<solution id="fs-idp79680208">
+<label/>
+<para id="fs-idm123210656">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm102265520" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idp2230864">
+<problem id="fs-idp30826688">
+<para id="fs-idm47124128">Mention three differences between bacteria and archaea.</para>
+</problem>
+<solution id="fs-idm43339376">
+<label/>
+<para id="fs-idm82221056">Responses will vary. A possible answer is: Bacteria contain peptidoglycan in the cell wall; archaea do not. The cell membrane in bacteria is a lipid bilayer; in archaea, it can be a lipid bilayer or a monolayer. Bacteria contain fatty acids on the cell membrane, whereas archaea contain phytanyl.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm16804992">
+<problem id="fs-idp4363264">
+<para id="fs-idm71968304">Explain the statement that both types, bacteria and archaea, have the same basic structures, but built from different chemical components.</para>
+</problem>
+<solution id="fs-idm143870304">
+<label/>
+<para id="fs-idp72579712">Both bacteria and archaea have cell membranes and they both contain a hydrophobic portion. In the case of bacteria, it is a fatty acid; in the case of archaea, it is a hydrocarbon (phytanyl). Both bacteria and archaea have a cell wall that protects them. In the case of bacteria, it is composed of peptidoglycan, whereas in the case of archaea, it is pseudopeptidoglycan, polysaccharides, glycoproteins, or pure protein. Bacterial and archaeal flagella also differ in their chemical structure.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm128766688">
+<term>capsule</term> <meaning id="fs-idm186157248">external structure that enables a prokaryote to attach to surfaces and protects it from dehydration</meaning>
+</definition>
+<definition id="fs-idm127794960">
+<term>conjugation</term> <meaning id="fs-idm146587280">process by which prokaryotes move DNA from one individual to another using a pilus</meaning>
+</definition>
+<definition id="fs-idp76598992">
+<term>Gram negative</term> <meaning id="fs-idm127572656">bacterium whose cell wall contains little peptidoglycan but has an outer membrane</meaning>
+</definition>
+<definition id="fs-idm123263008">
+<term>Gram positive</term> <meaning id="fs-idm82923200">bacterium that contains mainly peptidoglycan in its cell walls</meaning>
+</definition>
+<definition id="fs-idm117464256">
+<term>peptidoglycan</term> <meaning id="fs-idm80853072">material composed of polysaccharide chains cross-linked to unusual peptides</meaning>
+</definition>
+<definition id="fs-idm98380544">
+<term>pilus</term> <meaning id="fs-idp70306416">surface appendage of some prokaryotes used for attachment to surfaces including other prokaryotes</meaning>
+</definition>
+<definition id="fs-idm81749600">
+<term>pseudopeptidoglycan</term> <meaning id="fs-idm41176864">component of archaea cell walls that is similar to peptidoglycan in morphology but contains different sugars</meaning>
+</definition>
+<definition id="fs-idm83597232">
+<term>S-layer</term> <meaning id="fs-idm3609520">surface-layer protein present on the outside of cell walls of archaea and bacteria</meaning>
+</definition>
+<definition id="fs-idm116633488">
+<term>teichoic acid</term> <meaning id="fs-idm19321440">polymer associated with the cell wall of Gram-positive bacteria</meaning>
+</definition>
+<definition id="fs-idm134729152">
+<term>transduction</term> <meaning id="fs-idm139043984">process by which a bacteriophage moves DNA from one prokaryote to another</meaning>
+</definition>
+<definition id="fs-idm99839056">
+<term>transformation</term> <meaning id="fs-idm125852720">process by which a prokaryote takes in DNA found in its environment that is shed by other prokaryotes</meaning>
+</definition>
+</glossary>
+</document>

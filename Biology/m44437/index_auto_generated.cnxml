@@ -1,0 +1,189 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Oxidative Phosphorylation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44437/latest/</md:content-url>
+  <md:content-id>m44437</md:content-id>
+  <md:title>Oxidative Phosphorylation</md:title>
+  <md:version>1.7</md:version>
+  <md:created>2012/08/23 10:47:01 -0500</md:created>
+  <md:revised>2013/06/04 09:26:22.533 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>ATP synthase</md:keyword>
+    <md:keyword>ATP yield</md:keyword>
+    <md:keyword>cellular respiration</md:keyword>
+    <md:keyword>chemiosmosis</md:keyword>
+    <md:keyword>complex I</md:keyword>
+    <md:keyword>complex II</md:keyword>
+    <md:keyword>complex III</md:keyword>
+    <md:keyword>complex IV</md:keyword>
+    <md:keyword>electron transport chain</md:keyword>
+    <md:keyword>oxidative phosphorylation</md:keyword>
+    <md:keyword>prosthetic</md:keyword>
+    <md:keyword>ubiquinone</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe how electrons move through the electron transport chain and what happens to their energy levels</item>
+<item>Explain how a proton (H<sup>+</sup>) gradient is established and maintained by the electron transport chain</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-id2232480">You have just read about two pathways in glucose catabolism&#8212;glycolysis and the citric acid cycle&#8212;that generate ATP. Most of the ATP generated during the aerobic catabolism of glucose, however, is not generated directly from these pathways. Rather, it is derived from a process that begins with moving electrons through a series of electron transporters that undergo redox reactions. This causes hydrogen ions to accumulate within the matrix space. Therefore, a concentration gradient forms in which hydrogen ions diffuse out of the matrix space by passing through ATP synthase. The current of hydrogen ions powers the catalytic action of ATP synthase, which phosphorylates ADP, producing ATP.</para><section id="fs-id2026052">
+<title>Electron Transport Chain</title>
+    <para id="fs-id1286890">The electron transport chain (<link target-id="fig-ch07_04_01" document=""/>) is the last component of aerobic respiration and is the only part of glucose metabolism that uses atmospheric oxygen. Oxygen continuously diffuses into plants; in animals, it enters the body through the respiratory system. Electron transport is a series of redox reactions that resemble a relay race or bucket brigade in that electrons are passed rapidly from one component to the next, to the endpoint of the chain where the electrons reduce molecular oxygen, producing water. There are four complexes composed of proteins, labeled I through IV in  <link target-id="fig-ch07_04_01" document=""/>, and the aggregation of these four complexes, together with associated mobile, accessory electron carriers, is called the electron transport chain. The electron transport chain is present in multiple copies in the inner mitochondrial membrane of eukaryotes and the plasma membrane of prokaryotes.</para>
+<figure id="fig-ch07_04_01"><media id="fs-id1600050" alt="This illustration shows the electron transport chain embedded in the inner mitochondrial membrane. The electron transport chain consists of four electron complexes. Complex I oxidizes NADH to NAD^^{+} and simultaneously pumps a proton across the membrane to the inter membrane space. The two electrons released from NADH are shuttled to coenzyme Q, then to complex III, to cytochrome c, to complex IV, then to molecular oxygen. In the process, two more protons are pumped across the membrane to the intermembrane space, and molecular oxygen is reduced to form water. Complex II removes two electrons from FADH_{2}, thereby forming FAD. The electrons are shuttled to coenzyme Q, then to complex III, cytochrome c, complex I, and molecular oxygen as in the case of NADH oxidation.">
+<image mime-type="image/jpg" src="Figure_07_04_01.jpg" width="320"/>
+</media>
+<caption>The electron transport chain is a series of electron transporters embedded in the inner mitochondrial membrane that shuttles electrons from NADH and FADH<sub>2</sub> to molecular oxygen. In the process, protons are pumped from the mitochondrial matrix to the intermembrane space, and oxygen is reduced to form water.
+</caption></figure><section id="fs-id2186394">
+<title>Complex I</title>
+<para id="fs-id2321845">To start, two electrons are carried to the first complex aboard NADH. This complex, labeled I, is composed of flavin mononucleotide (FMN) and an iron-sulfur (Fe-S)-containing protein. FMN, which is derived from vitamin B<sub>2,</sub> also called riboflavin, is one of several prosthetic groups or co-factors in the electron transport chain. A <term>prosthetic group</term> is a non-protein molecule required for the activity of a protein. Prosthetic groups are organic or inorganic, non-peptide molecules bound to a protein that facilitate its function; prosthetic groups include co-enzymes, which are the prosthetic groups of enzymes. The enzyme in complex I is NADH dehydrogenase and is a very large protein, containing 45 amino acid chains. Complex I can pump four hydrogen ions across the membrane from the matrix into the intermembrane space, and it is in this way that the hydrogen ion gradient is established and maintained between the two compartments separated by the inner mitochondrial membrane.</para>
+</section>
+<section id="fs-id2299949">
+<title>Q and Complex II</title>
+<para id="fs-id1775118">Complex II directly receives FADH<sub>2</sub>, which does not pass through complex I. The compound connecting the first and second complexes to the third is <term>ubiquinone</term> (Q). The Q molecule is lipid soluble and freely moves through the hydrophobic core of the membrane. Once it is reduced, (QH<sub>2</sub>), ubiquinone delivers its electrons to the next complex in the electron transport chain. Q receives the electrons derived from NADH from complex I and the electrons derived from FADH<sub>2</sub> from complex II, including succinate dehydrogenase. This enzyme and FADH<sub>2</sub> form a small complex that delivers electrons directly to the electron transport chain, bypassing the first complex. Since these electrons bypass and thus do not energize the proton pump in the first complex, fewer ATP molecules are made from the FADH<sub>2</sub> electrons. The number of ATP molecules ultimately obtained is directly proportional to the number of protons pumped across the inner mitochondrial membrane.</para>
+</section>
+<section id="fs-id1705359">
+<title>Complex III</title>
+<para id="fs-id2278162">The third complex is composed of cytochrome b, another Fe-S protein, Rieske center (2Fe-2S center), and cytochrome c proteins; this complex is also called cytochrome oxidoreductase. Cytochrome proteins have a prosthetic group of heme. The heme molecule is similar to the heme in hemoglobin, but it carries electrons, not oxygen. As a result, the iron ion at its core is reduced and oxidized as it passes the electrons, fluctuating between different oxidation states: Fe<sup>++</sup> (reduced) and Fe<sup>+++</sup> (oxidized). The heme molecules in the cytochromes have slightly different characteristics due to the effects of the different proteins binding them, giving slightly different characteristics to each complex. Complex III pumps protons through the membrane and passes its electrons to cytochrome c for transport to the fourth complex of proteins and enzymes (cytochrome c is the acceptor of electrons from Q; however, whereas Q carries pairs of electrons, cytochrome c can accept only one at a time).</para>
+</section>
+<section id="fs-id2300410">
+<title>Complex IV</title>
+<para id="fs-id2676976">The fourth complex is composed of cytochrome proteins c, a, and a<sub>3</sub>. This complex contains two heme groups (one in each of the two cytochromes, a, and a<sub>3</sub>) and three copper ions (a pair of Cu<sub>A</sub> and one Cu<sub>B</sub> in cytochrome a<sub>3</sub>). The cytochromes hold an oxygen molecule very tightly between the iron and copper ions until the oxygen is completely reduced. The reduced oxygen then picks up two hydrogen ions from the surrounding medium to make water (H<sub>2</sub>O). The removal of the hydrogen ions from the system contributes to the ion gradient used in the process of chemiosmosis.</para>
+</section>
+</section>
+<section id="fs-id1409110">
+<title>Chemiosmosis</title>
+<para id="fs-id1785709">In chemiosmosis, the free energy from the series of redox reactions just described is used to pump hydrogen ions (protons) across the membrane. The uneven distribution of H<sup>+</sup> ions across the membrane establishes both concentration and electrical gradients (thus, an electrochemical gradient), owing to the hydrogen ions&#8217; positive charge and their aggregation on one side of the membrane.</para>
+    <para id="fs-id2645910">If the membrane were open to diffusion by the hydrogen ions, the ions would tend to diffuse back across into the matrix, driven by their electrochemical gradient. Recall that many ions cannot diffuse through the nonpolar regions of phospholipid membranes without the aid of ion channels.  Similarly, hydrogen ions in the matrix space can only pass through the inner mitochondrial membrane through an integral membrane protein called ATP synthase (<link target-id="fig-ch07_04_02" document=""/>). This complex protein acts as a tiny generator, turned by the force of the hydrogen ions diffusing through it, down their electrochemical gradient. The turning of parts of this molecular machine facilitates the addition of a phosphate to ADP, forming ATP, using the potential energy of the hydrogen ion gradient.</para><note id="fs-id1778490" class="art-connection"><label/><title>Art Connection</title>
+<para id="fs-id1396245"><figure id="fig-ch07_04_02"><media id="fs-id1807698" alt="This illustration shows an ATP synthase enzyme embedded in the inner mitochondrial membrane. ATP synthase allows protons to move from an area of high concentration in the intermembrane space to an area of low concentration in the mitochondrial matrix. The energy derived from this exergonic process is used to synthesize ATP from ADP and inorganic phosphate.">
+<image mime-type="image/png" src="Figure_07_04_02.png" width="320"/>
+</media>
+<caption>ATP synthase is a complex, molecular machine that uses a proton (H<sup>+</sup>) gradient to form ATP from ADP and inorganic phosphate (Pi). (Credit: modification of work by Klaus Hoffmeier)</caption></figure></para>
+<para id="fs-id1443661">Dinitrophenol (DNP) is an uncoupler that makes the inner mitochondrial membrane leaky to protons. It was used until 1938 as a weight-loss drug. What effect would you expect DNP to have on the change in pH across the inner mitochondrial membrane? Why do you think this might be an effective weight-loss drug?</para>
+<!-- [link]Figure 07_04_02[/link]After DNP poisoning, the electron transport chain can no longer form a proton gradient, and ATP synthase can no longer make ATP. DNP is an effective diet drug because it uncouples ATP synthesis; in other words, after taking it, a person obtains less energy out of the food he or she eats. Interestingly, one of the worst side effects of this drug is hyperthermia, or overheating of the body. Since ATP cannot be formed, the energy from electron transport is lost as heat. -->
+</note><para id="fs-id1473469">Chemiosmosis (<link target-id="fig-ch07_04_03" document=""/>) is used to generate 90 percent of the ATP made during aerobic glucose catabolism; it is also the method used in the light reactions of photosynthesis to harness the energy of sunlight in the process of photophosphorylation. Recall that the production of ATP using the process of chemiosmosis in mitochondria is called oxidative phosphorylation. The overall result of these reactions is the production of ATP from the energy of the electrons removed from hydrogen atoms. These atoms were originally part of a glucose molecule. At the end of the pathway, the electrons are used to reduce an oxygen molecule to oxygen ions. The extra electrons on the oxygen attract hydrogen ions (protons) from the surrounding medium, and water is formed.</para>
+<note id="fs-id1704696" class="art-connection"><label/><title>Art Connection</title>
+<para id="fs-id2216483">
+<figure id="fig-ch07_04_03">
+<media id="fs-id2315383" alt="This illustration shows the electron transport chain, the ATP synthase enzyme embedded in the inner mitochondrial membrane, and the citric acid cycle occurring in the mitochondrial matrix. The citric acid cycle feeds NADH and FADH_{2} to the electron transport chain. The electron transport chain oxidizes these substrates and, in the process, pumps protons into the intermembrane space. ATP synthase allows protons to leak back into the matrix and synthesizes ATP.">
+<image mime-type="image/png" src="Figure_07_04_03.png" width="400"/>
+</media>
+<caption>In oxidative phosphorylation, the pH gradient formed by the electron transport chain is used by ATP synthase to form ATP.</caption></figure></para>
+<para id="fs-id1966349">Cyanide inhibits cytochrome c oxidase, a component of the electron transport chain. If cyanide poisoning occurs, would you expect the pH of the intermembrane space to increase or decrease? What effect would cyanide have on ATP synthesis?</para>
+<!-- <para><link window="new"  target-id="fig-ch07_04_03" document=""/>After cyanide poisoning, the electron transport chain can no longer pump electrons into the intermembrane space. The pH of the intermembrane space would increase, the pH gradient would decrease, and ATP synthesis would stop.</para> -->
+</note></section>
+<section id="fs-id2681954">
+<title>ATP Yield</title>
+<para id="fs-id848549">The number of ATP molecules generated from the catabolism of glucose varies. For example, the number of hydrogen ions that the electron transport chain complexes can pump through the membrane varies between species. Another source of variance stems from the shuttle of electrons across the membranes of the mitochondria. (The NADH generated from glycolysis cannot easily enter mitochondria.) Thus, electrons are picked up on the inside of mitochondria by either NAD<sup>+</sup> or FAD<sup>+</sup>. As you have learned earlier, these FAD<sup>+</sup> molecules can transport fewer ions; consequently, fewer ATP molecules are generated when FAD<sup>+</sup> acts as a carrier. NAD<sup>+</sup> is used as the electron transporter in the liver and FAD<sup>+</sup> acts in the brain.</para>
+<para id="fs-id1236715">Another factor that affects the yield of ATP molecules generated from glucose is the fact that intermediate compounds in these pathways are used for other purposes. Glucose catabolism connects with the pathways that build or break down all other biochemical compounds in cells, and the result is somewhat messier than the ideal situations described thus far. For example, sugars other than glucose are fed into the glycolytic pathway for energy extraction. Moreover, the five-carbon sugars that form nucleic acids are made from intermediates in glycolysis. Certain nonessential amino acids can be made from intermediates of both glycolysis and the citric acid cycle. Lipids, such as cholesterol and triglycerides, are also made from intermediates in these pathways, and both amino acids and triglycerides are broken down for energy through these pathways. Overall, in living systems, these pathways of glucose catabolism extract about 34 percent of the energy contained in glucose.</para>
+</section>
+<section id="fs-id1568706" class="summary">
+    <title>Section Summary</title><para id="fs-id1479324">The electron transport chain is the portion of aerobic respiration that uses free oxygen as the final electron acceptor of the electrons removed from the intermediate compounds in glucose catabolism. The electron transport chain is composed of four large, multiprotein complexes embedded in the inner mitochondrial membrane and two small diffusible electron carriers shuttling electrons between them. The electrons are passed through a series of redox reactions, with a small amount of free energy used at three points to transport hydrogen ions across a membrane. This process contributes to the gradient used in chemiosmosis. The electrons passing through the electron transport chain gradually lose energy, High-energy electrons donated to the chain by either NADH or FADH<sub>2</sub> complete the chain, as low-energy electrons reduce oxygen molecules and form water. The level of free energy of the electrons drops from about 60 kcal/mol in NADH or 45 kcal/mol in FADH<sub>2</sub> to about 0 kcal/mol in water. The end products of the electron transport chain are water and ATP. A number of intermediate compounds of the citric acid cycle can be diverted into the anabolism of other biochemical molecules, such as nonessential amino acids, sugars, and lipids. These same molecules can serve as energy sources for the glucose pathways.</para>
+</section>
+<section id="fs-idm56961872" class="art-exercise">
+<title>Art Connections</title>
+<exercise id="fs-idm116123600"><problem id="fs-idm49332544">
+<para id="fs-idm78832992"> <link target-id="fig-ch07_04_02" document=""/> Dinitrophenol (DNP) is an uncoupler that makes the inner mitochondrial membrane leaky to protons. It was used until 1938 as a weight-loss drug. What effect would you expect DNP to have on the change in pH across the inner mitochondrial membrane? Why do you think this might be an effective weight-loss drug?</para>
+</problem>
+<solution id="fs-idm72971296"><label/>
+<para id="fs-idm54987296"> <link target-id="fig-ch07_04_02" document=""/> After DNP poisoning, the electron transport chain can no longer form a proton gradient, and ATP synthase can no longer make ATP. DNP is an effective diet drug because it uncouples ATP synthesis; in other words, after taking it, a person obtains less energy out of the food he or she eats. Interestingly, one of the worst side effects of this drug is hyperthermia, or overheating of the body. Since ATP cannot be formed, the energy from electron transport is lost as heat.</para>
+</solution>
+</exercise><exercise id="fs-idp50822512"><problem id="fs-idm94220736"><para id="fs-idm68702912"> <link target-id="fig-ch07_04_03" document=""/> Cyanide inhibits cytochrome c oxidase, a component of the electron transport chain. If cyanide poisoning occurs, would you expect the pH of the intermembrane space to increase or decrease? What effect would cyanide have on ATP synthesis?</para></problem>
+<solution id="fs-idm139224624"><label/>
+<para id="fs-idm179339824"> <link target-id="fig-ch07_04_03" document=""/> After cyanide poisoning, the electron transport chain can no longer pump electrons into the intermembrane space. The pH of the intermembrane space would increase, the pH gradient would decrease, and ATP synthesis would stop.</para></solution>
+</exercise></section>
+<section id="fs-id2891477" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-id3026200">
+<problem id="fs-id1479718"><para id="fs-id1414909">What compound receives electrons from NADH?</para>
+<list id="fs-id855114" list-type="enumerated" number-style="lower-alpha">
+<item>FMN</item>
+<item>ubiquinone</item>
+<item>cytochrome c<sub>1</sub></item>
+<item>oxygen</item>
+</list>
+</problem>
+<solution id="fs-id1702798">
+<label/>
+<para id="fs-id2198400">A</para>
+</solution>
+    </exercise>
+<exercise id="fs-id1770002">
+<problem id="fs-id2862440"><para id="fs-id1582477">Chemiosmosis involves ________.</para>
+<list id="fs-id1595664" list-type="enumerated" number-style="lower-alpha">
+<item>the movement of electrons across the cell membrane</item>
+<item>the movement of hydrogen atoms across a mitochondrial membrane</item>
+<item>the movement of hydrogen ions across a mitochondrial membrane</item>
+<item>the movement of glucose through the cell membrane</item>
+</list>
+</problem>
+<solution id="fs-id1437119">
+<label/>
+<para id="fs-id1813318">C</para>
+</solution>
+    </exercise>
+</section>
+<section id="fs-id2862738" class="free-response">
+<title>Free Response</title><exercise id="fs-id3237310">
+<problem id="fs-id1808646"><para id="fs-id2491584">How do the roles of ubiquinone and cytochrome c differ from the other components of the electron transport chain?</para></problem>
+<solution id="fs-id1469089"><label/>
+<para id="fs-id1870668">Q and cytochrome c are transport molecules. Their function does not result directly in ATP synthesis in that they are not pumps. Moreover, Q is the only component of the electron transport chain that is not a protein. Ubiquinone and cytochrome c are small, mobile, electron carriers, whereas the other components of the electron transport chain are large complexes anchored in the inner mitochondrial membrane.</para>
+</solution>
+</exercise>
+<exercise id="fs-id1728179">
+<problem id="fs-id2013345"><para id="fs-id1406784">What accounts for the different number of ATP molecules that are formed through cellular respiration?</para></problem>
+<solution id="fs-id2626112"><label/>
+<para id="fs-id2168046">Few tissues except muscle produce the maximum possible amount of ATP from nutrients. The intermediates are used to produce needed amino acids, fatty acids, cholesterol, and sugars for nucleic acids. When NADH is transported from the cytoplasm to the mitochondria, an active transport mechanism is used, which decreases the amount of ATP that can be made. The electron transport chain differs in composition between species, so different organisms will make different amounts of ATP using their electron transport chains.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-id1807369"><term>ATP synthase</term> <meaning id="fs-id2170202">(also, F1F0 ATP synthase) membrane-embedded protein complex that adds a phosphate to ADP with energy from protons diffusing through it</meaning></definition>
+<definition id="fs-id2589867"><term>prosthetic group</term> <meaning id="fs-id1777910">(also, prosthetic cofactor) molecule bound to a protein that facilitates the function of the protein</meaning></definition>
+<definition id="fs-id2701000"><term>ubiquinone</term> <meaning id="fs-id1720582">soluble electron transporter in the electron transport chain that connects the first or second complex to the third</meaning></definition>
+</glossary>
+
+</document>

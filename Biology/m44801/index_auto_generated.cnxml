@@ -1,0 +1,172 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Overview of the Circulatory System</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44801/latest/</md:content-url>
+  <md:content-id>m44801</md:content-id>
+  <md:title>Overview of the Circulatory System</md:title>
+  <md:version>1.4</md:version>
+  <md:created>2012/08/23 15:50:36 -0500</md:created>
+  <md:revised>2013/06/26 13:25:43.880 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>atrium</md:keyword>
+    <md:keyword>circulatory system</md:keyword>
+    <md:keyword>closed circulatory system</md:keyword>
+    <md:keyword>double circulation</md:keyword>
+    <md:keyword>gill circulation</md:keyword>
+    <md:keyword>hemocoel</md:keyword>
+    <md:keyword>hemolymph</md:keyword>
+    <md:keyword>interstitial fluid</md:keyword>
+    <md:keyword>open circulatory system</md:keyword>
+    <md:keyword>ostium</md:keyword>
+    <md:keyword>pulmocutaneous circulation</md:keyword>
+    <md:keyword>pulmonary circulation</md:keyword>
+    <md:keyword>systemic circulation</md:keyword>
+    <md:keyword>unidirectional circulation</md:keyword>
+    <md:keyword>ventricle</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe an open and closed circulatory system</item>
+<item>Describe interstitial fluid and hemolymph</item>
+<item>Compare and contrast the organization and evolution of the vertebrate circulatory system.</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idm149860048">In all animals, except a few simple types, the circulatory system is used to transport nutrients and gases through the body. Simple diffusion allows some water, nutrient, waste, and gas exchange into primitive animals that are only a few cell layers thick; however, bulk flow is the only method by which the entire body of larger more complex organisms is accessed.</para>
+<section id="fs-idm206685840">
+<title>Circulatory System Architecture</title>
+<para id="fs-idm108865376">The circulatory system is effectively a network of cylindrical vessels: the arteries, veins, and capillaries that emanate from a pump, the heart. In all vertebrate organisms, as well as some invertebrates, this is a closed-loop system, in which the blood is not free in a cavity. In a <term>closed circulatory system</term>, blood is contained inside blood vessels and circulates <term>unidirectionally</term> from the heart around the systemic circulatory route, then returns to the heart again, as illustrated in <link target-id="fig-ch40_01_01" document=""/><emphasis effect="bold">a</emphasis>. As opposed to a closed system, arthropods&#8212;including insects, crustaceans, and most mollusks&#8212;have an open circulatory system, as illustrated in <link target-id="fig-ch40_01_01" document=""/><emphasis effect="bold">b</emphasis>. In an <term>open circulatory system</term>, the blood is not enclosed in the blood vessels but is pumped into a cavity called a <term>hemocoel</term> and is called <term>hemolymph</term> because the blood mixes with the <term>interstitial fluid</term>. As the heart beats and the animal moves, the hemolymph circulates around the organs within the body cavity and then reenters the hearts through openings called <term>ostia</term>. This movement allows for gas and nutrient exchange. An open circulatory system does not use as much energy as a closed system to operate or to maintain; however, there is a trade-off with the amount of blood that can be moved to metabolically active organs and tissues that require high levels of oxygen. In fact, one reason that insects with wing spans of up to two feet wide (70 cm) are not around today is probably because they were outcompeted by the arrival of birds 150 million years ago. Birds, having a closed circulatory system, are thought to have moved more agilely, allowing them to get food faster and possibly to prey on the insects.</para><figure id="fig-ch40_01_01" class=" "><media id="fs-idm182625472" alt="Illustration A shows the closed circulatory system of an earthworm. Dorsal and ventral blood vessels run along the top and bottom of the intestine, respectively. The dorsal and ventral blood vessels are connected by ring-like hearts. Hearts are also associated with the dorsal blood vessel. These hearts pump blood forward, and the ring-like hearts pump blood down to the ventral vessel, which returns blood to the back of the body. Illustration B shows the open circulatory system of a bee. The dorsal blood vessel, which contains multiple hearts, runs along the top of the bee. Blood exits the dorsal blood vessel through an opening in the head, into the body cavity. Blood reenters the blood vessels through openings in the hearts called ostia.">
+<image mime-type="image/jpg" src="Figure_40_01_01ab.jpg" width="575"/>
+</media>
+<caption>In (a) closed circulatory systems, the heart pumps blood through vessels that are separate from the interstitial fluid of the body. Most vertebrates and some invertebrates, like this annelid earthworm, have a closed circulatory system. In (b) open circulatory systems, a fluid called hemolymph is pumped through a blood vessel that empties into the body cavity. Hemolymph returns to the blood vessel through openings called ostia. Arthropods like this bee and most mollusks have open circulatory systems.</caption></figure></section>
+<section id="fs-idm20076272">
+<title>Circulatory System Variation in Animals</title>
+<para id="fs-idm263068672">The circulatory system varies from simple systems in invertebrates to more complex systems in vertebrates. The simplest animals, such as the sponges (Porifera) and rotifers (Rotifera), do not need a circulatory system because diffusion allows adequate exchange of water, nutrients, and waste, as well as dissolved gases, as shown in <link target-id="fig-ch40_01_02" document=""/><emphasis effect="bold">a</emphasis>. Organisms that are more complex but still only have two layers of cells in their body plan, such as jellies (Cnidaria) and comb jellies (Ctenophora) also use diffusion through their epidermis and internally through the gastrovascular compartment. Both their internal and external tissues are bathed in an aqueous environment and exchange fluids by diffusion on both sides, as illustrated in <link target-id="fig-ch40_01_02" document=""/><emphasis effect="bold">b</emphasis>. Exchange of fluids is assisted by the pulsing of the jellyfish body.</para><figure id="fig-ch40_01_02" class=" "><media id="fs-idm102176384" alt="Illustration A shows a cross section of a sponge, which has a thin, vase-like body bathed both inside and out by fluid. Illustration B shows a bell-shaped jellyfish.">
+<image mime-type="image/jpg" src="Figure_40_01_02ab.jpg" width="575"/>
+</media>
+<caption>Simple animals consisting of a single cell layer such as the (a) sponge or only a few cell layers such as the (b) jellyfish do not have a circulatory system. Instead, gases, nutrients, and wastes are exchanged by diffusion.</caption></figure><para id="fs-idm251840080">For more complex organisms, diffusion is not efficient for cycling gases, nutrients, and waste effectively through the body; therefore, more complex circulatory systems evolved. Most arthropods and many mollusks have open circulatory systems. In an open system, an elongated beating heart pushes the hemolymph through the body and muscle contractions help to move fluids. The larger more complex crustaceans, including lobsters, have developed arterial-like vessels to push blood through their bodies, and the most active mollusks, such as squids, have evolved a closed circulatory system and are able to move rapidly to catch prey. Closed circulatory systems are a characteristic of vertebrates; however, there are significant differences in the structure of the heart and the circulation of blood between the different vertebrate groups due to adaptation during evolution and associated differences in anatomy. <link target-id="fig-ch40_01_03" document=""/> illustrates the basic circulatory systems of some vertebrates: fish, amphibians, reptiles, and mammals.</para><figure id="fig-ch40_01_03"><media id="fs-idp57191520" alt="Illustration A shows the circulatory system of fish, which have a two-chambered heart with one atrium and one ventricle. Blood in systemic circulation flows from the body into the atrium, then into the ventricle. Blood exiting the heart enters gill circulation, where gases are exchanged by gill capillaries. From the gills blood re-enters systemic circulation, where gases in the body are exchanged by body capillaries. Illustration B shows the circulatory system of amphibians, which have a three-chambered heart with two atriums and one ventricle. Blood in systemic circulation enters the heart, flows into the right atrium, then into the ventricle. Blood leaving the ventricle enters pulmonary and skin circulation. Capillaries in the lung and skin exchange gases, oxygenating the blood. From the lungs and skin blood re-enters the heart through the left atrium. Blood flows into the ventricle, where it mixes with blood from systemic circulation. Blood leaves the ventricle and enters systemic circulation. Illustration C shows the circulatory system of reptiles, which have a four-chambered heart. The right and left ventricle are separated by a septum, but there is no septum separating the right and left atrium, so there is some mixing of blood between these two chambers. Blood from systemic circulation enters the right atrium, then flows from the right ventricle and enters pulmonary circulation, where blood is oxygenated in the lungs. From the lungs blood travels back into the heart through the left atrium. Because the left and right atrium are not separated, some mixing of oxygenated and deoxygenated blood occurs. Blood is pumped into the left ventricle, then into the body. Illustration D shows the circulatory system of mammals, which have a four-chambered heart. Circulation is similar to that of reptiles, but the four chambers are completely separate from one another, which improves efficiency.">
+<image mime-type="image/jpg" src="Figure_40_01_03abcd.jpg" width="575"/>
+</media>
+<caption>(a) Fish have the simplest circulatory systems of the vertebrates: blood flows unidirectionally from the two-chambered heart through the gills and then the rest of the body. (b) Amphibians have two circulatory routes: one for oxygenation of the blood through the lungs and skin, and the other to take oxygen to the rest of the body. The blood is pumped from a three-chambered heart with two atria and a single ventricle. (c) Reptiles also have two circulatory routes; however, blood is only oxygenated through the lungs. The heart is three chambered, but the ventricles are partially separated so some mixing of oxygenated and deoxygenated blood occurs except in crocodilians and birds. (d) Mammals and birds have the most efficient heart with four chambers that completely separate the oxygenated and deoxygenated blood; it pumps only oxygenated blood through the body and deoxygenated blood to the lungs.</caption></figure><para id="fs-idm138346464">As illustrated in <link target-id="fig-ch40_01_03" document=""/><emphasis effect="bold">a</emphasis> Fish have a single circuit for blood flow and a two-chambered heart that has only a single atrium and a single ventricle. The atrium collects blood that has returned from the body and the ventricle pumps the blood to the gills where gas exchange occurs and the blood is re-oxygenated; this is called <term>gill circulation</term>. The blood then continues through the rest of the body before arriving back at the atrium; this is called <term>systemic circulation</term>. This unidirectional flow of blood produces a gradient of oxygenated to deoxygenated blood around the fish&#8217;s systemic circuit. The result is a limit in the amount of oxygen that can reach some of the organs and tissues of the body, reducing the overall metabolic capacity of fish.</para><para id="fs-idm16534736">In amphibians, reptiles, birds, and mammals, blood flow is directed in two circuits: one through the lungs and back to the heart, which is called <term>pulmonary circulation</term>, and the other throughout the rest of the body and its organs including the brain (systemic circulation). In amphibians, gas exchange also occurs through the skin during pulmonary circulation and is referred to as <term>pulmocutaneous circulation</term>.</para>
+<para id="fs-idm54470560">As shown in <link target-id="fig-ch40_01_03" document=""/><emphasis effect="bold">b</emphasis>, amphibians have a three-chambered heart that has two atria and one ventricle rather than the two-chambered heart of fish. The two <term>atria</term> (superior heart chambers) receive blood from the two different circuits (the lungs and the systems), and then there is some mixing of the blood in the heart&#8217;s <term>ventricle</term> (inferior heart chamber), which reduces the efficiency of oxygenation. The advantage to this arrangement is that high pressure in the vessels pushes blood to the lungs and body. The mixing is mitigated by a ridge within the ventricle that diverts oxygen-rich blood through the systemic circulatory system and deoxygenated blood to the pulmocutaneous circuit. For this reason, amphibians are often described as having <term>double circulation</term>.</para><para id="fs-idm31957376">Most reptiles also have a three-chambered heart similar to the amphibian heart that directs blood to the pulmonary and systemic circuits, as shown in <link target-id="fig-ch40_01_03" document=""/><emphasis effect="bold">c</emphasis>. The ventricle is divided more effectively by a partial septum, which results in less mixing of oxygenated and deoxygenated blood. Some reptiles (alligators and crocodiles) are the most primitive animals to exhibit a four-chambered heart. Crocodilians have a unique circulatory mechanism where the heart shunts blood from the lungs toward the stomach and other organs during long periods of submergence, for instance, while the animal waits for prey or stays underwater waiting for prey to rot. One adaptation includes two main arteries that leave the same part of the heart: one takes blood to the lungs and the other provides an alternate route to the stomach and other parts of the body. Two other adaptations include a hole in the heart between the two ventricles, called the foramen of Panizza, which allows blood to move from one side of the heart to the other, and specialized connective tissue that slows the blood flow to the lungs. Together these adaptations have made crocodiles and alligators one of the most evolutionarily successful animal groups on earth.</para><para id="fs-idm170514160">In mammals and birds, the heart is also divided into four chambers: two atria and two ventricles, as illustrated in <link target-id="fig-ch40_01_03" document=""/><emphasis effect="bold">d</emphasis>. The oxygenated blood is separated from the deoxygenated blood, which improves the efficiency of double circulation and is probably required for the warm-blooded lifestyle of mammals and birds. The four-chambered heart of birds and mammals evolved independently from a three-chambered heart. The independent evolution of the same or a similar biological trait is referred to as convergent evolution.</para></section>
+<section id="fs-idm11460992" class="summary">
+<title>Section Summary</title><para id="fs-idm228483840">In most animals, the circulatory system is used to transport blood through the body. Some primitive animals use diffusion for the exchange of water, nutrients, and gases. However, complex organisms use the circulatory system to carry gases, nutrients, and waste through the body. Circulatory systems may be open (mixed with the interstitial fluid) or closed (separated from the interstitial fluid). Closed circulatory systems are a characteristic of vertebrates; however, there are significant differences in the structure of the heart and the circulation of blood between the different vertebrate groups due to adaptions during evolution and associated differences in anatomy. Fish have a two-chambered heart with unidirectional circulation. Amphibians have a three-chambered heart, which has some mixing of the blood, and they have double circulation. Most non-avian reptiles have a three-chambered heart, but have little mixing of the blood; they have double circulation. Mammals and birds have a four-chambered heart with no mixing of the blood and double circulation.</para>
+    </section>
+<section id="fs-idm242698208" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm300553744">
+<problem id="fs-idm187277632"><para id="fs-idm25358112">Why are open circulatory systems advantageous to some animals?</para>
+<list id="fs-idm40559392" list-type="enumerated" number-style="lower-alpha">
+<item>They use less metabolic energy.</item>
+<item>They help the animal move faster.</item>
+<item>They do not need a heart.</item>
+<item>They help large insects develop.</item>
+</list>
+</problem>
+<solution id="fs-idm193772336">
+<label/>
+<para id="fs-idm157765808">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm216101712">
+<problem id="fs-idm27518224"><para id="fs-idm37005488">Some animals use diffusion instead of a circulatory system. Examples include:</para>
+<list id="fs-idm20731088" list-type="enumerated" number-style="lower-alpha">
+<item>birds and jellyfish</item>
+<item>flatworms and arthropods</item>
+<item>mollusks and jellyfish</item>
+<item>None of the above</item>
+</list>
+</problem>
+<solution id="fs-idm222776560">
+<label/>
+<para id="fs-idm107903008">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm225583056">
+<problem id="fs-idm274337872"><para id="fs-idm60530128">Blood flow that is directed through the lungs and back to the heart is called ________.</para>
+<list id="fs-idm212265488" list-type="enumerated" number-style="lower-alpha">
+<item>unidirectional circulation</item>
+<item>gill circulation</item>
+<item>pulmonary circulation</item>
+<item>pulmocutaneous circulation</item>
+</list>
+</problem>
+<solution id="fs-idm186175264">
+<label/>
+<para id="fs-idm257773568">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm326524720" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm258934848">
+<problem id="fs-idm170873840"><para id="fs-idm193110752">Describe a closed circulatory system.</para></problem>
+<solution id="fs-idm53454256"><label/>
+<para id="fs-idm209705008">A closed circulatory system is a closed-loop system, in which blood is not free in a cavity. Blood is separate from the bodily interstitial fluid and contained within blood vessels. In this type of system, blood circulates unidirectionally from the heart around the systemic circulatory route, and then returns to the heart.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm89669536">
+<problem id="fs-idm182861568"><para id="fs-idp10152816">Describe systemic circulation.</para></problem>
+<solution id="fs-idm40226656"><label/>
+<para id="fs-idm251589536">Systemic circulation flows through the systems of the body. The blood flows away from the heart to the brain, liver, kidneys, stomach, and other organs, the limbs, and the muscles of the body; it then returns to the heart.</para></solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm139610000"><term>atrium</term> <meaning id="fs-idm159019040">(plural: atria) chamber of the heart that receives blood from the veins and sends blood to the ventricles</meaning></definition>
+<definition id="fs-idm219969648"><term>closed circulatory system</term> <meaning id="fs-idm234378400">system in which the blood is separated from the bodily interstitial fluid and contained in blood vessels</meaning></definition>
+<definition id="fs-idm121169376"><term>double circulation</term> <meaning id="fs-idm7853872">flow of blood in two circuits: the pulmonary circuit through the lungs and the systemic circuit through the organs and body</meaning></definition>
+<definition id="fs-idm203073616"><term>gill circulation</term> <meaning id="fs-idm83600080">circulatory system that is specific to animals with gills for gas exchange; the blood flows through the gills for oxygenation</meaning></definition>
+<definition id="fs-idm118351648"><term>hemocoel</term> <meaning id="fs-idm146897728">cavity into which blood is pumped in an open circulatory system</meaning></definition>
+<definition id="fs-idp50176"><term>hemolymph</term> <meaning id="fs-idm198188432">mixture of blood and interstitial fluid that is found in insects and other arthropods as well as most mollusks</meaning></definition>
+<definition id="fs-idm40917664"><term>interstitial fluid</term> <meaning id="fs-idm167998400">fluid between cells</meaning></definition>
+<definition id="fs-idm253513072"><term>open circulatory system</term> <meaning id="fs-idm168440624">system in which the blood is mixed with interstitial fluid and directly covers the organs</meaning></definition>
+<definition id="fs-idm44448224"><term>ostium</term> <meaning id="fs-idm196747664">(plural: ostia) holes between blood vessels that allow the movement of hemolymph through the body of insects, arthropods, and mollusks with open circulatory systems</meaning></definition>
+<definition id="fs-idm168863440"><term>pulmocutaneous circulation</term> <meaning id="fs-idm183045968">circulatory system in amphibians; the flow of blood to the lungs and the moist skin for gas exchange</meaning></definition>
+<definition id="fs-idp3535328"><term>pulmonary circulation</term> <meaning id="fs-idm168963440">flow of blood away from the heart through the lungs where oxygenation occurs and then returns to the heart again</meaning></definition>
+<definition id="fs-idm174616384"><term>systemic circulation</term> <meaning id="fs-idm86431760">flow of blood away from the heart to the brain, liver, kidneys, stomach, and other organs, the limbs, and the muscles of the body, and then the return of this blood to the heart</meaning></definition>
+<definition id="fs-idm107786768"><term>unidirectional circulation</term> <meaning id="fs-idm2076688">flow of blood in a single circuit; occurs in fish where the blood flows through the gills, then past the organs and the rest of the body, before returning to the heart</meaning></definition>
+<definition id="fs-idm136630528"><term>ventricle</term> <meaning id="fs-idp12539744">(heart) large inferior chamber of the heart that pumps blood into arteries</meaning></definition>
+</glossary>
+</document>

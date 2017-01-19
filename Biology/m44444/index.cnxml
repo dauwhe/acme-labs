@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Metabolism without Oxygen</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml"
+          mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://legacy.cnx.org/content</md:repository>
+  <md:content-url>http://legacy.cnx.org/content/m44444/latest/</md:content-url>
+  <md:content-id>m44444</md:content-id>
+  <md:title>Metabolism without Oxygen</md:title>
+  <md:version>1.7</md:version>
+  <md:created>2012/08/23 10:48:20 -0500</md:created>
+  <md:revised>2015/01/21 11:49:53.575 US/Central</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>alcohol fermentation</md:keyword>
+    <md:keyword>anaerobic cellular respiration</md:keyword>
+    <md:keyword>bacterial fermentation</md:keyword>
+    <md:keyword>cellular respiration</md:keyword>
+    <md:keyword>fermentation</md:keyword>
+    <md:keyword>lactate dehydrogenase</md:keyword>
+    <md:keyword>lactic acid fermentation</md:keyword>
+    <md:keyword>metabolism without oxygen</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Discuss the fundamental difference between anaerobic cellular respiration and fermentation</item>
+<item>Describe the type of fermentation that readily occurs in animal cells and the conditions that initiate that fermentation</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-id1982002">In aerobic respiration, the final electron acceptor is an oxygen molecule, O<sub>2</sub>. If aerobic respiration occurs, then ATP will be produced using the energy of high-energy electrons carried by NADH or FADH<sub>2 </sub>to the electron transport chain. If aerobic respiration does not occur, NADH must be reoxidized to NAD<sup>+</sup> for reuse as an electron carrier for the glycolytic pathway to continue. How is this done? Some living systems use an organic molecule as the final electron acceptor. Processes that use an organic molecule to regenerate NAD<sup>+</sup> from NADH are collectively referred to as <term>fermentation</term>. In contrast, some living systems use an inorganic molecule as a final electron acceptor. Both methods are called <term>anaerobic cellular respiration</term> in which organisms convert energy for their use in the absence of oxygen.</para>
+<section id="fs-id1986553">
+<title>Anaerobic Cellular Respiration</title>
+<para id="fs-id1451059">Certain prokaryotes, including some species of bacteria and Archaea, use anaerobic respiration. For example, the group of Archaea called methanogens reduces carbon dioxide to methane to oxidize NADH. These microorganisms are found in soil and in the digestive tracts of ruminants, such as cows and sheep. Similarly, sulfate-reducing bacteria and Archaea, most of which are anaerobic ( <link target-id="fig-ch07_05_01" document=""/>), reduce sulfate to hydrogen sulfide to regenerate NAD<sup>+</sup> from NADH.</para>
+<figure id="fig-ch07_05_01"><media id="fs-id1975018" alt="This photo shows a bloom of green bacteria in water.">
+<image mime-type="image/jpg" src="Figure_07_05_01.jpg" width="400"/>
+</media>
+<caption>The green color seen in these coastal waters is from an eruption of hydrogen sulfide-producing bacteria. These anaerobic, sulfate-reducing bacteria release hydrogen sulfide gas as they decompose algae in the water. (credit: modification of work by NASA/Jeff Schmaltz, MODIS Land Rapid Response Team at NASA GSFC, Visible Earth Catalog of NASA images)</caption></figure><note id="fs-id1785709" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-id2258365" alt="QR Code representing a URL">
+<image mime-type="image/png" src="fermentation.png" width="120"/>
+</media>
+<para id="fs-id1957291">Visit this <link window="new" url="http://openstaxcollege.org/l/fermentation">site</link> to see anaerobic cellular respiration in action.</para>
+</note><section id="fs-id2121627">
+<title>Lactic Acid Fermentation</title>
+<para id="fs-id2077122">The fermentation method used by animals and certain bacteria, like those in yogurt, is lactic acid fermentation ( <link target-id="fig-ch07_05_02" document=""/>). This type of fermentation is used routinely in mammalian red blood cells and in skeletal muscle that has an insufficient oxygen supply to allow aerobic respiration to continue (that is, in muscles used to the point of fatigue). In muscles, lactic acid accumulation must be removed by the blood circulation and the lactate brought to the liver for further metabolism. The chemical reactions of lactic acid fermentation are the following:</para>
+<equation id="eip-345"><m:math display="block">
+   <m:mrow>
+   <m:mtext>Pyruvic acid</m:mtext>
+   <m:mo>+</m:mo>
+   <m:mtext>NADH</m:mtext>
+   <m:mrow><m:mo stretchy="false">↔</m:mo></m:mrow>
+   <m:mtext>lactic acid</m:mtext>
+   <m:mo>+</m:mo>
+   <m:msup>
+    <m:mtext>NAD</m:mtext>
+    <m:mrow>
+       <m:mo>+</m:mo>
+    </m:mrow>
+   </m:msup>
+   </m:mrow>
+</m:math></equation><para id="fs-id2197931">The enzyme used in this reaction is lactate dehydrogenase (LDH). The reaction can proceed in either direction, but the reaction from left to right is inhibited by acidic conditions. Such lactic acid accumulation was once believed to cause muscle stiffness, fatigue, and soreness, although more recent research disputes this hypothesis. Once the lactic acid has been removed from the muscle and circulated to the liver, it can be reconverted into pyruvic acid and further catabolized for energy.</para>
+<note id="fs-id2123848" class="art-connection"><label/><title>Art Connection</title>
+<para id="fs-id1894837"><figure id="fig-ch07_05_02"><media id="fs-id3107799" alt="This illustration shows that during glycolysis, glucose is broken down into two pyruvate molecules and, in the process, two NADH are formed from NAD^{+}. During lactic acid fermentation, the two pyruvate molecules are converted into lactate, and NADH is recycled back into NAD^{+}.">
+<image mime-type="image/png" src="Figure_07_05_02.png" width="320"/>
+</media>
+<caption>Lactic acid fermentation is common in muscle cells that have run out of oxygen.</caption></figure></para>
+<para id="fs-id2321845">Tremetol, a metabolic poison found in the white snake root plant, prevents the metabolism of lactate. When cows eat this plant, it is concentrated in the milk they produce. Humans who consume the milk become ill. Symptoms of this disease, which include vomiting, abdominal pain, and tremors, become worse after exercise. Why do you think this is the case?</para>
+<!-- [link]Figure 07_05_02[/link]The illness is caused by lactate accumulation. Lactate levels rise after exercise, making the symptoms worse. Milk sickness is rare today, but was common in the Midwestern United States in the early 1800s. -->
+</note></section>
+<section id="fs-id2025525">
+<title>Alcohol Fermentation</title>
+<para id="fs-id2988639">Another familiar fermentation process is alcohol fermentation ( <link target-id="fig-ch07_05_03" document=""/>) that produces ethanol, an alcohol. The first chemical reaction of alcohol fermentation is the following (CO<sub>2</sub> does not participate in the second reaction):</para>
+<equation id="eip-10"><m:math display="block">
+   <m:mrow>
+   <m:mtext>Pyruvic acid</m:mtext>
+   <m:mo stretchy="false">→</m:mo>
+   <m:msub>
+    <m:mtext>CO</m:mtext>
+    <m:mrow>
+       <m:mn>2</m:mn>
+    </m:mrow>
+   </m:msub>
+   <m:mo>+</m:mo>
+   <m:mtext>acetaldehyde</m:mtext>
+   <m:mo>+</m:mo>
+   <m:mtext>NADH</m:mtext>
+   <m:mo stretchy="false">→</m:mo>
+   <m:mtext>ethanol</m:mtext>
+   <m:mo>+</m:mo>
+   <m:msup>
+    <m:mtext>NAD</m:mtext>
+    <m:mrow>
+       <m:mo>+</m:mo>
+    </m:mrow>
+   </m:msup>
+   </m:mrow>
+</m:math></equation><para id="fs-id1986576">The first reaction is catalyzed by pyruvate decarboxylase, a cytoplasmic enzyme, with a coenzyme of thiamine pyrophosphate (TPP, derived from vitamin B<sub>1</sub> and also called thiamine). A carboxyl group is removed from pyruvic acid, releasing carbon dioxide as a gas. The loss of carbon dioxide reduces the size of the molecule by one carbon, making acetaldehyde. The second reaction is catalyzed by alcohol dehydrogenase to oxidize NADH to NAD<sup>+</sup> and reduce acetaldehyde to ethanol. The fermentation of pyruvic acid by yeast produces the ethanol found in alcoholic beverages. Ethanol tolerance of yeast is variable, ranging from about 5 percent to 21 percent, depending on the yeast strain and environmental conditions.</para>
+<figure id="fig-ch07_05_03"><media id="fs-id1797657" alt="This photo shows large cylindrical fermentation tanks stacked one on top of the other.">
+<image mime-type="image/jpg" src="Figure_07_05_03.jpg" width="350"/>
+</media>
+<caption>Fermentation of grape juice into wine produces CO<sub>2</sub> as a byproduct. Fermentation tanks have valves so that the pressure inside the tanks created by the carbon dioxide produced can be released.</caption></figure></section>
+<section id="fs-id811872">
+<title>Other Types of Fermentation</title>
+<para id="fs-id2317124">Other fermentation methods occur in bacteria. Many prokaryotes are facultatively anaerobic. This means that they can switch between aerobic respiration and fermentation, depending on the availability of oxygen. Certain prokaryotes, like <emphasis effect="italics">Clostridia</emphasis>, are obligate anaerobes. Obligate anaerobes live and grow in the absence of molecular oxygen. Oxygen is a poison to these microorganisms and kills them on exposure. It should be noted that all forms of fermentation, except lactic acid fermentation, produce gas. The production of particular types of gas is used as an indicator of the fermentation of specific carbohydrates, which plays a role in the laboratory identification of the bacteria. Various methods of fermentation are used by assorted organisms to ensure an adequate supply of NAD<sup>+</sup> for the sixth step in glycolysis. Without these pathways, that step would not occur and no ATP would be harvested from the breakdown of glucose.</para>
+</section>
+</section>
+<section id="fs-id1342929" class="summary">
+<title>Section Summary</title><para id="fs-id2235232">If NADH cannot be oxidized through aerobic respiration, another electron acceptor is used. Most organisms will use some form of fermentation to accomplish the regeneration of NAD<sup>+</sup>, ensuring the continuation of glycolysis. The regeneration of NAD<sup>+</sup> in fermentation is not accompanied by ATP production; therefore, the potential of NADH to produce ATP using an electron transport chain is not utilized.</para>
+</section>
+<section id="fs-idp361376" class="art-exercise">
+<title>Art Connections</title>
+<exercise id="fs-idp22236752"><problem id="fs-idp26658304">
+<para id="fs-idp61363968"> <link target-id="fig-ch07_05_02" document=""/> Tremetol, a metabolic poison found in the white snake root plant, prevents the metabolism of lactate. When cows eat this plant, it is concentrated in the milk they produce. Humans who consume the milk become ill. Symptoms of this disease, which include vomiting, abdominal pain, and tremors, become worse after exercise. Why do you think this is the case?</para>
+</problem>
+<solution id="fs-idp63639536">
+<label/>
+<para id="fs-idp125692288"> <link target-id="fig-ch07_05_02" document=""/> The illness is caused by lactate accumulation. Lactate levels rise after exercise, making the symptoms worse. Milk sickness is rare today, but was common in the Midwestern United States in the early 1800s.</para>
+</solution>
+</exercise></section>
+<section id="fs-id2491584" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-id2348312">
+<problem id="fs-id2853902"><para id="fs-id2962812">Which of the following fermentation methods can occur in animal skeletal muscles?</para>
+<list id="fs-id2186884" list-type="enumerated" number-style="lower-alpha">       
+<item>lactic acid fermentation</item>
+<item>alcohol fermentation</item>
+<item>mixed acid fermentation</item>
+<item>propionic fermentation</item>
+</list>
+</problem>
+<solution id="fs-id2571119">
+<label/>
+<para id="fs-id1770002">A</para>
+</solution>
+</exercise>       
+</section>
+<section id="fs-id2003238" class="free-response">
+<title>Free Response</title>       
+<exercise id="fs-id2574316">
+<problem id="fs-id2019618"><para id="fs-id1430986">What is the primary difference between fermentation and anaerobic respiration?</para></problem>
+<solution id="fs-id1798390"><label/>
+<para id="fs-id3078523">Fermentation uses glycolysis only. Anaerobic respiration uses all three parts of cellular respiration, including the parts in the mitochondria like the citric acid cycle and electron transport; it also uses a different final electron acceptor instead of oxygen gas.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-id1707504"><term>anaerobic cellular respiration</term> <meaning id="fs-id2200333">process in which organisms convert energy for their use in the absence of oxygen</meaning></definition>
+<definition id="fs-id1769884"><term>fermentation</term> <meaning id="fs-id1447483">process of regenerating NAD<sup>+</sup> with either an inorganic or organic compound serving as the final electron acceptor, occurs in the absence; occurs in the absence of oxygen</meaning></definition>
+</glossary>
+</document>

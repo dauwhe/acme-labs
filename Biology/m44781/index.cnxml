@@ -1,0 +1,337 @@
+<?xml version="1.0"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Types of Skeletal Systems</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml"
+          mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44781/latest/</md:content-url>
+  <md:content-id>m44781</md:content-id>
+  <md:title>Types of Skeletal Systems</md:title>
+  <md:version>1.3</md:version>
+  <md:created>2012/08/23 15:42:31 -0500</md:created>
+  <md:revised>2013/04/10 13:32:23.056 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/" />
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>appendicular skeleton</md:keyword>
+    <md:keyword>auditory ossicle</md:keyword>
+    <md:keyword>axial skeleton</md:keyword>
+    <md:keyword>calf bone</md:keyword>
+    <md:keyword>clavicle</md:keyword>
+    <md:keyword>coxal bone</md:keyword>
+    <md:keyword>cranial bone</md:keyword>
+    <md:keyword>endoskeleton</md:keyword>
+    <md:keyword>exoskeleton</md:keyword>
+    <md:keyword>facial bone</md:keyword>
+    <md:keyword>femur</md:keyword>
+    <md:keyword>fibula</md:keyword>
+    <md:keyword>forearm</md:keyword>
+    <md:keyword>hip bone</md:keyword>
+    <md:keyword>human skeletal system</md:keyword>
+    <md:keyword>human skeleton</md:keyword>
+    <md:keyword>humerus</md:keyword>
+    <md:keyword>hydrostatic skeleton</md:keyword>
+    <md:keyword>hyoid bone</md:keyword>
+    <md:keyword>intervertebral disc</md:keyword>
+    <md:keyword>kneecap</md:keyword>
+    <md:keyword>locomotion</md:keyword>
+    <md:keyword>lower limb</md:keyword>
+    <md:keyword>metatarsal</md:keyword>
+    <md:keyword>middle ear</md:keyword>
+    <md:keyword>musculoskeletal system</md:keyword>
+    <md:keyword>patella</md:keyword>
+    <md:keyword>pectoral girdle</md:keyword>
+    <md:keyword>radius</md:keyword>
+    <md:keyword>rib</md:keyword>
+    <md:keyword>ribcage</md:keyword>
+    <md:keyword>scapula</md:keyword>
+    <md:keyword>shinbone</md:keyword>
+    <md:keyword>skeletal system</md:keyword>
+    <md:keyword>skeleton evolution</md:keyword>
+    <md:keyword>skull</md:keyword>
+    <md:keyword>spine</md:keyword>
+    <md:keyword>sternum</md:keyword>
+    <md:keyword>tarsal</md:keyword>
+    <md:keyword>thighbone</md:keyword>
+    <md:keyword>thoracic cage</md:keyword>
+    <md:keyword>tibia</md:keyword>
+    <md:keyword>ulna</md:keyword>
+    <md:keyword>vertebral column</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Discuss the different types of skeletal systems</item>
+<item>Explain the role of the human skeletal system</item>
+<item>Compare and contrast different skeletal systems</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idm187110912">A skeletal system is necessary to support the body, protect internal organs, and allow for the movement of an organism. There are three different skeleton designs that fulfill these functions: hydrostatic skeleton, exoskeleton, and endoskeleton.</para>
+<section id="fs-idm110664944">
+<title>Hydrostatic Skeleton</title>
+<para id="fs-idm240985504">A <term>hydrostatic skeleton</term> is a skeleton formed by a fluid-filled compartment within the body, called the coelom. The organs of the coelom are supported by the aqueous fluid, which also resists external compression. This compartment is under hydrostatic pressure because of the fluid and supports the other organs of the organism. This type of skeletal system is found in soft-bodied animals such as sea anemones, earthworms, Cnidaria, and other invertebrates (<link target-id="fig-ch38_01_01" document=""/>).</para>
+<figure id="fig-ch38_01_01" class=" "><media id="fs-idm119006144" alt="Photo shows a white sea star with red bumps along the tops and tips of its arms.">
+<image mime-type="image/jpg" src="Figure_38_01_01.jpg" width="320"/>
+</media>
+<caption>The skeleton of the red-knobbed sea star (<emphasis effect="italics">Protoreaster linckii</emphasis>) is an example of a hydrostatic skeleton. (credit: “Amada44”/Wikimedia Commons)</caption></figure><para id="fs-idm249790864">Movement in a hydrostatic skeleton is provided by muscles that surround the coelom. The muscles in a hydrostatic skeleton contract to change the shape of the coelom; the pressure of the fluid in the coelom produces movement. For example, earthworms move by waves of muscular contractions of the skeletal muscle of the body wall hydrostatic skeleton, called peristalsis, which alternately shorten and lengthen the body. Lengthening the body extends the anterior end of the organism. Most organisms have a mechanism to fix themselves in the substrate. Shortening the muscles then draws the posterior portion of the body forward. Although a hydrostatic skeleton is well-suited to invertebrate organisms such as earthworms and some aquatic organisms, it is not an efficient skeleton for terrestrial animals.</para>
+</section>
+<section id="fs-idp14522976">
+<title>Exoskeleton</title>
+<para id="fs-idm92889856">An <term>exoskeleton</term> is an external skeleton that consists of a hard encasement on the surface of an organism. For example, the shells of crabs and insects are exoskeletons (<link target-id="fig-ch38_01_02" document=""/>). This skeleton type provides defence against predators, supports the body, and allows for movement through the contraction of attached muscles. As with vertebrates, muscles must cross a joint inside the exoskeleton. Shortening of the muscle changes the relationship of the two segments of the exoskeleton. Arthropods such as crabs and lobsters have exoskeletons that consist of 30–50 percent chitin, a polysaccharide derivative of glucose that is a strong but flexible material. Chitin is secreted by the epidermal cells. The exoskeleton is further strengthened by the addition of calcium carbonate in organisms such as the lobster. Because the exoskeleton is acellular, arthropods must periodically shed their exoskeletons because the exoskeleton does not grow as the organism grows.</para>
+<figure id="fig-ch38_01_02" class=" "><media id="fs-idm105924704" alt="Photo shows a crab with orange legs and a black body crawling on a tree.">
+<image mime-type="image/jpg" src="Figure_38_01_02.jpg" width="320"/>
+</media>
+<caption>Muscles attached to the exoskeleton of the Halloween crab (<emphasis effect="italics">Gecarcinus quadratus</emphasis>) allow it to move.</caption></figure></section>
+<section id="fs-idp74171488">
+<title>Endoskeleton</title>
+<para id="fs-idm113306112">An <term>endoskeleton</term> is a skeleton that consists of hard, mineralized structures located within the soft tissue of organisms. An example of a primitive endoskeletal structure is the spicules of sponges. The bones of vertebrates are composed of tissues, whereas sponges have no true tissues (<link target-id="fig-ch38_01_03" document=""/>). Endoskeletons provide support for the body, protect internal organs, and allow for movement through contraction of muscles attached to the skeleton.</para>
+<figure id="fig-ch38_01_03" class=" "><media id="fs-idm79728608" alt="Photo shows a human skeleton riding a bucking horse skeleton.">
+<image mime-type="image/jpg" src="Figure_38_01_03.jpg" width="280"/>
+</media>
+<caption>The skeletons of humans and horses are examples of endoskeletons. (credit: Ross Murphy)</caption></figure><para id="fs-idm147535120">The human skeleton is an endoskeleton that consists of 206 bones in the adult. It has five main functions: providing support to the body, storing minerals and lipids, producing blood cells, protecting internal organs, and allowing for movement. The skeletal system in vertebrates is divided into the axial skeleton (which consists of the skull, vertebral column, and rib cage), and the appendicular skeleton (which consists of the shoulders, limb bones, the pectoral girdle, and the pelvic girdle).</para>
+<note id="fs-idm248326800" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idp6813744" alt="QR Code representing a URL">
+<image mime-type="image/png" src="virt_skeleton.png" width="120"/>
+</media>
+<para id="fs-idm16488752">Visit the <link window="new" url="http://openstaxcollege.org/l/virt_skeleton">interactive body</link> site to build a virtual skeleton: select "skeleton" and click through the activity to place each bone.</para></note></section>
+<section id="fs-idm105683952">
+<title>Human Axial Skeleton</title>
+<para id="fs-idm257325856">The <term>axial skeleton</term> forms the central axis of the body and includes the bones of the skull, ossicles of the middle ear, hyoid bone of the throat, vertebral column, and the thoracic cage (ribcage) (<link target-id="fig-ch38_01_04" document=""/>). The function of the axial skeleton is to provide support and protection for the brain, the spinal cord, and the organs in the ventral body cavity. It provides a surface for the attachment of muscles that move the head, neck, and trunk, performs respiratory movements, and stabilizes parts of the appendicular skeleton.</para>
+<figure id="fig-ch38_01_04" class=" "><media id="fs-idm156062512" alt="On a human skeleton, the parts of the axial skeleton are highlighted.">
+<image mime-type="image/jpg" src="Figure_38_01_04.jpg" width="320"/>
+</media>
+<caption>The axial skeleton consists of the bones of the skull, ossicles of the middle ear, hyoid bone, vertebral column, and rib cage. (credit: modification of work by Mariana Ruiz Villareal)</caption></figure><section id="fs-idp4824208">
+<title>The Skull</title>
+<para id="fs-idm18278848">The bones of the <term>skull</term> support the structures of the face and protect the brain. The skull consists of 22 bones, which are divided into two categories: cranial bones and facial bones. The <term>cranial bones</term> are eight bones that form the cranial cavity, which encloses the brain and serves as an attachment site for the muscles of the head and neck. The eight cranial bones are the frontal bone, two parietal bones, two temporal bones, occipital bone, sphenoid bone, and the ethmoid bone. Although the bones developed separately in the embryo and fetus, in the adult, they are tightly fused with connective tissue and adjoining bones do not move (<link target-id="fig-ch38_01_05" document=""/>).</para><figure id="fig-ch38_01_05" class=" "><media id="fs-idm85317248" alt="The eight cranial bones of the skull are shown.">
+<image mime-type="image/jpg" src="Figure_38_01_05.jpg" width="550"/>
+</media>
+<caption>The bones of the skull support the structures of the face and protect the brain. (credit: modification of work by Mariana Ruiz Villareal)</caption></figure><para id="fs-idm187206320">The <term>auditory ossicles</term> of the middle ear transmit sounds from the air as vibrations to the fluid-filled cochlea. The auditory ossicles consist of six bones: two malleus bones, two incus bones, and two stapes on each side. These are the smallest bones in the body and are unique to mammals.</para>
+<para id="fs-idm150278080">Fourteen <term>facial bones</term> form the face, provide cavities for the sense organs (eyes, mouth, and nose), protect the entrances to the digestive and respiratory tracts, and serve as attachment points for facial muscles. The 14 facial bones are the nasal bones, the maxillary bones, zygomatic bones, palatine, vomer, lacrimal bones, the inferior nasal conchae, and the mandible. All of these bones occur in pairs except for the mandible and the vomer (<link target-id="fig-ch38_01_06" document=""/>).</para>
+<figure id="fig-ch38_01_06" class=" "><media id="fs-idm249464736" alt="Illustration shows a front-end view of a skull. The frontal bone is the prominent bone that makes up most of the top of the skull. The parietal bone sphenoid bones make up the side of the skull. Two nasal bones make up the bridge of the nose. The zygomatic bone is the cheek bone. The vomer is a single bone in the middle of the nose. The maxilla makes up the upper jaw, and the mandible is the lower jaw. The lacrimal is a bone on the inner center of they eye. The nasal conchae are bones inside the nose.">
+<image mime-type="image/jpg" src="Figure_38_01_06.jpg" width="575"/>
+</media>
+<caption>The cranial bones, including the frontal, parietal, and sphenoid bones, cover the top of the head. The facial bones of the skull form the face and provide cavities for the eyes, nose, and mouth.</caption></figure><para id="fs-idm48799616">Although it is not found in the skull, the hyoid bone is considered a component of the axial skeleton. The <term>hyoid bone</term> lies below the mandible in the front of the neck. It acts as a movable base for the tongue and is connected to muscles of the jaw, larynx, and tongue. The mandible articulates with the base of the skull. The mandible controls the opening to the airway and gut.  In animals with teeth, the mandible brings the surfaces of the teeth in contact with the maxillary teeth.</para>
+</section>
+<section id="fs-idp9160896">
+<title>The Vertebral Column</title>
+<para id="fs-idm192814544">The <term>vertebral column</term>, or spinal column, surrounds and protects the spinal cord, supports the head, and acts as an attachment point for the ribs and muscles of the back and neck.  The adult vertebral column comprises 26 bones: the 24 vertebrae, the sacrum, and the coccyx bones. In the adult, the sacrum is typically composed of five vertebrae that fuse into one. The coccyx is typically 3–4 vertebrae that fuse into one. Around the age of 70, the sacrum and the coccyx may fuse together. We begin life with approximately 33 vertebrae, but as we grow, several vertebrae fuse together. The adult vertebrae are further divided into the 7 cervical vertebrae, 12 thoracic vertebrae, and 5 lumbar vertebrae (<link target-id="fig-ch38_01_07" document=""/>).</para>
+<figure id="fig-ch38_01_07" class=" "><media id="fs-idm18354208" alt="Illustration A shows all the vertebrae in a vertebral column. Illustration B shows that different sections of vertebrae curve in different directions. The cervical vertebrae in the neck curve toward the front of the body. The thoracic vertebrae, which extend from the neck to the bottom of the rib cage, curve toward the back of the body. The lumbar vertebrae, which extend to the bottom of the back, curve toward the front again. The sacrum and the coccygeal vertebrae make up the sacral curve that curves toward the back.">
+<image mime-type="image/jpg" src="Figure_38_01_07.jpg" width="550"/>
+</media>
+<caption>(a) The vertebral column consists of seven cervical vertebrae (C1–7) twelve thoracic vertebrae (Th1–12), five lumbar vertebrae (L1–5), the os sacrum, and the coccyx. (b) Spinal curves increase the strength and flexibility of the spine. (credit a: modification of work by Uwe Gille based on original work by Gray's Anatomy; credit b: modification of work by NCI, NIH)</caption></figure><para id="fs-idm241497712">Each vertebral body has a large hole in the center through which the nerves of the spinal cord pass. There is also a notch on each side through which the spinal nerves, which serve the body at that level, can exit from the spinal cord. The vertebral column is approximately 71 cm (28 inches) in adult male humans and is curved, which can be seen from a side view. The names of the spinal curves correspond to the region of the spine in which they occur. The thoracic and sacral curves are concave (curve inwards relative to the front of the body) and the cervical and lumbar curves are convex (curve outwards relative to the front of the body). The arched curvature of the vertebral column increases its strength and flexibility, allowing it to absorb shocks like a spring (<link target-id="fig-ch38_01_07" document=""/>).</para>
+<para id="fs-idm11353120"><term>Intervertebral discs</term> composed of fibrous cartilage lie between adjacent vertebral bodies from the second cervical vertebra to the sacrum. Each disc is part of a joint that allows for some movement of the spine and acts as a cushion to absorb shocks from movements such as walking and running. Intervertebral discs also act as ligaments to bind vertebrae together. The inner part of discs, the nucleus pulposus, hardens as people age and becomes less elastic. This loss of elasticity diminishes its ability to absorb shocks.</para>
+</section>
+<section id="fs-idm90388720">
+<title>The Thoracic Cage</title>
+<para id="fs-idm141486384">The <term>thoracic cage</term>, also known as the ribcage, is the skeleton of the chest, and consists of the ribs, sternum, thoracic vertebrae, and costal cartilages (<link target-id="fig-ch38_01_08" document=""/>). The thoracic cage encloses and protects the organs of the thoracic cavity, including the heart and lungs. It also provides support for the shoulder girdles and upper limbs, and serves as the attachment point for the diaphragm, muscles of the back, chest, neck, and shoulders.  Changes in the volume of the thorax enable breathing.</para>
+<para id="fs-idp21032176">The <term>sternum</term>, or breastbone, is a long, flat bone located at the anterior of the chest. It is formed from three bones that fuse in the adult. The <term>ribs</term> are 12 pairs of long, curved bones that attach to the thoracic vertebrae and curve toward the front of the body, forming the ribcage. Costal cartilages connect the anterior ends of the ribs to the sternum, with the exception of rib pairs 11 and 12, which are free-floating ribs.</para>
+<figure id="fig-ch38_01_08" class=" "><media id="fs-idm10569232" alt="Illustration shows the rib cage and the sternum, which is the bone in the front and center of the upper body. The rib bones, which end about three quarters of the way around the body, do not connect directly to the sternum; instead, costal cartilage connects the rib bones to the sternum.">
+<image mime-type="image/jpg" src="Figure_38_01_08.jpg" width="320"/>
+</media>
+<caption>The thoracic cage, or rib cage, protects the heart and the lungs. (credit: modification of work by NCI, NIH)</caption></figure></section>
+</section>
+<section id="fs-idm147139328">
+<title>Human Appendicular Skeleton</title>
+<para id="fs-idm304786272">The <term>appendicular skeleton</term> is composed of the bones of the upper limbs (which function to grasp and manipulate objects) and the lower limbs (which permit locomotion). It also includes the pectoral girdle, or shoulder girdle, that attaches the upper limbs to the body, and the pelvic girdle that attaches the lower limbs to the body (<link target-id="fig-ch38_01_09" document=""/>).</para>
+<figure id="fig-ch38_01_09" class=" "><media id="fs-idm25891072" alt="Illustration shows the appendicular skeleton, which consists of arms, legs, shoulder bones, and the pelvic girdle.">
+<image mime-type="image/jpg" src="Figure_38_01_09.jpg" width="300"/>
+</media>
+<caption>The appendicular skeleton is composed of the bones of the pectoral limbs (arm, forearm, hand), the pelvic limbs (thigh, leg, foot), the pectoral girdle, and the pelvic girdle. (credit: modification of work by Mariana Ruiz Villareal)</caption></figure><section id="fs-idm108911856">
+<title>The Pectoral Girdle</title>
+<para id="fs-idm190551616">The <term>pectoral girdle</term> bones provide the points of attachment of the upper limbs to the axial skeleton. The human pectoral girdle consists of the clavicle (or collarbone) in the anterior, and the scapula (or shoulder blades) in the posterior (<link target-id="fig-ch38_01_10" document=""/>).</para>
+<figure id="fig-ch38_01_10" class=" "><media id="fs-idm294204144" alt="Illustration shows the pectoral girdles of the shoulder. Each girdle consists of a long, thin clavicle that runs from the sternum to the arm and a flat, triangular scapula that extends down from the clavicle. Viewed from the back, the upper part of the scapula has a prominent protrusion, called a spine.">
+<image mime-type="image/jpg" src="Figure_38_01_10.jpg" width="575"/>
+</media>
+<caption>(a) The pectoral girdle in primates consists of the clavicles and scapulae. (b) The posterior view reveals the spine of the scapula to which muscle attaches.</caption></figure><para id="fs-idm107048624">The <term>clavicles</term> are S-shaped bones that position the arms on the body. The clavicles lie horizontally across the front of the thorax (chest) just above the first rib. These bones are fairly fragile and are susceptible to fractures. For example, a fall with the arms outstretched causes the force to be transmitted to the clavicles, which can break if the force is excessive. The clavicle articulates with the sternum and the scapula.</para>
+<para id="fs-idm141908816">The <term>scapulae</term> are flat, triangular bones that are located at the back of the pectoral girdle. They support the muscles crossing the shoulder joint. A ridge, called the spine, runs across the back of the scapula and can easily be felt through the skin (<link target-id="fig-ch38_01_10" document=""/>). The spine of the scapula is a good example of a bony protrusion that facilitates a broad area of attachment for muscles to bone.</para>
+</section>
+<section id="fs-idm104959088">
+<title>The Upper Limb</title>
+<para id="fs-idm67292656">The upper limb contains 30 bones in three regions: the arm (shoulder to elbow), the forearm (ulna and radius), and the wrist and hand (<link target-id="fig-ch38_01_11" document=""/>).</para>
+<figure id="fig-ch38_01_11" class=" "><media id="fs-idm149420576" alt="Illustration shows a skeletal human arm. The humerus is the bone of the upper arm. The radius is the thick bone in the forearm, and the ulna is the thin bone. The carpals are the bones of the wrist, the metacarpals are bones of the hand, and phalanges are bones of the fingers.">
+<image mime-type="image/jpg" src="Figure_38_01_11.jpg" width="300"/>
+</media>
+<caption>The upper limb consists of the humerus of the upper arm, the radius and ulna of the forearm, eight bones of the carpus, five bones of the metacarpus, and 14 bones of the phalanges.</caption></figure><para id="fs-idm24709360">An <term>articulation</term> is any place at which two bones are joined. The <term>humerus</term> is the largest and longest bone of the upper limb and the only bone of the arm. It articulates with the scapula at the shoulder and with the forearm at the elbow. The <term>forearm</term> extends from the elbow to the wrist and consists of two bones: the ulna and the radius. The <term>radius</term> is located along the lateral (thumb) side of the forearm and articulates with the humerus at the elbow. The <term>ulna</term> is located on the medial aspect (pinky-finger side) of the forearm. It is longer than the radius. The ulna articulates with the humerus at the elbow. The radius and ulna also articulate with the carpal bones and with each other, which in vertebrates enables a variable degree of rotation of the carpus with respect to the long axis of the limb.  The hand includes the eight bones of the <term>carpus</term> (wrist), the five bones of the <term>metacarpus</term> (palm), and the 14 bones of the <term>phalanges</term> (digits). Each digit consists of three phalanges, except for the thumb, when present, which has only two.</para>
+</section>
+<section id="fs-idm207906512">
+<title>The Pelvic Girdle</title>
+<para id="fs-idm74307264">The <term>pelvic girdle</term> attaches to the lower limbs of the axial skeleton. Because it is responsible for bearing the weight of the body and for locomotion, the pelvic girdle is securely attached to the axial skeleton by strong ligaments. It also has deep sockets with robust ligaments to securely attach the femur to the body. The pelvic girdle is further strengthened by two large hip bones. In adults, the hip bones, or <term>coxal bones</term>, are formed by the fusion of three pairs of bones: the ilium, ischium, and pubis. The pelvis joins together in the anterior of the body at a joint called the pubic symphysis and with the bones of the sacrum at the posterior of the body.</para>
+<para id="fs-idp19606464">The female pelvis is slightly different from the male pelvis. Over generations of evolution, females with a wider pubic angle and larger diameter pelvic canal reproduced more successfully. Therefore, their offspring also had pelvic anatomy that enabled successful childbirth (<link target-id="fig-ch38_01_12" document=""/>).</para>
+<figure id="fig-ch38_01_12" class=" "><media id="fs-idm244530080" alt="Illustration compares male and female pelvic bones. In both males and females, a wide, rounded bone called the ilium attaches to each side of the spine. The ilium curves toward the front, where it narrows into the ischium. A loop-shaped bone extends down from the place where the ilium meets the ischium, and connects back to the ilium in the front center of the body.">
+<image mime-type="image/jpg" src="Figure_38_01_12.jpg" width="575"/>
+</media>
+<caption>To adapt to reproductive fitness, the (a) female pelvis is lighter, wider, shallower, and has a broader angle between the pubic bones than (b) the male pelvis.</caption></figure></section>
+<section id="fs-idm301835440">
+<title>The Lower Limb</title>
+<para id="fs-idm207138000">The <term>lower limb</term> consists of the thigh, the leg, and the foot. The bones of the lower limb are the femur (thigh bone), patella (kneecap), tibia and fibula (bones of the leg), tarsals (bones of the ankle), and metatarsals and phalanges (bones of the foot) (<link target-id="fig-ch38_01_13" document=""/>). The bones of the lower limbs are thicker and stronger than the bones of the upper limbs because of the need to support the entire weight of the body and the resulting forces from locomotion. In addition to evolutionary fitness, the bones of an individual will respond to forces exerted upon them.</para>
+<figure id="fig-ch38_01_13" class=" "><media id="fs-idm52432864" alt="Illustration shows a leg. The bone of the upper leg is the femur. The tibia is the thicker, front bone of the lower leg, and the fibula is the rear bone. The tarsals are the bones of the ankle. The metatarsals are the bones of the foot, and the phalanges are the bones of the toes.">
+<image mime-type="image/jpg" src="Figure_38_01_13.jpg" width="300"/>
+</media>
+<caption>The lower limb consists of the thigh (femur), kneecap (patella), leg (tibia and fibula), ankle (tarsals), and foot (metatarsals and phalanges) bones.</caption></figure><para id="fs-idm202465392">The <term>femur</term>, or thighbone, is the longest, heaviest, and strongest bone in the body. The femur and pelvis form the hip joint at the proximal end. At the distal end, the femur, tibia, and patella form the knee joint. The <term>patella</term>, or kneecap, is a triangular bone that lies anterior to the knee joint. The patella is embedded in the tendon of the femoral extensors (quadriceps). It improves knee extension by reducing friction. The <term>tibia</term>, or shinbone, is a large bone of the leg that is located directly below the knee. The tibia articulates with the femur at its proximal end, with the fibula and the tarsal bones at its distal end. It is the second largest bone in the human body and is responsible for transmitting the weight of the body from the femur to the foot. The <term>fibula</term>, or calf bone, parallels and articulates with the tibia. It does not articulate with the femur and does not bear weight. The fibula acts as a site for muscle attachment and forms the lateral part of the ankle joint.</para>
+<para id="fs-idm150616576">The <term>tarsals</term> are the seven bones of the ankle. The ankle transmits the weight of the body from the tibia and the fibula to the foot. The <term>metatarsals</term> are the five bones of the foot. The phalanges are the 14 bones of the toes. Each toe consists of three phalanges, except for the big toe that has only two (<link target-id="fig-ch38_01_14" document=""/>). Variations exist in other species; for example, the horse’s metacarpals and metatarsals are oriented vertically and do not make contact with the substrate.</para>
+<figure id="fig-ch38_01_14" class=" "><media id="fs-idm4450304" alt="Illustration shows a human foot. The metatarsals are five long, thin bones that connect to the phalanges.">
+<image mime-type="image/jpg" src="Figure_38_01_14.jpg" width="320"/>
+</media>
+<caption>This drawing shows the bones of the human foot and ankle, including the metatarsals and the phalanges.</caption></figure><note id="fs-idm67246192" class="evolution"><label/><title>Evolution Connection</title>
+
+<para id="fs-idm19887168">
+<title>Evolution of Body Design for Locomotion on Land</title>
+The transition of vertebrates onto land required a number of changes in body design, as movement on land presents a number of challenges for animals that are adapted to movement in water. The buoyancy of water provides a certain amount of lift, and a common form of movement by fish is lateral undulations of the entire body. This back and forth movement pushes the body against the water, creating forward movement. In most fish, the muscles of paired fins attach to girdles within the body, allowing for some control of locomotion. As certain fish began moving onto land, they retained their lateral undulation form of locomotion (anguilliform). However, instead of pushing against water, their fins or flippers became points of contact with the ground, around which they rotated their bodies.</para>
+<para id="fs-idm116370592">The effect of gravity and the lack of buoyancy on land meant that body weight was suspended on the limbs, leading to increased strengthening and ossification of the limbs. The effect of gravity also required changes to the axial skeleton. Lateral undulations of land animal vertebral columns cause torsional strain. A firmer, more ossified vertebral column became common in terrestrial tetrapods because it reduces strain while providing the strength needed to support the body’s weight. In later tetrapods, the vertebrae began allowing for vertical motion rather than lateral flexion. Another change in the axial skeleton was the loss of a direct attachment between the pectoral girdle and the head. This reduced the jarring to the head caused by the impact of the limbs on the ground. The vertebrae of the neck also evolved to allow movement of the head independently of the body.</para>
+<para id="fs-idm153070864">The appendicular skeleton of land animals is also different from aquatic animals. The shoulders attach to the pectoral girdle through muscles and connective tissue, thus reducing the jarring of the skull. Because of a lateral undulating vertebral column, in early tetrapods, the limbs were splayed out to the side and movement occurred by performing “push-ups.” The vertebrae of these animals had to move side-to-side in a similar manner to fish and reptiles. This type of motion requires large muscles to move the limbs toward the midline; it was almost like walking while doing push-ups, and it is not an efficient use of energy. Later tetrapods have their limbs placed under their bodies, so that each stride requires less force to move forward. This resulted in decreased adductor muscle size and an increased range of motion of the scapulae. This also restricts movement primarily to one plane, creating forward motion rather than moving the limbs upward as well as forward.  The femur and humerus were also rotated, so that the ends of the limbs and digits were pointed forward, in the direction of motion, rather than out to the side. By placement underneath the body, limbs can swing forward like a pendulum to produce a stride that is more efficient for moving over land.</para>
+</note></section>
+</section>
+<section id="fs-idm187217072" class="summary">
+<title>Section Summary</title><para id="fs-idm122316896">The three types of skeleton designs are hydrostatic skeletons, exoskeletons, and endoskeletons. A hydrostatic skeleton is formed by a fluid-filled compartment held under hydrostatic pressure; movement is created by the muscles producing pressure on the fluid. An exoskeleton is a hard external skeleton that protects the outer surface of an organism and enables movement through muscles attached on the inside. An endoskeleton is an internal skeleton composed of hard, mineralized tissue that also enables movement by attachment to muscles. The human skeleton is an endoskeleton that is composed of the axial and appendicular skeleton. The axial skeleton is composed of the bones of the skull, ossicles of the ear, hyoid bone, vertebral column, and ribcage. The skull consists of eight cranial bones and 14 facial bones. Six bones make up the ossicles of the middle ear, while the hyoid bone is located in the neck under the mandible. The vertebral column contains 26 bones, and it surrounds and protects the spinal cord. The thoracic cage consists of the sternum, ribs, thoracic vertebrae, and costal cartilages. The appendicular skeleton is made up of the limbs of the upper and lower limbs. The pectoral girdle is composed of the clavicles and the scapulae. The upper limb contains 30 bones in the arm, the forearm, and the hand. The pelvic girdle attaches the lower limbs to the axial skeleton. The lower limb includes the bones of the thigh, the leg, and the foot.</para>
+    </section>
+<section id="fs-idm118066176" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm190702464">
+<problem id="fs-idm80240352"><para id="fs-idm154364416">The forearm consists of the:</para>
+<list id="fs-idm227825152" list-type="enumerated" number-style="lower-alpha">
+<item>radius and ulna</item>
+<item>radius and humerus</item>
+<item>ulna and humerus</item>
+<item>humerus and carpus</item>
+</list>
+</problem>
+    <solution id="fs-idm190553776">
+        <label/>
+        <para id="fs-idm196046224">A</para>
+    </solution>
+    </exercise>
+<exercise id="fs-idm201806112">
+<problem id="fs-idm155699952"><para id="fs-idm117396208">The pectoral girdle consists of the:</para>
+<list id="fs-idm239005168" list-type="enumerated" number-style="lower-alpha">
+<item>clavicle and sternum</item>
+<item>sternum and scapula</item>
+<item>clavicle and scapula</item>
+<item>clavicle and coccyx</item>
+</list>
+</problem>
+<solution id="fs-idm95711104">
+<label/>
+<para id="fs-idm247771472">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idp96311840">
+<problem id="fs-idm25930624"><para id="fs-idp78230688">All of the following are groups of vertebrae except ________, which is a curvature.</para>
+<list id="fs-idm169327360" list-type="enumerated" number-style="lower-alpha">
+<item>thoracic</item>
+<item>cervical</item>
+<item>lumbar</item>
+<item>pelvic</item>
+</list>
+</problem>
+<solution id="fs-idm55181632">
+<label/>
+<para id="fs-idp40162640">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idp33973808">
+<problem id="fs-idm38742640"><para id="fs-idm19578784">Which of these is a facial bone?</para>
+<list id="fs-idm111686496" list-type="enumerated" number-style="lower-alpha">
+<item>frontal</item>
+<item>occipital</item>
+<item>lacrimal</item>
+<item>temporal</item>
+</list>
+</problem>
+<solution id="fs-idm274430000">
+<label/>
+<para id="fs-idm123544896">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm128989824" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm221345648">
+<problem id="fs-idm124905632"><para id="fs-idm193190688">What are the major differences between the male pelvis and female pelvis that permit childbirth in females?</para></problem>
+<solution id="fs-idp30859088"><label/>
+<para id="fs-idm157257568">The female pelvis is tilted forward and is wider, lighter, and shallower than the male pelvis. It is also has a pubic angle that is broader than the male pelvis.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm188257296">
+<problem id="fs-idp30875056"><para id="fs-idm185815536">What are the major differences between the pelvic girdle and the pectoral girdle that allow the pelvic girdle to bear the weight of the body?</para></problem>
+<solution id="fs-idm239779824"><label/>
+<para id="fs-idp4846544">The pelvic girdle is securely attached to the body by strong ligaments, unlike the pectoral girdle, which is sparingly attached to the ribcage. The sockets of the pelvic girdle are deep, allowing the femur to be more stable than the pectoral girdle, which has shallow sockets for the scapula. Most tetrapods have 75 percent of their weight on the front legs because the head and neck are so heavy; the advantage of the shoulder joint is more degrees of freedom in movement.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm73369328"><term>appendicular skeleton</term> <meaning id="fs-idm73469280">composed of the bones of the upper limbs, which function to grasp and manipulate objects, and the lower limbs, which permit locomotion</meaning></definition>
+<definition id="fs-idm193791456"><term>articulation</term> <meaning id="fs-idm192471520">any place where two bones are joined</meaning></definition>
+<definition id="fs-idp72940416"><term>auditory ossicle</term> <meaning id="fs-idm58066928">(also, middle ear) transduces sounds from the air into vibrations in the fluid-filled cochlea</meaning></definition>
+<definition id="fs-idm169329920"><term>axial skeleton</term> <meaning id="fs-idp16316496">forms the central axis of the body and includes the bones of the skull, the ossicles of the middle ear, the hyoid bone of the throat, the vertebral column, and the thoracic cage (ribcage)</meaning></definition>
+<definition id="fs-idm189432672"><term>carpus</term> <meaning id="fs-idm197675168">eight bones that comprise the wrist</meaning></definition>
+<definition id="fs-idm255260192"><term>clavicle</term> <meaning id="fs-idm186104272">S-shaped bone that positions the arms laterally</meaning></definition>
+<definition id="fs-idm201139328"><term>coxal bone</term> <meaning id="fs-idm71685632">hip bone</meaning></definition>
+<definition id="fs-idm189607984"><term>cranial bone</term> <meaning id="fs-idm157405824">one of eight bones that form the cranial cavity that encloses the brain and serves as an attachment site for the muscles of the head and neck</meaning></definition>
+<definition id="fs-idm58443424"><term>endoskeleton</term> <meaning id="fs-idm185200528">skeleton of living cells that produce a hard, mineralized tissue located within the soft tissue of organisms</meaning></definition>
+<definition id="fs-idm169409296"><term>exoskeleton</term> <meaning id="fs-idm371728">a secreted cellular product external skeleton that consists of a hard encasement on the surface of an organism</meaning></definition>
+<definition id="fs-idm124839328"><term>facial bone</term> <meaning id="fs-idm187472784">one of the 14 bones that form the face; provides cavities for the sense organs (eyes, mouth, and nose) and attachment points for facial muscles</meaning></definition>
+<definition id="fs-idm92590016"><term>femur</term> <meaning id="fs-idm177621744">(also, thighbone) longest, heaviest, and strongest bone in the body</meaning></definition>
+<definition id="fs-idm58050112"><term>fibula</term> <meaning id="fs-idp19110512">(also, calf bone) parallels and articulates with the tibia</meaning></definition>
+<definition id="fs-idm155702416"><term>forearm</term> <meaning id="fs-idm144603264">extends from the elbow to the wrist and consists of two bones: the ulna and the radius</meaning></definition>
+<definition id="fs-idm66968656"><term>humerus</term> <meaning id="fs-idm75671712">only bone of the arm</meaning></definition>
+<definition id="fs-idm34566320"><term>hydrostatic skeleton</term> <meaning id="fs-idm181651264">skeleton that consists of aqueous fluid held under pressure in a closed body compartment</meaning></definition>
+<definition id="fs-idm129508064"><term>hyoid bone</term> <meaning id="fs-idm121468784">lies below the mandible in the front of the neck</meaning></definition>
+<definition id="fs-idm160592112"><term>intervertebral disc</term> <meaning id="fs-idp67947872">composed of fibrous cartilage; lies between adjacent vertebrae from the second cervical vertebra to the sacrum</meaning></definition>
+<definition id="fs-idm189864640"><term>lower limb</term> <meaning id="fs-idm48803088">consists of the thigh, the leg, and the foot</meaning></definition>
+<definition id="fs-idm163187664"><term>metacarpus</term> <meaning id="fs-idm196017328">five bones that comprise the palm</meaning></definition>
+<definition id="fs-idm174138064"><term>metatarsal</term> <meaning id="fs-idm151025984">one of the five bones of the foot</meaning></definition>
+<definition id="fs-idm223428656"><term>patella</term> <meaning id="fs-idm61471360">(also, kneecap) triangular bone that lies anterior to the knee joint</meaning></definition>
+<definition id="fs-idm59106848"><term>pectoral girdle</term> <meaning id="fs-idm150506400">bones that transmit the force generated by the upper limbs to the axial skeleton</meaning></definition>
+<definition id="fs-idm26963040"><term>phalange</term> <meaning id="fs-idm34435920">one of the bones of the fingers or toes</meaning></definition>
+<definition id="fs-idm73668896"><term>pelvic girdle</term> <meaning id="fs-idm72973744">bones that transmit the force generated by the lower limbs to the axial skeleton</meaning></definition>
+<definition id="fs-idm51570656"><term>radius</term> <meaning id="fs-idm13600880">bone located along the lateral (thumb) side of the forearm; articulates with the humerus at the elbow</meaning></definition>
+<definition id="fs-idm154808304"><term>rib</term> <meaning id="fs-idm116092096">one of 12 pairs of long, curved bones that attach to the thoracic vertebrae and curve toward the front of the body to form the ribcage</meaning></definition>
+<definition id="fs-idp12316848"><term>scapula</term> <meaning id="fs-idm153483728">flat, triangular bone located at the posterior pectoral girdle</meaning></definition>
+<definition id="fs-idm79829200"><term>skull</term> <meaning id="fs-idm87492352">bone that supports the structures of the face and protects the brain</meaning></definition>
+<definition id="fs-idm16895744"><term>sternum</term> <meaning id="fs-idm223699568">(also, breastbone) long, flat bone located at the front of the chest</meaning></definition>
+<definition id="fs-idm185988304"><term>tarsal</term> <meaning id="fs-idm122879760">one of the seven bones of the ankle</meaning></definition>
+<definition id="fs-idm34727168"><term>thoracic cage</term> <meaning id="fs-idm141375152">(also, ribcage) skeleton of the chest, which consists of the ribs, thoracic vertebrae, sternum, and costal cartilages</meaning></definition>
+<definition id="fs-idm80468288"><term>tibia</term> <meaning id="fs-idm260807696">(also, shinbone) large bone of the leg that is located directly below the knee</meaning></definition>
+<definition id="fs-idm179318064"><term>ulna</term> <meaning id="fs-idm34668112">bone located on the medial aspect (pinky-finger side) of the forearm</meaning></definition>
+<definition id="fs-idm173753360"><term>vertebral column</term> <meaning id="fs-idm131542560">(also, spine) surrounds and protects the spinal cord, supports the head, and acts as an attachment point for ribs and muscles of the back and neck</meaning></definition>
+</glossary>
+</document>

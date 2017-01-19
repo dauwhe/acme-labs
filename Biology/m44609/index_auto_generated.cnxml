@@ -1,0 +1,220 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Beneficial Prokaryotes</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44609/latest/</md:content-url>
+  <md:content-id>m44609</md:content-id>
+  <md:title>Beneficial Prokaryotes</md:title>
+  <md:version>1.8</md:version>
+  <md:created>2012/08/23 09:23:07 -0500</md:created>
+  <md:revised>2013/10/09 11:28:48.284 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>archaea</md:keyword>
+    <md:keyword>bacteria</md:keyword>
+    <md:keyword>biological nitrogen fixation</md:keyword>
+    <md:keyword>bioremediation</md:keyword>
+    <md:keyword>biotechnology</md:keyword>
+    <md:keyword>microbiologist</md:keyword>
+    <md:keyword>nitrogen fixation</md:keyword>
+    <md:keyword>nodule</md:keyword>
+    <md:keyword>prokaryote</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain the need for nitrogen fixation and how it is accomplished</item>
+<item>Identify foods in which prokaryotes are used in the processing</item>
+<item>Describe the use of prokaryotes in bioremediation</item>
+<item>Describe the beneficial effects of bacteria that colonize our skin and digestive tracts</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idp52463728">Not all prokaryotes are pathogenic. On the contrary, pathogens represent only a very small percentage of the diversity of the microbial world. In fact, our life would not be possible without prokaryotes. Just think about the role of prokaryotes in biogeochemical cycles.</para>
+<section id="fs-idp44612112">
+<title>Cooperation between Bacteria and Eukaryotes: Nitrogen Fixation</title>
+<para id="fs-idp77772624">Nitrogen is a very important element to living things, because it is part of nucleotides and amino acids that are the building blocks of nucleic acids and proteins, respectively. Nitrogen is usually the most limiting element in terrestrial ecosystems, with atmospheric nitrogen, N<sub>2</sub>, providing the largest pool of available nitrogen. However, eukaryotes cannot use atmospheric, gaseous nitrogen to synthesize macromolecules. Fortunately, nitrogen can be &#8220;fixed,&#8221; meaning it is converted into ammonia (NH<sub>3</sub>) either biologically or abiotically. Abiotic nitrogen fixation occurs as a result of lightning or by industrial processes.</para>
+<para id="fs-idp136134416"><term>Biological nitrogen fixation</term> (BNF) is exclusively carried out by prokaryotes: soil bacteria, cyanobacteria, and <emphasis effect="italics">Frankia</emphasis> spp. (filamentous bacteria interacting with actinorhizal plants such as alder, bayberry, and sweet fern). After photosynthesis, BNF is the second most important biological process on Earth. The equation representing the process is as follows</para>
+<equation id="eip-324">
+<m:math display="block">
+<m:mrow>
+<m:msub>
+<m:mtext>N</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:msup>
+<m:mrow>
+<m:mtext>&#160;+&#160;16ATP&#160;+&#160;8e</m:mtext>
+</m:mrow>
+<m:mo>&#8722;</m:mo>
+</m:msup>
+<m:msup>
+<m:mrow>
+<m:mtext>&#160;+&#160;8H</m:mtext>
+</m:mrow>
+<m:mo>+</m:mo>
+</m:msup>
+<m:mtext>&#160;</m:mtext><m:mo stretchy="false">&#8594;</m:mo><m:msub>
+<m:mrow>
+<m:mtext>&#160;2NH</m:mtext>
+</m:mrow>
+<m:mn>3</m:mn>
+</m:msub>
+<m:msub>
+<m:mrow>
+<m:mtext>&#160;+&#160;16ADP&#160;+&#160;16Pi&#160;+&#160;H</m:mtext>
+</m:mrow>
+<m:mn>2</m:mn>
+</m:msub>
+
+</m:mrow>
+</m:math></equation><para id="fs-idp28467808">where Pi stands for inorganic phosphate. The total fixed nitrogen through BNF is about 100 to 180 million metric tons per year. Biological processes contribute 65 percent of the nitrogen used in agriculture.</para>
+<para id="fs-idp165163504">Cyanobacteria are the most important nitrogen fixers in aquatic environments. In soil, members of the genus <emphasis effect="italics">Clostridium</emphasis> are examples of free-living, nitrogen-fixing bacteria. Other bacteria live symbiotically with legume plants, providing the most important source of BNF. Symbionts may fix more nitrogen in soils than free-living organisms by a factor of 10. Soil bacteria, collectively called rhizobia, are able to symbiotically interact with legumes to form <term>nodules</term>, specialized structures where nitrogen fixation occurs (<link target-id="fig-ch22_05_01" document=""/>). Nitrogenase, the enzyme that fixes nitrogen, is inactivated by oxygen, so the nodule provides an oxygen-free area for nitrogen fixation to take place. This process provides a natural and inexpensive plant fertilizer, as it reduces atmospheric nitrogen to ammonia, which is easily usable by plants. The use of&#160;legumes is an excellent alternative to&#160;chemical fertilization and is of special&#160;interest to sustainable agriculture, which seeks to minimize the&#160;use of chemicals and conserve natural resources. Through symbiotic nitrogen fixation, the plant benefits from using an endless source of nitrogen: the atmosphere. Bacteria benefit from using photosynthates (carbohydrates produced during photosynthesis) from the plant and having a protected niche. Additionally, the soil benefits from being naturally fertilized. Therefore, the use of rhizobia as biofertilizers is a sustainable practice.</para><para id="fs-idm61079952">Why are legumes so important? Some, like soybeans,&#160;are key sources of agricultural protein.&#160;Some of the most important grain legumes are soybean, peanuts, peas, chickpeas, and beans. Other legumes, such as alfalfa, are used to feed cattle.</para>
+<figure id="fig-ch22_05_01"><media id="fs-idp116011328" alt="This photo shows a legume root, which is thin and yellow with nodules sticking out of it.">
+<image mime-type="image/jpg" src="Figure_22_05_01.jpg" width="320"/>
+</media>
+
+<caption>Soybean (<emphasis effect="italics">Glycine max</emphasis>) is a legume that interacts symbiotically with the soil bacterium <emphasis effect="italics">Bradyrhizobium japonicum</emphasis> to form specialized structures on the roots called nodules where nitrogen fixation occurs. (credit: USDA)</caption></figure></section>
+<section id="fs-idm40592">
+<title>Early Biotechnology: Cheese, Bread, Wine, Beer, and Yogurt</title>
+<para id="fs-idm38795664">According to the United Nations Convention on Biological Diversity, <term>biotechnology</term> is &#8220;any technological application that uses biological systems, living organisms, or derivatives thereof, to make or modify products or processes for specific use."<sup><footnote id="fs-idm36724880">http://www.cbd.int/convention/articles/?a=cbd-02, United Nations Convention on Biological Diversity: Article 2: Use of Terms.</footnote></sup> The concept of &#8220;specific use&#8221; involves some sort of commercial application. Genetic engineering, artificial selection, antibiotic production, and cell culture are current topics of study in biotechnology. However, humans have used prokaryotes before the term biotechnology was even coined. In addition, some of the goods and services are as simple as cheese, bread, wine, beer, and yogurt, which employ both bacteria and other microbes, such as yeast, a fungus (<link target-id="fig-ch22_05_02" document=""/>).</para>
+<figure id="fig-ch22_05_02" class=" "><media id="fs-idp56448576" alt="The photo collage shows cheese, wine, beer and bread, and yogurt.">
+<image mime-type="image/jpg" src="Figure_22_05_02abcd.jpg" width="455"/>
+</media>
+
+<caption>Some of the products derived from the use of prokaryotes in early biotechnology include (a) cheese, (b) wine, (c) beer and bread, and (d) yogurt. (credit bread: modification of work by F. Rodrigo/Wikimedia Commons; credit wine: modification of work by Jon Sullivan; credit beer and bread: modification of work by Kris Miller; credit yogurt: modification of work by Jon Sullivan)</caption></figure><para id="fs-idp122636224">Cheese production began around 4,000&#8211;7,000 years ago when humans began to breed animals and process their milk. Fermentation in this case preserves nutrients: Milk will spoil relatively quickly, but when processed as cheese, it is more stable. As for beer, the oldest records of brewing are about 6,000 years old and refer to the Sumerians. Evidence indicates that the Sumerians discovered fermentation by chance.&#160;Wine has been produced for about 4,500 years, and evidence suggests that cultured milk products, like yogurt, have existed for at least 4,000 years.</para>
+</section>
+<section id="fs-idp44601808">
+<title>Using Prokaryotes to Clean up Our Planet: Bioremediation</title>
+<para id="fs-idm36174032">Microbial <term>bioremediation</term> is the use of prokaryotes (or microbial metabolism) to remove pollutants. Bioremediation has been used to remove agricultural chemicals (pesticides, fertilizers) that leach from soil into groundwater and the subsurface. Certain toxic metals and oxides, such as selenium and arsenic compounds, can also be removed from water by bioremediation. The reduction of SeO<sub>4</sub><sup>-2</sup> to SeO<sub>3</sub><sup>-2</sup> and to Se<sup>0</sup> (metallic selenium) is a method used to remove selenium ions from water. Mercury is an example of a toxic metal that can be removed from an environment by bioremediation. As an active ingredient of some pesticides, mercury is used in industry and is also a by-product of certain processes, such as battery production. Methyl mercury is usually present in very low concentrations in natural environments, but it is highly toxic because it accumulates in living tissues. Several species of bacteria can carry out the biotransformation of toxic mercury into nontoxic forms. These bacteria, such as <emphasis effect="italics">Pseudomonas aeruginosa</emphasis>, can convert Hg<sup>+2</sup> into Hg<sup>0</sup>, which is nontoxic to humans.</para>
+<para id="fs-idp21794192">One of the most useful and interesting examples of the use of prokaryotes for bioremediation purposes is the cleanup of oil spills. The importance of prokaryotes to petroleum bioremediation has been demonstrated in several oil spills in recent years, such as the Exxon Valdez spill in Alaska (1989) (<link target-id="fig-ch22_05_03" document=""/>), the Prestige oil spill in Spain (2002), the spill into the Mediterranean from a Lebanon power plant (2006), and more recently, the BP oil spill in the Gulf of Mexico (2010). To clean up these spills, bioremediation is promoted by the addition of inorganic nutrients that help bacteria to grow. Hydrocarbon-degrading bacteria feed on hydrocarbons in the oil droplet, breaking down the hydrocarbons. Some species, such as <emphasis effect="italics">Alcanivorax borkumensis</emphasis>, produce surfactants that solubilize the oil, whereas other bacteria degrade the oil into carbon dioxide. In the case of oil spills in the ocean, ongoing, natural bioremediation tends to occur, inasmuch as there are oil-consuming bacteria in the ocean prior to the spill. In addition to naturally occurring oil-degrading bacteria, humans select and engineer bacteria that possess the same capability with increased efficacy and spectrum of hydrocarbon compounds that can be processed. Under ideal conditions, it has been reported that up to 80 percent of the nonvolatile components in oil can be degraded within one year of the spill. Other oil fractions containing aromatic and highly branched hydrocarbon chains are more difficult to remove and remain in the environment for longer periods of time.</para>
+<figure id="fig-ch22_05_03"><media id="eip-idm153800176" alt="Part a: This photo shows two men in yellow raingear hosing off oil-drenched rocks on a sea-shore. Part b: This photo shows an oil-drenched bird sitting in oily water.">
+<image mime-type="image/jpg" src="Figure_22_05_03ab.jpg" width="475"/>
+</media>
+
+<caption>(a) Cleaning up oil after the Valdez spill in Alaska, workers hosed oil from beaches and then used a floating boom to corral the oil, which was finally skimmed from the water surface. Some species of bacteria are able to solubilize and degrade the oil. (b) One of the most catastrophic consequences of oil spills is the damage to fauna. (credit a: modification of work by NOAA; credit b: modification of work by GOLUBENKOV, NGO: Saving Taman)</caption></figure><note id="fs-idm28008080" class="everyday"><label/><title>Everyday Connection</title>
+
+<para id="fs-idm49976896"><title>Microbes on the Human Body</title>The commensal bacteria that inhabit our skin and gastrointestinal tract do a host of good things for us. They protect us from pathogens, help us digest our food, and produce some of our vitamins and other nutrients. These activities have been known for a long time. More recently, scientists have gathered evidence that these bacteria may also help regulate our moods, influence our activity levels, and even help control weight by affecting our food choices and absorption patterns. The Human Microbiome Project has begun the process of cataloging our normal bacteria (and archaea) so we can better understand these functions.</para>
+<para id="fs-idp48752928">A particularly fascinating example of our normal flora relates to our digestive systems. People who take high doses of antibiotics tend to lose many of their normal gut bacteria, allowing a naturally antibiotic-resistant species called <emphasis effect="italics">Clostridium difficile</emphasis> to overgrow and cause severe gastric problems, especially chronic diarrhea (<link target-id="fig-ch22_05_04" document=""/>). Obviously, trying to treat this problem with antibiotics only makes it worse. However, it has been successfully treated by giving the patients fecal transplants from healthy donors to reestablish the normal intestinal microbial community. Clinical trials are underway to ensure the safety and effectiveness of this technique.</para><figure id="fig-ch22_05_04"><media id="fs-idm62134848" alt="Micrograph shows small clusters of white rod-shaped bacteria against a dark background.">
+<image mime-type="image/jpg" src="Figure_22_05_04.jpg" width="325"/> 
+</media>
+
+<caption>This scanning electron micrograph shows <emphasis effect="italics">Clostridium difficile</emphasis>, a Gram-positive, rod-shaped bacterium that causes severe diarrhea. Infection commonly occurs after the normal gut fauna is eradicated by antibiotics. (credit: modification of work by CDC, HHS; scale-bar data from Matt Russell)</caption></figure><para id="fs-idp7821184">Scientists are also discovering that the absence of certain key microbes from our intestinal tract may set us up for a variety of problems. This seems to be particularly true regarding the appropriate functioning of the immune system. There are intriguing findings that suggest that the absence of these microbes is an important contributor to the development of allergies and some autoimmune disorders. Research is currently underway to test whether adding certain microbes to our internal ecosystem may help in the treatment of these problems as well as in treating some forms of autism.</para>
+</note></section>
+<section id="fs-idm50524608" class="summary">
+<title>Section Summary</title><para id="fs-idp41902176">Pathogens are only a small percentage of all prokaryotes. In fact, our life would not be possible without prokaryotes. Nitrogen is usually the most limiting element in terrestrial ecosystems; atmospheric nitrogen, the largest pool of available nitrogen, is unavailable to eukaryotes. Nitrogen can be &#8220;fixed,&#8221; or converted into ammonia (NH<sub>3</sub>) either biologically or abiotically. Biological nitrogen fixation (BNF) is exclusively carried out by prokaryotes. After photosynthesis, BNF is the second most important biological process on Earth. The most important source of BNF is the symbiotic interaction between soil bacteria and legume plants.</para><para id="fs-idp77106592">Microbial bioremediation is the use of microbial metabolism to remove pollutants. Bioremediation has been used to remove agricultural chemicals that leach from soil into groundwater and the subsurface. Toxic metals and oxides, such as selenium and arsenic compounds, can also be removed by bioremediation. Probably one of the most useful and interesting examples of the use of prokaryotes for bioremediation purposes is the cleanup of oil spills.</para>
+<para id="fs-idp115930096">Human life is only possible due to the action of microbes, both those in the environment and those species that call us home. Internally, they help us digest our food, produce crucial nutrients for us, protect us from pathogenic microbes, and help train our immune systems to function correctly.</para>
+</section>
+<section id="fs-idp87598080" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm24905408">
+<problem id="fs-idp35059200">
+<para id="fs-idp39021392">Which of these occurs through symbiotic nitrogen fixation?</para>
+<list id="fs-idp121807024" list-type="enumerated" number-style="lower-alpha">
+<item>The plant benefits from using an endless source of nitrogen.</item>
+<item>The soil benefits from being naturally fertilized.</item>
+<item>Bacteria benefit from using photosynthates from the plant.</item>
+<item>All of the above occur.</item>
+</list>
+</problem>
+<solution id="fs-idm81630912">
+<label/>
+<para id="fs-idm47844656">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm103620528">
+<problem id="fs-idp47510960">
+<para id="fs-idp122656416">Synthetic compounds found in an organism but not normally produced or expected to be present in that organism are called _____.</para>
+<list id="fs-idp136264320" list-type="enumerated" number-style="lower-alpha">
+<item>pesticides</item>
+<item>bioremediators</item>
+<item>recalcitrant compounds</item>
+<item>xenobiotics</item>
+</list>
+</problem>
+<solution id="fs-idp170580768">
+<label/>
+<para id="fs-idp37654352">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm36358320">
+<problem id="fs-idm32294736">
+<para id="fs-idp25718224">Bioremediation includes _____.</para>
+<list id="fs-idm37987664" list-type="enumerated" number-style="lower-alpha">
+<item>the use of prokaryotes that can fix nitrogen</item>
+<item>the use of prokaryotes to clean up pollutants</item>
+<item>the use of prokaryotes as natural fertilizers</item>
+<item>All of the above</item>
+</list>
+</problem>
+<solution id="fs-idm34497088">
+<label/>
+<para id="fs-idp71556368">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp34469008" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idp102645024">
+<problem id="fs-idm31218384">
+<para id="fs-idp26066144">Your friend believes that prokaryotes are always detrimental and pathogenic. How would you explain to them that they are wrong?</para></problem>
+<solution id="fs-idp8531552">
+<label/>
+<para id="fs-idp37024896">Remind them of the important roles prokaryotes play in decomposition and freeing up nutrients in biogeochemical cycles; remind them of the many prokaryotes that are not human pathogens and that fill very specialized niches. Furthermore, our normal bacterial symbionts are crucial for our digestion and in protecting us from pathogens.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idp35374208">
+<term>biological nitrogen fixation</term> <meaning id="fs-idp123643952">conversion of atmospheric nitrogen into ammonia exclusively carried out by prokaryotes</meaning>
+</definition>
+<definition id="fs-idp161075168">
+<term>bioremediation</term> <meaning id="fs-idm7095104">use of microbial metabolism to remove pollutants</meaning>
+</definition>
+<definition id="fs-idp9074080">
+<term>biotechnology</term> <meaning id="fs-idp124266128">any technological application that uses living organisms, biological systems, or their derivatives to produce or modify other products</meaning>
+</definition>
+<definition id="fs-idm34673072">
+<term>nodule</term> <meaning id="fs-idm47177232">novel structure on the roots of certain plants (legumes) that results from the symbiotic interaction between the plant and soil bacteria, is the site of nitrogen fixation</meaning>
+</definition>
+</glossary>
+</document>

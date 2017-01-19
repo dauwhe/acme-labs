@@ -1,0 +1,295 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Breathing</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44797/latest/</md:content-url>
+  <md:content-id>m44797</md:content-id>
+  <md:title>Breathing</md:title>
+  <md:version>1.5</md:version>
+  <md:created>2012/08/23 15:48:20 -0500</md:created>
+  <md:revised>2013/06/21 09:50:00.120 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>alveolar ventilation</md:keyword>
+    <md:keyword>anatomical dead space</md:keyword>
+    <md:keyword>anatomical shunt</md:keyword>
+    <md:keyword>asthma</md:keyword>
+    <md:keyword>Boyle&#8217;s Law</md:keyword>
+    <md:keyword>compliance</md:keyword>
+    <md:keyword>dead space</md:keyword>
+    <md:keyword>diaphragm</md:keyword>
+    <md:keyword>elastic recoil</md:keyword>
+    <md:keyword>elastic work</md:keyword>
+    <md:keyword>exhalation</md:keyword>
+    <md:keyword>flow-resistive</md:keyword>
+    <md:keyword>functional vital capacity</md:keyword>
+    <md:keyword>inhalation</md:keyword>
+    <md:keyword>intercostal muscle</md:keyword>
+    <md:keyword>intrapleural space</md:keyword>
+    <md:keyword>obstructive disease</md:keyword>
+    <md:keyword>outward recoil</md:keyword>
+    <md:keyword>physiological dead space</md:keyword>
+    <md:keyword>physiological shunt</md:keyword>
+    <md:keyword>pleura</md:keyword>
+    <md:keyword>pleurisy</md:keyword>
+    <md:keyword>recruitment</md:keyword>
+    <md:keyword>resistance</md:keyword>
+    <md:keyword>respiratory distress syndrome</md:keyword>
+    <md:keyword>respiratory rate</md:keyword>
+    <md:keyword>restrictive disease</md:keyword>
+    <md:keyword>Robert Boyle</md:keyword>
+    <md:keyword>surfactant</md:keyword>
+    <md:keyword>therapod</md:keyword>
+    <md:keyword>thoracic cavity</md:keyword>
+    <md:keyword>ventilation/perfusion</md:keyword>
+    <md:keyword>visceral pleura</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe how the structures of the lungs and thoracic cavity control the mechanics of breathing</item>
+<item>Explain the importance of compliance and resistance in the lungs</item>
+<item>Discuss problems that may arise due to a V/Q mismatch</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idp53195360">Mammalian lungs are located in the thoracic cavity where they are surrounded and protected by the rib cage, intercostal muscles, and bound by the chest wall. The bottom of the lungs is contained by the diaphragm, a skeletal muscle that facilitates breathing. Breathing requires the coordination of the lungs, the chest wall, and most importantly, the diaphragm.</para>
+<section id="fs-idm86971168"><title>Types of Breathing</title><para id="fs-idp90097008">Amphibians have evolved multiple ways of breathing. Young amphibians, like tadpoles, use gills to breathe, and they don&#8217;t leave the water. Some amphibians retain gills for life. As the tadpole grows, the gills disappear and lungs grow. These lungs are primitive and not as evolved as mammalian lungs. Adult amphibians are lacking or have a reduced diaphragm, so breathing via lungs is forced. The other means of breathing for amphibians is diffusion across the skin. To aid this diffusion, amphibian skin must remain moist.</para>
+<para id="fs-idp10495072">Birds face a unique challenge with respect to breathing: They fly. Flying consumes a great amount of energy; therefore, birds require a lot of oxygen to aid their metabolic processes. Birds have evolved a respiratory system that supplies them with the oxygen needed to enable flying. Similar to mammals, birds have lungs, which are organs specialized for gas exchange. Oxygenated air, taken in during inhalation, diffuses across the surface of the lungs into the bloodstream, and carbon dioxide diffuses from the blood into the lungs and expelled during exhalation. The details of breathing between birds and mammals differ substantially.</para>
+<para id="fs-idm74404592">In addition to lungs, birds have air sacs inside their body. Air flows in one direction from the posterior air sacs to the lungs and out of the anterior air sacs. The flow of air is in the opposite direction from blood flow, and gas exchange takes place much more efficiently. This type of breathing enables birds to obtain the requisite oxygen, even at higher altitudes where the oxygen concentration is low. This directionality of airflow requires two cycles of air intake and exhalation to completely get the air out of the lungs.</para>
+<note id="fs-idp533232" class="evolution">
+<label/>
+<title>Evolution Connection</title>
+<para id="fs-idp21393152">
+<title>Avian Respiration</title>
+Birds have evolved a respiratory system that enables them to fly. Flying is a high-energy process and requires a lot of oxygen. Furthermore, many birds fly in high altitudes where the concentration of oxygen in low. How did birds evolve a respiratory system that is so unique?</para>
+<para id="fs-idp4965888">Decades of research by paleontologists have shown that birds evolved from therapods, meat-eating dinosaurs (<link target-id="fig-ch39_03_01" document=""/>). In fact, fossil evidence shows that meat-eating dinosaurs that lived more than 100 million years ago had a similar flow-through respiratory system with lungs and air sacs. <emphasis effect="italics">Archaeopteryx</emphasis> and <emphasis effect="italics">Xiaotingia</emphasis>, for example, were flying dinosaurs and are believed to be early precursors of birds.</para>
+<figure id="fig-ch39_03_01" class=" "><media id="fs-idp140413136" alt=" Illustration A shows the direction of airflow in both inhalation and exhalation in birds. During inhalation, air passes from the beak down the trachea to the posterior air sac located behind the lungs. From the posterior air sac, air enters the lungs, and the anterior air sac in front of the lungs. Air from both air sacs also enters hollows in bones. During exhalation air from hollows in the bones enters the air sacs, then the lungs, then the trachea, where it exits through the beaks. Illustration B compares a dinosaur and a bird. Both have anterior air sacs in front of the lungs, and posterior air sacs behind them. The air sacs connect to hollow openings in bones.">
+<image mime-type="image/jpg" src="Figure_39_03_01ab.jpg" width="480"/>
+</media>
+<caption>(a) Birds have a flow-through respiratory system in which air flows unidirectionally from the posterior sacs into the lungs, then into the anterior air sacs. The air sacs connect to openings in hollow bones. (b) Dinosaurs, from which birds descended, have similar hollow bones and are believed to have had a similar respiratory system. (credit b: modification of work by Zina Deretsky, National Science Foundation)</caption></figure><para id="fs-idp21649552">Most of us consider that dinosaurs are extinct. However, modern birds are descendants of avian dinosaurs. The respiratory system of modern birds has been evolving for hundreds of millions of years.</para>
+</note>
+<para id="fs-idp134466304">All mammals have lungs that are the main organs for breathing. Lung capacity has evolved to support the animal&#8217;s activities. During inhalation, the lungs expand with air, and oxygen diffuses across the lung&#8217;s surface and enters the bloodstream. During exhalation, the lungs expel air and lung volume decreases. In the next few sections, the process of human breathing will be explained.</para>
+</section><section id="fs-idm51081248">
+<title>The Mechanics of Human Breathing</title>
+<para id="fs-idp30528464">Boyle&#8217;s Law is the gas law that states that in a closed space, pressure and volume are inversely related. As volume decreases, pressure increases and vice versa (<link target-id="fig-ch39_03_02" document=""/>). The relationship between gas pressure and volume helps to explain the mechanics of breathing.</para>
+<figure id="fig-ch39_03_02" class=" "><media id="fs-idp68228048" alt="In this graph, pressure is plotted against volume. The line curves downward steeply at first, then more gradually.">
+<image mime-type="image/jpg" src="Figure_39_03_02.jpg" width="440"/>
+</media>
+<caption>This graph shows data from Boyle&#8217;s original 1662 experiment, which shows that pressure and volume are inversely related. No units are given as Boyle used arbitrary units in his experiments.</caption></figure><para id="fs-idm85178208">There is always a slightly negative pressure within the thoracic cavity, which aids in keeping the airways of the lungs open. During inhalation, volume increases as a result of contraction of the diaphragm, and pressure decreases (according to Boyle&#8217;s Law). This decrease of pressure in the thoracic cavity relative to the environment makes the cavity less than the atmosphere (<link target-id="fig-ch39_03_03" document=""/><emphasis effect="bold">a</emphasis>). Because of this drop in pressure, air rushes into the respiratory passages. To increase the volume of the lungs, the chest wall expands. This results from the contraction of the <term>intercostal muscles</term>, the muscles that are connected to the rib cage. Lung volume expands because the diaphragm contracts and the intercostals muscles contract, thus expanding the thoracic cavity. This increase in the volume of the thoracic cavity lowers pressure compared to the atmosphere, so air rushes into the lungs, thus increasing its volume. The resulting increase in volume is largely attributed to an increase in alveolar space, because the bronchioles and bronchi are stiff structures that do not change in size.</para><figure id="fig-ch39_03_03" class=" "><media id="fs-idm24265072" alt="Part a shows expanded lungs with alveoli filled with air during inhalation. The diaphragm is pulled downward, and the muscles of the chest wall are bulled outward. Part b shows collapsed lungs during expiration. The diaphragm is pushed upward, and the chest cavity muscles are pushed inward.">
+<image mime-type="image/jpg" src="Figure_39_03_03.jpg" width="500"/>
+</media>
+<caption>The lungs, chest wall, and diaphragm are all involved in respiration, both (a) inhalation and (b) expiration. (credit: modification of work by Mariana Ruiz Villareal)</caption></figure><para id="fs-idm55097520">The chest wall expands out and away from the lungs. The lungs are elastic; therefore, when air fills the lungs, the <term>elastic recoil</term> within the tissues of the lung exerts pressure back toward the interior of the lungs. These outward and inward forces compete to inflate and deflate the lung with every breath. Upon exhalation, the lungs recoil to force the air out of the lungs, and the intercostal muscles relax, returning the chest wall back to its original position (<link target-id="fig-ch39_03_03" document=""/><emphasis effect="bold">b</emphasis>). The diaphragm also relaxes and moves higher into the thoracic cavity. This increases the pressure within the thoracic cavity relative to the environment, and air rushes out of the lungs. The movement of air out of the lungs is a passive event. No muscles are contracting to expel the air.</para><para id="fs-idm105537552">Each lung is surrounded by an invaginated sac. The layer of tissue that covers the lung and dips into spaces is called the visceral <term>pleura</term>. A second layer of parietal pleura lines the interior of the thorax (<link target-id="fig-ch39_03_04" document=""/>). The space between these layers, the <term>intrapleural space</term>, contains a small amount of fluid that protects the tissue and reduces the friction generated from rubbing the tissue layers together as the lungs contract and relax. <term>Pleurisy</term> results when these layers of tissue become inflamed; it is painful because the inflammation increases the pressure within the thoracic cavity and reduces the volume of the lung.</para>
+<figure id="fig-ch39_03_04" class=" "><media id="fs-idm45950800" alt="The illustration shows human lungs. Each lung is covered by an inner visceral pleura and an outer parietal pleura. The intrapleural space is the space between the two membranes.">
+<image mime-type="image/jpg" src="Figure_39_03_04.jpg" width="280"/>
+</media>
+<caption>A tissue layer called pleura surrounds the lung and interior of the thoracic cavity. (credit: modification of work by NCI)</caption></figure><note id="fs-idp169241040" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idm45617616" alt="QR Code representing a URL">
+<image mime-type="image/png" src="boyle_breathing.png" width="120"/>
+</media>
+<para id="fs-idm10001776"><link window="new" url="http://openstaxcollege.org/l/boyle_breathing">View</link> how Boyle&#8217;s Law is related to breathing and watch <link window="new" url="http://openstaxcollege.org/l/boyles_law">this video</link> on Boyle&#8217;s Law.</para>
+</note></section>
+<section id="fs-idm52336144">
+<title>The Work of Breathing</title>
+<para id="fs-idp68000912">The number of breaths per minute is the <term>respiratory rate</term>. On average, under non-exertion conditions, the human respiratory rate is 12&#8211;15 breaths/minute. The respiratory rate contributes to the <term>alveolar ventilation</term>, or how much air moves into and out of the alveoli. Alveolar ventilation prevents carbon dioxide buildup in the alveoli. There are two ways to keep the alveolar ventilation constant: increase the respiratory rate while decreasing the tidal volume of air per breath (shallow breathing), or decrease the respiratory rate while increasing the tidal volume per breath. In either case, the ventilation remains the same, but the work done and type of work needed are quite different. Both tidal volume and respiratory rate are closely regulated when oxygen demand increases.</para>
+<para id="fs-idm80692288">There are two types of work conducted during respiration, flow-resistive and elastic work. <term>Flow-resistive</term> refers to the work of the alveoli and tissues in the lung, whereas <term>elastic work</term> refers to the work of the intercostal muscles, chest wall, and diaphragm. Increasing the respiration rate increases the flow-resistive work of the airways and decreases the elastic work of the muscles. Decreasing the respiratory rate reverses the type of work required.</para>
+<section id="fs-idm132382992">
+<title>Surfactant</title>
+<para id="fs-idm21841760">The air-tissue/water interface of the alveoli has a high surface tension. This surface tension is similar to the surface tension of water at the liquid-air interface of a water droplet that results in the bonding of the water molecules together. <term>Surfactant</term> is a complex mixture of phospholipids and lipoproteins that works to reduce the surface tension that exists between the alveoli tissue and the air found within the alveoli. By lowering the surface tension of the alveolar fluid, it reduces the tendency of alveoli to collapse.</para>
+<para id="fs-idp4283296">Surfactant works like a detergent to reduce the surface tension and allows for easier inflation of the airways. When a balloon is first inflated, it takes a large amount of effort to stretch the plastic and start to inflate the balloon. If a little bit of detergent was applied to the interior of the balloon, then the amount of effort or work needed to begin to inflate the balloon would decrease, and it would become much easier to start blowing up the balloon. This same principle applies to the airways. A small amount of surfactant to the airway tissues reduces the effort or work needed to inflate those airways. Babies born prematurely sometimes do not produce enough surfactant. As a result, they suffer from <term>respiratory distress syndrome</term>, because it requires more effort to inflate their lungs. Surfactant is also important for preventing collapse of small alveoli relative to large alveoli.</para>
+</section>
+<section id="fs-idm9696512">
+<title>Lung Resistance and Compliance</title>
+<para id="fs-idm105847552">Pulmonary diseases reduce the rate of gas exchange into and out of the lungs. Two main causes of decreased gas exchange are <term>compliance</term> (how elastic the lung is) and <term>resistance</term> (how much obstruction exists in the airways). A change in either can dramatically alter breathing and the ability to take in oxygen and release carbon dioxide.</para>
+<para id="fs-idp84563824">Examples of <term>restrictive diseases</term> are respiratory distress syndrome and pulmonary fibrosis. In both diseases, the airways are less compliant and they are stiff or fibrotic. There is a decrease in compliance because the lung tissue cannot bend and move. In these types of restrictive diseases, the intrapleural pressure is more positive and the airways collapse upon exhalation, which traps air in the lungs. Forced or <term>functional vital capacity (FVC)</term>, which is the amount of air that can be forcibly exhaled after taking the deepest breath possible, is much lower than in normal patients, and the time it takes to exhale most of the air is greatly prolonged (<link target-id="fig-ch39_03_05" document=""/>). A patient suffering from these diseases cannot exhale the normal amount of air.</para>
+<para id="fs-idp106041264"><term>Obstructive diseases</term> and conditions include emphysema, asthma, and pulmonary edema. In emphysema, which mostly arises from smoking tobacco, the walls of the alveoli are destroyed, decreasing the surface area for gas exchange. The overall compliance of the lungs is increased, because as the alveolar walls are damaged, lung elastic recoil decreases due to a loss of elastic fibers, and more air is trapped in the lungs at the end of exhalation. Asthma is a disease in which inflammation is triggered by environmental factors. Inflammation obstructs the airways. The obstruction may be due to edema (fluid accumulation), smooth muscle spasms in the walls of the bronchioles, increased mucus secretion, damage to the epithelia of the airways, or a combination of these events. Those with asthma or edema experience increased occlusion from increased inflammation of the airways. This tends to block the airways, preventing the proper movement of gases (<link target-id="fig-ch39_03_05" document=""/>). Those with obstructive diseases have large volumes of air trapped after exhalation and breathe at a very high lung volume to compensate for the lack of airway recruitment.</para>
+<figure id="fig-ch39_03_05" class=" "><media id="fs-idp136765488" alt="The graph plots volume exhaled versus time. In normal lungs, almost all of the air can be forcibly exhaled within one second after taking a deep breath, resulting in a curve that rises steeply at first then plateaus shortly after one second. The volume at which the plateau is reached is the FVC. In lungs of persons with restrictive lung disease, the FVC is considerably lower but the person can exhale reasonable fast, resulting in a curve that is similar in shape, but with a lower plateau, or FVC, than for normal lungs. In lungs of persons with obstructive lung disease, the FVC is low and exhalation is much slower, resulting in a flatter curve with a lower plateau.">
+<image mime-type="image/jpg" src="Figure_39_03_05f.jpg" width="320"/>
+</media>
+<caption>The ratio of FEV1 (the amount of air that can be forcibly exhaled in one second after taking a deep breath) to FVC (the total amount of air that can be forcibly exhaled) can be used to diagnose whether a person has restrictive or obstructive lung disease. In restrictive lung disease, FVC is reduced but airways are not obstructed, so the person is able to expel air reasonably fast. In obstructive lung disease, airway obstruction results in slow exhalation as well as reduced FVC. Thus, the FEV1/FVC ratio is lower in persons with obstructive lung disease (less than 69 percent) than in persons with restrictive disease (88 to 90 percent).</caption></figure></section>
+</section>
+<section id="fs-idp51159504">
+<title>Dead Space: V/Q Mismatch</title>
+<para id="fs-idp95577968">Pulmonary circulation pressure is very low compared to that of the systemic circulation. It is also independent of cardiac output. This is because of a phenomenon called <term>recruitment</term>, which is the process of opening airways that normally remain closed when cardiac output increases. As cardiac output increases, the number of capillaries and arteries that are perfused (filled with blood) increases. These capillaries and arteries are not always in use but are ready if needed. At times, however, there is a mismatch between the amount of air (ventilation, V) and the amount of blood (perfusion, Q) in the lungs. This is referred to as <term>ventilation/perfusion (V/Q) mismatch</term>.</para>
+<para id="fs-idm18697040">There are two types of V/Q mismatch. Both produce <term>dead space</term>, regions of broken down or blocked lung tissue. Dead spaces can severely impact breathing, because they reduce the surface area available for gas diffusion. As a result, the amount of oxygen in the blood decreases, whereas the carbon dioxide level increases. Dead space is created when no ventilation and/or perfusion takes place. <term>Anatomical dead space</term> or anatomical shunt, arises from an anatomical failure, while <term>physiological dead space</term> or physiological shunt, arises from a functional impairment of the lung or arteries.</para>
+<para id="fs-idp118405296">An example of an anatomical shunt is the effect of gravity on the lungs. The lung is particularly susceptible to changes in the magnitude and direction of gravitational forces. When someone is standing or sitting upright, the pleural pressure gradient leads to increased ventilation further down in the lung. As a result, the intrapleural pressure is more negative at the base of the lung than at the top, and more air fills the bottom of the lung than the top. Likewise, it takes less energy to pump blood to the bottom of the lung than to the top when in a prone position. Perfusion of the lung is not uniform while standing or sitting. This is a result of hydrostatic forces combined with the effect of airway pressure. An anatomical shunt develops because the ventilation of the airways does not match the perfusion of the arteries surrounding those airways. As a result, the rate of gas exchange is reduced. Note that this does not occur when lying down, because in this position, gravity does not preferentially pull the bottom of the lung down.</para>
+<para id="fs-idm193388464">A physiological shunt can develop if there is infection or edema in the lung that obstructs an area. This will decrease ventilation but not affect perfusion; therefore, the V/Q ratio changes and gas exchange is affected.</para>
+<para id="fs-idm209568">The lung can compensate for these mismatches in ventilation and perfusion. If ventilation is greater than perfusion, the arterioles dilate and the bronchioles constrict. This increases perfusion and reduces ventilation. Likewise, if ventilation is less than perfusion, the arterioles constrict and the bronchioles dilate to correct the imbalance.</para>
+<note id="fs-idm26586528" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idp28625648" alt="QR Code representing a URL">
+<image mime-type="image/jpg" src="breathing.png" width="120"/>
+</media>
+<para id="fs-idp133557200">Visit this <link window="new" url="http://openstaxcollege.org/l/breathing">site</link> to view the mechanics of breathing.</para>
+</note></section>
+<section id="fs-idm84807328" class="summary">
+<title>Section Summary</title><para id="fs-idm55875296">The structure of the lungs and thoracic cavity control the mechanics of breathing. Upon inspiration, the diaphragm contracts and lowers. The intercostal muscles contract and expand the chest wall outward. The intrapleural pressure drops, the lungs expand, and air is drawn into the airways. When exhaling, the intercostal muscles and diaphragm relax, returning the intrapleural pressure back to the resting state. The lungs recoil and airways close. The air passively exits the lung. There is high surface tension at the air-airway interface in the lung. Surfactant, a mixture of phospholipids and lipoproteins, acts like a detergent in the airways to reduce surface tension and allow for opening of the alveoli.</para>
+<para id="fs-idm21549920">Breathing and gas exchange are both altered by changes in the compliance and resistance of the lung. If the compliance of the lung decreases, as occurs in restrictive diseases like fibrosis, the airways stiffen and collapse upon exhalation. Air becomes trapped in the lungs, making breathing more difficult. If resistance increases, as happens with asthma or emphysema, the airways become obstructed, trapping air in the lungs and causing breathing to become difficult. Alterations in the ventilation of the airways or perfusion of the arteries can affect gas exchange. These changes in ventilation and perfusion, called V/Q mismatch, can arise from anatomical or physiological changes.</para></section>
+<section id="fs-idp88532256" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp67913520">
+<problem id="fs-idm46845936"><para id="fs-idp84400976">How would paralysis of the diaphragm alter inspiration?</para>
+<list id="fs-idp76088592" list-type="enumerated" number-style="lower-alpha">
+<item>It would prevent contraction of the intercostal muscles.</item>
+<item>It would prevent inhalation because the intrapleural pressure would not change.</item>
+<item>It would decrease the intrapleural pressure and allow more air to enter the lungs.</item>
+<item>It would slow expiration because the lung would not relax.</item>
+</list>
+</problem>
+<solution id="fs-idm68133504">
+<label/>
+<para id="fs-idm54441184">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm39676880">
+<problem id="fs-idm48640032"><para id="fs-idm45169632"> Restrictive airway diseases ________.</para>
+<list id="fs-idp16655552" list-type="enumerated" number-style="lower-alpha">
+<item>increase the compliance of the lung</item>
+<item>decrease the compliance of the lung</item>
+<item>increase the lung volume</item>
+<item>decrease the work of breathing</item>
+</list>
+</problem>
+<solution id="fs-idp136213232">
+<label/>
+<para id="fs-idp136890416">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm53491072">
+<problem id="fs-idp28324064"><para id="fs-idm24359952">Alveolar ventilation remains constant when ________.</para>
+<list id="fs-idm45539280" list-type="enumerated" number-style="lower-alpha">
+<item>the respiratory rate is increased while the volume of air per breath is decreased</item>
+<item>the respiratory rate and the volume of air per breath are increased</item>
+<item>the respiratory rate is decreased while increasing the volume per breath</item>
+<item>both a and c</item>
+</list>
+</problem>
+<solution id="fs-idm45896096">
+<label/>
+<para id="fs-idm127080448">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm2793552" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm139425264">
+<problem id="fs-idp169553792"><para id="fs-idm53542464">How would increased airway resistance affect intrapleural pressure during inhalation?</para></problem>
+<solution id="fs-idp67326864"><label/>
+<para id="fs-idp71999904">Increased airway resistance increases the volume and pressure in the lung; therefore, the intrapleural pressure would be less negative and breathing would be more difficult.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp224129680">
+<problem id="fs-idm44471360"><para id="fs-idp88306432">Explain how a puncture to the thoracic cavity (from a knife wound, for instance) could alter the ability to inhale.</para></problem>
+<solution id="fs-idm113245792"><label/>
+<para id="fs-idp91811264">A puncture to the thoracic cavity would equalize the pressure inside the thoracic cavity to the outside environment. For the lung to function properly, the intrapleural pressure must be negative. This is caused by the contraction of the diaphragm pulling the lungs down and drawing air into the lungs.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp43095808">
+<problem id="fs-idm14097120"><para id="fs-idm127319392">When someone is standing, gravity stretches the bottom of the lung down toward the floor to a greater extent than the top of the lung. What implication could this have on the flow of air in the lungs? Where does gas exchange occur in the lungs?</para></problem>
+<solution id="fs-idp68142448"><label/>
+<para id="fs-idm131277520">The lung is particularly susceptible to changes in the magnitude and direction of gravitational forces. When someone is standing or sitting upright, the pleural pressure gradient leads to increased ventilation further down in the lung.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idp76143296">
+<term>alveolar ventilation</term> <meaning id="fs-idm91577616"> how much air is in the alveoli</meaning>
+</definition>
+<definition id="fs-idm100137632">
+<term>anatomical dead space</term> <meaning id="fs-idm102000944">(also, anatomical shunt) region of the lung that lacks proper ventilation/perfusion due to an anatomical block</meaning>
+</definition>
+<definition id="fs-idp87991600">
+<term>compliance</term> <meaning id="fs-idm22844352">measurement of the elasticity of the lung</meaning>
+</definition>
+<definition id="fs-idp88882560">
+<term>dead space</term> <meaning id="fs-idm106462304">area in the lung that lacks proper ventilation or perfusion</meaning>
+</definition>
+<definition id="fs-idm202379648">
+<term>elastic recoil</term> <meaning id="fs-idm176293024">property of the lung that drives the lung tissue inward</meaning>
+</definition>
+<definition id="fs-idp100349984">
+<term>elastic work</term> <meaning id="fs-idm146155104">work conducted by the intercostal muscles, chest wall, and diaphragm</meaning>
+</definition>
+<definition id="fs-idm148889344">
+<term>flow-resistive</term> <meaning id="fs-idm135827632">work of breathing performed by the alveoli and tissues in the lung</meaning>
+</definition>
+<definition id="fs-idm208794432">
+<term>functional vital capacity (FVC)</term> <meaning id="fs-idm88809904">amount of air that can be forcibly exhaled after taking the deepest breath possible</meaning>
+</definition>
+<definition id="fs-idp139653040">
+<term>intercostal muscle</term> <meaning id="fs-idm75637040">muscle connected to the rib cage that contracts upon inspiration</meaning>
+</definition>
+<definition id="fs-idm88072464">
+<term>intrapleural space</term> <meaning id="fs-idm2796800">space between the layers of pleura</meaning>
+</definition>
+<definition id="fs-idm89052464">
+<term>obstructive disease</term> <meaning id="fs-idm52813328">disease (such as emphysema and asthma) that arises from obstruction of the airways; compliance increases in these diseases</meaning>
+</definition>
+<definition id="fs-idm53133648">
+<term>physiological dead space</term> <meaning id="fs-idm143695584">(also, physiological shunt) region of the lung that lacks proper ventilation/perfusion due to a physiological change in the lung (like inflammation or edema)</meaning></definition>
+<definition id="fs-idm83679440">
+<term>pleura</term> <meaning id="fs-idm2079872">tissue layer that surrounds the lungs and lines the interior of the thoracic cavity</meaning>
+</definition>
+<definition id="fs-idp103777392">
+<term>pleurisy</term> <meaning id="fs-idm100359584">painful inflammation of the pleural tissue layers</meaning>
+</definition>
+<definition id="fs-idp11173856">
+<term>recruitment</term> <meaning id="fs-idm120080480">process of opening airways that normally remain closed when the cardiac output increases</meaning></definition>
+<definition id="fs-idm54530672">
+<term>resistance</term> 
+<meaning id="fs-idp120698656">measurement of lung obstruction</meaning></definition>
+<definition id="fs-idm106534656">
+<term>respiratory distress syndrome</term> <meaning id="fs-idm45513936"> disease that arises from a deficient amount of surfactant</meaning>
+</definition>
+<definition id="fs-idm7164960">
+<term>respiratory rate</term> <meaning id="fs-idm41632080">number of breaths per minute</meaning>
+</definition>
+<definition id="fs-idm49031008">
+<term>restrictive disease</term> <meaning id="fs-idm106444352">disease that results from a restriction and decreased compliance of the alveoli; respiratory distress syndrome and pulmonary fibrosis are examples</meaning>
+</definition>
+<definition id="fs-idm139011968">
+<term>surfactant</term> <meaning id="fs-idm87478608">detergent-like liquid in the airways that lowers the surface tension of the alveoli to allow for expansion</meaning>
+</definition>
+<definition id="fs-idp120755792">
+<term>ventilation/perfusion (V/Q) mismatch</term> <meaning id="fs-idm2947696"> region of the lung that lacks proper alveolar ventilation (V) and/or arterial perfusion (Q)</meaning>
+</definition>
+</glossary>
+</document>

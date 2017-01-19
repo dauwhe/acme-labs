@@ -1,0 +1,213 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Prokaryotic Gene Regulation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44535/latest/</md:content-url>
+  <md:content-id>m44535</md:content-id>
+  <md:title>Prokaryotic Gene Regulation</md:title>
+  <md:version>1.5</md:version>
+  <md:created>2012/08/23 13:55:33 -0500</md:created>
+  <md:revised>2013/04/11 13:10:01.118 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>activator</md:keyword>
+    <md:keyword>CAP</md:keyword>
+    <md:keyword>catabolite activator protein</md:keyword>
+    <md:keyword>gene expression</md:keyword>
+    <md:keyword>inducer</md:keyword>
+    <md:keyword>inducible operon</md:keyword>
+    <md:keyword>lac operon</md:keyword>
+    <md:keyword>negative regulator</md:keyword>
+    <md:keyword>operator</md:keyword>
+    <md:keyword>operon</md:keyword>
+    <md:keyword>positive regulator</md:keyword>
+    <md:keyword>prokaryotic gene regulation</md:keyword>
+    <md:keyword>repressor</md:keyword>
+    <md:keyword>transcriptional start site</md:keyword>
+    <md:keyword>trp operon</md:keyword>
+    <md:keyword>tryptophan</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the steps involved in prokaryotic gene regulation</item>
+<item>Explain the roles of activators, inducers, and repressors in gene regulation</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idm200418880">The DNA of prokaryotes is organized into a circular chromosome supercoiled in the nucleoid region of the cell cytoplasm. Proteins that are needed for a specific function, or that are involved in the same biochemical pathway, are encoded together in blocks called <term>operons</term>. For example, all of the genes needed to use lactose as an energy source are coded next to each other in the lactose (or <emphasis effect="italics">lac</emphasis>) operon.</para>
+<para id="fs-idm204458112">In prokaryotic cells, there are three types of regulatory molecules that can affect the expression of operons: repressors, activators, and inducers. <term>Repressors</term> are proteins that suppress transcription of a gene in response to an external stimulus, whereas <term>activators</term> are proteins that increase the transcription of a gene in response to an external stimulus. Finally, inducers are small molecules that either activate or repress transcription depending on the needs of the cell and the availability of substrate.</para>
+<section id="fs-idm82649424">
+<title>The <emphasis effect="italics">trp</emphasis> Operon: A Repressor Operon</title>
+    <para id="fs-idm166815232">Bacteria such as <emphasis effect="italics">E. coli</emphasis> need amino acids to survive. <term>Tryptophan</term> is one such amino acid that <emphasis effect="italics">E. coli</emphasis> can ingest from the environment. <emphasis effect="italics">E. coli</emphasis> can also synthesize tryptophan using enzymes that are encoded by five genes. These five genes are next to each other in what is called the <term>tryptophan (<emphasis effect="italics">trp</emphasis>) operon</term> (<link target-id="fig-ch16_02_01" document=""/>). If tryptophan is present in the environment, then <emphasis effect="italics">E. coli</emphasis> does not need to synthesize it and the switch controlling the activation of the genes in the <emphasis effect="italics">trp</emphasis> operon is switched off. However, when tryptophan availability is low, the switch controlling the operon is turned on, transcription is initiated, the genes are expressed, and tryptophan is synthesized.</para>
+<figure id="fig-ch16_02_01"><media id="fs-idm229109280" alt="The trp operon has a promoter, an operator, and five genes named trpE, trpD, trpC, trpB, and trpA that are located in sequential order on the DNA. RNA polymerase binds to the promoter. When tryptophan is present, the trp repressor binds the operator and prevents the RNA polymerase from moving past the operator; therefore, RNA synthesis is blocked. In the absence of tryptophan, the repressor dissociates from the operator. RNA polymerase can now slide past the operator, and transcription begins.">
+<image mime-type="image/jpg" src="Figure_16_02_01.jpg" width="450"/>
+</media>
+<caption>The five genes that are needed to synthesize tryptophan in <emphasis effect="italics">E. coli</emphasis> are located next to each other in the <emphasis effect="italics">trp</emphasis> operon. When tryptophan is plentiful, two tryptophan molecules bind the repressor protein at the operator sequence. This physically blocks the RNA polymerase from transcribing the tryptophan genes. When tryptophan is absent, the repressor protein does not bind to the operator and the genes are transcribed.</caption></figure><para id="fs-idm174533984">A DNA sequence that codes for proteins is referred to as the coding region. The five coding regions for the tryptophan biosynthesis enzymes are arranged sequentially on the chromosome in the operon. Just before the coding region is the <term>transcriptional start site</term>. This is the region of DNA to which RNA polymerase binds to initiate transcription. The promoter sequence is upstream of the transcriptional start site; each operon has a sequence within or near the promoter to which proteins (activators or repressors) can bind and regulate transcription.</para>
+<para id="fs-idm199850336">A DNA sequence called the operator sequence is encoded between the promoter region and the first <emphasis effect="italics">trp</emphasis> coding gene. This <term>operator</term> contains the DNA code to which the repressor protein can bind. When tryptophan is present in the cell, two tryptophan molecules bind to the <emphasis effect="italics">trp</emphasis> repressor, which changes shape to bind to the <emphasis effect="italics">trp</emphasis> operator. Binding of the tryptophan&#8211;repressor complex at the operator physically prevents the RNA polymerase from binding, and transcribing the downstream genes.</para>
+<para id="fs-idm101642592">When tryptophan is not present in the cell, the repressor by itself does not bind to the operator; therefore, the operon is active and tryptophan is synthesized. Because the repressor protein actively binds to the operator to keep the genes turned off, the <emphasis effect="italics">trp</emphasis> operon is negatively regulated and the proteins that bind to the operator to silence <emphasis effect="italics">trp</emphasis> expression are <term>negative regulators</term>.</para>
+<note id="fs-idm187290400" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idm20710464" alt="QR Code representing a URL">
+<image mime-type="image/png" src="trp_operon.png" width="130"/>
+</media>
+<para id="fs-idm19622064">Watch <link window="new" url="http://openstaxcollege.org/l/trp_operon">this video</link> to learn more about the <emphasis effect="italics">trp</emphasis> operon.</para>
+</note></section>
+<section id="fs-idm202194608">
+<title>Catabolite Activator Protein (CAP): An Activator Regulator</title>
+    <para id="fs-idm148740496">Just as the <emphasis effect="italics">trp</emphasis> operon is negatively regulated by tryptophan molecules, there are proteins that bind to the operator sequences that act as a <term>positive regulator</term> to turn genes on and activate them. For example, when glucose is scarce, <emphasis effect="italics">E. coli</emphasis> bacteria can turn to other sugar sources for fuel. To do this, new genes to process these alternate genes must be transcribed. When glucose levels drop, cyclic AMP (cAMP) begins to accumulate in the cell. The cAMP molecule is a signaling molecule that is involved in glucose and energy metabolism in <emphasis effect="italics">E. coli</emphasis>. When glucose levels decline in the cell, accumulating cAMP binds to the positive regulator <term>catabolite activator protein (CAP)</term>, a protein that binds to the promoters of operons that control the processing of alternative sugars. When cAMP binds to CAP, the complex binds to the promoter region of the genes that are needed to use the alternate sugar sources (<link target-id="fig-ch16_02_02" document=""/>). In these operons, a CAP binding site is located upstream of the RNA polymerase binding site in the promoter. This increases the binding ability of RNA polymerase to the promoter region and the transcription of the genes.</para>
+<figure id="fig-ch16_02_02"><media id="fs-idm287484176" alt="The lac operon consists of a promoter, an operator, and three genes named lacZ, lacY, and lacA that are located in sequential order on the DNA. In the absence of cAMP, the CAP protein does not bind the DNA. RNA polymerase binds the promoter, and transcription occurs at a slow rate. In the presence of cAMP, a CAP&#8211;cAMP complex binds to the promoter and increases RNA polymerase activity. As a result, the rate of RNA synthesis is increased.">
+<image mime-type="image/jpg" src="Figure_16_02_02.jpg" width="450"/>
+</media>
+<caption>When glucose levels fall, <emphasis effect="italics">E. coli</emphasis> may use other sugars for fuel but must transcribe new genes to do so. As glucose supplies become limited, cAMP levels increase. This cAMP binds to the CAP protein, a positive regulator that binds to an operator region upstream of the genes required to use other sugar sources.</caption></figure></section>
+<section id="fs-idm146228272">
+<title>The <emphasis effect="italics">lac</emphasis> Operon: An Inducer Operon</title>
+    <para id="fs-idm17029296">The third type of gene regulation in prokaryotic cells occurs through <term>inducible operons</term>, which have proteins that bind to activate or repress transcription depending on the local environment and the needs of the cell. The <emphasis effect="italics">lac</emphasis> operon is a typical inducible operon. As mentioned previously, <emphasis effect="italics">E. coli</emphasis> is able to use other sugars as energy sources when glucose concentrations are low. To do so, the cAMP&#8211;CAP protein complex serves as a positive regulator to induce transcription. One such sugar source is lactose. The <term><emphasis effect="italics">lac</emphasis> operon</term> encodes the genes necessary to acquire and process the lactose from the local environment. CAP binds to the operator sequence upstream of the promoter that initiates transcription of the <emphasis effect="italics">lac</emphasis> operon. However, for the <emphasis effect="italics">lac</emphasis> operon to be activated, two conditions must be met. First, the level of glucose must be very low or non-existent. Second, lactose must be present. Only when glucose is absent and lactose is present will the <emphasis effect="italics">lac</emphasis> operon be transcribed (<link target-id="fig-ch16_02_03" document=""/>). This makes sense for the cell, because it would be energetically wasteful to create the proteins to process lactose if glucose was plentiful or lactose was not available.</para>
+<note id="fs-idm178239648" class="art-connection"><label/><title>Art Connection</title>
+<para id="fs-idm151012288">
+<figure id="fig-ch16_02_03"><media id="fs-idm178409184" alt="The lac operon consists of a promoter, an operator, and three genes named lacZ, lacY, and lacA. RNA polymerase binds to the promoter. In the absence of lactose, the lac repressor binds to the operator and prevents RNA polymerase from transcribing the operon. In the presence of lactose, the repressor is released from the operator, and transcription proceeds at a slow rate. Binding of the cAMP&#8211;CAP complex to the promoter stimulates RNA polymerase activity and increases RNA synthesis. However, even in the presence of the cAMP&#8211;CAP complex, RNA synthesis is blocked if the repressor binds to the promoter.">
+<image mime-type="image/png" src="Figure_16_02_03.png" width="300"/>
+</media>
+<caption>Transcription of the <emphasis effect="italics">lac</emphasis> operon is carefully regulated so that its expression only occurs when glucose is limited and lactose is present to serve as an alternative fuel source.</caption></figure></para>
+<para id="fs-idm33204592">In <emphasis effect="italics">E. coli</emphasis>, the <emphasis effect="italics">trp</emphasis> operon is on by default, while the <emphasis effect="italics">lac</emphasis> operon is off. Why do you think this is the case?</para><!--<para><link window="new"  target-id="fig-ch16_02_03" document=""/> Tryptophan is an amino acid essential for making proteins, so the cell always needs to have some on hand. However, if plenty of tryptophan is present, it is wasteful to make more, and the expression of the <emphasis effect="italics">trp</emphasis> receptor is repressed. Lactose, a sugar found in milk, is not always available. It makes no sense to make the enzymes necessary to digest an energy source that is not available, so the <emphasis effect="italics">lac</emphasis> operon is only turned on when lactose is present.</para>-->
+</note><para id="fs-idm153663040">If glucose is absent, then CAP can bind to the operator sequence to activate transcription. If lactose is absent, then the repressor binds to the operator to prevent transcription. If either of these requirements is met, then transcription remains off. Only when both conditions are satisfied is the <emphasis effect="italics">lac</emphasis> operon transcribed (<link target-id="tab-ch16_02_01" document=""/>).</para>
+    <table id="tab-ch16_02_01" class=" " summary="">    
+        <tgroup cols="5">   
+            <colspec colnum="1" colname="col1"/>
+            <colspec colnum="2" colname="col2"/>
+            <colspec colnum="3" colname="col3"/>
+            <colspec colnum="4" colname="col4"/>
+            <colspec colnum="5" colname="col5"/>
+            <thead>
+                <row><entry namest="col1" nameend="col5" align="left">Signals that Induce or Repress Transcription of the <emphasis effect="italics">lac</emphasis> Operon</entry></row>
+                <row>
+<entry align="center">Glucose</entry><entry align="center">CAP binds</entry><entry align="center">Lactose</entry><entry align="center">Repressor binds</entry>	<entry align="center">Transcription</entry>
+                </row>
+            </thead>
+<tbody>
+<row><entry align="center">+</entry><entry align="center">-</entry><entry align="center">-</entry><entry align="center">+</entry><entry align="center">No</entry></row>
+    <row><entry align="center">+</entry><entry align="center">-</entry><entry align="center">+</entry><entry align="center">-</entry><entry align="center">Some</entry></row>
+    <row><entry align="center">-</entry><entry align="center">+</entry><entry align="center">-</entry><entry align="center">+</entry><entry align="center">No</entry></row>
+    <row><entry align="center">-</entry><entry align="center">+</entry><entry align="center">+</entry><entry align="center">-</entry><entry align="center">Yes</entry></row>
+</tbody>            
+        </tgroup>
+        </table>
+
+    <note id="fs-idm116103472" class="interactive"><label/><title>Link to Learning</title>
+    <media id="fs-idp49045184" alt="QR Code representing a URL">
+        <image mime-type="image/png" src="lac_operon.png" width="120"/>
+    </media>
+    <para id="fs-idm187859568">Watch an <link window="new" url="http://openstaxcollege.org/l/lac_operon">animated tutorial</link> about the workings of <emphasis effect="italics">lac</emphasis> operon here.</para></note></section>
+<section id="fs-idm167650976" class="summary">
+<title>Section Summary</title><para id="fs-idm214780208">The regulation of gene expression in prokaryotic cells occurs at the transcriptional level. There are three ways to control the transcription of an operon: repressive control, activator control, and inducible control. Repressive control, typified by the<emphasis effect="italics"> trp</emphasis> operon, uses proteins bound to the operator sequence to physically prevent the binding of RNA polymerase and the activation of transcription. Therefore, if tryptophan is not needed, the repressor is bound to the operator and transcription remains off. Activator control, typified by the action of CAP, increases the binding ability of RNA polymerase to the promoter when CAP is bound. In this case, low levels of glucose result in the binding of cAMP to CAP. CAP then binds the promoter, which allows RNA polymerase to bind to the promoter better. In the last example&#8212;the <emphasis effect="italics">lac</emphasis> operon&#8212;two conditions must be met to initiate transcription. Glucose must not be present, and lactose must be available for the <emphasis effect="italics">lac</emphasis> operon to be transcribed. If glucose is absent, CAP binds to the operator. If lactose is present, the repressor protein does not bind to its operator. Only when both conditions are met will RNA polymerase bind to the promoter to induce transcription.</para>
+</section>
+<section id="fs-idm102836832" class="art-exercise">
+<title>Art Connections</title><exercise id="fs-idm113244368"> 
+    <problem id="fs-idm147603472">    
+ <para id="fs-idm144508512"><link target-id="fig-ch16_02_03" document=""/> In <emphasis effect="italics">E. coli</emphasis>, the <emphasis effect="italics">trp</emphasis> operon is on by default, while the <emphasis effect="italics">lac</emphasis> operon is off. Why do you think that this is the case?</para>
+    </problem>
+    <solution id="fs-idm111796848">
+        <label/>
+        <para id="fs-idm18140960"><link target-id="fig-ch16_02_03" document=""/> Tryptophan is an amino acid essential for making proteins, so the cell always needs to have some on hand. However, if plenty of tryptophan is present, it is wasteful to make more, and the expression of the <emphasis effect="italics">trp</emphasis> receptor is repressed. Lactose, a sugar found in milk, is not always available. It makes no sense to make the enzymes necessary to digest an energy source that is not available, so the <emphasis effect="italics">lac</emphasis> operon is only turned on when lactose is present.</para>
+    </solution>
+    </exercise>
+</section>
+<section id="fs-idm164598624" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm153813744">
+<problem id="fs-idm88665920"><para id="fs-idm164517008">If glucose is absent, but so is lactose, the <emphasis effect="italics">lac</emphasis> operon will be ________.</para>
+<list id="fs-idm120554128" list-type="enumerated" number-style="lower-alpha">
+<item>activated</item>
+<item>repressed</item>
+<item>activated, but only partially</item>
+<item>mutated</item>
+</list>
+</problem>
+<solution id="fs-idm213368672">
+<label/>
+<para id="fs-idm70446512">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm98160192">
+<problem id="fs-idm75160576"><para id="fs-idm203465040">Prokaryotic cells lack a nucleus. Therefore, the genes in prokaryotic cells are:</para>
+<list id="fs-idm150743696" list-type="enumerated" number-style="lower-alpha">
+<item>all expressed, all of the time</item>
+<item>transcribed and translated almost simultaneously</item>
+<item>transcriptionally controlled because translation begins before transcription ends</item>
+<item>b and c are both true</item>
+</list>
+</problem>
+<solution id="fs-idm101679744">
+<label/>
+<para id="fs-idm226775584">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm100039600" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm269564080">
+<problem id="fs-idm224823216"><para id="fs-idm152304928">Describe how transcription in prokaryotic cells can be altered by external stimulation such as excess lactose in the environment.</para></problem>
+<solution id="fs-idm101659264"><label/>
+<para id="fs-idm106482176">Environmental stimuli can increase or induce transcription in prokaryotic cells. In this example, lactose in the environment will induce the transcription of the <emphasis effect="italics">lac</emphasis> operon, but only if glucose is not available in the environment.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm20214992">
+<problem id="fs-idm103662208"><para id="fs-idm159081360">What is the difference between a repressible and an inducible operon?</para></problem>
+<solution id="fs-idm214699984"><label/>
+<para id="fs-idm202138176">A repressible operon uses a protein bound to the promoter region of a gene to keep the gene repressed or silent. This repressor must be actively removed in order to transcribe the gene. An inducible operon is either activated or repressed depending on the needs of the cell and what is available in the local environment.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm199704880"><term>activator</term> <meaning id="fs-idm71146144">protein that binds to prokaryotic operators to increase transcription</meaning></definition>
+<definition id="fs-idm188513328"><term>catabolite activator protein (CAP)</term> <meaning id="fs-idm71067728">protein that complexes with cAMP to bind to the promoter sequences of operons that control sugar processing when glucose is not available</meaning></definition>
+<definition id="fs-idm236168336"><term>inducible operon</term> <meaning id="fs-idm230565968">operon that can be activated or repressed depending on cellular needs and the surrounding environment</meaning></definition>
+<definition id="fs-idm53107088"><term>lac operon</term> <meaning id="fs-idm22138896">operon in prokaryotic cells that encodes genes required for processing and intake of lactose</meaning></definition>
+<definition id="fs-idm160896288"><term>negative regulator</term> <meaning id="fs-idm16990992">protein that prevents transcription</meaning></definition>
+<definition id="fs-idm154447904"><term>operator</term> <meaning id="fs-idm44741856">region of DNA outside of the promoter region that binds activators or repressors that control gene expression in prokaryotic cells</meaning></definition>
+<definition id="fs-idm14117600"><term>operon</term> <meaning id="fs-idm153685536">collection of genes involved in a pathway that are transcribed together as a single mRNA in prokaryotic cells</meaning></definition>
+<definition id="fs-idm177506672"><term>positive regulator</term> <meaning id="fs-idm182914176">protein that increases transcription</meaning></definition>
+<definition id="fs-idm134406896"><term>repressor</term> <meaning id="fs-idm142809664">protein that binds to the operator of prokaryotic genes to prevent transcription</meaning></definition>
+<definition id="fs-idm147619424"><term>transcriptional start site</term> <meaning id="fs-idm175104576">site at which transcription begins</meaning></definition>
+<definition id="fs-idm17849776"><term>trp operon</term> <meaning id="fs-idm62292064">series of genes necessary to synthesize tryptophan in prokaryotic cells</meaning></definition>
+<definition id="fs-idm142334832"><term>tryptophan</term> <meaning id="fs-idm2975824">amino acid that can be synthesized by prokaryotic cells when necessary</meaning></definition>
+</glossary>
+</document>

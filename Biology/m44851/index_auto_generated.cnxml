@@ -1,0 +1,164 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44851/latest/</md:content-url>
+  <md:content-id>m44851</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.2</md:version>
+  <md:created>2012/08/23 16:00:30 -0500</md:created>
+  <md:revised>2013/03/06 09:58:50.555 US/Central</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>acrosomal reaction</md:keyword>
+    <md:keyword>animal development</md:keyword>
+    <md:keyword>animal reproduction</md:keyword>
+    <md:keyword>asexual reproduction</md:keyword>
+    <md:keyword>binary fission</md:keyword>
+    <md:keyword>birth</md:keyword>
+    <md:keyword>birth control</md:keyword>
+    <md:keyword>blastocyst</md:keyword>
+    <md:keyword>blastula</md:keyword>
+    <md:keyword>budding</md:keyword>
+    <md:keyword>bulbourethral gland</md:keyword>
+    <md:keyword>cleavage</md:keyword>
+    <md:keyword>clitoris</md:keyword>
+    <md:keyword>cloaca</md:keyword>
+    <md:keyword>contraception</md:keyword>
+    <md:keyword>delivery</md:keyword>
+    <md:keyword>embryo</md:keyword>
+    <md:keyword>embryonic development</md:keyword>
+    <md:keyword>estrogen</md:keyword>
+    <md:keyword>evolution of reproduction</md:keyword>
+    <md:keyword>external fertilization</md:keyword>
+    <md:keyword>female hormones</md:keyword>
+    <md:keyword>female reproductive anatomy</md:keyword>
+    <md:keyword>fertilization</md:keyword>
+    <md:keyword>fetal development</md:keyword>
+    <md:keyword>fission</md:keyword>
+    <md:keyword>follicle stimulating hormone</md:keyword>
+    <md:keyword>fragmentation</md:keyword>
+    <md:keyword>FSH</md:keyword>
+    <md:keyword>gametogenesis</md:keyword>
+    <md:keyword>gastrulation</md:keyword>
+    <md:keyword>germ layers</md:keyword>
+    <md:keyword>gestation</md:keyword>
+    <md:keyword>GnRH</md:keyword>
+    <md:keyword>gonadotropin-releasing hormone</md:keyword>
+    <md:keyword>hermaphroditism</md:keyword>
+    <md:keyword>holoblastic</md:keyword>
+    <md:keyword>human beta chorionic gonadotropin</md:keyword>
+    <md:keyword>human birth</md:keyword>
+    <md:keyword>human pregnancy</md:keyword>
+    <md:keyword>human reproductive anatomy</md:keyword>
+    <md:keyword>infertility</md:keyword>
+    <md:keyword>inhibin</md:keyword>
+    <md:keyword>inner cell mass</md:keyword>
+    <md:keyword>internal fertilization</md:keyword>
+    <md:keyword>interstitial cell of Leydig</md:keyword>
+    <md:keyword>labia majora</md:keyword>
+    <md:keyword>labia minora</md:keyword>
+    <md:keyword>labor</md:keyword>
+    <md:keyword>LH</md:keyword>
+    <md:keyword>luteinizing hormone</md:keyword>
+    <md:keyword>male hormones</md:keyword>
+    <md:keyword>male reproductive anatomy</md:keyword>
+    <md:keyword>menopause</md:keyword>
+    <md:keyword>menstrual cycle</md:keyword>
+    <md:keyword>meroblastic</md:keyword>
+    <md:keyword>morning sickness</md:keyword>
+    <md:keyword>neural tube</md:keyword>
+    <md:keyword>oogenesis</md:keyword>
+    <md:keyword>organogenesis</md:keyword>
+    <md:keyword>ovarian cycle</md:keyword>
+    <md:keyword>oviduct</md:keyword>
+    <md:keyword>oviparity</md:keyword>
+    <md:keyword>ovoviparity</md:keyword>
+    <md:keyword>parthenogenesis</md:keyword>
+    <md:keyword>penis</md:keyword>
+    <md:keyword>placenta</md:keyword>
+    <md:keyword>polyspermy</md:keyword>
+    <md:keyword>pregnancy</md:keyword>
+    <md:keyword>progesterone</md:keyword>
+    <md:keyword>prostate gland</md:keyword>
+    <md:keyword>reproduction</md:keyword>
+    <md:keyword>reproductive anatomy</md:keyword>
+    <md:keyword>reproductive endocrinologist</md:keyword>
+    <md:keyword>reproductive hormones</md:keyword>
+    <md:keyword>scrotum</md:keyword>
+    <md:keyword>semen</md:keyword>
+    <md:keyword>seminal vesicle</md:keyword>
+    <md:keyword>seminiferous tubule</md:keyword>
+    <md:keyword>sertoli cell</md:keyword>
+    <md:keyword>sex determination</md:keyword>
+    <md:keyword>sexual reproduction</md:keyword>
+    <md:keyword>sexual response</md:keyword>
+    <md:keyword>somite</md:keyword>
+    <md:keyword>spermatheca</md:keyword>
+    <md:keyword>spermatogenesis</md:keyword>
+    <md:keyword>testis</md:keyword>
+    <md:keyword>testosterone</md:keyword>
+    <md:keyword>trimester</md:keyword>
+    <md:keyword>trophoblast</md:keyword>
+    <md:keyword>uterus</md:keyword>
+    <md:keyword>vagina</md:keyword>
+    <md:keyword>vertebrate formation</md:keyword>
+    <md:keyword>viviparity</md:keyword>
+    <md:keyword>zona pellucida</md:keyword>
+    <md:keyword>zygote</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<?cnx.eoc class="summary" title="Sections Summary"?>
+<?cnx.eoc class="art-exercise" title="Art Connections"?>
+<?cnx.eoc class="multiple-choice" title="Multiple Choice"?>
+<?cnx.eoc class="free-response" title="Free Response"?>
+
+    <figure id="fig-ch43_00_01" class="splash">
+<media id="fs-idp45904176" alt="Photo shows a yellow seahorse with its tail curled around a fragment of coral.">
+<image mime-type="image/jpg" src="Figure_43_00_01.jpg" width="600"/>
+</media>
+<caption>Female seahorses produce eggs for reproduction that are then fertilized by the male. Unlike almost all other animals, the male seahorse then gestates the young until birth. (credit: modification of work by "cliff1066"/Flickr)</caption></figure>
+<para id="fs-idm111900272">Animal reproduction is necessary for the survival of a species. In the animal kingdom, there are innumerable ways that species reproduce. Asexual reproduction produces genetically identical organisms (clones), whereas in sexual reproduction, the genetic material of two individuals combines to produce offspring that are genetically different from their parents. During sexual reproduction the male gamete (sperm) may be placed inside the female&#8217;s body for internal fertilization, or the sperm and eggs may be released into the environment for external fertilization. Seahorses, like the one shown in <link target-id="fig-ch43_00_01" document=""/>, provide an example of the latter. Following a mating dance, the female lays eggs in the male seahorse&#8217;s abdominal brood pouch where they are fertilized. The eggs hatch and the offspring develop in the pouch for several weeks.</para></content>
+</document>

@@ -1,0 +1,390 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Superphylum Lophotrochozoa</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44665/latest/</md:content-url>
+  <md:content-id>m44665</md:content-id>
+  <md:title>Superphylum Lophotrochozoa</md:title>
+  <md:version>1.7</md:version>
+  <md:created>2012/08/23 14:43:06 -0500</md:created>
+  <md:revised>2013/05/10 11:00:19.122 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>annelid</md:keyword>
+    <md:keyword>Annelida</md:keyword>
+    <md:keyword>annelid anatomy</md:keyword>
+    <md:keyword>annelid morphology</md:keyword>
+    <md:keyword>captaculae</md:keyword>
+    <md:keyword>chaetae</md:keyword>
+    <md:keyword>clitellum</md:keyword>
+    <md:keyword>conspiral</md:keyword>
+    <md:keyword>ctenidia</md:keyword>
+    <md:keyword>Invertebrata</md:keyword>
+    <md:keyword>invertebrate</md:keyword>
+    <md:keyword>Lophotrochozoa</md:keyword>
+    <md:keyword>mantle</md:keyword>
+    <md:keyword>metamerism</md:keyword>
+    <md:keyword>Mollusca</md:keyword>
+    <md:keyword>nacre</md:keyword>
+    <md:keyword>Nemertea</md:keyword>
+    <md:keyword>Nemertea digestive system</md:keyword>
+    <md:keyword>Nemertea morphology</md:keyword>
+    <md:keyword>Nemertea nervous system</md:keyword>
+    <md:keyword>Nemertea reproduction</md:keyword>
+    <md:keyword>phylum Annelida</md:keyword>
+    <md:keyword>phylum Mollusca</md:keyword>
+    <md:keyword>phylum Nemertea</md:keyword>
+    <md:keyword>pilidium</md:keyword>
+    <md:keyword>planospiral</md:keyword>
+    <md:keyword>planuliform</md:keyword>
+    <md:keyword>radula</md:keyword>
+    <md:keyword>rhynchocoel</md:keyword>
+    <md:keyword>superphylum Lophotrochozoa</md:keyword>
+    <md:keyword>trocophore</md:keyword>
+    <md:keyword>veliger</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the unique anatomical and morphological features of flatworms, rotifers, Nemertea, mollusks, and annelids</item>
+<item>Describe the development of an extracoelomic cavity</item>
+<item>Discuss the advantages of true body segmentation </item>
+<item>Explain the key features of Platyhelminthes and their importance as parasites</item>
+<item>Describe the features of animals classified in phylum Annelida</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idm135339840">Animals belonging to superphylum Lophotrochozoa are protostomes, in which the blastopore, or the point of involution of the ectoderm or outer germ layer, becomes the mouth opening to the alimentary canal. This is called protostomy or &#8220;first mouth.&#8221; In protostomy, solid groups of cells split from the endoderm or inner germ layer to form a central mesodermal layer of cells. This layer multiplies into a band and then splits internally to form the coelom; this protostomic coelom is hence termed <term>schizocoelom</term>.</para>
+<para id="fs-idm39033664">As lophotrochozoans, the organisms in this superphylum possess either a lophophore or trochophore larvae. The lophophores include groups that are united by the presence of the lophophore, a set of ciliated tentacles surrounding the mouth. Lophophorata include the flatworms and several other phyla. These clades are upheld when RNA sequences are compared. Trochophore larvae are characterized by two bands of cilia around the body.</para><para id="fs-idp57960128">The lophotrochozoans are triploblastic and possess an embryonic mesoderm sandwiched between the ectoderm and endoderm found in the diploblastic cnidarians. These phyla are also bilaterally symmetrical, meaning that a longitudinal section will divide them into right and left sides that are symmetrical. It also means the beginning of cephalization, the evolution of a concentration of nervous tissues and sensory organs in the head of the organism, which is where it first encounters its environment.</para>
+<section id="fs-idm166049792">
+<title>Phylum Platyhelminthes</title>
+<para id="fs-idm32819840">The flatworms are acoelomate organisms that include many free-living and parasitic forms. Most of the flatworms are classified in the superphylum Lophotrochozoa, which also includes the mollusks and annelids. The Platyhelminthes consist of two lineages: the Catenulida and the Rhabditophora. The Catenulida, or "chain worms" is a small clade of just over 100 species. These worms typically reproduce asexually by budding. However, the offspring do not fully attach from the parents and, resemble a chain in appearance. All of the remaining flatworms discussed here are part of the Rhabditophora. Many flatworms are parasitic, including important parasites of humans. Flatworms have three embryonic tissue layers that give rise to surfaces that cover tissues (from ectoderm), internal tissues (from mesoderm), and line the digestive system (from endoderm). The epidermal tissue is a single layer cells or a layer of fused cells (syncytium) that covers a layer of circular muscle above a layer of longitudinal muscle. The mesodermal tissues include mesenchymal cells that contain collagen and support secretory cells that secrete mucus and other materials at the surface. The flatworms are acoelomates, so their bodies are solid between the outer surface and the cavity of the digestive system.</para><section id="fs-idp49998576">
+<title>Physiological Processes of Flatworms</title>
+<para id="fs-idm152478240">The free-living species of flatworms are predators or scavengers. Parasitic forms feed on the tissues of their hosts. Most flatworms, such as the planarian shown in <link target-id="fig-ch28_03_01" document=""/>, have a gastrovascular cavity rather than a complete digestive system. In such animals, the &#8220;mouth&#8221; is also used to expel waste materials from the digestive system. Some species also have an anal opening. The gut may be a simple sac or highly branched. Digestion is extracellular, with digested materials taken in to the cells of the gut lining by phagocytosis. One group, the cestodes, lacks a digestive system. Flatworms have an excretory system with a network of tubules throughout the body with openings to the environment and nearby flame cells, whose cilia beat to direct waste fluids concentrated in the tubules out of the body. The system is responsible for the regulation of dissolved salts and the excretion of nitrogenous wastes. The nervous system consists of a pair of nerve cords running the length of the body with connections between them and a large ganglion or concentration of nerves at the anterior end of the worm, where there may also be a concentration of photosensory and chemosensory cells.</para>
+<para id="fs-idm34018960">There is neither a circulatory nor respiratory system, with gas and nutrient exchange dependent on diffusion and cell-cell junctions. This necessarily limits the thickness of the body in these organisms, constraining them to be &#8220;flat&#8221; worms.</para>
+<para id="fs-idp84047792">Most flatworm species are monoecious, and fertilization is typically internal. Asexual reproduction is common in some groups.</para>
+<figure id="fig-ch28_03_01" class=" "><media id="fs-idm117743040" alt="Illustration shows the digestive, nervous and excretory systems in a flat, worm-like planaria. The digestive system starts at the ventral mouth opening in the middle of the animal, and then extends to the head through the middle of the body, and toward the along the sides of the body. Many lateral branches occur along the digestive system. The nervous system has 2 cerebral ganglia at the eyes in the head, and 2 ventral nerve cords with transverse connections along the length of the body to the tail. The excretory system is arranged in 2 long mesh-like structures down each side of the body.">
+<image mime-type="image/jpg" src="Figure_28_03_01.jpg" width="550"/>
+</media>
+<caption>The planarian is a flatworm that has a gastrovascular cavity with one opening that serves as both mouth and anus. The excretory system is made up of tubules connected to excretory pores on both sides of the body. The nervous system is composed of two interconnected nerve cords running the length of the body, with cerebral ganglia and eyespots at the anterior end.</caption></figure></section>
+    <section id="fs-idp5219536">
+        <title>Diversity of Flatworms</title>
+        <para id="fs-idm101992256">Platyhelminthes are traditionally divided into four classes: Turbellaria, Monogenea, Trematoda, and Cestoda (<link target-id="fig-ch28_03_02" document=""/>). As discussed above, the relationships among members of these classes is being reassessed, with the turbellarians in particular now viewed as a paraphyletic group, a group that does not have a single common ancestor.</para><figure id="fig-ch28_03_02" class=" "><media id="fs-idm76110896" alt="Photo A shows a Bedford&#8217;s flatworm from the class Turbellaria. The worm has the appearance of a fringed ribbon, black with pink stripes, swimming above the sand. Photo B shows a Dactylogyrus from the class Monogenea. The worm&#8217;s body is a long, thin translucent oval with bulges at one end that give the appearance of a head. Three dark spots appear in the head, and four more dark spots three-quarters appear of the way down the body. Anchors that enable the worm to latch onto gills are located near these spots. Photo C shows a foot- shaped brown worm. Photo D shows a long, thin ribbon-like white worm.">
+            <image mime-type="image/jpg" src="Figure_28_03_02abcd.jpg" width="550"/>
+            </media>
+            <caption>Phylum Platyhelminthes is divided into four classes. (a) Class Turbellaria includes the Bedford&#8217;s flatworm (<emphasis effect="italics">Pseudobiceros bedfordi</emphasis>), which is about 8&#8211;10 cm in length. (b) The parasitic class Monogenea includes <emphasis effect="italics">Dactylogyrus</emphasis> spp. <emphasis effect="italics">Dactylogyrus</emphasis>, commonly called a gill fluke, is about 0.2 mm in length and has two anchors, indicated by arrows, that it uses to latch onto the gills of host fish. (c) The Trematoda class includes <emphasis effect="italics">Fascioloides magna</emphasis> (right) and <emphasis effect="italics">Fasciaola hepatica</emphasis> (two specimens of left, also known as the common liver fluke). (d) Class Cestoda includes tapeworms such as this <emphasis effect="italics">Taenia saginata</emphasis>. <emphasis effect="italics">T. saginata</emphasis>, which infects both cattle and humans, can reach 4&#8211;10 meters in length; the specimen shown here is about 4 meters. (credit a: modification of work by Jan Derk; credit d: modification of work by CDC)</caption></figure><para id="fs-idp70649584">The class Turbellaria includes mainly free-living, marine species, although some species live in freshwater or moist terrestrial environments. The ventral epidermis of turbellarians is ciliated and facilitates their locomotion. Some turbellarians are capable of remarkable feats of regeneration in which they may regrow the body, even from a small fragment.</para>
+        <para id="fs-idm43880544">The monogeneans are ectoparasites, mostly of fish, with simple lifecycles that consist of a free-swimming larva that attaches to a fish to begin transformation to the parasitic adult form. The parasite has only one host and that host is usually only one species. The worms may produce enzymes that digest the host tissues or simply graze on surface mucus and skin particles. Most monogeneans are hermaphroditic, but the male gametes develop first and so cross-fertilization is quite common.</para>
+        <para id="fs-idm47725328">The trematodes, or flukes, are internal parasites of mollusks and many other groups, including humans. Trematodes have complex lifecycles that involve a primary host in which sexual reproduction occurs, and one or more secondary hosts in which asexual reproduction occurs. The primary host is almost always a mollusk. Trematodes are responsible for serious human diseases including schistosomiasis, a blood fluke. The disease infects an estimated 200 million people in the tropics, leading to organ damage and chronic symptoms like fatigue. Infection occurs when the human enters the water and a larva, released from the primary snail host, locates and penetrates the skin. The parasite infects various organs in the body and feeds on red blood cells before reproducing. Many of the eggs are released in feces and find their way into a waterway, where they are able to reinfect the primary snail host.</para>
+        <para id="fs-idp46121488">The cestodes, or tapeworms, are also internal parasites, mainly of vertebrates (<link target-id="fig-ch28_03_03" document=""/>). Tapeworms live in the intestinal tract of the primary host and remain fixed using a sucker on the anterior end, or scolex, of the tapeworm body. The remaining body of the tapeworm is made up of a long series of units called proglottids, each of which may contain an excretory system with flame cells, but contain reproductive structures, both male and female. Tapeworms do not possess a digestive system; instead, they absorb nutrients from the food matter passing them in the host&#8217;s intestine.</para>
+        <para id="fs-idm80689776">Proglottids are produced at the scolex and gradually migrate to the end of the tapeworm; at this point, they are &#8220;mature&#8221; and all structures except fertilized eggs have degenerated. Most reproduction occurs by cross-fertilization. The proglottid detaches from the body of the worm and is released into the feces of the organism. The eggs are eaten by an intermediate host. The juvenile worm infects the intermediate host and takes up residence, usually in muscle tissue. When the muscle tissue is eaten by the primary host, the cycle is completed. There are several tapeworm parasites of humans that are transmitted by eating uncooked or poorly cooked pork, beef, and fish.</para>
+        <figure id="fig-ch28_03_03" class=" "><media id="fs-idm85709328" alt="The tapeworm life cycle begins when eggs or tapeworm segments, called proglottids, pass from human feces into the environment. Taenia saginata infects cattle and Taenia solium infects pigs when they eat contaminated vegetation. The embryo penetrates the animal intestinal wall and takes up residence in muscle tissue, where it transforms into the larval form. Humans who consume raw or undercooked infected meat become infected when the tapeworm attaches itself to the intestinal wall via suckers or hooks on the scolex, or head. The mature worm produces proglottids and eggs, which pass from the body in feces, completing the cycle.">
+<image mime-type="image/jpg" src="Figure_28_03_03.jpg" width="575"/>
+            </media>
+            
+        <caption>Tapeworm (<emphasis effect="italics">Taenia</emphasis> spp.) infections occur when humans consume raw or undercooked infected meat. (credit: modification of work by CDC)</caption></figure></section>
+</section>
+    <section id="fs-idm181238304">
+        <title>Phylum Rotifera</title>
+        <para id="fs-idm77695888">The rotifers are a microscopic (about 100 &#181;m to 30 mm) group of mostly aquatic organisms that get their name from the <term>corona</term>, a rotating, wheel-like structure that is covered with cilia at their anterior end (<link target-id="fig-ch28_03_04" document=""/>). Although their taxonomy is currently in flux, one treatment places the rotifers in three classes: Bdelloidea, Monogononta, and Seisonidea. The classification of the group is currently under revision, however, as more phylogenetic evidence becomes available. It is possible that the &#8220;spiny headed worms&#8221; currently in phylum Acanthocephala will be incorporated into this group in the future.</para>
+        <para id="fs-idm41140080">The body form of rotifers consists of a head (which contains the corona), a trunk (which contains the organs), and the foot. Rotifers are typically free-swimming and truly planktonic organisms, but the toes or extensions of the foot can secrete a sticky material forming a holdfast to help them adhere to surfaces.  The head contains sensory organs in the form of a bi-lobed brain and small eyespots near the corona.</para>
+        <figure id="fig-ch28_03_04" class=" "><media id="fs-idm100839552" alt="Scanning electron micrograph A shows rotifers from the class Bdelloidea, which have a long, tube-shaped body with a fringe surrounding the mouth. Light micrograph B shows that Polyarthra from the class Monogononta is shorter and wider than the bdelloid rotifers, with a smaller fringe.">
+                <image mime-type="image/jpg" src="Figure_28_03_04ab.jpg" width="550"/>
+            </media>
+            <caption>Shown are examples from two of the three classes of rotifer. (a) Species from the class Bdelloidea are characterized by a large corona, shown separately from the whole animals in the center of this scanning electron micrograph. (b) <emphasis effect="italics">Polyarthra</emphasis>, from the class Monogononta, has a smaller corona than Bdelloid rotifers, and a single gonad, which give the class its name. (credit a: modification of work by Diego Fontaneto; credit b: modification of work by U.S. EPA; scale-bar data from Cory Zanker)</caption></figure><para id="fs-idp43567216">The rotifers are filter feeders that will eat dead material, algae, and other microscopic living organisms, and are therefore very important components of aquatic food webs. Rotifers obtain food that is directed toward the mouth by the current created from the movement of the corona. The food particles enter the mouth and travel to the <term>mastax</term> (pharynx with jaw-like structures). Food then passes by digestive and salivary glands, and into the stomach, then onto the intestines. Digestive and excretory wastes are collected in a cloacal bladder before being released out the anus.</para>
+        <note id="fs-idm115774800" class="interactive"><label/><title>Link to Learning</title>
+            <media id="fs-idm41702528" alt="QR Code representing a URL">
+                <image mime-type="image/png" src="rotifers.png" width="120"/>
+            </media>
+            <para id="fs-idm151240944">Watch this <link window="new" url="http://openstaxcollege.org/l/rotifers">video</link> to see rotifers feeding.</para>
+        </note><para id="fs-idm81453376">Rotifers are pseudocoelomates commonly found in fresh water and some salt water environments throughout the world. <link target-id="fig-ch28_03_05" document=""/> shows the anatomy of a rotifer belonging to class Bdelloidea. About 2,200 species of rotifers have been identified. Rotifers are dioecious organisms (having either male or female genitalia) and exhibit sexual dimorphism (males and females have different forms). Many species are parthenogenic and exhibit haplodiploidy, a method of gender determination in which a fertilized egg develops into a female and an unfertilized egg develops into a male. In many dioecious species, males are short-lived and smaller with no digestive system and a single testis. Females can produce eggs that are capable of dormancy for protection during harsh environmental conditions.</para>
+        <figure id="fig-ch28_03_05" class=" "><media id="fs-idp94511792" alt="The illustration shows long, tube-shaped animal with a crown-like corona on top. Cilia fringe the top of the corona. Between the two lobes of the corona is the mouth, which leads to the stomach, intestine, and anus. The mastax surround the mouth, and beneath the mastax is a digestive gland. The pseudocoel surrounds the stomach. At the bottom if the animal is a foot that stands on two toes.">
+                <image mime-type="image/jpg" src="Figure_28_03_05.jpg" width="320"/>
+            </media>
+            
+        <caption>This illustration shows the anatomy of a bdelloid rotifer.</caption></figure></section>
+<section id="fs-idm166302800">
+<title>Phylum Nemertea</title>
+<para id="fs-idm35762736">The Nemertea are colloquially known as ribbon worms. Most species of phylum <term>Nemertea</term> are marine, predominantly benthic or bottom dwellers, with an estimated 900 species known. However, nemertini have been recorded in freshwater and terrestrial habitats as well. Most nemerteans are carnivores, feeding on worms, clams, and crustaceans. Some species are scavengers, and some nemertini species, like <emphasis effect="italics">Malacobdella grossa</emphasis>, have also evolved commensalistic relationships with some mollusks. Some species have devastated commercial fishing of clams and crabs. Nemerteans have almost no predators and two species are sold as fish bait.</para>
+<section id="fs-idp97682496">
+<title>Morphology</title>
+<para id="fs-idp42182784">Ribbon worms vary in size from 1 cm to several meters. They show bilateral symmetry and remarkable contractile properties. Because of their contractility, they can change their morphological presentation in response to environmental cues. Animals in phylum Nemertea show a flattened morphology, that is, they are flat from front to back, like a flattened tube. Nemertea are soft and unsegmented animals (<link target-id="fig-ch28_03_06" document=""/>).</para>
+<figure id="fig-ch28_03_06" class=" "><media id="fs-idm67108544" alt="The photo shows a worm that resembles intestines, sitting on the muddy ocean floor.">
+<image mime-type="image/jpg" src="Figure_28_03_06.jpg" width="320"/>
+</media>
+<caption>The proboscis worm (<emphasis effect="italics">Parborlasia corrugatus</emphasis>) is a scavenger that combs the sea floor for food. The species is a member of the phylum Nemertea. The specimen shown here was photographed in the Ross Sea, Antarctica. (credit: Henry Kaiser, National Science Foundation)</caption></figure><para id="fs-idm26508688">A unique characteristic of this phylum is the presence of a proboscis enclosed in a <term>rhynchocoel</term>. The proboscis serves to capture food and may be ornamented with barbs in some species. The rhynchocoel is a fluid-filled cavity that extends from the head to nearly two-thirds of the length of the gut in these animals (<link target-id="fig-ch28_03_07" document=""/>). The proboscis may be extended or retracted by the retractor muscle attached to the wall of the rhynchocoel.</para>
+<figure id="fig-ch28_03_07" class=" "><media id="fs-idm85590176" alt="The illustration shows worm-shaped animal with fringe-like sensory papillae at one end. The mouth, which is part way down the body, leads to a stomach and intestine, then empties into an anus at the far end. The cerebral ganglia are located above the mouth. Lateral nerve cords run down either side of the animal from the central ganglia. The proboscis is a long, thin structure inside a cavity called the rhynchocoel.">
+<image mime-type="image/jpg" src="Figure_28_03_07.jpg" width="320"/>
+</media>
+<caption>The anatomy of a Nemertean is shown.</caption></figure><note id="fs-idp19198320" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idm38162000" alt="QR Code representing a URL">
+<image mime-type="image/png" src="nemertean.png" width="120"/>
+</media>
+<para id="fs-idm70606464">Watch this <link window="new" url="http://openstaxcollege.org/l/nemertean">video</link> to see a nemertean attack a polychaete with its proboscis.</para>
+</note></section>
+<section id="fs-idp105661952">
+<title>Digestive System</title>
+<para id="fs-idm176520256">The nemertini show a very well-developed digestive system. A mouth opening that is ventral to the rhynchocoel leads into the foregut, followed by the intestine. The intestine is present in the form of diverticular pouches and ends in a rectum that opens via an anus. Gonads are interspersed with the intestinal diverticular pouches and open outwards via genital pores. A circulatory system consists of a closed loop of a pair of lateral blood vessels. The circulatory system is derived from the coelomic cavity of the embryo. Some animals may also have cross-connecting vessels in addition to lateral ones. Although these are called blood vessels, since they are of coelomic origin, the circulatory fluid is colorless. Some species bear hemoglobin as well as other yellow or green pigments. The blood vessels are connected to the rhynchocoel. The flow of fluid in these vessels is facilitated by the contraction of muscles in the body wall. A pair of protonephridia, or primitive kidneys, is present in these animals to facilitate osmoregulation. Gaseous exchange occurs through the skin in the nemertini.</para>
+</section>
+<section id="fs-idp82976864">
+<title>Nervous System</title>
+<para id="fs-idp39186064">Nemertini have a ganglion or &#8220;brain&#8221; situated at the anterior end between the mouth and the foregut, surrounding the digestive system as well as the rhynchocoel. A ring of four nerve masses called &#8220;ganglia&#8221; composes the brain in these animals. Paired longitudinal nerve cords emerge from the brain ganglia and extend to the posterior end. Ocelli or eyespots are present in pairs, in multiples of two in the anterior portion of the body. It is speculated that the eyespots originate from neural tissue and not from the epidermis.</para>
+</section>
+<section id="fs-idp61051712">
+<title>Reproduction</title>
+<para id="fs-idm100484768">Animals in phylum Nemertea show sexual dimorphism, although freshwater species may be hermaphroditic. Eggs and sperm are released into the water, and fertilization occurs externally. The zygote then develops into a <term>planuliform</term> larva. In some nemertine species, a <term>pilidium</term> larva may develop inside the young worm, from a series of imaginal discs. This larval form, characteristically shaped like a deerstalker cap, devours tissues from the young worm for survival before metamorphosing into the adult-like morphology.</para>
+</section>
+</section>
+<section id="fs-idm93599904">
+<title>Phylum Mollusca</title>
+<para id="fs-idm13685984">Phylum <term>Mollusca</term> is the predominant phylum in marine environments. It is estimated that 23 percent of all known marine species are mollusks; there are over 75,000 described species, making them the second most diverse phylum of animals. The name &#8220;mollusca&#8221; signifies a soft body, since the earliest descriptions of mollusks came from observations of unshelled cuttlefish. Mollusks are predominantly a marine group of animals; however, they are known to inhabit freshwater as well as terrestrial habitats. Mollusks display a wide range of morphologies in each class and subclass, but share a few key characteristics, including a muscular foot, a visceral mass containing internal organs, and a mantle that may or may not secrete a shell of calcium carbonate (<link target-id="fig-ch28_03_08" document=""/>).</para>
+<note id="fs-idm97419408" class="art-connection"><label/><title>Art Connection</title>
+<figure id="fig-ch28_03_08" class=" "><media id="fs-idp75769744" alt="The illustration shows a cross-section of a snail. The body of the snail is called the visceral mass. The mouth leads to a crop, then to the stomach, which is toward the back of the animal. The intestines are located above the stomach. The intestines continue forward, and empty into a cavity above the front part of the visceral mass. Two nerve cords wrap around the esophagus and extend back along the bottom of the animal. The gill is located in the cavity in the shell, and connects to the heart in the visceral mass. The coelom is near the heart. The visceral mass is surrounded by a mantle. A shell covers the mantle.">
+<image mime-type="image/jpg" src="Figure_28_03_08.png" width="300"/>
+</media>
+<caption>There are many species and variations of mollusks; this illustration shows the anatomy of an aquatic gastropod.</caption></figure><para id="fs-idm7380512">Which of the following statements about the anatomy of a mollusk is false?</para>
+    <list id="fs-idm37191152" list-type="enumerated" number-style="lower-alpha">
+        <item>Mollusks have a radula for grinding food.</item>
+      <item>A digestive gland is connected to the stomach.</item>
+      <item>The tissue beneath the shell is called the mantle.</item>
+      <item>The digestive system includes a gizzard, a stomach, a digestive gland, and the intestine.</item>
+    </list>
+<!--<para><link target-id="fig-ch28_03_08" document=""/>D</para>-->
+</note><para id="fs-idm83980208">Mollusks have a muscular foot, which is used for locomotion and anchorage, and varies in shape and function, depending on the type of mollusk under study. In shelled mollusks, this foot is usually the same size as the opening of the shell. The foot is a retractable as well as an extendable organ. The foot is the ventral-most organ, whereas the mantle is the limiting dorsal organ. Mollusks are eucoelomate, but the coelomic cavity is restricted to a cavity around the heart in adult animals. The mantle cavity develops independently of the coelomic cavity.</para>
+<para id="fs-idm121616784">The visceral mass is present above the foot, in the visceral hump. This includes digestive, nervous, excretory, reproductive, and respiratory systems. Mollusk species that are exclusively aquatic have gills for respiration, whereas some terrestrial species have lungs for respiration. Additionally, a tongue-like organ called a <term>radula</term>, which bears chitinous tooth-like ornamentation, is present in many species, and serves to shred or scrape food. The <term>mantle</term> (also known as the pallium) is the dorsal epidermis in mollusks; shelled mollusks are specialized to secrete a chitinous and hard calcareous shell.</para>
+<para id="fs-idm47282800">Most mollusks are dioecious animals and fertilization occurs externally, although this is not the case in terrestrial mollusks, such as snails and slugs, or in cephalopods. In some mollusks, the zygote hatches and undergoes two larval stages&#8212;<term>trochophore</term> and <term>veliger</term>&#8212;before becoming a young adult; bivalves may exhibit a third larval stage, glochidia.</para>
+<section id="fs-idm122375328">
+<title>Classification of Phylum Mollusca</title>
+<para id="fs-idm6067008">Phylum Mollusca is a very diverse (85,000 species) group of mostly marine species. Mollusks have a dramatic variety of form, ranging from large predatory squids and octopus, some of which show a high degree of intelligence, to grazing forms with elaborately sculpted and colored shells. This phylum can be segregated into seven classes: Aplacophora, Monoplacophora, Polyplacophora, Bivalvia, Gastropoda, Cephalopoda, and Scaphopoda.</para>
+<para id="fs-idm131033248">Class Aplacophora (&#8220;bearing no plates&#8221;) includes worm-like animals primarily found in benthic marine habitats. These animals lack a calcareous shell but possess aragonite spicules on their epidermis. They have a rudimentary mantle cavity and lack eyes, tentacles, and nephridia (excretory organs). Members of class Monoplacophora (&#8220;bearing one plate&#8221;) posses a single, cap-like shell that encloses the body. The morphology of the shell and the underlying animal can vary from circular to ovate. A looped digestive system, multiple pairs of excretory organs, many gills, and a pair of gonads are present in these animals. The monoplacophorans were believed extinct and only known via fossil records until the discovery of <emphasis effect="italics">Neopilina galathaea </emphasis>in 1952. Today, scientists have identified nearly two dozen extant species.</para>
+<para id="fs-idp37268928">Animals in the class Polyplacophora (&#8220;bearing many plates&#8221;) are commonly known as &#8220;chitons&#8221; and bear an armor-like eight-plated shell (<link target-id="fig-ch28_03_09" document=""/>). These animals have a broad, ventral foot that is adapted for suction to rocks and other substrates, and a mantle that extends beyond the shell in the form of a girdle. Calcareous spines may be present on the girdle to offer protection from predators. Respiration is facilitated by <term>ctenidia</term> (gills) that are present ventrally. These animals possess a radula that is modified for scraping. The nervous system is rudimentary with only buccal or &#8220;cheek&#8221; ganglia present at the anterior end. Eyespots are absent in these animals. A single pair of nephridia for excretion is present.</para>
+<figure id="fig-ch28_03_09" class=" "><media id="fs-idp61534528" alt="The photo shows a chiton, which has an oval body with plate-like armor divided into segments.">
+<image mime-type="image/jpg" src="Figure_28_03_09.jpg" width="320"/>
+</media>
+        <caption>This chiton from the class Polyplacaphora has the eight-plated shell that is indicative of its class. (credit: Jerry Kirkhart)</caption></figure><para id="fs-idm71752512">Class Bivalvia (&#8220;two shells&#8221;) includes clams, oysters, mussels, scallops, and geoducks. Members of this class are found in marine as well as freshwater habitats. As the name suggests, bivalves are enclosed in a pair of shells (valves are commonly called &#8220;shells&#8221;) that are hinged at the dorsal end by shell ligaments as well as shell teeth (<link target-id="fig-ch28_03_10" document=""/>). The overall morphology is laterally flattened, and the head region is poorly developed. Eyespots and statocysts may be absent in some species. Since these animals are suspension feeders, a radula is absent in this class of mollusks. Respiration is facilitated by a pair of ctenidia, whereas excretion and osmoregulation are brought about by a pair of nephridia. Bivalves often possess a large mantle cavity. In some species, the posterior edges of the mantle may fuse to form two siphons that serve to take in and exude water.</para>
+    <figure id="fig-ch28_03_10" class=" "><media id="fs-idp129858528" alt="The photo shows black and gray mussels clustered together.">
+            <image mime-type="image/jpg" src="Figure_28_03_10.jpg" width="320"/>
+        </media>
+        
+    <caption>These mussels, found in the intertidal zone in Cornwall, England, are bivalves. (credit: Mark A. Wilson)</caption></figure><para id="fs-idp19990080">One of the functions of the mantle is to secrete the shell. Some bivalves like oysters and mussels possess the unique ability to secrete and deposit a calcareous <term>nacre</term> or &#8220;mother of pearl&#8221; around foreign particles that may enter the mantle cavity. This property has been commercially exploited to produce pearls.</para>
+<note id="fs-idm160259008" class="interactive"><label/><title>Link to Learning</title>
+    <media id="fs-idm40083600" alt="QR Code representing a URL">
+                <image mime-type="image/png" src="clams.png" width="120"/>
+            </media>
+<para id="fs-idm41218720">Watch the animations of bivalves feeding: View the process in <link window="new" url="http://openstaxcollege.org/l/clams">clams</link> and <link window="new" url="http://openstaxcollege.org/l/mussels">mussels</link> at these sites.</para>
+</note><para id="fs-idp44802432">Animals in class Gastropoda (&#8220;stomach foot&#8221;) include well-known mollusks like snails, slugs, conchs, sea hares, and sea butterflies. Gastropoda includes shell-bearing species as well as species with a reduced shell. These animals are asymmetrical and usually present a coiled shell (<link target-id="fig-ch28_03_11" document=""/>). Shells may be <term>planospiral</term> (like a garden hose wound up), commonly seen in garden snails, or <term>conispiral</term>, (like a spiral staircase), commonly seen in marine conches.</para>
+<figure id="fig-ch28_03_11" class=" "><media id="fs-idp12500896" alt="The photo on the left shows a land snail with a coiled shell and long tentacles. The photo on the right shows a slug, which looks like a snail without a shell.">
+<image mime-type="image/jpg" src="Figure_28_03_11.jpg" width="550"/>
+</media>
+<caption>(a) Snails and (b) slugs are both gastropods, but slugs lack a shell. (credit a: modification of work by Murray Stevenson; credit b: modification of work by Rosendahl)</caption></figure><para id="fs-idm74722400">The visceral mass in the shelled species displays torsion around the perpendicular axis on the center of the foot, which is the key characteristic of this group, along with a foot that is modified for crawling (<link target-id="fig-ch28_03_12" document=""/>). Most gastropods bear a head with tentacles, eyes, and a style. A complex radula is used by the digestive system and aids in the ingestion of food. Eyes may be absent in some gastropods species. The mantle cavity encloses the ctenidia as well as a pair of nephridia.</para>
+<figure id="fig-ch28_03_12" class=" "><media id="fs-idm152334416" alt="Illustration A shows a side view of a snail. The digestive system starts at the mouth, and continues to the stomach toward the back of the shell. The stomach empties into the intestines, which continue forward along the upper inside edge of the shell and end a cavity above the mouth. Illustration B shows a top view of a snail. From the mouth, the digestive tract curves toward the left, then hooks around to the right and goes back toward the front of the animal.">
+<image mime-type="image/jpg" src="Figure_28_03_12.jpg" width="320"/>
+</media>
+<caption>During embryonic development of gastropods, the visceral mass undergoes torsion, or counterclockwise rotation of anatomical features. As a result, the anus of the adult animal is located over the head. Torsion is an independent process from coiling of the shell.</caption></figure>
+<note id="fs-idm15279296" class="everyday">
+    <label/>
+    <title>Everyday Connection</title>
+<para id="fs-idp38630704"><title>Can Snail Venom Be Used as a Pharmacological Painkiller?</title>Marine snails of the genus <emphasis effect="italics">Conus</emphasis> (<link target-id="fig-ch28_03_13" document=""/>) attack prey with a venomous sting. The toxin released, known as conotoxin, is a peptide with internal disulfide linkages. Conotoxins can bring about paralysis in humans, indicating that this toxin attacks neurological targets. Some conotoxins have been shown to block neuronal ion channels. These findings have led researchers to study conotoxins for possible medical applications.</para>
+<para id="fs-idp44736224">Conotoxins are an exciting area of potential pharmacological development, since these peptides may be possibly modified and used in specific medical conditions to inhibit the activity of specific neurons. For example, these toxins may be used to induce paralysis in muscles in specific health applications, similar to the use of botulinum toxin. Since the entire spectrum of conotoxins, as well as their mechanisms of action, are not completely known, the study of their potential applications is still in its infancy. Most research to date has focused on their use to treat neurological diseases. They have also shown some efficacy in relieving chronic pain, and the pain associated with conditions like sciatica and shingles. The study and use of biotoxins&#8212;toxins derived from living organisms&#8212;are an excellent example of the application of biological science to modern medicine.</para>
+<figure id="fig-ch28_03_13" class=" "><media id="fs-idm47329232" alt="The photo shows Conus on the sea floor. The shape of the shell resembles that of a pasta shell. A snout sticks out the front end.">
+<image mime-type="image/jpg" src="Figure_28_03_13.jpg" width="295"/>
+</media>
+<caption>Members of the genus <emphasis effect="italics">Conus </emphasis>produce neurotoxins that may one day have medical uses. (credit: David Burdick, NOAA)</caption></figure></note>
+<para id="fs-idp139190080">Class Cephalopoda (&#8220;head foot&#8221; animals), include octopi, squids, cuttlefish, and nautilus. Cephalopods are a class of shell-bearing animals as well as mollusks with a reduced shell. They display vivid coloration, typically seen in squids and octopi, which is used for camouflage. All animals in this class are carnivorous predators and have beak-like jaws at the anterior end. All cephalopods show the presence of a very well-developed nervous system along with eyes, as well as a closed circulatory system. The foot is lobed and developed into tentacles, and a funnel, which is used as their mode of locomotion. Suckers are present on the tentacles in octopi and squid. Ctenidia are enclosed in a large mantle cavity and are serviced by large blood vessels, each with its own heart associated with it; the mantle has siphonophores that facilitate exchange of water.</para>
+<para id="fs-idm40698976">Locomotion in cephalopods is facilitated by ejecting a stream of water for propulsion. This is called &#8220;jet&#8221; propulsion. A pair of nephridia is present within the mantle cavity. Sexual dimorphism is seen in this class of animals. Members of a species mate, and the female then lays the eggs in a secluded and protected niche. Females of some species care for the eggs for an extended period of time and may end up dying during that time period. Cephalopods such as squids and octopi also produce sepia or a dark ink, which is squirted upon a predator to assist in a quick getaway.</para>
+<para id="fs-idm15132320">Reproduction in cephalopods is different from other mollusks in that the egg hatches to produce a juvenile adult without undergoing the trochophore and veliger larval stages.</para>
+<para id="fs-idm26543088">In the shell-bearing <emphasis effect="italics">Nautilus </emphasis>spp., the spiral shell is multi-chambered. These chambers are filled with gas or water to regulate buoyancy. The shell structure in squids and cuttlefish is reduced and is present internally in the form of a squid pen and cuttlefish bone, respectively. Examples are shown in <link target-id="fig-ch28_03_14" document=""/>.</para>
+ <figure id="fig-ch28_03_14" class=" "><media id="fs-idp22425680" alt="Part a shows a nautilus with a coiled, brown-and-white striped shell. Tentacles stick out from the front end. Part b shows a cuttlefish wish a squat body and short tentacles that blends into its surroundings. Part c shows a reef squid with an eye located behind its long beak. Long, thick tentacles project back from the body. Part d shows an octopus with bright blue rings all over its body.">
+<image mime-type="image/jpg" src="Figure_28_03_14abcd.jpg" width="450"/>
+        </media>
+        <caption>The (a) nautilus, (b) giant cuttlefish, (c) reef squid, and (d) blue-ring octopus are all members of the class Cephalopoda. (credit a: modification of work by J. Baecker; credit b: modification of work by Adrian Mohedano; credit c: modification of work by Silke Baron; credit d: modification of work by Angell Williams)</caption></figure><para id="fs-idm1031680">Members of class Scaphopoda (&#8220;boat feet&#8221;) are known colloquially as &#8220;tusk shells&#8221; or &#8220;tooth shells,&#8221; as evident when examining <emphasis effect="italics">Dentalium</emphasis>, one of the few remaining scaphopod genera (<link target-id="fig-ch28_03_15" document=""/>). Scaphopods are usually buried in sand with the anterior opening exposed to water.  These animals bear a single conical shell, which has both ends open. The head is rudimentary and protrudes out of the posterior end of the shell. These animals do not possess eyes, but they have a radula, as well as a foot modified into tentacles with a bulbous end, known as <term>captaculae</term>. Captaculae serve to catch and manipulate prey. Ctenidia are absent in these animals.</para>
+<figure id="fig-ch28_03_15" class=" "><media id="fs-idm32441136" alt="The photo shows white shells shaped like tusks.">
+        <image mime-type="image/jpg" src="Figure_28_03_15.jpg" width="320"/>
+    </media>
+    <caption><emphasis effect="italics">Antalis vulgaris</emphasis> shows the classic Dentaliidae shape that gives these animals their common name of "tusk shell." (credit: Georges Jansoone)</caption></figure></section>
+    </section>
+<section id="fs-idm123774784">
+    <title>Phylum Annelida</title>
+    <para id="fs-idp49999936">Phylum <term>Annelida</term> includes segmented worms. These animals are found in marine, terrestrial, and freshwater habitats, but a presence of water or humidity is a critical factor for their survival, especially in terrestrial habitats. The name of the phylum is derived from the Latin word <emphasis effect="italics">annellus</emphasis>, which means a small ring. Animals in this phylum show parasitic and commensal symbioses with other species in their habitat. Approximately 16,500 species have been described in phylum Annelida. The phylum includes earthworms, polychaete worms, and leeches. Annelids show protostomic development in embryonic stages and are often called &#8220;segmented worms&#8221; due to their key characteristic of <term>metamerism</term>, or true segmentation.</para>
+    <section id="fs-idm95416752"><title>Morphology</title><para id="fs-idm157062320">Annelids display bilateral symmetry and are worm-like in overall morphology. Annelids have a segmented body plan wherein the internal and external morphological features are repeated in each body segment. Metamerism allows animals to become bigger by adding &#8220;compartments&#8221; while making their movement more efficient.  This metamerism is thought to arise from identical teloblast cells in the embryonic stage, which give rise to identical mesodermal structures. The overall body can be divided into head, body, and pygidium (or tail). The <term>clitellum</term> is a reproductive structure that generates mucus that aids in sperm transfer and gives rise to a cocoon within which fertilization occurs; it appears as a fused band in the anterior third of the animal (<link target-id="fig-ch28_03_16" document=""/>).</para>
+        <figure id="fig-ch28_03_16" class=" "><media id="fs-idp96682960" alt="The clitellum is a swollen, smooth section of the earthworm.">
+<image mime-type="image/jpg" src="Figure_28_03_16.jpg" width="295"/>
+</media>
+
+        <caption>The clitellum, seen here as a protruding segment with different coloration than the rest of the body, is a structure that aids in annelid reproduction. (credit: Rob Hille)</caption></figure></section><section id="fs-idm185579808"><title>Anatomy</title><para id="fs-idm52023536">The epidermis is protected by an acellular, external cuticle, but this is much thinner than the cuticle found in the ecdysozoans and does not require periodic shedding for growth. Circular as well as longitudinal muscles are located interior to the epidermis. Chitinous hairlike extensions, anchored in the epidermis and projecting from the cuticle, called <term>setae/chaetae</term> are present in every segment. Annelids show the presence of a true coelom, derived from embryonic mesoderm and protostomy. Hence, they are the most advanced worms. A well-developed and complete digestive system is present in earthworms (oligochaetes) with a mouth, muscular pharynx, esophagus, crop, and gizzard being present. The gizzard leads to the intestine and ends in an anal opening. A cross-sectional view of a body segment of an earthworm (a terrestrial type of annelid) is shown in <link target-id="fig-ch28_03_17" document=""/>; each segment is limited by a membranous septum that divides the coelomic cavity into a series of compartments.</para>
+                <para id="fs-idp201349232">Annelids possess a closed circulatory system of dorsal and ventral blood vessels that run parallel to the alimentary canal as well as capillaries that service individual tissues. In addition, these vessels are connected by transverse loops in every segment. These animals lack a well-developed respiratory system, and gas exchange occurs across the moist body surface. Excretion is facilitated by a pair of metanephridia (a type of primitive &#8220;kidney&#8221; that consists of a convoluted tubule and an open, ciliated funnel) that is present in every segment towards the ventral side. Annelids show well-developed nervous systems with a nerve ring of fused ganglia present around the pharynx. The nerve cord is ventral in position and bears enlarged nodes or ganglia in each segment.</para>
+                <figure id="fig-ch28_03_17"><media id="fs-idm158486656" alt="The illustration shows a cross-section of an annelid. The body is divided into segmented compartments. A U-shaped intestine runs through the middle of the compartments, and two ventral nerve cords run along the bottom. In each segment, the nerve cords are connected to each other. A dorsal blood vessel sits on top of the intestine, and a ventral blood vessel rests beneath it. Other vessels connect the dorsal and ventral vessels together. The nephridium is connected to the barrier separating the compartments, and consists of a long coil connected to a trumpet-like bell.">
+                    <image mime-type="image/jpg" src="Figure_28_03_17.jpg" width="325"/>
+                    </media>
+            <caption>This schematic drawing shows the basic anatomy of annelids in a cross-sectional view.</caption></figure><para id="fs-idm69913248">Annelids may be either monoecious with permanent gonads (as in earthworms and leeches) or dioecious with temporary or seasonal gonads that develop (as in polychaetes). However, cross-fertilization is preferred in hermaphroditic animals. These animals may also show simultaneous hermaphroditism and participate in simultaneous sperm exchange when they are aligned for copulation.</para>
+<note id="fs-idm9871952" class="interactive"><label/><title>Link to Learning</title>
+    <media id="fs-idm161498880" alt="QR Code representing a URL">
+        <image mime-type="image/png" src="annelid.png" width="120"/>
+    </media>
+<para id="fs-idm39005168">This combination <link window="new" url="http://shapeoflife.org/video/animation/annelid-animation-body-plan">video and animation</link> provides a close-up look at annelid anatomy.</para></note></section><section id="fs-idm103941264">
+<title>Classification of Phylum Annelida</title>
+<para id="fs-idp5894016">Phylum Annelida contains the class Polychaeta (the polychaetes) and the class Oligochaeta (the earthworms, leeches and their relatives). </para><para id="fs-idm28103616">Earthworms are the most abundant members of the class Oligochaeta, distinguished by the presence of the clitellum as well as few, reduced chaetae (&#8220;oligo- = &#8220;few&#8221;; -chaetae = &#8220;hairs&#8221;). The number and size of chaetae are greatly diminished in Oligochaeta compared to the polychaetes (<emphasis effect="italics">poly</emphasis>=many, <emphasis effect="italics">chaetae</emphasis> = hairs). The many chetae of polychaetes are also arranged within fleshy, flat, paired appendages that protrude from each segment called <term>parapodia</term>, which may be specialized for different functions in the polychates. The subclass Hirudinea includes leeches such as <emphasis effect="italics">Hirudo medicinalis</emphasis> and <emphasis effect="italics">Hemiclepsis marginata</emphasis>.  The class Oligochaeta includes the subclass Hirudinia and the subclass Brachiobdella. A significant difference between leeches and other annelids is the development of suckers at the anterior and posterior ends and a lack of chaetae. Additionally, the segmentation of the body wall may not correspond to the internal segmentation of the coelomic cavity. This adaptation possibly helps the leeches to elongate when they ingest copious quantities of blood from host vertebrates. The subclass Brachiobdella includes species like <emphasis effect="italics">Branchiobdella balcanica sketi</emphasis> and <emphasis effect="italics">Branchiobdella astaci</emphasis>, worms that show similarity with leeches as well as oligochaetes.</para><figure id="fig-ch28_03_18" class=" "><media id="fs-idm99428768" alt="Part a shows an earthworm, and part b shows a large leech trying to latch onto a person&#8217;s hand. Part c shows a worm on that is anchored to the ocean floor. Featherlike appendages extend from the tube-like body.">
+<image mime-type="image/jpg" src="Figure_28_03_18.jpg" width="575"/>
+</media>
+<caption>The (a) earthworm, (b) leech, and (c) featherduster are all annelids. (credit a: modification of work by S. Shepherd; credit b: modification of work by &#8220;Sarah G...&#8221;/Flickr; credit c: modification of work by Chris Gotschalk, NOAA)</caption></figure></section>
+</section>
+<section id="fs-idp58174016" class="summary">
+<title>Section Summary</title><para id="fs-idm23198080">Phylum Annelida includes vermiform, segmented animals. Segmentation is seen in internal anatomy as well, which is called metamerism. Annelids are protostomes. These animals have well-developed neuronal and digestive systems. Some species bear a specialized band of segments known as a clitellum. Annelids show the presence numerous chitinous projections termed chaetae, and polychaetes possess parapodia. Suckers are seen in order Hirudinea. Reproductive strategies include sexual dimorphism, hermaphroditism, and serial hermaphroditism. Internal segmentation is absent in class Hirudinea.</para>
+<para id="fs-idp89808432">Flatworms are acoelomate, triploblastic animals. They lack circulatory and respiratory systems, and have a rudimentary excretory system. This digestive system is incomplete in most species. There are four traditional classes of flatworms, the largely free-living turbellarians, the ectoparasitic monogeneans, and the endoparasitic trematodes and cestodes. Trematodes have complex lifecycles involving a molluscan secondary host and a primary host in which sexual reproduction takes place. Cestodes, or tapeworms, infect the digestive systems of primary vertebrate hosts.</para>
+<para id="fs-idm18651168">The rotifers are microscopic, multicellular, mostly aquatic organisms that are currently under taxonomic revision. The group is characterized by the rotating, ciliated, wheel-like structure, the corona, on their head. The mastax or jawed pharynx is another structure unique to this group of organisms.</para>
+<para id="fs-idm37171568">The nemertini are the simplest eucoelomates. These ribbon-shaped animals bear a specialized proboscis enclosed within a rhynchocoel. The development of a closed circulatory system derived from the coelom is a significant difference seen in this species compared to other pseudocoelomate phyla. Alimentary, nervous, and excretory systems are more developed in the nemertini than in less advanced phyla. Embryonic development of nemertine worms proceeds via a planuliform larval stage.</para>
+<para id="fs-idp1098720">Phylum Mollusca is a large, marine group of invertebrates. Mollusks show a variety of morphological variations within the phylum. This phylum is also distinct in that some members exhibit a calcareous shell as an external means of protection. Some mollusks have evolved a reduced shell. Mollusks are protostomes. The dorsal epidermis in mollusks is modified to form the mantle, which encloses the mantle cavity and visceral organs. This cavity is quite distinct from the coelomic cavity, which in the adult animal surrounds the heart. Respiration is facilitated by gills known as ctenidia. A chitinous-toothed tongue called the radula is present in most mollusks. Early development in some species occurs via two larval stages: trochophore and veliger. Sexual dimorphism is the predominant sexual strategy in this phylum. Mollusks can be divided into seven classes, each with distinct morphological characteristics.</para>
+</section>
+<section id="fs-idm37896752" class="art-exercise">
+    <title>Art Connections</title>
+<exercise id="fs-idm43860096">
+    <problem id="fs-idm27922704">
+    <para id="fs-idm5299344"><link target-id="fig-ch28_03_08" document=""/> Which of the following statements about the anatomy of a mollusk is false?</para>
+<list id="fs-idp144572544" list-type="enumerated" number-style="lower-alpha">
+    <item>Mollusks have a radula for grinding food.</item>
+      <item>A digestive gland is connected to the stomach.</item>
+      <item>The tissue beneath the shell is called the mantle.</item>
+      <item>The digestive system includes a gizzard, a stomach, a digestive gland, and the intestine.</item>
+</list></problem>
+<solution id="fs-idm160171920">
+    <label/>
+    <para id="fs-idp61026272"><link target-id="fig-ch28_03_08" document=""/> D</para></solution>
+</exercise>
+</section>
+<section id="fs-idm97548224" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm59022368">
+<problem id="fs-idp57528944"><para id="fs-idp165409184">Annelids have a:</para>
+      <list id="fs-idp37888416" list-type="enumerated" number-style="lower-alpha">
+       <item>pseudocoelom</item>
+      <item>a true coelom</item>
+      <item>no coelom</item>
+      <item>none of the above</item>
+      </list>
+</problem>
+    <solution id="fs-idp51524032">
+        <label/>
+        <para id="fs-idp71742176">B</para>
+    </solution>
+    </exercise>
+<exercise id="fs-idp45710736">
+<problem id="fs-idm118161616"><para id="fs-idm101421600">Which group of flatworms are primarily ectoparasites of fish?</para>
+<list id="fs-idm181764464" list-type="enumerated" number-style="lower-alpha">
+<item>monogeneans</item>
+<item>trematodes</item>
+<item>cestodes</item>
+<item>turbellarians</item>
+</list>
+</problem>
+<solution id="fs-idm52756304">
+<label/>
+<para id="fs-idm81880160">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idp91569040">
+<problem id="fs-idm97685872"><para id="fs-idm85545680">A mantle and mantle cavity are present in:</para>
+<list id="fs-idp7421152" list-type="enumerated" number-style="lower-alpha">
+<item>phylum Echinodermata</item>
+<item>phylum Adversoidea</item>
+<item>phylum Mollusca</item>
+<item>phylum Nemertea	</item>
+</list>
+</problem>
+<solution id="fs-idm114468640">
+<label/>
+<para id="fs-idm33586608">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm93621056">
+<problem id="fs-idm8298224"><para id="fs-idm90187472">The rhynchocoel is a ________.</para>
+<list id="fs-idm2707264" list-type="enumerated" number-style="lower-alpha">
+<item>circulatory system</item>
+<item>fluid-filled cavity</item>
+<item>primitive excretory system</item>
+<item>proboscis</item>
+</list>
+</problem>
+<solution id="fs-idm8880000">
+<label/>
+<para id="fs-idm135329200">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm85889744" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idp106544608">
+<problem id="fs-idm158184048"><para id="fs-idp42462656">Describe the morphology and anatomy of mollusks.</para></problem>
+<solution id="fs-idp103192704"><label/>
+<para id="fs-idp20037664">Mollusks have a large muscular foot that may be modified in various ways, such as into tentacles, but it functions in locomotion. They have a mantle, a structure of tissue that covers and encloses the dorsal portion of the animal, and secretes the shell when it is present. The mantle encloses the mantle cavity, which houses the gills (when present), excretory pores, anus, and gonadopores. The coelom of mollusks is restricted to the region around the systemic heart. The main body cavity is a hemocoel. Many mollusks have a radula near the mouth that is used for scraping food.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm232789200">
+<problem id="fs-idm32700064"><para id="fs-idm39178432">What are the anatomical differences between nemertines and mollusks?</para></problem>
+<solution id="fs-idp5300960"><label/>
+<para id="fs-idp703584">Mollusks have a shell, even if it is a reduced shell. Nemertines do not have a shell. Nemertines have a proboscis; mollusks do not. Nemertines have a closed circulatory system, whereas Mollusks have an open circulatory system.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm67090096"><term>Annelida</term> <meaning id="fs-idm88161968">phylum of vermiform animals with metamerism</meaning></definition>
+<definition id="fs-idp57560400"><term>captacula</term> <meaning id="fs-idm1954816">tentacle-like projection that is present in tusks shells to catch prey</meaning></definition>
+<definition id="fs-idm57921472"><term>clitellum</term> <meaning id="fs-idp12647680">specialized band of fused segments, which aids in reproduction</meaning></definition>
+<definition id="fs-idm105768752"><term>conispiral</term> <meaning id="fs-idm76384304">shell shape coiled around a horizontal axis</meaning></definition>
+<definition id="fs-idm116282320"><term>corona</term> <meaning id="fs-idm25425024">wheel-like structure on the anterior portion of the rotifer that contains cilia and moves food and water toward the mouth</meaning></definition>
+<definition id="fs-idp183207984"><term>ctenidium</term> <meaning id="fs-idp462768">specialized gill structure in mollusks</meaning></definition>
+<definition id="fs-idp37552400"><term>mantle</term> <meaning id="fs-idp150405200">(also, pallium) specialized epidermis that encloses all visceral organs and secretes shells</meaning></definition>
+<definition id="fs-idm116211088"><term>mastax</term> <meaning id="fs-idm136788304">jawed pharynx unique to the rotifers</meaning></definition>
+<definition id="fs-idm113569264"><term>metamerism</term> <meaning id="fs-idm35339088">series of body structures that are similar internally and externally, such as segments</meaning></definition>
+<definition id="fs-idp73388768"><term>Mollusca</term> <meaning id="fs-idm132430976">phylum of protostomes with soft bodies and no segmentation</meaning></definition>
+<definition id="fs-idp81451664"><term>nacre</term> <meaning id="fs-idp9431216">calcareous secretion produced by bivalves to line the inner side of shells as well as to coat intruding particulate matter</meaning></definition>
+<definition id="fs-idm72953472"><term>Nemertea</term> <meaning id="fs-idm15269744">phylum of dorsoventrally flattened protostomes known as ribbon worms</meaning></definition>
+<definition id="fs-idm100361376"><term>parapodium</term> <meaning id="fs-idm116145792">fleshy, flat, appendage that protrudes in pairs from each segment of polychaetes</meaning></definition>
+<definition id="fs-idm104549552"><term>pilidium</term><meaning id="fs-idm42595072"> larval form found in some nemertine species</meaning></definition>
+<definition id="fs-idm160544000"><term>planospiral</term> <meaning id="fs-idm24616912">shell shape coiled around a vertical axis</meaning></definition>
+<definition id="fs-idm37149888"><term>planuliform</term> <meaning id="fs-idm82232896">larval form found in phylum Nemertea</meaning></definition>
+<definition id="fs-idm37444608"><term>radula</term> <meaning id="fs-idm1904736">tongue-like organ with chitinous ornamentation</meaning></definition>
+<definition id="fs-idm3762800"><term>rhynchocoel</term> <meaning id="fs-idp22415872">cavity present above the mouth that houses the proboscis</meaning></definition>
+<definition id="fs-idp71346736"><term>schizocoelom</term> <meaning id="fs-idp63536880">coelom formed by groups of cells that split from the endodermal layer</meaning></definition>
+<definition id="fs-idm88197136"><term>seta/chaeta</term> <meaning id="fs-idp13542672">chitinous projection from the cuticle</meaning></definition>
+<definition id="fs-idp5617408"><term>trochophore</term> <meaning id="fs-idp39474592">first of the two larval stages in mollusks</meaning></definition>
+<definition id="fs-idm150884000"><term>veliger</term> <meaning id="fs-idp55142208">second of the two larval stages in mollusks</meaning></definition>
+</glossary>
+</document>

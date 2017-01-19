@@ -1,0 +1,158 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Nitrogenous Wastes</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44811/latest/</md:content-url>
+  <md:content-id>m44811</md:content-id>
+  <md:title>Nitrogenous Wastes</md:title>
+  <md:version>1.4</md:version>
+  <md:created>2012/08/23 15:55:34 -0500</md:created>
+  <md:revised>2013/04/10 15:12:21.159 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>ammonia</md:keyword>
+    <md:keyword>ammonotelic</md:keyword>
+    <md:keyword>antioxidant</md:keyword>
+    <md:keyword>blood urea nitrogen</md:keyword>
+    <md:keyword>BUN</md:keyword>
+    <md:keyword>gout</md:keyword>
+    <md:keyword>nitrogenous waste</md:keyword>
+    <md:keyword>osmotic excretion</md:keyword>
+    <md:keyword>osmotic regulation</md:keyword>
+    <md:keyword>osmotic system</md:keyword>
+    <md:keyword>urea cycle</md:keyword>
+    <md:keyword>ureotelic</md:keyword>
+    <md:keyword>uric acid</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Compare and contrast the way in which aquatic animals and terrestrial animals can eliminate toxic ammonia from their systems</item>
+<item>Compare the major byproduct of ammonia metabolism in vertebrate animals to that of birds, insects, and reptiles</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-idp247785536">Of the four major macromolecules in biological systems, both proteins and nucleic acids contain nitrogen. During the catabolism, or breakdown, of nitrogen-containing macromolecules, carbon, hydrogen, and oxygen are extracted and stored in the form of carbohydrates and fats. Excess nitrogen is excreted from the body. Nitrogenous wastes tend to form toxic <term>ammonia</term>, which raises the pH of body fluids. The formation of ammonia itself requires energy in the form of ATP and large quantities of water to dilute it out of a biological system. Animals that live in aquatic environments tend to release ammonia into the water. Animals that excrete ammonia are said to be <term>ammonotelic</term>. Terrestrial organisms have evolved other mechanisms to excrete nitrogenous wastes. The animals must detoxify ammonia by converting it into a relatively nontoxic form such as urea or uric acid. Mammals, including humans, produce urea, whereas reptiles and many terrestrial invertebrates produce uric acid. Animals that secrete urea as the primary nitrogenous waste material are called <term>ureotelic</term> animals.</para>
+<section id="fs-idp85160304">
+<title>Nitrogenous Waste in Terrestrial Animals: The Urea Cycle</title>
+<para id="fs-idp71399856">The <term>urea cycle</term> is the primary mechanism by which mammals convert ammonia to urea. Urea is made in the liver and excreted in urine. The overall chemical reaction by which ammonia is converted to urea is 2 NH<sub>3</sub> (ammonia) + CO<sub>2</sub> + 3 ATP + H<sub>2</sub>O &#8594; H<sub>2</sub>N-CO-NH<sub>2</sub> (urea) + 2 ADP + 4 P<sub>i</sub> + AMP.
+</para><para id="fs-idp160881968">The urea cycle utilizes five intermediate steps, catalyzed by five different enzymes, to convert ammonia to urea, as shown in <link target-id="fig-ch41_04_01" document=""/>. The amino acid L-ornithine gets converted into different intermediates before being regenerated at the end of the urea cycle. Hence, the urea cycle is also referred to as the ornithine cycle. The enzyme ornithine transcarbamylase catalyzes a key step in the urea cycle and its deficiency can lead to accumulation of toxic levels of ammonia in the body. The first two reactions occur in the mitochondria and the last three reactions occur in the cytosol. Urea concentration in the blood, called <term>blood urea nitrogen</term> or BUN, is used as an indicator of kidney function.</para>
+<figure id="fig-ch41_04_01" class=" "><media id="fs-idp154768224" alt=" The urea cycle begins in the mitochondrion, where bicarbonate (HCO3) is combined with ammonia (NH3) to make carbamoyl phosphate. Two ATP are used in the process. Ornithine transcarbamylase adds the carbamoyl phosphate to a five-carbon amino acid called ornithine to make L-citrulline. L-citrulline leaves the mitochondrion, and an enzyme called arginosuccinate synthetase adds a four-carbon amino acid called L-aspartate to it to make arginosuccinate. In the process, one ATP is converted to AMP and PPi. Arginosuccinate lyase removes a four-carbon fumarate molecule from the arginosuccinate, forming the six-carbon amino acid L-arginine. Arginase-1 removes a urea molecule from the L-arginine, forming ornithine in the process. Urea has a single carbon double-bonded to an oxygen and single-bonded to two ammonia groups. Ornithine enters the mitochondrion, completing the cycle.">
+<image mime-type="image/jpg" src="Figure_41_04_01.jpg" width="550"/>
+</media>
+<caption>The urea cycle converts ammonia to urea.</caption></figure><note id="fs-idp132461808" class="evolution"><label/><title>Evolution Connection</title>
+    
+<para id="fs-idp232770464"><title>Excretion of Nitrogenous Waste</title>The theory of evolution proposes that life started in an aquatic environment. It is not surprising to see that biochemical pathways like the urea cycle evolved to adapt to a changing environment when terrestrial life forms evolved. Arid conditions probably led to the evolution of the uric acid pathway as a means of conserving water.</para>
+</note></section>
+<section id="fs-idp206279600">
+<title>Nitrogenous Waste in Birds and Reptiles: Uric Acid</title>
+<para id="fs-idp105475568">Birds, reptiles, and most terrestrial arthropods convert toxic ammonia to <term>uric acid</term> or the closely related compound guanine (guano) instead of urea. Mammals also form some uric acid during breakdown of nucleic acids. Uric acid is a compound similar to purines found in nucleic acids. It is water insoluble and tends to form a white paste or powder; it is excreted by birds, insects, and reptiles. Conversion of ammonia to uric acid requires more energy and is much more complex than conversion of ammonia to urea <link target-id="fig-ch41_04_02" document=""/>.</para>
+<figure id="fig-ch41_04_02" class=" "><media id="fs-idp104933088" alt="Part A shows a photo of a freshwater fish and states that many invertebrates and aquatic species excrete ammonia. The chemical structure of ammonia is NH3. Part B shows a photo of a wood rat and states that mammals, many adult amphibians, and some marine species excrete urea. The chemical structure of urea is shown. Urea has two NH2 groups attached to a central carbon. An oxygen is also double-bonded to this central carbon. Part C shows a photo of a pigeon and states that insects, land snails, birds, and many reptiles excrete uric acid. The chemical structure of uric acid is shown. Uric acid has a six-membered carbon ring attached to a five-membered ring. Each ring has two NH groups embedded in it. An oxygen is double-bonded to each ring.">
+<image mime-type="image/jpg" src="Figure_41_04_02abc.jpg" width="575"/>
+</media>
+<caption>Nitrogenous waste is excreted in different forms by different species. These include (a) ammonia, (b) urea, and (c) uric acid. (credit a: modification of work by Eric Engbretson, USFWS; credit b: modification of work by B. "Moose" Peterson, USFWS; credit c: modification of work by Dave Menke, USFWS)</caption></figure><note id="fs-idp161007280" class="everyday"><label/><title>Everyday Connection</title>
+
+<para id="fs-idp722544"><title>Gout</title>Mammals use uric acid crystals as an <term>antioxidant</term> in their cells. However, too much uric acid tends to form kidney stones and may also cause a painful condition called gout, where uric acid crystals accumulate in the joints, as illustrated in <link target-id="fig-ch41_04_03" document=""/>. Food choices that reduce the amount of nitrogenous bases in the diet help reduce the risk of gout. For example, tea, coffee, and chocolate have purine-like compounds, called xanthines, and should be avoided by people with gout and kidney stones.</para>
+<figure id="fig-ch41_04_03" class=" "><media id="fs-idp301273984" alt="Photo shows a toe that is swollen and red.">
+<image mime-type="image/jpg" src="Figure_41_04_03.jpg" width="350"/>
+</media>
+<caption>Gout causes the inflammation visible in this person&#8217;s left big toe joint. (credit: "Gonzosft"/Wikimedia Commons)</caption></figure></note></section>
+<section id="fs-idp14685840" class="summary">
+<title>Section Summary</title><para id="fs-idp79964960">Ammonia is the waste produced by metabolism of nitrogen-containing compounds like proteins and nucleic acids. While aquatic animals can easily excrete ammonia into their watery surroundings, terrestrial animals have evolved special mechanisms to eliminate the toxic ammonia from their systems. Urea is the major byproduct of ammonia metabolism in vertebrate animals. Uric acid is the major byproduct of ammonia metabolism in birds, terrestrial arthropods, and reptiles.</para>
+    </section>
+<section id="fs-idp176335792" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp143558720">
+<problem id="fs-idp111827488">
+    <para id="fs-idp116236352">BUN is ________.</para>
+<list id="fs-idp53759312" list-type="enumerated" number-style="lower-alpha">
+<item>blood urea nitrogen</item>
+<item>blood uric acid nitrogen</item>
+<item>an indicator of blood volume</item>
+<item>an indicator of blood pressure</item>
+</list>
+</problem>
+<solution id="fs-idp223796272">
+<label/>
+<para id="fs-idp6721920">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idp57677728">
+<problem id="fs-idp104831296"><para id="fs-idp243554800">Human beings accumulate ________ before excreting nitrogenous waste.</para>
+ <list id="fs-idp103761232" list-type="enumerated" number-style="lower-alpha">
+     <item>nitrogen</item>
+<item>ammonia</item>
+<item>urea</item>
+<item>uric acid</item>
+ </list>
+</problem>
+    <solution id="fs-idp43720320">
+    <label/>
+        <para id="fs-idp145426304">C</para>
+    </solution>
+    </exercise>
+</section>
+<section id="fs-idm16233120" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idp207067392">
+<problem id="fs-idp86409632"><para id="fs-idp14654448">In terms of evolution, why might the urea cycle have evolved in organisms?</para></problem>
+<solution id="fs-idp41307024"><label/>
+<para id="fs-idp228432768">It is believed that the urea cycle evolved to adapt to a changing environment when terrestrial life forms evolved. Arid conditions probably led to the evolution of the uric acid pathway as a means of conserving water.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm18879616">
+<problem id="fs-idp160002032"><para id="fs-idp235312608">Compare and contrast the formation of urea and uric acid.</para></problem>
+<solution id="fs-idp26505088"><label/>
+<para id="fs-idp74294320">The urea cycle is the primary mechanism by which mammals convert ammonia to urea. Urea is made in the liver and excreted in urine. The urea cycle utilizes five intermediate steps, catalyzed by five different enzymes, to convert ammonia to urea. Birds, reptiles, and insects, on the other hand, convert toxic ammonia to uric acid instead of urea. Conversion of ammonia to uric acid requires more energy and is much more complex than conversion of ammonia to urea.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm6655776"><term>ammonia</term> <meaning id="fs-idp162273760">compound made of one nitrogen atom and three hydrogen atoms</meaning></definition>
+<definition id="fs-idp4163232"><term>ammonotelic</term> <meaning id="fs-idp152897488">describes an animal that excretes ammonia as the primary waste material</meaning></definition>
+<definition id="fs-idp44526608"><term>antioxidant</term> <meaning id="fs-idp122338240">agent that prevents cell destruction by reactive oxygen species</meaning></definition>
+<definition id="fs-idp184719360"><term>blood urea nitrogen (BUN)</term> <meaning id="fs-idp375634032">estimate of urea in the blood and an indicator of kidney function</meaning></definition>
+<definition id="fs-idp43420256"><term>urea cycle</term> <meaning id="fs-idp155152144">pathway by which ammonia is converted to urea</meaning></definition>
+<definition id="fs-idp136284272"><term>ureotelic</term> <meaning id="fs-idp183473504">describes animals that secrete urea as the primary nitrogenous waste material</meaning></definition>
+<definition id="fs-idp163282400"><term>uric acid</term> <meaning id="fs-idp71101040">byproduct of ammonia metabolism in birds, insects, and reptiles</meaning></definition>
+</glossary>
+</document>

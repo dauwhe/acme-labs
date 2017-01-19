@@ -1,0 +1,140 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44734/latest/</md:content-url>
+  <md:content-id>m44734</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.2</md:version>
+  <md:created>2012/08/23 15:22:59 -0500</md:created>
+  <md:revised>2013/02/22 10:09:05.728 US/Central</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>alimentary canal</md:keyword>
+    <md:keyword>amino acid</md:keyword>
+    <md:keyword>aminopeptidase</md:keyword>
+    <md:keyword>amylase</md:keyword>
+    <md:keyword>animal digestion</md:keyword>
+    <md:keyword>anus</md:keyword>
+    <md:keyword>avian digestion</md:keyword>
+    <md:keyword>bile</md:keyword>
+    <md:keyword>bolus</md:keyword>
+    <md:keyword>carbohydrate digestion</md:keyword>
+    <md:keyword>carboxypeptidase</md:keyword>
+    <md:keyword>carnivore</md:keyword>
+    <md:keyword>cephalic phase</md:keyword>
+    <md:keyword>cholecystokinin</md:keyword>
+    <md:keyword>chylomicron</md:keyword>
+    <md:keyword>chyme</md:keyword>
+    <md:keyword>chymotrypsin</md:keyword>
+    <md:keyword>digestion</md:keyword>
+    <md:keyword>digestion regulation</md:keyword>
+    <md:keyword>digestive process</md:keyword>
+    <md:keyword>digestive system</md:keyword>
+    <md:keyword>duodenum</md:keyword>
+    <md:keyword>elastase</md:keyword>
+    <md:keyword>elimination</md:keyword>
+    <md:keyword>endocrine system</md:keyword>
+    <md:keyword>esophagus</md:keyword>
+    <md:keyword>essential nutrient</md:keyword>
+    <md:keyword>fat digestion</md:keyword>
+    <md:keyword>food energy</md:keyword>
+    <md:keyword>food requirements</md:keyword>
+    <md:keyword>gallbladder</md:keyword>
+    <md:keyword>gastric inhibitory peptide</md:keyword>
+    <md:keyword>gastric phase</md:keyword>
+    <md:keyword>gastrin</md:keyword>
+    <md:keyword>gastrovascular cavity</md:keyword>
+    <md:keyword>gizzard</md:keyword>
+    <md:keyword>herbivore</md:keyword>
+    <md:keyword>hormonal response</md:keyword>
+    <md:keyword>ileum</md:keyword>
+    <md:keyword>ingestion</md:keyword>
+    <md:keyword>intestinal phase</md:keyword>
+    <md:keyword>jejunum</md:keyword>
+    <md:keyword>lactase</md:keyword>
+    <md:keyword>large intestine</md:keyword>
+    <md:keyword>lipase</md:keyword>
+    <md:keyword>liver</md:keyword>
+    <md:keyword>maltase</md:keyword>
+    <md:keyword>mineral</md:keyword>
+    <md:keyword>monogastric</md:keyword>
+    <md:keyword>neural response</md:keyword>
+    <md:keyword>nutrition</md:keyword>
+    <md:keyword>obesity</md:keyword>
+    <md:keyword>omnivore</md:keyword>
+    <md:keyword>pancreas</md:keyword>
+    <md:keyword>pepsin</md:keyword>
+    <md:keyword>pepsinogen</md:keyword>
+    <md:keyword>protein digestion</md:keyword>
+    <md:keyword>proventriculus</md:keyword>
+    <md:keyword>pseudo-ruminant</md:keyword>
+    <md:keyword>rectum</md:keyword>
+    <md:keyword>roughage</md:keyword>
+    <md:keyword>ruminant</md:keyword>
+    <md:keyword>salivary amylase</md:keyword>
+    <md:keyword>secretin</md:keyword>
+    <md:keyword>small intestine</md:keyword>
+    <md:keyword>somatostatin</md:keyword>
+    <md:keyword>sphincters</md:keyword>
+    <md:keyword>stomach</md:keyword>
+    <md:keyword>sucrase</md:keyword>
+    <md:keyword>trypsin</md:keyword>
+    <md:keyword>villi</md:keyword>
+    <md:keyword>vitamin</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<?cnx.eoc class="summary" title="Sections Summary"?>
+<?cnx.eoc class="art-exercise" title="Art Connections"?>
+<?cnx.eoc class="multiple-choice" title="Multiple Choice"?>
+<?cnx.eoc class="free-response" title="Free Response"?>
+
+<figure id="fig-ch34_00_01" class="splash"><media id="fs-idp23672336" alt="Photo shows a variety of fresh vegetables being sold at a market.">
+<image mime-type="image/jpg" src="Figure_34_00_01.jpg" width="500"/>
+</media>
+<caption>For humans, fruits and vegetables are important in maintaining a balanced diet. (credit: modification of work by Julie Rybarczyk)</caption></figure><para id="fs-idm154817856">All living organisms need nutrients to survive. While plants can obtain the molecules required for cellular function through the process of photosynthesis, most animals obtain their nutrients by the consumption of other organisms. At the cellular level, the biological molecules necessary for animal function are amino acids, lipid molecules, nucleotides, and simple sugars. However, the food consumed consists of protein, fat, and complex carbohydrates. Animals must convert these macromolecules into the simple molecules required for maintaining cellular functions, such as assembling new molecules, cells, and tissues. The conversion of the food consumed to the nutrients required is a multi-step process involving digestion and absorption. During digestion, food particles are broken down to smaller components, and later, they are absorbed by the body.</para>
+      <para id="fs-idm68757552">One of the challenges in human nutrition is maintaining a balance between food intake, storage, and energy expenditure. Imbalances can have serious health consequences. For example, eating too much food while not expending much energy leads to obesity, which in turn will increase the risk of developing illnesses such as type-2 diabetes and cardiovascular disease. The recent rise in obesity and related diseases makes understanding the role of diet and nutrition in maintaining good health all the more important.</para>
+    </content>
+</document>

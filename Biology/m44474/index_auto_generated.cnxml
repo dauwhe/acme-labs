@@ -1,0 +1,148 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44474/latest/</md:content-url>
+  <md:content-id>m44474</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:version>1.2</md:version>
+  <md:created>2012/08/23 11:11:48 -0500</md:created>
+  <md:revised>2013/03/11 10:23:36.690 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>allele</md:keyword>
+    <md:keyword>blending inheritance</md:keyword>
+    <md:keyword>characteristic</md:keyword>
+    <md:keyword>classical genetics</md:keyword>
+    <md:keyword>codominance</md:keyword>
+    <md:keyword>continuous variation</md:keyword>
+    <md:keyword>dihybrid</md:keyword>
+    <md:keyword>discontinuous variation</md:keyword>
+    <md:keyword>dominant</md:keyword>
+    <md:keyword>dominant allele</md:keyword>
+    <md:keyword>dominant lethal</md:keyword>
+    <md:keyword>dominant phenotype</md:keyword>
+    <md:keyword>epistasis</md:keyword>
+    <md:keyword>epistatic effect</md:keyword>
+    <md:keyword>F1</md:keyword>
+    <md:keyword>F2</md:keyword>
+    <md:keyword>first filial generation</md:keyword>
+    <md:keyword>forked-line method</md:keyword>
+    <md:keyword>gamete genotype</md:keyword>
+    <md:keyword>garden pea</md:keyword>
+    <md:keyword>garden pea hybridization</md:keyword>
+    <md:keyword>gene</md:keyword>
+    <md:keyword>gene cross</md:keyword>
+    <md:keyword>genetics</md:keyword>
+    <md:keyword>genotype</md:keyword>
+    <md:keyword>Gregor Mendel</md:keyword>
+    <md:keyword>haploid</md:keyword>
+    <md:keyword>hemizygous</md:keyword>
+    <md:keyword>heredity</md:keyword>
+    <md:keyword>heterozygous</md:keyword>
+    <md:keyword>homozygous</md:keyword>
+    <md:keyword>hybridization</md:keyword>
+    <md:keyword>incomplete dominance</md:keyword>
+    <md:keyword>independent assortment</md:keyword>
+    <md:keyword>law of dominance</md:keyword>
+    <md:keyword>law of independent assortment</md:keyword>
+    <md:keyword>law of segregation</md:keyword>
+    <md:keyword>laws of inheritance</md:keyword>
+    <md:keyword>laws of probability</md:keyword>
+    <md:keyword>lethality</md:keyword>
+    <md:keyword>linkage</md:keyword>
+    <md:keyword>meiosis</md:keyword>
+    <md:keyword>Mendel</md:keyword>
+    <md:keyword>Mendelian cross</md:keyword>
+    <md:keyword>Mendelian genetics</md:keyword>
+    <md:keyword>model system</md:keyword>
+    <md:keyword>monohybrid</md:keyword>
+    <md:keyword>monohybrid cross</md:keyword>
+    <md:keyword>multihybrid fertilization</md:keyword>
+    <md:keyword>multiple alleles</md:keyword>
+    <md:keyword>mutant</md:keyword>
+    <md:keyword>P1</md:keyword>
+    <md:keyword>parental generation</md:keyword>
+    <md:keyword>peas</md:keyword>
+    <md:keyword>pedigree analysis</md:keyword>
+    <md:keyword>phenotype</md:keyword>
+    <md:keyword>polygenic inheritance</md:keyword>
+    <md:keyword>probability</md:keyword>
+    <md:keyword>probability method</md:keyword>
+    <md:keyword>product rule</md:keyword>
+    <md:keyword>Punnett square</md:keyword>
+    <md:keyword>recessive</md:keyword>
+    <md:keyword>recessive allele</md:keyword>
+    <md:keyword>recessive gene</md:keyword>
+    <md:keyword>recessive lethal</md:keyword>
+    <md:keyword>reciprocal cross</md:keyword>
+    <md:keyword>recombination</md:keyword>
+    <md:keyword>second filial generation</md:keyword>
+    <md:keyword>segregation of alleles</md:keyword>
+    <md:keyword>sex linkage</md:keyword>
+    <md:keyword>sex-linked trait</md:keyword>
+    <md:keyword>sum rule</md:keyword>
+    <md:keyword>test cross</md:keyword>
+    <md:keyword>trait</md:keyword>
+    <md:keyword>trait-blending hypothesis</md:keyword>
+    <md:keyword>unit factor</md:keyword>
+    <md:keyword>wild type</md:keyword>
+    <md:keyword>X linkage</md:keyword>
+    <md:keyword>X-linked trait</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract/>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<?cnx.eoc class="summary" title="Sections Summary"?>
+<?cnx.eoc class="art-exercise" title="Art Connections"?>
+<?cnx.eoc class="multiple-choice" title="Multiple Choice"?>
+<?cnx.eoc class="free-response" title="Free Response"?>
+
+<figure id="fig-ch12_00_01" class="splash  "><media id="fs-id1805576" alt="Photo shows pea-plant flower, with purple petals that fold back on themselves.">
+<image mime-type="image/jpg" src="Figure_12_00_01new.jpg" width="600"/>
+</media>
+
+<caption>Experimenting with thousands of garden peas, Mendel uncovered the fundamentals of genetics. (credit: modification of work by Jerry Kirkhart)</caption></figure><para id="fs-id2163063">Genetics is the study of heredity. Johann Gregor Mendel set the framework for genetics long before chromosomes or genes had been identified, at a time when meiosis was not well understood. Mendel selected a simple biological system and conducted methodical, quantitative analyses using large sample sizes. Because of Mendel&#8217;s work, the fundamental principles of heredity were revealed. We now know that genes, carried on chromosomes, are the basic functional units of heredity with the capability to be replicated, expressed, or mutated. Today, the postulates put forth by Mendel form the basis of classical, or Mendelian, genetics. Not all genes are transmitted from parents to offspring according to Mendelian genetics, but Mendel&#8217;s experiments serve as an excellent starting point for thinking about inheritance.</para>
+</content>
+
+</document>

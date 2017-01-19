@@ -1,0 +1,215 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Active Transport</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/m44418/latest/</md:content-url>
+  <md:content-id>m44418</md:content-id>
+  <md:title>Active Transport</md:title>
+  <md:version>1.5</md:version>
+  <md:created>2012/08/23 10:37:07 -0500</md:created>
+  <md:revised>2013/04/05 15:37:08.966 GMT-5</md:revised>
+  <md:actors>
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    <md:person userid="cnxbio">
+      <md:firstname>Cnx</md:firstname>
+      <md:surname>Biology</md:surname>
+      <md:fullname>Cnx Biology</md:fullname>
+      <md:email>ryan.s.stickney@gmail.com</md:email>
+    </md:person>
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxbio</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+  </md:roles>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  <md:keywordlist>
+    <md:keyword>antiporter</md:keyword>
+    <md:keyword>co-transport</md:keyword>
+    <md:keyword>electrochemical gradient</md:keyword>
+    <md:keyword>membrane function</md:keyword>
+    <md:keyword>membrane structure</md:keyword>
+    <md:keyword>plasma membrane</md:keyword>
+    <md:keyword>primary active transport</md:keyword>
+    <md:keyword>secondary active transport</md:keyword>
+    <md:keyword>sodium-potassium pump</md:keyword>
+    <md:keyword>symporter</md:keyword>
+    <md:keyword>uniporter</md:keyword>
+  </md:keywordlist>
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Understand how electrochemical gradients affect ions</item>
+<item>Distinguish between primary active transport and secondary active transport</item>
+</list></md:abstract>
+  <md:language>en</md:language>
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+<content>
+<para id="fs-id2074680"><term>Active transport</term> mechanisms require the use of the cell&#8217;s energy, usually in the form of adenosine triphosphate (ATP). If a substance must move into the cell against its concentration gradient&#8212;that is, if the concentration of the substance inside the cell is greater than its concentration in the extracellular fluid (and vice versa)&#8212;the cell must use energy to move the substance. Some active transport mechanisms move small-molecular weight materials, such as ions, through the membrane. Other mechanisms transport much larger molecules.</para>
+<section id="fs-id1318973">
+<title>Electrochemical Gradient</title>
+<para id="fs-id2004550">We have discussed simple concentration gradients&#8212;differential concentrations of a substance across a space or a membrane&#8212;but in living systems, gradients are more complex. Because ions move into and out of cells and because cells contain proteins that do not move across the membrane and are mostly negatively charged, there is also an electrical gradient, a difference of charge, across the plasma membrane. The interior of living cells is electrically negative with respect to the extracellular fluid in which they are bathed, and at the same time, cells have higher concentrations of potassium (K<sup>+</sup>) and lower concentrations of sodium (Na<sup>+</sup>) than does the extracellular fluid. So in a living cell, the concentration gradient of Na<sup>+</sup> tends to drive it into the cell, and the electrical gradient of Na<sup>+</sup> (a positive ion) also tends to drive it inward to the negatively charged interior. The situation is more complex, however, for other elements such as potassium. The electrical gradient of K<sup>+</sup>, a positive ion, also tends to drive it into the cell, but the concentration gradient of K<sup>+</sup> tends to drive K<sup>+</sup> <emphasis effect="italics">out</emphasis> of the cell (<link target-id="fig-ch05_03_01" document=""/>). The combined gradient of concentration and electrical charge that affects an ion is called its <term>electrochemical gradient</term>.</para>
+<note id="fs-id2054981" type="art-connection"><label/><title>Art Connection</title><para id="fs-id2054441"><figure id="fig-ch05_03_01" class="  "><media id="fs-id2187880" alt="This illustration shows a membrane bilayer with a potassium channel embedded in it. The cytoplasm has a high concentration of potassium associated with a negatively charged molecule. The extracellular fluid has a high concentration of sodium associated with chlorine ions.">
+<image mime-type="image/jpg" src="Figure_05_03_01.jpg" width="550"/>
+</media>
+<caption>Electrochemical gradients arise from the combined effects of concentration gradients and electrical gradients. (credit: &#8220;Synaptitude&#8221;/Wikimedia Commons)</caption></figure></para>
+<para id="fs-id2287381">Injection of a potassium solution into a person&#8217;s blood is lethal; this is used in capital punishment and euthanasia. Why do you think a potassium solution injection is lethal?</para>
+</note><section id="fs-id1772052">
+<title>Moving Against a Gradient</title>
+<para id="fs-id1594022">To move substances against a concentration or electrochemical gradient, the cell must use energy. This energy is harvested from ATP generated through the cell&#8217;s metabolism. Active transport mechanisms, collectively called <term>pumps</term>, work against electrochemical gradients. Small substances constantly pass through plasma membranes. Active transport maintains concentrations of ions and other substances needed by living cells in the face of these passive movements. Much of a cell&#8217;s supply of metabolic energy may be spent maintaining these processes. (Most of a red blood cell&#8217;s metabolic energy is used to maintain the imbalance between exterior and interior sodium and potassium levels required by the cell.) Because active transport mechanisms depend on a cell&#8217;s metabolism for energy, they are sensitive to many metabolic poisons that interfere with the supply of ATP.</para>
+<para id="fs-id1368350">Two mechanisms exist for the transport of small-molecular weight material and small molecules. <term>Primary active transport</term> moves ions across a membrane and creates a difference in charge across that membrane, which is directly dependent on ATP. <term>Secondary active transport</term> describes the movement of material that is due to the electrochemical gradient established by primary active transport that does not directly require ATP.</para>
+</section>
+<section id="fs-id1569987">
+<title>Carrier Proteins for Active Transport</title>
+<para id="fs-id1778201">An important membrane adaption for active transport is the presence of specific carrier proteins or pumps to facilitate movement: there are three types of these proteins or <term>transporters</term> (<link target-id="fig-ch05_03_02" document=""/>). A <term>uniporter</term> carries one specific ion or molecule. A <term>symporter</term> carries two different ions or molecules, both in the same direction. An <term>antiporter</term> also carries two different ions or molecules, but in different directions. All of these transporters can also transport small, uncharged organic molecules like glucose. These three types of carrier proteins are also found in facilitated diffusion, but they do not require ATP to work in that process. Some examples of pumps for active transport are Na<sup>+</sup>-K<sup>+</sup> ATPase, which carries sodium and potassium ions, and H<sup>+</sup>-K<sup>+</sup> ATPase, which carries hydrogen and potassium ions. Both of these are antiporter carrier proteins. Two other carrier proteins are Ca<sup>2+</sup> ATPase and H<sup>+</sup> ATPase, which carry only calcium and only hydrogen ions, respectively. Both are pumps.</para>
+<figure id="fig-ch05_03_02"><media id="fs-id1651019" alt="This illustration shows a plasma membrane with three transport proteins embedded in it. The left image shows a uniporter that transports a substance in one direction. The middle image shows a symporter that transports two different substances in the same direction. The right image shows an antiporter that transports two different substances in opposite directions.">
+<image mime-type="image/jpg" src="Figure_05_03_02.jpg" width="320"/>
+</media>
+<caption>A uniporter carries one molecule or ion. A symporter carries two different molecules or ions, both in the same direction. An antiporter also carries two different molecules or ions, but in different directions. (credit: modification of work by &#8220;Lupask&#8221;/Wikimedia Commons)</caption></figure></section>
+</section>
+<section id="fs-id1627730">
+<title>Primary Active Transport</title>
+<para id="fs-id1443145">The primary active transport that functions with the active transport of sodium and potassium allows secondary active transport to occur. The second transport method is still considered active because it depends on the use of energy as does primary transport (<link target-id="fig-ch05_03_03" document=""/>).</para>
+<figure id="fig-ch05_03_03" class="  "><media id="fs-id2013541" alt="This illustration shows the sodium-potassium pump. Initially, the pump&#8217;s opening faces the cytoplasm, where three sodium ions bind to it. The antiporter hydrolyzes and ATP to ADP and, as a result, undergoes a conformational change. The sodium ions are released into the extracellular space. Two potassium ions from the extracellular space now bind the antiporter, which changes conformation again, releasing the potassium ions into the cytoplasm.">
+<image mime-type="image/jpg" src="Figure_05_03_03.jpg" width="600"/>
+</media>
+<caption>Primary active transport moves ions across a membrane, creating an electrochemical gradient (electrogenic transport). (credit: modification of work by Mariana Ruiz Villareal)</caption></figure><para id="fs-id1772028">One of the most important pumps in animals cells is the sodium-potassium pump (Na<sup>+</sup>-K<sup>+</sup> ATPase), which maintains the electrochemical gradient (and the correct concentrations of Na<sup>+</sup> and K<sup>+</sup>) in living cells. The sodium-potassium pump moves K<sup>+</sup> into the cell while moving Na<sup>+</sup> out at the same time, at a ratio of three Na<sup>+</sup> for every two K<sup>+</sup> ions moved in. The Na<sup>+</sup>-K<sup>+</sup> ATPase exists in two forms, depending on its orientation to the interior or exterior of the cell and its affinity for either sodium or potassium ions. The process consists of the following six steps.</para>
+<list id="fs-id1358447" list-type="enumerated">
+<item>With the enzyme oriented towards the interior of the cell, the carrier has a high affinity for sodium ions. Three ions bind to the protein.</item>
+<item>ATP is hydrolyzed by the protein carrier and a low-energy phosphate group attaches to it.</item>
+<item>As a result, the carrier changes shape and re-orients itself towards the exterior of the membrane. The protein&#8217;s affinity for sodium decreases and the three sodium ions leave the carrier.</item>
+<item>The shape change increases the carrier&#8217;s affinity for potassium ions, and two such ions attach to the protein. Subsequently, the low-energy phosphate group detaches from the carrier.</item>
+<item>With the phosphate group removed and potassium ions attached, the carrier protein repositions itself towards the interior of the cell.</item>
+<item>The carrier protein, in its new configuration, has a decreased affinity for potassium, and the two ions are released into the cytoplasm. The protein now has a higher affinity for sodium ions, and the process starts again.</item>
+</list>
+<para id="fs-id2019240">Several things have happened as a result of this process. At this point, there are more sodium ions outside of the cell than inside and more potassium ions inside than out. For every three ions of sodium that move out, two ions of potassium move in. This results in the interior being slightly more negative relative to the exterior. This difference in charge is important in creating the conditions necessary for the secondary process. The sodium-potassium pump is, therefore, an <term>electrogenic pump</term> (a pump that creates a charge imbalance), creating an electrical imbalance across the membrane and contributing to the membrane potential.</para>
+<note id="fs-id2258677" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-id2116658" alt="QR Code representing a URL">
+<image mime-type="image/png" src="Na_K_ATPase.png" width="130"/>
+</media>
+<para id="fs-id1876210">Visit the <link url="http://openstaxcollege.org/l/Na_K_ATPase">site</link> to see a simulation of active transport in a sodium-potassium ATPase.</para>
+</note></section>
+<section id="fs-id1454570">
+<title>Secondary Active Transport (Co-transport)</title>
+<para id="fs-id1472126">Secondary active transport brings sodium ions, and possibly other compounds, into the cell. As sodium ion concentrations build outside of the plasma membrane because of the action of the primary active transport process, an electrochemical gradient is created. If a channel protein exists and is open, the sodium ions will be pulled through the membrane. This movement is used to transport other substances that can attach themselves to the transport protein through the membrane (<link target-id="fig-ch05_03_04" document=""/>). Many amino acids, as well as glucose, enter a cell this way. This secondary process is also used to store high-energy hydrogen ions in the mitochondria of plant and animal cells for the production of ATP. The potential energy that accumulates in the stored hydrogen ions is translated into kinetic energy as the ions surge through the channel protein ATP synthase, and that energy is used to convert ADP into ATP.</para>
+<note id="fs-id846110" type="art-connection"><label/><title>Art Connection</title><para id="fs-id1443315"><figure id="fig-ch05_03_04" class="  "><media id="fs-id2078828" alt="This illustration shows a membrane bilayer with two integral membrane proteins embedded in it. The first, a sodium-potassium pump, uses energy from ATP hydrolysis to pump three sodium ions out of the cell for every two potassium ions it pumps into the cell. The result is a high concentration of sodium outside the cell and a high concentration of potassium inside the cell. There is also a high concentration of amino acids outside the cell, and a low concentration inside. A sodium-amino acid co-transporter simultaneously transports sodium and the amino acid into the cell.">
+<image mime-type="image/jpg" src="Figure_05_03_04.png" width="600"/></media>
+<caption>An electrochemical gradient, created by primary active transport, can move other substances against their concentration gradients, a process called co-transport or secondary active transport. (credit: modification of work by Mariana Ruiz Villareal)</caption></figure></para>
+<para id="fs-id1975059">If the pH outside the cell decreases, would you expect the amount of amino acids transported into the cell to increase or decrease?</para>
+</note></section>
+<section id="fs-id677498" class="summary">
+<title>Section Summary</title><para id="fs-id1396184">The combined gradient that affects an ion includes its concentration gradient and its electrical gradient. A positive ion, for example, might tend to diffuse into a new area, down its concentration gradient, but if it is diffusing into an area of net positive charge, its diffusion will be hampered by its electrical gradient. When dealing with ions in aqueous solutions, a combination of the electrochemical and concentration gradients, rather than just the concentration gradient alone, must be considered. Living cells need certain substances that exist inside the cell in concentrations greater than they exist in the extracellular space. Moving substances up their electrochemical gradients requires energy from the cell. Active transport uses energy stored in ATP to fuel this transport. Active transport of small molecular-sized materials uses integral proteins in the cell membrane to move the materials: These proteins are analogous to pumps. Some pumps, which carry out primary active transport, couple directly with ATP to drive their action. In co-transport (or secondary active transport), energy from primary transport can be used to move another substance into the cell and up its concentration gradient.</para>
+</section>
+<section id="fs-id2937997" class="art-exercise">
+    <title>Art Connections</title>
+    <exercise id="fs-id1380373">
+        <problem id="fs-id1864604">
+            <para id="fs-id1512070"><link target-id="fig-ch05_03_01" document=""/> Injection of a potassium solution into a person&#8217;s blood is lethal; this is used in capital punishment and euthanasia. Why do you think a potassium solution injection is lethal?</para>
+        </problem>
+        <solution id="fs-id1451634">
+            <label/>
+            <para id="fs-id1645235"><link target-id="fig-ch05_03_01" document=""/> Cells typically have a high concentration of potassium in the cytoplasm and are bathed in a high concentration of sodium. Injection of potassium dissipates this electrochemical gradient. In heart muscle, the sodium/potassium potential is responsible for transmitting the signal that causes the muscle to contract. When this potential is dissipated, the signal can&#8217;t be transmitted, and the heart stops beating. Potassium injections are also used to stop the heart from beating during surgery.</para>
+        </solution>
+    </exercise>
+    <exercise id="fs-id2927207"><problem id="fs-id3063646">
+            <para id="fs-id1473099"><link target-id="fig-ch05_03_04" document=""/> If the pH outside the cell decreases, would you expect the amount of amino acids transported into the cell to increase or decrease?</para>
+        </problem>
+        <solution id="fs-id1778807"><label/>
+            <para id="fs-id1260740"><link target-id="fig-ch05_03_04" document=""/> A decrease in pH means an increase in positively charged H<sup>+</sup> ions, and an increase in the electrical gradient across the membrane. The transport of amino acids into the cell will increase.</para>
+        </solution>
+    </exercise></section>    
+<section id="fs-id1786661" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-id2000653">
+<problem id="fs-id1702822"><para id="fs-id1443544">Active transport must function continuously because __________.</para>
+<list id="fs-id1798638" list-type="enumerated" number-style="lower-alpha">
+<item>plasma membranes wear out</item>
+<item>not all membranes are amphiphilic</item>
+<item>facilitated transport opposes active transport</item>
+<item>diffusion is constantly moving solutes in opposite directions</item>
+</list>
+</problem>
+<solution id="fs-id1760249">
+<label/>
+<para id="fs-id1438253">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1421748">
+<problem id="fs-id1690067"><para id="fs-id1988922">How does the sodium-potassium pump make the interior of the cell negatively charged?</para>
+<list id="fs-id1999972" list-type="enumerated" number-style="lower-alpha">
+<item>by expelling anions</item>
+<item>by pulling in anions</item>
+<item>by expelling more cations than are taken in</item>
+<item>by taking in and expelling an equal number of cations</item>
+</list>
+</problem>
+<solution id="fs-id1570444">
+<label/>
+<para id="fs-id1967746">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id2188234">
+<problem id="fs-id1976772"><para id="fs-id1760590">What is the combination of an electrical gradient and a concentration gradient called?</para>
+<list id="fs-id2197534" list-type="enumerated" number-style="lower-alpha">
+<item>potential gradient</item>
+<item>electrical potential</item>
+<item>concentration potential</item>
+<item>electrochemical gradient</item>
+</list>
+</problem>
+<solution id="fs-id2271051">
+<label/>
+<para id="fs-id1244071">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1882972" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-id1768681">
+<problem id="fs-id1349528"><para id="fs-id1770787">Where does the cell get energy for active transport processes?</para></problem>
+<solution id="fs-id1341960"><label/>
+<para id="fs-id1313083">The cell harvests energy from ATP produced by its own metabolism to power active transport processes, such as the activity of pumps.</para></solution>
+</exercise>
+<exercise id="fs-id1309877">
+<problem id="fs-id1808984"><para id="fs-id1568867">How does the sodium-potassium pump contribute to the net negative charge of the interior of the cell?</para></problem>
+<solution id="fs-id2077029"><label/>
+<para id="fs-id1778355">The sodium-potassium pump forces out three (positive) Na<sup>+</sup> ions for every two (positive) K<sup>+</sup> ions it pumps in, thus the cell loses a positive charge at every cycle of the pump.</para></solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-id1705359"><term>active transport</term> <meaning id="fs-id1787868">method of transporting material that requires energy</meaning></definition>
+<definition id="fs-id1712432"><term>antiporter</term> <meaning id="fs-id1408422">transporter that carries two ions or small molecules in different directions</meaning></definition>
+<definition id="fs-id1286063"><term>electrochemical gradient</term> <meaning id="fs-id1511470">gradient produced by the combined forces of an electrical gradient and a chemical gradient</meaning></definition>
+<definition id="fs-id2017376"><term>electrogenic pump</term> <meaning id="fs-id1760012">pump that creates a charge imbalance</meaning></definition>
+<definition id="fs-id1770889"><term>primary active transport</term> <meaning id="fs-id1700184">active transport that moves ions or small molecules across a membrane and may create a difference in charge across that membrane</meaning></definition>
+<definition id="fs-id1626422"><term>pump</term> <meaning id="fs-id2081310">active transport mechanism that works against electrochemical gradients</meaning></definition>
+<definition id="fs-id1812289"><term>secondary active transport</term> <meaning id="fs-id1770868">movement of material that is due to the electrochemical gradient established by primary active transport</meaning></definition>
+<definition id="fs-id2138528"><term>symporter</term> <meaning id="fs-id1778374">transporter that carries two different ions or small molecules, both in the same direction</meaning></definition>
+<definition id="fs-id1760402"><term>transporter</term> <meaning id="fs-id1863345">specific carrier proteins or pumps that facilitate movement</meaning></definition>
+<definition id="fs-id1809183"><term>uniporter</term> <meaning id="fs-id2292266">transporter that carries one specific ion or molecule</meaning></definition>
+</glossary>
+</document>
