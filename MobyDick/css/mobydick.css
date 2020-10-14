@@ -15,12 +15,24 @@ box-decoration-break: clone;
 
 
 
-/*
+
 div.galley-rw {
 width: 30em;
 background-color: white;
-padding: 2em;
 margin: 0 auto 0 auto;
+
+
+    height: 400px;
+    overflow-x: scroll;
+    column-width: 30em;
+    
+    scroll-snap-type: x mandatory;
+    -ms-scroll-snap-points-x: repeat(100%);
+    -webkit-scroll-snap-points-x: repeat(100%);
+    scroll-snap-points-x: repeat(100%);
+    
+scroll-snap-stop: always;
+box-decoration-break: clone;
 }
 
 div.controls {
@@ -59,10 +71,11 @@ height: 100vh;
 }
 
 body {
-overflow: -o-paged-x;
+
+ 
 background-color: #F8F8F8;
 }
-*/
+
 
 
 @font-face {
